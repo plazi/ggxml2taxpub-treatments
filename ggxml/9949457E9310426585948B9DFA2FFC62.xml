@@ -1,0 +1,450 @@
+<document ID-DOI="10.26107/RBZ-2020-0007" ID-ISSN="2345-7600" ID-Zenodo-Dep="4576952" ID-ZooBank="F2DBADA0-C79F-4288-BF7C-86B661CB4B3F" _generate="added" approvalRequired="5" approvalRequired_for_textStreams="5" checkinTime="1614781024048" checkinUser="carolina" docAuthor="Ahyong, Shane T., Mitra, Santanu &amp; Ng, Peter K. L." docDate="2020" docId="9949457E9310426585948B9DFA2FFC62" docLanguage="en" docName="RafflesBZool.68.62-69.pdf" docOrigin="Raffles Bulletin of Zoology 68" docStyle="DocumentStyle:AF09A0581917EACD12E7F0991C3E7C26.4:RafflesBZool.2019-.journal_article" docStyleId="AF09A0581917EACD12E7F0991C3E7C26" docStyleName="RafflesBZool.2019-.journal_article" docStyleVersion="4" docTitle="Cymonomus andamanicus Alcock 1905" docType="treatment" docVersion="2" lastPageId="3" lastPageNumber="65" masterDocId="65703D0693124266855B8900FFECFFD7" masterDocTitle="Cymonomid crabs from southwestern Indonesia and redescription of Cymonomus andamanicus Alcock, 1905" masterLastPageNumber="69" masterPageNumber="62" pageId="2" pageNumber="64" updateTime="1614785615558" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo>
+<mods:title>Cymonomid crabs from southwestern Indonesia and redescription of Cymonomus andamanicus Alcock, 1905</mods:title>
+</mods:titleInfo>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Ahyong, Shane T.</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Mitra, Santanu</mods:namePart>
+</mods:name>
+<mods:name type="personal">
+<mods:role>
+<mods:roleTerm>Author</mods:roleTerm>
+</mods:role>
+<mods:namePart>Ng, Peter K. L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:relatedItem type="host">
+<mods:titleInfo>
+<mods:title>Raffles Bulletin of Zoology</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:date>2020</mods:date>
+<mods:detail type="pubDate">
+<mods:number>2020-03-26</mods:number>
+</mods:detail>
+<mods:detail type="volume">
+<mods:number>68</mods:number>
+</mods:detail>
+<mods:extent unit="page">
+<mods:start>62</mods:start>
+<mods:end>69</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification>journal article</mods:classification>
+<mods:identifier type="DOI">10.26107/RBZ-2020-0007</mods:identifier>
+<mods:identifier type="ISSN">2345-7600</mods:identifier>
+<mods:identifier type="Zenodo-Dep">4576952</mods:identifier>
+<mods:identifier type="ZooBank">F2DBADA0-C79F-4288-BF7C-86B661CB4B3F</mods:identifier>
+</mods:mods>
+<treatment LSID="urn:lsid:plazi:treatment:9949457E9310426585948B9DFA2FFC62" httpUri="http://treatment.plazi.org/id/9949457E9310426585948B9DFA2FFC62" lastPageId="3" lastPageNumber="65" pageId="2" pageNumber="64">
+<subSubSection box="[207,657,669,693]" pageId="2" pageNumber="64" type="nomenclature">
+<paragraph blockId="2.[207,657,669,725]" box="[207,657,669,693]" pageId="2" pageNumber="64">
+<heading bold="true" box="[207,657,669,693]" centered="true" fontSize="10" level="2" pageId="2" pageNumber="64" reason="2">
+<taxonomicName authority="Alcock, 1905" authorityName="Alcock" authorityYear="1905" box="[207,657,669,693]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="64" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis bold="true" box="[207,657,669,693]" pageId="2" pageNumber="64">
+<emphasis bold="true" box="[207,501,669,693]" italics="true" pageId="2" pageNumber="64">Cymonomus andamanicus</emphasis>
+<bibRefCitation author="Alcock A" box="[510,657,669,693]" pageId="2" pageNumber="64" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock, 1905</bibRefCitation>
+</emphasis>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection box="[371,492,701,725]" pageId="2" pageNumber="64" type="description">
+<paragraph blockId="2.[207,657,669,725]" box="[371,492,701,725]" pageId="2" pageNumber="64">
+(
+<figureCitation box="[379,455,701,725]" captionStart="Fig" captionStartId="1.[136,171,1991,2013]" captionTargetBox="[136,1474,232,1977]" captionTargetId="figure-8@1.[136,1474,232,2000]" captionTargetPageId="1" captionText="Fig. 1. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, B, dorsal habitus; C, right cheliped and pereopods 2 and 3, anteroventral view; D, carapace, left oblique view; E, abdomen; F, anterior cephalothorax, ventral view; G, cephalothorax, anterior view. (B, F, G from Alcock et al., 1907: pl. 79, 2, 2a, b)." figureDoi="http://doi.org/10.5281/zenodo.4576954" httpUri="https://zenodo.org/record/4576954/files/figure.png" pageId="2" pageNumber="64">Figs. 1</figureCitation>
+, 
+<figureCitation box="[470,484,701,725]" captionStart="Fig" captionStartId="2.[813,848,641,663]" captionTargetBox="[814,1452,189,626]" captionTargetId="figure-715@2.[800,1464,175,638]" captionTargetPageId="2" captionText="Fig. 2. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, anterior epistome, ventral view; B, right epistomial spine mesial to base of antenna; C, pleotelson; D, right pereopod 5 dactylus. Scale: A, C = 1.0; B, D = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.4576956" httpUri="https://zenodo.org/record/4576956/files/figure.png" pageId="2" pageNumber="64">2</figureCitation>
+)
+</paragraph>
+</subSubSection>
+<subSubSection pageId="2" pageNumber="64" type="reference_group">
+<paragraph blockId="2.[113,752,764,1016]" pageId="2" pageNumber="64">
+<treatmentCitationGroup pageId="2" pageNumber="64">
+<taxonomicName authority="Alcock, 1905: 568 - 569" authorityName="Alcock" authorityPageNumber="568 - 569" authorityYear="1905" box="[113,608,764,786]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="64" phylum="Arthropoda" rank="species" species="andamanicus">
+<treatmentCitation author="Alcock A" box="[113,608,764,786]" page="569" pageId="2" pageNumber="64" year="1905">
+<emphasis box="[113,367,764,785]" italics="true" pageId="2" pageNumber="64">Cymonomus andamanicus</emphasis>
+<bibRefCitation author="Alcock A" box="[375,608,764,786]" pageId="2" pageNumber="64" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock, 1905: 568–569</bibRefCitation>
+</treatmentCitation>
+</taxonomicName>
+, pl. 18 figs. 1, 1a, 1b. — 
+<bibRefCitation author="Alcock A &amp; Annandale N &amp; MacGilchrist AC" box="[255,445,793,815]" pageId="2" pageNumber="64" refId="ref5485" refString="Alcock A, Annandale N &amp; MacGilchrist AC (1907) Illustrations of the Zoology of the Royal Indian Marine Survey Ship Investigator, under the command of Captain T. H. Heming, R. N. (Retired). Crustacea (Malacostraca) - pt. XII, pls. LXXVII-LXXIX. Crustacea (Entomostraca) - pt. I, pls. I- II. Mollusca-pt. IV, pls. XIV-XVIII. Published under the Authority of Captain G. H. Hewett, R. N., Director of the Royal Indian Marine. Office of the Superintendent of Government Printing, Calcutta, India, 16 pp., 10 pls." type="book" year="1907">Alcock et al., 1907</bibRefCitation>
+: pl. 79, 2, 2a, b. — 
+<bibRefCitation author="Dell RK" pageId="2" pageNumber="64" pagination="55 - 64" refId="ref5775" refString="Dell RK (1971) Two new species of crabs of the genus Cymonomus from New Zealand (Crustacea: Brachyura). Records of the Dominion Museum, 7: 55 - 64." type="journal article" year="1971">
+<treatmentCitation author="Dell RK" page="61" pageId="2" pageNumber="64" year="1971">Dell, 1971: 61</treatmentCitation>
+</bibRefCitation>
+, 62. — 
+<bibRefCitation author="Griffin DJG &amp; Brown DE" box="[254,530,821,843]" pageId="2" pageNumber="64" pagination="248 - 271" refId="ref5894" refString="Griffin DJG &amp; Brown DE (1976) Deepwater decapod Crustacea from eastern Australia: brachyuran crabs. Records of the Australian Museum, 30: 248 - 271." type="journal article" year="1976">
+<treatmentCitation author="Griffin DJG &amp; Brown DE" box="[254,530,821,843]" page="252" pageId="2" pageNumber="64" year="1976">Griffin &amp; Brown, 1976: 252</treatmentCitation>
+</bibRefCitation>
+. — 
+<bibRefCitation author="Ahyong ST &amp; Brown DE" pageId="2" pageNumber="64" pagination="1363 - 1374" refId="ref5177" refString="Ahyong ST &amp; Brown DE (2003) New species of Cymonomus from southeastern Australia (Brachyura, Cymonomidae) with a key to the Indo-West Pacific species. Crustaceana, 75: 1363 - 1374." type="journal article" year="2003">
+<treatmentCitation author="Ahyong ST &amp; Brown DE" page="1372" pageId="2" pageNumber="64" year="2003">Ahyong &amp; Brown, 2003: 1372</treatmentCitation>
+</bibRefCitation>
+, 1373. — 
+<bibRefCitation author="Ng PKL &amp; Guinot D &amp; Davie PJF" box="[370,560,850,872]" pageId="2" pageNumber="64" pagination="1 - 286" refId="ref6158" refString="Ng PKL, Guinot D &amp; Davie PJF (2008) Systema Brachyurorum: Part I. An annotated checklist of extant brachyuran crabs of the world. Raffles Bulletin of Zoology, Supplement 17: 1 - 286." type="journal article" year="2008">
+<treatmentCitation author="Ng PKL &amp; Guinot D &amp; Davie PJF" box="[370,560,850,872]" page="32" pageId="2" pageNumber="64" year="2008">Ng et al., 2008: 32</treatmentCitation>
+</bibRefCitation>
+. — 
+<bibRefCitation author="Ahyong ST &amp; Ng PKL" pageId="2" pageNumber="64" pagination="233 - 246" refId="ref5292" refString="Ahyong ST &amp; Ng PKL (2009) The Cymonomidae of the Philippines (Crustacea: Decapoda: Brachyura), with descriptions of four new species. Raffles Bulletin of Zoology, Supplement 20: 233 - 246." type="journal article" year="2009">
+<treatmentCitation author="Ahyong ST &amp; Ng PKL" page="237" pageId="2" pageNumber="64" year="2009">Ahyong &amp; Ng, 2009: 237</treatmentCitation>
+</bibRefCitation>
+. — 
+<bibRefCitation author="Dev Roy MK &amp; Nandi NC" box="[296,544,879,901]" pageId="2" pageNumber="64" pagination="185 - 236" refId="ref5839" refString="Dev Roy MK &amp; Nandi NC (2012) Brachyuran crabs (Crustacea). In: Director ZSI, Kolkata (ed.) Fauna of Andaman and Nicobar Islands. State Fauna Series. Volume 19. Part 1. Zoological Survey of India, Kolkata. Pp. 185 - 236." type="book chapter" year="2012">Dev Roy &amp; Nandi, 2012</bibRefCitation>
+: tab. 1. — 
+<bibRefCitation author="Dev Roy MK" pageId="2" pageNumber="64" pagination="77 - 98" refId="ref5810" refString="Dev Roy MK (2015) Conservation concerns on crustacean fauna of India. Journal of Environment and Sociobiology, 12 (1): 77 - 98." type="journal article" year="2015">
+<treatmentCitation author="Dev Roy MK" page="78" pageId="2" pageNumber="64" year="2015">Dev Roy, 2015: 78</treatmentCitation>
+</bibRefCitation>
+. — 
+<bibRefCitation author="Ahyong ST &amp; Ng PKL" box="[279,503,908,930]" pageId="2" pageNumber="64" pagination="1 - 20" refId="ref5366" refString="Ahyong ST &amp; Ng PKL (2017) East Asian cymonomid crabs (Crustacea: Brachyura). Zoological Studies, 56: 1 - 20." type="journal article" year="2017">
+<treatmentCitation author="Ahyong ST &amp; Ng PKL" box="[279,503,908,930]" page="1" pageId="2" pageNumber="64" year="2017">Ahyong &amp; Ng, 2017: 1</treatmentCitation>
+</bibRefCitation>
+, 4, 6, 7. — 
+<bibRefCitation author="Trivedi JN &amp; Trivedi DJ &amp; Vachhrajani KD &amp; Ng PKL" pageId="2" pageNumber="64" pagination="1 - 83" refId="ref6550" refString="Trivedi JN, Trivedi DJ, Vachhrajani KD &amp; Ng PKL (2018) An annotated checklist of the marine brachyuran crabs (Crustacea: Decapoda: Brachyura) of India. Zootaxa, 4502: 1 - 83." type="journal article" year="2018">
+<treatmentCitation author="Trivedi JN &amp; Trivedi DJ &amp; Vachhrajani KD &amp; Ng PKL" page="33" pageId="2" pageNumber="64" year="2018">Trivedi et al., 2018: 33</treatmentCitation>
+</bibRefCitation>
+. — 
+<bibRefCitation author="Ahyong ST" box="[282,462,937,959]" pageId="2" pageNumber="64" pagination="33 - 69" refId="ref5145" refString="Ahyong ST (2019) Cymonomid crabs from New Zealand and Australia (Crustacea: Decapoda: Cyclodorippoida). Records of the Australian Museum, 71: 33 - 69." type="journal article" year="2019">
+<treatmentCitation author="Ahyong ST" box="[282,462,937,959]" page="34" pageId="2" pageNumber="64" year="2019">Ahyong, 2019: 34</treatmentCitation>
+</bibRefCitation>
+, 50.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph blockId="2.[113,752,764,1016]" box="[113,568,965,987]" pageId="2" pageNumber="64">
+<treatmentCitationGroup box="[113,568,965,987]" pageId="2" pageNumber="64">
+<taxonomicName box="[113,358,965,987]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="64" phylum="Arthropoda" rank="species" species="andamanica">
+<emphasis box="[113,358,965,987]" italics="true" pageId="2" pageNumber="64">Cymonomus andamanica</emphasis>
+</taxonomicName>
+— 
+<bibRefCitation author="Balss H" box="[397,564,965,987]" pageId="2" pageNumber="64" pagination="104 - 140" refId="ref5606" refString="Balss H (1922) Ostasiatische Decapoden. III. Die Dromiaceen, Oxystomen und Parthenopiden. Archiv fur Naturgeschichte, 88 (A): 104 - 140, figs. 1 - 9." type="journal article" year="1922">
+<treatmentCitation author="Balss H" box="[397,564,965,987]" page="117" pageId="2" pageNumber="64" year="1922">Balss, 1922: 117</treatmentCitation>
+</bibRefCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph blockId="2.[113,752,764,1016]" box="[113,680,994,1016]" pageId="2" pageNumber="64">
+<treatmentCitationGroup box="[113,680,994,1016]" pageId="2" pageNumber="64">
+<taxonomicName box="[113,470,994,1016]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="2" pageNumber="64" phylum="Arthropoda" rank="subSpecies" species="granulatus" subSpecies="andamanica">
+<emphasis box="[113,470,994,1016]" italics="true" pageId="2" pageNumber="64">Cymonomus granulatus andamanica</emphasis>
+</taxonomicName>
+— 
+<bibRefCitation author="Balss H" box="[509,676,994,1016]" pageId="2" pageNumber="64" pagination="104 - 140" refId="ref5606" refString="Balss H (1922) Ostasiatische Decapoden. III. Die Dromiaceen, Oxystomen und Parthenopiden. Archiv fur Naturgeschichte, 88 (A): 104 - 140, figs. 1 - 9." type="journal article" year="1922">
+<treatmentCitation author="Balss H" box="[509,676,994,1016]" page="118" pageId="2" pageNumber="64" year="1922">Balss, 1922: 118</treatmentCitation>
+</bibRefCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection pageId="2" pageNumber="64" type="materials_examined">
+<paragraph blockId="2.[113,751,1056,1209]" pageId="2" pageNumber="64">
+<emphasis bold="true" box="[113,338,1056,1080]" pageId="2" pageNumber="64">Material examined.</emphasis>
+<materialsCitation collectingDate="1903-11-20" collectionCode="RIMSS, INVESTIGATOR" elevation="692" latitude="11.441667" longLatPrecision="21" longitude="92.89583" pageId="2" pageNumber="64" specimenCount="1" typeStatus="holotype">
+<typeStatus box="[348,451,1056,1080]" pageId="2" pageNumber="64">Holotype</typeStatus>
+: ZSI 4963/10, male (cl 
+<quantity metricMagnitude="-3" metricUnit="m" metricValue="8.7" pageId="2" pageNumber="64" unit="mm" value="8.7">8.7 mm</quantity>
+, pcl 
+<quantity box="[205,289,1088,1112]" metricMagnitude="-3" metricUnit="m" metricValue="7.6" pageId="2" pageNumber="64" unit="mm" value="7.6">7.6 mm</quantity>
+, cw 
+<quantity box="[336,421,1089,1113]" metricMagnitude="-3" metricUnit="m" metricValue="8.8" pageId="2" pageNumber="64" unit="mm" value="8.8">8.8 mm</quantity>
+), Andaman basin, 
+<geoCoordinate box="[618,747,1087,1113]" degrees="11" direction="north" minutes="26" orientation="latitude" pageId="2" pageNumber="64" precision="15" seconds="30" value="11.441667">11°26′30″N</geoCoordinate>
+, 
+<geoCoordinate box="[113,247,1119,1145]" degrees="92" direction="east" minutes="53" orientation="longitude" pageId="2" pageNumber="64" precision="15" seconds="45" value="92.89583">92°53′45″E</geoCoordinate>
+, 378 fm (
+<quantity box="[368,448,1120,1145]" metricMagnitude="2" metricUnit="m" metricValue="6.92" pageId="2" pageNumber="64" unit="m" value="692.0">
+<elevation box="[368,448,1120,1145]" metricMagnitude="2" metricUnit="m" metricValue="6.92" pageId="2" pageNumber="64" unit="m" value="692.0">692 m</elevation>
+</quantity>
+), bottom green mud with Foraminifera, 
+<collectionCode box="[287,598,1153,1177]" pageId="2" pageNumber="64">RIMSS INVESTIGATOR</collectionCode>
+, stn 322, 
+<date pageId="2" pageNumber="64" value="1903-11-20">
+<collectingDate pageId="2" pageNumber="64" value="1903-11-20">20 November 1903</collectingDate>
+</date>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection lastPageId="3" lastPageNumber="65" pageId="2" pageNumber="64" type="description">
+<paragraph blockId="2.[111,753,1248,1944]" pageId="2" pageNumber="64">
+<emphasis bold="true" box="[113,381,1248,1273]" pageId="2" pageNumber="64">
+Description of 
+<typeStatus box="[277,377,1249,1273]" pageId="2" pageNumber="64">holotype</typeStatus>
+.
+</emphasis>
+Carapace quadrate, lateral margins gently divergent posteriorly; regions weakly indicated; lower pterygostomian region swollen; surfaces sparsely setose. Anterolateral spine short, conical; with 1 or 2 small anteriorly directed spines on lateral margin behind anterolateral spine. Dorsal and lateral surfaces entirely covered with minute granules, granules becoming larger and more elongate anterolaterally. Fronto-orbital margin (excluding rostrum and outerorbital processes) advanced slightly beyond anterolateral margins; 0.66× anterior carapace width; outer orbital processes, pointed, directed anteriorly, triangular in lateral view, situated below plane of rostrum, laterally with acute granules, small spines, reaching midlength of rostrum. Rostrum small, about half-length of eyestalks; 0.15× pcl; triangular, apex acute, margins straight, coarsely granulate laterally and dorsally. Eyestalks distinctly divergent, ~30° to median axis, flattened, stout, width at midlength exceeding one-third length, fused to carapace below rostral base but demarcated from frontal margin; reaching anteriorly slightly beyond midlength of antennular peduncle article 1; dorsal surface minutely granulate, lateral and mesial margins weakly spinulate; cornea apparently vestigial, not pigmented.
+</paragraph>
+<paragraph blockId="2.[112,751,1984,2105]" lastBlockId="2.[812,1453,833,1113]" pageId="2" pageNumber="64">Epistome surface granulate, small tubercle at base of rostrum and tubercle mesial to base of antennule; curved spine mesial to base of antenna. Antennular peduncle 0.88× pcl; articles 1 and 2 minutely granulate, article 3 smooth. Antennal articles 1–4 irregularly granulate or minutely spinular; article 5 minutely granulate. Maxilliped 3 ischiobasis subquadrate, granulate and minutely spinular distally; longitudinal sublateral groove; ischium and basis demarcated by faint groove. Merus shorter than ischium; length twice width, tapering distally to rounded apex; surface and margins spinulate. Dactylus, propodus and carpus sparsely spinulate. Carpo-meral articulation at merus mid-length. Exopod surface sparsely granulate; apex reaching to carpo-meral articulation.</paragraph>
+<paragraph blockId="2.[811,1453,1153,1817]" pageId="2" pageNumber="64">Chelipeds (pereopods 1) equal in size and ornamentation, sparsely setose. Merus finely granulate, scattered small spines. Carpus finely granulate, dorsal margin with few short spines. Propodus palm surfaces coarsely granulate, dorsal and ventral margins irregularly spinulate. Dactylus longer than dorsal palm length; proximal dorsal two-thirds with spines and granules; outer surface with faint longitudinal carina; occlusal surfaces of dactylus and pollex crenulate, without gape when fingers closed. Pereopods 2 and 3 sparsely setose; all articles finely granulate; propodus, carpus and merus with serrated granules and scattered spinules on extensor margins. Pereopod 3 longest; merus 1.03× pcl. Dactylus broadly curved, few granules or small spines proximally, with longitudinal rib, though less distinct proximally; setose. Pereopod 3 dactylus about as long as combined length of propodus and carpus. Pereopods 4 and 5 minutely granulate, sparsely setose; longer than pereopod 3; dactylus markedly shorter than propodus, length 1.5× height, falcate, apex corneous apex, flexor margin with 3 obliquely inclined corneous spines. Pereopod 5 merus, when folded against carapace, reaching anterior one-third of carapace.</paragraph>
+<paragraph blockId="2.[813,1451,1857,1945]" pageId="2" pageNumber="64">Thoracic sternite 3 pentagonal, width 1.5× length; margins divergent posteriorly, anteriorly divergent at acute angle; surface granulate. Margins of sternites 4 and 5 granulate.</paragraph>
+<paragraph blockId="2.[813,1451,1985,2106]" pageId="2" pageNumber="64">Abdomen with margins and surface finely granulate or minutely spinulate. Pleotelson with somite 6 and telson immovably fused, demarcation indicated by lateral notch in margin and as faint, partial groove on lateral surface;</paragraph>
+<paragraph blockId="3.[136,774,189,245]" pageId="3" pageNumber="65">
+telson broadly rounded, width 2.4× length. Gonopods not preserved in 
+<typeStatus box="[278,375,221,245]" pageId="3" pageNumber="65">holotype</typeStatus>
+.
+</paragraph>
+</subSubSection>
+<subSubSection pageId="3" pageNumber="65" type="discussion">
+<paragraph blockId="3.[134,777,285,1813]" pageId="3" pageNumber="65">
+<emphasis bold="true" box="[136,247,285,309]" pageId="3" pageNumber="65">Remarks.</emphasis>
+The male 
+<typeStatus box="[362,455,285,309]" pageId="3" pageNumber="65">holotype</typeStatus>
+of 
+<taxonomicName authority="Alcock, 1905" authorityName="Alcock" authorityYear="1905" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[494,775,285,309]" italics="true" pageId="3" pageNumber="65">Cymonomus andamanicus</emphasis>
+<bibRefCitation author="Alcock A" box="[136,293,317,341]" pageId="3" pageNumber="65" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock, 1905</bibRefCitation>
+</taxonomicName>
+, collected from off the Andaman Islands remains the only known specimen of the species to date. Apart from references to original account and figures of the 
+<typeStatus box="[136,229,413,437]" pageId="3" pageNumber="65">holotype</typeStatus>
+(
+<bibRefCitation author="Alcock A" box="[243,390,413,437]" pageId="3" pageNumber="65" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock, 1905</bibRefCitation>
+; 
+<bibRefCitation author="Alcock A &amp; Annandale N &amp; MacGilchrist AC" box="[401,605,413,437]" pageId="3" pageNumber="65" refId="ref5485" refString="Alcock A, Annandale N &amp; MacGilchrist AC (1907) Illustrations of the Zoology of the Royal Indian Marine Survey Ship Investigator, under the command of Captain T. H. Heming, R. N. (Retired). Crustacea (Malacostraca) - pt. XII, pls. LXXVII-LXXIX. Crustacea (Entomostraca) - pt. I, pls. I- II. Mollusca-pt. IV, pls. XIV-XVIII. Published under the Authority of Captain G. H. Hewett, R. N., Director of the Royal Indian Marine. Office of the Superintendent of Government Printing, Calcutta, India, 16 pp., 10 pls." type="book" year="1907">Alcock et al., 1907</bibRefCitation>
+), all subsequent published records of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[371,549,445,469]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[371,549,445,469]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+(
+<bibRefCitation author="Sakai T" box="[566,700,445,469]" pageId="3" pageNumber="65" refId="ref6248" refString="Sakai T (1965) The crabs of Sagami Bay, collected by His Majesty the Emperor of Japan. Maruzen, Tokyo, xvi + 206 pp. (in English), 100 pls., 92 pp. (in Japanese), 32 pp. (bibliography and index, in English and Japanese), 1 map." type="book" year="1965">Sakai, 1965</bibRefCitation>
+, 
+<bibRefCitation author="Sakai T" box="[714,771,445,469]" pageId="3" pageNumber="65" refId="ref6311" refString="Sakai T (1976) Crabs of Japan and the Adjacent Seas. Kodansha, Tokyo, vol. 1, xxxix + 773 pp.; vol. 2, 461 pp.; vol. 3, 16 pp., 251 pls." type="book" year="1976">1976</bibRefCitation>
+; 
+<bibRefCitation author="Nagai S" box="[136,271,477,501]" pageId="3" pageNumber="65" pagination="49 - 53" refId="ref6137" refString="Nagai S (1994) Some remarkable crabs of Wakayama Prefecture III. Nankiseibutu, 36: 49 - 53." type="journal article" year="1994">Nagai, 1994</bibRefCitation>
+; 
+<bibRefCitation author="Ho PH &amp; Ng PKL &amp; Chan TY &amp; Lee DA" box="[282,446,477,501]" pageId="3" pageNumber="65" pagination="641 - 668" refId="ref5924" refString="Ho PH, Ng PKL, Chan TY &amp; Lee DA (2004) New records of 31 species of brachyuran crabs from the joint Taiwan-France expeditions, &quot; TAIWAN 2000 &quot; and &quot; TAIWAN 2001 &quot;, off deep waters in Taiwan. Crustaceana, 77: 641 - 668." type="journal article" year="2004">Ho et al., 2004</bibRefCitation>
+; 
+<bibRefCitation author="Poore GCB &amp; McCallum AW &amp; Taylor J" box="[457,651,477,501]" pageId="3" pageNumber="65" pagination="1 - 106" refId="ref6198" refString="Poore GCB, McCallum AW &amp; Taylor J (2008) Decapod Crustacea of the continental margin of southwestern and central Western Australia: preliminary identifications of 524 species from FRV Southern Surveyor voyage SS 10 - 2005. Museum Victoria Science Reports, 11: 1 - 106." type="journal article" year="2008">Poore et al., 2008</bibRefCitation>
+; Ahyong et al., 2009) are based on other species (
+<bibRefCitation author="Ahyong ST &amp; Ng PKL" box="[543,771,509,534]" pageId="3" pageNumber="65" pagination="1 - 20" refId="ref5366" refString="Ahyong ST &amp; Ng PKL (2017) East Asian cymonomid crabs (Crustacea: Brachyura). Zoological Studies, 56: 1 - 20." type="journal article" year="2017">Ahyong &amp; Ng, 2017</bibRefCitation>
+; 
+<bibRefCitation author="Ahyong ST" box="[136,292,541,565]" pageId="3" pageNumber="65" pagination="33 - 69" refId="ref5145" refString="Ahyong ST (2019) Cymonomid crabs from New Zealand and Australia (Crustacea: Decapoda: Cyclodorippoida). Records of the Australian Museum, 71: 33 - 69." type="journal article" year="2019">Ahyong, 2019</bibRefCitation>
+). Although well-documented by the standards of its day, the 
+<typeStatus box="[305,400,573,597]" pageId="3" pageNumber="65">holotype</typeStatus>
+of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[443,622,573,597]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[443,622,573,597]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+has not been re-studied since it was first described, and information on the form and segmentation of the abdomen is completely lacking in the original account and figures. Therefore, taxonomic decisions supporting other species in the 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+group have relied entirely on the incomplete original description and figures of the 
+<typeStatus box="[461,554,765,789]" pageId="3" pageNumber="65">holotype</typeStatus>
+of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[593,768,765,789]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[593,768,765,789]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+. Unfortunately, the 
+<typeStatus box="[331,423,797,821]" pageId="3" pageNumber="65">holotype</typeStatus>
+of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[453,622,797,821]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[453,622,797,821]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+is now in poor condition, being significantly disarticulated, with damage to the carapace and posterior pereopods, and loss of the maxillipeds 3 and gonopods (
+<figureCitation box="[459,545,893,917]" captionStart="Fig" captionStartId="1.[136,171,1991,2013]" captionTargetBox="[136,1474,232,1977]" captionTargetId="figure-8@1.[136,1474,232,2000]" captionTargetPageId="1" captionText="Fig. 1. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, B, dorsal habitus; C, right cheliped and pereopods 2 and 3, anteroventral view; D, carapace, left oblique view; E, abdomen; F, anterior cephalothorax, ventral view; G, cephalothorax, anterior view. (B, F, G from Alcock et al., 1907: pl. 79, 2, 2a, b)." figureDoi="http://doi.org/10.5281/zenodo.4576954" httpUri="https://zenodo.org/record/4576954/files/figure.png" pageId="3" pageNumber="65">Fig. 1A</figureCitation>
+, C–E). Nevertheless, what remains of the 
+<typeStatus box="[369,463,925,949]" pageId="3" pageNumber="65">holotype</typeStatus>
+of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[506,684,925,949]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[506,684,925,949]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+permits clarification of ambiguities or errors in the original accounts (
+<bibRefCitation author="Alcock A" box="[143,293,989,1013]" pageId="3" pageNumber="65" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock, 1905</bibRefCitation>
+: pl. 18; 
+<bibRefCitation author="Alcock A &amp; Annandale N &amp; MacGilchrist AC" box="[382,591,989,1013]" pageId="3" pageNumber="65" refId="ref5485" refString="Alcock A, Annandale N &amp; MacGilchrist AC (1907) Illustrations of the Zoology of the Royal Indian Marine Survey Ship Investigator, under the command of Captain T. H. Heming, R. N. (Retired). Crustacea (Malacostraca) - pt. XII, pls. LXXVII-LXXIX. Crustacea (Entomostraca) - pt. I, pls. I- II. Mollusca-pt. IV, pls. XIV-XVIII. Published under the Authority of Captain G. H. Hewett, R. N., Director of the Royal Indian Marine. Office of the Superintendent of Government Printing, Calcutta, India, 16 pp., 10 pls." type="book" year="1907">Alcock et al., 1907</bibRefCitation>
+: pl. 79, 2, 2a, b). Our redescription is based on restudy of the 
+<typeStatus box="[614,710,1021,1045]" pageId="3" pageNumber="65">holotype</typeStatus>
+, apart from details of maxilliped 3, which are based on Alcock’s figures. Most significantly, the telson and abdominal somite 6 of 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[185,359,1117,1141]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[185,359,1117,1141]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+are confirmed to be demarcated, albeit weakly (
+<figureCitation box="[227,318,1149,1173]" captionStart="Fig" captionStartId="1.[136,171,1991,2013]" captionTargetBox="[136,1474,232,1977]" captionTargetId="figure-8@1.[136,1474,232,2000]" captionTargetPageId="1" captionText="Fig. 1. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, B, dorsal habitus; C, right cheliped and pereopods 2 and 3, anteroventral view; D, carapace, left oblique view; E, abdomen; F, anterior cephalothorax, ventral view; G, cephalothorax, anterior view. (B, F, G from Alcock et al., 1907: pl. 79, 2, 2a, b)." figureDoi="http://doi.org/10.5281/zenodo.4576954" httpUri="https://zenodo.org/record/4576954/files/figure.png" pageId="3" pageNumber="65">Figs. 1E</figureCitation>
+, 
+<figureCitation box="[329,363,1149,1173]" captionStart="Fig" captionStartId="2.[813,848,641,663]" captionTargetBox="[814,1452,189,626]" captionTargetId="figure-715@2.[800,1464,175,638]" captionTargetPageId="2" captionText="Fig. 2. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, anterior epistome, ventral view; B, right epistomial spine mesial to base of antenna; C, pleotelson; D, right pereopod 5 dactylus. Scale: A, C = 1.0; B, D = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.4576956" httpUri="https://zenodo.org/record/4576956/files/figure.png" pageId="3" pageNumber="65">2C</figureCitation>
+), enabling a more complete taxonomic characterisation of the species and of the 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[616,700,1181,1205]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[616,700,1181,1205]" italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+group overall. A distinct notch on either side of the pleotelson marks the lateral marginal separation between the telson and abdominal somite 6 but the demarcation on the pleotelson surface is less obvious. Whereas the telson and abdominal somite 6 are clearly demarcated by a distinct, complete groove in 
+<taxonomicName authorityName="Chace" authorityYear="1940" box="[252,380,1373,1397]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cubensis">
+<emphasis box="[252,380,1373,1397]" italics="true" pageId="3" pageNumber="65">C. cubensis</emphasis>
+</taxonomicName>
+(both sexes), 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[541,624,1373,1397]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[541,624,1373,1397]" italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+(both sexes), 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2009" box="[136,265,1405,1429]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="diogenes">
+<emphasis box="[136,265,1405,1429]" italics="true" pageId="3" pageNumber="65">C. diogenes</emphasis>
+</taxonomicName>
+(males only), and 
+<taxonomicName authority="Ahyong &amp; Mitra &amp; Ng, 2020" authorityName="Ahyong &amp; Mitra &amp; Ng" authorityYear="2020" box="[477,557,1406,1429]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="java" status="new species">
+<emphasis box="[477,557,1406,1429]" italics="true" pageId="3" pageNumber="65">C. java</emphasis>
+</taxonomicName>
+, 
+<taxonomicNameLabel box="[573,704,1405,1429]" pageId="3" pageNumber="65" rank="species">new species</taxonomicNameLabel>
+(male only known), the demarcation in male 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[570,746,1437,1461]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[570,746,1437,1461]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+is obscure, being indicated only by a partial, shallow, indistinct groove present laterally, similar to that of male 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[647,775,1502,1525]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[647,775,1502,1525]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+(see 
+<bibRefCitation author="Ahyong ST &amp; Ng PKL" box="[185,405,1533,1558]" pageId="3" pageNumber="65" pagination="1 - 20" refId="ref5366" refString="Ahyong ST &amp; Ng PKL (2017) East Asian cymonomid crabs (Crustacea: Brachyura). Zoological Studies, 56: 1 - 20." type="journal article" year="2017">Ahyong &amp; Ng, 2017</bibRefCitation>
+: fig. 2I, J). The anterolateral spines on the carapace, described and figured as absent by 
+<bibRefCitation author="Alcock A" pageId="3" pageNumber="65" pagination="565 - 577" refId="ref5393" refString="Alcock A (1905) Natural history notes from the R. I. M. S. Ship ' Investigator', Capt. T. H. Heming, R. N. commanding. Series III, No. 9. On a new species of the dorippoid genus Cymonomus from the Andaman Sea, considered with reference to the distribution of the Dorippidae; with some remarks on the allied genus Cymonomops. Annals and Magazine of Natural History, Series 7, 15: 565 - 577." type="journal article" year="1905">Alcock (1905)</bibRefCitation>
+and 
+<bibRefCitation author="Alcock A &amp; Annandale N &amp; MacGilchrist AC" box="[263,482,1597,1621]" pageId="3" pageNumber="65" refId="ref5485" refString="Alcock A, Annandale N &amp; MacGilchrist AC (1907) Illustrations of the Zoology of the Royal Indian Marine Survey Ship Investigator, under the command of Captain T. H. Heming, R. N. (Retired). Crustacea (Malacostraca) - pt. XII, pls. LXXVII-LXXIX. Crustacea (Entomostraca) - pt. I, pls. I- II. Mollusca-pt. IV, pls. XIV-XVIII. Published under the Authority of Captain G. H. Hewett, R. N., Director of the Royal Indian Marine. Office of the Superintendent of Government Printing, Calcutta, India, 16 pp., 10 pls." type="book" year="1907">Alcock et al. (1907)</bibRefCitation>
+proved to be present in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+(
+<figureCitation box="[294,378,1629,1653]" captionStart="Fig" captionStartId="1.[136,171,1991,2013]" captionTargetBox="[136,1474,232,1977]" captionTargetId="figure-8@1.[136,1474,232,2000]" captionTargetPageId="1" captionText="Fig. 1. Cymonomus andamanicus Alcock, 1905, male holotype (cl 8.7 mm, pcl 7.6 mm, cw 8.8 mm), Andaman Sea, ZSI 4963/10: A, B, dorsal habitus; C, right cheliped and pereopods 2 and 3, anteroventral view; D, carapace, left oblique view; E, abdomen; F, anterior cephalothorax, ventral view; G, cephalothorax, anterior view. (B, F, G from Alcock et al., 1907: pl. 79, 2, 2a, b)." figureDoi="http://doi.org/10.5281/zenodo.4576954" httpUri="https://zenodo.org/record/4576954/files/figure.png" pageId="3" pageNumber="65">Fig. 1D</figureCitation>
+), as also in 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[508,586,1629,1653]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[508,586,1629,1653]" italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+and 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[641,769,1630,1653]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[641,769,1630,1653]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+, invalidating the value of the feature for distinguishing these species (
+<bibRefCitation author="Griffin DJG &amp; Brown DE" box="[234,505,1693,1717]" pageId="3" pageNumber="65" pagination="248 - 271" refId="ref5894" refString="Griffin DJG &amp; Brown DE (1976) Deepwater decapod Crustacea from eastern Australia: brachyuran crabs. Records of the Australian Museum, 30: 248 - 271." type="journal article" year="1976">Griffin &amp; Brown, 1976</bibRefCitation>
+; 
+<bibRefCitation author="Ahyong ST &amp; Ng PKL" box="[521,764,1693,1718]" pageId="3" pageNumber="65" pagination="1 - 20" refId="ref5366" refString="Ahyong ST &amp; Ng PKL (2017) East Asian cymonomid crabs (Crustacea: Brachyura). Zoological Studies, 56: 1 - 20." type="journal article" year="2017">Ahyong &amp; Ng, 2017</bibRefCitation>
+). Identification of the presence and position of the anterolateral spines also allowed accurate determination of the frontoorbital width as 0.66× anterior carapace width.
+</paragraph>
+<paragraph blockId="3.[135,775,1853,2101]" lastBlockId="3.[835,1474,189,885]" pageId="3" pageNumber="65">
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[136,430,1853,1877]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[136,430,1853,1877]" italics="true" pageId="3" pageNumber="65">Cymonomus andamanicus</emphasis>
+</taxonomicName>
+is morphologically nearest to 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[136,271,1886,1909]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[136,271,1886,1909]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+, sharing similar walking leg and antennular morphometrics. The two species, however, are distinguished by subtle differences in carapace shape (lateral margins distinctly divergent posteriorly in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[517,696,1981,2005]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[517,696,1981,2005]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+versus subparallel in 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[294,424,2014,2037]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[294,424,2014,2037]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+), rostral form (margins straight in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[165,339,2045,2069]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[165,339,2045,2069]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+versus concave in 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[550,677,2046,2069]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[550,677,2046,2069]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+), greater fronto-orbital width (0.67× anterior carapace width in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[750,977,189,2101]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[750,977,189,2101]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+versus 0.62 or less in 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[1236,1367,190,213]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[1236,1367,190,213]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+), and the position of the maxilliped 3 palp articulation on the merus (at midlength in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[1015,1189,253,277]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[1015,1189,253,277]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+versus distal to midlength in 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[869,1009,286,309]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[869,1009,286,309]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+). 
+<taxonomicName authority="Ahyong &amp; Mitra &amp; Ng, 2020" authorityName="Ahyong &amp; Mitra &amp; Ng" authorityYear="2020" box="[1040,1240,286,309]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="java" status="new species">
+<emphasis box="[1040,1240,286,309]" italics="true" pageId="3" pageNumber="65">Cymonomus java</emphasis>
+</taxonomicName>
+, 
+<taxonomicNameLabel box="[1259,1403,285,309]" pageId="3" pageNumber="65" rank="species">new species</taxonomicNameLabel>
+, from 
+<collectingCountry box="[835,944,317,341]" name="Indonesia" pageId="3" pageNumber="65">Indonesia</collectingCountry>
+, and 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[1009,1094,317,341]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[1009,1094,317,341]" italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+from 
+<collectingCountry box="[1168,1272,317,341]" name="Australia" pageId="3" pageNumber="65">Australia</collectingCountry>
+, can be separated from 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[895,1069,349,373]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[895,1069,349,373]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+by the same features as indicated for 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2017" box="[836,965,382,405]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis box="[836,965,382,405]" italics="true" pageId="3" pageNumber="65">C. cognatus</emphasis>
+</taxonomicName>
+(see the account of 
+<taxonomicName authorityName="Ahyong &amp; Mitra &amp; Ng" authorityYear="2020" box="[1188,1266,382,405]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="java">
+<emphasis box="[1188,1266,382,405]" italics="true" pageId="3" pageNumber="65">C. java</emphasis>
+</taxonomicName>
+, below, for further distinctions). 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[980,1165,413,437]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[980,1165,413,437]" italics="true" pageId="3" pageNumber="65">Cymonomus delli</emphasis>
+</taxonomicName>
+is further distinguished from 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[835,1019,445,469]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[835,1019,445,469]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+by the well-defined (versus indistinct) demarcation between the telson and abdominal somite 6 and the divergence of the anterior margins of thoracic sternite 3 (acute in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[1062,1243,541,565]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[1062,1243,541,565]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+versus obtuse in 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+). Similarly, 
+<taxonomicName authorityName="Chace" authorityYear="1940" box="[1024,1150,573,597]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="cubensis">
+<emphasis box="[1024,1150,573,597]" italics="true" pageId="3" pageNumber="65">C. cubensis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName authorityName="Griffin &amp; Brown" authorityYear="1976" box="[1209,1290,573,597]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="delli">
+<emphasis box="[1209,1290,573,597]" italics="true" pageId="3" pageNumber="65">C. delli</emphasis>
+</taxonomicName>
+also differ from 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[835,1014,605,629]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[835,1014,605,629]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+in the subparallel rather than posteriorly divergent lateral margins of the carapace and the strongly convex male telson. 
+<taxonomicName authorityName="Ahyong &amp; Ng" authorityYear="2009" box="[1063,1299,669,693]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="diogenes">
+<emphasis box="[1063,1299,669,693]" italics="true" pageId="3" pageNumber="65">Cymonomus diogenes</emphasis>
+</taxonomicName>
+from the South 
+<collectingCountry box="[835,902,701,725]" name="China" pageId="3" pageNumber="65">China</collectingCountry>
+Sea resembles 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[1091,1277,701,725]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[1091,1277,701,725]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+in the divergent carapace margins and maxilliped 3 palp position but is readily separated by the proportionally longer walking legs in males (pereopod 3 merus length about 1.4× pcl versus 1.1 or less in 
+<taxonomicName authorityName="Alcock" authorityYear="1905" box="[947,1123,829,853]" class="Malacostraca" family="Cymonomidae" genus="Cymonomus" kingdom="Animalia" order="Decapoda" pageId="3" pageNumber="65" phylum="Arthropoda" rank="species" species="andamanicus">
+<emphasis box="[947,1123,829,853]" italics="true" pageId="3" pageNumber="65">C. andamanicus</emphasis>
+</taxonomicName>
+), and clearly demarcated telson and abdominal somite 6.
+</paragraph>
+</subSubSection>
+<subSubSection box="[835,1475,925,950]" pageId="3" pageNumber="65" type="distribution">
+<paragraph blockId="3.[835,1475,925,950]" box="[835,1475,925,950]" pageId="3" pageNumber="65">
+<emphasis bold="true" box="[835,982,925,949]" pageId="3" pageNumber="65">Distribution.</emphasis>
+Presently known only from the 
+<typeStatus box="[1333,1379,926,950]" pageId="3" pageNumber="65">type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>
