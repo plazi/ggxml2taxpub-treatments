@@ -6,11 +6,11 @@
     -//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables with MathML3 v1.1 20151215//EN
     -->
         
-    <xsl:param name="commentsOn">no</xsl:param>
+    <xsl:param name="commentsOn">yes</xsl:param>
     
     <xsl:output encoding="UTF-8"
         doctype-public="-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN"
-        doctype-system="https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd" method="xml"/>
+        doctype-system="https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd" method="xml" exclude-result-prefixes="#all"/>
 
     
     <xsl:template match="/">
@@ -24,7 +24,11 @@
         </sec>
     </xsl:template>
     
-
+    <xsl:template match="heading"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = heading</xsl:comment></xsl:if>
+        <title>
+            <xsl:value-of select="normalize-space(.)"/>
+        </title>
+    </xsl:template>
    
     <xsl:template match="paragraph"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = paragraph</xsl:comment></xsl:if>
         <p>

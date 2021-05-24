@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tp="http://www.plazi.org/taxpub"><tp:treatment-meta></tp:treatment-meta>
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Buergeres ortmanni ( Bürger, 1895 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pinnotheres ortmanni Bürger, 1895: 384–385</tp:taxon-name>
+, pl. 9 fig. 30, pl. 10 fig. 28.— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Schmitt 
+et al.
+1973: 61
+</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pinnotheres tenuipes Bürger, 1895: 371–372</tp:taxon-name>
+, pl. 9 fig. 11, pl. 10 fig. 11.— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Schmitt 
+et al.
+1973: 89
+</tp:nomenclature-citation>
+
+. —Ng &amp; Manning 1998: 902. [New synonymy].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Buergeres ortmanni</tp:taxon-name>
+.—Ng &amp; Manning 1998: 910, 911–912, fig. 4.—Ahyong &amp; Ng 2007: 210, fig. 16, tab. 2.— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Ng 
+et al.
+2008: 248
+</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Buergeres tenuipes</tp:taxon-name>
+.—Ng &amp; Manning 1998: 910, 911.—Ahyong &amp; Ng 2007: 210, fig. 3B, tab. 2.— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Ng 
+et al.
+2008: 248
+</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">NEOTYPE</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZRC 2003.59</named-content>
+, female (cl 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">9.5 mm</named-content>
+, cw 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">11.4 mm</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pulau Salu</named-content>
+, northeastern 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Singapore</named-content>
+, coral reef, exposed at edge of reef, in holothurian, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">U. Gooding</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 April 1967</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">neotype</named-content>
+of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Pinnotheres ortmanni</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Bürger, 1895</named-content>
+</named-content>
+).
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+Other material examined
+. 
+ZRC
+1965.11.24.14–15, 
+2 females
+(both with cl 
+11.8 mm
+, cw 
+12.5 mm
+), 
+Singapore
+, no other data; 
+ZRC
+2018.0760, 
+2 females
+(cl 
+11.7 mm
+, cw 
+12.3 mm
+; cl 9.0 mm, cw 
+10.3 mm
+), 
+Ambon
+, 
+Moluccas
+, 
+Indonesia
+, inside sea cucumbers, probably 
+<!--template match = taxonomicName--><tp:taxon-name>Holothuria scabra Jaeger, 1833</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Holothuriidae</tp:taxon-name>
+), 
+Ambon
+Marine Laboratory, coll. S. Dwiono, 
+November 1996
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+. Of the four species originally placed in 
+<!--template match = taxonomicName--><tp:taxon-name>Buergeres</tp:taxon-name>
+by 
+<!--template match = bibRefCitation--><xref rid="ref11058">Ng &amp; Manning (2003)</xref>
+, three were described from the 
+Philippines
+(
+<!--template match = taxonomicName--><tp:taxon-name>Pinnotheres holothuriae Semper, 1880</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. ortmanni Bürger, 1895</tp:taxon-name>
+(type species) and 
+<!--template match = taxonomicName--><tp:taxon-name>P. tenuipes Bürger, 1895</tp:taxon-name>
+) and one from eastern 
+India
+(
+<!--template match = taxonomicName--><tp:taxon-name>P. deccanensis Chopra, 1931</tp:taxon-name>
+). Most species of 
+<!--template match = taxonomicName--><tp:taxon-name>Buergeres</tp:taxon-name>
+have been well characterised: Chopra (1931) provided a good description and figures of 
+<!--template match = taxonomicName--><tp:taxon-name>B. deccanensis</tp:taxon-name>
+and 
+<!--template match = bibRefCitation--><xref rid="ref11058">Ng &amp; Manning (2003)</xref>
+redescribed 
+<!--template match = taxonomicName--><tp:taxon-name>B. holothuriae</tp:taxon-name>
+based on type material. The original type specimens of two Philippine species, 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+are lost. As such, 
+<!--template match = bibRefCitation--><xref rid="ref11058">Ng &amp; Manning (2003)</xref>
+redescribed 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+based on a 
+neotype
+and other material from 
+Singapore
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Buergeres tenuipes</tp:taxon-name>
+, however, has not been reported since it was first described, but the present reconsideration of the elementary original description and figures shows that it cannot be distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+. Although the original 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+was about half the size of 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+, the two species share the same diagnostic features and are herein synonymized. Unfortunately, no Philippine material clearly identifiable with 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+or 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+is presently available (but see Remarks for 
+Burgeres
+sp.). Therefore, to stabilize the taxonomy of 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+as a junior synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+, we herein designate the 
+neotype
+of the latter (female, ZRC 2003.59) as the simultaneous 
+neotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+, rendering the two species objective synonyms of each other. As both species were described in the same paper (
+<!--template match = bibRefCitation--><xref rid="ref9358">Bürger 1895</xref>
+), we here also select 
+<!--template match = taxonomicName--><tp:taxon-name>B. ortmanni</tp:taxon-name>
+to have priority over 
+<!--template match = taxonomicName--><tp:taxon-name>B. tenuipes</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+. The 
+Philippines
+, 
+Singapore
+and now from 
+Ambon
+, 
+Indonesia
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>
