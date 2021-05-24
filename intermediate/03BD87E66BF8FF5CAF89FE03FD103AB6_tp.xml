@@ -1,128 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera modestula ( Brenske, 1902 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-154--151-250-1943-1967-">Figures 34</xref>
+<tp:nomenclature><tp:taxon-name>Maladera modestula ( Brenske, 1902 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-154--151-250-1943-1967-">Figures 34</xref>
 A–D, 104
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Autoserica modestula Brenske, 1902: 62</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Autoserica modestula Brenske, 1902: 62</tp:taxon-name>
 </tp:nomenclature-citation>
 [replacement name].
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera modestula : Ahrens 2004a: 314</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Maladera modestula : Ahrens 2004a: 314</tp:taxon-name>
 </tp:nomenclature-citation>
 , 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref329895">2006a: 414</xref>
+<tp:nomenclature-citation>
+<xref rid="ref329895">2006a: 414</xref>
 </tp:nomenclature-citation>
 , 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref329946">2006b: 237</xref>
+<tp:nomenclature-citation>
+<xref rid="ref329946">2006b: 237</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 24</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330155">2007b: 24</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref332946">Krajcik 2012: 155</xref>
+<tp:nomenclature-citation>
+<xref rid="ref332946">Krajcik 2012: 155</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330518">Ahrens &amp; Fabrizi 2016: 210</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330518">Ahrens &amp; Fabrizi 2016: 210</xref>
 </tp:nomenclature-citation>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Serica modesta Brenske, 1896: 153</tp:taxon-name>
+<tp:taxon-name>Serica modesta Brenske, 1896: 153</tp:taxon-name>
 (nec Fairmaire, 1881: 83).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Autoserica modesta : Brenske 1898: 301</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Autoserica modesta : Brenske 1898: 301</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 
 Type
 material examined.
 
 See 
-<!--template match = bibRefCitation--><xref rid="ref329734">Ahrens (2004a)</xref>
+<xref rid="ref329734">Ahrens (2004a)</xref>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Beibeng</named-content>
+<named-content content-type="collectingMunicipality">Beibeng</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Motuo</named-content>
+<named-content content-type="location">Motuo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Xizang</named-content>
+<named-content content-type="collectingRegion">Xizang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.V.1983</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21.V.1983</named-content>
 </named-content>
 , 700- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">800m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">800m</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Han Yinheng</named-content>
+<named-content content-type="collectorName">Han Yinheng</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Beibeng</named-content>
+<named-content content-type="collectingMunicipality">Beibeng</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Motuo</named-content>
+<named-content content-type="location">Motuo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Xizang</named-content>
+<named-content content-type="collectingRegion">Xizang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+<named-content content-type="date">
+<named-content content-type="collectingDate">
 25.V. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1983</named-content>
+<named-content content-type="quantity">1983</named-content>
 </named-content>
 </named-content>
 , 850m, leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Han Yinheng</named-content>
+<named-content content-type="collectorName">Han Yinheng</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 See map (
-<!--template match = figureCitation--><xref rid="fig-353--151-250-1974-1998-">Fig. 104</xref>
+<xref rid="fig-353--151-250-1974-1998-">Fig. 104</xref>
 ) and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>

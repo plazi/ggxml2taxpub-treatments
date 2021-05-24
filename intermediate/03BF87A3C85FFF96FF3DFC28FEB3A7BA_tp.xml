@@ -1,104 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Ulskia ulskii (Clessin &amp; W. Dybowski in W. Dybowski, 1887 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-31--151-250-1760-1784-">Figs 16</xref>
+<tp:nomenclature><tp:taxon-name>Ulskia ulskii (Clessin &amp; W. Dybowski in W. Dybowski, 1887 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-31--151-250-1760-1784-">Figs 16</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-32--151-250-1836-1860-">17</xref>
+<xref rid="fig-32--151-250-1836-1860-">17</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Caspia Ulskii</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Caspia Ulskii</tp:taxon-name>
 nob.—Clessin &amp; W. Dybowski in W. 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref30278">Dybowski 1887: 38–39</xref>
+<tp:nomenclature-citation>
+<xref rid="ref30278">Dybowski 1887: 38–39</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
+<p>
 [
-<!--template match = taxonomicName--><tp:taxon-name>Caspia</tp:taxon-name>
+<tp:taxon-name>Caspia</tp:taxon-name>
 ] 
-<!--template match = taxonomicName--><tp:taxon-name>Ulskii</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->n. sp.
+<tp:taxon-name>Ulskii</tp:taxon-name>
+n. sp.
 —W. Dybowski 1888: 79, pl. 3, fig. 8a, b.
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula [( Ulskia )] behningi Logv. et Star.</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. n.
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula [( Ulskia )] behningi Logv. et Star.</tp:taxon-name>
+sp. n.
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 380</xref>
+<tp:nomenclature-citation>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 380</xref>
 </tp:nomenclature-citation>
 , fig. 36713).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula [( Ulskia )] nana Logv. et Star.</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. n.
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula [( Ulskia )] nana Logv. et Star.</tp:taxon-name>
+sp. n.
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379–380</xref>
+<tp:nomenclature-citation>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379–380</xref>
 </tp:nomenclature-citation>
 , fig. 36712).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula [( Ulskia )] ulskii (Cless. et W. Dyb.)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula [( Ulskia )] ulskii (Cless. et W. Dyb.)</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379</xref>
+<tp:nomenclature-citation>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379</xref>
 </tp:nomenclature-citation>
 , fig. 36710).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula behningi Logvinenko et Starobogatov, 1968</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula behningi Logvinenko et Starobogatov, 1968</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 97–98</xref>
+<tp:nomenclature-citation>
+<xref rid="ref31309">Kantor &amp; Sysoev 2006: 97–98</xref>
 </tp:nomenclature-citation>
 , pl. 45, fig. M.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula nana Logvinenko et Starobogatov, 1968</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula nana Logvinenko et Starobogatov, 1968</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 101</xref>
+<tp:nomenclature-citation>
+<xref rid="ref31309">Kantor &amp; Sysoev 2006: 101</xref>
 </tp:nomenclature-citation>
 , pl. 47, fig. D.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ulskii</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula ulskii</tp:taxon-name>
 (Clessin et W. Dybowski in W. Dybowski, 1888)— 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 104</xref>
+<tp:nomenclature-citation>
+<xref rid="ref31309">Kantor &amp; Sysoev 2006: 104</xref>
 </tp:nomenclature-citation>
 , pl. 45, fig. F.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
 (Clessin &amp; W. Dybowski in W. 
-<!--template match = bibRefCitation--><xref rid="ref30278">Dybowski, 1887</xref>
+<xref rid="ref30278">Dybowski, 1887</xref>
 )— 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32549">
+<tp:nomenclature-citation>
+<xref rid="ref32549">
 Neubauer 
 et al
 . 2018: 52–54
@@ -108,11 +108,11 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia behningi ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Ulskia behningi ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref34307">
+<tp:nomenclature-citation>
+<xref rid="ref34307">
 Wesselingh 
 et al
 . 2019: 72–73
@@ -122,13 +122,13 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
 (Clessin &amp; Dybowski in 
-<!--template match = bibRefCitation--><xref rid="ref30278">Dybowski, 1887</xref>
+<xref rid="ref30278">Dybowski, 1887</xref>
 )— 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref34307">
+<tp:nomenclature-citation>
+<xref rid="ref34307">
 Wesselingh 
 et al
 . 2019: 73
@@ -138,69 +138,69 @@ et al
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Lectotype</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZB-M</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.Dyb.</named-content>
+<named-content content-type="collectionCode">ZB-M</named-content>
+<named-content content-type="collectorName">W.Dyb.</named-content>
 76) and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">33 paralectotypes</named-content>
+<named-content content-type="specimenCount">33 paralectotypes</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZB-M</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.Dyb.</named-content>
+<named-content content-type="collectionCode">ZB-M</named-content>
+<named-content content-type="collectorName">W.Dyb.</named-content>
 76 and 99) (designated by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">
+<named-content content-type="bibRefCitation">
 Anistratenko 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="emphasis">et al</named-content>
 . 2019
 </named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">The</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="collectorName">The</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">P. behningi</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">P. behningi</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN #1</named-content>
+<named-content content-type="specimenCode">ZIN #1</named-content>
 ) and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">82 paratypes</named-content>
+<named-content content-type="specimenCount">82 paratypes</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 ##2–11) are listed in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 systematic catalogue, collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.M. Logvinenko</named-content>
+<named-content content-type="collectorName">B.M. Logvinenko</named-content>
 in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26/06/1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26/06/1956</named-content>
 </named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">04/08/1957</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">04/08/1957</named-content>
 </named-content>
 . As for 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">P. nana</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">P. nana</named-content>
 </named-content>
 , we found a specimen labelled as “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 ” in the Starobogatov collection (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 ), as well as 13 probable 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratypes</named-content>
+<named-content content-type="typeStatus">paratypes</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Type locality.
 “Kaspi-See” (Caspian Sea, without further details; 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 , locality 26). Type locality of 
-<!--template match = taxonomicName--><tp:taxon-name>P. behningi</tp:taxon-name>
+<tp:taxon-name>P. behningi</tp:taxon-name>
 : Western part of the South Caspian Sea in the vicinity of the Kura River mouth, 
 120 m
 (locality 23). The 
@@ -208,7 +208,7 @@ paratypes
 were collected off Apsheron Peninsula (
 Azerbaijan
 ) (locality 14). Type locality of 
-<!--template match = taxonomicName--><tp:taxon-name>P. nana</tp:taxon-name>
+<tp:taxon-name>P. nana</tp:taxon-name>
 : western part of the Caspian Sea near Apsheron peninsula, 
 88 m
 (locality 15); the 13 probable 
@@ -217,199 +217,199 @@ were retrieved in the eastern part of the South Caspian Sea off Cheleken Peninsu
 Turkmenistan
 (locality 20).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Other material</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Other material</named-content>
 .
 </named-content>
 The “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 ” and 6 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratypes</named-content>
+<named-content content-type="typeStatus">paratypes</named-content>
 ” of “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
 </named-content>
 ”, an unavailable collection name coined by Starobogatov (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , no number), collected in 1957 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1962 in</named-content>
+<named-content content-type="quantity">1962 in</named-content>
 the eastern part of the Middle Caspi-an Sea at a depth of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">56–71 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">56–71 m</named-content>
 </named-content>
 (localities 5 and 17). Further three specimens labelled by Starobogatov as 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia ulskii</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Caspia ulskii</named-content>
 </named-content>
 come from locality 17 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , no number), three from Selitrennoye (locality 1, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">RGM 1309810</named-content>
+<named-content content-type="specimenCode">RGM 1309810</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">1309809</named-content>
+<named-content content-type="specimenCode">1309809</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">1309856</named-content>
+<named-content content-type="specimenCode">1309856</named-content>
 )
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 and five specimens from the Kura delta (localities 25d and 25f, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">RGM 1310306–1310310</named-content>
+<named-content content-type="specimenCode">RGM 1310306–1310310</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-31--151-250-1760-1784-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-31--151-250-1760-1784-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 16.
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
 (Clessin &amp; Dybowski in 
-<!--template match = bibRefCitation--><xref rid="ref30278">Dybowski, 1887</xref>
+<xref rid="ref30278">Dybowski, 1887</xref>
 ) from the Caspian Sea Basin. (a) Lectotype, locality 26 (ZB-M W.Dyb. 76). (b) Paralectotype, locality 26 (ZB-M W.Dyb. 78). (c) Paralectotype, locality 26 (ZB-M W.Dyb. 78). (d) Paralectotype, locality 26 (ZB-M W.Dyb. 76). (e) Paralectotype, locality 26 (ZB-M W.Dyb. 76). (f, k) Specimen from locality 17 (ZIN, no number). (g, h) Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula nana</tp:taxon-name>
+<tp:taxon-name>Pyrgula nana</tp:taxon-name>
 , locality 15 (ZIN, no number). (i, j) Specimen labelled as “ 
-<!--template match = taxonomicName--><tp:taxon-name>Caspia clessiniolaeformis</tp:taxon-name>
+<tp:taxon-name>Caspia clessiniolaeformis</tp:taxon-name>
 , holotype”, locality 17 (ZIN, no number). (l) Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula behningi</tp:taxon-name>
+<tp:taxon-name>Pyrgula behningi</tp:taxon-name>
 , locality 23 (ZIN #1). (m) Paratype of 
-<!--template match = taxonomicName--><tp:taxon-name>P. behningi</tp:taxon-name>
+<tp:taxon-name>P. behningi</tp:taxon-name>
 , locality 14 (ZIN #2). (n, o) Paratype of 
-<!--template match = taxonomicName--><tp:taxon-name>P. behningi</tp:taxon-name>
+<tp:taxon-name>P. behningi</tp:taxon-name>
 , locality 14 (ZIN #2). (p–s, u) Five specimens from the Holocene of the Kura delta (localities 25d and 25f, RGM 1310306–1310310). (t, v–z) Three specimens from Selitrennoye (locality 1, RGM 1309810, 1309809, 1309856). Scale bar = 1 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550190/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . The characteristic features of 
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
 are the small (up to 
 2.15 mm
 in height, 
 1.20 mm
 in width), slender and usually stepped shell with a tightly coiled aperture that rarely leaves an umbilicus (
-<!--template match = figureCitation--><xref rid="fig-31--151-250-1760-1784-">Fig. 16</xref>
+<xref rid="fig-31--151-250-1760-1784-">Fig. 16</xref>
 a–z), a striated–wrinkled protoconch demarcated by a distinct but not particularly bulgy growth rim (
-<!--template match = figureCitation--><xref rid="fig-32--151-250-1836-1860-">Fig. 17</xref>
+<xref rid="fig-32--151-250-1836-1860-">Fig. 17</xref>
 a–o) and a teleoconch microsculpture that consists of tiny, irregular, elongated beads (
-<!--template match = figureCitation--><xref rid="fig-32--151-250-1836-1860-">Fig. 17b, c, f, i, k, m</xref>
+<xref rid="fig-32--151-250-1836-1860-">Fig. 17b, c, f, i, k, m</xref>
 ).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-32--151-250-1836-1860-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-32--151-250-1836-1860-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 17.
 Protoconch views of 
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
 (Clessin &amp; Dybowski in 
-<!--template match = bibRefCitation--><xref rid="ref30278">Dybowski, 1887</xref>
+<xref rid="ref30278">Dybowski, 1887</xref>
 ). (a) Paralectotype, locality 26 (ZB- M W.Dyb. 76). (b, j, m) Paralectotype, locality 26 (ZB-M W.Dyb. 116). (c, i) Specimen from the Holocene of the Kura delta (locality 25f, RGM 1310308). (d, k) Specimen from the same area (locality 25d, RGM 1310310). (e) Specimen from the same area (locality 25f, RGM 1310306). (f, l) Specimen from the same area (locality 25d, RGM 1310309). (g, h, n, o) Specimen from the same area (locality 25d, RGM 1310307). Scale bar = 100 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550192/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Ulskia ulskii</tp:taxon-name>
-<!--template match = materialsCitation--><tp:material-citation>
+<p>
+<tp:taxon-name>Ulskia ulskii</tp:taxon-name>
+<tp:material-citation>
 is a highly variable species with respect to shell shape. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">
+<named-content content-type="bibRefCitation">
 Neubauer 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="emphasis">et al</named-content>
 . (2018)
 </named-content>
 provided a detailed description for material from the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pleistocene</named-content>
+<named-content content-type="location">Pleistocene</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+<named-content content-type="collectingCountry">Russia</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">
+<named-content content-type="figureCitation">
 Fig. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">16t</named-content>
+<named-content content-type="quantity">16t</named-content>
 </named-content>
 , v–z). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">These</named-content>
+<named-content content-type="collectingMunicipality">These</named-content>
 specimens are more elongate and slightly larger but otherwise fit well to the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">lectotype</named-content>
+<named-content content-type="typeStatus">lectotype</named-content>
 series of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">U. ulskii</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">U. ulskii</named-content>
 </named-content>
 . Similarly, Holocene specimens from the Kura delta tend to be more slender and have a less stepped outline (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 16</named-content>
+<named-content content-type="figureCitation">Fig. 16</named-content>
 p–s, u), but the morphological variation is fluent and does not allow establishing clear species boundaries. Rather we consider all these differences to reflect intraspecific variation
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The range of variation also covers the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula nana Logvinenko &amp; Starobogatov, 1969</tp:taxon-name>
+<tp:taxon-name>Pyrgula nana Logvinenko &amp; Starobogatov, 1969</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-31--151-250-1760-1784-">
+<xref rid="fig-31--151-250-1760-1784-">
 Fig. 
 16g
 , h
 </xref>
 ) and 
-<!--template match = taxonomicName--><tp:taxon-name>P. behningi Logvinenko &amp; Starobogatov, 1969</tp:taxon-name>
+<tp:taxon-name>P. behningi Logvinenko &amp; Starobogatov, 1969</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-31--151-250-1760-1784-">Fig. 16</xref>
+<xref rid="fig-31--151-250-1760-1784-">Fig. 16</xref>
 l–o), which closely resemble some of the 
 paralectotypes
 of 
-<!--template match = taxonomicName--><tp:taxon-name>U. ulskii</tp:taxon-name>
+<tp:taxon-name>U. ulskii</tp:taxon-name>
 . We thus follow the previous opinion of 
-<!--template match = bibRefCitation--><xref rid="ref32549">
+<xref rid="ref32549">
 Neubauer 
 et al
 . (2018)
 </xref>
 and consider 
-<!--template match = taxonomicName--><tp:taxon-name>P. nana</tp:taxon-name>
+<tp:taxon-name>P. nana</tp:taxon-name>
 a junior synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>U. ulskii</tp:taxon-name>
+<tp:taxon-name>U. ulskii</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula behningi</tp:taxon-name>
+<tp:taxon-name>Pyrgula behningi</tp:taxon-name>
 is a new synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>U. ulskii</tp:taxon-name>
+<tp:taxon-name>U. ulskii</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
+<p>
+<tp:material-citation>
 Furthermore, we found in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 collection of Starobogatov material labelled with the unavailable collection name “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
 </named-content>
 ”. The “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 ” and 6 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratypes</named-content>
+<named-content content-type="typeStatus">paratypes</named-content>
 ” of “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Caspia clessiniolaeformis</named-content>
 </named-content>
 ” collected in the eastern part of the Middle Caspian Sea fall in the morphological range of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">U. ulskii</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">U. ulskii</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 16i, j</named-content>
+<named-content content-type="figureCitation">Fig. 16i, j</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Endemic to the Caspian Sea, reported from water depths between 45 and 
 170 m
 (
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969</xref>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov 1969</xref>
 ; data of ZIN catalogue). 
-<!--template match = bibRefCitation--><xref rid="ref33795">Tarasov (1996b)</xref>
+<xref rid="ref33795">Tarasov (1996b)</xref>
 mentioned the species from 
 478 m
 in the South Caspian Basin.

@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Clathrocaspia isseli ( Logvinenko &amp; Starobogatov, 1969 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12</xref>
+<tp:nomenclature><tp:taxon-name>Clathrocaspia isseli ( Logvinenko &amp; Starobogatov, 1969 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12</xref>
 i–l, q
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Caspia ) isseli Logv. et Star.</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. n.
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula ( Caspia ) isseli Logv. et Star.</tp:taxon-name>
+sp. n.
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 378</xref>
+<tp:nomenclature-citation>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 378</xref>
 </tp:nomenclature-citation>
 , fig. 367(6).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula isseli Logvinenko et Starobogatov, 1968</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula isseli Logvinenko et Starobogatov, 1968</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 100</xref>
+<tp:nomenclature-citation>
+<xref rid="ref31309">Kantor &amp; Sysoev 2006: 100</xref>
 </tp:nomenclature-citation>
 , pl. 45, fig. P.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia isseli ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Clathrocaspia isseli ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref34307">
+<tp:nomenclature-citation>
+<xref rid="ref34307">
 Wesselingh 
 et al
 . 2019: 70
@@ -46,34 +46,34 @@ et al
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material.
 Holotype
 not traced, should be in 
 ZIN
 . In contrast to 
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev (2006: 100)</xref>
+<xref rid="ref31309">Kantor &amp; Sysoev (2006: 100)</xref>
 , who stated that no identified material of this species is found in 
 ZIN
 , we could locate two lots with 
 23 specimens
 in the collection of Starobogatov, which he labelled as “ 
-<!--template match = taxonomicName--><tp:taxon-name>Caspia isseli</tp:taxon-name>
+<tp:taxon-name>Caspia isseli</tp:taxon-name>
 ”. Likely, these are 
 paratypes
 of 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 . However, the collection includes a variety of morphologies, some of which match the typical 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 as described by 
-<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov (1969)</xref>
+<xref rid="ref32049">Logvinenko &amp; Starobogatov (1969)</xref>
 (e.g. 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12i, j</xref>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12i, j</xref>
 ), while some resemble 
-<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+<tp:taxon-name>C. pallasii</tp:taxon-name>
 closely and should be classified under that species (e.g. 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">
+<xref rid="fig-24--151-250-1720-1744-">
 Fig. 
 12g
 , h
@@ -81,89 +81,89 @@ Fig.
 ). Given the lack of the 
 holotype
 , the identity of 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 is doubtful. For the time being, we use all of the presumed 
 paratypes
 that are not misidentified 
-<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+<tp:taxon-name>C. pallasii</tp:taxon-name>
 to characterise 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Type locality.
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 Originally given as “Southern Caspian Sea between 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">40–75 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">40–75 m</named-content>
 </named-content>
 water depth” without details on the locality. The presumed 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+<named-content content-type="typeStatus">paratype</named-content>
 material derives from the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Caspian Sea</named-content>
+<named-content content-type="location">Caspian Sea</named-content>
 off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Apsheron Peninsula</named-content>
+<named-content content-type="collectingMunicipality">Apsheron Peninsula</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Azerbaijan</named-content>
+<named-content content-type="collectingCountry">Azerbaijan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+<named-content content-type="tableCitation">Table 1</named-content>
 , locality 14), and off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Cheleken Peninsula</named-content>
+<named-content content-type="collectingCounty">Cheleken Peninsula</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Turkmenistan</named-content>
+<named-content content-type="collectingCountry">Turkmenistan</named-content>
 (locality 21)
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other material.
 A single shell from Holocene deposits of the Kura delta (locality 25f, 
 RGM
 1310305).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Slender, elongate, conical shell with up to 5 low convex, tightly coiled whorls. Protoconch bulbous, bears small wrinkles and thin spiral threads throughout (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12q</xref>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12q</xref>
 ). Strong reticulate sculpture covers teleoconch, whereas spiral keels are more prominent than axial ribs (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12</xref>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12</xref>
 i–l). Small subsutural ramp occurs above first keel, sometimes resulting in slightly stepped outline (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12l</xref>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12l</xref>
 ). First 1–2 keels are always more prominent and separated by wider interspaces than the ones following abapically. Aperture adjoined, base steep.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 The material Starobogatov distinguished as 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+<tp:taxon-name>C. pallasii</tp:taxon-name>
 contains a mix of both. In addition to the mix up in the 
 type
 material of 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 (see above), Starobogatov’s material of 
-<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+<tp:taxon-name>C. pallasii</tp:taxon-name>
 also contains specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 (e.g. 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1720-1744-">Fig. 12k</xref>
+<xref rid="fig-24--151-250-1720-1744-">Fig. 12k</xref>
 ). Despite their overall similarity in shell shape, 
-<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+<tp:taxon-name>C. pallasii</tp:taxon-name>
 can be distinguished from 
-<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+<tp:taxon-name>C. isseli</tp:taxon-name>
 by the consistently lower base, the less convex whorls, the slightly detached aperture and the larger and more bulbous protoconch. 
-<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia isseli</tp:taxon-name>
+<tp:taxon-name>Clathrocaspia isseli</tp:taxon-name>
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>C. gmelinii</tp:taxon-name>
+<tp:taxon-name>C. gmelinii</tp:taxon-name>
 in its more slender shape.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Endemic to the Caspian Sea, only known from two localities in the South Basin (from depths of 40 and 
 107 m

@@ -1,51 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Willowsia neonigromaculata sp. nov. Katz &amp; Cipola<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Willowsia neonigromaculata sp. nov. Katz &amp; Cipola<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 
 urn:lsid:zoobank.org:act: 
 195E3CC7-B9AB-4CE9-93DE-BBA8ABA443C9
 
 </p>
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 8–11</xref>
+<p>
+<xref rid="fig-">Figs 8–11</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 2–3</xref>
+<xref>Tables 2–3</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
 – 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref10469">Katz 2015a: 829</xref>
+<tp:nomenclature-citation>
+<xref rid="ref10469">Katz 2015a: 829</xref>
 </tp:nomenclature-citation>
 , 
 Illinois
 , 
 USA
 (phylogeny). — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref10537">Katz 2015b: 64</xref>
+<tp:nomenclature-citation>
+<xref rid="ref10537">Katz 2015b: 64</xref>
 </tp:nomenclature-citation>
 , 
 Illinois
 , 
 USA
 (phylogeny). — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref10415">Katz 2017: 553</xref>
+<tp:nomenclature-citation>
+<xref rid="ref10415">Katz 2017: 553</xref>
 </tp:nomenclature-citation>
 , 
 Illinois
 , 
 USA
 (descr.). — 
-<!--template match = bibRefCitation--><xref rid="ref9747">
+<xref rid="ref9747">
 deWaard 
 et al.
 2019
@@ -58,23 +58,23 @@ MG034057
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<title>Diagnosis</title>
+<p>
 Body with pigments laterally on head to Abd III, and spots on Abd IV, femur and tibiotarsus (
-<!--template match = figureCitation--><xref rid="fig-13--189-232-1962-1988-">Fig. 8</xref>
+<xref rid="fig-13--189-232-1962-1988-">Fig. 8</xref>
 ), sometimes with piment covering nearly all Abd II–III medially and posterior half of Abd IV; head mac S0 present or absent, Ps3 mes and Ps5 mac absent (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9A</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9A</xref>
 ); sublobal plate with 3 inner appendages (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9B</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9B</xref>
 ); Th II–Abd IV formula with 9,8|3,3,3+7,7+14 mac, p2a present on Th III; manubrium dorsally with 9 lateral chaetae abruptly acuminate at the tip, manubrial plate with 4 chaetae, 2 mac (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9E</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9E</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Etymology</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<title>Etymology</title>
+<p>
 The specific epithet is derived from the Greek adjective ‘νέος, -α, -ον’, Latinized ‘ 
 neos
 , - 
@@ -84,13 +84,13 @@ um
 ’ (combining form 
 neo
 -), ‘new, recent, young’ + the epithet of the species 
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-13--189-232-1962-1988-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-13--189-232-1962-1988-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 8.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
+sp. nov.
 , paratype, ♀ (INHS 810158), habitus. 
 A
 . Lateral view. 
@@ -98,11 +98,11 @@ B
 . Dorsal view. Scale bars: 0.5 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611561/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-14--189-232-1928-1954-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-14--189-232-1928-1954-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 9.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
+sp. nov.
 , body parts (left side). 
 A
 . Cephalic dorsal chaetotaxy. 
@@ -116,187 +116,187 @@ E
 . Manubrium dorsal chaetotaxy. Abbreviations: see Material and methods.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611565/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 (
-<!--template match = bibRefCitation--><xref rid="ref10773">Lubbock, 1873</xref>
+<xref rid="ref10773">Lubbock, 1873</xref>
 ). The name references the new species’ morphological affinity with 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 and its presence in the New World.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<title>Material examined</title>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 on slide; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Illinois</named-content>
+<named-content content-type="collectingRegion">Illinois</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Pope Co.</named-content>
+<named-content content-type="collectingCounty">Pope Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dixon Springs Agricultural Center</named-content>
+<named-content content-type="location">Dixon Springs Agricultural Center</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">37°26′03.65″ N</named-content>
+<named-content content-type="geoCoordinate">37°26′03.65″ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">88°40′01.84″ W</named-content>
+<named-content content-type="geoCoordinate">88°40′01.84″ W</named-content>
 ; altitude 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">524 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">524 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 hand collected on pavement on dying 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Arilus cristatus</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Arilus cristatus</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 Sep. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23 Sep. 2011</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Katz</named-content>
+<named-content content-type="collectorName">A. Katz</named-content>
 leg.; adk11-159; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810161</named-content>
+<named-content content-type="specimenCode">INHS 810161</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 undetermined</named-content>
+<named-content content-type="specimenCount">2 undetermined</named-content>
 sex on slides and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">30 specimens</named-content>
+<named-content content-type="specimenCount">30 specimens</named-content>
 in alcohol; same data as for holotype; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810157–810160</named-content>
+<named-content content-type="specimenCode">INHS 810157–810160</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810162</named-content>
+<named-content content-type="specimenCode">INHS 810162</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810163</named-content>
+<named-content content-type="specimenCode">INHS 810163</named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other material
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">USA</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 undetermined</named-content>
+<named-content content-type="specimenCount">1 undetermined</named-content>
 sex on slide; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Illinois</named-content>
+<named-content content-type="collectingRegion">Illinois</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Urbana</named-content>
+<named-content content-type="collectingMunicipality">Urbana</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">19 Montclair Rd</named-content>
+<named-content content-type="location">19 Montclair Rd</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">40°05′41.5″ N</named-content>
+<named-content content-type="geoCoordinate">40°05′41.5″ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">88°12′24.7″ W</named-content>
+<named-content content-type="geoCoordinate">88°12′24.7″ W</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 Jul. 2008</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 Jul. 2008</named-content>
 </named-content>
 ; by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">kitchen sink</named-content>
+<named-content content-type="collectedFrom">kitchen sink</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F Soto-Adames</named-content>
+<named-content content-type="collectorName">F Soto-Adames</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810,164</named-content>
+<named-content content-type="specimenCode">INHS 810,164</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 on slide; same collection data as for preceding, except 2012 (no specific date); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">INHS 810165</named-content>
+<named-content content-type="specimenCode">INHS 810165</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<title>Description</title>
+<p>
 LENGTH. Total length (head + trunk) of specimens 
 1.51–1.85 mm
 (n = 3). Specimens pale yellowish white with violet pigments on distal half of the Ant I to Ant IV, head laterally, margins of Th II–Abd II, Abd III with one transverse band that expands laterally, Abd IV dorsally with one irregular lateral spot and one weak central spot, irregular spots on dorsoventral plate and posterior margin; distal half of Abd V to VI, distal femur and tibiotarsus medially; eyepatches black (
-<!--template match = figureCitation--><xref rid="fig-13--189-232-1962-1988-">Fig. 8</xref>
+<xref rid="fig-13--189-232-1962-1988-">Fig. 8</xref>
 ). Sometimes depigmented on proximal part of the Ant II; pigments on posterior one third of the Th II and Abd I, almost all Abd II–III medially, and posterior half of Abd IV (see 
-<!--template match = bibRefCitation--><xref rid="ref10415">Katz 2017: 551</xref>
+<xref rid="ref10415">Katz 2017: 551</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 HEAD. Antennal ratio as I: II: III: IV = 1: 1.83–2.00: 1.68–2.12: 1.81–2.36 (n = 3). Ant IV not annulated, with apical bulb simple or bilobed, rarely retracted. Six interocular chaetae (q, v, s, p, r, t); head dorsal macrochaetotaxy (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9A</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9A</xref>
 ) with 5 ‘An’ (An1a–3), 4 ‘A’ (A0, A2–3, A5), 3 ‘M’ (M1–2, M4), 6–7 ‘S’ (S0, S2–6), 0 ‘Ps’, 5 ‘Pa’ (Pa1–5), 2 ‘Pm’ (Pm1, Pm3), 4 ‘Pp’ (Pp1–3, Pp5), and 4 ‘Pe’ (Pe2–3 plus 1 unnamed) mac; An2a?, A1, A4? mic absent. Maxillary palp with t.a. smooth and b.c. weakly striated, thicker and 1.10 longer than t.a.; sublobal plate with 3 inner (sb.1–3) and 1 outer (sb.4) smooth appendages, sb.1 gently smaller, sb.3 thin, and sb.4 minute (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9B</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9B</xref>
 ). Ventral chaetotaxy with about 74 ciliate chaetae, 23 thin, 18 slightly smaller, and 33 normal and subequal in length (including b.c.), cephalic groove with 8 chaetae; postlabial formula with 4 (G1–4), 4 (X, X2–4), 4 (H2–4), 4 (J1–4), 2 (X’, X4’) chaetae (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9C</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9C</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 THORAX CHAETOTAXY (as 
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6A</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6A</xref>
 ). Th II and III similar to 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 , except Th III p2a mac always present. Ratio Th II: III = 1.48–1.30: 1 (n = 3), 
 holotype
 1.30: 1.
 </p>
-<!--template match = paragraph--><p>
+<p>
 ABDOMEN CHAETOTAXY (as 
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Figs 6B–F</xref>
+<xref rid="fig-10--189-232-1927-1953-">Figs 6B–F</xref>
 and 
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">9D</xref>
+<xref rid="fig-14--189-232-1928-1954-">9D</xref>
 ). Abd I to IV similar to 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 , except Abd I m2 smaller in length and socket size, Abd II a5 and m2 bothriotricha with 8–9 and 6 accessory chaetae, Abd III m2 bothriotrichum with 3–4 accessory chaetae and a5 and m5 bothriotricha with 12–15 accessory chaetae between them, and Abd IV T2 and T4 bothriotricha with 2 mic and 8–11 accessory chaetae between them. Abd V a, m and p series with 1 (a5), 4 (m2–3, m5–5e), and 5 (p1, p3–6) mac, respectively (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9D</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9D</xref>
 ). Ratio Abd III: IV = 1: 3.61–4.14 (n= 3), 
 holotype
 1: 3.80.
 </p>
-<!--template match = paragraph--><p>
+<p>
 CHAETOTAXY OF THE LEGS AND COLLOPHORE. Similar to 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">Fig. 7A–F</xref>
+<xref rid="fig-11--189-232-1857-1883-">Fig. 7A–F</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 FURCULA. Manubrium ventrally similar to 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 (as 
-<!--template match = figureCitation--><xref rid="fig-8--189-232-1892-1918-">Figs 4C</xref>
+<xref rid="fig-8--189-232-1892-1918-">Figs 4C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">7I</xref>
+<xref rid="fig-11--189-232-1857-1883-">7I</xref>
 ); dorsally with one lateral row of 9 ciliate chaetae abruptly acuminate at the tip, 3 mac and 6 mes (2 basal and 2 antero-subapical); manubrial plate with 4 ciliate chaetae of different sizes (2 mac abruptly acuminate at the tip) and 2 psp (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1928-1954-">Fig. 9E</xref>
+<xref rid="fig-14--189-232-1928-1954-">Fig. 9E</xref>
 ).
 </p>
-<!--template match = paragraph[descendant::heading][preceding-sibling::paragraph[descendant::heading]]]--><p><bold>
+<p><bold>
 DNA Barcodes
 </bold></p>
-<!--template match = paragraph--><p>
+<p>
 GenBank 
 KM610130
 ; collection locality information same as 
 holotype
 (
-<!--template match = bibRefCitation--><xref rid="ref10469">
+<xref rid="ref10469">
 Katz 
 et al.
 2015a
@@ -306,7 +306,7 @@ MG034057
 ; Brockville, 
 Canada
 (
-<!--template match = bibRefCitation--><xref rid="ref9747">
+<xref rid="ref9747">
 deWaard 
 et al.
 2019
@@ -314,48 +314,48 @@ et al.
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:treatment-sec sec-type="discussion">
+<title>Remarks</title>
+<p>
+<tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
+sp. nov.
 is considered a new species that is distinct from 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 , supported by both morphological (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ) and molecular evidence (
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">Figs 10–11</xref>
+<xref rid="fig-">Figs 10–11</xref>
 ). 
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
+sp. nov.
 resembles 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 in most morphological characteristics, but differs in head by cephalic mac Ps5 and Pp4 absent and Pe4 plus one extra mac present (opposite in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ), 3 mic (An2a?, A1, A4?) absent (present in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ) and interocular s chaetae present (absent in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ), sublobal plate with 3 inner appendages (
 2 in
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ), and ventral groove with 8 chaetae (
 6 in
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ). On Abd I, m2 mac for 
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>Willowsia neonigromaculata</tp:taxon-name>
+sp. nov.
 smaller in length and socket size than m3 and m4 (normal in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ), and Abd V with 3 chaetae (m5ea, p5a, p6e), all absent in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 . They also differ in manubrium dorsally with 2 basal and 2 antero-subapical chaetae abruptly acuminate at the tip (1 basal and 1 antero-subapical in 
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ), and manubrial plate with 2 inner mac (
 1 in
-<!--template match = taxonomicName--><tp:taxon-name>W. nigromaculata</tp:taxon-name>
+<tp:taxon-name>W. nigromaculata</tp:taxon-name>
 ).
 </p>
 </tp:treatment-sec>

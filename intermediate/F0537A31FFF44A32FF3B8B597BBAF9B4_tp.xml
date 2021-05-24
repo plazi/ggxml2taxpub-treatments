@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Chelidoperca myathantuni sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figures 1–3</xref>
+<tp:nomenclature><tp:taxon-name>Chelidoperca myathantuni sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figures 1–3</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">5–8</xref>
+<xref rid="fig-">5–8</xref>
 , 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Chelidoperca</tp:taxon-name>
 sp. A: 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Psomadakis 
 et al
 . 2019: 385
@@ -30,183 +30,183 @@ coast).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SAIAB</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">203716, 114.2 mm</named-content>
+<named-content content-type="collectionCode">SAIAB</named-content>
+<named-content content-type="quantity">203716, 114.2 mm</named-content>
 SL (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig.1A</named-content>
+<named-content content-type="figureCitation">Fig.1A</named-content>
 ), off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Tanintharyi</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coast</named-content>
+<named-content content-type="collectingRegion">Tanintharyi</named-content>
+<named-content content-type="location">Coast</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+<named-content content-type="collectingCountry">Myanmar</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Andaman Sea</named-content>
+<named-content content-type="collectingMunicipality">Andaman Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Indian Ocean</named-content>
+<named-content content-type="collectingCounty">Indian Ocean</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">13°3.21’N</named-content>
+<named-content content-type="geoCoordinate">13°3.21’N</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">96°41.62’E</named-content>
+<named-content content-type="geoCoordinate">96°41.62’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dr. Fridtjof Nansen</named-content>
+<named-content content-type="collectionCode">V</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Dr. Fridtjof Nansen</named-content>
 </named-content>
 , station 123, bottom trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">121–129 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">121–129 m</named-content>
 depth
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P.N. Psomadakis</named-content>
+<named-content content-type="collectorName">P.N. Psomadakis</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 May 2015</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 May 2015</named-content>
 </named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">14 specimens</named-content>
+<named-content content-type="specimenCount">14 specimens</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">74.3–129.5 mm</named-content>
+<named-content content-type="quantity">74.3–129.5 mm</named-content>
 SL, all collected with bottom trawl in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Andaman Sea</named-content>
+<named-content content-type="collectingCounty">Andaman Sea</named-content>
 , off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Myanmar’s</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Tanintharyi</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coast</named-content>
+<named-content content-type="collectingMunicipality">Myanmar’s</named-content>
+<named-content content-type="collectingRegion">Tanintharyi</named-content>
+<named-content content-type="location">Coast</named-content>
 by the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dr. Fridtjof Nansen</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Dr. Fridtjof Nansen</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAIAB 203721</named-content>
+<named-content content-type="specimenCode">SAIAB 203721</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">2</named-content>
+<named-content content-type="specimenCode">2</named-content>
 </tp:material-citation>
 : 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">84.3–91.8 mm</named-content>
+<tp:material-citation>
+<named-content content-type="quantity">84.3–91.8 mm</named-content>
 SL, same collection data as holotype. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SAIAB</named-content>
+<named-content content-type="collectionCode">SAIAB</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">203723, 110.9 mm</named-content>
+<tp:material-citation>
+<named-content content-type="quantity">203723, 110.9 mm</named-content>
 SL (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 1B</named-content>
+<named-content content-type="figureCitation">Fig. 1B</named-content>
 ), same collection data as holotype. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAIAB 209600</named-content>
+<named-content content-type="specimenCode">SAIAB 209600</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">4</named-content>
+<named-content content-type="specimenCode">4</named-content>
 </tp:material-citation>
 : 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">91.6–129.5 mm</named-content>
+<tp:material-citation>
+<named-content content-type="quantity">91.6–129.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">10°2.70’N</named-content>
+<named-content content-type="geoCoordinate">10°2.70’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">97°22.75’E</named-content>
+<named-content content-type="geoCoordinate">97°22.75’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">125 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">125 m</named-content>
 </named-content>
 , station 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">154, 184 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">154, 184 m</named-content>
 depth
 </named-content>
 , P.N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Psomadakis</named-content>
+<named-content content-type="location">Psomadakis</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 September 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 September 2018</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAIAB 209599</named-content>
+<named-content content-type="specimenCode">SAIAB 209599</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">5</named-content>
+<named-content content-type="specimenCode">5</named-content>
 </tp:material-citation>
 : 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">74.3–115.1 mm</named-content>
+<tp:material-citation>
+<named-content content-type="quantity">74.3–115.1 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">10°21.44’N</named-content>
+<named-content content-type="geoCoordinate">10°21.44’N</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">97°25.10’E</named-content>
+<named-content content-type="geoCoordinate">97°25.10’E</named-content>
 , station 149, 181– 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">183 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">183 m</named-content>
 depth
 </named-content>
 , P.N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Psomadakis</named-content>
+<named-content content-type="location">Psomadakis</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26 September 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26 September 2018</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USNM 451517</named-content>
+<named-content content-type="specimenCode">USNM 451517</named-content>
 </tp:material-citation>
 , 
 99.5 mm
 SL and 
 KAUM-I
 . 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 149193, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">88.5 mm</named-content>
+<named-content content-type="quantity">88.5 mm</named-content>
 SL, both collected with 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAIAB 209599</named-content>
+<named-content content-type="specimenCode">SAIAB 209599</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 A species of 
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca</tp:taxon-name>
+<tp:taxon-name>Chelidoperca</tp:taxon-name>
 distinguished from congeners by the following combination of characters: scale rows between lateral line and middle of spinous dorsal-fin base 3 (2 full-sized plus 1 half-sized); pored lateral-line scales 42–44 (modally 44); pectoral-fin rays 16; predorsal scales 7–8 (modally 7); scale rows absent from ventral side of dentary; scale rows on interorbital area extending to mid-orbit level; maxilla expanded posteriorly, covered ventrally by high skin fold; outermost row teeth of upper jaw distinctly enlarged; side of body with longitudinal dashed black stripe; 8–9 short white sub-triangular bars ventrally; dorsal-fin pale yellow with reddish pigment mostly restricted at base of spines and rays.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Proportional measurements are given in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 . Data for the 
 holotype
 presented first, followed by 
 paratype
 data in parentheses, if different. Dorsal-fin rays X, 10; anal-fin rays III, 6; pectoral-fin rays 16; pelvic-fin rays I, 5. Pored lateral-line scales 43 (42–44); cheek scale rows 6 (5–6), scale rows above lateral line 3 (2 full-sized plus 1 half-sized) (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1885-1909-">Fig. 5A</xref>
+<xref rid="fig-11--151-250-1885-1909-">Fig. 5A</xref>
 ); scale rows below lateral line 11 (10–11); predorsal scale rows 7 (7–8), circumpeduncular scales 20 (16–20). Gill rakers on upper limb 7 (5–7), gill rakers on lower limb 13 (12–14); developed gill rakers on upper limb 2 (2–3), developed gill rakers on lower limb 9 (9–10); total gill rakers 20 (17–20).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-2--151-250-1445-1469-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-2--151-250-1445-1469-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
 Fresh specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
+<tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
 collected off Tanintharyi Coast, Myanmar: 
 A.
 SAIAB 203716, holotype, 114.2 mm SL (photo by P.N. Psomadakis); 
@@ -214,22 +214,22 @@ B.
 SAIAB 203723, paratype, 110.9 mm SL (photo by O. Alvheim).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4533974/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Body fusiform, slightly elongated, its depth less than head length, contained 4.1 (4.0–4.9) in SL; head length 2.5 (2.4–2.7) in SL; snout rounded, its length 10.6 (10.0–12.5) in SL; dorsal profile of snout forming an angle of ca. 30° with horizontal axis of head and body. Orbit large, its diameter 9.8 (8.6–10.1); interorbital width 31.7 (30.8–42.6) in SL. Mouth large, angled diagonally upwards; posterior margin of maxilla extending beyond vertical through midorbit, but not reaching vertical through posterior margin of orbit; upper jaw length 5.7 (5.3–5.8) in SL; lower jaw protruding well beyond upper jaw when mouth closed, its length 4.2 (4.1–4.5) in SL; maxilla expanded posteriorly and covered ventrally by high skin fold (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1944-1968-">Fig. 6A</xref>
+<xref rid="fig-12--151-250-1944-1968-">Fig. 6A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>Upper jaw with a multi-serial band of mostly small, conical teeth, slightly tapering posteriorly; teeth of innermost rows near symphysis become gradually enlarged posteriorly; teeth of outermost row distinctly enlarged, those near symphysis largest, antrorse, caniniform, and gradually decreasing in size posteriorly. Lower jaw with narrower band of similar teeth, tapering posteriorly; outermost teeth enlarged on anterior part of jaw whereas innermost ones enlarged on posterior part of jaw. Vomer with V-shaped band of 3–5 rows of small conical teeth, with several enlarged and directed posteriorly on posterior portion. Palatine with 3–4 rows of small, conical teeth. Anterior nostril with raised rim anteriorly expanding to become fairly large skin flap posteriorly; posterior nostril oval.</p>
-<!--template match = paragraph--><p>Posterior margins of preopercle, interopercle and subopercle serrated, serrae on preopercle 35 (36 on right side) (17–36), interopercle 10 (8 on right side) (3–17) and subopercle 7 (8 on right side) (3–15). Opercle with 2 flat, prominent spines, upper spine longer than lower. Posttemporal with 2 (4 on right side) (1–4) serrae.</p>
-<!--template match = paragraph--><p>First supraorbital sensory canal pore at anterior edge of snout about the size of front row tooth of upper jaw; remaining pores tiny, in a series up to posterior nostril where they form two rows continuing into interorbital space. First infraorbital pore below posterior nostril, more or less at level of lower edge of pupil and similar in size to first supraorbital pore; at least 5 ventrally directed, similar size pores along ventral edge of lachrymal; remaining pores tiny, along edge of orbit. First mandibular-preopercular canal pore on chin anteriorly directed and followed by 4 round to slightly oval ventral pores, the posterior 3 usually accompanied by a smaller pore nearby. First (anterior) preopercular pore similar in size to ventral lachrymal pores, followed by many pairs of tiny pores dorsally.</p>
-<!--template match = paragraph--><p>
+<p>Upper jaw with a multi-serial band of mostly small, conical teeth, slightly tapering posteriorly; teeth of innermost rows near symphysis become gradually enlarged posteriorly; teeth of outermost row distinctly enlarged, those near symphysis largest, antrorse, caniniform, and gradually decreasing in size posteriorly. Lower jaw with narrower band of similar teeth, tapering posteriorly; outermost teeth enlarged on anterior part of jaw whereas innermost ones enlarged on posterior part of jaw. Vomer with V-shaped band of 3–5 rows of small conical teeth, with several enlarged and directed posteriorly on posterior portion. Palatine with 3–4 rows of small, conical teeth. Anterior nostril with raised rim anteriorly expanding to become fairly large skin flap posteriorly; posterior nostril oval.</p>
+<p>Posterior margins of preopercle, interopercle and subopercle serrated, serrae on preopercle 35 (36 on right side) (17–36), interopercle 10 (8 on right side) (3–17) and subopercle 7 (8 on right side) (3–15). Opercle with 2 flat, prominent spines, upper spine longer than lower. Posttemporal with 2 (4 on right side) (1–4) serrae.</p>
+<p>First supraorbital sensory canal pore at anterior edge of snout about the size of front row tooth of upper jaw; remaining pores tiny, in a series up to posterior nostril where they form two rows continuing into interorbital space. First infraorbital pore below posterior nostril, more or less at level of lower edge of pupil and similar in size to first supraorbital pore; at least 5 ventrally directed, similar size pores along ventral edge of lachrymal; remaining pores tiny, along edge of orbit. First mandibular-preopercular canal pore on chin anteriorly directed and followed by 4 round to slightly oval ventral pores, the posterior 3 usually accompanied by a smaller pore nearby. First (anterior) preopercular pore similar in size to ventral lachrymal pores, followed by many pairs of tiny pores dorsally.</p>
+<p>
 Body and head covered with ctenoid scales, but snout and maxilla naked; lateral line slightly curved, terminating at caudal-fin base. Caudal-fin base covered by about 5 rows of smaller ctenoid scales; proximal part of upper- and lowermost caudal-fin rays with small weakly ctenoid scales, grading to cycloid scales distally. Pectoral-fin base with ctenoid scales anteriorly, changing to cycloid ones closer to rays. No basal scaly sheath along dorsal- and analfin bases. Small cycloid scales present proximally on membrane between last spine and first 1 or 2 rays of dorsal and anal fins. Scales between pelvic-fin bases cycloid; pelvic rays with small cycloid scales proximally. Scales on ventral surface of lower jaw restricted to angular, not extending onto dentary (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1943-1967-">Fig. 7A</xref>
+<xref rid="fig-13--151-250-1943-1967-">Fig. 7A</xref>
 ). Interorbital scales mostly cycloid, extending at most to vertical at middle of orbit (
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1936-1960-">Fig. 8C</xref>
+<xref rid="fig-14--151-250-1936-1960-">Fig. 8C</xref>
 ). Uppermost row of body scales along dorsal-fin base always about half size of adjacent lower body scales; tiny and irregularly spaced scales sometimes present at bases of spines.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Dorsal-fin origin above pectoral-fin base, 4 
 <sup>th</sup>
 spine (rarely 5 
@@ -250,23 +250,23 @@ longest. Pectoral fin with uppermost 2 rays and lowermost ray unbranched, remain
 <sup>nd</sup>
 longest, its tip usually not reaching to anus. Caudal fin truncate, its upper lobe pointed and slightly longer than lower lobe; principal caudal-fin rays 9+8, upper- and lowermost rays unbranched; 1–2 segmented and at least 5 unsegmented procurrent caudal-fin rays dorsally and ventrally.
 </p>
-<!--template match = paragraph--><p>Formula for configuration of supraneural bones, neural spines and dorsal pterygiophores 0/0/0+1/2/1/1/1/1/1/1 /1/2/1/1/1–2/1–2/1/; vertebrae 10+14.</p>
-<!--template match = paragraph--><p>
+<p>Formula for configuration of supraneural bones, neural spines and dorsal pterygiophores 0/0/0+1/2/1/1/1/1/1/1 /1/2/1/1/1–2/1–2/1/; vertebrae 10+14.</p>
+<p>
 Fresh coloration
 . Based on colour photographs of fresh 
 holotype
 , one 
 paratype
 (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1445-1469-">Fig. 1</xref>
+<xref rid="fig-2--151-250-1445-1469-">Fig. 1</xref>
 ) and photographic records of three (including one juvenile) not retained specimens (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1922-1946-">Fig. 2</xref>
+<xref rid="fig-4--151-250-1922-1946-">Fig. 2</xref>
 ). Head and body red, the scales dorsally (excluding those of lateral line) intensely edged with black. Eight or nine short white sub-triangular bars arising from ventral profile and not extending beyond level of upper pectoral-fin base. Lower part of opercle, subopercle and branchiostegal rays with a yellow tinge. Blackish dashed stripe along midbody from upper corner of opercle to midcaudal-fin base in juveniles (from behind upper corner of opercle to mid-caudal peduncle in adults) composed of a series of five or six elongate dark blotches. Dorsal fin pale yellow with reddish pigment at base of spines and rays. Anal fin light red with submarginal yellow band, distal margin whitish; last rays of anal fin sometimes with alternating yellow and grey short bands. Pectoral fins with reddish base, the remainder of fin hyaline with yellowish tinge. Membrane of pelvic fins yellow with pale red spines and rays; caudal fin red basally and extending along upper and lower edges, midposterior portion of fin with several irregular rows of yellow spots on a pale grey background.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Preserved coloration
 . Based on all examined specimens (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1349-1373-">Fig. 3A</xref>
+<xref rid="fig-5--151-250-1349-1373-">Fig. 3A</xref>
 ). Body pale brown, head somewhat darker, mostly on upper half, including tip of upper jaw. Five or six dark dashes, each 3–5 scales long and 1–2 scales deep, in straight line from corner of opercle and below lateral line, crossing lateral line below middle of soft portion of dorsal fin and ending above lateral line at caudal-fin base; area between dark dashes dusky. Scales above dashes and on predorsal area dark-edged. Dark brown dots present proximally between 4 
 <sup>th</sup>
 and 6 
@@ -274,11 +274,11 @@ and 6
 dorsal-fin spines; dorsal-fin soft rays with dark brown dots along most of their length. Anal fin usually pale. Pectoral-fin base with melanophores, usually in stellate form, that together may look like a faint brown spot on the fin’s base, and variable amount of microscopic blackish dots proximally on pectoral-fin rays. Pelvic fins pale. Caudal fin with four or five irregular, narrow bars dark brown on central rays, becoming increasingly faint toward the dorsal and ventral margins. Microscopic blackish dots present on upper jaw, mostly on premaxilla and sometimes in two or three clusters; similar dots sometimes present on maxillary flange. Lower jaw mostly pale, but scattered microscopic blackish dots and/or one cluster of such dots, usually anteriorly, sometimes present. Peritoneum, stomach and intestine pale.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-250-1922-1946-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-250-1922-1946-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
 Images of fresh and subsequently discarded specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
+<tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
 collected off Tanintharyi Coast, Myanmar (photos by O. Alvheim): 
 A.
 150 mm TL; 
@@ -288,22 +288,22 @@ C.
 62 mm TL.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4533976/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-250-1349-1373-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--151-250-1349-1373-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
 Preserved holotypes: 
 A.
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni , SAIAB</tp:taxon-name>
+<tp:taxon-name>Chelidoperca myathantuni , SAIAB</tp:taxon-name>
 203716, 114.2 mm SL; and 
 B.
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca flavimacula , SAIAB</tp:taxon-name>
+<tp:taxon-name>Chelidoperca flavimacula , SAIAB</tp:taxon-name>
 209601, 69.5 mm SL, both collected off Tanintharyi Coast, Myanmar (photos by N. Mazungula).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4533978/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
+<tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
 is currently known only from the Andaman Sea, off the south-eastern coast of 
 Myanmar
 at depths of 
@@ -314,8 +314,8 @@ at depths of
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 The species is named in honor of Mya Than Tun, former Director, Research and Development Division, DOF, 
 Myanmar
@@ -323,87 +323,87 @@ and WCS national coordinator (now retired), in recognition of his remarkable con
 Myanmar
 , and untiring dedication to the advancement of ichthyology in his country.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Comparisons.
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
+<tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
 can be distinguished from 
-<!--template match = taxonomicName--><tp:taxon-name>C. africana</tp:taxon-name>
+<tp:taxon-name>C. africana</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. cerasina</tp:taxon-name>
+<tp:taxon-name>C. cerasina</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. flavolineata</tp:taxon-name>
+<tp:taxon-name>C. flavolineata</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. hirundinacea</tp:taxon-name>
+<tp:taxon-name>C. hirundinacea</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. lecromi</tp:taxon-name>
+<tp:taxon-name>C. lecromi</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. maculicauda</tp:taxon-name>
+<tp:taxon-name>C. maculicauda</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>C. pleurospilus</tp:taxon-name>
+<tp:taxon-name>C. pleurospilus</tp:taxon-name>
 by having 3 (2 full-sized plus 1 half-sized) vs. 4 (3 full-sized plus 1 half-sized) scale rows between the lateral line and the middle of the spinous dorsal-fin base. Among the species having 3 scale rows in that region, 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 is most similar to 
-<!--template match = taxonomicName--><tp:taxon-name>C. occipitalis</tp:taxon-name>
+<tp:taxon-name>C. occipitalis</tp:taxon-name>
 in general morphology and coloration (i.e., presence of a longitudinal dashed stripe composed of five or six blackish blotches along the side of the body) but it can be readily distinguished from the latter in lacking the short, dark bands on the upper caudal-fin ray and the small dark red spots anteriorly on the soft-rayed portion of dorsal fin (both retained as dark markings in preserved specimens). It is also distinguishable from 
-<!--template match = taxonomicName--><tp:taxon-name>C. occipitalis</tp:taxon-name>
+<tp:taxon-name>C. occipitalis</tp:taxon-name>
 in having relatively more pectoral-fin rays [16 vs. 14–16 (modally 15)]; a longer jaw [22.2–24.1 (mean 23.2) vs. 18.4–20.3 (mean 19.4) % SL]; a shorter caudal-fin length [22.7–25.7 (mean 24.4) vs. 26.9 –28.1 (mean 27.5) % SL]; a slightly smaller head length [36.6–41.8 (mean 39.7) vs. 41.3–43.2 (mean 42.2) % SL], orbit diameter [9.9–11.6 (mean 10.5) vs. 11.5–12.6 (mean 11.8) % SL] and pectoral-fin length 22.2–26.0 (mean 24.4) [vs. 26.1–26.9 (mean 26.5) % SL].
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
+<p>
+<tp:taxon-name>Chelidoperca myathantuni</tp:taxon-name>
 can be easily distinguished from other congeners (except 
-<!--template match = taxonomicName--><tp:taxon-name>C. investigatoris</tp:taxon-name>
+<tp:taxon-name>C. investigatoris</tp:taxon-name>
 ) having 3 (2 full-size plus 1 half-sized) scale rows between the lateral line and spinous dorsal-fin base by the presence of a distinct blackish dashed stripe along mid-body (retained in preserved specimens). It differs from 
-<!--template match = taxonomicName--><tp:taxon-name>C. investigatoris</tp:taxon-name>
+<tp:taxon-name>C. investigatoris</tp:taxon-name>
 in having 16 (vs. 14–15) pectoral-fin rays; 7–8 (vs. 10) predorsal scales; a smaller head, 36.6–41.8 % (vs. 45.0–46.5 %) of SL, postorbital length, 20.2–22.7 % (vs. 26.2–27.0 %) of SL and upper jaw, 17.1–18.7 % (vs. 20.1–20.2 %) of SL; enlarged caniniform teeth in the upper jaw (vs. no distinct caniniform teeth in the upper jaw); caudal fin truncate, with the upper lobe slightly elongate and pointed and the lower lobe truncate (vs. caudal fin emarginate, with both lobes slightly elongate and pointed); pectoral fin short, nearly extending to the anus (vs. pectoral fin long, extending to the anal-fin origin; upper lip fold high (vs. upper lip fold low); interorbital scales reaching to mid-orbit (vs. extending to level of posterior nostril); scales on the lower jaw ventral surface restricted to the angular (vs. extending onto the posterior portion of the dentary). Although 
-<!--template match = taxonomicName--><tp:taxon-name>C. investigatoris</tp:taxon-name>
+<tp:taxon-name>C. investigatoris</tp:taxon-name>
 may occasionally present a darkish dashed stripe along midbody (see 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1922-1946-">
+<xref rid="fig-4--151-250-1922-1946-">
 Fig. 
 2
 </xref>
 in 
-<!--template match = bibRefCitation--><xref rid="ref9413">
+<xref rid="ref9413">
 Bineesh 
 et al
 . 2014
 </xref>
 ), it usually has a longitudinal uninterrupted yellow stripe on midbody from snout tip to caudal-fin base in fresh condition which readily distinguishes it from 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 . The latter also has several irregular rows of yellow spots on the mid-posterior portion of the caudal fin (vs. caudal fin uniformly yellowish to reddish) and a reddish anal fin with yellow submarginal band (vs. anal fin transparent with narrow yellowish to reddish edge).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The only other congener sharing with 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 a longitudinal blackish dashed stripe along the side of the body in fresh condition is 
-<!--template match = taxonomicName--><tp:taxon-name>C. pleurospilus</tp:taxon-name>
+<tp:taxon-name>C. pleurospilus</tp:taxon-name>
 (
-<!--template match = bibRefCitation--><xref rid="ref9916">
+<xref rid="ref9916">
 Ogino 
 et al
 . 2019
 </xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref9848">
+<xref rid="ref9848">
 Matsunuma 
 et al
 . 2020
 </xref>
 ; this study). However, 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 can be distinguished from the latter species in having 3 (2 full-size plus 1 half-sized) vs. 4 (3 full-sized plus 1 half-sized) scale rows between the lateral line and middle of the spinous dorsal-fin base. Furthermore, 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 has relatively more pectoral-fin rays [16 vs. 15–16 (modally 15)]. In pigmentation, 
-<!--template match = taxonomicName--><tp:taxon-name>C. myathantuni</tp:taxon-name>
+<tp:taxon-name>C. myathantuni</tp:taxon-name>
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>C. pleurospilus</tp:taxon-name>
+<tp:taxon-name>C. pleurospilus</tp:taxon-name>
 in having the soft portion of the dorsal fin with reddish spots mostly restricted to the base of rays (vs. two or three rows of distinct dark red elongate spots on rays) and the scales on dorsum intensely black-edged (vs. only lightly black-edged).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 Most specimens have lost many of their scales, more often those on the lower part of the body, the predorsal area, the cheek and on the fins. The cheek scale count is of the large scales between the preopercular ridge and the eye, but there are 1–3 small scales between the edge and ridge covering the preopercular sensory canal. In most specimens the small scales on the dorsal- and anal-fin rays are limited to the area between the last spine and first soft ray, but in some of the largest specimens scales are also present between the first two soft rays of these fins. Also, in most specimens there are no scales along the uppermost caudal-fin rays other those of the transverse series that covers the fin’s base. The majority of the specimens have 18–20 circumpeduncular scales, and one has 16 scales. Because the skin of the predorsal and temporal areas and the cheek was mostly damaged it was impossible to describe details of the preopercular, temporal and supratemporal sensory canals. However, in some specimens we were able to observe some tiny pores, single or paired, the latter two canals.
 </p>
-<!--template match = paragraph--><p>In preservative, colour variation in the pectoral fin includes differences between the two fins of the same fish. In the larger specimen small clusters of dark brown dots are present basally on the anal fin membrane, and also along part of the posterior rays. The dark areas of the middle caudal-fin rays look like an extension of the lateral body stripe, but there is usually a clear, unpigmented space between the last dark dash of the body stripe and the first dark bar of the caudal fin.</p>
+<p>In preservative, colour variation in the pectoral fin includes differences between the two fins of the same fish. In the larger specimen small clusters of dark brown dots are present basally on the anal fin membrane, and also along part of the posterior rays. The dark areas of the middle caudal-fin rays look like an extension of the lateral body stripe, but there is usually a clear, unpigmented space between the last dark dash of the body stripe and the first dark bar of the caudal fin.</p>
 </tp:treatment-sec>
 </tp:taxon-treatment>

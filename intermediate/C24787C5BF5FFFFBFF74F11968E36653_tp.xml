@@ -1,93 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Paloniella feana ( Distant, 1904 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Paloniella feana ( Distant, 1904 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-8--151-264-1759-1783-">Figs. 2F</xref>
+<xref rid="fig-8--151-264-1759-1783-">Figs. 2F</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1863-1887-">6H</xref>
+<xref rid="fig-23--151-264-1863-1887-">6H</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-27--151-264-1796-1820-">10B</xref>
+<xref rid="fig-27--151-264-1796-1820-">10B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-31--151-264-1846-1870-">14</xref>
+<xref rid="fig-31--151-264-1846-1870-">14</xref>
 A–D)
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Isometopus feanus Distant, 1904: 484</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Isometopus feanus Distant, 1904: 484</tp:taxon-name>
 (as new species, DV); Schuh 1995: 9 (catalogue); 
-<!--template match = bibRefCitation--><xref rid="ref19473">Schuh 2002</xref>
+<xref rid="ref19473">Schuh 2002</xref>
 –2013 (online
 </tp:nomenclature-citation-list>
 catalogue).
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Paloniella feana : Akingbohungbe 1996: 102</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Paloniella feana : Akingbohungbe 1996: 102</tp:taxon-name>
 , 103 (new combination).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis
 . Small, length 
 2 mm
 , shiny, yellowish brown to brown, with shiny elongate setae on the dorsum. Head and lateral areas of pronotum and corium paler; membrane pale fuscous, with the lateral and apical areas greyish; eyes pale brown to dark brown; head with a distinct rounded transverse impression between eyes. Antennal segment I reddish brown or dark brown; segment II pale brown, apex darker; segment III and IV dark brown. Posterior margins of eyes slightly projecting backward to touch the anterior margin of the pronotum; ocelli closer to eyes than to each other. Pronotum finely punctate, with short longitudinal impression on anterior area; scutellum triangularly foveate at base, finely transversely rugose beyond; corium finely rugosely punctate. 
 Male genitalia
 : as in 
-<!--template match = figureCitation--><xref rid="fig-31--151-264-1846-1870-">Figs. 14</xref>
+<xref rid="fig-31--151-264-1846-1870-">Figs. 14</xref>
 A–D. Detailed measurements in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 (³): j YanjaR (as “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+<named-content content-type="collectingCountry">Burma</named-content>
 ”): Palon, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fea</named-content>
+<named-content content-type="collectorName">Fea</named-content>
 leg. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHF</named-content>
+<named-content content-type="collectionCode">ZMHF</named-content>
 ).
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other specimens examined
 : 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCountry">INDIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Karnataka</named-content>
+<named-content content-type="collectingRegion">Karnataka</named-content>
 , 4³, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Belgaum</named-content>
+<named-content content-type="collectingMunicipality">Belgaum</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Arabhavi</named-content>
+<named-content content-type="location">Arabhavi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15. viii. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15. viii. 2011</named-content>
 </named-content>
 , at light, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yeshwanth, H. M.</named-content>
+<named-content content-type="collectorName">Yeshwanth, H. M.</named-content>
 leg. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UASB</named-content>
+<named-content content-type="collectionCode">UASB</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 . 
 India
@@ -100,8 +100,8 @@ Myanmar
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Biology
 . Unknown
 </p>

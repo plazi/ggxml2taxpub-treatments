@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Batomys sp. Heaney et al. 2011:236<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Figs. 5G</xref>
+<tp:nomenclature><tp:taxon-name>Batomys sp. Heaney et al. 2011:236<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-10--144-178-1865-1886-">Figs. 5G</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-14--144-179-1555-1576-">9A, 9B</xref>
+<xref rid="fig-14--144-179-1555-1576-">9A, 9B</xref>
 , and 
-<!--template match = figureCitation--><xref rid="fig-16--144-179-1422-1443-">11</xref>
+<xref rid="fig-16--144-179-1422-1443-">11</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 1</xref>
+<xref>Tables 1</xref>
 and 
-<!--template match = tableCitation--><xref>3</xref>
+<xref>3</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .—
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">PNM II-1977-J3-7554</named-content>
+<named-content content-type="specimenCode">PNM II-1977-J3-7554</named-content>
 , a partial right dentary with m1–3 present (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 11A and 11B</named-content>
+<named-content content-type="figureCitation">Figs. 11A and 11B</named-content>
 ); the incisor and most surrounding bone, and all portions posterior to m3, are absent. m1–3 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 5G</named-content>
+<named-content content-type="figureCitation">Fig. 5G</named-content>
 ) are moderately worn, indicating that the animal was an adult at the time of death.
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Type locality.—
 Callao Cave
 , 
@@ -43,7 +43,7 @@ Luzon Island
 , 
 Philippines
 (
-<!--template match = figureCitation--><xref rid="fig-2--144-179-2005-2026-">Fig. 1</xref>
+<xref rid="fig-2--144-179-2005-2026-">Fig. 1</xref>
 ), 
 
 17°42 
@@ -67,47 +67,47 @@ below surface
 
 ).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratype</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratype</named-content>
 .—
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">PNM II-1977-J3-7573</named-content>
+<named-content content-type="specimenCode">PNM II-1977-J3-7573</named-content>
 , a partial left dentary with m1–2 and incisor. The entire anterior portion of the dentary is present except for a thin layer of bone that lies anterior to the base of the incisor (figure 1A in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Heaney et al. 2011</named-content>
+<named-content content-type="bibRefCitation">Heaney et al. 2011</named-content>
 ). The dentary is broken diagonally from the area lateral to the missing m3 to the anterior base of the angular process; the posterior portion of the dentary is absent. m1 and m2 are present and in good condition; they are lightly worn, indicating that the animal was an adult at the time of death. m3 is absent, but its alveoli are present
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Age of specimens.—
 Specimens 7554 and 7573 derive from the Late Pleistocene levels of Callao Cave dated at least ca. 66,700 BP (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.—
 Known only from the 
 two specimens
 from Callao Cave (
-<!--template match = figureCitation--><xref rid="fig-2--144-179-2005-2026-">Fig. 1</xref>
+<xref rid="fig-2--144-179-2005-2026-">Fig. 1</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-15--101-136-1031-1052-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-15--101-136-1031-1052-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 10.
 — 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys ballik</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->n. sp.
+<tp:taxon-name>Crateromys ballik</tp:taxon-name>
+n. sp.
 partial maxillary (PNM II-1977-J3-10389) with palate and all molar teeth, showing the incisive foramina (if), base of zygomatic arch (za), and palatal grooves (pg).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.—
 The new species is named for the 
 Cagayan
@@ -116,15 +116,15 @@ ensis
 ,” meaning “from.”
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.—
 A member of the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 as diagnosed and defined by Musser and Heaney (1992) and 
-<!--template match = bibRefCitation--><xref rid="ref18591">Musser et al. (1998)</xref>
+<xref rid="ref18591">Musser et al. (1998)</xref>
 . Largest species of 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 , with robust dentary. Lower incisor broad, 
 1.5 mm
 at midpoint. Lower toothrow length is 
@@ -134,61 +134,61 @@ at midpoint. Lower toothrow length is
 ; m1 width ranges from 
 2.27 to 2.88 mm
 (
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 ). Metaconid–protoconid laminae in m1–3 are less strongly arched than hypoconid– entoconid laminae. Posterior cingula on m1 and m2 are large, cordate, and somewhat elongate (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
+<xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description and comparisons.—
 The largest known member of the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 ; overall dental terminology follows that shown in 
-<!--template match = figureCitation--><xref rid="fig-4--861-896-1502-1523-">Figs. 2C and 2D</xref>
+<xref rid="fig-4--861-896-1502-1523-">Figs. 2C and 2D</xref>
 . Measurements of individual teeth are provided in 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 . Molar and dentary depth measurements of 
-<!--template match = taxonomicName--><tp:taxon-name>B. cagayanensis</tp:taxon-name>
+<tp:taxon-name>B. cagayanensis</tp:taxon-name>
 are greater than those of the three species from Luzon (
-<!--template match = taxonomicName--><tp:taxon-name>B. dentatus</tp:taxon-name>
+<tp:taxon-name>B. dentatus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>B. granti</tp:taxon-name>
+<tp:taxon-name>B. granti</tp:taxon-name>
 , and 
-<!--template match = taxonomicName--><tp:taxon-name>B. uragon</tp:taxon-name>
+<tp:taxon-name>B. uragon</tp:taxon-name>
 ), including comparisons for individuals with heavily worn teeth (
-<!--template match = figureCitation--><xref rid="fig-14--144-179-1555-1576-">Fig. 9</xref>
+<xref rid="fig-14--144-179-1555-1576-">Fig. 9</xref>
 ). The dentary is robust, with a large mental foramen and deep masseteric fossa (
-<!--template match = figureCitation--><xref rid="fig-16--144-179-1422-1443-">Fig. 11A</xref>
+<xref rid="fig-16--144-179-1422-1443-">Fig. 11A</xref>
 ); within the 
 Philippines
 , only 
-<!--template match = taxonomicName--><tp:taxon-name>Phloeomyini</tp:taxon-name>
+<tp:taxon-name>Phloeomyini</tp:taxon-name>
 have equally robust dentaries. In 
-<!--template match = taxonomicName--><tp:taxon-name>B. granti</tp:taxon-name>
+<tp:taxon-name>B. granti</tp:taxon-name>
 , the anteroconid is nearly connected by a structure with the anterior side of the protoconid; this structure is present in one of our two 
-<!--template match = taxonomicName--><tp:taxon-name>B. cagayanensis</tp:taxon-name>
+<tp:taxon-name>B. cagayanensis</tp:taxon-name>
 but is less elongate than in 
-<!--template match = taxonomicName--><tp:taxon-name>B. granti</tp:taxon-name>
+<tp:taxon-name>B. granti</tp:taxon-name>
 . In comparison with 
-<!--template match = taxonomicName--><tp:taxon-name>B. dentatus</tp:taxon-name>
+<tp:taxon-name>B. dentatus</tp:taxon-name>
 , posterior cingula on m1 and m2 are larger and more cordate (compare 
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
+<xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
 with figure 
 21 in
-<!--template match = bibRefCitation--><xref rid="ref18591">Musser et al. 1998</xref>
+<xref rid="ref18591">Musser et al. 1998</xref>
 ). The lower incisor of 
-<!--template match = taxonomicName--><tp:taxon-name>B. cagayanensis</tp:taxon-name>
+<tp:taxon-name>B. cagayanensis</tp:taxon-name>
 (figure 
 1 in
-<!--template match = bibRefCitation--><xref rid="ref17673">Heaney et al. 2011</xref>
+<xref rid="ref17673">Heaney et al. 2011</xref>
 ) is broad, with width at the midpoint of 
 1.5 mm
 , and from the tip to the anteriormost projection of bone along the medial edge at the alveolus is 
 4.7 mm
 . The dorsal wear surface of the incisor extends nearly to the base of the dentary bone, with the tip ending well above the occlusal plane of the lower molars. The lower incisor of 
-<!--template match = taxonomicName--><tp:taxon-name>B. granti</tp:taxon-name>
+<tp:taxon-name>B. granti</tp:taxon-name>
 is narrower and longer, with width at the midpoint of 
 1.2 mm
 , and from the tip to the anteriormost projection of bone along the medial edge is 
@@ -200,7 +200,7 @@ n
 ). The dorsal wear surface of the incisor extends about 
 1.5 mm
 above the base of the dentary bone, with the tip ending at or near the occlusal plane of the lower molars. 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys uragon</tp:taxon-name>
+<tp:taxon-name>Batomys uragon</tp:taxon-name>
 has lower incisors that are very similar, 
 1.2 mm
 in width and 
@@ -208,98 +208,98 @@ in width and
 in length along the medial edge (
 n
 = 2). 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys dentatus</tp:taxon-name>
+<tp:taxon-name>Batomys dentatus</tp:taxon-name>
 also have narrower incisors than 
-<!--template match = taxonomicName--><tp:taxon-name>B. cagayanensis</tp:taxon-name>
+<tp:taxon-name>B. cagayanensis</tp:taxon-name>
 , only slightly wider than those of 
-<!--template match = taxonomicName--><tp:taxon-name>B. granti ( Heaney et al. 2011 )</tp:taxon-name>
+<tp:taxon-name>B. granti ( Heaney et al. 2011 )</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Like 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 and other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>B . cagayanensis</tp:taxon-name>
+<tp:taxon-name>B . cagayanensis</tp:taxon-name>
 has mandibular molars in which there is a large anteroconid comprising an anterocentral cusp fused with anterolabial and anterolingual cusps, which forms the anterior third of the tooth (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
+<xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
 ). On m3, the metaconid–protoconid lamina is strongly arched with a deep cleft posterior to the central connection between the metaconid and protoconid centers, similar to the morphology of 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Figs. 5D–F</xref>
+<xref rid="fig-10--144-178-1865-1886-">Figs. 5D–F</xref>
 ) but differing from 
-<!--template match = taxonomicName--><tp:taxon-name>Carpomys</tp:taxon-name>
+<tp:taxon-name>Carpomys</tp:taxon-name>
 in which this lamina is gently and smoothly arched and the cleft is shallower (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Figs. 5A and 5B</xref>
+<xref rid="fig-10--144-178-1865-1886-">Figs. 5A and 5B</xref>
 ). The lower molars of 
-<!--template match = taxonomicName--><tp:taxon-name>B . cagayanensis</tp:taxon-name>
+<tp:taxon-name>B . cagayanensis</tp:taxon-name>
 are high-crowned, but less so than in 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 , and they lack the small but distinct m3 posterior cingulum that is present on some specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 . The m3 hypoconid and entoconid are fused into a round loph (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
+<xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
 ), whereas this loph is chevronate in the Luzon 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Figs. 5A and 5B</xref>
+<xref rid="fig-10--144-178-1865-1886-">Figs. 5A and 5B</xref>
 ). Although the dentary of 
-<!--template match = taxonomicName--><tp:taxon-name>B . cagayanensis</tp:taxon-name>
+<tp:taxon-name>B . cagayanensis</tp:taxon-name>
 is robust relative to most murids, it is less robust as well as smaller than in all 
-<!--template match = taxonomicName--><tp:taxon-name>Crateromys</tp:taxon-name>
+<tp:taxon-name>Crateromys</tp:taxon-name>
 , including even the smallest known species of the genus, 
-<!--template match = taxonomicName--><tp:taxon-name>Cr. paulus</tp:taxon-name>
+<tp:taxon-name>Cr. paulus</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-14--144-179-1555-1576-">Figs. 9A and 9B</xref>
+<xref rid="fig-14--144-179-1555-1576-">Figs. 9A and 9B</xref>
 ; Musser and Heaney 1992; 
-<!--template match = bibRefCitation--><xref rid="ref17673">Heaney et al. 2011</xref>
+<xref rid="ref17673">Heaney et al. 2011</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18862">Reyes et al. 2017</xref>
+<xref rid="ref18862">Reyes et al. 2017</xref>
 ).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-16--144-179-1422-1443-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-16--144-179-1422-1443-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 11.
 —Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys cagayanensis</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->n. sp.
+<tp:taxon-name>Batomys cagayanensis</tp:taxon-name>
+n. sp.
 (PNM II-1977-J3-7554), right dentary: (A) labial view of mandible (mirrored); (B) lingual view of mandible.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
+<p>
 Luzon members of 
-<!--template match = taxonomicName--><tp:taxon-name>Rattini</tp:taxon-name>
+<tp:taxon-name>Rattini</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>Abditomys</tp:taxon-name>
+<tp:taxon-name>Abditomys</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Bullimus</tp:taxon-name>
+<tp:taxon-name>Bullimus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus everetti</tp:taxon-name>
+<tp:taxon-name>Rattus everetti</tp:taxon-name>
 , and 
-<!--template match = taxonomicName--><tp:taxon-name>Tryphomys</tp:taxon-name>
+<tp:taxon-name>Tryphomys</tp:taxon-name>
 —Musser and Heaney 1992) have dentaries somewhat less robust. 
-<!--template match = taxonomicName--><tp:taxon-name>Tryphomys</tp:taxon-name>
+<tp:taxon-name>Tryphomys</tp:taxon-name>
 is smaller overall, but 
-<!--template match = taxonomicName--><tp:taxon-name>Abditomys</tp:taxon-name>
+<tp:taxon-name>Abditomys</tp:taxon-name>
 is larger. In 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 , the anterolingual cusp is large, the laminae that comprise the molars are distinct and more strongly inclined than in Luzon 
-<!--template match = taxonomicName--><tp:taxon-name>Rattini</tp:taxon-name>
+<tp:taxon-name>Rattini</tp:taxon-name>
 , and the posterior cingulum of m1 and m2 is large (
-<!--template match = figureCitation--><xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
+<xref rid="fig-10--144-178-1865-1886-">Fig. 5G</xref>
 ); those of 
-<!--template match = taxonomicName--><tp:taxon-name>Abditomys</tp:taxon-name>
+<tp:taxon-name>Abditomys</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Tryphomys</tp:taxon-name>
+<tp:taxon-name>Tryphomys</tp:taxon-name>
 are, respectively, smaller, less distinct and less slanted anteriorly. 
-<!--template match = taxonomicName--><tp:taxon-name>Bullimus</tp:taxon-name>
+<tp:taxon-name>Bullimus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>R. everetti</tp:taxon-name>
+<tp:taxon-name>R. everetti</tp:taxon-name>
 have lower-crowned mandibular molars than 
-<!--template match = taxonomicName--><tp:taxon-name>Batomys</tp:taxon-name>
+<tp:taxon-name>Batomys</tp:taxon-name>
 , with laminae that are gently arched and composed of more extensively fused cusps; they have a well-defined labial cusplet on m1 and m2, and their molars are smaller (Musser and Heaney 1992; 
-<!--template match = bibRefCitation--><xref rid="ref17673">Heaney et al. 2011</xref>
+<xref rid="ref17673">Heaney et al. 2011</xref>
 ).
 </p>
 </tp:treatment-sec>

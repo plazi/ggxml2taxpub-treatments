@@ -1,63 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Neozavrelia minuta ( Linevich, 1963 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Neozavrelia minuta ( Linevich, 1963 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs 53–59</xref>
+<xref rid="fig-">Figs 53–59</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Tanytarsus minutus Linevich, 1963: 10</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Tanytarsus minutus Linevich, 1963: 10</tp:taxon-name>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 2</xref>
+<xref rid="fig-4--151-264-1943-1967-">Fig. 2</xref>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia minuta ( Linevich, 1963 )</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Neozavrelia minuta ( Linevich, 1963 )</tp:taxon-name>
 , 
 
-<!--treatment-citation--><tp:nomenclature-citation>Reiss 1971: 10</tp:nomenclature-citation>
+<tp:nomenclature-citation>Reiss 1971: 10</tp:nomenclature-citation>
 
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 1</xref>
+<xref rid="fig-4--151-264-1943-1967-">Fig. 1</xref>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 males</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">8 males</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">RUSSIA</named-content>
+<named-content content-type="collectingCountry">RUSSIA</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">IRKUTSK REGION</named-content>
+<named-content content-type="collectingRegion">IRKUTSK REGION</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Slyudyansky district</named-content>
+<named-content content-type="collectingCounty">Slyudyansky district</named-content>
 , basin of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Baikal Lake</named-content>
+<named-content content-type="collectingMunicipality">Baikal Lake</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Harlaht River</named-content>
+<named-content content-type="location">Harlaht River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.vii.1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.vii.1985</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. Kravtsova.</named-content>
+<named-content content-type="collectorName">L. Kravtsova.</named-content>
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description
 . 
 Adult male
@@ -67,29 +67,29 @@ Adult male
 2.6–2.7 mm
 . Total length/wing length 1.08–1.27.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Colouration
 . Ground colour of thorax, scutellum, maxillary palpomeres and abdomen yellowish brown; halters yellowish; antenna, scutal stripes, median band on distal half of mesonotum and postnotum, legs yellowish brown.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Head
 (
-<!--template match = figureCitation--><xref rid="fig-20--151-264-1943-1967-">Figs 56–57</xref>
+<xref rid="fig-20--151-264-1943-1967-">Figs 56–57</xref>
 ). Frontal tubercles absent. Temporal setae 8–12. Clypeus with 17–24 setae. Antenna with 10 flagellomeres, 1192–1256 μm long; ultimate flagellomere 600–664 μm, swollen apically. AR 0.99–1.14. Maxillary palpomeres 2–4 combined 600–656 μm long, their individual lengths (in μm): 64–80: 144–160: 144–168: 224–280. Antenna length/palp length 1.85–1.99.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-19--151-264-1613-1637-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-19--151-264-1613-1637-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 53–55.
 Details of the structure of the male of 
-<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia minuta (Linevich)</tp:taxon-name>
+<tp:taxon-name>Neozavrelia minuta (Linevich)</tp:taxon-name>
 . 53—total view of hypopygium; 54—lateral view of hypopygium; 55—gonostylus. Scale bar 50 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4569602/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Thorax
 . Acrostichals 17–22, dorsocentrals 10–13, prealars 1–2. Scutellum with 8–11 setae.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Wing
 width 
 0.69–0.84 mm
@@ -113,148 +113,148 @@ without setae, An with 0–9 setae. Cell r
 3+4
 with setae. Brachiolum with 1–2 setae.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Legs
 (see 
-<!--template match = tableCitation--><xref>Table 7</xref>
+<xref>Table 7</xref>
 ). Apical curved tibial spur of fore leg 48–58 μm long. Combs of mid and hind tibiae separated; each comb bears straight or slightly curved spur, 24–44 μm (mid tibia) to 41–51 μm long (hind tibia). Basitarsus of mid leg with 2–4 sensilla chaetica.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-20--151-264-1943-1967-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-20--151-264-1943-1967-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 56–59.
 The male of 
-<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia minuta (Linevich)</tp:taxon-name>
+<tp:taxon-name>Neozavrelia minuta (Linevich)</tp:taxon-name>
 . 56—head and maxillar palp; 57—antenna; 58, 59—total view of hypopygium. Scale bar 50 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4569604/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 7
 . Lengths (in µm) and proportion of legs of 
-<!--template match = taxonomicName--><tp:taxon-name>N. minuta ( Linevich, 1963 )</tp:taxon-name>
+<tp:taxon-name>N. minuta ( Linevich, 1963 )</tp:taxon-name>
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e328">
-<!--template match = tr--><tr>
-<!--template match = td--><td>P</td>
-<!--template match = td--><td>f</td>
-<!--template match = td--><td>t</td>
-<!--template match = td--><td>ta1</td>
-<!--template match = td--><td>ta2</td>
-<!--template match = td--><td>ta3</td>
-<!--template match = td--><td>ta4</td>
-<!--template match = td--><td>ta5</td>
+<p>
+<table id="d1e328">
+<tr>
+<td>P</td>
+<td>f</td>
+<td>t</td>
+<td>ta1</td>
+<td>ta2</td>
+<td>ta3</td>
+<td>ta4</td>
+<td>ta5</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P1</td>
-<!--template match = td--><td>1029–1050</td>
-<!--template match = td--><td>735–798</td>
-<!--template match = td--><td>945–1008</td>
-<!--template match = td--><td>567–630</td>
-<!--template match = td--><td>399–420</td>
-<!--template match = td--><td>315–336</td>
-<!--template match = td--><td>189</td>
+<tr>
+<td>P1</td>
+<td>1029–1050</td>
+<td>735–798</td>
+<td>945–1008</td>
+<td>567–630</td>
+<td>399–420</td>
+<td>315–336</td>
+<td>189</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P2</td>
-<!--template match = td--><td>1113–1155</td>
-<!--template match = td--><td>882–945</td>
-<!--template match = td--><td>420–462</td>
-<!--template match = td--><td>252–273</td>
-<!--template match = td--><td>189–210</td>
-<!--template match = td--><td>147</td>
-<!--template match = td--><td>126</td>
+<tr>
+<td>P2</td>
+<td>1113–1155</td>
+<td>882–945</td>
+<td>420–462</td>
+<td>252–273</td>
+<td>189–210</td>
+<td>147</td>
+<td>126</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P3</td>
-<!--template match = td--><td>1218–1281</td>
-<!--template match = td--><td>1113–1155</td>
-<!--template match = td--><td>567–651</td>
-<!--template match = td--><td>378–520</td>
-<!--template match = td--><td>336–357</td>
-<!--template match = td--><td>231–252</td>
-<!--template match = td--><td>168</td>
+<tr>
+<td>P3</td>
+<td>1218–1281</td>
+<td>1113–1155</td>
+<td>567–651</td>
+<td>378–520</td>
+<td>336–357</td>
+<td>231–252</td>
+<td>168</td>
 </tr>
 </table>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>TABLE 7. (Continued)</p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>TABLE 7. (Continued)</p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e453">
-<!--template match = tr--><tr>
-<!--template match = td--><td>P</td>
-<!--template match = td--><td>LR</td>
-<!--template match = td--><td>SV</td>
-<!--template match = td--><td>BV</td>
-<!--template match = td--><td>BR</td>
+<p>
+<table id="d1e453">
+<tr>
+<td>P</td>
+<td>LR</td>
+<td>SV</td>
+<td>BV</td>
+<td>BR</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P1</td>
-<!--template match = td--><td>
+<tr>
+<td>P1</td>
+<td>
 1.27–1.37
 </td>
-<!--template match = td--><td>1.75–1.87</td>
-<!--template match = td--><td>1.83–1.89</td>
-<!--template match = td--><td>2.0–2.8</td>
+<td>1.75–1.87</td>
+<td>1.83–1.89</td>
+<td>2.0–2.8</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P2</td>
-<!--template match = td--><td>0.37–0.43</td>
-<!--template match = td--><td>4.87–6.27</td>
-<!--template match = td--><td>3.49–3.90</td>
-<!--template match = td--><td>5.0–7.2</td>
+<tr>
+<td>P2</td>
+<td>0.37–0.43</td>
+<td>4.87–6.27</td>
+<td>3.49–3.90</td>
+<td>5.0–7.2</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P3</td>
-<!--template match = td--><td>0.47–0.51</td>
-<!--template match = td--><td>4.00–4.32</td>
-<!--template match = td--><td>2.31–2.41</td>
-<!--template match = td--><td>5.0–8.0</td>
+<tr>
+<td>P3</td>
+<td>0.47–0.51</td>
+<td>4.00–4.32</td>
+<td>2.31–2.41</td>
+<td>5.0–8.0</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Hypopygium
 (
-<!--template match = figureCitation--><xref rid="fig-19--151-264-1613-1637-">Figs 53–55</xref>
+<xref rid="fig-19--151-264-1613-1637-">Figs 53–55</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-20--151-264-1943-1967-">58–59</xref>
+<xref rid="fig-20--151-264-1943-1967-">58–59</xref>
 ). Anal tergite with V-shaped bands and posterolateral lobes 17–27 μm long; anterior margin triangular-shaped. The anal point narrow, parallel-sided, rounded apically, dorsally cover with several small spinulae and bearing 11–15 lateral setae on each side of anal point, 48–51 μm long and 17 μm wide on dorsal view. Gonocoxite 194–238 μm long, along the inner margin with 5–8 setae. The width of the transverse sternapodema 
 75–78 µm
 . Superior volsella oval-shaped (51–54 μm long, 27–31 μm wide), bearing 3–6 strong apical and 5–10 fine dorsal setae, microtrichia present. Digitus 34 μm long and 10 μm wide. Stem of median volsella straight and parallel-sided, 44–51 μm long, bearing slender lamelliform setae; total length of median volsella 85 μm. Inferior volsella curved and rounded apically, 136–143 μm long, with 17–18 setae. Gonostylus straight, 133–150 μm long and expanded at about median (51–65 μm). HR 1.41–1.66.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pupa
 and the 
 larva
 are shown in the figure 2 (
-<!--template match = bibRefCitation--><xref rid="ref24065">Linevich 1963</xref>
+<xref rid="ref24065">Linevich 1963</xref>
 , p. 11). Unfortunately, a detailed morphological description of the pupa and larva are still missing.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 Anna Andreevna 
-<!--template match = bibRefCitation--><xref rid="ref24065">Linevich (1963)</xref>
+<xref rid="ref24065">Linevich (1963)</xref>
 describes the life cycle in detail of 
-<!--template match = taxonomicName--><tp:taxon-name>N. minuta</tp:taxon-name>
+<tp:taxon-name>N. minuta</tp:taxon-name>
 , but does not provide a morphological description of the imago, pupa, and larva. A brief description of the males of 
-<!--template match = taxonomicName--><tp:taxon-name>N. minuta</tp:taxon-name>
+<tp:taxon-name>N. minuta</tp:taxon-name>
 , collected on Lake Baikal near the village of B. Koty, was given by Riess (1971). When compared with males collected on the Kharlakta River (basin of Lake Baikal), only one difference was revealed—all males had 2 spurs on the hind tibia.
 </p>
-<!--template match = paragraph--><p>
+<p>
 The males of 
-<!--template match = taxonomicName--><tp:taxon-name>N. minuta</tp:taxon-name>
+<tp:taxon-name>N. minuta</tp:taxon-name>
 well differ in the following features: have a dark brown body color, body length about 3.5 мм; frontal tubercles absent; antenna about 1200 μm; R 
 1
 with 0–4 setae; gonostylus 133–150 μm long.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Basin of Lake Baikal (
 Russia

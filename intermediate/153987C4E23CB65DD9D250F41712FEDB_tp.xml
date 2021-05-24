@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Toxicodryas pulverulenta ( Fischer, 1856 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Toxicodryas pulverulenta ( Fischer, 1856 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1249-1273-">Figs. 8</xref>
+<xref rid="fig-13--151-250-1249-1273-">Figs. 8</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1885-1909-">11</xref>
+<xref rid="fig-25--151-250-1885-1909-">11</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Dipsas pulverulenta : Fischer (1856:11)</tp:taxon-name>
+<tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature-citation-list>
+<p>
+<tp:taxon-name>Dipsas pulverulenta : Fischer (1856:11)</tp:taxon-name>
 ; 
 type
 locality: “ 
@@ -31,10 +31,10 @@ West-Afrika
 ).”
 </p>
 
-<!--template match = taxonomicName--><tp:taxon-name>Dipsadomorphus Boueti</tp:taxon-name>
+<tp:taxon-name>Dipsadomorphus Boueti</tp:taxon-name>
 : 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref27693">Chabanaud (1917a:373)</xref>
+<tp:nomenclature-citation>
+<xref rid="ref27693">Chabanaud (1917a:373)</xref>
 </tp:nomenclature-citation>
 ; 
 type
@@ -45,15 +45,15 @@ Dahomey
 ” [Porto-Novo, 
 Benin
 ] by 
-<!--template match = bibRefCitation--><xref rid="ref27754">Chabanaud (1917b:12)</xref>
+<xref rid="ref27754">Chabanaud (1917b:12)</xref>
 .
 
 </tp:nomenclature-citation-list>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 As noted by 
-<!--template match = bibRefCitation--><xref rid="ref27543">
+<xref rid="ref27543">
 Ceríaco 
 et al
 . (2018)
@@ -63,15 +63,15 @@ two specimens
 (only 
 one syntype
 remains today according to 
-<!--template match = bibRefCitation--><xref rid="ref29969">Hallermann 1998</xref>
+<xref rid="ref29969">Hallermann 1998</xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref36335">
+<xref rid="ref36335">
 Uetz 
 et al
 . 2019
 </xref>
 ), one of which was depicted in plate 4 of livraison 38 by Jan &amp; Sordelli (1871). In a footnote to the nomenclatural history of 
-<!--template match = taxonomicName--><tp:taxon-name>Boiga ( Toxicodryas ) pulverulenta , Hughes &amp; Barry (1969:1020)</tp:taxon-name>
+<tp:taxon-name>Boiga ( Toxicodryas ) pulverulenta , Hughes &amp; Barry (1969:1020)</tp:taxon-name>
 wrote “Dr. Ladiges [then curator at ZMH] tells us that the type is still in Hamburg and is from St. Thomé, 
 not
 Edina, 
@@ -79,9 +79,9 @@ Grand Bassa County
 , 
 Liberia
 as stated by Loveridge (1958:269).” The latter citation is in error (
-<!--template match = bibRefCitation--><xref rid="ref32014">Loveridge 1957</xref>
+<xref rid="ref32014">Loveridge 1957</xref>
 ). 
-<!--template match = bibRefCitation--><xref rid="ref27543">
+<xref rid="ref27543">
 Ceríaco 
 et al
 . (2018)
@@ -89,26 +89,26 @@ et al
 deduced that the information from Ladiges was based on an old label associated with the presumed remaining type specimen. Because extensive fieldwork on the island of 
 São Tomé
 over the last century failed to document this species, 
-<!--template match = bibRefCitation--><xref rid="ref27543">
+<xref rid="ref27543">
 Ceríaco 
 et al
 . (2018)
 </xref>
 concluded that it does not occur there, and the original type locality from 
-<!--template match = bibRefCitation--><xref rid="ref29308">Fischer (1856)</xref>
+<xref rid="ref29308">Fischer (1856)</xref>
 “Edina, 
 Grand Bassa County
 in 
 Liberia
 (West-Afrika)” is correct. Moreover, the former authors determined that the pholidosis from this presumed type (
-<!--template match = bibRefCitation--><xref rid="ref27543">
+<xref rid="ref27543">
 Ceríaco 
 et al
 . 2018
 </xref>
 :fig. 1) is not consistent with the extensively detailed original description, and thus, it is not a type specimen (
 contra
-<!--template match = bibRefCitation--><xref rid="ref36335">
+<xref rid="ref36335">
 Uetz 
 et al
 . 2019
@@ -116,7 +116,7 @@ et al
 ). Although we agree with this conclusion, an examination of this specimen (ZMH 
 R04376
 ) by J. Hallermann (pers. comm.) found some differences in the morphometric data provided by 
-<!--template match = bibRefCitation--><xref rid="ref27543">
+<xref rid="ref27543">
 Ceríaco 
 et al
 . (2018)
@@ -126,19 +126,19 @@ et al
 , not 
 880 mm
 ), and we used these updated data in our analyses of morphological data (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref27693">Chabanaud (1917a:375)</xref>
+<p>
+<xref rid="ref27693">Chabanaud (1917a:375)</xref>
 , convinced that the odd configuration of subcaudals (combination of single and double subcaudals near the vent) seen in 
 one male
 and 
 one female
 was unique to 
-<!--template match = taxonomicName--><tp:taxon-name>Colubridae</tp:taxon-name>
+<tp:taxon-name>Colubridae</tp:taxon-name>
 , named the taxon 
-<!--template match = taxonomicName--><tp:taxon-name>Dipsadomorphus boueti</tp:taxon-name>
+<tp:taxon-name>Dipsadomorphus boueti</tp:taxon-name>
 from these specimens that were donated by “Dr Bouet,” who collected for the Paris Museum in 
 Ivory Coast
 (1909) and 
@@ -146,7 +146,7 @@ Dahomey
 (1910–1913). Unfortunately no specific 
 type
 locality was provided. 
-<!--template match = bibRefCitation--><xref rid="ref27754">Chabanaud (1917b)</xref>
+<xref rid="ref27754">Chabanaud (1917b)</xref>
 then clarified and corrected himself by stating that both 
 types
 were males (the mistaken female was a juvenile), and they were collected from “Porto-Novo” in 
@@ -154,53 +154,53 @@ Dahomey
 , which is modern-day Porto-Novo, the capital city of 
 Benin
 . 
-<!--template match = bibRefCitation--><xref rid="ref27792">Chabanaud (1917c)</xref>
+<xref rid="ref27792">Chabanaud (1917c)</xref>
 subsequently realized that his specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>D . boueti</tp:taxon-name>
+<tp:taxon-name>D . boueti</tp:taxon-name>
 represented 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 individuals with abnormal subcaudals, and he synonymized the former taxon with the latter (as 
-<!--template match = taxonomicName--><tp:taxon-name>D . pulverulentus</tp:taxon-name>
+<tp:taxon-name>D . pulverulentus</tp:taxon-name>
 ). We agree with this taxonomic placement, because the 
 types
 of 
-<!--template match = taxonomicName--><tp:taxon-name>D . boueti</tp:taxon-name>
+<tp:taxon-name>D . boueti</tp:taxon-name>
 have subcaudal counts (106 and 116) and TL/SVL ratios (0.25 and 0.28) that are most consistent with 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The Porto-Novo locality is on the eastern edge of the 
 Dahomey
 Gap (
 sensu
-<!--template match = bibRefCitation--><xref rid="ref28741">
+<xref rid="ref28741">
 Demenou 
 et al
 . 2016
 </xref>
 :fig. 1), a renowned biogeographic barrier to at least some forest-specialist species in West Africa. Because 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 does not seem to be a strict forest specialist (see Habitat below), and the Porto-Novo locality occurs on the eastern edge of the 
 Dahomey
 Gap, it is likely that the Gap is not a barrier to dispersal for this species. We therefore hypothesize that the 
 Niger
 Delta is the biogeographic barrier separating 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 from its cryptic sister taxon 
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 A species of 
-<!--template match = taxonomicName--><tp:taxon-name>Toxicodryas</tp:taxon-name>
+<tp:taxon-name>Toxicodryas</tp:taxon-name>
 restricted to West Africa, west of the 
 Niger
 Delta, defined by the following combination of characters: maximum SVL &lt;
@@ -208,78 +208,78 @@ Delta, defined by the following combination of characters: maximum SVL &lt;
 (vs. maximum SVL&gt; 
 1 meter
 in 
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ), DSRN 19–21 (vs. 
 23–25 in
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 and 
 23–29 in
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ), DSRM 19–21 (vs. 
 21–25 in
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ); cloacal plate undivided (vs. usually divided in 
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 , and divided or undivided in 
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ); both sexes brown to pink with darker cross-bars that often enclose a whitish spot, and the dorsum and venter sprinkled with fine dark brown or black spots (vs. adult males glossy or velvety black with a yellow venter, and adult females light brown, gray, or yellowish-brown with light-brown or cream cross-bars on the flanks, with yellowish-brown venters in 
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ); hemipenis relatively long with long spines mid-way along the shaft that decrease in size towards the apex and base, with a domed apex (vs. hemipenis relatively short and massive [i.e., broad], proximal third covered with spines, distal two-thirds dimpled with a flattened apex in 
-<!--template match = taxonomicName--><tp:taxon-name>T . blandingii</tp:taxon-name>
+<tp:taxon-name>T . blandingii</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T . vexator</tp:taxon-name>
+<tp:taxon-name>T . vexator</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Variation.
 Morphometric variation of 
-<!--template match = taxonomicName--><tp:taxon-name>Toxicodryas pulverulenta</tp:taxon-name>
+<tp:taxon-name>Toxicodryas pulverulenta</tp:taxon-name>
 is shown in 
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 . 
-<!--template match = bibRefCitation--><xref rid="ref27693">Chabanaud (1917a)</xref>
+<xref rid="ref27693">Chabanaud (1917a)</xref>
 first noted that some individuals (including the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>Dipsadomorphus boueti</tp:taxon-name>
+<tp:taxon-name>Dipsadomorphus boueti</tp:taxon-name>
 ) can have a few single subcaudals posterior to the cloacal plate. 
-<!--template match = bibRefCitation--><xref rid="ref26663">Bogert (1940)</xref>
+<xref rid="ref26663">Bogert (1940)</xref>
 provided morphometric data, but he did not distinguish between populations from 
 Liberia
 (
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 ) and former 
 French Cameroon
 (
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ), except that “the 
 Liberia
@@ -290,46 +290,46 @@ specimens.” However, he listed the maximum total length of a male (
 ) and female (
 1050 mm
 ) 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 from 
 Liberia
 . In snakes from West Africa (without noting sex), including 
 Cameroon
 where 
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 occurs, 
-<!--template match = bibRefCitation--><xref rid="ref26404">Angel (1933:146)</xref>
+<xref rid="ref26404">Angel (1933:146)</xref>
 noted temporal formula variation of 2 + 2 (rarely 2 + 3 or 3 + 2 or 1 +2), 236–276 ventrals, 96–132 subcaudals, and a maximum size of 
 1225 mm
 ; nearly identical data were reported by 
-<!--template match = bibRefCitation--><xref rid="ref36646">Villiers (1950a)</xref>
+<xref rid="ref36646">Villiers (1950a)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref28813">Doucet (1963)</xref>
+<xref rid="ref28813">Doucet (1963)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref35957">Stucki-Stirn (1979)</xref>
+<xref rid="ref35957">Stucki-Stirn (1979)</xref>
 , and 
-<!--template match = bibRefCitation--><xref rid="ref27912">Chippaux (2006)</xref>
+<xref rid="ref27912">Chippaux (2006)</xref>
 . Although all of our examined specimens and most literature records noted the 3 
 <sup>rd</sup>
 to 5 
 <sup>th</sup>
 supralabial in contact with the eye (e.g., 
-<!--template match = bibRefCitation--><xref rid="ref36677">Villiers 1950b</xref>
+<xref rid="ref36677">Villiers 1950b</xref>
 ), 
-<!--template match = bibRefCitation--><xref rid="ref27912">Chippaux (2006)</xref>
+<xref rid="ref27912">Chippaux (2006)</xref>
 documented individuals with the 4 
 <sup>th</sup>
 to 6 
 <sup>th</sup>
 supralabial in contact with the eye, and sometimes, only two scales in contact with the eye, but some of these specimens might be attributable to 
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
-<!--template match = bibRefCitation--><xref rid="ref35508">
+<xref rid="ref35508">
 Segniagbeto 
 et al
 . (2011)
@@ -338,54 +338,54 @@ reported snakes from
 Togo
 with 165–175 ventrals, which is undoubtedly erroneous.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref29308">Fischer (1856:83)</xref>
+<p>
+<xref rid="ref29308">Fischer (1856:83)</xref>
 noted his 
 type
 specimen had seven maxillary teeth that were oriented nearly backwards, becoming larger posteriorly. These were followed by two larger teeth (i.e., fangs) that were furrowed in a “besonderen Hauttasche” [special skin pocket]. There were 10–12 mandibular teeth, which were slightly curved towards the back of the mouth, and increased in size posteriorly. 
-<!--template match = bibRefCitation--><xref rid="ref26663">Bogert (1940:61)</xref>
+<xref rid="ref26663">Bogert (1940:61)</xref>
 remarked “ 
 five specimens
 examined show variation from eleven to thirteen anterior subequal teeth followed after a very short diastema by two larger grooved fangs and a smaller fang, the total number of teeth being fourteen to eighteen.” Because only two of his examined specimens originated from former 
 French Cameroon
 (attributable to 
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ), at least three of these specimens were from 
 Liberia
 , which are attributable to 
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 . In snakes from 
 Ghana
 , 
-<!--template match = bibRefCitation--><xref rid="ref31641">Leeson (1950)</xref>
+<xref rid="ref31641">Leeson (1950)</xref>
 noted 11–13 maxillary teeth, becoming slightly larger posteriorly, followed by 2 fangs, and sometimes a 3 
 <sup>rd</sup>
 , smaller fang; 14–16 palatine and pterygoid teeth, and 15 mandibular teeth with the anteriormost ones largest. 
-<!--template match = bibRefCitation--><xref rid="ref30795">Johnsen (1962)</xref>
+<xref rid="ref30795">Johnsen (1962)</xref>
 reported that his specimen from 
 Liberia
 had 11 maxillary teeth on one side, and six on the other. Based on a specimen from 
 Liberia
 , 
-<!--template match = bibRefCitation--><xref rid="ref32310">Malnate (1972)</xref>
+<xref rid="ref32310">Malnate (1972)</xref>
 noted the species lacks posterior hypapophyses.
 </p>
-<!--template match = paragraph--><p>
+<p>
 In his original description of the species, 
-<!--template match = bibRefCitation--><xref rid="ref29308">Fischer (1856:83)</xref>
+<xref rid="ref29308">Fischer (1856:83)</xref>
 described the coloration in great detail as chocolate brown above, yellow below, finely dotted everywhere. On each side, near the back, there was a large number (60– 70) of pale red spots that lacked dark edging and extended over 4–6 scales. Usually the spots on one side alternated with those on the other; sometimes they also were opposite to each other and in this case were connected to weak “Querbinden” [cross-ties] by bright red connecting strips that extended over the back. Usually there was a small black spot under each of these spots on the outermost tip of the corresponding ventral shields. The innumerable fine black points, with which the whole body was sown, were grouped on the abdominal shields on each side at the point where they bent over to rise sideways, to form a black spot, which in their succession looked like a black longitudinal band, whereby the narrow belly appeared delimited from the flanks. Head was brown and without black lines. Upper lip, lower lip, throat yellow, dotted with black. 
-<!--template match = bibRefCitation--><xref rid="ref29923">Günther (1858:173)</xref>
+<xref rid="ref29923">Günther (1858:173)</xref>
 described the dorsum of two Nigerian specimens as “brown with a strong cast of purple” with elliptical transverse streaks, and at mid-body, these streaks had a small yellow spot in their center. In his description of 
-<!--template match = taxonomicName--><tp:taxon-name>Dipsadomorphus boueti , Chabanaud (1917a)</tp:taxon-name>
+<tp:taxon-name>Dipsadomorphus boueti , Chabanaud (1917a)</tp:taxon-name>
 noted the 
 types
 were light brownish gray and dotted with brown, whereas the supralabials and venter were yellowish gray.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref31641">Leeson (1950)</xref>
+<p>
+<xref rid="ref31641">Leeson (1950)</xref>
 described animals from 
 Ghana
 as brownish red on the dorsum, with “dull brown” heads, and “lightly coloured” patches on the flanks that had a black edge on the lower margins. There were more narrow light gray bands on the anterior third of the body that gradually diminished to form light gray patches on the posterior two-thirds of the body. The ventral surface of the head was white or cream, whereas the venter of the body was pinkish with numerous brown spots. Brown lines “commence”[ed] just before the middle of the body on each side of the ventrals, and continued along the edge of the ventrals to the tip of the tail. In his description of 
@@ -393,90 +393,90 @@ two specimens
 from 
 Ivory Coast
 , 
-<!--template match = bibRefCitation--><xref rid="ref36677">Villiers (1950b)</xref>
+<xref rid="ref36677">Villiers (1950b)</xref>
 noted their color pattern was pale brownish gray, the dorsal scales dotted with black, the back with alternate dark brown diamond spots (some ocellated with white). Yellowish ventral surface with two black lateral lines. 
-<!--template match = bibRefCitation--><xref rid="ref28813">Doucet (1963)</xref>
+<xref rid="ref28813">Doucet (1963)</xref>
 noted the dorsal coloration ranged from uniform reddish or yellowish or powdery brown, sometimes with dark bars, with ventral coloration ranging from yellowish to pinkish. 
-<!--template match = bibRefCitation--><xref rid="ref27912">Chippaux (2006)</xref>
+<xref rid="ref27912">Chippaux (2006)</xref>
 noted dorsal coloration as dark beige or reddish with occasional dark gray designs or crossbars; venter pinkish with two dark lateral lines. Based on photographs of an adult male from 
 Guinea
 (
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1885-1909-">Fig. 11B</xref>
+<xref rid="fig-25--151-250-1885-1909-">Fig. 11B</xref>
 ), the base of the tongue is orangish red, and the forked tip is silvery white with black edging. Our observations of live specimens suggest the dorsal scales have an almost satiny sheen, similar to the appearance of a spider web (MOR, pers. obs.).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Hemipenis.
-<!--template match = bibRefCitation--><xref rid="ref26663">Bogert (1940)</xref>
+<xref rid="ref26663">Bogert (1940)</xref>
 did not note whether his hemipenis description was based on specimens from 
 Liberia
 (
-<!--template match = taxonomicName--><tp:taxon-name>T . pulverulenta</tp:taxon-name>
+<tp:taxon-name>T . pulverulenta</tp:taxon-name>
 ) or former 
 French Cameroon
 (
-<!--template match = taxonomicName--><tp:taxon-name>T . adamanteus</tp:taxon-name>
+<tp:taxon-name>T . adamanteus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 ). 
-<!--template match = bibRefCitation--><xref rid="ref28813">Doucet (1963:301)</xref>
+<xref rid="ref28813">Doucet (1963:301)</xref>
 described the hemipenis of a snake from 
 Ivory Coast
 as very different from that of 
 B
 . [
-<!--template match = taxonomicName--><tp:taxon-name>Toxicodryas</tp:taxon-name>
+<tp:taxon-name>Toxicodryas</tp:taxon-name>
 ] 
-<!--template match = taxonomicName--><tp:taxon-name>blandingi</tp:taxon-name>
+<tp:taxon-name>blandingi</tp:taxon-name>
 . Quite elongated, thorny at the base and dimpled at the apex, it is not bifid. The spines on either side of the sperm groove are very long in the middle part and decrease in size towards the apex and the base. The apex is domed, not flattened.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Diet.
-<!--template match = bibRefCitation--><xref rid="ref36646">Villiers (1950a)</xref>
+<xref rid="ref36646">Villiers (1950a)</xref>
 noted both species of 
-<!--template match = taxonomicName--><tp:taxon-name>Toxicodryas</tp:taxon-name>
+<tp:taxon-name>Toxicodryas</tp:taxon-name>
 in West Africa feed mainly on birds. 
-<!--template match = bibRefCitation--><xref rid="ref27419">Cansdale (1954)</xref>
+<xref rid="ref27419">Cansdale (1954)</xref>
 reported an individual from 
 Ghana
 with two young mice in its stomach. 
-<!--template match = bibRefCitation--><xref rid="ref30795">Johnsen (1962:121)</xref>
+<xref rid="ref30795">Johnsen (1962:121)</xref>
 reported an adult male from 
 Liberia
 with “a small insect-eating bird” in its stomach. In their paper on snakes of 
 Ghana
 , 
-<!--template match = bibRefCitation--><xref rid="ref31700">Leston &amp; Hughes (1968:754)</xref>
+<xref rid="ref31700">Leston &amp; Hughes (1968:754)</xref>
 noted the presence of undigested hair and a 10-cm long rodent tail in the stomachs of 
 two specimens
 , and that “this suggests the attraction of Cocoa is for its Rodent fauna.” Another specimen contained the foot and tail of an 
-<!--template match = taxonomicName--><tp:taxon-name>Agama sp.</tp:taxon-name>
+<tp:taxon-name>Agama sp.</tp:taxon-name>
 lizard (
 sensu
-<!--template match = bibRefCitation--><xref rid="ref31451">
+<xref rid="ref31451">
 Leaché 
 et al
 . 2017
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref26699">Böhme (2000)</xref>
+<p>
+<xref rid="ref26699">Böhme (2000)</xref>
 noted the diet of snakes from 
 Guinea
 included small mammals (shrews and rodents), adult and nestling birds, and lizards with well-developed limbs. 
-<!--template match = bibRefCitation--><xref rid="ref29796">Greene (1989)</xref>
+<xref rid="ref29796">Greene (1989)</xref>
 suggested that there is an ontogenetic shift in diet from mostly lizards in young individuals to mostly birds and/or mammals as adults, and some individuals can ingest a third of their body weight if they eat more than one prey item in a nest or roost.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Behavior.
 In a paper on Guinean snakes, 
-<!--template match = bibRefCitation--><xref rid="ref26699">Böhme (2000)</xref>
+<xref rid="ref26699">Böhme (2000)</xref>
 classified the species as relatively common and nocturnal.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Reproduction.
 An adult female found in 
 Ghana
@@ -485,40 +485,40 @@ in early September contained eggs “about
 maximum breadth and between 30 and 
 35 mm
 long” attached to the left and right ovaries (
-<!--template match = bibRefCitation--><xref rid="ref31700">Leston &amp; Hughes 1968</xref>
+<xref rid="ref31700">Leston &amp; Hughes 1968</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Habitat.
-<!--template match = bibRefCitation--><xref rid="ref32620">Menzies (1966)</xref>
+<xref rid="ref32620">Menzies (1966)</xref>
 documented several specimens from forest in 
 Sierra Leone
 , but one animal found at Rokupr seemed to occur in a habitat labeled as mangrove and coastal savanna. 
-<!--template match = bibRefCitation--><xref rid="ref31700">Leston &amp; Hughes (1968:754)</xref>
+<xref rid="ref31700">Leston &amp; Hughes (1968:754)</xref>
 noted that this species was very common in cocoa tree pods in 
 Ghana
 . 
-<!--template match = bibRefCitation--><xref rid="ref30630">Hughes &amp; Barry (1969)</xref>
+<xref rid="ref30630">Hughes &amp; Barry (1969)</xref>
 listed the habitat as forest. 
-<!--template match = bibRefCitation--><xref rid="ref31670">Leston (1970:143)</xref>
+<xref rid="ref31670">Leston (1970:143)</xref>
 encountered several snakes in 
 Ghana
 in trees (including one in a rotten cocoa pod), “amidst old files on an office shelf,” on a 1.5-meter high cocoa tree in a greenhouse, and in savanna. 
-<!--template match = bibRefCitation--><xref rid="ref30565">Hughes (1988)</xref>
+<xref rid="ref30565">Hughes (1988)</xref>
 noted the species only from rainforest in 
 Ghana
 . 
-<!--template match = bibRefCitation--><xref rid="ref35211">Rödel &amp; Mahsberg (2000)</xref>
+<xref rid="ref35211">Rödel &amp; Mahsberg (2000)</xref>
 found snakes in 
 Ivory Coast
 from thick undergrowth in a swamp bordered by fields and secondary forest, and swampy primary forest. 
-<!--template match = bibRefCitation--><xref rid="ref27006">Branch &amp; Rödel (2003)</xref>
+<xref rid="ref27006">Branch &amp; Rödel (2003)</xref>
 captured a juvenile in a funnel trap on the ground in closed-canopy forest in 
 Ivory Coast
 . In 
 Togo
 , 
-<!--template match = bibRefCitation--><xref rid="ref35508">
+<xref rid="ref35508">
 Segniagbeto 
 et al
 . (2011)
@@ -526,21 +526,21 @@ et al
 noted the species is most common in forest, but some specimens were found outside of it, presumably in savanna.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-25--151-250-1885-1909-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-25--151-250-1885-1909-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 11.
 Photos of 
-<!--template match = taxonomicName--><tp:taxon-name>Toxicodryas pulverulenta</tp:taxon-name>
+<tp:taxon-name>Toxicodryas pulverulenta</tp:taxon-name>
 in life. (A) adult female (ZMB 86384) from Mt. Yonon, Guinea, (B) adult male (ZMB 86410) near Yomou, Guinea, (C) adult female (ZMB 86412) from Mt. Yonon, Guinea, (D) unsexed individual near Dudwiokahn, Liberia. Photos: J. Penner.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4723050/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Geographic distribution and habitat.
 Based on molecular data from Allen 
 et al
 . (in press) and patterns of our morphometric data (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ), we hypothesize that this species occurs west of the 
 Niger
 Delta from 
@@ -550,11 +550,11 @@ Nigeria
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Venom.
 Venom composition and effects are unknown (
-<!--template match = bibRefCitation--><xref rid="ref37266">
+<xref rid="ref37266">
 Weinstein 
 et al
 . 2011

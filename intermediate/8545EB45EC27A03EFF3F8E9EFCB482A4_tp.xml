@@ -1,90 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-42--151-250-1869-1893-">Figs. 31A, B</xref>
+<xref rid="fig-42--151-250-1869-1893-">Figs. 31A, B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">32–34</xref>
+<xref rid="fig-">32–34</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Trombicula fulgida Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963: 696</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Trombicula fulgida Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963: 696</tp:taxon-name>
 </tp:nomenclature-citation>
 , figs. 23–29.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida : Kudryashova 2004: 19</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Microtrombicula fulgida : Kudryashova 2004: 19</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula (Microtrombicula) fulgida : Chau et al. 2007: 95</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Microtrombicula (Microtrombicula) fulgida : Chau et al. 2007: 95</tp:taxon-name>
 </tp:nomenclature-citation>
 , fig. 44.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 SIF = 6B-N-2-3111.1000; fsp = 7.7.7; fCx = 1.1.1; fSt = 2.2; fPp = B/B/BbB; fSc: PL&gt; AM&gt; AL; Ip = 547–565; fD = 2H-7-10-5-5-4-4; DS = 31–37; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">V</named-content>
 = 31–42; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NDV</named-content>
+<named-content content-type="collectionCode">NDV</named-content>
 = 67–74. Sensilla, sternal and coxal setae branched. Standard measurements of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 series given in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 10</named-content>
+<named-content content-type="tableCitation">Table 10</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-41--151-239-892-916-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-41--151-239-892-916-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 10.
 Standard measurements (µm) and numbers of setae of 
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida</tp:taxon-name>
 (n = 4).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description (larva)
 [based on 
 lectotype
 and 
 3 paralectotypes
 ]. IDIOSOMA (
-<!--template match = figureCitation--><xref rid="fig-42--151-250-1869-1893-">Figs. 31A, B</xref>
+<xref rid="fig-42--151-250-1869-1893-">Figs. 31A, B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-43--151-250-1874-1898-">32</xref>
+<xref rid="fig-43--151-250-1874-1898-">32</xref>
 ). Eyes 2 + 2; 31–37 barbed dorsal idiosomal setae, including one pair of humeral setae; 4 sternal setae, each with 2 barbs; 31–42 ventral setae; NDV = 67–74.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-42--151-250-1869-1893-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-42--151-250-1869-1893-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 31.
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
 , lectotype. 
 A
 , anterior part of idiosoma, dorsal aspect; 
 B
 , anterior part of idiosoma, ventral aspect. 
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula vitosa ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
+<tp:taxon-name>Microtrombicula vitosa ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
 , paralectotype ZMMU Tdt-3281 (specimen 1). 
 C
 , anterior part of idiosoma, dorsal aspect; 
@@ -92,10 +92,10 @@ D
 , anterior part of idiosoma, ventral aspect. Scale bars: 100 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745753/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-43--151-250-1874-1898-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-43--151-250-1874-1898-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 32.
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
 . 
 A
 , arrangement of dorsal idiosomal setae of paralectotype ZMMU Tdt-3231, specimen 3; 
@@ -117,10 +117,10 @@ H
 , preanal seta of lectotype. Scale bars: 100 μm (A, B), 20 μm (C–H).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745757/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-44--151-250-1767-1791-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-44--151-250-1767-1791-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 33.
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
 . 
 A
 , ventral aspect of gnathosoma of lectotype; 
@@ -136,130 +136,130 @@ F
 , leg III (trochanter–tarsus) of paralectotype ZMMU Tdt-3231 (specimen 3) (mastitarsala broken). Scale bars: 20 μm (A, B), 50 μm (C–F).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745759/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-45--151-250-522-546-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-45--151-250-522-546-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 34.
 Type specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida ( Schluger, Grochovskaja, Ngu, Hoe and Tung, 1963 )</tp:taxon-name>
 on slides.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745763/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 GNATHOSOMA (
-<!--template match = figureCitation--><xref rid="fig-44--151-250-1767-1791-">Fig. 33A, B</xref>
+<xref rid="fig-44--151-250-1767-1791-">Fig. 33A, B</xref>
 ). Cheliceral blade with tricuspid cap; gnathobase with sparse puncta and 1 pair of branched setae; cheliceral base and palpal femur with sparse puncta; galeala nude; palpal claw with 2 prongs, internal prong longer; setae on palpal femur and genu branched; dorsal and ventral palpal tibial setae branched, lateral palpal tibial seta with 1 branch; palpal tarsus with 6 branched setae and tarsala.
 </p>
-<!--template match = paragraph--><p>
+<p>
 SCUTUM (
-<!--template match = figureCitation--><xref rid="fig-42--151-250-1869-1893-">Figs. 31A</xref>
+<xref rid="fig-42--151-250-1869-1893-">Figs. 31A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-44--151-250-1767-1791-">33C</xref>
+<xref rid="fig-44--151-250-1767-1791-">33C</xref>
 ). Pentagonal, wider than long, with anterolateral shoulders, with rounded posterior margin, moderately covered with small puncta, with 1 AM, 1 pair of ALs and 1 pair of PLs; AM anterior to level of ALs; all scutal setae uniformly covered with small barbs; PLs longest and ALs shortest scutal setae; sensilla flagelliform, with 8 long branches in distal half; sensillum bases situated close to each other and far anterior to level of PLs (PSB – P-PL = 
 7–10 µm
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 LEGS (
-<!--template match = figureCitation--><xref rid="fig-44--151-250-1767-1791-">Fig. 33D–F</xref>
+<xref rid="fig-44--151-250-1767-1791-">Fig. 33D–F</xref>
 ). All 7-segmented, with 1 pair of claws and claw-like empodium. Leg I: coxa with 1 seta bearing 3 long branches (1B); trochanter 1B; basifemur 1B; telofemur 5B; genu 4B, 3 genualae, microgenuala; tibia 8B, 2 tibialae, microtibiala; tarsus 23B, tarsala, microtarsala distal to tarsala, subterminala, parasubterminala, pretarsala. Leg II: coxa 1B (with 2 short barbs); trochanter 1B; basifemur 2B; telofemur 4B; genu 3B, genuala; tibia 6B, 2 tibialae; tarsus 16B, tarsala, microtarsala at level of tarsala, pretarsala. Leg III: coxa 1B (with 3 long branches); trochanter 1B; basifemur 2B; telofemur 3B; genu 3B, genuala; tibia 6B, tibiala; tarsus 13B, mastitarsala.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Host.
-<!--template match = taxonomicName--><tp:taxon-name>Rattus tanezumi Temminck</tp:taxon-name>
+<tp:taxon-name>Rattus tanezumi Temminck</tp:taxon-name>
 [= 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus flavipectus (Milne-Edwards)</tp:taxon-name>
+<tp:taxon-name>Rattus flavipectus (Milne-Edwards)</tp:taxon-name>
 ]. The host was indicated as a “rat” on the slide labels but was identified as 
-<!--template match = taxonomicName--><tp:taxon-name>R. flavipectus</tp:taxon-name>
+<tp:taxon-name>R. flavipectus</tp:taxon-name>
 in the thesis of Grochovskaja (unpublished typescript).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Vietnam
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined
 (
-<!--template match = figureCitation--><xref rid="fig-45--151-250-522-546-">Fig. 34</xref>
+<xref rid="fig-45--151-250-522-546-">Fig. 34</xref>
 ). 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Lectotype</named-content>
 (here designated): larva 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3232 (specimen 5) ex 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">R. tanezumi</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">R. tanezumi</named-content>
 </named-content>
 (labeled as “rat”) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">No</named-content>
+<named-content content-type="collectingMunicipality">No</named-content>
 543, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<named-content content-type="collectingCountry">Vietnam</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Nghe An Province</named-content>
+<named-content content-type="collectingRegion">Nghe An Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phu Quy</named-content>
+<named-content content-type="location">Phu Quy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8 September1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8 September1956</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
+<named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paralectotypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paralectotypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">three larvae</named-content>
+<named-content content-type="specimenCount">three larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3229 (specimen 1), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3231 (specimen 3), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3280 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Trombicula vitosa</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="taxonomicName">Trombicula vitosa</named-content>
 ”
 </named-content>
 (specimen 5), ex 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">R. tanezumi</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">R. tanezumi</named-content>
 </named-content>
 (labeled as “rat”) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Nos</named-content>
+<named-content content-type="collectingMunicipality">Nos</named-content>
 571, 568, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<named-content content-type="collectingCountry">Vietnam</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Nghe An Province</named-content>
+<named-content content-type="collectingRegion">Nghe An Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phu Quy</named-content>
+<named-content content-type="location">Phu Quy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 September 1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10 September 1956</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
+<named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = taxonomicName--><tp:taxon-name>Microtrombicula fulgida</tp:taxon-name>
+<tp:taxon-name>Microtrombicula fulgida</tp:taxon-name>
 is similar to 
-<!--template match = taxonomicName--><tp:taxon-name>M. munda (Gater, 1932)</tp:taxon-name>
+<tp:taxon-name>M. munda (Gater, 1932)</tp:taxon-name>
 and differs from it in the greater number of idiosomal setae (fD = 2H-7-10-5-5-4-4, DS = 31–36, V = 32–42, and NDV = 67–74 vs. 2H-6-6-4-4-2-2, 26, 32, and 58, respectively), all coxal and sternal setae branched vs. nude (except coxal setae I), and by longer legs (Ip = 547–565 vs. 488) (
-<!--template match = bibRefCitation--><xref rid="ref23258">Vercammen-Grandjean 1965a</xref>
+<xref rid="ref23258">Vercammen-Grandjean 1965a</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 This species is also close to 
-<!--template match = taxonomicName--><tp:taxon-name>M. nadchatrami Vercammen-Grandjean, 1965</tp:taxon-name>
+<tp:taxon-name>M. nadchatrami Vercammen-Grandjean, 1965</tp:taxon-name>
 and differs from it in a shorter scutum (ASB = 20–21, PSB = 19–21, SD = 39–43, and AP = 19–22, vs. 24, 25, 49, and 25, respectively), shorter setae (AM = 24–25, AL = 20–22, PL = 29–33, D 
 min
 = 18–24, D 
@@ -269,7 +269,7 @@ min
 = 9–16, V 
 max
 = 22–24, vs. 31, 28, 38, 27, 32, 21, and 28, respectively), shorter legs (Ip = 547–565 vs. 644), and less branched sternal and coxal setae (sternal setae with 2 vs. about 6 barbs; coxal setae I and III with 3 vs. about 6 long branches; coxal setae II with 2 vs. multiple short barbs) (
-<!--template match = bibRefCitation--><xref rid="ref23258">Vercammen-Grandjean 1965a</xref>
+<xref rid="ref23258">Vercammen-Grandjean 1965a</xref>
 ).
 </p>
 </tp:treatment-sec>

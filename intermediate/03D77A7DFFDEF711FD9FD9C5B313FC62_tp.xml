@@ -1,434 +1,434 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Cixius madeirensis China, 1938<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Figs 3A–B</xref>
+<tp:nomenclature><tp:taxon-name>Cixius madeirensis China, 1938<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-7--189-232-1777-1803-">Figs 3A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">5A</xref>
+<xref rid="fig-12--189-232-1776-1802-">5A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">8A–B</xref>
+<xref rid="fig-16--189-232-1812-1838-">8A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">9A– N</xref>
+<xref rid="fig-18--189-232-1818-1844-">9A– N</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Cixius madeirensis</tp:taxon-name>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938: 50–51</xref>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Cixius madeirensis</tp:taxon-name>
+<tp:nomenclature-citation>
+<xref rid="ref18564">China, 1938: 50–51</xref>
 </tp:nomenclature-citation>
 , fig. 21 (description, illustrations, records).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Cixius madeirensis</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Cixius madeirensis</tp:taxon-name>
 – 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref19421">Lindberg 1961: 55</xref>
+<tp:nomenclature-citation>
+<xref rid="ref19421">Lindberg 1961: 55</xref>
 </tp:nomenclature-citation>
 (records, habitat).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis
 </p>
-<!--template match = paragraph--><p>
+<p>
 This species is easily recognizable by its size, smaller to 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 and 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 , and brown colouration. It differs from the other 
 Madeira
-<!--template match = taxonomicName--><tp:taxon-name>Cixius</tp:taxon-name>
+<tp:taxon-name>Cixius</tp:taxon-name>
 in the following characters: (1) the basal half of the vellum is hump-shaped but is much narrower on the outer margin than in 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 ; the apex is blunt, not scythe-shaped as in 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 and 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 ; (2) the medioventral expansion of the theca is digitiform and more conspicuous and longer.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Porto Moniz</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Porto Moniz</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chão da Ribeira</named-content>
+<named-content content-type="location">Chão da Ribeira</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">500 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">500 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Apr. 2002</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 Apr. 2002</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Diplazium caudatum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Diplazium caudatum</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♂♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">5 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 ; same collection data as for preceding; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 May 2002</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 May 2002</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; same collection data as for preceding; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Apr. 2003</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11 Apr. 2003</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dora Pombo</named-content>
+<named-content content-type="collectorName">Dora Pombo</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">DAPC</named-content>
+<named-content content-type="collectionCode">DAPC</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; same collection data as for preceding; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Jul. 1997</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 Jul. 1997</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Silva</named-content>
+<named-content content-type="collectorName">I. Silva</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ribeira da Janela</named-content>
+<named-content content-type="location">Ribeira da Janela</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">800 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">800 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12 Sep. 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12 Sep. 2001</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Pteridium aquilinum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Pteridium aquilinum</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">13 ♂♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">13 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♀♀</named-content>
+<named-content content-type="specimenCount">4 ♀♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Vereda do Paul da Serra</named-content>
+<named-content content-type="location">Vereda do Paul da Serra</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Chão da Ribeira</named-content>
+<named-content content-type="collectingMunicipality">Chão da Ribeira</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1200 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1200 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 Jul. 2002</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23 Jul. 2002</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Rúben Gouveia</named-content>
+<named-content content-type="collectorName">Rúben Gouveia</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">P. aquilinum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">P. aquilinum</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 . – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">São Vicente</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">São Vicente</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chão Louros</named-content>
+<named-content content-type="location">Chão Louros</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">710 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">710 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 May 2000</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 May 2000</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Joana Barreto</named-content>
+<named-content content-type="collectorName">Joana Barreto</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 . –
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Santana</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">Santana</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Levada Ribeiro Frio</named-content>
+<named-content content-type="location">Levada Ribeiro Frio</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Portela</named-content>
+<named-content content-type="collectingMunicipality">Portela</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1000 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1000 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 Aug. 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 Aug. 2001</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Clethra arborea</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Clethra arborea</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pico das Pedras</named-content>
+<named-content content-type="location">Pico das Pedras</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Queimadas</named-content>
+<named-content content-type="location">Queimadas</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">800 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">800 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 Sep. 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 Sep. 2001</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Hydrangea macrophylla</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Hydrangea macrophylla</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; same collection data as for preceding; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fábio Reis</named-content>
+<named-content content-type="collectorName">Fábio Reis</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">P. aquilinum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">P. aquilinum</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ribeiro Frio</named-content>
+<named-content content-type="location">Ribeiro Frio</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1000 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1000 m</named-content>
 a.s.l.
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12 Jun. 2002</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12 Jun. 2002</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+<named-content content-type="collectorName">Énio Freitas</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">C. arborea</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">C. arborea</named-content>
 </named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+<named-content content-type="collectionCode">UMACI</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-16--189-232-1812-1838-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-16--189-232-1812-1838-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 8.
 Female genitalia. 
 A–B
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Cixius madeirensis</tp:taxon-name>
-<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938</xref>
+<tp:taxon-name>Cixius madeirensis</tp:taxon-name>
+<xref rid="ref18564">China, 1938</xref>
 from Vereda do Paul da Serra, 23 Jul. 2002, on 
-<!--template match = taxonomicName--><tp:taxon-name>Peteridium aquilinum</tp:taxon-name>
+<tp:taxon-name>Peteridium aquilinum</tp:taxon-name>
 (L.) Kuhn. 
 C–D
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Cixius verticalis Noualhier, 1897</tp:taxon-name>
+<tp:taxon-name>Cixius verticalis Noualhier, 1897</tp:taxon-name>
 from Chão da Ribeira (500 m a.s.l.), 30 Apr. 2002, on 
-<!--template match = taxonomicName--><tp:taxon-name>Diplazium caudatum (Cav.) Jermy. E</tp:taxon-name>
+<tp:taxon-name>Diplazium caudatum (Cav.) Jermy. E</tp:taxon-name>
 –F
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Tachycixius chaoensis</tp:taxon-name>
+<tp:taxon-name>Tachycixius chaoensis</tp:taxon-name>
 (
-<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938</xref>
+<xref rid="ref18564">China, 1938</xref>
 ) from Ponta de São Lourenço, 11 May 2001, on 
-<!--template match = taxonomicName--><tp:taxon-name>Suaeda vera Forssk. ex J.F.Gmel. G</tp:taxon-name>
+<tp:taxon-name>Suaeda vera Forssk. ex J.F.Gmel. G</tp:taxon-name>
 –H
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Hyalesthes portonoves Remane &amp; Hoch, 1986</tp:taxon-name>
+<tp:taxon-name>Hyalesthes portonoves Remane &amp; Hoch, 1986</tp:taxon-name>
 . 
 G
 . Specimen from Porto Novo, 25 Apr. 2003, on 
-<!--template match = taxonomicName--><tp:taxon-name>G. salicina Lam. H .</tp:taxon-name>
+<tp:taxon-name>G. salicina Lam. H .</tp:taxon-name>
 Specimen from Cristo Rei, 26 Apr. 1998, on 
-<!--template match = taxonomicName--><tp:taxon-name>G. salicina</tp:taxon-name>
+<tp:taxon-name>G. salicina</tp:taxon-name>
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4663795/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Redescription
 </p>
-<!--template match = paragraph--><p>
+<p>
 BODY MEASUREMENTS (mm). See 
-<!--template match = tableCitation--><xref>Table 1.</xref>
+<xref>Table 1.</xref>
 </p>
-<!--template match = paragraph--><p>
+<p>
 COLOURATION. General light golden brown coloration (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Fig. 3A–B</xref>
+<xref rid="fig-7--189-232-1777-1803-">Fig. 3A–B</xref>
 ). Vertex light brown, most specimens have two small paler spots that fade to the level of the anterior margin of the eyes (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9B</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9B</xref>
 ). Areolar carinae dark brown. Lateral pits on the frons, clypeus, carinae, genae, lora and the 2 
 <sup>nd</sup>
 segment of the antenna, yellowish to light brown, often darker in females. Lateral ocelli glowing yellow. Reddish-brown eyes. Pronotum and tegula as in 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 Mesonotum brownish-black; lateral carinae, posterior margins and posterolateral margins close to tegula fulvous; in lighter individuals, the area between the lateral carinae is light brown and, in females, it is almost entirely brown. Tegmina yellowish and translucent; pale veins with brown setiferous tubercles; stigma yellowish to dark brown (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Figs 3A–B</xref>
+<xref rid="fig-7--189-232-1777-1803-">Figs 3A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">5A</xref>
+<xref rid="fig-12--189-232-1776-1802-">5A</xref>
 ). Some males and females have three narrow faint brown oblique stripes (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Fig. 3B</xref>
+<xref rid="fig-7--189-232-1777-1803-">Fig. 3B</xref>
 ). The band on the first third is larger, wider and bifurcates from the middle, giving rise a short oblique band towards ⅓ of clavus base, and another reaching the clavus lateromedially. The last band forms a dark brown spot below the claval vein fork. The other two strips are short, reaching the subcostal vein. The females are darker than the males and the setiferous tubercles and markings are also more distinctive (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Fig. 3A–B</xref>
+<xref rid="fig-7--189-232-1777-1803-">Fig. 3A–B</xref>
 ); legs, abdomen, and tegmina as in 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 but, in darker specimens, the brown marks of the tegmina are more intense and extensive.
 </p>
-<!--template match = paragraph--><p>
+<p>
 HEAD. Vertex apex from round to slightly angular (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9B</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9B</xref>
 ); posterior margin roundish and about 1.8 times as wide as in the anterior margin of eyes as long. The medial carina of the frons ridged, tapering along clypeus. Epistomal suture wave-shaped, the crest is lower than in 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 and 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9A</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9A</xref>
 ). Medial ocellus reduced or obsolete.
 </p>
-<!--template match = paragraph--><p>
+<p>
 THORAX. Pronotum, mesonotum, tegula, setiferous tubercles along the veins and lateral spines of the metatibiae and the first metatarsus as in 
-<!--template match = taxonomicName--><tp:taxon-name>C. wollastoni</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>C. wollastoni</tp:taxon-name>
+sp. nov.
 , but the tegmina is almost 2 times as long as wide (
-<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">Fig. 5A</xref>
+<xref rid="fig-12--189-232-1776-1802-">Fig. 5A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 MALE GENITALIA. Lateral lobes of the pygofer roundish with distal end more or less truncated, similar to a trapezium (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9F, H</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9F, H</xref>
 ). The caudoventral margin of the anal tube concave (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9G</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9G</xref>
 ), lateral lobes arc-shaped, wider distally and bent rostrally (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9J</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9J</xref>
 ). Lamella of the parameres subtriangular, gradually expanding ventrodistally; proximal margin almost straight and distal margin convex (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9I</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9I</xref>
 ). The vellum of aedeagus and basal thorns as in 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 but the smallest spine longer and more curved; expansion of vellum hump-shaped in its basal half; apex blunt. The proximal margin of theca ends in a solid ventral spine like a finger of variable size, while the ventromedial projection is large and digitiform (
-<!--template match = figureCitation--><xref rid="fig-18--189-232-1818-1844-">Fig. 9K–N</xref>
+<xref rid="fig-18--189-232-1818-1844-">Fig. 9K–N</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 FEMALE GENITALIA. Seventh sternite with truncate inverted caudal margin (
-<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">Fig. 8B</xref>
+<xref rid="fig-16--189-232-1812-1838-">Fig. 8B</xref>
 ). Gonoplac ensiform and curved upwards; long, about 5 times as long as wide, reaching almost the level of the dorsal margin of the anal tube and exceeding this in half of its length; the dorsal margin pubescent (
-<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">Fig. 8A</xref>
+<xref rid="fig-16--189-232-1812-1838-">Fig. 8A</xref>
 ). Nineth tergite truncated caudally. Wax secreting field ellipse-shaped and shallowly excavated, approximately 1.5 times as wide as long; not separated medially by a distinctive ridge; scattered long hairs denser near the mediodorsal margin.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-18--189-232-1818-1844-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-18--189-232-1818-1844-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 9.
-<!--template match = taxonomicName--><tp:taxon-name>Cixius madeirensis</tp:taxon-name>
-<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938</xref>
+<tp:taxon-name>Cixius madeirensis</tp:taxon-name>
+<xref rid="ref18564">China, 1938</xref>
 . 
 A–G, I–N
 . Specimens from Vereda do Paul, 23 Jul. 2002, on 
-<!--template match = taxonomicName--><tp:taxon-name>Pteridium aquilinum</tp:taxon-name>
+<tp:taxon-name>Pteridium aquilinum</tp:taxon-name>
 (L.) Kuhn. 
 H
 . Specimen from Chão da Ribeira, 28 Jul. 1997. 
@@ -454,11 +454,11 @@ K–N
 . Aedeagus (K–L, right and left lateral view; M–N, dorsal and ventral view).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4663797/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution and ecology
 </p>
-<!--template match = paragraph--><p>
+<p>
 Endemic to 
 Madeira
 Island. Widespread in north and south 
@@ -466,41 +466,41 @@ Madeira
 ; occurs in wet areas of laurel forest between 500 and 
 1200 m
 . Adult specimens were collected from April to September preferentially on 
-<!--template match = taxonomicName--><tp:taxon-name>Clethra arborea</tp:taxon-name>
+<tp:taxon-name>Clethra arborea</tp:taxon-name>
 trees and on the fern 
-<!--template match = taxonomicName--><tp:taxon-name>Diplazium caudatum</tp:taxon-name>
+<tp:taxon-name>Diplazium caudatum</tp:taxon-name>
 , an endemic species of Macaronesia, and were also found on 
-<!--template match = taxonomicName--><tp:taxon-name>Pteridium aquilinum</tp:taxon-name>
+<tp:taxon-name>Pteridium aquilinum</tp:taxon-name>
 ferns and 
-<!--template match = taxonomicName--><tp:taxon-name>Hydrangea macrophylla (Thunb.) Ser.</tp:taxon-name>
+<tp:taxon-name>Hydrangea macrophylla (Thunb.) Ser.</tp:taxon-name>
 bushes. This species was reported by Lindberg exclusively from native vegetation (
-<!--template match = bibRefCitation--><xref rid="ref19421">Lindberg 1961</xref>
+<xref rid="ref19421">Lindberg 1961</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 </p>
-<!--template match = paragraph--><p>
+<p>
 The distal margin of the anal tube, style, and aedeagus are very well shown by 
-<!--template match = bibRefCitation--><xref rid="ref18564">
+<xref rid="ref18564">
 China
 (1938)
 </xref>
 , except that the flagellum hump is more pronounced than in China’s description, possibly because this thin and almost transparent membrane is difficult to observe. In contrast, Lindberg’s drawings (1954), which he attributed to 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 (see above), show the hump characteristic of the flagellum and that the ventral process is smoother than in China’s illustrations. The blunt apex of the aedeagus, the small curved right lateral spine and the ventral spine-like projection of the proximal margin of the base depicted by 
 China
 and Lindberg are similar, but the parameres and the anal tube are different.
 </p>
-<!--template match = paragraph--><p>
+<p>
 The values of BL, MW, ML and WL in males and females of 
-<!--template match = taxonomicName--><tp:taxon-name>C. madeirensis</tp:taxon-name>
+<tp:taxon-name>C. madeirensis</tp:taxon-name>
 are smaller than in 
-<!--template match = taxonomicName--><tp:taxon-name>C. verticalis</tp:taxon-name>
+<tp:taxon-name>C. verticalis</tp:taxon-name>
 (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ) including PW, the only measurement with some degree of overlap (Welch t-test, 
 t
 (23.98) = 68.24, 

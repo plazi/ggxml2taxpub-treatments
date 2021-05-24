@@ -1,127 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera detersa ( Erichson, 1834 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-171--151-250-1943-1967-">Figures 38</xref>
+<tp:nomenclature><tp:taxon-name>Maladera detersa ( Erichson, 1834 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-171--151-250-1943-1967-">Figures 38</xref>
 I–L, 107
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Serica detersa Erichson, 1834: 239</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Serica detersa Erichson, 1834: 239</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Autoserica detersa : Brenske 1897: 408</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Autoserica detersa : Brenske 1897: 408</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera detersa : Ahrens 2003c: 235</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Maladera detersa : Ahrens 2003c: 235</tp:taxon-name>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref329946">2006b: 245</xref>
+<tp:nomenclature-citation>
+<xref rid="ref329946">2006b: 245</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 23</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330155">2007b: 23</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 
 Type
 material examined.
 
 See 
-<!--template match = bibRefCitation--><xref rid="ref329637">Ahrens (2003c)</xref>
+<xref rid="ref329637">Ahrens (2003c)</xref>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">China</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 “Dinghu, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Guangdong</named-content>
+<named-content content-type="collectingRegion">Guangdong</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26.IV.1965</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26.IV.1965</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zhang Youwei</named-content>
+<named-content content-type="collectorName">Zhang Youwei</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Vietnam</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “S Vietnam, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">14.10N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">108.30E</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">40 km</named-content>
+<named-content content-type="geoCoordinate">14.10N</named-content>
+<named-content content-type="geoCoordinate">108.30E</named-content>
+<named-content content-type="quantity">40 km</named-content>
 NW of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">An Khe Buon Luoi</named-content>
+<named-content content-type="location">An Khe Buon Luoi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">620-750m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">620-750m</named-content>
 </named-content>
 28.3.- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12.4.1995</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12.4.1995</named-content>
 </named-content>
 Pacholátko &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dembicky</named-content>
+<named-content content-type="collectorName">Dembicky</named-content>
 leg./ 272 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Sericini</named-content>
+<named-content content-type="taxonomicName">Sericini</named-content>
 Asia spec.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+<named-content content-type="collectionCode">CP</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 See map (
-<!--template match = figureCitation--><xref rid="fig-355--151-250-1033-1057-">Fig. 107</xref>
+<xref rid="fig-355--151-250-1033-1057-">Fig. 107</xref>
 ) and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 The species was redescribed and treated in detail by 
-<!--template match = bibRefCitation--><xref rid="ref329637">Ahrens (2003c)</xref>
+<xref rid="ref329637">Ahrens (2003c)</xref>
 .
 </p>
 </tp:treatment-sec>

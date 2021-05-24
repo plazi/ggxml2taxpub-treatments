@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Mycale (Arenochalina) mirabilis ( Von Lendenfeld, 1887 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Mycale (Arenochalina) mirabilis ( Von Lendenfeld, 1887 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Arenochalina mirabilis Von Lendenfeld, 1887: 821</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Arenochalina mirabilis Von Lendenfeld, 1887: 821</tp:taxon-name>
 , pl. XXVI fig. 70, pl. XXVII fig. 28; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Von Lendenfeld 1888: 103</tp:nomenclature-citation>
+<tp:nomenclature-citation>Von Lendenfeld 1888: 103</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Whitelegge 1902: 212–213</tp:nomenclature-citation>
+<tp:nomenclature-citation>Whitelegge 1902: 212–213</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Pulitzer-Finali 1982a: 100</tp:nomenclature-citation>
+<tp:nomenclature-citation>Pulitzer-Finali 1982a: 100</tp:nomenclature-citation>
 
 , fig. 12.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Esperella spongiosa Dendy, 1896: 16</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Esperella spongiosa Dendy, 1896: 16</tp:taxon-name>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 ?
-<!--template match = taxonomicName--><tp:taxon-name>Esperella crassa Dendy, 1896: 17</tp:taxon-name>
+<tp:taxon-name>Esperella crassa Dendy, 1896: 17</tp:taxon-name>
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
+<p>
 ? 
-<!--template match = taxonomicName--><tp:taxon-name>Esperella rara Dendy, 1896:18</tp:taxon-name>
+<tp:taxon-name>Esperella rara Dendy, 1896:18</tp:taxon-name>
 .
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) mirabilis</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Mycale (Arenochalina) mirabilis</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hallmann 1912: 252</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hallmann 1912: 252</tp:nomenclature-citation>
 
 (footnote); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Carpay 1986: 32</tp:nomenclature-citation>
+<tp:nomenclature-citation>Carpay 1986: 32</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Wiedenmayer 1989: 84</tp:nomenclature-citation>
+<tp:nomenclature-citation>Wiedenmayer 1989: 84</tp:nomenclature-citation>
 
 , pl. 9 figs 8–10, 13, pl. 10 figs 1–2, pl. 29 figs 1–4, text figs 53–56 (see also there for possible synonymies and extensive description); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Van Soest &amp; Hajdu 2002: 677</tp:nomenclature-citation>
+<tp:nomenclature-citation>Van Soest &amp; Hajdu 2002: 677</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Naviculina mirabilis</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Naviculina mirabilis</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hooper &amp; Wiedenmayer 1994: 293</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hooper &amp; Wiedenmayer 1994: 293</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Mycale mirabilis</tp:taxon-name>
+<p>
+<tp:taxon-name>Mycale mirabilis</tp:taxon-name>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref131467">
+<xref rid="ref131467">
 Erpenbeck 
 et al
 . 2016
@@ -85,8 +85,8 @@ et al
 and COI trees.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined
 . 
 ZMA
@@ -100,7 +100,7 @@ long, kept at Tasmanian Museum, reg.nr.
 TM
 85.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Summary description
 . Sponges are massive, erect club-shaped to lobate, or encrusting, with coarsely spinous surface. Color in life brownish yellow. On deck, the sponge becomes slimy and looses much of its organic tissue quickly, leaving a macerated skeleton of coarse spongin fibres. The consistency is compressible in life, but becomes rigid in preservation. Size of specimens up to 30 x 5 x 
 4 cm
@@ -123,35 +123,35 @@ Australia
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 . Northern 
 Australia
 (
-<!--template match = bibRefCitation--><xref rid="ref138194">Von Lendenfeld 1887</xref>
+<xref rid="ref138194">Von Lendenfeld 1887</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref134636">Pulitzer-Finali 1982a</xref>
+<xref rid="ref134636">Pulitzer-Finali 1982a</xref>
 ), South East 
 Australia
 (
-<!--template match = bibRefCitation--><xref rid="ref138732">Wiedenmayer 1989</xref>
+<xref rid="ref138732">Wiedenmayer 1989</xref>
 ), Northwest 
 Tasmania
 (
-<!--template match = bibRefCitation--><xref rid="ref129265">Carpay 1986</xref>
+<xref rid="ref129265">Carpay 1986</xref>
 ), on reefs and rocks down to 
 30 m
 depth.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Comments
 . Differences with 
 Red Sea
 specimens, here assigned to 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) tenuispiculata ( Dendy, 1905 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) tenuispiculata ( Dendy, 1905 )</tp:taxon-name>
 are the color, which is cited as yellowish cream to beige in North Australian, and red in 
 Red Sea
 specimens. Mycalostyles in North Australian specimens appear distinctly thicker (
@@ -161,33 +161,33 @@ Red Sea
 specimens (
 1–3.5 µm
 ). Of the synonymy designations made by 
-<!--template match = bibRefCitation--><xref rid="ref138732">Wiedenmayer (1989)</xref>
+<xref rid="ref138732">Wiedenmayer (1989)</xref>
 , we disagree with 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ar.) imperfecta Baer, 1906</tp:taxon-name>
+<tp:taxon-name>M. (Ar.) imperfecta Baer, 1906</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>M. (A.) fistulata Hentschel, 1911</tp:taxon-name>
+<tp:taxon-name>M. (A.) fistulata Hentschel, 1911</tp:taxon-name>
 , and 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ar.) tylostrongyla Pulitzer-Finali, 1982b</tp:taxon-name>
+<tp:taxon-name>M. (Ar.) tylostrongyla Pulitzer-Finali, 1982b</tp:taxon-name>
 , as these were reassigned above to the synonymy of 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
 . This species is purple in color and has abundant microscleres, including rosettes of anisochelae.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref138732">Wiedenmayer (1989)</xref>
+<p>
+<xref rid="ref138732">Wiedenmayer (1989)</xref>
 also suggested 
-<!--template match = taxonomicName--><tp:taxon-name>Gelliodes setosa Keller, 1889</tp:taxon-name>
+<tp:taxon-name>Gelliodes setosa Keller, 1889</tp:taxon-name>
 was a junior synonym of the present species. However, his reason for suggesting this comes from 
-<!--template match = bibRefCitation--><xref rid="ref137151">Van Soest’s (1984)</xref>
+<xref rid="ref137151">Van Soest’s (1984)</xref>
 discussion of the affinities of Caribbean 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale laxissima ( Duchassaing &amp; Michelotti, 1864 )</tp:taxon-name>
+<tp:taxon-name>Mycale laxissima ( Duchassaing &amp; Michelotti, 1864 )</tp:taxon-name>
 , in which he suggested that Indonesian specimen ZMA Por. 01611 showed similarities with 
-<!--template match = taxonomicName--><tp:taxon-name>M. laxissima</tp:taxon-name>
+<tp:taxon-name>M. laxissima</tp:taxon-name>
 . The ZMA specimen was identified by M. Burton as 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale setosa ( Keller, 1889 )</tp:taxon-name>
+<tp:taxon-name>Mycale setosa ( Keller, 1889 )</tp:taxon-name>
 , but here it is reassigned to 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
 (cf. above). The name was also used by 
-<!--template match = bibRefCitation--><xref rid="ref131467">
+<xref rid="ref131467">
 Erpenbeck 
 et al.
 (2016
@@ -195,86 +195,86 @@ et al.
 , supplementary data, CO1tree). Burton’s identification (and Van Soest’s remark) does not conform to the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>Gelliodes setosa</tp:taxon-name>
+<tp:taxon-name>Gelliodes setosa</tp:taxon-name>
 as described by 
-<!--template match = bibRefCitation--><xref rid="ref133010">Keller (1889)</xref>
+<xref rid="ref133010">Keller (1889)</xref>
 , a.o. because no anisochelae were mentioned by Keller. As stated above, we examined the 
 type
 ZMB 270, which conforms to 
-<!--template match = taxonomicName--><tp:taxon-name>Gelliodes</tp:taxon-name>
+<tp:taxon-name>Gelliodes</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref138732">Wiedenmayer (1989)</xref>
+<p>
+<xref rid="ref138732">Wiedenmayer (1989)</xref>
 did not include South Australian 
-<!--template match = taxonomicName--><tp:taxon-name>Esperella crassa Dendy, 1896</tp:taxon-name>
+<tp:taxon-name>Esperella crassa Dendy, 1896</tp:taxon-name>
 in his long list of assumed junior synonyms of the present species, perhaps because Dendy mentions the presence of small anisochelae of 
 16 µm
 . Other features, including a strong presence of sand and foreign material do suggest it could be a junior synonym. Likewise, 
-<!--template match = taxonomicName--><tp:taxon-name>Esperella rara Dendy, 1896</tp:taxon-name>
+<tp:taxon-name>Esperella rara Dendy, 1896</tp:taxon-name>
 with the same sandy skeleton and small anisochelae, but in addition also trichodragmas, appears close if not conspecific with the present species. Both are technically outside our target region, so we refrain from giving summary descriptions. Of the latter species the 
 type
 material appears to have been lost (
-<!--template match = bibRefCitation--><xref rid="ref127733">
+<xref rid="ref127733">
 Ayling 
 et al
 . 1982
 </xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref132878">Hooper &amp; Wiedenmayer, 1994: 292</xref>
+<xref rid="ref132878">Hooper &amp; Wiedenmayer, 1994: 292</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Mycale waitei ( Whitelegge, 1906 )</tp:taxon-name>
+<p>
+<tp:taxon-name>Mycale waitei ( Whitelegge, 1906 )</tp:taxon-name>
 (originally as 
-<!--template match = taxonomicName--><tp:taxon-name>Cladorhiza</tp:taxon-name>
+<tp:taxon-name>Cladorhiza</tp:taxon-name>
 ) is a likely 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
 from 
 New South Wales
 , but no formal subgenus assignment has so far been made (but see below in 
-<!--template match = tableCitation--><xref>Table 9</xref>
+<xref>Table 9</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref132878">Hooper &amp; Wiedenmayer (1994)</xref>
+<p>
+<xref rid="ref132878">Hooper &amp; Wiedenmayer (1994)</xref>
 assigned this species to the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Naviculina Gray, 1867</tp:taxon-name>
+<tp:taxon-name>Naviculina Gray, 1867</tp:taxon-name>
 . No reasons for this suprising assignment were given. The genus is currently accepted as a subgenus of 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale</tp:taxon-name>
+<tp:taxon-name>Mycale</tp:taxon-name>
 species with cleistochelate anisochelae (dubbed ‘naviculichelae’ in this study following 
-<!--template match = bibRefCitation--><xref rid="ref137824">Van Soest &amp; Hajdu, 2002</xref>
+<xref rid="ref137824">Van Soest &amp; Hajdu, 2002</xref>
 ) (see below). 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ar.) mirabilis</tp:taxon-name>
+<tp:taxon-name>M. (Ar.) mirabilis</tp:taxon-name>
 does not possess naviculichelae.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="key">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="key">
+<p>
 
 Key to the 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
 species of the region
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remark
 . We refrain from keying out 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ar.) anomala ( Ridley &amp; Dendy, 1886 )</tp:taxon-name>
+<tp:taxon-name>M. (Ar.) anomala ( Ridley &amp; Dendy, 1886 )</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>M. waitei ( Whitelegge, 1906 )</tp:taxon-name>
+<tp:taxon-name>M. waitei ( Whitelegge, 1906 )</tp:taxon-name>
 as there is doubt of their identity.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="key">
+<tp:treatment-sec sec-type="key">
 
 
-<!--template match = paragraph--><p>
+<p>
 1 Growth form a flaring tube or coalescent tubes.............................................................. 2
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 - 
 Not
@@ -283,65 +283,65 @@ tubular. Shape is encrusting, lobate or erect club-shaped.......................
 </p>
 
 
-<!--template match = paragraph--><p>
+<p>
 
 2 Color red or pale red; surface with deep valleys and sharp conules................ 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) euplectellioides</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) euplectellioides</tp:taxon-name>
 
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 - Color greyish, whitish or iridescent pale purple; surface with pustular outgrowths, inside more smooth............................................................................................ 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) regularis</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) regularis</tp:taxon-name>
 
 </p>
 
 
-<!--template match = paragraph--><p>
+<p>
 
 3 Microscleres obviously present, including rosettes of anischelae, sigmas 
 40–105 µm
 ...... 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) imperfecta</tp:taxon-name>
 
 </p>
-<!--template match = paragraph--><p>
+<p>
 - Microscleres not common, may be rare or absent............................................................ 4
 </p>
 
 
-<!--template match = paragraph--><p>
+<p>
 
 4 Live color bright red, fibres predominantly filled with mycalostyles, occasionally bryozoans or algae may be enclosed in the fibres, sigmas if present &lt;
 40 µm
 ............................................ 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) tenuispiculata</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) tenuispiculata</tp:taxon-name>
 
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 - Live color yellowish beige to dirty white, fibres filled with sand grains; sigmas if present&gt; 
 40 µm
 ................................................................................................ 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina) mirabilis</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina) mirabilis</tp:taxon-name>
 
 </p>
 
 
-<!--template match = paragraph--><p>
+<p>
 
 Global diversity and distribution of the subgenus 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
 
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-52--151-250-1898-1922-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-52--151-250-1898-1922-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 32
 . Global diversity and distribution of the subgenus 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
+<tp:taxon-name>Mycale (Arenochalina)</tp:taxon-name>
 based on data derived from the World Porifera Database 2020 combined with the new data from the present study. The map presents the number of species found in each of the Marine Ecoregions of the World (
-<!--template match = bibRefCitation--><xref rid="ref136201">
+<xref rid="ref136201">
 Spalding 
 et al.
 2007
@@ -349,16 +349,16 @@ et al.
 ).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4451014/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Our estimate for the global diversity of the subgenus is severely uncertain, due to the unsatisfactory state of morphological evidence for species distinction. We believe a rational number of species is approximately 15, but this is not much better than a ‘guess’. One of the vexing problems is the poor knowledge of several South East Australian ‘species’ alleged or suspected to belong to the subgenus. The global distribution of the numbers of species found in Marine Ecoregions (cf. 
-<!--template match = bibRefCitation--><xref rid="ref136201">
+<xref rid="ref136201">
 Spalding 
 et al.
 2007
 </xref>
 ) is presented in 
-<!--template match = figureCitation--><xref rid="fig-52--151-250-1898-1922-">Fig. 32</xref>
+<xref rid="fig-52--151-250-1898-1922-">Fig. 32</xref>
 , showing that the subgenus is absent in polar regions and most temperate waters. Its absence in the Mediterranean indicates it has a circum-tropical distribution with a likely South East Pacific origin.
 </p>
 </tp:treatment-sec>

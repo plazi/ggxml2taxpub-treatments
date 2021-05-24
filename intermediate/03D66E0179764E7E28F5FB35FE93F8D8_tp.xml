@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Meadia abyssalis ( Kamohara, 1938 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
+<tp:nomenclature><tp:taxon-name>Meadia abyssalis ( Kamohara, 1938 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1338-1362-">4A</xref>
+<xref rid="fig-6--151-250-1338-1362-">4A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1652-1676-">5A</xref>
+<xref rid="fig-7--151-250-1652-1676-">5A</xref>
 ; 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Dysomma abyssale Kamohara, 1938:12</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Dysomma abyssale Kamohara, 1938:12</tp:taxon-name>
 </tp:nomenclature-citation>
 , fig. 3 (
 type
@@ -30,33 +30,33 @@ Japan
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Meadia abyssale ( Kamohara, 1938 )</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Meadia abyssale ( Kamohara, 1938 )</tp:taxon-name>
 : 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref6096">Böhlke, 1951:6</xref>
+<tp:nomenclature-citation>
+<xref rid="ref6096">Böhlke, 1951:6</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Meadia abyssalis ( Kamohara, 1938 )</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Meadia abyssalis ( Kamohara, 1938 )</tp:taxon-name>
 : 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref6753">Robins &amp; Robins, 1989:240</xref>
+<tp:nomenclature-citation>
+<xref rid="ref6753">Robins &amp; Robins, 1989:240</xref>
 </tp:nomenclature-citation>
 . 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref6644">
+<tp:nomenclature-citation>
+<xref rid="ref6644">
 Mok 
 et al.
 , 1991:44
 </xref>
 </tp:nomenclature-citation>
 . 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref6526">
+<tp:nomenclature-citation>
+<xref rid="ref6526">
 Ho 
 et al.
 , 2015b:179
@@ -66,73 +66,73 @@ et al.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Head with a clear hump behind eye. Dorsal-fin origin almost above or slightly behind pectoral-fin base. Anal-fin origin about 0.5–0.6 HL behind head. Middle of eye through posterior fourth of upper jaw. Posterior nostril with low rim and its margin bearing many fringes. Numerous cirri or papillae on snout and chin, gradually becoming scattered on posterior portion of head. Gill opening against lower third of pectoral-fin base (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
+<xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1338-1362-">4A</xref>
+<xref rid="fig-6--151-250-1338-1362-">4A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>Head pores: SO 1 (ethmoid) + 2, all at tip of snout, no pore above upper margin of eye; IO 6, 1 (adnasal) at posterodorsal corner of anterior nostril, the second below anterior nostril, the third midway between nostrils, the fourth below posterior margin of posterior nostril, the fifth below posterior third of eye, and the sixth above posterior end of rictus; F 0; POM 8, the penultimate pore about 0.4 eye diameter behind the rictus and the last 1.5–2 eye diameter behind rictus. ST 0. Lateral line pores: HLL 3 or 4; PDLL 5 or 6; PAL 14–16. Numbers of dorsal-fin rays before anal-fin origin 22–27.</p>
-<!--template match = paragraph--><p>Vertebrae: PDV 10–11, PAV 19, PCV 55–60, TV 174–179, and MVF 11-19-176.</p>
-<!--template match = paragraph--><p>Tooth pattern: an oval patch of 10–12 moderately long and pointed teeth on intermaxillary, arranged in about 3 rows; followed by a long patch of various-sized teeth on vomer, which has about 10–12 long and enlarged teeth, arranged in 2 regular rows, most teeth with a pointed tip, followed by 6–8 much smaller teeth arranged in single row posteriorly. Maxilla with a long band of about 2 or 3 rows of slender and pointed teeth, those on outer row smallest, those on inner row gradually larger. Lower jaw with 2 irregular rows of long teeth anteriorly, those on outer row small and short, those on inner row long and pointed.</p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-250-1942-1966-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<p>Head pores: SO 1 (ethmoid) + 2, all at tip of snout, no pore above upper margin of eye; IO 6, 1 (adnasal) at posterodorsal corner of anterior nostril, the second below anterior nostril, the third midway between nostrils, the fourth below posterior margin of posterior nostril, the fifth below posterior third of eye, and the sixth above posterior end of rictus; F 0; POM 8, the penultimate pore about 0.4 eye diameter behind the rictus and the last 1.5–2 eye diameter behind rictus. ST 0. Lateral line pores: HLL 3 or 4; PDLL 5 or 6; PAL 14–16. Numbers of dorsal-fin rays before anal-fin origin 22–27.</p>
+<p>Vertebrae: PDV 10–11, PAV 19, PCV 55–60, TV 174–179, and MVF 11-19-176.</p>
+<p>Tooth pattern: an oval patch of 10–12 moderately long and pointed teeth on intermaxillary, arranged in about 3 rows; followed by a long patch of various-sized teeth on vomer, which has about 10–12 long and enlarged teeth, arranged in 2 regular rows, most teeth with a pointed tip, followed by 6–8 much smaller teeth arranged in single row posteriorly. Maxilla with a long band of about 2 or 3 rows of slender and pointed teeth, those on outer row smallest, those on inner row gradually larger. Lower jaw with 2 irregular rows of long teeth anteriorly, those on outer row small and short, those on inner row long and pointed.</p>
+<fig id="fig-5--151-250-1942-1966-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
 A. 
-<!--template match = taxonomicName--><tp:taxon-name>Meadia abyssalis</tp:taxon-name>
+<tp:taxon-name>Meadia abyssalis</tp:taxon-name>
 , NMMB-P24798, 575 mm TL, photo by H.-C. Ho. B. 
-<!--template match = taxonomicName--><tp:taxon-name>Meadia roseni</tp:taxon-name>
+<tp:taxon-name>Meadia roseni</tp:taxon-name>
 , NMMB-P29943, 723 mm TL, photo by K. Koeda.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671596/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--151-250-1338-1362-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--151-250-1338-1362-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
 Close-up of head and trunk region. A. 
-<!--template match = taxonomicName--><tp:taxon-name>Meadia abyssalis</tp:taxon-name>
+<tp:taxon-name>Meadia abyssalis</tp:taxon-name>
 , NMMB-P26380, 256 mm TL, left-right reversed. B. 
-<!--template match = taxonomicName--><tp:taxon-name>Meadia roseni</tp:taxon-name>
+<tp:taxon-name>Meadia roseni</tp:taxon-name>
 , NMMB-P25976, 429 mm TL. C. 
-<!--template match = taxonomicName--><tp:taxon-name>Meadia minor</tp:taxon-name>
+<tp:taxon-name>Meadia minor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , from holotype. Arrows point to dorsal-fin origin (D), anal-fin origin (A) and gill opening (GO). Not to scale.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671598/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Coloration.
 In both fresh and preserved specimens, body light brown to gray, generally lighter than that of 
-<!--template match = taxonomicName--><tp:taxon-name>M roseni</tp:taxon-name>
+<tp:taxon-name>M roseni</tp:taxon-name>
 . Anterior portion of dorsal and anal fin (about two-thirds of the fin) light grayish with broad pale margin, the white margin gradually becoming narrower, anal-fin base darkened at about two head lengths from posterior end; caudal fin mostly pale with a brown base (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
+<xref rid="fig-5--151-250-1942-1966-">Figs. 3A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1338-1362-">4A</xref>
+<xref rid="fig-6--151-250-1338-1362-">4A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1652-1676-">5A</xref>
+<xref rid="fig-7--151-250-1652-1676-">5A</xref>
 ). Peritoneum uniformly black, stomach and intestines pale.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 In addition to the very different meristics compared to its two congeners (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>M. abyssalis</tp:taxon-name>
+<tp:taxon-name>M. abyssalis</tp:taxon-name>
 can be easily distinguished from them in having a relatively pale body coloration (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1942-1966-">Fig. 3A</xref>
+<xref rid="fig-5--151-250-1942-1966-">Fig. 3A</xref>
 , vs. 
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1954-1978-">Figs. 1B</xref>
+<xref rid="fig-2--151-250-1954-1978-">Figs. 1B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1942-1966-">3B</xref>
+<xref rid="fig-5--151-250-1942-1966-">3B</xref>
 ), anal fin mostly pale with the posterior portion of its base darkened, and caudal fin white with dark brown base (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1652-1676-">Fig. 5A</xref>
+<xref rid="fig-7--151-250-1652-1676-">Fig. 5A</xref>
 , vs. 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1652-1676-">Figs. 5B, 5C</xref>
+<xref rid="fig-7--151-250-1652-1676-">Figs. 5B, 5C</xref>
 ).
 </p>
 </tp:treatment-sec>

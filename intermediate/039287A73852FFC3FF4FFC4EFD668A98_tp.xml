@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Lucasioides altaicus sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 1–7</xref>
+<tp:nomenclature><tp:taxon-name>Lucasioides altaicus sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figs 1–7</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Mongoloniscus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Mongoloniscus</tp:taxon-name>
 sp. (pro parte)— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Gongalsky 
 et al
 . 2017: 26
@@ -24,8 +24,8 @@ et al
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined:
 Holotype
 , ³ (
@@ -43,15 +43,15 @@ University (ASU) Field Station “Goluboi Utios”,
 , 
 630 m
 a.s.l., N slope, plot 2, 
-<!--template match = taxonomicName--><tp:taxon-name>Betula pendula</tp:taxon-name>
+<tp:taxon-name>Betula pendula</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Populus tremula</tp:taxon-name>
+<tp:taxon-name>Populus tremula</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Pinus sylvestris</tp:taxon-name>
+<tp:taxon-name>Pinus sylvestris</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Spiraea chamaedrifolia</tp:taxon-name>
+<tp:taxon-name>Spiraea chamaedrifolia</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Bergenia crassifolia</tp:taxon-name>
+<tp:taxon-name>Bergenia crassifolia</tp:taxon-name>
 , hand sampling, 
 13 July 2016
 , leg. 
@@ -60,7 +60,7 @@ V
 T
 . Niyazov.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Paratypes
 : 1 ³ (
 ZMMU
@@ -77,15 +77,15 @@ Altai Krai
 , 
 620 m
 a.s.l., N slope, plot 1, 
-<!--template match = taxonomicName--><tp:taxon-name>B. pendula</tp:taxon-name>
+<tp:taxon-name>B. pendula</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. tremula</tp:taxon-name>
+<tp:taxon-name>P. tremula</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. sylvestris</tp:taxon-name>
+<tp:taxon-name>P. sylvestris</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
+<tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>B. crassifolia</tp:taxon-name>
+<tp:taxon-name>B. crassifolia</tp:taxon-name>
 , soil sampling, sample 4 (
 0–10 cm
 ), 
@@ -115,11 +115,11 @@ Altai Krai
 , 
 83°37ʹ37.0ʺE
 , 
-<!--template match = taxonomicName--><tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
+<tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Caragana arborescens</tp:taxon-name>
+<tp:taxon-name>Caragana arborescens</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Lonicera tatarica</tp:taxon-name>
+<tp:taxon-name>Lonicera tatarica</tp:taxon-name>
 on southern slope, 
 480 m
 a.s.l., soil sampling, sample 1 (
@@ -129,14 +129,14 @@ a.s.l., soil sampling, sample 1 (
 , leg. Kh.Kh. Nedoev.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Male exopod of pleopod 1 with concave tip and lower lobe is longer than the upper one; telson is elongated and shows sharp tip.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Maximum body length: male 8.0 mm (
 holotype
@@ -146,57 +146,57 @@ holotype
 . 
 Body
 dark grey-brown, with two rows of light grey-brown spots in medial part of coxal plates of pereonal segments 2–7 (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
+<xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
 ). Body relatively elongated, pleon forming no continuous margin with pereon (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
+<xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
 ). Dorsal surface of tergites smooth. Posterior edges of coxal plates of pereonites 1–3 straight, those of pereonites 4–7 curved (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Fig. 2A</xref>
+<xref rid="fig-4--151-250-1260-1284-">Fig. 2A</xref>
 ). 
 Head
 covered with scattered, sharp, triangular, dorsal setae (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Fig. 1B</xref>
+<xref rid="fig-3--151-250-1297-1321-">Fig. 1B</xref>
 ). 
 Noduli laterales
 on pereonites 1–4 located at approximately same distance to edge of coxal plates (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Figs 2A</xref>
+<xref rid="fig-4--151-250-1260-1284-">Figs 2A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1545-1569-">3</xref>
+<xref rid="fig-5--151-250-1545-1569-">3</xref>
 ). Cephalic lobes poorly developed. Distal edge of median lobe rounded (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Figs 1B</xref>
+<xref rid="fig-3--151-250-1297-1321-">Figs 1B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">2B</xref>
+<xref rid="fig-4--151-250-1260-1284-">2B</xref>
 ). Telson with an elongated distal part, distal corner forming a triangle (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Figs 2C</xref>
+<xref rid="fig-4--151-250-1260-1284-">Figs 2C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1545-1569-">3A</xref>
+<xref rid="fig-5--151-250-1545-1569-">3A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antennula
 with three articles (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Fig. 2D</xref>
+<xref rid="fig-4--151-250-1260-1284-">Fig. 2D</xref>
 ); first article wide and long; second article 0.5 times as long as first; third article narrow as almost as long as first article, bearing tuft of setae at apex. 
 Antenna
 of medium length, reaching pereonite 3; flagellum with two articles, proximal article slightly shorter than distal one (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Figs 1C</xref>
+<xref rid="fig-3--151-250-1297-1321-">Figs 1C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">2E</xref>
+<xref rid="fig-4--151-250-1260-1284-">2E</xref>
 ). Aesthetascs absent from apical articles of antenna.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1297-1321-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-250-1297-1321-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
+<tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , A—male paratype, dorsal view; female paratype: B—head; C—antenna.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4422840/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Left mandible
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1020-1044-">Fig. 4A</xref>
+<xref rid="fig-6--151-250-1020-1044-">Fig. 4A</xref>
 ) with molar process carrying two teeth and 
 lacinia mobilis
 with straight edge. Lobe covered by setae with three plumose penicils followed by row of 18–20 penicils located basal to 
@@ -204,70 +204,70 @@ lacinia
 . Right mandible smaller than left mandible, molar process with thee teeth and 
 lacinia mobilis
 with two teeth and hairy bilobate lobe with row of 18–20 penicils (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1020-1044-">Fig. 4B</xref>
+<xref rid="fig-6--151-250-1020-1044-">Fig. 4B</xref>
 ). 
 Maxillula
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1020-1044-">Fig. 4C</xref>
+<xref rid="fig-6--151-250-1020-1044-">Fig. 4C</xref>
 ) medial corner of inner endite with two strong hirsute setae.Apical edge of outer endite bearing nine spines divided into two groups; five medial spines slender and with split tips, and four lateral spines stouter and with simple tips. Tip of endite covered with brush of dense setae. 
 Maxilla
 with bilobate edge, medial half of apical edge of inner lobe with brush of short dense setae (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1020-1044-">Fig. 4D</xref>
+<xref rid="fig-6--151-250-1020-1044-">Fig. 4D</xref>
 ). Inner margin with a subapical tubercle. Maxilliped with outer corner of endite with two acute tips and large spine near inner corner (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1020-1044-">Fig. 4E</xref>
+<xref rid="fig-6--151-250-1020-1044-">Fig. 4E</xref>
 ). Basal article of endopod with large spine.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pereopods
 (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Figs 2</xref>
+<xref rid="fig-4--151-250-1260-1284-">Figs 2</xref>
 F–H, 5). Ventral edge of male pereopod 7 carpus slightly curved.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Uropods
 (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
+<xref rid="fig-3--151-250-1297-1321-">Fig. 1A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">2C</xref>
+<xref rid="fig-4--151-250-1260-1284-">2C</xref>
 ) colored as dorsal surface of body. Exopods elongated, with widest part at 1/3 proximal distance (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1260-1284-">Figs 2C</xref>
+<xref rid="fig-4--151-250-1260-1284-">Figs 2C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1545-1569-">3A</xref>
+<xref rid="fig-5--151-250-1545-1569-">3A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Male
 . Shape of genital papilla typical of the genus. All exopods at lateral margin with lungs. Exopod of 
 pleopod 1
 (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1970-1994-">Figs 6A</xref>
+<xref rid="fig-7--151-250-1970-1994-">Figs 6A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1204-1228-">7B</xref>
+<xref rid="fig-8--151-250-1204-1228-">7B</xref>
 ) with long hind lobe bearing deep hollow and 9–10 setae at apex; inner margin slightly concave and devoid of setae. Endopod of pleopod 1 with a dorsal furrow and row of spines (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1970-1994-">Figs 6B</xref>
+<xref rid="fig-7--151-250-1970-1994-">Figs 6B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1204-1228-">7C, D</xref>
+<xref rid="fig-8--151-250-1204-1228-">7C, D</xref>
 ). 
 Pleopod 2
 exopod triangular, with concave outer margin bearing 12 setae (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1970-1994-">Figs 6C</xref>
+<xref rid="fig-7--151-250-1970-1994-">Figs 6C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1204-1228-">7A</xref>
+<xref rid="fig-8--151-250-1204-1228-">7A</xref>
 ); endopod much longer than exopod, narrow and parallel-sided (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1970-1994-">Figs 6D</xref>
+<xref rid="fig-7--151-250-1970-1994-">Figs 6D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1204-1228-">7A</xref>
+<xref rid="fig-8--151-250-1204-1228-">7A</xref>
 ). 
 Pleopods 3–4
 exopods (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1970-1994-">Fig. 6</xref>
+<xref rid="fig-7--151-250-1970-1994-">Fig. 6</xref>
 E–G) trapezoidal, slightly decreasing in size from 3 to 4. 
 Pleopod 5
 exopod triangular.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 The specific epithet refers to the 
 locus typicus
@@ -276,161 +276,161 @@ Altai
 Mountains).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-250-1260-1284-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-250-1260-1284-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
+<tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , female paratype: A—pereion edge; B—head; C—telson; D—antennula; E—antenna; F—pereopod 1; G—pereopod 6; H—pereopod 7.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4422842/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution and habitat.
 The species has been collected in the lowlands of 
 Altai
 Mountains in the environs of Charyshskoye Village. The area supports a steppe habitat with 
-<!--template match = taxonomicName--><tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
+<tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>C. arborescens</tp:taxon-name>
+<tp:taxon-name>C. arborescens</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>L. tatarica</tp:taxon-name>
+<tp:taxon-name>L. tatarica</tp:taxon-name>
 bushes and scattered 
-<!--template match = taxonomicName--><tp:taxon-name>P. sylvestris</tp:taxon-name>
+<tp:taxon-name>P. sylvestris</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>B. pendula</tp:taxon-name>
+<tp:taxon-name>B. pendula</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. tremula</tp:taxon-name>
+<tp:taxon-name>P. tremula</tp:taxon-name>
 stands with 
-<!--template match = taxonomicName--><tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
+<tp:taxon-name>S. chamaedrifolia</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>B. crassifolia</tp:taxon-name>
+<tp:taxon-name>B. crassifolia</tp:taxon-name>
 , growing on the southern and northern rocky slopes of a mountain, respectively. The above is the first record of the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides Kwon, 1993</tp:taxon-name>
+<tp:taxon-name>Lucasioides Kwon, 1993</tp:taxon-name>
 from 
 Russia
 , showing its presently northwestern range limit.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 The new species is assigned to 
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides</tp:taxon-name>
+<tp:taxon-name>Lucasioides</tp:taxon-name>
 since it has five pairs of pleopodal lungs; the flagellum of antenna consisting of two articles, and the position of the 
 noduli laterales
 distinctive for the genus. This species seems to be particularly close to 
-<!--template match = taxonomicName--><tp:taxon-name>Desertoniscus mongolicus</tp:taxon-name>
+<tp:taxon-name>Desertoniscus mongolicus</tp:taxon-name>
 due to the similar shape of most body parts. Yet the taxonomic position of 
-<!--template match = taxonomicName--><tp:taxon-name>D. mongolicus</tp:taxon-name>
+<tp:taxon-name>D. mongolicus</tp:taxon-name>
 within 
-<!--template match = taxonomicName--><tp:taxon-name>Desertoniscus</tp:taxon-name>
+<tp:taxon-name>Desertoniscus</tp:taxon-name>
 needs to be revised. In the original description, 
-<!--template match = bibRefCitation--><xref rid="ref4293">Borutzky (1978)</xref>
+<xref rid="ref4293">Borutzky (1978)</xref>
 noted that 
-<!--template match = taxonomicName--><tp:taxon-name>D. mongolicus</tp:taxon-name>
+<tp:taxon-name>D. mongolicus</tp:taxon-name>
 occupies a position intermediate between the genera 
-<!--template match = taxonomicName--><tp:taxon-name>Desertoniscus</tp:taxon-name>
+<tp:taxon-name>Desertoniscus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Mongoloniscus</tp:taxon-name>
+<tp:taxon-name>Mongoloniscus</tp:taxon-name>
 , but in fact both 
-<!--template match = taxonomicName--><tp:taxon-name>D. mongolicus</tp:taxon-name>
+<tp:taxon-name>D. mongolicus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 also bear characteristics of both 
-<!--template match = taxonomicName--><tp:taxon-name>Protracheoniscus</tp:taxon-name>
+<tp:taxon-name>Protracheoniscus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides</tp:taxon-name>
+<tp:taxon-name>Lucasioides</tp:taxon-name>
 (e.g., the position of the 
 noduli laterales
 ). However, these two species differ in the shape of the male exopod of pleopod 1: 
-<!--template match = taxonomicName--><tp:taxon-name>D. mongolicus</tp:taxon-name>
+<tp:taxon-name>D. mongolicus</tp:taxon-name>
 has a longer upper lobe at the tip, while in 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 the lower lobe is longer; 
-<!--template match = taxonomicName--><tp:taxon-name>D. mongolicus</tp:taxon-name>
+<tp:taxon-name>D. mongolicus</tp:taxon-name>
 has antenna reaching only the posterior edge of tergite I, while they are longer in 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 and reaching the posterior edge of tergite II. Within the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides</tp:taxon-name>
+<tp:taxon-name>Lucasioides</tp:taxon-name>
 , there are no species which could be mixed up with the new species. The morphologically closest species are 
-<!--template match = taxonomicName--><tp:taxon-name>L. isseli ( Arcangeli, 1927 )</tp:taxon-name>
+<tp:taxon-name>L. isseli ( Arcangeli, 1927 )</tp:taxon-name>
 from 
 China
 , 
-<!--template match = taxonomicName--><tp:taxon-name>L. sinuosus (Nunomura, 1987)</tp:taxon-name>
+<tp:taxon-name>L. sinuosus (Nunomura, 1987)</tp:taxon-name>
 from 
 Korea
 and 
 Japan
 , 
-<!--template match = taxonomicName--><tp:taxon-name>L. toyamaensis Nunomura 2008</tp:taxon-name>
+<tp:taxon-name>L. toyamaensis Nunomura 2008</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>L. sagarai Nunomura 2008</tp:taxon-name>
+<tp:taxon-name>L. sagarai Nunomura 2008</tp:taxon-name>
 , and 
-<!--template match = taxonomicName--><tp:taxon-name>L. yokahatai Nunomura 2010</tp:taxon-name>
+<tp:taxon-name>L. yokahatai Nunomura 2010</tp:taxon-name>
 from 
 Japan
 (
-<!--template match = bibRefCitation--><xref rid="ref5058">Nunomura 2008</xref>
+<xref rid="ref5058">Nunomura 2008</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref5101">2010</xref>
+<xref rid="ref5101">2010</xref>
 ). The new species readily differs from all by the sharp and elongated telson, and in the shape of the exopod of pleopod 1. A molecular analysis is needed for the complex of those small species of 
-<!--template match = taxonomicName--><tp:taxon-name>Agnaridae</tp:taxon-name>
+<tp:taxon-name>Agnaridae</tp:taxon-name>
 , and a complete taxonomic revision of these sister genera is needed.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-250-1545-1569-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--151-250-1545-1569-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
+<tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , female paratype: A—pereionites 6, 7, pleon and telson; B—nodulis lateralis on pereonite 7; C—pereionites 1–3; D—nodulis lateralis on pereonite 2.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4422844/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Phylogenetic analysis.
 A total of 11 nucleotide sequences were used to assess both species and intraspecific variation (
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1942-1966-">Fig. 8</xref>
+<xref rid="fig-8--151-250-1942-1966-">Fig. 8</xref>
 ): two of them were obtained from 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , and further nine revealed earlier from 
-<!--template match = taxonomicName--><tp:taxon-name>Protracheoniscus politus (C. Koch, 1841)</tp:taxon-name>
+<tp:taxon-name>Protracheoniscus politus (C. Koch, 1841)</tp:taxon-name>
 from 
 Budapest
 , 
 Hungary
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. pokarzhevskii Gongalsky et Turbanov, 2018</tp:taxon-name>
+<tp:taxon-name>P. pokarzhevskii Gongalsky et Turbanov, 2018</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. kryszanovskii Borutzky, 1957</tp:taxon-name>
+<tp:taxon-name>P. kryszanovskii Borutzky, 1957</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. nogaicus Demianowicz, 1932</tp:taxon-name>
+<tp:taxon-name>P. nogaicus Demianowicz, 1932</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. major (Dollfus, 1903)</tp:taxon-name>
+<tp:taxon-name>P. major (Dollfus, 1903)</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Desertoniscus zaitsevi Gongalsky, 2017</tp:taxon-name>
+<tp:taxon-name>Desertoniscus zaitsevi Gongalsky, 2017</tp:taxon-name>
 from the Republic of 
 Kalmykia
 , 
 Russia
 (
-<!--template match = bibRefCitation--><xref rid="ref4716">
+<xref rid="ref4716">
 Gongalsky 
 et al
 . 2018
@@ -438,85 +438,85 @@ et al
 ). The loci of the 
 COI
 mtDNA of 
-<!--template match = taxonomicName--><tp:taxon-name>Hemilepistus klugii (Brandt, 1833)</tp:taxon-name>
+<tp:taxon-name>Hemilepistus klugii (Brandt, 1833)</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>H. schirasi Lincoln, 1970</tp:taxon-name>
+<tp:taxon-name>H. schirasi Lincoln, 1970</tp:taxon-name>
 from 
 Iran
 (
-<!--template match = bibRefCitation--><xref rid="ref4455">
+<xref rid="ref4455">
 Dimitriou 
 et al
 . 2018
 </xref>
 ) were used as outgroup taxa.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--151-250-1020-1044-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--151-250-1020-1044-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
+<tp:taxon-name>Lucasioides altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , female paratype: A—left mandible; B—right mandible; C—maxillula; D—maxilla; E—maxilliped.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4422846/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 An analysis of the average values of pairwise sequence divergences (
 p
 -distances) of partial 
 COI
 mtDNA (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ) shows that the intraspecific difference of two 
 loci
 of 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 is 0%, which indicates their complete identity. Within the considered species, 
 p
 -distances range from 15.7% between 
-<!--template match = taxonomicName--><tp:taxon-name>L. altaicus</tp:taxon-name>
+<tp:taxon-name>L. altaicus</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. kryszanovskii</tp:taxon-name>
+<tp:taxon-name>P. kryszanovskii</tp:taxon-name>
 up to 24.9% between 
-<!--template match = taxonomicName--><tp:taxon-name>P. politus</tp:taxon-name>
+<tp:taxon-name>P. politus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. major</tp:taxon-name>
+<tp:taxon-name>P. major</tp:taxon-name>
 . Similar genetic distances correspond to possible variations within the 
 COI
 mtDNA gene for woodlice (
-<!--template match = bibRefCitation--><xref rid="ref4455">
+<xref rid="ref4455">
 Dimitriou 
 et al
 . 2018
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 It seems noteworthy that 
-<!--template match = taxonomicName--><tp:taxon-name>D. zaitsevi</tp:taxon-name>
+<tp:taxon-name>D. zaitsevi</tp:taxon-name>
 falls within the 
 p
 -distances range for the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Protracheoniscus</tp:taxon-name>
+<tp:taxon-name>Protracheoniscus</tp:taxon-name>
 , whose average values of pairwise sequence divergences reach 18.0% with 
-<!--template match = taxonomicName--><tp:taxon-name>P. major</tp:taxon-name>
+<tp:taxon-name>P. major</tp:taxon-name>
 and 23.4% with 
-<!--template match = taxonomicName--><tp:taxon-name>P. nogaicus</tp:taxon-name>
+<tp:taxon-name>P. nogaicus</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Protracheoniscus</tp:taxon-name>
+<tp:taxon-name>Protracheoniscus</tp:taxon-name>
 appears to be paraphyletic (
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1942-1966-">Fig. 8</xref>
+<xref rid="fig-8--151-250-1942-1966-">Fig. 8</xref>
 ). However, this aspect and the question of the validity of the genera 
-<!--template match = taxonomicName--><tp:taxon-name>Desertoniscus Verhoeff, 1930</tp:taxon-name>
+<tp:taxon-name>Desertoniscus Verhoeff, 1930</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Lucasioides Kwon, 1993</tp:taxon-name>
+<tp:taxon-name>Lucasioides Kwon, 1993</tp:taxon-name>
 is to be left outside present paper, requiring a special study based on a more representative material.
 </p>
 </tp:treatment-sec>

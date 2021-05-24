@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Zagrammosoma seini Wolcott<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Zagrammosoma seini Wolcott<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-87--151-250-1962-1986-">Fig. 38</xref>
+<xref rid="fig-87--151-250-1962-1986-">Fig. 38</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma seini Wolcott, 1936: 525</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zagrammosoma seini Wolcott, 1936: 525</tp:taxon-name>
 . 
 Lectotype
 ♀
@@ -30,11 +30,11 @@ xii.1934
 - 
 ii.1935
 , F. Sein, “PR 14-35”, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
+<tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>Lepidoptera</tp:taxon-name>
+<tp:taxon-name>Lepidoptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Lyonetiidae</tp:taxon-name>
+<tp:taxon-name>Lyonetiidae</tp:taxon-name>
 ): [UCRCENT 416789], by 
 present designation
 for nomenclatural stability; 
@@ -42,83 +42,83 @@ deposited at USNM
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Cirrospilus ( Zagrammosoma ) seini</tp:taxon-name>
+<p>
+<tp:taxon-name>Cirrospilus ( Zagrammosoma ) seini</tp:taxon-name>
 ; incorrect combination and subgenus designation by DeSantis 1979: 261.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
 is characterized by the presence of both a wide, medial band dorsally on the mesoscutum and darkening of the fore wing apical margin. The mesosoma pattern is similar in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. latilineatum</tp:taxon-name>
+<tp:taxon-name>Z. latilineatum</tp:taxon-name>
 , but the median band is thinner in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. seini</tp:taxon-name>
+<tp:taxon-name>Z. seini</tp:taxon-name>
 than in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. latilineatum</tp:taxon-name>
+<tp:taxon-name>Z. latilineatum</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-87--151-250-1962-1986-">Fig. 38D, E</xref>
+<xref rid="fig-87--151-250-1962-1986-">Fig. 38D, E</xref>
 versus 26D, E), and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. latilineatum</tp:taxon-name>
+<tp:taxon-name>Z. latilineatum</tp:taxon-name>
 lacks the apical band of the fore wing. 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma yanegai</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma yanegai</tp:taxon-name>
 also has similar color patterns of the wings and mesosoma (
-<!--template match = figureCitation--><xref rid="fig-101--151-250-1926-1950-">Fig. 48F</xref>
+<xref rid="fig-101--151-250-1926-1950-">Fig. 48F</xref>
 ), however 
-<!--template match = taxonomicName--><tp:taxon-name>Z. yanegai</tp:taxon-name>
+<tp:taxon-name>Z. yanegai</tp:taxon-name>
 possesses asymmetrical funiculars (
-<!--template match = figureCitation--><xref rid="fig-101--151-250-1926-1950-">Fig. 48A</xref>
+<xref rid="fig-101--151-250-1926-1950-">Fig. 48A</xref>
 ) and a less developed median carina on the propodeum.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Female - body length 
 1.62–1.99 mm
 . Metallic luster on body absent. Scape yellow with black stripe dorsally. Lower face with median stripe absent. Vertex with 2 stripes above compound eye. Dark stripe and band below compound eye yellow. Occiput yellow with 2 dark, vertical stripes. Pronotum with median band complete; laterally with 2 dark stripes. Mesoscutum with median band complete. Prepectus yellow with black stripe along dorsal margin. Mesoscutellum yellow with median band. Propodeum yellow with black median carina and diagonal line. Procoxa and mesocoxa yellow. Metacoxa yellow with black stripe basally. Profemur, mesofemur, and metafemur yellow. Fore wing: basal and cubital bands absent; parastigmal band present, at junction of parastigmal and marginal veins only; stigmal band present, with perpendicular extension greater than that of stigmal apex; postmarginal band absent; apical band present; connections from parastigmal band to stigmal band, and from stigmal band to postmarginal band absent. Hind wing hyaline. Gaster yellow with median black stripe; black stripe laterally.
 </p>
-<!--template match = paragraph--><p>Upper ocular sulcus present. Pedicel longer than wide. Funiculars symmetrical: first longer than wide (w:l = 0.43–0.46); second longer than wide (w:l = 0.61–0.7).</p>
-<!--template match = paragraph--><p>
+<p>Upper ocular sulcus present. Pedicel longer than wide. Funiculars symmetrical: first longer than wide (w:l = 0.43–0.46); second longer than wide (w:l = 0.61–0.7).</p>
+<p>
 Pronotum, in dorsal view, bell-shaped (w:l = 1.4–1.94); 3 pairs of setae along posterior margin. Mesoscutum reticulate; small, scattered setae present; intermediate setae absent. Mesoscutellum wider than long (w:l = 1.15–1.25); submedian grooves absent. Hind tibial spur distinctly shorter than basitarsus. Hind basitarsus shorter than second tarsomere (bst:2 
 <sup>nd</sup>
 = 0.63–0.89).
 </p>
-<!--template match = paragraph--><p>Fore wing l:w = 2.24–2.26. Submarginal vein with 5–7 setae dorsally. Basal fold setae absent, or with one to two setae. Cubital fold setose.Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
-<!--template match = paragraph--><p>
+<p>Fore wing l:w = 2.24–2.26. Submarginal vein with 5–7 setae dorsally. Basal fold setae absent, or with one to two setae. Cubital fold setose.Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
+<p>
 Male - as female, except: body length 
 1.05–1.37 mm
 ; gaster with median stripe not complete.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-87--151-250-1962-1986-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-87--151-250-1962-1986-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 38.
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
 , ♀: (A) head, frontolateral, (B) lateral habitus, (C) fore wing, dorsal, (D) dorsal habitus; (E) ♁ dorsal habitus. Scale bar = 0.2 mm (A), 0.5 mm (B–E).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471883/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-88--151-250-1011-1035-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-88--151-250-1011-1035-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 39.
 Distribution of 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma seini</tp:taxon-name>
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471885/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = bibRefCitation--><xref rid="ref82177">Wolcott (1936)</xref>
+<xref rid="ref82177">Wolcott (1936)</xref>
 did not designate a 
 holotype
 or depository when describing this species. The specimens he described were from “mines of 
-<!--template match = taxonomicName--><tp:taxon-name>Leucoptera coffeella Guerin</tp:taxon-name>
+<tp:taxon-name>Leucoptera coffeella Guerin</tp:taxon-name>
 on coffee at 
 Lares
 (152-21, 14-35 generic determination by A. B. Gahan).” There are two female specimens housed at the USNM that are reared from 
-<!--template match = taxonomicName--><tp:taxon-name>L. coffeella</tp:taxon-name>
+<tp:taxon-name>L. coffeella</tp:taxon-name>
 , one with the Accession number 152-21 collected from 
 Lares
 , and the other with “P.R. 14-35” collected from “ 
@@ -126,7 +126,7 @@ Lares
 or 
 Isabela
 .” The latter was collected by F. Sein. It is presumed that these are the specimens Wolcott used in his description of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. seini</tp:taxon-name>
+<tp:taxon-name>Z. seini</tp:taxon-name>
 , and therefore, a 
 lectotype
 and 
@@ -134,26 +134,26 @@ paralectotype
 are assigned here.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Hosts.
 Reared from lepidopteran leaf miners. See 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Lepidoptera</tp:taxon-name>
+<tp:taxon-name>Lepidoptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Gracillariidae</tp:taxon-name>
+<tp:taxon-name>Gracillariidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Lyonetiidae</tp:taxon-name>
+<tp:taxon-name>Lyonetiidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Pyralidae</tp:taxon-name>
+<tp:taxon-name>Pyralidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Tischeriidae</tp:taxon-name>
+<tp:taxon-name>Tischeriidae</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution. Neotropical:
 Bahamas
 , 
@@ -167,54 +167,54 @@ USA
 (
 Puerto Rico
 ) (
-<!--template match = figureCitation--><xref rid="fig-88--151-250-1011-1035-">Fig. 39</xref>
+<xref rid="fig-88--151-250-1011-1035-">Fig. 39</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paralectotype</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paralectotype</named-content>
 : USA: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Puerto Rico</named-content>
+<named-content content-type="collectingCountry">Puerto Rico</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Lares</named-content>
+<named-content content-type="collectingRegion">Lares</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">383m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">383m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">18°17’29”N</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">18°17’29”N</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">66°50’13”W</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">66°50’13”W</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.vi.1921</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14.vi.1921</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G. N. Wolcott</named-content>
+<named-content content-type="collectorName">G. N. Wolcott</named-content>
 , host: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Leucoptera coffeella</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Leucoptera coffeella</named-content>
 </named-content>
 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT416893</named-content>
+<named-content content-type="specimenCode">UCRCENT416893</named-content>
 ]
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Additional material examined. 
 BAHAMAS
@@ -259,7 +259,7 @@ Artemisa
 , 
 3.x.1969
 , Hochmut, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllocnistis</tp:taxon-name>
+<tp:taxon-name>Phyllocnistis</tp:taxon-name>
 sp. [1♁, 
 BMNH
 : NHMUK10353841]. 
@@ -280,7 +280,7 @@ Vinales,
 , 
 4.vii.1969
 , Hochmut, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Dioryctria horneana</tp:taxon-name>
+<tp:taxon-name>Dioryctria horneana</tp:taxon-name>
 [
 1♀
 , 
@@ -324,9 +324,9 @@ Nisibon,
 , 
 9.vi.1976
 , E. E. Grissell, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Gracillaridae</tp:taxon-name>
+<tp:taxon-name>Gracillaridae</tp:taxon-name>
 , host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Gliciridia sepium</tp:taxon-name>
+<tp:taxon-name>Gliciridia sepium</tp:taxon-name>
 [
 5♀
 , 
@@ -347,9 +347,9 @@ Higueral,
 , 
 11.vi.1976
 , E. E. Grissell, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Gracillaridae</tp:taxon-name>
+<tp:taxon-name>Gracillaridae</tp:taxon-name>
 , host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Gliciridia sepium</tp:taxon-name>
+<tp:taxon-name>Gliciridia sepium</tp:taxon-name>
 [
 USNM
 : UCRCENT416892]. 
@@ -367,7 +367,7 @@ USA
 66°32’33”W
 
 , M. R. Smith, P.R. No. 897, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
+<tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
 [6♁, 
 USNM
 : UCRCENT416790–416795]. Adjuntas, 
@@ -383,7 +383,7 @@ USNM
 , 
 6.ii.1996
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllocnistis citrella</tp:taxon-name>
+<tp:taxon-name>Phyllocnistis citrella</tp:taxon-name>
 [
 1♀
 , 
@@ -401,7 +401,7 @@ ANIC
 , 
 7.ii.1996
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllocnistis citrella</tp:taxon-name>
+<tp:taxon-name>Phyllocnistis citrella</tp:taxon-name>
 [
 1♀
 , 
@@ -417,7 +417,7 @@ Cidra
 66°09’42”W
 
 , 1940, F. Sein, Jr., host: Caterpillar, host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Ananas comosus</tp:taxon-name>
+<tp:taxon-name>Ananas comosus</tp:taxon-name>
 [1♁, 
 USNM
 : UCRCENT416890]. 
@@ -435,9 +435,9 @@ Humacao
 , 
 v.1940
 , J.G. Needham, Iden. Lot No. 40-8269, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Tischeria</tp:taxon-name>
+<tp:taxon-name>Tischeria</tp:taxon-name>
 sp., host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Melanthera</tp:taxon-name>
+<tp:taxon-name>Melanthera</tp:taxon-name>
 sp. [
 1♀
 , 
@@ -457,7 +457,7 @@ Mayagüez
 , 
 xii.1904
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
+<tp:taxon-name>Leucoptera coffeella</tp:taxon-name>
 [3♁, 
 USNM
 : UCRCENT416786–416788].

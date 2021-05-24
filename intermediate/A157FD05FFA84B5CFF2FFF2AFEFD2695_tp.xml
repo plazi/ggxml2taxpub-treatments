@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Penthetria heteroptera (Say) , 1823<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Penthetria heteroptera (Say) , 1823<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1982-2006-">Figs. 1</xref>
+<xref rid="fig-4--151-250-1982-2006-">Figs. 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">16–21</xref>
+<xref rid="fig-">16–21</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1888-1912-">38, 40</xref>
+<xref rid="fig-33--151-264-1888-1912-">38, 40</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-36--151-264-1913-1937-">50–51</xref>
+<xref rid="fig-36--151-264-1913-1937-">50–51</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-37--151-264-1708-1732-">57</xref>
+<xref rid="fig-37--151-264-1708-1732-">57</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-40--151-209-1161-1185-">Map 3</xref>
+<xref rid="fig-40--151-209-1161-1185-">Map 3</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria atra Macquart, 1834: 175</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Penthetria atra Macquart, 1834: 175</tp:taxon-name>
 (by monotypy). 
 Pennsylvania
 , 
@@ -31,10 +31,10 @@ USA
 . [HT male BMNH; examined].
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria longipes (Loew)</tp:taxon-name>
+<p>
+<tp:taxon-name>Penthetria longipes (Loew)</tp:taxon-name>
 , 1858a: 109 (originally described in 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia</tp:taxon-name>
+<tp:taxon-name>Plecia</tp:taxon-name>
 ). 
 Louisiana
 , 
@@ -42,18 +42,18 @@ USA
 . [
 type
 could not be located for study; not at MCZC (online database accessed 2019) or ZMHB (
-<!--template match = bibRefCitation--><xref rid="ref37028">Werner, 1999</xref>
+<xref rid="ref37028">Werner, 1999</xref>
 )]. (
-<!--template match = bibRefCitation--><xref rid="ref35317">McAtee (1921)</xref>
+<xref rid="ref35317">McAtee (1921)</xref>
 suggested this species may be conspecific with 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 and it was treated as such by 
-<!--template match = bibRefCitation--><xref rid="ref33819">Hardy (1945)</xref>
+<xref rid="ref33819">Hardy (1945)</xref>
 though without discussion of the synonymy).
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria lugubris Harris, 1835: 596</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Penthetria lugubris Harris, 1835: 596</tp:taxon-name>
 . 
 Massachusetts
 , 
@@ -63,42 +63,42 @@ Nomen nudum.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 Material
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Male</named-content>
+<named-content content-type="location">Male</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 : “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Maryland</named-content>
+<named-content content-type="collectingRegion">Maryland</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Say 1823</named-content>
+<named-content content-type="bibRefCitation">Say 1823</named-content>
 , as 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Bibio heteropterus</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Bibio heteropterus</named-content>
 </named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Like many of Thomas Say’s 
 types
 , the 
 type
 (s) of this species could not be located and may be lost or destroyed. 
-<!--template match = bibRefCitation--><xref rid="ref32841">Evenhuis (1997)</xref>
+<xref rid="ref32841">Evenhuis (1997)</xref>
 notes that due to exchanges with colleagues, some of Say’s 
 types
 still exist in a handful of collections. However, the 
 type
 (s) of 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 were not found at 
 ANSP
 , 
@@ -112,9 +112,9 @@ OXUM
 . Despite the fact that the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 could not be studied, the identity of this species seems sound as it is the only species of 
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria</tp:taxon-name>
+<tp:taxon-name>Penthetria</tp:taxon-name>
 currently known to occur in the eastern half of the 
 United States
 , which includes the 
@@ -124,13 +124,13 @@ Maryland
 (material from 
 Maryland
 has been studied to help establish the concept of 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 utilized herein (e.g., see 
-<!--template match = figureCitation--><xref rid="fig-">Figs. 16, 20–21</xref>
+<xref rid="fig-">Figs. 16, 20–21</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1888-1912-">38</xref>
+<xref rid="fig-33--151-264-1888-1912-">38</xref>
 , and material examined). It is noteworthy though that the most eastern record of 
-<!--template match = taxonomicName--><tp:taxon-name>P. yakima</tp:taxon-name>
+<tp:taxon-name>P. yakima</tp:taxon-name>
 is 
 Ontario
 , 
@@ -139,1453 +139,1453 @@ Canada
 USA
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Material Examined
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CANADA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">CANADA</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">ALBERTA</named-content>
+<named-content content-type="collectingRegion">ALBERTA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Waterton Lakes</named-content>
+<named-content content-type="location">Waterton Lakes</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 VIII 1926</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29 VIII 1926</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Criddle</named-content>
+<named-content content-type="collectorName">N. Criddle</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Elkwater Park</named-content>
+<tp:material-citation>
+<named-content content-type="location">Elkwater Park</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 VIII 1952</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 VIII 1952</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L.A. Konotopetz</named-content>
+<named-content content-type="collectorName">L.A. Konotopetz</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Edmonton</named-content>
+<tp:material-citation>
+<named-content content-type="location">Edmonton</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 IX 1936</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 IX 1936</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F.O. Morrison</named-content>
+<named-content content-type="collectorName">F.O. Morrison</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BYUC</named-content>
+<named-content content-type="collectionCode">BYUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">BRITISH COLUMBIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">BRITISH COLUMBIA</named-content>
 : mi 233 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Al. Hwy</named-content>
+<named-content content-type="collectorName">Al. Hwy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 VIII 1948</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29 VIII 1948</named-content>
 </named-content>
 , W. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Mason</named-content>
+<named-content content-type="collectorName">Mason</named-content>
 , 1M, 1F (in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Alaska Hwy</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Alaska Hwy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lum</named-content>
+<named-content content-type="collectingMunicipality">Lum</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Almer</named-content>
+<named-content content-type="location">Almer</named-content>
 , 58°N, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">Aug 29 1948</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">Aug 29 1948</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Mason</named-content>
+<named-content content-type="collectorName">Mason</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hughes</named-content>
+<named-content content-type="collectorName">Hughes</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MANITOBA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MANITOBA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Napinka</named-content>
+<named-content content-type="location">Napinka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 VIII 1927</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24 VIII 1927</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. White</named-content>
+<named-content content-type="collectorName">M. White</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Aweme</named-content>
+<tp:material-citation>
+<named-content content-type="location">Aweme</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 VIII 1925</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 VIII 1925</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Bird</named-content>
+<named-content content-type="collectorName">D. Bird</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">The Pas</named-content>
+<tp:material-citation>
+<named-content content-type="location">The Pas</named-content>
 , 14-Sept-51, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W. Krivda</named-content>
+<named-content content-type="collectorName">W. Krivda</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Winnipeg</named-content>
+<tp:material-citation>
+<named-content content-type="location">Winnipeg</named-content>
 , 16- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IX-09</named-content>
+<named-content content-type="specimenCode">IX-09</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.B. Wallis</named-content>
+<named-content content-type="collectorName">J.B. Wallis</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">NEW BRUNSWICK</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">NEW BRUNSWICK</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Greys Mills</named-content>
+<named-content content-type="location">Greys Mills</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 IX 1922</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 IX 1922</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P. Gorham</named-content>
+<named-content content-type="collectorName">P. Gorham</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">ONTARIO</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">ONTARIO</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ottawa</named-content>
+<named-content content-type="location">Ottawa</named-content>
 , 27.IX.12, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">St. Lawrence Is. Nat. Park</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">St. Lawrence Is. Nat. Park</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mulcaster Island</named-content>
+<named-content content-type="location">Mulcaster Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 XI 1976</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 XI 1976</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W. Reid</named-content>
+<named-content content-type="collectorName">W. Reid</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Code</named-content>
+<named-content content-type="collectorName">Code</named-content>
 48294-50, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Toronto</named-content>
+<tp:material-citation>
+<named-content content-type="location">Toronto</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BYUC</named-content>
+<named-content content-type="collectionCode">BYUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ottawa</named-content>
+<tp:material-citation>
+<named-content content-type="location">Ottawa</named-content>
 , 8/IX/11, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.D. Tothill</named-content>
+<named-content content-type="collectorName">J.D. Tothill</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Elgin Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Elgin Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Springwater Con. Area</named-content>
+<named-content content-type="location">Springwater Con. Area</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 Sept 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20 Sept 1992</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll.</named-content>
+<named-content content-type="collectorName">Coll.</named-content>
 # 495, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ian Carmichael</named-content>
+<named-content content-type="collectorName">Ian Carmichael</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Metcalfe</named-content>
+<tp:material-citation>
+<named-content content-type="location">Metcalfe</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 IX 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29 IX 1984</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.E. Cooper</named-content>
+<named-content content-type="collectorName">B.E. Cooper</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 fen 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5 mi.</named-content>
+<named-content content-type="quantity">5 mi.</named-content>
 S. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Richmond</named-content>
+<named-content content-type="location">Richmond</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19–25 IX 1978</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19–25 IX 1978</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.M. Wood</named-content>
+<named-content content-type="collectorName">D.M. Wood</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Merivale</named-content>
+<tp:material-citation>
+<named-content content-type="location">Merivale</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22 Sept 1951</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22 Sept 1951</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lambert</named-content>
+<named-content content-type="collectorName">Lambert</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Burgess Twp.</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">N. Burgess Twp.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lanark Co.</named-content>
+<named-content content-type="collectingCounty">Lanark Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22 IX 1968</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22 IX 1968</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.M. Wood</named-content>
+<named-content content-type="collectorName">D.M. Wood</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lake Muskoka</named-content>
+<tp:material-citation>
+<named-content content-type="location">Lake Muskoka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 IX 1925</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 IX 1925</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G.S. Walley</named-content>
+<named-content content-type="collectorName">G.S. Walley</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Maynooth</named-content>
+<tp:material-citation>
+<named-content content-type="location">Maynooth</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 IX 1953</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 IX 1953</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.F. McAlpine</named-content>
+<named-content content-type="collectorName">J.F. McAlpine</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">SASKATCHEWAN</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">SASKATCHEWAN</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Moose Jaw</named-content>
+<named-content content-type="location">Moose Jaw</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dyar</named-content>
+<named-content content-type="collectorName">Dyar</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Caudell</named-content>
+<named-content content-type="collectorName">Caudell</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5 km</named-content>
+<tp:material-citation>
+<named-content content-type="location">
+<named-content content-type="quantity">5 km</named-content>
 E of Leask
 </named-content>
 , YPT, 31.VIII.05, slough margin (freshwater), J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vockeroth</named-content>
+<named-content content-type="collectorName">Vockeroth</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SFC</named-content>
+<named-content content-type="collectionCode">SFC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Indian Head</named-content>
+<tp:material-citation>
+<named-content content-type="location">Indian Head</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 IX 1928</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 IX 1928</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Stewart</named-content>
+<named-content content-type="collectorName">K. Stewart</named-content>
 , Rb-38- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Cb</named-content>
+<named-content content-type="collectorName">Cb</named-content>
 , 50-III-321, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cecil</named-content>
+<tp:material-citation>
+<named-content content-type="location">Cecil</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 IX 1977</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 IX 1977</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F.J.H. Fredeen</named-content>
+<named-content content-type="collectorName">F.J.H. Fredeen</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Moose Jaw</named-content>
+<tp:material-citation>
+<named-content content-type="location">Moose Jaw</named-content>
 , 5 IX, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Criddle</named-content>
+<named-content content-type="collectorName">N. Criddle</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 vi–viii 2005, J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vockeroth</named-content>
+<named-content content-type="collectorName">Vockeroth</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Estevan</named-content>
+<tp:material-citation>
+<named-content content-type="location">Estevan</named-content>
 , 6 IX, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Criddle</named-content>
+<named-content content-type="collectorName">N. Criddle</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Swift Current</named-content>
+<tp:material-citation>
+<named-content content-type="location">Swift Current</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 IX 1940</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17 IX 1940</named-content>
 </named-content>
 , A. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Brooks</named-content>
+<named-content content-type="collectorName">Brooks</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hudson Bay</named-content>
+<tp:material-citation>
+<named-content content-type="location">Hudson Bay</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 IX 1959</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 IX 1959</named-content>
 </named-content>
 , J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vockeroth</named-content>
+<named-content content-type="collectorName">Vockeroth</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Regina</named-content>
+<tp:material-citation>
+<named-content content-type="location">Regina</named-content>
 , 5-Sept-03, 1M, 1F (in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">QUEBEC</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">QUEBEC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">St. Johns</named-content>
+<named-content content-type="location">St. Johns</named-content>
 , 23.IX.05, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lake Edward Camp</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Lake Edward Camp</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laurnetide Limits</named-content>
+<named-content content-type="location">Laurnetide Limits</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 IX 1948</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 IX 1948</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Abbotsford</named-content>
+<tp:material-citation>
+<named-content content-type="location">Abbotsford</named-content>
 , 7 IX, 1937, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G.E. Shewell</named-content>
+<named-content content-type="collectorName">G.E. Shewell</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Old Chelsea</named-content>
+<tp:material-citation>
+<named-content content-type="location">Old Chelsea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25 IX 1955</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25 IX 1955</named-content>
 </named-content>
 , J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vockeroth</named-content>
+<named-content content-type="collectorName">Vockeroth</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Orford</named-content>
+<tp:material-citation>
+<named-content content-type="location">Mt. Orford</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 IX 1937</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 IX 1937</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G.E. Shewell</named-content>
+<named-content content-type="collectorName">G.E. Shewell</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Summit Rigaud Mtn.</named-content>
+<tp:material-citation>
+<named-content content-type="location">Summit Rigaud Mtn.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 IX 1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24 IX 1985</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.E. Cooper</named-content>
+<named-content content-type="collectorName">B.E. Cooper</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Gatineau Park</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Gatineau Park</named-content>
 nr. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Champlain Lkout.</named-content>
+<named-content content-type="location">Champlain Lkout.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22 IX 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22 IX 1991</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.M. Cumming</named-content>
+<named-content content-type="collectorName">J.M. Cumming</named-content>
 , ex. in copula, 1M, 1F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laniel</named-content>
+<tp:material-citation>
+<named-content content-type="location">Laniel</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 IX 1939</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 IX 1939</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.L. Hitchon</named-content>
+<named-content content-type="collectorName">J.L. Hitchon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Exp No.</named-content>
+<named-content content-type="collectorName">Exp No.</named-content>
 12128-15, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Norway Bay</named-content>
+<tp:material-citation>
+<named-content content-type="location">Norway Bay</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 VIII 1938</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 VIII 1938</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G.A. Hobbs</named-content>
+<named-content content-type="collectorName">G.A. Hobbs</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Beech Grove P.Q.</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Beech Grove P.Q.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 IX 1954</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24 IX 1954</named-content>
 </named-content>
 , C.D. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Miller</named-content>
+<named-content content-type="collectorName">Miller</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Masham Twp.</named-content>
+<tp:material-citation>
+<named-content content-type="location">Masham Twp.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Gatineau Co.</named-content>
+<named-content content-type="collectingCounty">Gatineau Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">IX 1977</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">IX 1977</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.M. Wood</named-content>
+<named-content content-type="collectorName">D.M. Wood</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lanoraie</named-content>
+<tp:material-citation>
+<named-content content-type="location">Lanoraie</named-content>
 , 20- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IX-80</named-content>
+<named-content content-type="specimenCode">IX-80</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F. Liard</named-content>
+<named-content content-type="collectorName">F. Liard</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">USA</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">COLORADO</named-content>
+<named-content content-type="collectingRegion">COLORADO</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Colorado Springs</named-content>
+<named-content content-type="collectorName">Colorado Springs</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sept</named-content>
+<named-content content-type="collectorName">Sept</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Boulder</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Boulder</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sept, S.A</named-content>
+<named-content content-type="collectorName">Sept, S.A</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Rohwer</named-content>
+<named-content content-type="location">Rohwer</named-content>
 , 2M, 1F (1 pr. in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 campus, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Univ. of Colorado</named-content>
+<named-content content-type="location">Univ. of Colorado</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Boulder</named-content>
+<named-content content-type="collectorName">Boulder</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Colo.</named-content>
+<named-content content-type="location">Colo.</named-content>
 ,” 2773, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Larimer Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Larimer Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lory SP</named-content>
+<named-content content-type="collectorName">Lory SP</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Arthurs Rock Trail</named-content>
+<named-content content-type="location">Arthurs Rock Trail</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">09 IX 1997</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">09 IX 1997</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Burt, J.M.</named-content>
+<named-content content-type="collectorName">Burt, J.M.</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Masonville</named-content>
+<tp:material-citation>
+<named-content content-type="location">Masonville</named-content>
 , 9/5/‘3[?], 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Masonville</named-content>
+<tp:material-citation>
+<named-content content-type="location">Masonville</named-content>
 , 9 6 ‘34, M. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">James Col.</named-content>
+<named-content content-type="collectorName">James Col.</named-content>
 , 3M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Weld Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Weld Co.</named-content>
 , 9-29’35, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Larimer Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Larimer Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Sep 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Sep 1992</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Anderson’s Atlas</named-content>
+<named-content content-type="collectorName">Anderson’s Atlas</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Upper Cherokee Park</named-content>
+<named-content content-type="location">Upper Cherokee Park</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bjostad</named-content>
+<named-content content-type="collectorName">Bjostad</named-content>
 , 3M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Larimer Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Larimer Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Sept 1997</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Sept 1997</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Res.</named-content>
+<named-content content-type="collectorName">Res.</named-content>
 dam, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Leatherman</named-content>
+<named-content content-type="collectorName">D. Leatherman</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Hamilton</named-content>
+<named-content content-type="collectorName">E. Hamilton</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Larimer Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Larimer Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Poudre River Rt.</named-content>
+<named-content content-type="collectorName">Poudre River Rt.</named-content>
 14, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ansel Waltrous</named-content>
+<named-content content-type="location">Ansel Waltrous</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 IX 1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 IX 1986</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P. Kleintjas</named-content>
+<named-content content-type="collectorName">P. Kleintjas</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Douglas Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Douglas Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Sept 1988</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 Sept 1988</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMethod">Malaise Trap</named-content>
+<named-content content-type="collectingMethod">Malaise Trap</named-content>
 over buried pig, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B. Kondratieff</named-content>
+<named-content content-type="collectorName">B. Kondratieff</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Larimer Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Larimer Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Sept. 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 Sept. 1993</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Phantom Canyon, S</named-content>
+<named-content content-type="collectorName">Phantom Canyon, S</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fitzgerald</named-content>
+<named-content content-type="collectorName">Fitzgerald</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Sedgwick Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Sedgwick Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Sept 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17 Sept 1993</named-content>
 </named-content>
 , jct. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">US 385</named-content>
+<named-content content-type="specimenCode">US 385</named-content>
 &amp; CR4, ex. ponderosa pine, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Leatherman</named-content>
+<named-content content-type="collectorName">D. Leatherman</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">CONNECTICUT</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">CONNECTICUT</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Stamford</named-content>
+<named-content content-type="location">Stamford</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 Oct 1935</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20 Oct 1935</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Stamford, B.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Stamford, B.</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lab Col.</named-content>
+<named-content content-type="location">Lab Col.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Oct 1937</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Oct 1937</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Oct 1937</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Oct 1937</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Redding, A.L</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Redding, A.L</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Melander</named-content>
+<named-content content-type="collectorName">Melander</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nov</named-content>
+<named-content content-type="collectorName">Nov</named-content>
 30, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 21 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Oct</named-content>
+<named-content content-type="location">Oct</named-content>
 ’28, 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 3 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Oct</named-content>
+<named-content content-type="location">Oct</named-content>
 36, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 13 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Oct</named-content>
+<named-content content-type="location">Oct</named-content>
 35, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">DISTRICT OF COLUMBIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">DISTRICT OF COLUMBIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Washington D.C.</named-content>
+<named-content content-type="collectorName">Washington D.C.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Rock Creek</named-content>
+<named-content content-type="location">Rock Creek</named-content>
 Park, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Oct 1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 Oct 1956</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P.H. Arnaud Jr.</named-content>
+<named-content content-type="collectorName">P.H. Arnaud Jr.</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">FLORIDA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">FLORIDA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Putnam Co.</named-content>
+<named-content content-type="collectingCounty">Putnam Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Univ.</named-content>
+<named-content content-type="location">Univ.</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">FL Res.</named-content>
+<named-content content-type="collectorName">FL Res.</named-content>
 , 26/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Nov 1946</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Nov 1946</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G. Bellamy</named-content>
+<named-content content-type="collectorName">G. Bellamy</named-content>
 , F.C. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">No.</named-content>
+<named-content content-type="collectorName">No.</named-content>
 2045, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">GEORGIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">GEORGIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Black Mt.</named-content>
+<named-content content-type="location">Black Mt.</named-content>
 , 11-2-46, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P.W. Fattig</named-content>
+<named-content content-type="collectorName">P.W. Fattig</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">IOWA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">IOWA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ames</named-content>
+<named-content content-type="location">Ames</named-content>
 , 1959, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H.H. Knight</named-content>
+<named-content content-type="collectorName">H.H. Knight</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">KANSAS</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">KANSAS</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Douglas Co.</named-content>
+<named-content content-type="collectingCounty">Douglas Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">900 ft.</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">900 ft.</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">September, A.L</named-content>
+<named-content content-type="collectorName">September, A.L</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Melander</named-content>
+<named-content content-type="collectorName">Melander</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MAINE</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MAINE</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Hancock Co.</named-content>
+<named-content content-type="collectingCounty">Hancock Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 mi</named-content>
+<named-content content-type="location">
+<named-content content-type="quantity">12 mi</named-content>
 E Aurora
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 IX 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 IX 1984</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.M. Wood</named-content>
+<named-content content-type="collectorName">D.M. Wood</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MARYLAND</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MARYLAND</named-content>
 : near 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Plummer I</named-content>
+<named-content content-type="collectorName">Plummer I</named-content>
 , 11. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oct.</named-content>
+<named-content content-type="collectorName">Oct.</named-content>
 21, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H.S. Barber</named-content>
+<named-content content-type="collectorName">H.S. Barber</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Patuxent Ref Bowie</named-content>
+<tp:material-citation>
+<named-content content-type="location">Patuxent Ref Bowie</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9-X-1944</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9-X-1944</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Mitchell</named-content>
+<named-content content-type="collectorName">Mitchell</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hagerstown</named-content>
+<tp:material-citation>
+<named-content content-type="location">Hagerstown</named-content>
 , 27-Sept-12, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 nr. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Plummers Id</named-content>
+<named-content content-type="location">Plummers Id</named-content>
 , 10.19.14, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Shannon</named-content>
+<named-content content-type="collectorName">C. Shannon</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Plummers I</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Plummers I</named-content>
 , 5.X.12, J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Malloch</named-content>
+<named-content content-type="collectorName">Malloch</named-content>
 , 3M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Plummers Id</named-content>
+<tp:material-citation>
+<named-content content-type="location">Plummers Id</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Shannon</named-content>
+<named-content content-type="collectorName">C. Shannon</named-content>
 , 28.X.15, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 10.X.14, 1M (
 USNM
 ); 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bladensburg</named-content>
+<tp:material-citation>
+<named-content content-type="location">Bladensburg</named-content>
 , 23.IX.15, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Shannon</named-content>
+<named-content content-type="collectorName">C. Shannon</named-content>
 , 5M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Plummer’s Island</named-content>
+<tp:material-citation>
+<named-content content-type="location">Plummer’s Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H.S. Barber</named-content>
+<named-content content-type="collectorName">H.S. Barber</named-content>
 , 30.10.07, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8.X.1902</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8.X.1902</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Largo</named-content>
+<tp:material-citation>
+<named-content content-type="location">Largo</named-content>
 , 10/16/58, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OSAC</named-content>
+<named-content content-type="collectionCode">OSAC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MASSACHUSETTS</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MASSACHUSETTS</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Southbridge, S.W</named-content>
+<named-content content-type="collectorName">Southbridge, S.W</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bromley</named-content>
+<named-content content-type="collectorName">Bromley</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sept</named-content>
+<named-content content-type="collectorName">Sept</named-content>
 19, 1M, 1F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amherst</named-content>
+<tp:material-citation>
+<named-content content-type="location">Amherst</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 Oct 1923</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 Oct 1923</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Middlesex Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Middlesex Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lincoln</named-content>
+<named-content content-type="collectingMunicipality">Lincoln</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMethod">Malaise trap</named-content>
+<named-content content-type="collectingMethod">Malaise trap</named-content>
 , E. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Armstrong</named-content>
+<named-content content-type="location">Armstrong</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12–13 Oct 1982</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12–13 Oct 1982</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Oct 1982</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Oct 1982</named-content>
 </named-content>
 , 1F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Oct 1982</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Oct 1982</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Hampshire Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Hampshire Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W. Chesterfield</named-content>
+<named-content content-type="collectorName">W. Chesterfield</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Sept. 1971</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Sept. 1971</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A.B. Gurney</named-content>
+<named-content content-type="collectorName">A.B. Gurney</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Beverly</named-content>
+<tp:material-citation>
+<named-content content-type="location">Beverly</named-content>
 , 4-Oct-68, 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Beverly</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Beverly</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Burgess</named-content>
+<named-content content-type="location">Burgess</named-content>
 , 12.10.75, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 8.10.75, 1M (
 USNM
 ); 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Cape Cod</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Cape Cod</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Eastham</named-content>
+<named-content content-type="location">Eastham</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 IX 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20 IX 1992</named-content>
 </named-content>
 , J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vockeroth</named-content>
+<named-content content-type="collectorName">Vockeroth</named-content>
 , in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Acer rubrum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Acer rubrum</named-content>
 </named-content>
 swamp, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mount Wachusett</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Mount Wachusett</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Princeton</named-content>
+<named-content content-type="location">Princeton</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Sept 1922</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13 Sept 1922</named-content>
 </named-content>
 , W. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Forbes Coll.</named-content>
+<named-content content-type="collectorName">M. Forbes Coll.</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BYUC</named-content>
+<named-content content-type="collectionCode">BYUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MICHIGAN</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MICHIGAN</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Livingston Co., E.S</named-content>
+<named-content content-type="collectorName">Livingston Co., E.S</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">George reserve</named-content>
+<named-content content-type="location">George reserve</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 Oct 1949</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 Oct 1949</named-content>
 </named-content>
 , 185, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Bohnsack</named-content>
+<named-content content-type="collectorName">K. Bohnsack</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Lansing</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">E. Lansing</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5.X.1939</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5.X.1939</named-content>
 </named-content>
 , C. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sabrosky</named-content>
+<named-content content-type="collectorName">Sabrosky</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Luce Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Luce Co.</named-content>
 , 8-30-52, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dreisbach</named-content>
+<named-content content-type="collectorName">Dreisbach</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Delta Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Delta Co.</named-content>
 , 8-25-52, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dreisbach</named-content>
+<named-content content-type="collectorName">Dreisbach</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ag. Coll. Mich.</named-content>
+<tp:material-citation>
+<named-content content-type="location">Ag. Coll. Mich.</named-content>
 , 635, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.M. Aldrich</named-content>
+<named-content content-type="collectorName">J.M. Aldrich</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ag. Coll. Mich</named-content>
+<tp:material-citation>
+<named-content content-type="location">Ag. Coll. Mich</named-content>
 , 635, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C.F.</named-content>
+<named-content content-type="collectorName">C.F.</named-content>
 B., 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ag. Coll. Mich</named-content>
+<tp:material-citation>
+<named-content content-type="location">Ag. Coll. Mich</named-content>
 , 421, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C.F.</named-content>
+<named-content content-type="collectorName">C.F.</named-content>
 B., 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MINNESOTA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MINNESOTA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">St. Anthony Park</named-content>
+<named-content content-type="location">St. Anthony Park</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lugger</named-content>
+<named-content content-type="collectorName">Lugger</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MISSISSIPPI</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MISSISSIPPI</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lafayette Co.</named-content>
+<named-content content-type="collectingCounty">Lafayette Co.</named-content>
 , V–VI 1962, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F.M. Hull</named-content>
+<named-content content-type="collectorName">F.M. Hull</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CNCI</named-content>
+<named-content content-type="collectionCode">CNCI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MISSOURI</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MISSOURI</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Douglas Co.</named-content>
+<named-content content-type="collectingCounty">Douglas Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 Oct 2004</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2 Oct 2004</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hunter Cr.</named-content>
+<named-content content-type="collectorName">Hunter Cr.</named-content>
 , CRFF-210, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">SE Ava, B</named-content>
+<named-content content-type="collectorName">SE Ava, B</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kondratieff</named-content>
+<named-content content-type="collectorName">Kondratieff</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zuellig</named-content>
+<named-content content-type="collectorName">Zuellig</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MONTANA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">MONTANA</named-content>
 : “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mon.</named-content>
+<named-content content-type="location">Mon.</named-content>
 ,” 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="materialsCitation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">NEBRASKA</named-content>
+<named-content content-type="materialsCitation">
+<named-content content-type="collectingRegion">NEBRASKA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dunbar, W.W</named-content>
+<named-content content-type="collectorName">Dunbar, W.W</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Wirth</named-content>
+<named-content content-type="collectorName">Wirth</named-content>
 , 13.IX.50, 1M, 7F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">NEW JERSEY</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">NEW JERSEY</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Sussex Co.</named-content>
+<named-content content-type="collectingCounty">Sussex Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coleville</named-content>
+<named-content content-type="location">Coleville</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Oct 1970</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11 Oct 1970</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.W. Adams</named-content>
+<named-content content-type="collectorName">J.W. Adams</named-content>
 , 3M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dyckman St</named-content>
+<tp:material-citation>
+<named-content content-type="location">Dyckman St</named-content>
 , 3-Oct-26, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A.L. Melander</named-content>
+<named-content content-type="collectorName">A.L. Melander</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Midland Park</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Midland Park</named-content>
 , hovering in apple orchard, E.A. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cohen Jr.</named-content>
+<named-content content-type="location">Cohen Jr.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">Oct 1995</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">Oct 1995</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">NEW YORK</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">NEW YORK</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ithaca</named-content>
+<named-content content-type="location">Ithaca</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Greene Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Greene Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2500 ft.</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2500 ft.</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L.O. Howard</named-content>
+<named-content content-type="collectorName">L.O. Howard</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hartsdale, G.P</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Hartsdale, G.P</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Engelhardt</named-content>
+<named-content content-type="location">Engelhardt</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9.X.1901</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9.X.1901</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8.X.1936</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8.X.1936</named-content>
 </named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Hamilton Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Hamilton Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 July 2009</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13 July 2009</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Thayer Lake</named-content>
+<named-content content-type="location">Thayer Lake</named-content>
 outlet, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shingle Shanty Research Stn</named-content>
+<named-content content-type="collectorName">Shingle Shanty Research Stn</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43.95N</named-content>
+<named-content content-type="geoCoordinate">43.95N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">74.75W</named-content>
+<named-content content-type="geoCoordinate">74.75W</named-content>
 , BLT, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. Myers</named-content>
+<named-content content-type="collectorName">L. Myers</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Essex Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Essex Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Sept 2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Sept 2007</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Small Stream</named-content>
+<named-content content-type="collectorName">Small Stream</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Rt</named-content>
+<named-content content-type="collectorName">Rt</named-content>
 73 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nr. Round Pond, L</named-content>
+<named-content content-type="collectorName">Nr. Round Pond, L</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Myers</named-content>
+<named-content content-type="collectorName">Myers</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">PENNSYLVANIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">PENNSYLVANIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lehigh Gap</named-content>
+<named-content content-type="location">Lehigh Gap</named-content>
 , 5-X-03, 1M, 1F (in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Wilmerding, A.L</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Wilmerding, A.L</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Melander</named-content>
+<named-content content-type="collectorName">Melander</named-content>
 , IX.13, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , IX.15, 1M, 1F (
@@ -1593,238 +1593,238 @@ USNM
 ), IX.23, 2M (
 USNM
 ); 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">SOUTH DAKOTA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">SOUTH DAKOTA</named-content>
 : “S.D.,” 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.M. Aldrich</named-content>
+<named-content content-type="collectorName">J.M. Aldrich</named-content>
 coll., 12M, 1F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Brookings</named-content>
+<tp:material-citation>
+<named-content content-type="location">Brookings</named-content>
 , 3M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">TENNESSEE</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">TENNESSEE</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Greene Co.</named-content>
+<named-content content-type="collectingCounty">Greene Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Oct 1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Oct 1985</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kondratieff</named-content>
+<named-content content-type="collectorName">Kondratieff</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">TEXAS</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">TEXAS</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Travis Co.</named-content>
+<named-content content-type="collectingCounty">Travis Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Austin</named-content>
+<named-content content-type="collectingMunicipality">Austin</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Brackenridge Field Lab</named-content>
+<named-content content-type="location">Brackenridge Field Lab</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">170 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">170 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Oct 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Oct 1992</named-content>
 </named-content>
 , C. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nelson</named-content>
+<named-content content-type="collectorName">Nelson</named-content>
 #5872 &amp; L, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bezark</named-content>
+<named-content content-type="collectorName">Bezark</named-content>
 , 1M, 1F (in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BYUC</named-content>
+<named-content content-type="collectionCode">BYUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">VERMONT</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">VERMONT</named-content>
 : “Vt.,” 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OSAC</named-content>
+<named-content content-type="collectionCode">OSAC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">VIRGINIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">VIRGINIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Rosslyn</named-content>
+<named-content content-type="location">Rosslyn</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oct</named-content>
+<named-content content-type="collectorName">Oct</named-content>
 03, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Great Falls</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Great Falls</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hopk</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">US</named-content>
+<named-content content-type="location">Hopk</named-content>
+<named-content content-type="collectionCode">US</named-content>
 , C. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Greene</named-content>
+<named-content content-type="collectorName">Greene</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oct</named-content>
+<named-content content-type="collectorName">Oct</named-content>
 22/15, 1M, 2F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chain Bridge</named-content>
+<tp:material-citation>
+<named-content content-type="location">Chain Bridge</named-content>
 , 1-Nov-16, C. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Greene</named-content>
+<named-content content-type="collectorName">Greene</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lorton</named-content>
+<tp:material-citation>
+<named-content content-type="location">Lorton</named-content>
 , 18-Nov-17, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.L. McAtee</named-content>
+<named-content content-type="collectorName">W.L. McAtee</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Falls Church</named-content>
+<tp:material-citation>
+<named-content content-type="location">Falls Church</named-content>
 , 17-Oct-15, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Silver</named-content>
+<named-content content-type="collectorName">J. Silver</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Great Falls</named-content>
+<tp:material-citation>
+<named-content content-type="location">Great Falls</named-content>
 , 11-Nov-17, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.L. McAtee</named-content>
+<named-content content-type="collectorName">W.L. McAtee</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Falls Church</named-content>
+<tp:material-citation>
+<named-content content-type="location">Falls Church</named-content>
 , 10.22.01, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A.N. Caudell</named-content>
+<named-content content-type="collectorName">A.N. Caudell</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Fairfax Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Fairfax Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Springfield</named-content>
+<named-content content-type="location">Springfield</named-content>
 , 7402 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Reservation Dr.</named-content>
+<named-content content-type="collectorName">Reservation Dr.</named-content>
 , by power line, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">38°45.22’N</named-content>
+<named-content content-type="geoCoordinate">38°45.22’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">77°16.13’W</named-content>
+<named-content content-type="geoCoordinate">77°16.13’W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Oct 2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Oct 2013</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Mower</named-content>
+<named-content content-type="collectorName">C. Mower</named-content>
 , 2M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BYUC</named-content>
+<named-content content-type="collectionCode">BYUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Montgomery Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Montgomery Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Oct 1983</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Oct 1983</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Blacksburg</named-content>
+<named-content content-type="collectorName">Blacksburg</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kondratieff</named-content>
+<named-content content-type="collectorName">Kondratieff</named-content>
 , 1M, 1F (in copula) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSUC</named-content>
+<named-content content-type="collectionCode">CSUC</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">WEST VIRGINIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">WEST VIRGINIA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ash</named-content>
+<named-content content-type="location">Ash</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">WISCONSIN</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">WISCONSIN</named-content>
 : “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wis.</named-content>
+<named-content content-type="location">Wis.</named-content>
 ,” 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coquillett</named-content>
+<named-content content-type="collectorName">Coquillett</named-content>
 , 1M, 1F (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Marathon Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Marathon Co.</named-content>
 , 18- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IX-36</named-content>
+<named-content content-type="specimenCode">IX-36</named-content>
 , sweeping, H. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dodge</named-content>
+<named-content content-type="collectorName">Dodge</named-content>
 , 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Shawano Co.</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Shawano Co.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cloverleaf Lks.</named-content>
+<named-content content-type="location">Cloverleaf Lks.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16.IX.1938</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">16.IX.1938</named-content>
 </named-content>
 , H. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dodge</named-content>
+<named-content content-type="collectorName">Dodge</named-content>
 , 4M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Clintonville, H.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Clintonville, H.</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . Dodge, 12.IX.35, 1M (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 )
 </tp:material-citation>
 , 17.IX.34, 1M, 1F (
@@ -1832,187 +1832,187 @@ USNM
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis
 . Males of 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 are most easily distinguished from New World congeners by the relatively stout gonostylus with the apex minutely truncated or with a slight apical notch (often with a small point developed on the anterodorsal side of the notch) (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1891-1915-">Figs. 16–20</xref>
+<xref rid="fig-23--151-264-1891-1915-">Figs. 16–20</xref>
 ), tergite nine with posterior emargination usually relatively shallow (one-fifth to about one-third the length of the tergite) and broadly U-shaped, but sometimes deeper (up to 2/5) and more V-shaped, ventromedian lobes of gonocoxites weakly to moderately developed (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1891-1915-">Fig. 20</xref>
+<xref rid="fig-23--151-264-1891-1915-">Fig. 20</xref>
 , vml), posteromedian cleft of gonocoxites typically rather broad and shallow (somewhat isosceles trapezoidal in shape) (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1891-1915-">Fig. 20</xref>
+<xref rid="fig-23--151-264-1891-1915-">Fig. 20</xref>
 , vmc), and paramere dome-like, broadly rounded posteriorly, not diamond-shaped (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1891-1915-">Figs. 16, 20</xref>
+<xref rid="fig-23--151-264-1891-1915-">Figs. 16, 20</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1888-1912-">38</xref>
+<xref rid="fig-33--151-264-1888-1912-">38</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . Previously, all “Nearctic” (
 USA
 / 
 Canada
 ) specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria</tp:taxon-name>
+<tp:taxon-name>Penthetria</tp:taxon-name>
 have been treated under the name 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 (e.g., 
-<!--template match = bibRefCitation--><xref rid="ref33819">Hardy 1945</xref>
+<xref rid="ref33819">Hardy 1945</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref34007">1965b</xref>
+<xref rid="ref34007">1965b</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref34196">1981</xref>
+<xref rid="ref34196">1981</xref>
 ). The present study recognizes three species of 
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria</tp:taxon-name>
+<tp:taxon-name>Penthetria</tp:taxon-name>
 in the 
 USA
 and 
 Canada
 : 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 (east of the Rocky Mountains in 
 USA
 and 
 Canada
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>P. arizonensis</tp:taxon-name>
+<tp:taxon-name>P. arizonensis</tp:taxon-name>
 (southern 
 Arizona
 , 
 USA
 to Central America), and 
-<!--template match = taxonomicName--><tp:taxon-name>P. yakima</tp:taxon-name>
+<tp:taxon-name>P. yakima</tp:taxon-name>
 (northwestern 
 USA
 and sympatric with 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 throughout 
 Canada
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 In the 
 USA
 and 
 Canada
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 is most similar to 
-<!--template match = taxonomicName--><tp:taxon-name>P. yakima</tp:taxon-name>
+<tp:taxon-name>P. yakima</tp:taxon-name>
 from which males can be differentiated by the more robust gonostylus and less diamond-shaped paramere (compare 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1888-1912-">Figs. 38–41</xref>
+<xref rid="fig-33--151-264-1888-1912-">Figs. 38–41</xref>
 ). 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 appears to be allopatric and quite distinct from 
-<!--template match = taxonomicName--><tp:taxon-name>P. arizonensis</tp:taxon-name>
+<tp:taxon-name>P. arizonensis</tp:taxon-name>
 within the 
 USA
 ; the former with gonostylus as described above and the later with apex of gonostylus broadly rounded or broadly rounded and culminating in an obtuse point (
-<!--template match = figureCitation--><xref rid="fig-15--151-264-1945-1969-">Figs. 7–8</xref>
+<xref rid="fig-15--151-264-1945-1969-">Figs. 7–8</xref>
 ). However, some Mexican and Central American specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>P. arizonensis</tp:taxon-name>
+<tp:taxon-name>P. arizonensis</tp:taxon-name>
 have the gonostylus slightly truncate and approximating the terminalia of some 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 specimens (see Remarks under 
-<!--template match = taxonomicName--><tp:taxon-name>P. arizonensis</tp:taxon-name>
+<tp:taxon-name>P. arizonensis</tp:taxon-name>
 ).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-23--151-264-1891-1915-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-23--151-264-1891-1915-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 16–20.
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 , male terminalia. 16. Dorsal, topotypic (Maryland, USA). 17. Gonostylus, dorsal (Texas, USA). 18. Gonostylus, ventral (Virginia, USA). 19. Gonostylus, dorsal (Vermont, USA). 20. Ventral, topotypic (Maryland, USA). Scale bar = ca. 0.5 mm. Abbreviations: dlp, divergent lobes of paramere; gc, gonocoxite; gs, gonostylus; p, paramere; t9, tergite nine; vmc, ventromedian cleft of gonocoxite; vml, ventromedian lobes of gonocoxite.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529536/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Females of 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-36--151-264-1913-1937-">Figs. 50–51</xref>
+<xref rid="fig-36--151-264-1913-1937-">Figs. 50–51</xref>
 ) are indistinguishable from females of 
-<!--template match = taxonomicName--><tp:taxon-name>P. yakima</tp:taxon-name>
+<tp:taxon-name>P. yakima</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-37--151-264-1708-1732-">Fig. 56</xref>
+<xref rid="fig-37--151-264-1708-1732-">Fig. 56</xref>
 ); these two species are sympatric in 
 Canada
 . However, females may be tentatively determined based on geographic distribution in the 
 USA
 since, based on material examined, 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 is the only species known from the eastern 
 USA
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-24--151-264-1285-1309-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-24--151-264-1285-1309-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 21–22.
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria</tp:taxon-name>
+<tp:taxon-name>Penthetria</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia</tp:taxon-name>
+<tp:taxon-name>Plecia</tp:taxon-name>
 , wings, illustrating variation in length and slope of vein R 
 2+3
 . 21a–b. 
-<!--template match = taxonomicName--><tp:taxon-name>Penthetira heteroptera</tp:taxon-name>
+<tp:taxon-name>Penthetira heteroptera</tp:taxon-name>
 , males (both from Maryland, USA). 22a. 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia dentata Hardy</tp:taxon-name>
+<tp:taxon-name>Plecia dentata Hardy</tp:taxon-name>
 , male. 22b. 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia biformis Hardy</tp:taxon-name>
+<tp:taxon-name>Plecia biformis Hardy</tp:taxon-name>
 , male (points, x, y, z described in “Discussion supporting generic diagnosis”). Scale bars = ca. 1.0 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529538/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Intraspecific Variation
 . 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 exhibits a level of intraspecific variation that can create confusion when making identifications. The intraspecific variation described below can sometimes be found even within a single series (same place/date) and therefore does not appear to be clinal (no correlation to geographic distribution) and does not appear to indicate the presence of a cryptic species complex. 
-<!--template match = taxonomicName--><tp:taxon-name>P. heteroptera</tp:taxon-name>
+<tp:taxon-name>P. heteroptera</tp:taxon-name>
 males have 8–10 (usually 9) flagellomeres due to the subdivision of the normally more elongate basal or apical flagellomere (variation in number of antennal flagellomeres was found to vary in other 
-<!--template match = taxonomicName--><tp:taxon-name>Penthetria</tp:taxon-name>
+<tp:taxon-name>Penthetria</tp:taxon-name>
 species as well). Male hind basitarsus relatively slender to robust to slightly swollen and sausage-shaped. The hind tibia ranges from thin and almost parallel-sided to very slightly clavate apically to distinctly clavate apically (the relative degree of swollenness in the tibia and hind basitarsus are correlated; those with more swollen tibia also have a more swollen hind basitarsus). As with many other species in the genus the venation is plastic. R 
 2+3
 can vary up to 50% in length (
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1285-1309-">Figs. 21</xref>
+<xref rid="fig-24--151-264-1285-1309-">Figs. 21</xref>
 a–21b) and cell cua may be closed or open. Wing length ranges from 5.5–8.0 mm (n=8) in males and 6.5–11.0 mm (n=5) in females. Females can have 8–10 (usually 9) antennal flagellomeres.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Geographic &amp; Seasonal Distribution
 . 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 Widespread in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Canadian Provinces</named-content>
+<named-content content-type="location">southern Canadian Provinces</named-content>
 (British Columbia to New Brunswick; one female 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Penthetria</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Penthetria</named-content>
 </named-content>
 sp. studied from Nova Scotia) and east of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Rocky Mountains</named-content>
+<named-content content-type="collectingMunicipality">Rocky Mountains</named-content>
 in the United States (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Maine</named-content>
+<named-content content-type="collectingRegion">Maine</named-content>
 south to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Florida</named-content>
+<named-content content-type="collectingRegion">Florida</named-content>
 and west to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Colorado</named-content>
+<named-content content-type="collectingRegion">Colorado</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Map 3</named-content>
+<named-content content-type="figureCitation">Map 3</named-content>
 ). No definitive specimens (gonostylus with apical notch) have yet been studied from south of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 though the species is known from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Texas</named-content>
+<named-content content-type="collectingRegion">Texas</named-content>
 . Specimens also studied from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Montana</named-content>
+<named-content content-type="collectingRegion">Montana</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Vermont</named-content>
+<named-content content-type="collectingRegion">Vermont</named-content>
 , but not plotted on map due to insufficient label data. The species is also present in Germany (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Fitzgerald &amp; Werner 2004</named-content>
+<named-content content-type="bibRefCitation">Fitzgerald &amp; Werner 2004</named-content>
 ) as result of an accidental introduction. See additional Nearctic records (not plotted on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Map 3</named-content>
+<named-content content-type="figureCitation">Map 3</named-content>
 ) in Appendix. Flight period July to November with the majority of records from September and October (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+<named-content content-type="tableCitation">Table 1</named-content>
 )
 </tp:material-citation>
 .

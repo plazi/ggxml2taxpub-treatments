@@ -1,44 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Nothobranchius elucens , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Nothobranchius elucens , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 2–4</xref>
+<xref rid="fig-">Figs. 2–4</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Nothobranchius</tp:taxon-name>
 species Madi Opei: 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nagy 2017a: 169</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nagy 2017a: 169</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nagy 2017b: 48</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nagy 2017b: 48</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nagy 2018b: 77</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nagy 2018b: 77</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nagy &amp; Watters 2018: 177</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nagy &amp; Watters 2018: 177</tp:nomenclature-citation>
 
 ; 
-<!--template match = bibRefCitation--><xref rid="ref8580">
+<xref rid="ref8580">
 Nagy 
 et
 </xref>
 </tp:nomenclature-citation-list>
 al
 . 2020: 194; 
-<!--template match = bibRefCitation--><xref rid="ref9125">
+<xref rid="ref9125">
 van der Merwe 
 et al
 . 2020: 11
@@ -46,201 +46,201 @@ et al
 .
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2020.007</named-content>
+<named-content content-type="specimenCode">MRAC 2020.007</named-content>
 .P.0001, male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">31.9 mm</named-content>
+<named-content content-type="quantity">31.9 mm</named-content>
 SL; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Uganda</named-content>
+<named-content content-type="collectingCountry">Uganda</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">upper Nile</named-content>
+<named-content content-type="location">upper Nile</named-content>
 drainage: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Achwa</named-content>
+<named-content content-type="location">Achwa</named-content>
 drainage: ephemeral swamp in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Aringa</named-content>
+<named-content content-type="collectingMunicipality">Aringa</named-content>
 system, about 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.6 km</named-content>
+<named-content content-type="quantity">2.6 km</named-content>
 south of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Madi Opei township</named-content>
+<named-content content-type="collectingCounty">Madi Opei township</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">3.575556 N</named-content>
+<named-content content-type="geoCoordinate">3.575556 N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">33.079167 E</named-content>
+<named-content content-type="geoCoordinate">33.079167 E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B. Nagy</named-content>
+<named-content content-type="collectorName">B. Nagy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Østergaard</named-content>
+<named-content content-type="collectorName">K. Østergaard</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G. Petneházy</named-content>
+<named-content content-type="collectorName">G. Petneházy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 June 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 June 2017</named-content>
 </named-content>
 , preserved in the field.
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2020.007</named-content>
+<named-content content-type="specimenCode">MRAC 2020.007</named-content>
 .P.0002-7, 6, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 males</named-content>
+<named-content content-type="specimenCount">3 males</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">33.6–35.6 mm</named-content>
+<named-content content-type="quantity">33.6–35.6 mm</named-content>
 SL &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 females</named-content>
+<named-content content-type="specimenCount">3 females</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">23.5–24.8 mm</named-content>
+<named-content content-type="quantity">23.5–24.8 mm</named-content>
 SL; collected with the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 , preserved in the field
 </tp:material-citation>
 .— 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2020.007</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">MRAC 2020.007</named-content>
 .P.0008, male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">35.7 mm</named-content>
+<named-content content-type="quantity">35.7 mm</named-content>
 SL; collected with the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 , preserved after 2 months in captivity
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 is distinguished from all other members of the genus by the following characters in males: body colouration golden-grey with brown scale margins creating irregular vertical stripes on trunk; anal fin yellow with brown spots proximally, with slender brown median band, followed by a slender light blue subdistal band and a slender black distal band; caudal fin brown proximally and medially, followed by a slender light blue subdistal band and a slender black distal band; dorsal fin golden with irregular brown blotches and stripes, with narrow light blue subdistal band and narrow black distal band. Furthermore, it differs from 
-<!--template match = taxonomicName--><tp:taxon-name>N. taiti</tp:taxon-name>
+<tp:taxon-name>N. taiti</tp:taxon-name>
 by the morphometric characters of having a smaller head length of 29.5–33.1 % SL (vs. 35.0–38.6 %); smaller prepectoral length of 31.2–33.9 % SL (vs. 34.2–38.6 %); greater head depth of 81–87 % HL (vs. 71–80 %); greater interorbital width of 43–49 % HL (vs. 31–40 %); and greater caudal peduncle length of 145–152 % of its depth (vs. 134–143 %).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 General body features illustrated by 
-<!--template match = figureCitation--><xref rid="fig-">Figures 2–4</xref>
+<xref rid="fig-">Figures 2–4</xref>
 . Morphometric and meristic characters of 
 holotype
 and 
 paratypes
 summarised in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 . Relatively small-sized 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius</tp:taxon-name>
+<tp:taxon-name>Nothobranchius</tp:taxon-name>
 species, maximum observed length of specimens examined 
 35.7 mm
 SL. General body shape robust, laterally compressed and deep. Greatest body depth at vertical passing through pelvic-fin origin: 28.4–33.8 % SL. Greatest body width at pectoral-fin base with body progressively narrowing towards caudal-fin base. Dorsal profile convex from tip of snout to base of last dorsal-fin ray; postdorsal profile straight to slightly concave on caudal peduncle. Ventral profile convex from lower jaw to base of last anal-fin ray; postanal profile straight to slightly concave on caudal peduncle from insertion of posteriormost anal-fin ray to caudal-fin base. Caudal peduncle shallow, length 1.45–1.52 times of its depth. Anus just anterior to anal-fin origin.
 </p>
-<!--template match = paragraph--><p>Head moderately long (29.5–33.1 % SL), laterally compressed, deeper than wide (head width 66–72 % of its depth). Snout slightly pointed, smaller than eye diameter. Mouth supraterminal, slightly oblique in profile. Jaws subequal, lower jaw longer than upper, posterior end of rictus at same level or slightly ventral to centre of eye. Premaxilla and dentary with many irregularly distributed conical, slightly curved teeth at outer row of lower and upper jaws. Orbit large (28–32 % HL), mainly in anterior half of head (snout to eye end length 50–54 % HL), at median portion of head side. Branchiostegal membrane projecting posteriorly from opercle.</p>
-<!--template match = paragraph--><p>Dorsal-fin origin anterior to anal-fin origin, both fins originating posterior to mid-length of body. Distal border of dorsal and anal fins rounded, with small contact organs in form of papillae on fin rays and distal margin with short filamentous rays. Posterior extremity of dorsal fin reaching caudal-fin base. Dorsal fin, 16–18; anal fin, 17–19. Pectoral fin subtriangular; its insertion slightly posterior to margin of opercular opening; base slightly oblique, upper fin rays placed slightly anteriorly to lower fin rays, tip reaching or slightly surpassing base of pelvic fin. Pectoral fin, 18–20. Pelvic fin subabdominal, its origin at about mid-length of body, short, bases medially separated, tip reaching urogenital papilla. Caudal fin subtruncate, with 17–19 branched rays, plus three or four procurrent rays at dorsal and ventral origins.</p>
-<!--template match = paragraph--><p>Scales cycloid, body and head entirely scaled, except for ventral surface of head. No scales on dorsal and anal fins. Scales in mid-longitudinal series, 28–30 plus two or three small scales on caudal-fin base. Transverse rows of scales in front of dorsal-fin origin, 11; scale rows around caudal peduncle 12.</p>
-<!--template match = paragraph--><p>Frontal scalation pattern variable. Anterior nostril at anterior tip of snout, tubular opening lateral to upper lip. Posterior nostril in front of orbit, with oblique oval aperture. Frontal neuromasts arranged in two rows of shallow grooves, one neuromast in each groove. Cephalic sensory system at supraorbital level fragmented into two discontinuous portions, in shallow groove with one or two exposed neuromasts at anterior level, continued at the posterior supraorbital level with two exposed neuromasts over the orbit, whereas at supratemporal level in slightly curved shallow groove, with four exposed neuromasts. Preorbital canal in shallow groove with three exposed neuromasts; postorbital canal in deep groove with one long exposed neuromast; infraorbital level with about ten small buttons or neuromasts at ventral and posterior margin of orbit. Preopercular system with exposed neuromasts in deep groove on preopercle portion, whereas in shallow groove with about twelve small buttons on ventral portion. Mandibular canal in shallow groove with about ten to twelve small buttons or neuromasts. One neuromast on each scale along trunk mid-longitudinal series.</p>
-<!--template match = paragraph--><p>
+<p>Head moderately long (29.5–33.1 % SL), laterally compressed, deeper than wide (head width 66–72 % of its depth). Snout slightly pointed, smaller than eye diameter. Mouth supraterminal, slightly oblique in profile. Jaws subequal, lower jaw longer than upper, posterior end of rictus at same level or slightly ventral to centre of eye. Premaxilla and dentary with many irregularly distributed conical, slightly curved teeth at outer row of lower and upper jaws. Orbit large (28–32 % HL), mainly in anterior half of head (snout to eye end length 50–54 % HL), at median portion of head side. Branchiostegal membrane projecting posteriorly from opercle.</p>
+<p>Dorsal-fin origin anterior to anal-fin origin, both fins originating posterior to mid-length of body. Distal border of dorsal and anal fins rounded, with small contact organs in form of papillae on fin rays and distal margin with short filamentous rays. Posterior extremity of dorsal fin reaching caudal-fin base. Dorsal fin, 16–18; anal fin, 17–19. Pectoral fin subtriangular; its insertion slightly posterior to margin of opercular opening; base slightly oblique, upper fin rays placed slightly anteriorly to lower fin rays, tip reaching or slightly surpassing base of pelvic fin. Pectoral fin, 18–20. Pelvic fin subabdominal, its origin at about mid-length of body, short, bases medially separated, tip reaching urogenital papilla. Caudal fin subtruncate, with 17–19 branched rays, plus three or four procurrent rays at dorsal and ventral origins.</p>
+<p>Scales cycloid, body and head entirely scaled, except for ventral surface of head. No scales on dorsal and anal fins. Scales in mid-longitudinal series, 28–30 plus two or three small scales on caudal-fin base. Transverse rows of scales in front of dorsal-fin origin, 11; scale rows around caudal peduncle 12.</p>
+<p>Frontal scalation pattern variable. Anterior nostril at anterior tip of snout, tubular opening lateral to upper lip. Posterior nostril in front of orbit, with oblique oval aperture. Frontal neuromasts arranged in two rows of shallow grooves, one neuromast in each groove. Cephalic sensory system at supraorbital level fragmented into two discontinuous portions, in shallow groove with one or two exposed neuromasts at anterior level, continued at the posterior supraorbital level with two exposed neuromasts over the orbit, whereas at supratemporal level in slightly curved shallow groove, with four exposed neuromasts. Preorbital canal in shallow groove with three exposed neuromasts; postorbital canal in deep groove with one long exposed neuromast; infraorbital level with about ten small buttons or neuromasts at ventral and posterior margin of orbit. Preopercular system with exposed neuromasts in deep groove on preopercle portion, whereas in shallow groove with about twelve small buttons on ventral portion. Mandibular canal in shallow groove with about ten to twelve small buttons or neuromasts. One neuromast on each scale along trunk mid-longitudinal series.</p>
+<p>
 Females smaller than males, maximum observed size 
 24.8 mm
 SL. Body less laterally compressed and more slender than in males (head depth 68–72 % HL vs. 81–87 %; head width 77–79 % of its depth vs. 66–72 %). Branchiostegal membrane not projecting posteriorly from opercle. Dorsal and caudal fins rounded. Anal fin subtriangular, tip rounded, central rays longer and more rigid.Anal fin positioned more posteriorly than in male (preanal length 60.9–62.8 % SL vs. 56.5–60.5 %, respectively). Base length anal fin smaller than in male (anal-fin base length 16.7–20.2 % SL vs. 22.2–25.2 %). No papillae or epidermal tissue present on dorsal and anal fins. Pelvic fin short, tip reaching anus. Caudal peduncle less deep than in male (caudal peduncle length 1.79–1.85 times in its depth vs. 1.45–1.52, respectively).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Colouration.
 Live male: illustrated in 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1043-1067-">Figure 3</xref>
+<xref rid="fig-8--151-250-1043-1067-">Figure 3</xref>
 . Scales on trunk and head golden-grey with brown scale margins creating irregular vertical stripes on trunk. Scales with iridescent light blue on side of body. Scales on abdomen light golden to silver. Snout and throat grey, dorsal portion of head light brown. Posterior scale margins on post-orbital portion of opercle creating three brown oblique bars. Exposed branchiostegal membrane grey. Iris golden, with dark grey spots on upper and lower parts, creating dark vertical bar through centre of eye. Dorsal fin golden with brown spots and brown irregular stripes proximally and medially, and with narrow light blue subdistal band and narrow black distal band. Anal fin golden with brown spots proximally, followed by slender brown median band, then broad light blue subdistal band, and broad black distal band. Caudal fin brown proximally and medially, with slender light blue subdistal band and slender black distal band. Pelvic fin hyaline to brown with broad light blue distal margin. Pectoral fin hyaline with light blue posterior distal margin.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-7--151-250-1824-1848-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-7--151-250-1824-1848-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens , MRAC</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens , MRAC</tp:taxon-name>
 2020.007.P.0001, holotype, male, 31.9 mm SL; Uganda: upper Nile drainage: ephemeral swamp in the Aringa system, about 2.6 km south of Madi Opei town.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4452341/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-8--151-250-1043-1067-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-8--151-250-1043-1067-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens , MRAC</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens , MRAC</tp:taxon-name>
 2020.007.P.0008, paratype, male, 35.7 mm SL, live; Uganda: upper Nile drainage: ephemeral swamp in the Aringa system, about 2.6 km south of Madi Opei town. Photographed after one month in captivity.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4452343/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-8--151-250-1966-1990-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-8--151-250-1966-1990-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 , female, about 25 mm SL, live; Uganda: upper Nile drainage: ephemeral swamp in the Aringa system, about 2.6 km south of Madi Opei town. Photographed after two weeks in captivity.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4452345/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Live female: illustrated in 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1966-1990-">Figure 4</xref>
+<xref rid="fig-8--151-250-1966-1990-">Figure 4</xref>
 , scales on trunk and head pale grey-brown, darker on dorsum and lighter to silver on venter. Scales with dark grey-brown margin, creating reticulation on trunk and irregular vertical stripes on dorsal and posteroventral portions of flank. Light blue iridescence on trunk and opercular region. Iris golden. All fins hyaline.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 is currently known from a temporary swamp formed in the floodplain of the seasonal Aringa River system (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1493-1517-">Fig. 5</xref>
+<xref rid="fig-9--151-250-1493-1517-">Fig. 5</xref>
 ). The Aringa flows into the Pager, which is a tributary of the Achwa within the upper Nile drainage in northern 
 Uganda
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-9--151-250-1493-1517-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-9--151-250-1493-1517-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
 Map of Uganda, showing the type locality of 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 (blue triangle) and 
-<!--template match = taxonomicName--><tp:taxon-name>N. taiti</tp:taxon-name>
+<tp:taxon-name>N. taiti</tp:taxon-name>
 (green squares). Map prepared by Brian Watters.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4452347/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Ecology.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">The</named-content>
+<tp:material-citation>
+<named-content content-type="location">The</named-content>
 northern highlands of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Uganda</named-content>
+<named-content content-type="collectingCountry">Uganda</named-content>
 experience a mean annual rainfall of around 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1500 mm</named-content>
+<named-content content-type="quantity">1500 mm</named-content>
 concentrated with two peaks in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">May</named-content>
+<named-content content-type="location">May</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">August</named-content>
+<named-content content-type="location">August</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Hughes &amp; Hughes 1992</named-content>
+<named-content content-type="bibRefCitation">Hughes &amp; Hughes 1992</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wetlands</named-content>
+<named-content content-type="location">Wetlands</named-content>
 are at their lowest levels in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">January</named-content>
+<named-content content-type="collectingMunicipality">January</named-content>
 , when seasonal streams and most temporary habitats are dry. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">At</named-content>
+<named-content content-type="collectingCounty">At</named-content>
 the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 locality, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Nothobranchius elucens</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Nothobranchius elucens</named-content>
 </named-content>
 was the only fish species found. The accompanying fauna consisted of tadpoles of unidentified species
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The type locality is a large temporary pool formed on the floodplain of the seasonal Aringa River (
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1512-1536-">Fig. 6</xref>
+<xref rid="fig-10--151-250-1512-1536-">Fig. 6</xref>
 ). The habitat belongs to category 1.1, as defined by 
-<!--template match = bibRefCitation--><xref rid="ref9277">Watters (2014)</xref>
+<xref rid="ref9277">Watters (2014)</xref>
 , representing an isolated pool in a shallow depression on a floodplain, formed primarily as a result of natural processes. At the end of the first peak of the rainy season, the habitat was a large and shallow pool more than 
 50 m
 long and about 
@@ -250,66 +250,66 @@ wide, and about
 at the deepest point. At the 
 type
 locality, all collecting took place in the same general habitat. Aquatic vegetation comprised 
-<!--template match = taxonomicName--><tp:taxon-name>Nymphea</tp:taxon-name>
+<tp:taxon-name>Nymphea</tp:taxon-name>
 sp., whereas the edge of the habitat was partially overgrown with grass. The water was turbid, the bottom of the pool was not visible. The water temperature around noon was 33.6° C, the pH was 7.8 and it contained 107 ppm of total dissolved solids.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Stomach content of an adult wild-caught specimen showed that 
-<!--template match = taxonomicName--><tp:taxon-name>N. elucens</tp:taxon-name>
+<tp:taxon-name>N. elucens</tp:taxon-name>
 is a micropredator, feeding on small aquatic crustaceans, worms, insect larvae and other zooplankton.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Conservation status.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:material-citation>
 is recommended to be listed as Vulnerable. The species is currently known only from the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 locality. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">It</named-content>
+<named-content content-type="location">It</named-content>
 might exist at some other sites within the drainage system of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Aringa River</named-content>
+<named-content content-type="location">Aringa River</named-content>
 , but its distribution will remain restricted and any potential additional populations are expected to be fragmented. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">The</named-content>
+<named-content content-type="location">The</named-content>
 extent of occurrence is expected to be less than 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5.000 km</named-content>
+<named-content content-type="quantity">5.000 km</named-content>
 ². 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">The</named-content>
+<named-content content-type="location">The</named-content>
 only known location is close to human population and, during the collection of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">types</named-content>
+<named-content content-type="typeStatus">types</named-content>
 , it was observed that the water of the habitat was used to wash the surface of truck platforms, with the fouled water being allowed to drain back into the habitat. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Increasing</named-content>
+<named-content content-type="collectingMunicipality">Increasing</named-content>
 pressure on land and water resources result in habitat degradation and represents an important threat to the species. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Using</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IUCN</named-content>
+<named-content content-type="collectingCounty">Using</named-content>
+<named-content content-type="collectionCode">IUCN</named-content>
 version 3.1 (2012), the species meets the criteria D2 for Vulnerable
 </tp:material-citation>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--151-250-1512-1536-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--151-250-1512-1536-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 6.
 Type locality of 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 ; Uganda: upper Nile drainage: ephemeral swamp in the Aringa system. Photographed on 6 June 2017.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4452349/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 No conservation measures are in place for this species. It is not known from any protected areas. There is a need for improved habitat protection at the 
 type
 locality, currently the only site where the species is known to occur. Additional collecting efforts targeting suitable habitats should be conducted in the region in order to better understand the geographic distribution of this species and to elaborate on the appropriate conservation measures.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Biology.
 Aquarium maintenance of selected specimens was undertaken for observation of breeding behaviour and biology. 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
+<tp:taxon-name>Nothobranchius elucens</tp:taxon-name>
 has an annual mode of reproduction, typical of the genus. Eggs are deposited in the habitat substrate, where they survive the dry season and hatch with the onset of the wet season. Under captive conditions, peat moss was used successfully as an artificial spawning substrate. An embryonic development period of three to five months was observed at a temperature of about 22–24 °C.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 The specific name 
-<!--template match = taxonomicName--><tp:taxon-name>elucens</tp:taxon-name>
+<tp:taxon-name>elucens</tp:taxon-name>
 is a Latin participial adjective meaning ‘shining out’ and is given with reference to the distinctive light blue subdistal band in the anal and caudal fins, contrasting and shining out of the overall dark colouration of body and fins of the males.
 </p>
 </tp:treatment-sec>

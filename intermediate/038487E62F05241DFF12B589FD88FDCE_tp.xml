@@ -1,247 +1,247 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 29–30</xref>
+<tp:nomenclature><tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figs 29–30</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Alycaeus omissus Godwin-Austen, 1914: 411</tp:taxon-name>
+<tp:treatment-sec sec-type="reference_group">
+<p>
+<tp:taxon-name>Alycaeus omissus Godwin-Austen, 1914: 411</tp:taxon-name>
 , Plate 155, 
-<!--template match = figureCitation--><xref rid="fig-19--151-250-1858-1882-">Fig. 13</xref>
+<xref rid="fig-19--151-250-1858-1882-">Fig. 13</xref>
 .
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Alycaeus ( Chamalycaeus ) omissus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Alycaeus ( Chamalycaeus ) omissus</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref25109">Gude 1921: 231</xref>
+<tp:nomenclature-citation>
+<xref rid="ref25109">Gude 1921: 231</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Lectotype</named-content>
 </named-content>
 (hereby designated): 1 shell, “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Siam</named-content>
+<named-content content-type="collectingCountry">Siam</named-content>
 &amp; Shan boundary, coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Woodthorpe</named-content>
+<named-content content-type="collectorName">Woodthorpe</named-content>
 ”, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NHMUK 1903.7</named-content>
+<named-content content-type="specimenCode">NHMUK 1903.7</named-content>
 .1.1228.1
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paralectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paralectotype</named-content>
 : 1 shell, same data as for lectotype, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NHMUK 1903.7</named-content>
+<named-content content-type="specimenCode">NHMUK 1903.7</named-content>
 </tp:material-citation>
 .1.1228. 
 Other material:
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 1 shell (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 29B, D</named-content>
+<named-content content-type="figureCitation">Fig. 29B, D</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.94 mm</named-content>
+<named-content content-type="quantity">2.94 mm</named-content>
 , H: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.94 mm</named-content>
+<named-content content-type="quantity">1.94 mm</named-content>
 ) + 10 shells, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+<named-content content-type="collectingCountry">Myanmar</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Shan State</named-content>
+<named-content content-type="collectingRegion">Shan State</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Hopong</named-content>
+<named-content content-type="collectingMunicipality">Hopong</named-content>
 centre 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5.8 km</named-content>
+<named-content content-type="quantity">5.8 km</named-content>
 — 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Namsang</named-content>
+<named-content content-type="location">Namsang</named-content>
 , left side of rd. #4, near „Hopong Spring Cave”, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°49.028’N</named-content>
+<named-content content-type="geoCoordinate">20°49.028’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">97°13.469’E</named-content>
+<named-content content-type="geoCoordinate">97°13.469’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1110 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1110 m</named-content>
 a.s.l.
 </named-content>
 (locality code: 2018/35), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">06 Oct. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">06 Oct. 2018</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Hunyadi</named-content>
+<named-content content-type="collectorName">A. Hunyadi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Okubo</named-content>
+<named-content content-type="collectorName">K. Okubo</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.U. Otani</named-content>
+<named-content content-type="collectorName">J.U. Otani</named-content>
 leg., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HA</named-content>
+<named-content content-type="collectionCode">HA</named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 8 shells, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+<named-content content-type="collectingCountry">Myanmar</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Shan State</named-content>
+<named-content content-type="collectingRegion">Shan State</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Taunggyi</named-content>
+<named-content content-type="collectingMunicipality">Taunggyi</named-content>
 centre ca. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">16 km</named-content>
+<named-content content-type="quantity">16 km</named-content>
 — 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hopong</named-content>
+<named-content content-type="location">Hopong</named-content>
 , rd. #4 N 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.5 km</named-content>
+<named-content content-type="quantity">1.5 km</named-content>
 , „Shwe Pyi Aunchonda” monastery, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°47.263’N</named-content>
+<named-content content-type="geoCoordinate">20°47.263’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">97°8.239’E</named-content>
+<named-content content-type="geoCoordinate">97°8.239’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1110 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1110 m</named-content>
 a.s.l.
 </named-content>
 (locality code: 2018/46), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">08 Oct. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">08 Oct. 2018</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Hunyadi</named-content>
+<named-content content-type="collectorName">A. Hunyadi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Okubo</named-content>
+<named-content content-type="collectorName">K. Okubo</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.U. Otani</named-content>
+<named-content content-type="collectorName">J.U. Otani</named-content>
 leg., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HA</named-content>
+<named-content content-type="collectionCode">HA</named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 1 shell (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 30A, D</named-content>
+<named-content content-type="figureCitation">Fig. 30A, D</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.81 mm</named-content>
+<named-content content-type="quantity">2.81 mm</named-content>
 , H: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.8 mm</named-content>
+<named-content content-type="quantity">1.8 mm</named-content>
 ) + 7 shells, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Thailand</named-content>
+<named-content content-type="collectingCountry">Thailand</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Chiang Mai Province</named-content>
+<named-content content-type="collectingRegion">Chiang Mai Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.2 km</named-content>
+<named-content content-type="location">
+<named-content content-type="quantity">1.2 km</named-content>
 N of Wat Tham Klaeb
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">500 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">500 m</named-content>
 </named-content>
 side road from the junction, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°33.918’N</named-content>
+<named-content content-type="geoCoordinate">19°33.918’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">99°3.690’E</named-content>
+<named-content content-type="geoCoordinate">99°3.690’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">650 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">650 m</named-content>
 a.s.l.
 </named-content>
 (locality code: 2015/08), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">08 Feb. 2015</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">08 Feb. 2015</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Hunyadi</named-content>
+<named-content content-type="collectorName">A. Hunyadi</named-content>
 leg., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HA</named-content>
+<named-content content-type="collectionCode">HA</named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 1 shell (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 30B, D</named-content>
+<named-content content-type="figureCitation">Fig. 30B, D</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.69 mm</named-content>
+<named-content content-type="quantity">2.69 mm</named-content>
 , H: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.75 mm</named-content>
+<named-content content-type="quantity">1.75 mm</named-content>
 ) + 2 shells, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Thailand</named-content>
+<named-content content-type="collectingCountry">Thailand</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Mae Hong Son Province</named-content>
+<named-content content-type="collectingRegion">Mae Hong Son Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">800 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">800 m</named-content>
 </named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Tham Nam Lod</named-content>
+<named-content content-type="collectingMunicipality">Tham Nam Lod</named-content>
 toward the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Buddhist</named-content>
+<named-content content-type="location">Buddhist</named-content>
 temple, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°33.928’N</named-content>
+<named-content content-type="geoCoordinate">19°33.928’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">98°16.794’E</named-content>
+<named-content content-type="geoCoordinate">98°16.794’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">650 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">650 m</named-content>
 a.s.l.
 </named-content>
 (locality code: 2015/12), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">09 Feb. 2015</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">09 Feb. 2015</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Hunyadi</named-content>
+<named-content content-type="collectorName">A. Hunyadi</named-content>
 leg., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HA</named-content>
+<named-content content-type="collectionCode">HA</named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-37--151-250-2011-2035-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-37--151-250-2011-2035-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 29.
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
+<tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
 . A: lectotype (NHMUK 1903.7.1.1228.1); B: site 2018/35.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4772025/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-38--151-250-1418-1442-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-38--151-250-1418-1442-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 30.
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
+<tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
 . A: site 2015/08 (coll. HA); B: site 2015/12 (coll. HA).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4772027/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 locality.
 </named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Siam</named-content>
+<named-content content-type="collectingCountry">Siam</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shan</named-content>
+<named-content content-type="location">Shan</named-content>
 boundary”
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 A variable 
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax species</tp:taxon-name>
+<tp:taxon-name>Dicharax species</tp:taxon-name>
 with a relatively densely, regularly ribbed R1, rarely with spiral striation, dense R2 ribs, a rounded central swelling on R3, and an expanded, but not reflected outer peristome.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Measurements.
 D: 
 2.52–2.87 mm
@@ -254,104 +254,104 @@ D:
 (2018/35 and 2015/46).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Differential diagnosis.
 Typical 
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax notus</tp:taxon-name>
+<tp:taxon-name>Dicharax notus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>D. omissus</tp:taxon-name>
+<tp:taxon-name>D. omissus</tp:taxon-name>
 are very similar, and since only eroded specimens of the latter species were available, the distinction of these two species was somewhat questionable until newly collected material became available. These specimens reveal that 
-<!--template match = taxonomicName--><tp:taxon-name>D. notus</tp:taxon-name>
+<tp:taxon-name>D. notus</tp:taxon-name>
 is generally larger, R1 bears denser ribs (although some populations of 
-<!--template match = taxonomicName--><tp:taxon-name>D. notus</tp:taxon-name>
+<tp:taxon-name>D. notus</tp:taxon-name>
 have less dense R2 ribs), and its outer peristome is more reflected.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax omissus</tp:taxon-name>
+<tp:taxon-name>Dicharax omissus</tp:taxon-name>
 is known from the 
 Shan
 States of 
 Myanmar
 and neighbouring Thai provinces of Chiang Mai and Mae Hong Son (
-<!--template match = bibRefCitation--><xref rid="ref25421">Jirapatrasilp et al. 2021</xref>
+<xref rid="ref25421">Jirapatrasilp et al. 2021</xref>
 ; 
-<!--template match = figureCitation--><xref rid="fig-35--151-250-1569-1593-">Fig. 28</xref>
+<xref rid="fig-35--151-250-1569-1593-">Fig. 28</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 The 
 syntypes
 and the newly collected 4 samples (possibly 3 populations) show some variability in terms of the sculpture of R1 and R3, and the presence or absence of the notch at the basal portion of the aperture. However, all of these traits are rather minor and do not justify the distinction of species. The conchological differences of these populations are summarized in 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-39--151-239-152-176-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-39--151-239-152-176-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 3. Variation of shell characters of 
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
+<tp:taxon-name>Dicharax omissus (Godwin-Austen, 1914)</tp:taxon-name>
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e644">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e644">
+<tr>
+<td>
 shell diameter
 (in mm)
 </td>
-<!--template match = td--><td>
+<td>
 R1 sculpture
 </td>
-<!--template match = td--><td>
+<td>
 R3 sculpture
 </td>
-<!--template match = td--><td>
+<td>
 aperture
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 typical 
-<!--template match = taxonomicName--><tp:taxon-name>omissus</tp:taxon-name>
+<tp:taxon-name>omissus</tp:taxon-name>
 </td>
-<!--template match = td--><td>?</td>
-<!--template match = td--><td>without spiral striation</td>
-<!--template match = td--><td>smooth</td>
-<!--template match = td--><td>without basal notch</td>
+<td>?</td>
+<td>without spiral striation</td>
+<td>smooth</td>
+<td>without basal notch</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>2015/08</td>
-<!--template match = td--><td>2.61–2.87</td>
-<!--template match = td--><td>without spiral striation</td>
-<!--template match = td--><td>smooth</td>
-<!--template match = td--><td>with basal notch</td>
+<tr>
+<td>2015/08</td>
+<td>2.61–2.87</td>
+<td>without spiral striation</td>
+<td>smooth</td>
+<td>with basal notch</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>2015/12</td>
-<!--template match = td--><td>2.52–2.84</td>
-<!--template match = td--><td>without spiral striation</td>
-<!--template match = td--><td>finely ribbed</td>
-<!--template match = td--><td>with basal notch</td>
+<tr>
+<td>2015/12</td>
+<td>2.52–2.84</td>
+<td>without spiral striation</td>
+<td>finely ribbed</td>
+<td>with basal notch</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>2015/35, 2015/46</td>
-<!--template match = td--><td>2.89–3.23</td>
-<!--template match = td--><td>with spiral striation</td>
-<!--template match = td--><td>finely ribbed</td>
-<!--template match = td--><td>without basal notch</td>
+<tr>
+<td>2015/35, 2015/46</td>
+<td>2.89–3.23</td>
+<td>with spiral striation</td>
+<td>finely ribbed</td>
+<td>without basal notch</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 The shells of the two samples from Hopong have some slight spiral striation on the R1, which is highly unusual in 
-<!--template match = taxonomicName--><tp:taxon-name>Dicharax</tp:taxon-name>
+<tp:taxon-name>Dicharax</tp:taxon-name>
 . The spiral striae of this species might not be homologous with those of other alycaeid genera, although this requires further investigation.
 </p>
 </tp:treatment-sec>

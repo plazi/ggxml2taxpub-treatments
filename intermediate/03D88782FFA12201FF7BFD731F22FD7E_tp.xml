@@ -1,128 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pleurota aragonella Chrétien, 1925 stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = tableCitation--><xref>Table 1</xref>
+<tp:nomenclature><tp:taxon-name>Pleurota aragonella Chrétien, 1925 stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref>Table 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-3--151-264-1906-1930-">Figs. 6–8</xref>
+<xref rid="fig-3--151-264-1906-1930-">Figs. 6–8</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-264-1788-1812-">36</xref>
+<xref rid="fig-9--151-264-1788-1812-">36</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-28--151-264-1833-1857-">53</xref>
+<xref rid="fig-28--151-264-1833-1857-">53</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-33--151-250-1943-1967-">65</xref>
+<xref rid="fig-33--151-250-1943-1967-">65</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Pleurota aragonella Chrétien, 1925: 258</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Pleurota aragonella Chrétien, 1925: 258</tp:taxon-name>
 </tp:nomenclature-citation>
 . Type locality: 
 Spain
 : Sierra da Guadarrama, San Ildefonso [=La Granja]. 
 Holotype
 ♂ (MNHNP; examined from photographs). Lowered to subspecies by 
-<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+<xref rid="ref16879">Back (1973)</xref>
 . Here elevated from subspecies to species, based on constant differential features in habitus, genitalia structure and DNA barcode (
 stat. rev.
 ).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material studied:
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 6 ♂ (GP 5692 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+<named-content content-type="collectorName">J. Tabell</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 (GP 5878 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+<named-content content-type="collectorName">J. Tabell</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+<named-content content-type="collectingCountry">Spain</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Aragon</named-content>
+<named-content content-type="collectingRegion">Aragon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">4.5 km</named-content>
+<named-content content-type="quantity">4.5 km</named-content>
 NE 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Albarracin</named-content>
+<named-content content-type="location">Albarracin</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.V.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.V.2016</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+<named-content content-type="collectorName">J. Tabell</named-content>
 leg.; 13 ♂ (DNA sample 25579 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid. Phyl</named-content>
+<named-content content-type="collectorName">Lepid. Phyl</named-content>
 ; DNA sample 25608 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid. Phyl</named-content>
+<named-content content-type="collectorName">Lepid. Phyl</named-content>
 ; DNA sample 25609 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid. Phyl</named-content>
+<named-content content-type="collectorName">Lepid. Phyl</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 (GP 5702 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+<named-content content-type="collectorName">J. Tabell</named-content>
 , DNA sample 25595 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid. Phyl</named-content>
+<named-content content-type="collectorName">Lepid. Phyl</named-content>
 ), same collecting data, but 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.V.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21.V.2016</named-content>
 </named-content>
 (all coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TAB</named-content>
+<named-content content-type="collectionCode">TAB</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Externally 
-<!--template match = taxonomicName--><tp:taxon-name>P. aragonella</tp:taxon-name>
+<tp:taxon-name>P. aragonella</tp:taxon-name>
 can be distinguished from 
-<!--template match = taxonomicName--><tp:taxon-name>P. bicostella</tp:taxon-name>
+<tp:taxon-name>P. bicostella</tp:taxon-name>
 by its darker forewing with white longitudinal apical stripes and without distinct dark spots. In the male genitalia, the longer uncus, differently shaped gnathos (subtriangular in 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 , funnel-shaped in 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 ), broader sacculus and strongly sclerotized phallus are distinguishing characters. In the female genitalia, the long papillae anales, the shape of segment 8 (in 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 quadrate, in 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 obcordate, constricted proximally) and the absence of two posterior signa are distinguishing details.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Molecular data.
 Four specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 were sequenced, resulting in 658 (n=3) and 622 bp (n=1) barcode sequences. The results revealed distinct, 8.78 %–13.07 % divergence between 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 and the other barcoded taxa of the 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 species group (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ). The nearest neighbour to 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 is 
-<!--template match = taxonomicName--><tp:taxon-name>P. lepigrei</tp:taxon-name>
+<tp:taxon-name>P. lepigrei</tp:taxon-name>
 with an 8.78 % divergence. The divergence between 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 is 10.06 %. The barcodes of 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 exhibit no intraspecific variation.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Adult. Wingspan 21.0–24.0 mm, male larger than female. Labial palpus off-white, mixed with a few pale brown scales, ventrally brown, mixed with white, 7.2 x as long as diameter of eye (1 
 <sup>st</sup>
@@ -136,41 +136,41 @@ and 2
 <sup>nd</sup>
 palpomeres.Antenna brown, laterally white. Head white, thorax and tegula mixed with white and pale brown. Forewing white, with scattered pale brown and pale grey scales, distinct dark spots absent, median area apically with several short, longitudinal white stripes; costal line white, from near base to apex, tapered towards apex; subcostal line brown, suffused with ochre, expanded towards apex. Fringe white, with pale brown median line. Hindwing grey; fringe paler, with a broad median line. Abdomen grey, slightly lustrous, each segment with a transverse row of ochre scales.
 </p>
-<!--template match = paragraph--><p>Male genitalia. Uncus bell-shaped from ventral view, elongate, distal half covered with several long bristles, apex with beak-shaped protuberance. Gnathos funnel-shaped from ventral view, as long as uncus, basally broad, medially strongly constricted, apical 0.4 oval and basally surfaced with scobination. Tegumen large, anterior dorsal margin slightly, ventral margin strongly concave. Valva broad, subtriangular, upwardly oblique, ventral margin medially slightly bulged, costa slightly bulged, almost horizontal; cucullus thimble-shaped; sacculus moderately broad and short, covered with several bristles; valval lobe well delineated, crescent-shaped, covered with several bristles. Anterior extension of juxta robust, median plate narrow; posterior lobe moderately broad, not reaching base of uncus. Phallus slightly arched, broad, well sclerotized, slightly tapered towards apex, with one small plate-shaped cornutus and a few small granules around cornutus.</p>
-<!--template match = paragraph--><p>Female genitalia. Papilla analis elongate, long, densely covered with short bristles. Apophysis posterioris 2.4 x as long as papilla analis and 1.4 x as long as apophysis anterioris, which is 1.2 x as long as segment 8. Segment 8 obcordate or cup-shaped, lateral and proximal margins shallowly more strongly sclerotized, proximal margin strongly convex, caudal margin indistinct, concave, lined with several bristles; ventral longitudinal sclerotization rectangular. Antrum short and moderately broad, sclerotized. Ductus bursae straight, expanded towards corpus bursae. Corpus bursae ovoid, with one medially constricted arched signum bearing two narrow and long protuberances, posterior signa absent.</p>
+<p>Male genitalia. Uncus bell-shaped from ventral view, elongate, distal half covered with several long bristles, apex with beak-shaped protuberance. Gnathos funnel-shaped from ventral view, as long as uncus, basally broad, medially strongly constricted, apical 0.4 oval and basally surfaced with scobination. Tegumen large, anterior dorsal margin slightly, ventral margin strongly concave. Valva broad, subtriangular, upwardly oblique, ventral margin medially slightly bulged, costa slightly bulged, almost horizontal; cucullus thimble-shaped; sacculus moderately broad and short, covered with several bristles; valval lobe well delineated, crescent-shaped, covered with several bristles. Anterior extension of juxta robust, median plate narrow; posterior lobe moderately broad, not reaching base of uncus. Phallus slightly arched, broad, well sclerotized, slightly tapered towards apex, with one small plate-shaped cornutus and a few small granules around cornutus.</p>
+<p>Female genitalia. Papilla analis elongate, long, densely covered with short bristles. Apophysis posterioris 2.4 x as long as papilla analis and 1.4 x as long as apophysis anterioris, which is 1.2 x as long as segment 8. Segment 8 obcordate or cup-shaped, lateral and proximal margins shallowly more strongly sclerotized, proximal margin strongly convex, caudal margin indistinct, concave, lined with several bristles; ventral longitudinal sclerotization rectangular. Antrum short and moderately broad, sclerotized. Ductus bursae straight, expanded towards corpus bursae. Corpus bursae ovoid, with one medially constricted arched signum bearing two narrow and long protuberances, posterior signa absent.</p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Biology.
 Unknown.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Known from Central Spain, Sierra da Guadarrama and Sierra de Albarracín.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Results.
-<!--template match = taxonomicName--><tp:taxon-name>P . aragonella</tp:taxon-name>
+<tp:taxon-name>P . aragonella</tp:taxon-name>
 was synonymized with 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 by 
-<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+<xref rid="ref16879">Back (1973)</xref>
 . Both morphology and genetics suggest it is a valid species (
 stat. rev.
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Note
 . According to 
-<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+<xref rid="ref16879">Back (1973)</xref>
 the female genitalia of 
-<!--template match = taxonomicName--><tp:taxon-name>aragonella</tp:taxon-name>
+<tp:taxon-name>aragonella</tp:taxon-name>
 are identical to those of 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 . However, the specimens studied by us are markedly distinct from 
-<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+<tp:taxon-name>bicostella</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>

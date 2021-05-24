@@ -1,212 +1,212 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Troglocharinus Reitter, 1908<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Troglocharinus Reitter, 1908<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Perrinia Reitter, 1885: 16</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Perrinia Reitter, 1885: 16</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>Perrinia Adams, 1853</tp:taxon-name>
+<tp:taxon-name>Perrinia Adams, 1853</tp:taxon-name>
 , Mollusca, 
-<!--template match = taxonomicName--><tp:taxon-name>Trochidae</tp:taxon-name>
+<tp:taxon-name>Trochidae</tp:taxon-name>
 )
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Troglophyes ( Troglocharinus ) Reitter, 1908: 116</tp:taxon-name>
+<p>
+<tp:taxon-name>Troglophyes ( Troglocharinus ) Reitter, 1908: 116</tp:taxon-name>
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus Reitter</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Troglocharinus Reitter</tp:taxon-name>
 : 
 
-<!--treatment-citation--><tp:nomenclature-citation>Jeannel, 1910: 34</tp:nomenclature-citation>
+<tp:nomenclature-citation>Jeannel, 1910: 34</tp:nomenclature-citation>
 
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Speophilus Jeannel, 1911: 93</tp:taxon-name>
+<p>
+<tp:taxon-name>Speophilus Jeannel, 1911: 93</tp:taxon-name>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Antrocharidius Jeannel, 1910: 283</tp:taxon-name>
+<p>
+<tp:taxon-name>Antrocharidius Jeannel, 1910: 283</tp:taxon-name>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type
 species: 
-<!--template match = taxonomicName--><tp:taxon-name>Troglophyes ( Troglocharinus ) ferreri Reitter, 1908</tp:taxon-name>
+<tp:taxon-name>Troglophyes ( Troglocharinus ) ferreri Reitter, 1908</tp:taxon-name>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Species of 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+<tp:taxon-name>Troglocharinus</tp:taxon-name>
 are hypogean, anophthalmous, apterous and depigmented, with a pholeuonoid (i.e. pronotum bell-shaped) or bathyscioid (i.e. pronotum trapezoidal) habitus (
-<!--template match = figureCitation--><xref rid="fig-">Figs 3–5</xref>
+<xref rid="fig-">Figs 3–5</xref>
 ). Size ranging between 2.5–4.5 mm, with a yellowish-reddish general colouration; pubescence yellowish, fine, dense and recumbent, although in some cases with longer erect setae, mostly in the apical area of the elytra (as e.g. in 
-<!--template match = taxonomicName--><tp:taxon-name>T. patracoi (Zariquiey, 1922))</tp:taxon-name>
+<tp:taxon-name>T. patracoi (Zariquiey, 1922))</tp:taxon-name>
 ; with irregular punctation on the pronotum and arranged transversally in the elytra, forming transverse striolas.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antennae longer than the body, particularly in the species with more developed pholeuonoid habitus. Antennomeres i–vi slender, vii with engrossed apex, viii slender and ix-xi enlarged (
-<!--template match = tableCitation--><xref>Table3</xref>
+<xref>Table3</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pronotum narrowing posteriad in some species (
-<!--template match = taxonomicName--><tp:taxon-name>T. ferreri</tp:taxon-name>
+<tp:taxon-name>T. ferreri</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. hustachei Jeannel, 1911</tp:taxon-name>
+<tp:taxon-name>T. hustachei Jeannel, 1911</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. impellitierii Español, 1955</tp:taxon-name>
+<tp:taxon-name>T. impellitierii Español, 1955</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. senenti Escolà, 1967</tp:taxon-name>
+<tp:taxon-name>T. senenti Escolà, 1967</tp:taxon-name>
 ), with sinusoid lateral margins (
-<!--template match = taxonomicName--><tp:taxon-name>T. elongatus Zariquiey, 1950</tp:taxon-name>
+<tp:taxon-name>T. elongatus Zariquiey, 1950</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. espanoli (Jeannel, 1930)</tp:taxon-name>
+<tp:taxon-name>T. espanoli (Jeannel, 1930)</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. fonti ( Jeannel, 1910 )</tp:taxon-name>
+<tp:taxon-name>T. fonti ( Jeannel, 1910 )</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. jacasi (Lagar, 1966)</tp:taxon-name>
+<tp:taxon-name>T. jacasi (Lagar, 1966)</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. kiesenwetteri (Dieck, 1869)</tp:taxon-name>
+<tp:taxon-name>T. kiesenwetteri (Dieck, 1869)</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. ludovici Bellés &amp; Déliot, 1983</tp:taxon-name>
+<tp:taxon-name>T. ludovici Bellés &amp; Déliot, 1983</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. olerdolai Lagar, 1952</tp:taxon-name>
+<tp:taxon-name>T. olerdolai Lagar, 1952</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. orcinus ( Jeannel, 1910 )</tp:taxon-name>
+<tp:taxon-name>T. orcinus ( Jeannel, 1910 )</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallisei Rizzo &amp; Comas, 2015</tp:taxon-name>
+<tp:taxon-name>T. pallisei Rizzo &amp; Comas, 2015</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. patracoi (Zariquiey, 1922)</tp:taxon-name>
+<tp:taxon-name>T. patracoi (Zariquiey, 1922)</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. quadricollis ( Jeannel, 1911 )</tp:taxon-name>
+<tp:taxon-name>T. quadricollis ( Jeannel, 1911 )</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. schibii (Español, 1972)</tp:taxon-name>
+<tp:taxon-name>T. schibii (Español, 1972)</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. subilsi ( Español, 1965 ))</tp:taxon-name>
+<tp:taxon-name>T. subilsi ( Español, 1965 ))</tp:taxon-name>
 or regularly arched (
-<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi ( Escolà, 1971 ))</tp:taxon-name>
+<tp:taxon-name>T. vinyasi ( Escolà, 1971 ))</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>Elytra long and narrow in pholeuonoid species, shorter and wider in bathyscioid species.</p>
-<!--template match = paragraph--><p>
+<p>Elytra long and narrow in pholeuonoid species, shorter and wider in bathyscioid species.</p>
+<p>
 Mesoventral keel well developed (
-<!--template match = figureCitation--><xref rid="fig-19--151-264-1945-1969-">Fig. 12</xref>
+<xref rid="fig-19--151-264-1945-1969-">Fig. 12</xref>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. fonti</tp:taxon-name>
+<tp:taxon-name>T. fonti</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. kiesenwetteri</tp:taxon-name>
+<tp:taxon-name>T. kiesenwetteri</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. ludovici</tp:taxon-name>
+<tp:taxon-name>T. ludovici</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. quadricollis</tp:taxon-name>
+<tp:taxon-name>T. quadricollis</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. senenti</tp:taxon-name>
+<tp:taxon-name>T. senenti</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. subilsi</tp:taxon-name>
+<tp:taxon-name>T. subilsi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+<tp:taxon-name>T. vinyasi</tp:taxon-name>
 ) or reduced (
-<!--template match = figureCitation--><xref rid="fig-19--151-264-1945-1969-">Figs 13–14</xref>
+<xref rid="fig-19--151-264-1945-1969-">Figs 13–14</xref>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. elongatus</tp:taxon-name>
+<tp:taxon-name>T. elongatus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. espanoli</tp:taxon-name>
+<tp:taxon-name>T. espanoli</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. ferreri</tp:taxon-name>
+<tp:taxon-name>T. ferreri</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. hustachei</tp:taxon-name>
+<tp:taxon-name>T. hustachei</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. impellitierii</tp:taxon-name>
+<tp:taxon-name>T. impellitierii</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. jacasi</tp:taxon-name>
+<tp:taxon-name>T. jacasi</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. kiesenwetteri andresi (Escolà 1966)</tp:taxon-name>
+<tp:taxon-name>T. kiesenwetteri andresi (Escolà 1966)</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. olerdolai</tp:taxon-name>
+<tp:taxon-name>T. olerdolai</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. orcinus</tp:taxon-name>
+<tp:taxon-name>T. orcinus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallisei</tp:taxon-name>
+<tp:taxon-name>T. pallisei</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. patracoi</tp:taxon-name>
+<tp:taxon-name>T. patracoi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. schibii</tp:taxon-name>
+<tp:taxon-name>T. schibii</tp:taxon-name>
 ).
 </p>
-<!--template match = paragraph--><p>Legs exceptionally long, in particular the metafemur of the more pholeuonoid species. Males with dilated first three protarsomeres; females with non dilated protarsomeres.</p>
-<!--template match = paragraph--><p>
+<p>Legs exceptionally long, in particular the metafemur of the more pholeuonoid species. Males with dilated first three protarsomeres; females with non dilated protarsomeres.</p>
+<p>
 Female urite viii with short spiculum, with apex narrowly rounded (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Figs 58, 61, 62</xref>
+<xref rid="fig-29--151-264-1784-1808-">Figs 58, 61, 62</xref>
 ) or, more frequently, bifurcated (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Figs 59–60</xref>
+<xref rid="fig-29--151-264-1784-1808-">Figs 59–60</xref>
 ). The related genera from the Catalonian Pyrenees 
-<!--template match = taxonomicName--><tp:taxon-name>Pallaresiella</tp:taxon-name>
+<tp:taxon-name>Pallaresiella</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 have similar bifurcated urite viii (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Fig. 63</xref>
+<xref rid="fig-29--151-264-1784-1808-">Fig. 63</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Metatergal apparatus very reduced (
-<!--template match = figureCitation--><xref rid="fig-30--151-264-1151-1175-">Figs 68, 69</xref>
+<xref rid="fig-30--151-264-1151-1175-">Figs 68, 69</xref>
 ), with narrow and straight metascutum (SC3) (sensu 
-<!--template match = bibRefCitation--><xref rid="ref18081">Friedrich &amp; Beutel 2006</xref>
+<xref rid="ref18081">Friedrich &amp; Beutel 2006</xref>
 ), without sutures; alacrista (
 ALC
 ) without apical node and very short basal apophisis (A).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Metendosternite with two long symmetric lateral arms, very narrow and diverging; stalk also narrow and as long as the arms (
-<!--template match = figureCitation--><xref rid="fig-30--151-264-1151-1175-">Figs 64–66</xref>
+<xref rid="fig-30--151-264-1151-1175-">Figs 64–66</xref>
 ). In 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-30--151-264-1151-1175-">Fig. 67</xref>
+<xref rid="fig-30--151-264-1151-1175-">Fig. 67</xref>
 ) the stalk is ca. half the length of the arms. In the species transferred to 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+<tp:taxon-name>Troglocharinus</tp:taxon-name>
 and the newly described ones the stalk is longer than in 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 , but still clearly shorter than the arms.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Median lobe of the aedeagus in lateral view strongly flexed in an obtuse or right angle between the middle part and the apical third (
-<!--template match = figureCitation--><xref rid="fig-20--151-264-1699-1723-">Figs 15–19</xref>
+<xref rid="fig-20--151-264-1699-1723-">Figs 15–19</xref>
 ); narrowing progressively from base to apex, which is pointed with perhaps a slight preapical dilatation; the dorsal part of the aedeagus may have a depression in the apical third with a very narrow extended apex; the sternal part of the apical third may be somewhat sinuate.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Lateral stylus of the tegmen (i.e. parameres) shorter than the median lobe (
-<!--template match = figureCitation--><xref rid="fig-">Figs 15–24</xref>
+<xref rid="fig-">Figs 15–24</xref>
 ); with two setae inserted apically and one pre-apically, the first two long, robust and either straight, arched, slightly sinuous or abruptly curved in different sections; the third finer and as long as the others or much shorter and slightly sinuous or almost straight. With a well developed membranous lamina (
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Figs 35–43</xref>
+<xref rid="fig-25--151-264-1494-1518-">Figs 35–43</xref>
 ) or short and trapezoidal (e.g. in 
-<!--template match = taxonomicName--><tp:taxon-name>T. orcinus</tp:taxon-name>
+<tp:taxon-name>T. orcinus</tp:taxon-name>
 and subspecies and in 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallisei Rizzo &amp; Comas 2015</tp:taxon-name>
+<tp:taxon-name>T. pallisei Rizzo &amp; Comas 2015</tp:taxon-name>
 ; 
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Fig. 44</xref>
+<xref rid="fig-25--151-264-1494-1518-">Fig. 44</xref>
 ), a derived state according to our phylogenetic results (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1943-1967-">Fig. 1</xref>
+<xref rid="fig-11--151-250-1943-1967-">Fig. 1</xref>
 ); with a tuf of long hairs (“penicillum”) in the surface of the lamina, especially along the margins, absent only in 
-<!--template match = taxonomicName--><tp:taxon-name>T. orcinus</tp:taxon-name>
+<tp:taxon-name>T. orcinus</tp:taxon-name>
 and subspecies and in 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallisei</tp:taxon-name>
+<tp:taxon-name>T. pallisei</tp:taxon-name>
 (
-<!--template match = bibRefCitation--><xref rid="ref18637">Rizzo &amp; Comas 2015</xref>
+<xref rid="ref18637">Rizzo &amp; Comas 2015</xref>
 ; 
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Fig. 44</xref>
+<xref rid="fig-25--151-264-1494-1518-">Fig. 44</xref>
 ). The length of the lamina and the tuff of setae seem to be related, as both characters always occur together. With some sensilla placoidea close to the apex.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Endophallus with three sections as defined by 
-<!--template match = bibRefCitation--><xref rid="ref18333">Jeannel (1924)</xref>
+<xref rid="ref18333">Jeannel (1924)</xref>
 (
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1944-1968-">Figs 27–34</xref>
+<xref rid="fig-24--151-264-1944-1968-">Figs 27–34</xref>
 ). Basal region (RB) with an “Ypiece” (PY) with divergent and sinuous arms, articulated with the apical membranous extension through a nodule; these structures form a funnel with the floating pieces and the appendices of the dorsal feather-like structures of the medial region (
 FDM
 ) in the upper part. Medial region with two enlarged feather-like structures, bifurcated at the base; one of the bifurcations extented until the funnel-like structure of the basal region; with a floating piece in between the two arms of the bifurcated feather-like structures also in contact with the funnel-like structure. With two ventral feather like structures (
@@ -217,58 +217,58 @@ NC
 BRA
 ) with a bag in between them, with longitudinal stripes and the margins engrossed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Female genitalia (
-<!--template match = figureCitation--><xref rid="fig-28--151-264-1907-1931-">Figs 52–57</xref>
+<xref rid="fig-28--151-264-1907-1931-">Figs 52–57</xref>
 ) with an elongated spermatheca, with two well sclerotised lobes and a hyaline medial region, narrower than the terminal lobes; apical lobe hemispherical. Spermaduct and spermatic gland inserted in the basal region; spermatic duct between 40–70 times the length of the spermatheca, with two sections of different diameter and a basal process in the bursa copulatrix (
-<!--template match = figureCitation--><xref rid="fig-27--151-264-1954-1978-">Fig. 51</xref>
+<xref rid="fig-27--151-264-1954-1978-">Fig. 51</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The presence of a large membranous lamina (in comparison to other genera with a smaller lamina, as e.g. 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Figs 45–47</xref>
+<xref rid="fig-25--151-264-1494-1518-">Figs 45–47</xref>
 ) with a tuff of setae in the apex of the lateral stylus of the median lobe (the “penicillum”), and the very long spermatic duct with two sections with a different diameter and a basal process in the bursa copulatrix are two potential synapomorphies of the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+<tp:taxon-name>Troglocharinus</tp:taxon-name>
 . The first, presence of a large lamina with “penicillum” in the apex of the parameres, is secondarily lost in the species 
-<!--template match = taxonomicName--><tp:taxon-name>T. orcinus</tp:taxon-name>
+<tp:taxon-name>T. orcinus</tp:taxon-name>
 and its subspecies (
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Fig.44</xref>
+<xref rid="fig-25--151-264-1494-1518-">Fig.44</xref>
 ), although some populations may present intermediate degrees of development of this structure (unpublished observations). There are two further apomorphies of the genus shared by related genera: antennae longer than the body, present also in 
-<!--template match = taxonomicName--><tp:taxon-name>Speocharidius Jeannel, 1919</tp:taxon-name>
+<tp:taxon-name>Speocharidius Jeannel, 1919</tp:taxon-name>
 from the Vasc Country and other Leptodirini of different faunas, and very long legs, specially the metafemora, also present in 
-<!--template match = taxonomicName--><tp:taxon-name>Speocharidius</tp:taxon-name>
+<tp:taxon-name>Speocharidius</tp:taxon-name>
 and other Leptodirini.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Both synapomorphies are present in the species formerly in 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 transferred here to 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+<tp:taxon-name>Troglocharinus</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+<tp:taxon-name>T. mercedesi</tp:taxon-name>
 ) and the two newly described species (see below). These four species have a bathyscioid habitus, characterised by a rather rounded body form and shorter appendages and antennae (
-<!--template match = figureCitation--><xref rid="fig-16--151-264-1518-1542-">Figs 3–4</xref>
+<xref rid="fig-16--151-264-1518-1542-">Figs 3–4</xref>
 ), compared with the pholeuonid habitus of other species, and a well developed mesoventral keel.
 </p>
-<!--template match = paragraph--><p>
+<p>
 The phylogenetic reconstruction (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1943-1967-">Fig 1</xref>
+<xref rid="fig-11--151-250-1943-1967-">Fig 1</xref>
 ) shows that 
-<!--template match = taxonomicName--><tp:taxon-name>Pallaresiella pallaresana ( Jeannel, 1911 )</tp:taxon-name>
+<tp:taxon-name>Pallaresiella pallaresana ( Jeannel, 1911 )</tp:taxon-name>
 —code voucher AF123—is the sister species of 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites tincatincensis (Escolà, Bellés &amp; Comas, 1985)</tp:taxon-name>
+<tp:taxon-name>Speonomites tincatincensis (Escolà, Bellés &amp; Comas, 1985)</tp:taxon-name>
 —code voucher IRC6— with a support value (
 ML
 ) of 100, and both are sister of the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites Jeannel, 1910</tp:taxon-name>
+<tp:taxon-name>Speonomites Jeannel, 1910</tp:taxon-name>
 . Since the structure of the endophallus is similar and the two genera present the same distribution area, we establish the synonymy between the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites</tp:taxon-name>
+<tp:taxon-name>Speonomites</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Pallaresiella Fresneda, 1998</tp:taxon-name>
+<tp:taxon-name>Pallaresiella Fresneda, 1998</tp:taxon-name>
 syn. nv.
 </p>
 </tp:treatment-sec>

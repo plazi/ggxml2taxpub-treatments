@@ -1,270 +1,270 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Troglocharinus mengeli ( Jeannel, 1910 ) comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Troglocharinus mengeli ( Jeannel, 1910 ) comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Speonomus</tp:taxon-name>
 (s. str.) 
 Mengeli
 
-<!--treatment-citation--><tp:nomenclature-citation>Jeannel, 1910: 154</tp:nomenclature-citation>
+<tp:nomenclature-citation>Jeannel, 1910: 154</tp:nomenclature-citation>
 
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites mengeli (Jeannel)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Speonomites mengeli (Jeannel)</tp:taxon-name>
 : 
 
-<!--treatment-citation--><tp:nomenclature-citation>Fresneda, 1998: 67</tp:nomenclature-citation>
+<tp:nomenclature-citation>Fresneda, 1998: 67</tp:nomenclature-citation>
 
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 locality.
 </named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cova de Vinyoles</named-content>
+<named-content content-type="location">Cova de Vinyoles</named-content>
 , située dans le termino municipal de Cava (partido de 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Seo de Urgel</named-content>
+<named-content content-type="collectingMunicipality">Seo de Urgel</named-content>
 , provincia de Lérida)” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Jeannel 1910</named-content>
+<named-content content-type="bibRefCitation">Jeannel 1910</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Differential diagnosis.
 Bathyscioid species of 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+<tp:taxon-name>Troglocharinus</tp:taxon-name>
 with well-developed mesoventral keel, with an inconspicuous hook in vertex; first male protarsomere slightly narrower than apex of tibia, widening towards apex. Median lobe of aedeagus regularly curved in lateral view, apex very elongated and sinuate. Endophallus with very thin, long and arched NCs; upper node of the FVM elongated, PF2 with a small notch in the lower part of one of the extremes, the other curved and pointed. Spiculum of the female urite viii very short, wide and with bifurcated apex.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description of the species.
 Body length 2.8–3.0 mm. Body shape elongated, convex, narrowing posteriad, pronoto-elytral angle obtuse, almost imperceptible. Body surface finely and irregularly punctated on pronotum, with fine and dense transverse striolas on elytra. With fine, yellowish, recumbent conspicuous pubescence.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antennomere length as in 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 . Pronotum transverse, weakly convex, lateral margins regularly arched, as wide as elytra, with maximum width at base (maximum width = 1.4 x length = 0.9 mm.).
 </p>
-<!--template match = paragraph--><p>Elytra elongated, regularly tapering towards apex, maximum width on anterior third.</p>
-<!--template match = paragraph--><p>Mesoventral keel well developed, with hook-like vertex.</p>
-<!--template match = paragraph--><p>
+<p>Elytra elongated, regularly tapering towards apex, maximum width on anterior third.</p>
+<p>Mesoventral keel well developed, with hook-like vertex.</p>
+<p>
 Legs long and slender. Mesotibia arched, first protarsomere (
-<!--template match = figureCitation--><xref rid="fig-18--151-264-1918-1942-">Fig. 9</xref>
+<xref rid="fig-18--151-264-1918-1942-">Fig. 9</xref>
 ) slightly narrower than apex of tibiae, widening towards apex.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Median lobe of aedeagus with sinuous margins in dorsal view (
-<!--template match = figureCitation--><xref rid="fig-22--151-264-1951-1975-">Fig. 22</xref>
+<xref rid="fig-22--151-264-1951-1975-">Fig. 22</xref>
 ), with apex apparently truncated; regularly curved in lateral view (
-<!--template match = figureCitation--><xref rid="fig-20--151-264-1699-1723-">Fig. 17</xref>
+<xref rid="fig-20--151-264-1699-1723-">Fig. 17</xref>
 ); apex elongated, sinuous and pointed.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-18--151-264-1918-1942-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-18--151-264-1918-1942-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 7–11.
 Male protarsus of 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus sendrai</tp:taxon-name>
+<tp:taxon-name>Troglocharinus sendrai</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (7), 
-<!--template match = taxonomicName--><tp:taxon-name>T . fadriquei</tp:taxon-name>
+<tp:taxon-name>T . fadriquei</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (8), 
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 (9)—Coves Encantades de Toloriu—, 
-<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+<tp:taxon-name>T. mercedesi</tp:taxon-name>
 (10)—Bòfia de Sant Jaume—and 
-<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+<tp:taxon-name>T. vinyasi</tp:taxon-name>
 (11)—Avenc de la Roca del Corb—.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4505952/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-19--151-264-1945-1969-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-19--151-264-1945-1969-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 12–14.
 Mesoventral keel of 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus fadriquei</tp:taxon-name>
+<tp:taxon-name>Troglocharinus fadriquei</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (12), 
-<!--template match = taxonomicName--><tp:taxon-name>T. hustachei</tp:taxon-name>
+<tp:taxon-name>T. hustachei</tp:taxon-name>
 (13)—Cova del Gel, Llimiana—and 
-<!--template match = taxonomicName--><tp:taxon-name>T. ferreri pallaresi</tp:taxon-name>
+<tp:taxon-name>T. ferreri pallaresi</tp:taxon-name>
 (14)—Avenc de l’Esquerda, La Palma de Cervelló—.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4505954/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Lateral stylus of the tegmen sinuate (
-<!--template match = figureCitation--><xref rid="fig-25--151-264-1494-1518-">Fig. 41</xref>
+<xref rid="fig-25--151-264-1494-1518-">Fig. 41</xref>
 ), somewhat shorter than median lobe and with three long, thick curved setae on apex, two inserted laterally; third noticeably shorter, inserted on the opposed side. Membranous lamina large, elongated, with a long and dense tuff of setae (“penicillum”) inserted in the apical region, including the membranous lamina.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Intersal sac of the aedeagus (
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1944-1968-">Figs 31–32</xref>
+<xref rid="fig-24--151-264-1944-1968-">Figs 31–32</xref>
 ) with very narrow, long and curved NCs; NFVM elongated with a small notch in the lower part of one of the extremes, the other curved and pointed.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-20--151-264-1699-1723-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-20--151-264-1699-1723-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 15–19.
 Aedeagus in lateral view of 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus sendrai</tp:taxon-name>
+<tp:taxon-name>Troglocharinus sendrai</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (15), 
-<!--template match = taxonomicName--><tp:taxon-name>T . fadriquei</tp:taxon-name>
+<tp:taxon-name>T . fadriquei</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (16), 
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 (17)—Coves Encantades de Toloriu—, 
-<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+<tp:taxon-name>T. mercedesi</tp:taxon-name>
 (18)—Bofia de Sant Jaume—and 
-<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+<tp:taxon-name>T. vinyasi</tp:taxon-name>
 (19)—Avenc de la Roca del Corb.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4505956/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Female.
 More robust than males, elytra wider and convex. Protarsi not dilated, filiform. Spiculum of the urite viii very short, wide and with bifurcated apex (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Fig. 60</xref>
+<xref rid="fig-29--151-264-1784-1808-">Fig. 60</xref>
 ). Spermatheca thin and long, with lobes slightly bend with respect to the median region, basal lobe thicker than median region, apical lobe hemispherical (
-<!--template match = figureCitation--><xref rid="fig-28--151-264-1907-1931-">Fig. 54</xref>
+<xref rid="fig-28--151-264-1907-1931-">Fig. 54</xref>
 ). Spermaduct very long, 60–70 times longer than spermatheca (
-<!--template match = figureCitation--><xref rid="fig-27--151-264-1954-1978-">Fig. 49</xref>
+<xref rid="fig-27--151-264-1954-1978-">Fig. 49</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Comparative notes.
-<!--template match = bibRefCitation--><xref rid="ref17661">Español (1966)</xref>
+<xref rid="ref17661">Español (1966)</xref>
 suggested that 
-<!--template match = taxonomicName--><tp:taxon-name>S. mercedesi</tp:taxon-name>
+<tp:taxon-name>S. mercedesi</tp:taxon-name>
 may be a synonym or a subspecies of 
-<!--template match = taxonomicName--><tp:taxon-name>S. mengeli</tp:taxon-name>
+<tp:taxon-name>S. mengeli</tp:taxon-name>
 , without any formal taxonomic act. Subsequently 
-<!--template match = bibRefCitation--><xref rid="ref17507">Escolà (1986)</xref>
+<xref rid="ref17507">Escolà (1986)</xref>
 , in a checklist of Iberian species, formally synonymysed the species without any justification. In 
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 the endophallus have large, subrectangular and transverse NFVM (
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1944-1968-">Fig. 32</xref>
+<xref rid="fig-24--151-264-1944-1968-">Fig. 32</xref>
 ), while in 
-<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+<tp:taxon-name>T. mercedesi</tp:taxon-name>
 they are deeply notched in the apex, subtriangular and parallel to the main axis of the endophallus (
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1944-1968-">Fig. 34</xref>
+<xref rid="fig-24--151-264-1944-1968-">Fig. 34</xref>
 ). In 
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 the spiculum of the viii urite is short and broad, with a bifurcated apex (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Fig. 60</xref>
+<xref rid="fig-29--151-264-1784-1808-">Fig. 60</xref>
 ), while in 
 
 T, 
-<!--template match = taxonomicName--><tp:taxon-name>mercedesi</tp:taxon-name>
+<tp:taxon-name>mercedesi</tp:taxon-name>
 
 is longer and thinner, with a round apex (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Fig. 61</xref>
+<xref rid="fig-29--151-264-1784-1808-">Fig. 61</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 (
-<!--template match = figureCitation--><xref rid="fig-33--151-250-1993-2017-">Fig. 71</xref>
+<xref rid="fig-33--151-250-1993-2017-">Fig. 71</xref>
 ). Western extreme of the Serra del Cadí, upper river Segre valley (
-<!--template match = bibRefCitation--><xref rid="ref18237">Jeannel 1910</xref>
+<xref rid="ref18237">Jeannel 1910</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18264">1911</xref>
+<xref rid="ref18264">1911</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18300">1914</xref>
+<xref rid="ref18300">1914</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18333">1924</xref>
+<xref rid="ref18333">1924</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18362">Jeannel &amp; Racoviţă 1912</xref>
+<xref rid="ref18362">Jeannel &amp; Racoviţă 1912</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref19128">Zariquiey 1922a</xref>
+<xref rid="ref19128">Zariquiey 1922a</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref19159">1922b</xref>
+<xref rid="ref19159">1922b</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref17542">Español 1950</xref>
+<xref rid="ref17542">Español 1950</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17567">1956</xref>
+<xref rid="ref17567">1956</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17602">1961</xref>
+<xref rid="ref17602">1961</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17634">1965</xref>
+<xref rid="ref17634">1965</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17661">1966</xref>
+<xref rid="ref17661">1966</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17690">1976</xref>
+<xref rid="ref17690">1976</xref>
 ; Bel- lés 1973b, 1978a, 1978b; 
-<!--template match = bibRefCitation--><xref rid="ref17090">Bellés &amp; Déliot 1981</xref>
+<xref rid="ref17090">Bellés &amp; Déliot 1981</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref17480">Escolà, 1980</xref>
+<xref rid="ref17480">Escolà, 1980</xref>
 ). 
-<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus mengeli</tp:taxon-name>
+<tp:taxon-name>Troglocharinus mengeli</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+<tp:taxon-name>T. mercedesi</tp:taxon-name>
 were considered synonyms (and thus merged) in the data provided by 
-<!--template match = bibRefCitation--><xref rid="ref17009">Bellés (1987)</xref>
+<xref rid="ref17009">Bellés (1987)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17507">Escolà (1986)</xref>
+<xref rid="ref17507">Escolà (1986)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17908">Fresneda (1998)</xref>
+<xref rid="ref17908">Fresneda (1998)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18493">Perreau (2000)</xref>
+<xref rid="ref18493">Perreau (2000)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18428">Löbl &amp; Smetana (2004)</xref>
+<xref rid="ref18428">Löbl &amp; Smetana (2004)</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18846">
+<xref rid="ref18846">
 Salgado 
 et al
 . (2008)
 </xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado (2017)</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado (2017)</xref>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Lleida
 : Jeannel (Fuente 1925).
 </p>
-<!--template match = paragraph--><p>
+<p>
 1.
 Toloriu, Cova de les Encantades (= Cova de Vinyoles, Cova de Coll de Sé, Cova de Borgunyà), 
 23-8-1910
 , Jeannel, Racoviţă &amp; Mengel leg. 60 exx., 
 type
 series, in col. Biospeologica (MNHNP) (
-<!--template match = bibRefCitation--><xref rid="ref18237">Jeannel 1910</xref>
+<xref rid="ref18237">Jeannel 1910</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18264">1911</xref>
+<xref rid="ref18264">1911</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref18333">1924</xref>
+<xref rid="ref18333">1924</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18362">Jeannel &amp; Racoviţă 1912</xref>
+<xref rid="ref18362">Jeannel &amp; Racoviţă 1912</xref>
 ). In the “boîte 70” of the general collection of the MNHNP we found the fol- lowing material: 2 exx.: 1. (ms) Cova de Viñyoles, 2. (i) R. Jeannel / (ms) 8-10 Lleida, 3. (i, r) 
 TYPE
 , 4. (i): Muséum Paris / Coll. R. Jeannel 1931, 5. (ms) 
-<!--template match = taxonomicName--><tp:taxon-name>mengeli Jea</tp:taxon-name>
+<tp:taxon-name>mengeli Jea</tp:taxon-name>
 ; 2 exx.: 1. (ms) Cova de Viñyoles, 2. (i) R. Jeannel / (ms) Lleida 8-10, 3. (i, red letters) 
 TYPE
 , 4. (i) Muséum Paris / Coll. R. Jeannel 1931; 4 exx.: 1. (ms) C. de Vinyoles / Sierr. de Cadi, 2. (i) R. Jeannel / (ms) 8-10 Lleida, 3. (i, red letters) 
@@ -274,27 +274,27 @@ TYPE
 : 1. (ms) C. de Vinyoles / Sierr. de Cadi, 2. (i) R. Jeannel / (ms) 8-10 Lleida, 3. (i, red letters) 
 TYPE
 , 4. (i): Muséum Paris / Coll. R. Jeannel 1931, with a ms ϐ symbol; 2 exx.: 1. (ms) Cueva de Vinyoles, 2. (i) R. Jeannel / (ms) Catalogne-8-10, 3. (i) Muséum Paris / Coll. R. Jeannel 1931; Zariquiey leg. (
-<!--template match = bibRefCitation--><xref rid="ref17567">Español, 1956</xref>
+<xref rid="ref17567">Español, 1956</xref>
 ); 
 31-8-1961
 , Suñer leg. (MZB) (
-<!--template match = bibRefCitation--><xref rid="ref17634">Español 1965</xref>
+<xref rid="ref17634">Español 1965</xref>
 ); 
 3-5-1964
 , Escolà, Senent &amp; Subils leg. (MZB) (
-<!--template match = bibRefCitation--><xref rid="ref17634">Español 1965</xref>
+<xref rid="ref17634">Español 1965</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref17661">1966</xref>
+<xref rid="ref17661">1966</xref>
 ); 
-<!--template match = bibRefCitation--><xref rid="ref16828">Bellés (1978a)</xref>
+<xref rid="ref16828">Bellés (1978a)</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref17480">Escolà (1980)</xref>
+<xref rid="ref17480">Escolà (1980)</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref17090">Bellés &amp; Déliot (1981)</xref>
+<xref rid="ref17090">Bellés &amp; Déliot (1981)</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref17507">Escolà (1986)</xref>
+<xref rid="ref17507">Escolà (1986)</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18846">
+<xref rid="ref18846">
 Salgado 
 et al
 . (2008)
@@ -306,181 +306,181 @@ IV-1966
 , Ribera leg., 6 exx., nº reg. MZB: 83-4564 (MZB); 
 11-4-1971
 , Bellés leg., 6 exx. (CFL) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ); 25/ 
 27-7-1973
 , Fadrique leg., 6 exx. (CFL) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ); 
 17-10-2009
 , Faille, Escoll, Bourdeau &amp; Fresneda leg., 30 exx. (CFL) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ); 
 17-5-2011
 , Bourdeau &amp; Fresneda leg., 33 exx. (CFL) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ); 
 14-4-2012
 , Bourdeau &amp; Fresneda leg., 54 exx. (CFL) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 2.
 Toloriu, Avenc de la Cabana d’en Garraba (
-<!--template match = bibRefCitation--><xref rid="ref16828">Bellés 1978a</xref>
+<xref rid="ref16828">Bellés 1978a</xref>
 ); 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">VI-1966</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">VI-1966</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ribera</named-content>
+<named-content content-type="collectorName">Ribera</named-content>
 leg. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+<named-content content-type="collectionCode">MZB</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2-6-1968</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2-6-1968</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ribera</named-content>
+<named-content content-type="collectorName">Ribera</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Escolà</named-content>
+<named-content content-type="collectorName">Escolà</named-content>
 leg. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+<named-content content-type="collectionCode">MZB</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Fresneda &amp; Salgado 2017</named-content>
+<named-content content-type="bibRefCitation">Fresneda &amp; Salgado 2017</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15-8-2014</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15-8-2014</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fadrique</named-content>
+<named-content content-type="collectorName">Fadrique</named-content>
 leg., 16 exx. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CFL</named-content>
+<named-content content-type="collectionCode">CFL</named-content>
 )
 </tp:material-citation>
 (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Localities to be confirmed, probably corresponding to 
-<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+<tp:taxon-name>T. mengeli</tp:taxon-name>
 :
 </p>
-<!--template match = paragraph--><p>
+<p>
 3.
 Béixec, Forat de les Gralles, Ribera leg. (MZB) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 4.
 Vilanova de Benat, Forat Rodó (
-<!--template match = bibRefCitation--><xref rid="ref16828">Bellés 1978a</xref>
+<xref rid="ref16828">Bellés 1978a</xref>
 ); 
 30-10-1966
 , Ribera leg. (MZB) (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 5.
 Querforadat, Avenc de Querforadat (
-<!--template match = bibRefCitation--><xref rid="ref16828">Bellés 1978a</xref>
+<xref rid="ref16828">Bellés 1978a</xref>
 ). Probably the material in MZB with data “Querforadat, Avenc dels Blocs, Ribera leg.” corresponds to the same locality (
-<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+<xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional localities.
-<!--template match = taxonomicName--><tp:taxon-name>Speonomites mengeli</tp:taxon-name>
+<tp:taxon-name>Speonomites mengeli</tp:taxon-name>
 has been recorded from other localities from which we could not study material. Some of these localities are at considerable distance of the 
 type
 locality of 
-<!--template match = taxonomicName--><tp:taxon-name>S. mengeli</tp:taxon-name>
+<tp:taxon-name>S. mengeli</tp:taxon-name>
 or any other of the species of the complex, isolated by rivers or by non-carstifiable geological strata. The identity of these populatrions remains uncertain until additional fresh material could be studied.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">Spain</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lleida</named-content>
+<named-content content-type="location">Lleida</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coll de Nargó</named-content>
+<named-content content-type="location">Coll de Nargó</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">
+<named-content content-type="collectorName">
 Cova de les 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Encantades</named-content>
+<named-content content-type="location">Encantades</named-content>
 </named-content>
 del Pont d’Espia (= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Avenc</named-content>
+<named-content content-type="collectingMunicipality">Avenc</named-content>
 or 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Cova del Pont Espies</named-content>
+<named-content content-type="collectingCounty">Cova del Pont Espies</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Forat de les Fades</named-content>
+<named-content content-type="collectorName">Forat de les Fades</named-content>
 ), UTM (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ETRS89</named-content>
+<named-content content-type="specimenCode">ETRS89</named-content>
 ): 31 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">T 362</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">4671, 518 m</named-content>
+<named-content content-type="specimenCode">T 362</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">4671, 518 m</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21-3-1971</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21-3-1971</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Escolà</named-content>
+<named-content content-type="collectorName">Escolà</named-content>
 leg., 23 exx. (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+<named-content content-type="collectionCode">MZB</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Fresneda &amp; Salgado 2017</named-content>
+<named-content content-type="bibRefCitation">Fresneda &amp; Salgado 2017</named-content>
 as 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">S. mengeli</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">S. mengeli</named-content>
 </named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">Spain</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Barcelona</named-content>
+<named-content content-type="location">Barcelona</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Gòsol</named-content>
+<named-content content-type="location">Gòsol</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cova del Pont Cabradís</named-content>
+<named-content content-type="location">Cova del Pont Cabradís</named-content>
 (= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Quebradís</named-content>
+<named-content content-type="collectingMunicipality">Quebradís</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Bellés 1978b</named-content>
+<named-content content-type="bibRefCitation">Bellés 1978b</named-content>
 ), UTM (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ETRS89</named-content>
+<named-content content-type="specimenCode">ETRS89</named-content>
 ): 31 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">T 392</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">4670, 1030 m</named-content>
+<named-content content-type="specimenCode">T 392</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">4670, 1030 m</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Probably</named-content>
+<named-content content-type="collectingCounty">Probably</named-content>
 the material deposited in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+<named-content content-type="collectionCode">MZB</named-content>
 with data “Avenc del Pont Quebradís, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22-12-1968</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22-12-1968</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Escolà</named-content>
+<named-content content-type="collectorName">Escolà</named-content>
 leg., only remains” is from the same locality
 </tp:material-citation>
 .

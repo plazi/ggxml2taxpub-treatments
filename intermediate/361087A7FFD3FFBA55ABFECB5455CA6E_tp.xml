@@ -1,79 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Mycale (Aegogropila) sulevoidea Sollas, 1902<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
+<tp:nomenclature><tp:taxon-name>Mycale (Aegogropila) sulevoidea Sollas, 1902<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
 a–e, 12a–g, 13a–g, 14, 
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Esperella sulevoidea Sollas, 1902: 213</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Esperella sulevoidea Sollas, 1902: 213</tp:taxon-name>
 , pl. XV fig. 10.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Mycale sulevoidea</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Mycale sulevoidea</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hentschel 1912: 325</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hentschel 1912: 325</tp:nomenclature-citation>
 
 , pl. 13 fig. 6, pl. 18 fig. 14; 
-<!--template match = bibRefCitation--><xref rid="ref127929">Barnes &amp; Bell 2002</xref>
+<xref rid="ref127929">Barnes &amp; Bell 2002</xref>
 a: table 1 (listed only).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 ? 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale sulevoidea</tp:taxon-name>
+<tp:taxon-name>Mycale sulevoidea</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Burton 1934: 548</tp:nomenclature-citation>
-
-; 
-
-<!--treatment-citation--><tp:nomenclature-citation>Burton 1959: 228</tp:nomenclature-citation>
+<tp:nomenclature-citation>Burton 1934: 548</tp:nomenclature-citation>
 
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Vacelet &amp; Vasseur 1971: 86</tp:nomenclature-citation>
+<tp:nomenclature-citation>Burton 1959: 228</tp:nomenclature-citation>
+
+; 
+
+<tp:nomenclature-citation>Vacelet &amp; Vasseur 1971: 86</tp:nomenclature-citation>
 
 (no adequate descriptions).
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
+<p>
 Not
 : 
-<!--template match = bibRefCitation--><xref rid="ref133600">Lévi (1961a: 16)</xref>
+<xref rid="ref133600">Lévi (1961a: 16)</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref134761">Pulitzer-Finali (1993: 290)</xref>
+<xref rid="ref134761">Pulitzer-Finali (1993: 290)</xref>
 = 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 .
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Carmia sulevoidea</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Carmia sulevoidea</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>Thomas 1968: 256</tp:nomenclature-citation>
+<tp:nomenclature-citation>Thomas 1968: 256</tp:nomenclature-citation>
 
 , figs 3–4.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea</tp:taxon-name>
 ; 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Lim 
 et al.
 2008: 102
@@ -83,279 +83,279 @@ et al.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingCounty">Por.</named-content>
 01594, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Nusa Tenggara</named-content>
+<named-content content-type="collectingRegion">Nusa Tenggara</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Solor Islands</named-content>
+<named-content content-type="collectingMunicipality">Solor Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lamakera</named-content>
+<named-content content-type="location">Lamakera</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">8.4237°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">123.1502°E</named-content>
+<named-content content-type="geoCoordinate">8.4237°S</named-content>
+<named-content content-type="geoCoordinate">123.1502°E</named-content>
 , depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">20 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">20 m</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Siboga Expedition</named-content>
+<named-content content-type="collectorName">Siboga Expedition</named-content>
 , stat. 061, field nr. SE 527
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">II</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">II</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1 May 1899</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1 May 1899</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingCounty">Por.</named-content>
 02891, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Papua</named-content>
+<named-content content-type="collectingRegion">Papua</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Aru Islands</named-content>
+<named-content content-type="collectingMunicipality">Aru Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pearl Banks</named-content>
+<named-content content-type="location">Pearl Banks</named-content>
 , anchorage off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pulau Jedan</named-content>
+<named-content content-type="location">Pulau Jedan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">5.4134°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">134.6677°E</named-content>
+<named-content content-type="geoCoordinate">5.4134°S</named-content>
+<named-content content-type="geoCoordinate">134.6677°E</named-content>
 , depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">13 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">13 m</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Siboga Expedition</named-content>
+<named-content content-type="collectorName">Siboga Expedition</named-content>
 , stat. 273, field nr. SE 144.1, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 December 1899</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23 December 1899</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingCounty">Por.</named-content>
 07989, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Nusa Tenggara</named-content>
+<named-content content-type="collectingRegion">Nusa Tenggara</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sumba</named-content>
+<named-content content-type="collectingMunicipality">Sumba</named-content>
 , NE coast, reef flat off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Melolo</named-content>
+<named-content content-type="location">Melolo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9.16668°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120.75°E</named-content>
+<named-content content-type="geoCoordinate">9.16668°S</named-content>
+<named-content content-type="geoCoordinate">120.75°E</named-content>
 , depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1–4 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1–4 m</named-content>
 </named-content>
 , coll
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+<named-content content-type="collectorName">W.M. van Soest</named-content>
 , snorkeling, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Indonesian-Dutch Snellius</named-content>
+<named-content content-type="collectorName">Indonesian-Dutch Snellius</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">II</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Expedition</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">II</named-content>
+<named-content content-type="location">Expedition</named-content>
 stat. 052, field nr. 052
 </tp:material-citation>
 / 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">II/34</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">II/34</named-content>
 , red crust 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Acropora</named-content>
+<named-content content-type="taxonomicName">Acropora</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 September 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 September 1984</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="location">Por.</named-content>
 08964, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+<named-content content-type="collectingRegion">Sulawesi</named-content>
 , SE 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+<named-content content-type="collectingRegion">Sulawesi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">SW Salayar</named-content>
+<named-content content-type="collectorName">SW Salayar</named-content>
 , reef 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">NE of Pulau Bahuluang</named-content>
+<named-content content-type="locationDeviation">NE of Pulau Bahuluang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6.45°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120.43°E</named-content>
+<named-content content-type="geoCoordinate">6.45°S</named-content>
+<named-content content-type="geoCoordinate">120.43°E</named-content>
 , depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">10–15 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">10–15 m</named-content>
 </named-content>
 , coll
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+<named-content content-type="collectorName">W.M. van Soest</named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SCUBA</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">SCUBA</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Indonesian-Dutch Snellius</named-content>
+<named-content content-type="collectorName">Indonesian-Dutch Snellius</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">II</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Expedition</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">II</named-content>
+<named-content content-type="location">Expedition</named-content>
 stat. 169, field nr. 169
 </tp:material-citation>
 / 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IV/35</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">IV/35</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 September 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 September 1984</named-content>
 </named-content>
 (red crust)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingMunicipality">Por.</named-content>
 09555, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Singapore</named-content>
+<named-content content-type="collectingCountry">Singapore</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Raffles Lighthouse</named-content>
+<named-content content-type="location">Raffles Lighthouse</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">1.2884°N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">103.7563°E</named-content>
+<named-content content-type="geoCoordinate">1.2884°N</named-content>
+<named-content content-type="geoCoordinate">103.7563°E</named-content>
 , littoral, depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">0–2 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">0–2 m</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Moll</named-content>
+<named-content content-type="collectorName">H. Moll</named-content>
 , snorkeling, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 January 1978</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 January 1978</named-content>
 </named-content>
 (blood-red crust)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingMunicipality">Por.</named-content>
 12459, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+<named-content content-type="collectingRegion">Sulawesi</named-content>
 , SE 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+<named-content content-type="collectingRegion">Sulawesi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Salayar</named-content>
+<named-content content-type="location">Salayar</named-content>
 anchorage and surroundings, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6.0963°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120.4481°E</named-content>
+<named-content content-type="geoCoordinate">6.0963°S</named-content>
+<named-content content-type="geoCoordinate">120.4481°E</named-content>
 , depth 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">0–35 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">0–35 m</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Siboga Expedition</named-content>
+<named-content content-type="collectorName">Siboga Expedition</named-content>
 , stat. 213, field nr. SE 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">1753I</named-content>
+<named-content content-type="collectingDate">
+<named-content content-type="date">1753I</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">26 September 1899</named-content>
+<named-content content-type="date">26 September 1899</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingMunicipality">Por.</named-content>
 17808, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Kenya</named-content>
+<named-content content-type="collectingCountry">Kenya</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shimoni Channel</named-content>
+<named-content content-type="location">Shimoni Channel</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4. 6667°S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">39.3833°E</named-content>
+<named-content content-type="geoCoordinate">4. 6667°S</named-content>
+<named-content content-type="geoCoordinate">39.3833°E</named-content>
 , depth 8–11, coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Benayahu</named-content>
+<named-content content-type="collectorName">Y. Benayahu</named-content>
 </tp:material-citation>
 , 
 SCUBA
 , field nr. 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">PO 25395</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">PO 25395</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3 February 2003</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">3 February 2003</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Por.</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">ZMA</named-content>
+<named-content content-type="collectingMunicipality">Por.</named-content>
 21702a, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Singapore</named-content>
+<named-content content-type="collectingCountry">Singapore</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pulau Hantu</named-content>
+<named-content content-type="location">Pulau Hantu</named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Moll</named-content>
+<named-content content-type="collectorName">H. Moll</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 September 1978</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 September 1978</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
+<xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
 a–c). Encrusting, consolidating dead coral rubble. The 
 type
 was described as creeping with disc-like attachment. Our specimens are similarly patchy, but may also be somewhat thicker forming cushions. Oscules are usually slightly raised above the surface. Sizes usually do not exceed several cm 
 <sup>2</sup>
 . Surface smooth but irregular. Consistency soft. Color where recorded red or blood-red (cf. photo in 
-<!--template match = bibRefCitation--><xref rid="ref133996">
+<xref rid="ref133996">
 Lim 
 et al
 . 2008
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Skeleton
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
+<xref rid="fig-23--151-250-1454-1478-">Figs 11</xref>
 d–e). The ectosomal aegogropila-type skeleton is fairly robust, with intercrossing spicule tracts 
 30–70 µm
 in diameter made up of 5–8 spicules in cross section, delimiting triangular meshes of 
@@ -370,21 +370,21 @@ and have a maximum thickness of
 40 µm
 , carrying the surface skeleton. Microscleres are evenly distributed in the ectosomal region, but become scarcer in the interior.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Spicules
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1454-1478-">Figs 11e</xref>
+<xref rid="fig-23--151-250-1454-1478-">Figs 11e</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">12</xref>
+<xref rid="fig-24--151-250-1865-1889-">12</xref>
 a–g, 13a–g). Mycalostyles, anisochelae in three categories, sigmas in two categories, toxas.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Mycalostyles (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12a,a</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12a,a</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13a,a</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-25--151-250-1656-1680-">13a,a</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 ), robust, with elongated head and only slightly constricted neck, 286– 
 370.9
 – 465 x 7– 
@@ -393,76 +393,76 @@ Mycalostyles (
 17 µm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Anisochelae I (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12b</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12b</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13b</xref>
+<xref rid="fig-25--151-250-1656-1680-">13b</xref>
 ), well-developed alae, including broad upper and lower frontal alae, with shaft approximately 40% of its length free, in side view, the upper frontal alae are flaring outwards, 39– 
 51.1
 – 
 63 µm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Anisochelae II (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12c,c</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12c,c</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 ,c 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1867-1891-">2</xref>
+<xref rid="fig-10--151-250-1867-1891-">2</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13c</xref>
+<xref rid="fig-25--151-250-1656-1680-">13c</xref>
 ), characteristically duck-bill shaped in side-view (terminology cf. 
-<!--template match = bibRefCitation--><xref rid="ref132136">
+<xref rid="ref132136">
 Hajdu 
 et al.
 1995
 </xref>
 for similar anisochelae in their species Brazilian 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) escarlatei</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) escarlatei</tp:taxon-name>
 ); narrow elongated upper alae, with upper frontal alae tapering from distally broad to proximally narrower, curved outwards at the lower rim, causing a curved duckbill-like outline in side view (this varies somewhat among the specimens); free part of the shaft quite short; in dorsal view the spicule is violin-shaped due to upper lateral alae narrow from being expanded distally to become barely thinner than the shaft proximally and subsequently swelling again in the lower alae; spicules robust in comparison with anisochelae II of 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 and they are on average longer in the present species; length quite variable within and among specimens, 24– 
 34.4
 – 
 47 µm
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-23--151-250-1454-1478-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-23--151-250-1454-1478-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 11
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
 , a–c, habitus (preserved) (scale bars 1 mm), a, ZMA Por. 01594 from Indonesia, b, ZMA Por. 09555 from Singapore, c, ZMA Por. 17808 from Kenya, d–e, light microscopic images of surface skeleton of ZMA Por. 09555 from Singapore, d, aegogropila-type of surface skeleton and rosettes of anisochelae I, e, enlarged view of surface skeleton with anisochelae I, II and III, sigmas and toxas.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4450960/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Anisochelae III (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12d</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12d</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13d,d</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-25--151-250-1656-1680-">13d,d</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 ), possibly occurring in two overlapping shapes and sizes; both 
 types
 are narrow in shape, the larger may be resembling small anisochelae II, the smaller approaching the compact shape found in 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) gravelyi</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) gravelyi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 with slightly longer shaft; separation in two distinct spicule 
 types
 is not quite clear, so we treat them both as growth forms of the same 
-<!--template match = taxonomicName--><tp:taxon-name>anisochela III</tp:taxon-name>
+<tp:taxon-name>anisochela III</tp:taxon-name>
 , length 11– 
 16.2
 – 
 24 µm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Sigmas I (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12e</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12e</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13e</xref>
+<xref rid="fig-25--151-250-1656-1680-">13e</xref>
 ), robust, with strongly curved apices, length variable among specimens, 76– 
 102.3
 – 
@@ -471,25 +471,25 @@ Sigmas I (
 12 µm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Sigmas II (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12f</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12f</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">13f</xref>
+<xref rid="fig-25--151-250-1656-1680-">13f</xref>
 ), thin, strongly curved, 17– 
 25.8
 – 
 35 µm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Toxas (
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">
+<xref rid="fig-24--151-250-1865-1889-">
 Figs 
 12g
 </xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1656-1680-">
+<xref rid="fig-25--151-250-1656-1680-">
 13g
 </xref>
 ), predominantly deeply curved, but more shallow-curved shapes also occur; large variation in size, 22– 
@@ -499,15 +499,15 @@ Figs
 , thickness up to 
 1.5 µm
 , almost invariably thinner than the toxas of 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 ; in some specimens the toxas were rare.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution and ecology
 . (
-<!--template match = figureCitation--><xref rid="fig-26--151-250-797-821-">Fig. 14</xref>
+<xref rid="fig-26--151-250-797-821-">Fig. 14</xref>
 ) 
 Indonesia
 , 
@@ -527,17 +527,17 @@ and Red Sea, from shallow water down to
 depth.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . The assignment to I. Sollas’ 
-<!--template match = taxonomicName--><tp:taxon-name>Esperella sulevoidea</tp:taxon-name>
+<tp:taxon-name>Esperella sulevoidea</tp:taxon-name>
 is based especially on the small drawing she presented in pl. XV fig. 10 of the middle-sized category of anisochelae. The 
 type
 description does not mention presence of sigmas II, but these spicules may often be easily overlooked. 
-<!--template match = bibRefCitation--><xref rid="ref132412">Hentschel’s (1912)</xref>
+<xref rid="ref132412">Hentschel’s (1912)</xref>
 description of material from the Aru Islands does contain measurements of sigmas II as well as a good description of the characteristic 
-<!--template match = taxonomicName--><tp:taxon-name>anisochela II. His</tp:taxon-name>
+<tp:taxon-name>anisochela II. His</tp:taxon-name>
 measurements of the mycalostyles exceed those of Sollas’ and our own measurements (up to 
 576 µm
 ), but overlaps with our data, and we are confident Hentschel’s material belongs to the present species. This also applies to Thomas’ (1968) record from Palk Bay, 
@@ -546,173 +546,173 @@ India
 1–2 m
 depth.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-24--151-250-1865-1889-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-24--151-250-1865-1889-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 12
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
 , SEM images of spicules of ZMA Por. 01594 from Indonesia, a, mycalostyle, a1, details of mycalostyle, b, anisochela I in front view, c, anisochelae II in lateral view showing characteristic duck-bill shape, c1, ditto in back view showing ‘guitar-shaped’ outline, c2, ditto in front view, d, 
-<!--template match = taxonomicName--><tp:taxon-name>anisochela III</tp:taxon-name>
+<tp:taxon-name>anisochela III</tp:taxon-name>
 (all anisochelae in same magnification), e, sigma I, f, sigma II, g, toxa.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4450962/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-25--151-250-1656-1680-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-25--151-250-1656-1680-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 13
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
 , SEM images of spicules of ZMA Por. 17808 from Kenya, a, mycalostyle, a1, details of mycalostyle, b, anisochela I in lateral view, c, anisochelae II in lateral view, d, 
-<!--template match = taxonomicName--><tp:taxon-name>anisochela III</tp:taxon-name>
+<tp:taxon-name>anisochela III</tp:taxon-name>
 , larger spicule in front view, d1, smaller spicule in lateral view (all anisochelae in same magnification), e, sigma I, f, sigma II, g, toxa.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4450964/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 We refrained from distinguishing different discrete 
 types
 of anisochelae III, which was suggested by 
-<!--template match = bibRefCitation--><xref rid="ref132136">
+<xref rid="ref132136">
 Hajdu 
 et al.
 1995
 </xref>
 , as anisochelae III and IV, for the present species. Although we acknowledge that shapes of anisochelae III in 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
 are more variable than is usual in other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale</tp:taxon-name>
+<tp:taxon-name>Mycale</tp:taxon-name>
 , we could not confirm the clear distinctness. In various specimens the variation usually overlapped, both in size and shape. These tiny spicules may likely depend for their shape of a number of factors such as silica content of the environment or growth process.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref128569">Burton’s (1934)</xref>
+<p>
+<xref rid="ref128569">Burton’s (1934)</xref>
 record of three ‘flagelliform’ specimens of 35 x 
 1.5 cm
 from the Great Barrier Reef remains dubious without further information. Such habitus forms have not been encountered in our material. Their shape reminds of 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Zygomycale) parishi</tp:taxon-name>
+<tp:taxon-name>Mycale (Zygomycale) parishi</tp:taxon-name>
 (q.v.). Likewise, 
-<!--template match = bibRefCitation--><xref rid="ref128701">Burton’s (1959)</xref>
+<xref rid="ref128701">Burton’s (1959)</xref>
 record of the species from the 
 Red Sea
 is uncertain due to lack of description.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
+<p>
+<tp:material-citation>
 We made 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEM</named-content>
+<named-content content-type="collectionCode">SEM</named-content>
 images of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 specimens</named-content>
+<named-content content-type="specimenCount">6 specimens</named-content>
 , but a detailed comparison of regional specimens is not presented as our specimens were all from the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">West Pacific</named-content>
+<named-content content-type="location">West Pacific</named-content>
 except the single specimen from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Kenya</named-content>
+<named-content content-type="collectingCountry">Kenya</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">This</named-content>
+<named-content content-type="collectingMunicipality">This</named-content>
 has smaller and thinner mycalostyles, some diversity in shape of anisochelae 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">III</named-content>
+<named-content content-type="collectionCode">III</named-content>
 , and the toxas were rare. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">However</named-content>
+<named-content content-type="collectingCounty">However</named-content>
 , the single specimen precludes regional conclusions
 </tp:material-citation>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-26--151-250-797-821-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-26--151-250-797-821-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 14
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea ( Sollas, 1902 )</tp:taxon-name>
 , approximate distribution of specimens studied (blackish green squares) and literature records (pale green dots). Squares and dots may represent several close collecting localities. Question marks indicate uncertain literature records possibly concerning the similar species 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 (cf. above).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4450968/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 The present species is very similar to 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 , and we compared the two species including spicule sizes (cf. 
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ). The comparison yielded the following differences: (1) the subtly different shape of the upper alae of the anisochelae II (cf. 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1865-1889-">Figs 12c,c</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-24--151-250-1865-1889-">Figs 12c,c</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 ,c 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1867-1891-">2</xref>
+<xref rid="fig-10--151-250-1867-1891-">2</xref>
 ), which in the present species are curved abruptly outwards in the lower part of the median alae, whereas these are gradually curved in 
-<!--template match = taxonomicName--><tp:taxon-name>M.(Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M.(Ae.) orientalis</tp:taxon-name>
 ; moreover in dorsal view the anisochelae differ in the violin-shaped narrowing of the lateral alae in 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
 opposed to the normal shaped lateral alae in 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 (cf. 
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1407-1431-">Figs 5d,d</xref>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+<xref rid="fig-15--151-250-1407-1431-">Figs 5d,d</xref>
+<xref rid="fig-6--151-250-1177-1201-">1</xref>
 ), (2) in the larger size of the anischelae II (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ), and (3) in the longer and thicker mycalostyles (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ). Less clear is the difference in color. 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 is reported to have an orange live color, against the present species reported as red, blood-red or brick-red, but there are currently no live images to further prove this. The here cited alleged differences require further confirmation.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 2.
 Comparison of spicule size data of 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) orientalis ( Topsent, 1897 )</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) orientalis ( Topsent, 1897 )</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) sulevoidea Sollas, 1902</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) sulevoidea Sollas, 1902</tp:taxon-name>
 . Specimens 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) orientalis</tp:taxon-name>
 : type of Topsent MNG C12/4, ZMA Por. 01604, 01612, 02889, 02890, 02900, 07978b, 10360, 11929, 15818, 17025, 17254. 
-<!--template match = taxonomicName--><tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
+<tp:taxon-name>M. (Ae.) sulevoidea</tp:taxon-name>
 : 01594, 02891, 07989a, 08964, 09555, 12459, 17808, 21702a (cf. text for locality data of the specimens).
 </p>
-<!--template match = paragraph--><p>AI= anisochelae I, AII = anisochelae II, AIII is anisochelae III, SI = sigmas I, SII = sigmas II, T= toxas.</p>
+<p>AI= anisochelae I, AII = anisochelae II, AIII is anisochelae III, SI = sigmas I, SII = sigmas II, T= toxas.</p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e1257">
-<!--template match = tr--><tr>
-<!--template match = td--><td>Mycalostyles</td>
-<!--template match = td--><td>AI</td>
-<!--template match = td--><td>AII</td>
-<!--template match = td--><td>AIII</td>
-<!--template match = td--><td>SI</td>
-<!--template match = td--><td>SII</td>
-<!--template match = td--><td>T</td>
+<p>
+<table id="d1e1257">
+<tr>
+<td>Mycalostyles</td>
+<td>AI</td>
+<td>AII</td>
+<td>AIII</td>
+<td>SI</td>
+<td>SII</td>
+<td>T</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>M.orientalis</tp:taxon-name>
+<tr>
+<td>
+<tp:taxon-name>M.orientalis</tp:taxon-name>
 </td>
-<!--template match = td--><td>231–381 x 4–12</td>
-<!--template match = td--><td>32–57</td>
-<!--template match = td--><td>18–30</td>
-<!--template match = td--><td>9–19</td>
-<!--template match = td--><td>51–121</td>
-<!--template match = td--><td>9–38</td>
-<!--template match = td--><td>31–384</td>
+<td>231–381 x 4–12</td>
+<td>32–57</td>
+<td>18–30</td>
+<td>9–19</td>
+<td>51–121</td>
+<td>9–38</td>
+<td>31–384</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>M. sulevoidea</tp:taxon-name>
+<tr>
+<td>
+<tp:taxon-name>M. sulevoidea</tp:taxon-name>
 </td>
-<!--template match = td--><td>286–465 x 7–17</td>
-<!--template match = td--><td>39–63</td>
-<!--template match = td--><td>22–46</td>
-<!--template match = td--><td>11–24</td>
-<!--template match = td--><td>76–129</td>
-<!--template match = td--><td>17–35</td>
-<!--template match = td--><td>22–240</td>
+<td>286–465 x 7–17</td>
+<td>39–63</td>
+<td>22–46</td>
+<td>11–24</td>
+<td>76–129</td>
+<td>17–35</td>
+<td>22–240</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Additional 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila)</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila)</tp:taxon-name>
 species from the region
 
 </p>
-<!--template match = paragraph--><p>
+<p>
 Remark
 . Most of the species listed here have not been examined by us (excepting 
-<!--template match = taxonomicName--><tp:taxon-name>Mycale (Aegogropila) cavernosa Bergquist, 1965</tp:taxon-name>
+<tp:taxon-name>Mycale (Aegogropila) cavernosa Bergquist, 1965</tp:taxon-name>
 ), so their properties can only be derived from the original description and if present subsequent records. It is not certain that they are all valid species. As stated above, we limit the listing to the considered region stretching from the West Pacific Islands in the east, the coasts of East Africa in the west, South 
 China
 and the 

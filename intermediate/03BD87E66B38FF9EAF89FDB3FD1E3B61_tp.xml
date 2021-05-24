@@ -1,70 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera obscurata (Moser, 1915)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-93--151-250-1823-1847-">Figures 19</xref>
+<tp:nomenclature><tp:taxon-name>Maladera obscurata (Moser, 1915)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-93--151-250-1823-1847-">Figures 19</xref>
 A–D, 96
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Autoserica obscurata Moser, 1915: 354</tp:taxon-name>
+<tp:treatment-sec sec-type="reference_group">
+<p>
+<tp:taxon-name>Autoserica obscurata Moser, 1915: 354</tp:taxon-name>
 .
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera obscurata : Ahrens 2006b: 237</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Maladera obscurata : Ahrens 2006b: 237</tp:taxon-name>
 </tp:nomenclature-citation>
 ; 2007: 24.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Lectotype</named-content>
 (here designated): 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Autoserica obscurata</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="taxonomicName">Autoserica obscurata</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 Type Mos.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paralectotypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paralectotypes</named-content>
 (here designated): 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yünnan</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingRegion">Yünnan</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Autoserica obscurata</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="taxonomicName">Autoserica obscurata</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 Type Mos.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Additional material examined. 
 China
@@ -492,7 +492,7 @@ Hua Phan prov.
 ’ 
 15.-30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera</tp:taxon-name>
+<tp:taxon-name>Maladera</tp:taxon-name>
 spLaos_Phupane24” (
 ZFMK
 ), 
@@ -506,7 +506,7 @@ Hua Phan prov.
 ’ 
 15.-30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera obscurata</tp:taxon-name>
+<tp:taxon-name>Maladera obscurata</tp:taxon-name>
 cf” (
 ZFMK
 ), 
@@ -520,7 +520,7 @@ Hua Phan prov.
 ’ 
 15.- 30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera</tp:taxon-name>
+<tp:taxon-name>Maladera</tp:taxon-name>
 spLaos_Phupane24” (
 ZFMK
 ), 
@@ -534,7 +534,7 @@ Hua Phan prov.
 ’ 
 15.-30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera</tp:taxon-name>
+<tp:taxon-name>Maladera</tp:taxon-name>
 spLaos_Phupane24” (
 ZFMK
 ), 
@@ -548,7 +548,7 @@ Hua Phan prov.
 ’ 
 15.-30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera</tp:taxon-name>
+<tp:taxon-name>Maladera</tp:taxon-name>
 spLaos_Phupane24” (
 ZFMK
 ), 
@@ -562,7 +562,7 @@ Hua Phan prov.
 ’ 
 15.-30.iv.2014
 leg. C. Holzschuh—ZFMK Ankauf 2014 
-<!--template match = taxonomicName--><tp:taxon-name>Maladera</tp:taxon-name>
+<tp:taxon-name>Maladera</tp:taxon-name>
 spLaos_Phupane24” (
 ZFMK
 ). 
@@ -580,89 +580,89 @@ lgt. S. &amp; E. Becvar” (
 CP
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Specimens without basal lobe: 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 NW, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">3600-3700m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">3600-3700m</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yulongshan Mt.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.-22.VI.1998</named-content>
+<named-content content-type="location">Yulongshan Mt.</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14.-22.VI.1998</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Murzin</named-content>
+<named-content content-type="collectorName">S. Murzin</named-content>
 leg.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tiger Leaping Gorge</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2000-3100m</named-content>
+<named-content content-type="location">Tiger Leaping Gorge</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2000-3100m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10-12.VI.1998</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10-12.VI.1998</named-content>
 </named-content>
 leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Murzin</named-content>
+<named-content content-type="collectorName">S. Murzin</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Baoshan</named-content>
+<named-content content-type="location">Baoshan</named-content>
 env. h= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2000m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2000m</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.vii.2000</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.vii.2000</named-content>
 </named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 , N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lijiang</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.- 28.vi.1996</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">Lijiang</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27.- 28.vi.1996</named-content>
 </named-content>
 local collector” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Redescription.
 Length: 
 6.6 mm
@@ -672,36 +672,36 @@ Length:
 3.8 mm
 . Body oval, black, antenna yellow, club brown, dorsal surface dull and weak iridescent shine, except some single setae on head dorsal surface nearly glabrous.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Labroclypeus moderately wide and trapezoidal, shiny, widest at base, lateral margins weakly convex and strongly convergent anteriorly, anterior angles blunt and slightly reflexed, anterior margin moderately emarginate, margins moderately reflexed; lateral margin and ocular canthus produce a blunt angle; surface flat, finely and densely punctate, with numerous erect setae anteriorly; frontoclypeal suture indistinctly incised, curved; smooth area anterior to eye flat, as wide as long; ocular canthus long and moderately wide (nearly 1/2 of ocular diameter), finely and sparsely punctate, with a terminal seta. Frons dull, with fine, dense punctures and a few single erect setae beside eyes. Eyes small, ratio diameter/ interocular width: 0.4. Antenna with ten antennomeres; club with three antennomeres and weakly reflexed, as long as remaining antennomeres combined. 
 Mentum
 elevated and slightly flattened anteriorly.
 </p>
-<!--template match = paragraph--><p>Pronotum moderately transverse, widest at base, lateral margins in basal half nearly straight and subparallel, in anterior half evenly convex and moderately convergent anteriorly, anterior angles moderately produced and rightangled, posterior angles blunt, weakly rounded at tip; anterior margin weakly convex, with fine and complete marginal line, base without marginal line; surface finely and densely punctate, with minute setae in punctures, otherwise glabrous; lateral and anterior margin finely setose; hypomeron carinate, not produced ventrally. Scutellum wide, triangular, dull, with fine, sparse punctures.</p>
-<!--template match = paragraph--><p>Elytra widest shortly behind middle, striae distinctly impressed, finely and sparsely punctate, intervals weakly convex, with fine and sparse punctures concentrated along striae, with minute setae in punctures, odd intervals with a few single short setae; epipleural margin robust, ending at strongly curved external apical angle of elytra, epipleura densely setose; apical border of elytra not membraneous, without visible rim of microtrichomes (at ca 100x magnification).</p>
-<!--template match = paragraph--><p>Ventral surface dull, coarsely and moderately densely punctate, metasternum sparsely covered with sparse fine setae; metacoxa with a few longer setae laterally, otherwise glabrous. Abdominal sternites finely and irregularly densely punctate, glabrous, each sternite with a transverse row of coarse punctures each bearing a robust long seta. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/metacoxa: 1/1.6. Pygidium moderately convex and dull, coarsely and densely punctate, without smooth midline, with short setae throughout and a few longer setae on apical half.</p>
-<!--template match = paragraph--><p>Legs moderately wide and short, weakly shiny; femora with two longitudinal rows of setae, finely and sparsely punctate. Metafemur dull, with anterior margin acute, with continuous serrated line behind anterior margin, setae of anterior row very short; posterior margin smooth and moderately widened at apex ventrally, not serrate dorsally, with just a few short setae basally. Metatibia short, widest at apex, ratio of width/length: 1/3.3, sharply carinate dorsally, with two groups of spines, basal group shortly before middle, apical group at three quarters of metatibial length, with a few short robust setae basally and a short serrated line beside dorsal margin in basal quarter; lateral face weakly longitudinally convex, sparsely punctate on base and ventral portion, with minute setae in punctures; ventral margin finely serrate, with four robust setae of which the apical one is more distant; medial face smooth and glabrous; apex finely serrate, moderately truncate interiorly near tarsal articulation. Tarsomeres dorsally smooth and glabrous, neither laterally nor dorsally carinate, sparsely setose ventrally; metatarsomeres with a strongly serrated ridge ventrally and a smooth subventral longitudinal carina; first metatarsomere slightly shorter than following two tarsomeres combined and slightly longer than dorsal tibial spur. Protibia short, bidentate; anterior claws symmetrical, basal tooth of both claws bluntly truncate at apex.</p>
-<!--template match = paragraph--><p>
+<p>Pronotum moderately transverse, widest at base, lateral margins in basal half nearly straight and subparallel, in anterior half evenly convex and moderately convergent anteriorly, anterior angles moderately produced and rightangled, posterior angles blunt, weakly rounded at tip; anterior margin weakly convex, with fine and complete marginal line, base without marginal line; surface finely and densely punctate, with minute setae in punctures, otherwise glabrous; lateral and anterior margin finely setose; hypomeron carinate, not produced ventrally. Scutellum wide, triangular, dull, with fine, sparse punctures.</p>
+<p>Elytra widest shortly behind middle, striae distinctly impressed, finely and sparsely punctate, intervals weakly convex, with fine and sparse punctures concentrated along striae, with minute setae in punctures, odd intervals with a few single short setae; epipleural margin robust, ending at strongly curved external apical angle of elytra, epipleura densely setose; apical border of elytra not membraneous, without visible rim of microtrichomes (at ca 100x magnification).</p>
+<p>Ventral surface dull, coarsely and moderately densely punctate, metasternum sparsely covered with sparse fine setae; metacoxa with a few longer setae laterally, otherwise glabrous. Abdominal sternites finely and irregularly densely punctate, glabrous, each sternite with a transverse row of coarse punctures each bearing a robust long seta. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/metacoxa: 1/1.6. Pygidium moderately convex and dull, coarsely and densely punctate, without smooth midline, with short setae throughout and a few longer setae on apical half.</p>
+<p>Legs moderately wide and short, weakly shiny; femora with two longitudinal rows of setae, finely and sparsely punctate. Metafemur dull, with anterior margin acute, with continuous serrated line behind anterior margin, setae of anterior row very short; posterior margin smooth and moderately widened at apex ventrally, not serrate dorsally, with just a few short setae basally. Metatibia short, widest at apex, ratio of width/length: 1/3.3, sharply carinate dorsally, with two groups of spines, basal group shortly before middle, apical group at three quarters of metatibial length, with a few short robust setae basally and a short serrated line beside dorsal margin in basal quarter; lateral face weakly longitudinally convex, sparsely punctate on base and ventral portion, with minute setae in punctures; ventral margin finely serrate, with four robust setae of which the apical one is more distant; medial face smooth and glabrous; apex finely serrate, moderately truncate interiorly near tarsal articulation. Tarsomeres dorsally smooth and glabrous, neither laterally nor dorsally carinate, sparsely setose ventrally; metatarsomeres with a strongly serrated ridge ventrally and a smooth subventral longitudinal carina; first metatarsomere slightly shorter than following two tarsomeres combined and slightly longer than dorsal tibial spur. Protibia short, bidentate; anterior claws symmetrical, basal tooth of both claws bluntly truncate at apex.</p>
+<p>
 Aedeagus: 
-<!--template match = figureCitation--><xref rid="fig-93--151-250-1823-1847-">Fig. 19</xref>
+<xref rid="fig-93--151-250-1823-1847-">Fig. 19</xref>
 A–C. Habitus: 
-<!--template match = figureCitation--><xref rid="fig-93--151-250-1823-1847-">Fig. 19D</xref>
+<xref rid="fig-93--151-250-1823-1847-">Fig. 19D</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . The extension of the basal lobes of the parameres exhibit considerable variation within local populations, but the shape of the rest of the paramere remains uniform.. It is very likely that all these forms belong to a single species.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 See map (
-<!--template match = figureCitation--><xref rid="fig-349--151-250-1968-1992-">Fig. 96</xref>
+<xref rid="fig-349--151-250-1968-1992-">Fig. 96</xref>
 ) and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>

@@ -1,58 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Callicarpa gracilis Fewkes, 1881<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 1–8</xref>
+<tp:nomenclature><tp:taxon-name>Callicarpa gracilis Fewkes, 1881<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figs 1–8</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-22--151-250-1747-1771-">15</xref>
+<xref rid="fig-22--151-250-1747-1771-">15</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 1</xref>
+<xref>Tables 1</xref>
 , 
-<!--template match = tableCitation--><xref>2</xref>
+<xref>2</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881: 134</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881: 134</tp:taxon-name>
 , pl. 2 figs 1, 2, 6, 7.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Allman, 1883: 3</tp:nomenclature-citation>
+<tp:nomenclature-citation>Allman, 1883: 3</tp:nomenclature-citation>
 
 (footnote), 13.—A. 
 
-<!--treatment-citation--><tp:nomenclature-citation>Agassiz, 1888: 137</tp:nomenclature-citation>
+<tp:nomenclature-citation>Agassiz, 1888: 137</tp:nomenclature-citation>
 
 , figs 438–439.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Versluys, 1899: 47</tp:nomenclature-citation>
+<tp:nomenclature-citation>Versluys, 1899: 47</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nutting, 1900: 85</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nutting, 1900: 85</tp:nomenclature-citation>
 
 , pl. 17 figs 4–6.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bedot, 1916: 58</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bedot, 1916: 58</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bedot, 1918: 78</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bedot, 1918: 78</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bedot, 1921: 16</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bedot, 1921: 16</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Fraser, 1944: 328</tp:nomenclature-citation>
+<tp:nomenclature-citation>Fraser, 1944: 328</tp:nomenclature-citation>
 
 , pl. 69 fig. 316.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Bouillon 
 et al
 ., 2006: 364
@@ -62,31 +62,31 @@ et al
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 material.
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">National Museum of Natural History</named-content>
+<named-content content-type="location">National Museum of Natural History</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Washington</named-content>
+<named-content content-type="collectingRegion">Washington</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 , catalogue number: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USNM 72363</named-content>
+<named-content content-type="specimenCode">USNM 72363</named-content>
 (schizoholotype); collected in 1880 from an unknown locality “off the eastern coast of the United States” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Fewkes 1881: 127</named-content>
+<named-content content-type="bibRefCitation">Fewkes 1881: 127</named-content>
 , 129)
 </tp:material-citation>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1954-1978-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-250-1954-1978-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
 Historical illustrations of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , modified after the original account. 
 A
 . Whole colony. 
@@ -98,18 +98,18 @@ D
 . Cross section through the phylactocarp.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529217/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-250-1060-1084-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-250-1060-1084-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
 Four preserved, fertile colonies of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 (unbranched morphotype). Scale bar: 1 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529219/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Material examined.
 Unbranched morphotype: MNHN-IK-2015-629; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5067; 
 6°12.4’ N
 , 
@@ -121,7 +121,7 @@ stn DW5067;
 ; one colony 
 5 cm
 high bearing a phylactocarp.—MNHN-IK-2015-631; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5076; 
 6°10.3’ N
 , 
@@ -133,7 +133,7 @@ stn DW5076;
 ; one colony, 
 6 cm
 high, bearing 2 phylactocarps.— MNHN-IK-2015-625; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5078; 
 6°10.2’ N
 , 
@@ -167,7 +167,7 @@ MT
 (
 COI
 ).—MNHN-IK-2015-652; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5079; 
 6°10.1’ N
 , 
@@ -179,7 +179,7 @@ stn DW5079;
 ; 4 colonies, 
 3–6 cm
 high, of which 2 are sterile, while 2 others bear phylactocarps.—MNHN-IK-2015-628; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5080; 
 6°09.9’ N
 , 
@@ -193,7 +193,7 @@ stn DW5080;
 high and sterile, the other 
 6.5 cm
 high and bearing a phylactocarp.—MNHN-IK-2015-653; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5086; 
 6°11.1’ N
 , 
@@ -205,7 +205,7 @@ stn DW5086;
 ; 3 colonies, 
 5.5–7.5 cm
 high, all bearing phylactocarps.—MNHN-IK- 2015-617; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5087; 
 6°11.2’ N
 , 
@@ -239,7 +239,7 @@ MT
 (
 COI
 ).—MNHN-IK-2015-630; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5089; 
 6°09.5’ N
 , 
@@ -249,7 +249,7 @@ stn DW5089;
 ; 
 03 Dec 2017
 ; 2 colonies, each bearing a phylactocarp.—MNHN-IK-2015-635; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5091; 
 6°07.4’ N
 , 
@@ -261,7 +261,7 @@ stn DW5091;
 ; a 
 4.5 cm
 high colony bearing a young phylactocarp.— MNHN-IK-2015-634; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5093; 
 6°05.4’ N
 , 
@@ -274,9 +274,9 @@ stn DW5093;
 6.5 cm
 high colony bearing a young phylactocarp.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Branched morphotype: MNHN-IK-2015-632; 
-<!--template match = taxonomicName--><tp:taxon-name>Proteus</tp:taxon-name>
+<tp:taxon-name>Proteus</tp:taxon-name>
 stn DW5069; 
 6°13.6’ N
 , 
@@ -290,52 +290,52 @@ ca
 . 
 22 cm
 high colony with phylactocarps; GenBank accession numbers: 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">MT</named-content>
 949950
 </named-content>
 (16S)
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">MT</named-content>
 949956
 </named-content>
 (18S)
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">MT</named-content>
 949944
 </named-content>
 (28S)
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">MT</named-content>
 949459
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">COI</named-content>
+<named-content content-type="collectionCode">COI</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 The species displays two distinct morphotypes: one forming simple plumes (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1060-1084-">Fig. 2</xref>
+<xref rid="fig-4--151-250-1060-1084-">Fig. 2</xref>
 ) and one building comparatively taller colonies whose stems are provided with irregularly-arranged cladia-bearing branches (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1316-1340-">Fig. 6</xref>
+<xref rid="fig-11--151-250-1316-1340-">Fig. 6</xref>
 ). Due to their different appearance and structure, they are described separately below.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Unbranched colonies solitary, erect, up to 
 8 cm
 high, relatively rigid (quite able to support themselves when out of liquid), feather-like, arising from a tangled mass of thin, highly-ramified, stolonal tubes embedded in sand. Stems simple, moderately-fascicled, not exceeding 
@@ -350,10 +350,10 @@ ca
 type
 of gonophore could not be ascertained in this fixed material. All nematothecae of a colony trumpet-shaped, movable, bithalamic, with tall lower chamber and shallow upper chamber, the adaxial wall of the latter with distinct emargination. Hydranths contracted inside their corresponding hydrothecae; tentacle number could not be ascertained.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-250-1810-1834-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--151-250-1810-1834-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 (unbranched morphotype). 
 A
 . Portion of monosiphonic part of stem with proximal parts of three consecutive cladia. 
@@ -369,7 +369,7 @@ F
 . Ramulus of phylactocarp with a gonotheca. Scale bars: B, D, E = 100 µm; C = 200 µm; A = 400 µm; F = 500 µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529221/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Branched colony erect, 
 ca
 . 
@@ -387,7 +387,7 @@ type
 of tentacles and their number could not be ascertained. 
 
 {
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1857-1881-">Fig. 7</xref>
+<xref rid="fig-12--151-250-1857-1881-">Fig. 7</xref>
 about here}
 
 Gonosome forming phylactocarps on the distal parts of the branches; phylactocarps arising from either the accessory tubes or the cladia-bearing tube, but given off amongst the hydrocladia in a plane perpendicular to theirs, and projecting upward; proximal most phylactocarps all aligned along a median row but, more distally, alternately shifted on to each side, occasionally forming divergent pairs; phylactocarps short, tubular, arching upward from the axis of cladia-bearing branch, but not being demarcated basally from it by a node; composed of a proximal (axillar) pair of nematothecae (one to each side), followed immediately by 2 consecutive pairs of foramina (for the insertion of gonothecae), another pair of nematothecae towards the central part, and a distal hydrotheca, together with its complement of 3 nematothecae. Gonothecae urn-shaped, thin-walled, except below the aperture, tapering below into an indistinct, laterally-set pedicel; aperture circular, operculum not seen; 
@@ -395,219 +395,219 @@ type
 of gonophore and sex could not be ascertained. All the nematothecae of the colony alike; conical, moderatelylong, bithalamic, lower chamber deep, upper chamber relatively shallow, with rim emarginated of adaxial side.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1
 . Measurements of the unbranched morphotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , in µm. Stem
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = bibRefCitation--><xref rid="ref15594">Nutting (1900)</xref>
+<xref rid="ref15594">Nutting (1900)</xref>
 supplemented the original account on 
-<!--template match = taxonomicName--><tp:taxon-name>C. gracilis</tp:taxon-name>
+<tp:taxon-name>C. gracilis</tp:taxon-name>
 with a redescription of the 
 type
 material, a text that was reproduced later on by 
-<!--template match = bibRefCitation--><xref rid="ref14128">Fraser (1944)</xref>
+<xref rid="ref14128">Fraser (1944)</xref>
 . Although many details of its microscopical anatomy remained overlooked, Nutting confirmed the polysiphonic structure of the stem.
 </p>
-<!--template match = paragraph--><p>
+<p>
 As noted in the descriptive section, two morphotypes occur in the present collection, one being a typical 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa , sensu Fewkes (1881)</tp:taxon-name>
+<tp:taxon-name>Callicarpa , sensu Fewkes (1881)</tp:taxon-name>
 , while the other has an 
-<!--template match = taxonomicName--><tp:taxon-name>Antomma</tp:taxon-name>
+<tp:taxon-name>Antomma</tp:taxon-name>
 -like appearance; they can be easily mistaken for two distinct species, although the results of the molecular study (see below) demonstrate that both are conspecific.
 </p>
-<!--template match = paragraph--><p>
+<p>
 In the unbranched colonies, the phylactocarps “resemble spikes of barley” (
-<!--template match = bibRefCitation--><xref rid="ref13809">Fewkes 1881: 135</xref>
+<xref rid="ref13809">Fewkes 1881: 135</xref>
 ) and, unlike in the 
 type
 material in which there were “no hydrothecae on the ribs or at the base of the verticils”, the proximal most ramuli do not always comprise exclusively the usual branched, hollow, nematothecate tubes. Indeed, a ramulus can be replaced by a short, either simple (MNHN-IK-2015-629) or bifid (MNHN-IK-2015-652), cladium. In this case, the proximal part of the ramulus comprises a short axis, provided basally with 2 laterally-placed, axillar nematothecae (at origin from the longitudinal axis of the phylactocarp), immediately followed by the site of the insertion of gonothecae and –after a short distance– by another pair of nematothecae, all ending in a hydrotheca with its complement of 3 nematothecae. From here, the ramulus is either prolonged by a sequence of hydrothecate internodes (MNHN-IK-2015-629), or by a short, bifid, distal projection above the hydrotheca (each branch is provided with a single, basal nematotheca) carrying a succession of hydrothecate internodes, with or without intervening ahydrothecate internodes bearing single nematothecae (MNHN-IK-2015-652). In some other instances, above the proximal-most hydrotheca, there is a bifid projection (whose short branches do not bear nematothecae) provided with a pair of hollow spikes with nematothecae (MNHN-IK-2015-628). In order to preserve the integrity of these rare specimens, the structures mentioned above were not illustrated.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 2
 . Measurements of the branched morphotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , in µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e860">
-<!--template match = tr--><tr>
-<!--template match = td--><td>Stem</td>
+<p>
+<table id="d1e860">
+<tr>
+<td>Stem</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- “internode” length</td>
-<!--template match = td--><td>835–1400</td>
+<tr>
+<td>- “internode” length</td>
+<td>835–1400</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- diameter of the main tube</td>
-<!--template match = td--><td>190–200</td>
+<tr>
+<td>- diameter of the main tube</td>
+<td>190–200</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- cladial apophysis, length</td>
-<!--template match = td--><td>160–235</td>
+<tr>
+<td>- cladial apophysis, length</td>
+<td>160–235</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Branches
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- “internode” length</td>
-<!--template match = td--><td>470–555</td>
+<tr>
+<td>- “internode” length</td>
+<td>470–555</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- diameter of the main tube</td>
-<!--template match = td--><td>215–230</td>
+<tr>
+<td>- diameter of the main tube</td>
+<td>215–230</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- cladial apophysis, length</td>
-<!--template match = td--><td>145–170</td>
+<tr>
+<td>- cladial apophysis, length</td>
+<td>145–170</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Apophyses-associated nematothecae
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- mamelon, diameter at aperture</td>
-<!--template match = td--><td>15–25</td>
+<tr>
+<td>- mamelon, diameter at aperture</td>
+<td>15–25</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- axillar nematothecae, length</td>
-<!--template match = td--><td>105–115</td>
+<tr>
+<td>- axillar nematothecae, length</td>
+<td>105–115</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- axillar nematothecae, diameter at rim</td>
-<!--template match = td--><td>55–60</td>
+<tr>
+<td>- axillar nematothecae, diameter at rim</td>
+<td>55–60</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- nematothecae distal on apophysis, length</td>
-<!--template match = td--><td>95–100</td>
+<tr>
+<td>- nematothecae distal on apophysis, length</td>
+<td>95–100</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- nematothecae distal on apophysis, diameter at aperture</td>
-<!--template match = td--><td>50–55</td>
+<tr>
+<td>- nematothecae distal on apophysis, diameter at aperture</td>
+<td>50–55</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Cauline cladia
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- distance between 2 successive cladia on the same side of the stem</td>
-<!--template match = td--><td>1780–2195</td>
+<tr>
+<td>- distance between 2 successive cladia on the same side of the stem</td>
+<td>1780–2195</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- internode length</td>
-<!--template match = td--><td>485–535</td>
+<tr>
+<td>- internode length</td>
+<td>485–535</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- diameter at node</td>
-<!--template match = td--><td>60–75</td>
+<tr>
+<td>- diameter at node</td>
+<td>60–75</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Cladia borne on branches
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- distance between 2 successive cladia on the same side of the stem</td>
-<!--template match = td--><td>840–920</td>
+<tr>
+<td>- distance between 2 successive cladia on the same side of the stem</td>
+<td>840–920</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- internode length</td>
-<!--template match = td--><td>420–475</td>
+<tr>
+<td>- internode length</td>
+<td>420–475</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- diameter at node</td>
-<!--template match = td--><td>60–110</td>
+<tr>
+<td>- diameter at node</td>
+<td>60–110</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Hydrothecae
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- abaxial wall, length</td>
-<!--template match = td--><td>210–230</td>
+<tr>
+<td>- abaxial wall, length</td>
+<td>210–230</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- adaxial wall, length</td>
-<!--template match = td--><td>175–190</td>
+<tr>
+<td>- adaxial wall, length</td>
+<td>175–190</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- base width</td>
-<!--template match = td--><td>40–50</td>
+<tr>
+<td>- base width</td>
+<td>40–50</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- diameter at rim</td>
-<!--template match = td--><td>85–100</td>
+<tr>
+<td>- diameter at rim</td>
+<td>85–100</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- mesial nematotheca, length</td>
-<!--template match = td--><td>100–115</td>
+<tr>
+<td>- mesial nematotheca, length</td>
+<td>100–115</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- mesial nematotheca, diameter at rim</td>
-<!--template match = td--><td>50–55</td>
+<tr>
+<td>- mesial nematotheca, diameter at rim</td>
+<td>50–55</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- lateral nematothecae, length</td>
-<!--template match = td--><td>100–105</td>
+<tr>
+<td>- lateral nematothecae, length</td>
+<td>100–105</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- lateral nematothecae, diameter at rim</td>
-<!--template match = td--><td>55–60</td>
+<tr>
+<td>- lateral nematothecae, diameter at rim</td>
+<td>55–60</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Gonosome
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- phylactocarp length</td>
-<!--template match = td--><td>865–1100</td>
+<tr>
+<td>- phylactocarp length</td>
+<td>865–1100</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- distance between two successive phylactocarps</td>
-<!--template match = td--><td>800–1110</td>
+<tr>
+<td>- distance between two successive phylactocarps</td>
+<td>800–1110</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- gonotheca, total length</td>
-<!--template match = td--><td>
+<tr>
+<td>- gonotheca, total length</td>
+<td>
 ca
 . 480
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- gonotheca, maximum width</td>
-<!--template match = td--><td>
+<tr>
+<td>- gonotheca, maximum width</td>
+<td>
 ca
 . 235
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>- gonotheca, diameter at aperture</td>
-<!--template match = td--><td>
+<tr>
+<td>- gonotheca, diameter at aperture</td>
+<td>
 ca
 . 145
 </td>
 </tr>
 </table>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-9--151-250-1907-1931-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-9--151-250-1907-1931-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
 SEM study of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , unbranched morphotype (part). 
 A
 . Portion of stem, showing its fascicled condition. 
@@ -621,11 +621,11 @@ E, F
 . Proximal part of a phylactocarp at different magnifications. All from sample MNHN-IK-2015-617. Scale bars: C = 100 µm; B = 200 µm; A, F = 500 µm; E = 1 mm; D = 2 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529225/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--151-250-1898-1922-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--151-250-1898-1922-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
 SEM study of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , unbranched morphotype (continued). 
 A
 . Detail of an empty phylactocarp. 
@@ -641,43 +641,43 @@ F
 . Distal end of a phylactocarp seen apically. All from sample MNHN-IK-2015-617. Scale bars: D = 50 µm; E = 100 µm; B, C = 200 µm; A, F = 500 µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529230/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1316-1340-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--151-250-1316-1340-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 6.
 Preserved colony of 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 (branched morphotype). Scale bar: 2 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529306/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Type
 material of 
-<!--template match = taxonomicName--><tp:taxon-name>C. gracilis</tp:taxon-name>
+<tp:taxon-name>C. gracilis</tp:taxon-name>
 was represented by a 
 ca
 . 
 15 cm
 high colony, whose proximal part of the stem bore the stump of a potential broken branch (although this could have been well the pedicel of a broken phylactocarp). A comparatively taller, branched colony is present in material MNHN-IK-2015-632. Its trophosome resembles that of 
-<!--template match = taxonomicName--><tp:taxon-name>Antomma longicarpa ( Nutting, 1900 )</tp:taxon-name>
+<tp:taxon-name>Antomma longicarpa ( Nutting, 1900 )</tp:taxon-name>
 , as illustrated by 
-<!--template match = bibRefCitation--><xref rid="ref13809">Fewkes (1881</xref>
+<xref rid="ref13809">Fewkes (1881</xref>
 , as 
-<!--template match = taxonomicName--><tp:taxon-name>Hippurella annulata Allman, 1877</tp:taxon-name>
+<tp:taxon-name>Hippurella annulata Allman, 1877</tp:taxon-name>
 ), in being represented by a stem with pinnately-arranged cladia that gives rise irregularly to a number of cladia-bearing branches, both the stem and its branches being fascicled.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Although their respective cladia are almost indistinguishable morphologically, there are several differences occurring in the branched morphotype compared to its unbranched counterpart: 1) the cladial apophyses of the stem possess distally twin nematothecae (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1857-1881-">Fig. 7A, B</xref>
+<xref rid="fig-12--151-250-1857-1881-">Fig. 7A, B</xref>
 ), but their presence is, however, inconstant, although it is not clear whether this is a normal situation or the consequence of a possible mechanical breakage; such nematothecae were never observed in any of the unbranched colonies at hand; 2) the gonosome of the branched morphotype is not represented anymore by a morphologically-complex structure, but by the equivalent of a radial section of it, comprising only single or twin ramuli, that have spread over the distalmost part of the axis of a cladia-bearing branch; 3) this said, it is however not clear whether the specimen at hand displays a fully-developed gonosome or, in other words, if the structures illustrated in 
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1857-1881-">Figs 7K, L</xref>
+<xref rid="fig-12--151-250-1857-1881-">Figs 7K, L</xref>
 and 
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1475-1499-">8B, C</xref>
+<xref rid="fig-13--151-250-1475-1499-">8B, C</xref>
 represent incipient phylactocarps or the components of an entire phylactocarp fused to the axis of a cladia-bearing branch; additional fertile specimens are expected to answer the question; 4) each phylactocarp/ramulus represents the equivalent of the proximal-most portion of a ramulus that include hydrothecate internodes, as described in the unbranched colonies.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-12--151-250-1857-1881-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-12--151-250-1857-1881-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 7.
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , branched morphotype. 
 A
 . Portion of stem with insertions of two consecutive cladia. 
@@ -697,10 +697,10 @@ M
 . Gonotheca. Scale bars: B, D, G–J, M = 100 µm; A, C, E, F, K, L = 200 µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529238/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-13--151-250-1475-1499-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-13--151-250-1475-1499-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 8.
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis Fewkes, 1881</tp:taxon-name>
 , branched morphotype. 
 A
 . Hydrotheca, image obtained by stacking. 
@@ -710,34 +710,34 @@ C
 . detail of a phylactocarp, image obtained by stacking. Scale bars: A = 100 µm; C = 200 µm; B = 300 µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529240/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Besides 
-<!--template match = taxonomicName--><tp:taxon-name>C. gracilis</tp:taxon-name>
+<tp:taxon-name>C. gracilis</tp:taxon-name>
 , the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa</tp:taxon-name>
+<tp:taxon-name>Callicarpa</tp:taxon-name>
 comprises a second species, 
-<!--template match = taxonomicName--><tp:taxon-name>C. chazaliei Versluys, 1899</tp:taxon-name>
+<tp:taxon-name>C. chazaliei Versluys, 1899</tp:taxon-name>
 , that is distinguished from the former through the following characters: 1) its cladia are comparatively more distant from one another; 2) its hydrocladial internodes possess a distal, unpaired nematotheca above the hydrotheca; 3) the ramuli of its phylactocarps are reportedly branched once instead of twice.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Callicarpa gracilis</tp:taxon-name>
+<tp:taxon-name>Callicarpa gracilis</tp:taxon-name>
 , although dealt with in comprehensive works such as 
-<!--template match = bibRefCitation--><xref rid="ref15594">Nutting (1900)</xref>
+<xref rid="ref15594">Nutting (1900)</xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref14128">Fraser (1944)</xref>
+<xref rid="ref14128">Fraser (1944)</xref>
 , was only known through the (unlabeled) 
 type
 material collected by the 
 Blake
 in 1880 who, according to 
-<!--template match = bibRefCitation--><xref rid="ref13809">Fewkes (1881: 127)</xref>
+<xref rid="ref13809">Fewkes (1881: 127)</xref>
 , sailed “off the eastern coast of the 
 United States
 , in the summer of 1880”. 
-<!--template match = bibRefCitation--><xref rid="ref15594">Nutting (1900: 85)</xref>
+<xref rid="ref15594">Nutting (1900: 85)</xref>
 , however, expressed the opinion that it “belongs doubtless to the West Indian fauna”, but this appears to be inexact in light of the data provided by the descriptor. The specimens dealt with in the present study represent the first record for 
 French Guiana
 .

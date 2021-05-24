@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>† Clathrocaspia knipowitschii aluschtensis ( Golikov &amp; Starobogatov, 1966 ) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1778-1802-">Fig. 13e</xref>
+<tp:nomenclature><tp:taxon-name>† Clathrocaspia knipowitschii aluschtensis ( Golikov &amp; Starobogatov, 1966 ) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-25--151-250-1778-1802-">Fig. 13e</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Caspia ) gmelini</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pyrgula ( Caspia ) gmelini</tp:taxon-name>
 [sic] 
 aluschtensis
 subsp. n.— 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref30686">Golikov &amp; Starobogatov 1966: 354</xref>
+<tp:nomenclature-citation>
+<xref rid="ref30686">Golikov &amp; Starobogatov 1966: 354</xref>
 </tp:nomenclature-citation>
 , fig. 1(8).
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
+<p>
 C.
 [
 aspia
 ] 
-<!--template match = taxonomicName--><tp:taxon-name>gmelini</tp:taxon-name>
+<tp:taxon-name>gmelini</tp:taxon-name>
 [sic] 
 aluschtensis
 (
-<!--template match = bibRefCitation--><xref rid="ref30686">Golikov et Starobogatov, 1966</xref>
+<xref rid="ref30686">Golikov et Starobogatov, 1966</xref>
 )— 
-<!--template match = bibRefCitation--><xref rid="ref30721">Golikov &amp; Starobogatov 1972: 100</xref>
+<xref rid="ref30721">Golikov &amp; Starobogatov 1972: 100</xref>
 , pl. 2, fig. 19. 
 C.
 [
@@ -43,106 +43,106 @@ Cl.
 athrocaspia
 ]) 
 
-<!--template match = taxonomicName--><tp:taxon-name>makarovi</tp:taxon-name>
+<tp:taxon-name>makarovi</tp:taxon-name>
 aluschtensis
 
 (Gol. et St.)— 
-<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov 1987: 32–33</xref>
+<xref rid="ref28750">Alexenko &amp; Starobogatov 1987: 32–33</xref>
 , 37.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4438</named-content>
+<named-content content-type="specimenCode">ZIN 4438</named-content>
 /1) and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">18 paratypes</named-content>
+<named-content content-type="specimenCount">18 paratypes</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4439</named-content>
+<named-content content-type="specimenCode">ZIN 4439</named-content>
 /2–4443/6). Collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S.A. Zernov</named-content>
+<named-content content-type="collectorName">S.A. Zernov</named-content>
 in 15/08– 15/09/1909, steamship “Meotida”.
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 locality.
 </named-content>
 Black Sea, offshore of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Crimea</named-content>
+<named-content content-type="collectingRegion">Crimea</named-content>
 near Alushta (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+<named-content content-type="tableCitation">Table 1</named-content>
 , locality 29). The material comes from phaseoline silts, which typically contain reworked Neoeuxinian (Late Pleistocene) shells (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">
+<named-content content-type="bibRefCitation">
 Wesselingh 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="emphasis">et al</named-content>
 . 2019
 </named-content>
 ). The preservation of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 material is typical for this kind of reworked material (pers. obs. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F.P.W.</named-content>
+<named-content content-type="collectorName">F.P.W.</named-content>
 06/2020). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Likely</named-content>
+<named-content content-type="collectorName">Likely</named-content>
 , the subspecies is an extinct 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Late Pleistocene</named-content>
+<named-content content-type="collectorName">Late Pleistocene</named-content>
 lineage of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">C. knipowitschii</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">C. knipowitschii</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other material.
 None.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Slender shell with five low convex whorls. Shell surface poorly preserved, only traces of reticulate sculpture are visible. Aperture ovoid, adjoined, leaving no umbilicus. Base steep.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 Originally this taxon was described as the Black Sea’s fossil subspecies of 
-<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia gmelinii</tp:taxon-name>
+<tp:taxon-name>Clathrocaspia gmelinii</tp:taxon-name>
 , but later 
-<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov (1987)</xref>
+<xref rid="ref28750">Alexenko &amp; Starobogatov (1987)</xref>
 considered it to belong as subspecies in 
-<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia makarovi</tp:taxon-name>
+<tp:taxon-name>Clathrocaspia makarovi</tp:taxon-name>
 , based on the co-occurrence of that species in the Azov-Black Sea Basin. 
-<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev (2006: 88)</xref>
+<xref rid="ref31309">Kantor &amp; Sysoev (2006: 88)</xref>
 went a step further and listed 
 aluschtensis
 as a synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>makarovi</tp:taxon-name>
+<tp:taxon-name>makarovi</tp:taxon-name>
 . The 
 holotype
 (
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1778-1802-">Fig. 13e</xref>
+<xref rid="fig-25--151-250-1778-1802-">Fig. 13e</xref>
 ), which is illustrated here for the first time, indeed shows a close resemblance to the type of 
-<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia makarovi</tp:taxon-name>
+<tp:taxon-name>Clathrocaspia makarovi</tp:taxon-name>
 (= 
-<!--template match = taxonomicName--><tp:taxon-name>knipowitschii</tp:taxon-name>
+<tp:taxon-name>knipowitschii</tp:taxon-name>
 ; 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1778-1802-">Fig. 13f</xref>
+<xref rid="fig-25--151-250-1778-1802-">Fig. 13f</xref>
 ) but differs by a slightly more slender shell and more flattened whorls. Given the differences in morphology and stratigraphy, we consider 
 aluschtensis
 as an extinct subspecies of 
-<!--template match = taxonomicName--><tp:taxon-name>C. knipowitschii</tp:taxon-name>
+<tp:taxon-name>C. knipowitschii</tp:taxon-name>
 that inhabited the Black Sea during the Holocene.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Known only from the 
 type

@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Lamprigera yunnana (Fairmaire, 1897)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Figs 94–102</xref>
+<tp:nomenclature><tp:taxon-name>Lamprigera yunnana (Fairmaire, 1897)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-23--151-264-1940-1964-">Figs 94–102</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprophorus yunnanus Fairmaire, 1897: 216</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Lamprophorus yunnanus Fairmaire, 1897: 216</tp:taxon-name>
 (
 Type
 locality: 
@@ -19,26 +19,26 @@ China
 : 
 Yunnan
 ). 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnanensis : McDermott, 1966: 77</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>Lamprigera yunnanensis : McDermott, 1966: 77</tp:taxon-name>
 </tp:nomenclature-citation>
 . 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnana : Lai, 1998: 207-215</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>Lamprigera yunnana : Lai, 1998: 207-215</tp:taxon-name>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref15465">Jeng, 2000: 313-319</xref>
+<tp:nomenclature-citation>
+<xref rid="ref15465">Jeng, 2000: 313-319</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
 (genome size): 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref15928">
+<tp:nomenclature-citation>
+<xref rid="ref15928">
 Liu 
 et al
 . 2017: 449-458
@@ -48,11 +48,11 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
 (luciferase): 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref15997">
+<tp:nomenclature-citation>
+<xref rid="ref15997">
 Liu 
 et al
 . 2019: 1186-1194
@@ -62,11 +62,11 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
 (mitogenome): 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref15168">
+<tp:nomenclature-citation>
+<xref rid="ref15168">
 Chen 
 et al
 . 2019: 140
@@ -76,13 +76,13 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Lamprigera yunnana</tp:taxon-name>
 (
 de novo
 genome): 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17260">
+<tp:nomenclature-citation>
+<xref rid="ref17260">
 Zhang 
 et al
 . 2020
@@ -93,55 +93,55 @@ et al
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Redescription of our male specimens
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Figs 94–96</xref>
+<xref rid="fig-23--151-264-1940-1964-">Figs 94–96</xref>
 ). Body oblong. BL: 
 17.4–18.1 mm
 ; BW: 
 6.9–7.6 mm
 ; BW/BL approximate 0.40–0.42. Coloration (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Figs 94–96</xref>
+<xref rid="fig-23--151-264-1940-1964-">Figs 94–96</xref>
 ): head black; prosternum, and mesosternum, dorsum with pentagonal pronotal disc black, other area of pronotum light brown (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Fig. 95</xref>
+<xref rid="fig-23--151-264-1940-1964-">Fig. 95</xref>
 ); scutellum dark brown; elytra black with light brown posterior edge; thorax brown; legs brown, tibiae and tarsi black; thoracic venters, and abdominal ventrites VI–VII light brown; tibiae, tarsi and ventrites I–V dark brown. 
 Head.
 Compound eyes very large, PW/GHW = 1.81– 1.72, kidney-shaped in lateral view and almost contiguous ventrally, interspace between eyes concave. Antennae clavate, short, only slightly longer than the diameter of a compound eye, a little exceeding the frontal edge of pronotum in transverse view, hirsute, first antennomere as long as second, second narrower, 3–10segments triangular, last antennomere bifurcate apically. Mandibles curved, slender and sharply pointed; maxillary palp 5-segmented, apical segment circular; labial pointed bi-segmented. 
 Thorax.
 Pronotum (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Fig. 96</xref>
+<xref rid="fig-23--151-264-1940-1964-">Fig. 96</xref>
 ) semi-elliptical (PW/PL = 1.46–1.71), with translucent edge, and triangular black mark on central disc, central carina obvious, central disc translucent and convex. Scutellum triangular. Elytra oblong, basal disc strongly convex, with four longitudinal costae. Legs slender. 
 Abdomen
 . Abdominal terga with posterior angles acutely projected posteriad, increasingly arcuate posteriad. Pygidium with circular lateral margins and posterior edge centrally depressed. Ventrite VII semi-circular.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Male genitalia
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Figs 97–99</xref>
+<xref rid="fig-23--151-264-1940-1964-">Figs 97–99</xref>
 ). Aedeagus sheath 
 1.6 mm
 long, covering dorsal side of male genitalia, with broadly rounded base. Aedeagus 
 1.75 mm
 long, well sclerotised. Basal piece oblong and smooth, shorter than parameres. Median lobe slender and slightly narrowed towards the apex in dorsal aspect, a little longer than parameres. Parameres hypertrophic, close to the medial lobe, distal portion sinuate, a small protuberance near their top.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Female
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Figs 100–101</xref>
+<xref rid="fig-23--151-264-1940-1964-">Figs 100–101</xref>
 ). Apterous form, compressed, like larva in shape, nota and terga undifferentiated. BL: 
 28–42 mm
 ; BW: 
 8–9.7 mm
 . Coloration: whole body pale yellow-brown, smooth surface, tergum edge saw-like. Light organs developed as a pair of C-shaped spots on ventrite VIII laterally. The end of the abdomen lifts when it glows (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Fig. 100</xref>
+<xref rid="fig-23--151-264-1940-1964-">Fig. 100</xref>
 )
 </p>
-<!--template match = paragraph--><p>
+<p>
 Last instar larva
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-264-1940-1964-">Fig. 102</xref>
+<xref rid="fig-23--151-264-1940-1964-">Fig. 102</xref>
 ). BL: 
 40 mm
 ; BW: 
@@ -149,223 +149,223 @@ Last instar larva
 . Coloration: body dorsum black with two sides yellow, yellow markings varies between individuals; smooth surface. Ventral tergum edge saw-like, pronotum big with two symmetrical plaques. Light organs developed as a pair of C-shaped spots on ventrite VIII laterally.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CHINA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">CHINA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 :
 </named-content>
 one 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 and three 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kunming Botanical Garden</named-content>
+<named-content content-type="collectingMunicipality">Kunming Botanical Garden</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Panlong District</named-content>
+<named-content content-type="location">Panlong District</named-content>
 , Kunming 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">City</named-content>
+<named-content content-type="location">City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10.XI.2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10.XI.2007</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Qing-Bai Hou</named-content>
+<named-content content-type="collectorName">Qing-Bai Hou</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ping-Xuan Dong</named-content>
+<named-content content-type="location">Ping-Xuan Dong</named-content>
 (Lg1);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Two</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<tp:material-citation>
+<named-content content-type="location">Two</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Southwest Forestry University</named-content>
+<named-content content-type="location">Southwest Forestry University</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Panlong District</named-content>
+<named-content content-type="location">Panlong District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming City</named-content>
+<named-content content-type="location">Kunming City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.IX.2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.IX.2013</named-content>
 </named-content>
 , leg. Wen-Na 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chen</named-content>
+<named-content content-type="location">Chen</named-content>
 (Lg3-M);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Two</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<tp:material-citation>
+<named-content content-type="location">Two</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 and two 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chujiazhuang</named-content>
+<named-content content-type="location">Chujiazhuang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dianyuan town</named-content>
+<named-content content-type="location">Dianyuan town</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming City</named-content>
+<named-content content-type="location">Kunming City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.X.2015</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17.X.2015</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Xue-Yan Li</named-content>
+<named-content content-type="collectorName">Xue-Yan Li</named-content>
 (Lg4);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">10 ♂</named-content>
 and five 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tianyifenjing Community</named-content>
+<named-content content-type="location">Tianyifenjing Community</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wuhua District</named-content>
+<named-content content-type="location">Wuhua District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming City</named-content>
+<named-content content-type="location">Kunming City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.IX.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24.IX.2016</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Xue-Yan Li</named-content>
+<named-content content-type="collectorName">Xue-Yan Li</named-content>
 (Lg21);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">15 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">15 ♂</named-content>
 and five 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yunnan Observatory</named-content>
+<named-content content-type="location">Yunnan Observatory</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wuhua District</named-content>
+<named-content content-type="location">Wuhua District</named-content>
 , Kunming 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">City</named-content>
+<named-content content-type="location">City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.IX.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24.IX.2016</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gui-Chun Liu</named-content>
+<named-content content-type="collectorName">Gui-Chun Liu</named-content>
 , Jing-Wu 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">He</named-content>
+<named-content content-type="location">He</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xue-Yan Li</named-content>
+<named-content content-type="location">Xue-Yan Li</named-content>
 (Lg22);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">10 ♂</named-content>
 and two 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming University of Science</named-content>
+<named-content content-type="location">Kunming University of Science</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Technology</named-content>
+<named-content content-type="location">Technology</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xuefu</named-content>
+<named-content content-type="location">Xuefu</named-content>
 road, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wuhua District</named-content>
+<named-content content-type="location">Wuhua District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming City</named-content>
+<named-content content-type="location">Kunming City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.IX.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28.IX.2016</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gui-Chun Liu</named-content>
+<named-content content-type="collectorName">Gui-Chun Liu</named-content>
 , Jing-Wu 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">He</named-content>
+<named-content content-type="location">He</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xue-Yan Li</named-content>
+<named-content content-type="location">Xue-Yan Li</named-content>
 (Lg23);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Five</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<tp:material-citation>
+<named-content content-type="location">Five</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 and two 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xishan Forest</named-content>
+<named-content content-type="location">
+<named-content content-type="location">Xishan Forest</named-content>
 Park
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xishan District</named-content>
+<named-content content-type="location">Xishan District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kunming City</named-content>
+<named-content content-type="location">Kunming City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5.X.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5.X.2016</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Zhi-Wei Dong</named-content>
+<named-content content-type="location">Zhi-Wei Dong</named-content>
 (Lg24);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Six</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<tp:material-citation>
+<named-content content-type="location">Six</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 and one 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Maanshan Village</named-content>
+<named-content content-type="location">Maanshan Village</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Weishan County</named-content>
+<named-content content-type="collectingCounty">Weishan County</named-content>
 , Dali Prefecture, 2014, leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Local</named-content>
+<named-content content-type="collectorName">Local</named-content>
 villagers (Lg8);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 one 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , Yinghuagu, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chengjiang County</named-content>
+<named-content content-type="location">Chengjiang County</named-content>
 , Yuxi City, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.IX.2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13.IX.2014</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Xiang-Rong Yuang</named-content>
+<named-content content-type="collectorName">Xiang-Rong Yuang</named-content>
 (Lg5-F);
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 One 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 and seven larvae, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Baiguhe Village</named-content>
+<named-content content-type="location">Baiguhe Village</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tongda Township</named-content>
+<named-content content-type="location">Tongda Township</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Huaping County</named-content>
+<named-content content-type="location">Huaping County</named-content>
 , Lijiang City, 7~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.IX.2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.IX.2007</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Guo-Jian Liao</named-content>
+<named-content content-type="collectorName">Guo-Jian Liao</named-content>
 (Lg13)
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hubei</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Hubei</named-content>
 </named-content>
 : two larvae, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wuhan City</named-content>
+<named-content content-type="location">Wuhan City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">VI.2004</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">VI.2004</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shu-Jun Tan</named-content>
+<named-content content-type="collectorName">Shu-Jun Tan</named-content>
 (Lg19)
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 . 
 China
@@ -376,35 +376,35 @@ Hubei
 (Wuhan).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . We examined all adult male populations in the 
-<!--template match = taxonomicName--><tp:taxon-name>L. yunnana</tp:taxon-name>
+<tp:taxon-name>L. yunnana</tp:taxon-name>
 clade (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1684-1708-">Fig. 3</xref>
+<xref rid="fig-7--151-250-1684-1708-">Fig. 3</xref>
 ) and found that they have identical characteristics of both external morphological and male genitalia. The pairwise distance of nucleotide sequences among these populations ranges from 0 to 0.062 (
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 ). Based on our observation on the Kunming populations, the species can be often observed near villages or even in the gardens of a city centre. Both alate males and larviform females can produce continuous green light from their two spot-like light organs of the ventral side of the 7 (female) or 8 (male) abdominal segment at night and even in a dimmed room during the daytime. Unlike most nocturnal fireflies, adult males can be attracted by both incandescent light and fluorescent light to fly into a lit room at night. Larva also produce green light. It is noted that the 
 type
 locality of both 
-<!--template match = taxonomicName--><tp:taxon-name>L. angustior</tp:taxon-name>
+<tp:taxon-name>L. angustior</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>L. yunnana</tp:taxon-name>
+<tp:taxon-name>L. yunnana</tp:taxon-name>
 is Yunnan, but the 
 type
 specimen of 
-<!--template match = taxonomicName--><tp:taxon-name>L. angustior</tp:taxon-name>
+<tp:taxon-name>L. angustior</tp:taxon-name>
 could not be located. Therefore, it is unclear whether it is a misidentification by Fairmaire or 
-<!--template match = taxonomicName--><tp:taxon-name>L. yunnana</tp:taxon-name>
+<tp:taxon-name>L. yunnana</tp:taxon-name>
 is in fact a junior synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>L. angustior ( Jeng et al . 2000 )</tp:taxon-name>
+<tp:taxon-name>L. angustior ( Jeng et al . 2000 )</tp:taxon-name>
 . Lai 
 et al
 also listed it in the catalogue of 
 Taiwan
 (
-<!--template match = bibRefCitation--><xref rid="ref15636">
+<xref rid="ref15636">
 Lai 
 et al
 . 1998

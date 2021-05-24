@@ -1,665 +1,665 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Stenobothrus hyalosuperficies Vorontsovskii<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Stenobothrus hyalosuperficies Vorontsovskii<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1867-1891-">Figs. 3</xref>
+<xref rid="fig-6--151-250-1867-1891-">Figs. 3</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1837-1861-">4</xref>
+<xref rid="fig-9--151-250-1837-1861-">4</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1929-1953-">6</xref>
+<xref rid="fig-11--151-250-1929-1953-">6</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">7</xref>
+<xref rid="fig-12--151-250-1849-1873-">7</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus eurasius hyalosuperficies Vorontsovskii, 1927: 7</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Stenobothrus eurasius hyalosuperficies Vorontsovskii, 1927: 7</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined:
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Russia</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Orenburg region</named-content>
+<named-content content-type="collectingRegion">Orenburg region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Orenburgsky dist.</named-content>
+<named-content content-type="location">Orenburgsky dist.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">3 km</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">3 km</named-content>
 NE of Pervomaisky
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">01.VII.2020</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">01.VII.2020</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">12 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♀</named-content>
+<named-content content-type="specimenCount">12 ♂</named-content>
+<named-content content-type="specimenCount">5 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Bykova</named-content>
+<named-content content-type="collectorName">A. Bykova</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Ermilov</named-content>
+<named-content content-type="collectorName">N. Ermilov</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tarasova</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Tarasova</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">11 ♂</named-content>
+<named-content content-type="specimenCount">11 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Orenburg region</named-content>
+<named-content content-type="collectingRegion">Orenburg region</named-content>
 , ab. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">30 km</named-content>
+<named-content content-type="location">
+<named-content content-type="quantity">30 km</named-content>
 S of Sorochinsk
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">01.VII.2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">01.VII.2018</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Orenburg region</named-content>
+<named-content content-type="collectingRegion">Orenburg region</named-content>
 , ab. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">30 km</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">30 km</named-content>
 E of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Orenburg</named-content>
+<named-content content-type="collectingRegion">Orenburg</named-content>
 </named-content>
 , surr. of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Studentzy</named-content>
+<named-content content-type="location">Studentzy</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.VII.2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14.VII.2012</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; L. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shestakov</named-content>
+<named-content content-type="collectorName">Shestakov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">01.VII.2020</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">01.VII.2020</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tarasova</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Tarasova</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">7 km</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">7 km</named-content>
 E of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Orenburg</named-content>
+<named-content content-type="collectingRegion">Orenburg</named-content>
 </named-content>
 , meadows near 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ural river</named-content>
+<named-content content-type="location">Ural river</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.VII.2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13.VII.2012</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; L. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shestakov</named-content>
+<named-content content-type="collectorName">Shestakov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Bashkortostan</named-content>
+<named-content content-type="collectingRegion">Bashkortostan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Zianchurinsky dist.</named-content>
+<named-content content-type="collectingMunicipality">Zianchurinsky dist.</named-content>
 , near 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yangi-Yul</named-content>
+<named-content content-type="location">Yangi-Yul</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">02.VII.2020</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">02.VII.2020</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tarasova</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Tarasova</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">11 ♂</named-content>
+<named-content content-type="specimenCount">11 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Saratov region</named-content>
+<named-content content-type="collectingRegion">Saratov region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ershovsky dist.</named-content>
+<named-content content-type="location">Ershovsky dist.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Uchebny</named-content>
+<named-content content-type="collectorName">Uchebny</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 29. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .2020 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">21 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">23 ♀</named-content>
+<named-content content-type="specimenCount">21 ♂</named-content>
+<named-content content-type="specimenCount">23 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Bykova</named-content>
+<named-content content-type="collectorName">A. Bykova</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Ermilov</named-content>
+<named-content content-type="collectorName">N. Ermilov</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tarasova</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Tarasova</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">11 ♂</named-content>
+<named-content content-type="specimenCount">11 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Saratov</named-content>
+<named-content content-type="collectingRegion">Saratov</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lysaja Gora</named-content>
+<named-content content-type="collectorName">Lysaja Gora</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 24. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .2008, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">4 ♂</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂</named-content>
+<named-content content-type="specimenCount">3 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Saratov region</named-content>
+<named-content content-type="collectingRegion">Saratov region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">10 km</named-content>
+<named-content content-type="location">
+<named-content content-type="quantity">10 km</named-content>
 E of Ozinki
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 26. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .1996, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Tishechkin</named-content>
+<named-content content-type="collectorName">D. Tishechkin</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; surr. of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Stalingrad</named-content>
+<named-content content-type="collectorName">Stalingrad</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Naidyonova Balka</named-content>
+<named-content content-type="collectorName">Naidyonova Balka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 05. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .1950, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Stalingrad region</named-content>
+<named-content content-type="collectingCounty">Stalingrad region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Arshan’</named-content>
+<named-content content-type="collectingMunicipality">Arshan’</named-content>
 -Gudzhur, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.VII.1950</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.VII.1950</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Stalingrad region</named-content>
+<named-content content-type="location">Stalingrad region</named-content>
 , Tingut forestry, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">05.VII.1950</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">05.VII.1950</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Astrakhan' region</named-content>
+<named-content content-type="collectingRegion">Astrakhan' region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">N of Arshan’</named-content>
+<named-content content-type="locationDeviation">N of Arshan’</named-content>
 -Zel’men’, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Astrakhan’ region</named-content>
+<named-content content-type="collectingRegion">Astrakhan’ region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">W of Elista</named-content>
+<named-content content-type="locationDeviation">W of Elista</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.VII.1950</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17.VII.1950</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); western slope of Ergeni, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">VII.1950</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">VII.1950</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); Checheno-Ingushetia, surr. Groznyi, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 20–29. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .1986, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♂</named-content>
+<named-content content-type="specimenCount">4 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Tishechkin</named-content>
+<named-content content-type="collectorName">D. Tishechkin</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Abkhazia</named-content>
+<named-content content-type="collectingMunicipality">Abkhazia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Azhary</named-content>
+<named-content content-type="location">Azhary</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.VIII.1950</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17.VIII.1950</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Stebaev</named-content>
+<named-content content-type="collectorName">I. Stebaev</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Kazakhstan</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Kazakhstan</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">western Kazakhstan</named-content>
+<named-content content-type="location">western Kazakhstan</named-content>
 , surr. of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kamenka</named-content>
+<named-content content-type="collectorName">Kamenka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 23. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .2018, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sevastianov</named-content>
+<named-content content-type="collectorName">Sevastianov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Semiretschje</named-content>
+<named-content content-type="collectingMunicipality">Semiretschje</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kyzyltschi</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.VII.1896</named-content>
+<named-content content-type="location">Kyzyltschi</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21.VII.1896</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">syntype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">syntype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">S. eurasius</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">S. eurasius</named-content>
 Zub.
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Semiretschje</named-content>
+<named-content content-type="collectingMunicipality">Semiretschje</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kehen</named-content>
+<named-content content-type="location">Kehen</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 30. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 .1896, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂</named-content>
+<named-content content-type="specimenCount">3 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Ingenitzky</named-content>
+<named-content content-type="collectorName">I. Ingenitzky</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Almaty region</named-content>
+<named-content content-type="collectingRegion">Almaty region</named-content>
 , ab. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">14 km</named-content>
+<named-content content-type="location">
+<named-content content-type="quantity">14 km</named-content>
 N of Kehen
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">09.VII.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">09.VII.2016</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♀</named-content>
+<named-content content-type="specimenCount">8 ♂</named-content>
+<named-content content-type="specimenCount">8 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Pushkar</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Pushkar</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♂♂</named-content>
+<named-content content-type="specimenCount">6 ♂♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Semiretschje</named-content>
+<named-content content-type="collectingMunicipality">Semiretschje</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Altyn-emel - Kopal</named-content>
+<named-content content-type="location">Altyn-emel - Kopal</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">14♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.VII.1896</named-content>
+<named-content content-type="specimenCount">14♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.VII.1896</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">2 ♀</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">syntypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">syntypes</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">S. eurasius</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">S. eurasius</named-content>
 Zub.
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Almaty region</named-content>
+<named-content content-type="collectingRegion">Almaty region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Altyn Emel</named-content>
+<named-content content-type="location">Altyn Emel</named-content>
 pass, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">03.VII.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">03.VII.2016</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">11 ♂</named-content>
+<named-content content-type="specimenCount">11 ♂</named-content>
 leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vedenina</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Vedenina</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<named-content content-type="collectionCode">T</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Pushkar</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Pushkar</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CV</named-content>
+<named-content content-type="collectionCode">CV</named-content>
 ), song recording in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Tztyrjypinsk region</named-content>
+<named-content content-type="collectingMunicipality">Tztyrjypinsk region</named-content>
 , surr. of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">lake Zaisan</named-content>
+<named-content content-type="location">lake Zaisan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23–28.VII.1935</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23–28.VII.1935</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♀</named-content>
+<named-content content-type="specimenCount">3 ♂</named-content>
+<named-content content-type="specimenCount">5 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sorokin</named-content>
+<named-content content-type="collectorName">Sorokin</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Kyrgyzstan</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Kyrgyzstan</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Semiretschje</named-content>
+<named-content content-type="collectorName">Semiretschje</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sasanovka</named-content>
+<named-content content-type="collectorName">Sasanovka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">N of lake Issyk-Kul’</named-content>
+<named-content content-type="location">N of lake Issyk-Kul’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<named-content content-type="date">
 19–21. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 </named-content>
 </tp:material-citation>
 .1896, 
 1 ♂
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">syntype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">syntype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">S. eurasius</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">S. eurasius</named-content>
 Zub.
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Ingenitzky</named-content>
+<named-content content-type="collectorName">I. Ingenitzky</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">E of lake Issyk-Kul’</named-content>
+<named-content content-type="locationDeviation">E of lake Issyk-Kul’</named-content>
 , ravine 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Turchen’-Aksu</named-content>
+<named-content content-type="collectingCounty">Turchen’-Aksu</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25.VII.1953</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25.VII.1953</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Panfilov</named-content>
+<named-content content-type="collectorName">D. Panfilov</named-content>
 ; lake Issyk- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kul’</named-content>
+<named-content content-type="collectingMunicipality">Kul’</named-content>
 , surr. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pokrovka</named-content>
+<named-content content-type="location">Pokrovka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25.VII.1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25.VII.1956</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Panfilov</named-content>
+<named-content content-type="collectorName">D. Panfilov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 ); ridge 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Terskei</named-content>
+<named-content content-type="location">Terskei</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chonkyzylsu</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22.VII.1953</named-content>
+<named-content content-type="location">Chonkyzylsu</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22.VII.1953</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Panfilov</named-content>
+<named-content content-type="collectorName">D. Panfilov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">China</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Tien Shan</named-content>
+<named-content content-type="collectingCounty">Tien Shan</named-content>
 , ridge 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ketmen’</named-content>
+<named-content content-type="collectingMunicipality">Ketmen’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">S of Ak-su</named-content>
+<named-content content-type="locationDeviation">S of Ak-su</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25.VII.1948</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25.VII.1948</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+<named-content content-type="specimenCount">2 ♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bei-Bienko</named-content>
+<named-content content-type="collectorName">Bei-Bienko</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Xinjiang</named-content>
+<named-content content-type="collectingRegion">Xinjiang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Barkulskaja</named-content>
+<named-content content-type="location">Barkulskaja</named-content>
 vpadina, 27.VII.54, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tsyplenkov</named-content>
+<named-content content-type="collectorName">Tsyplenkov</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+<named-content content-type="collectionCode">ZIN</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Since 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius hyalosuperficies Vor.</tp:taxon-name>
+<tp:taxon-name>S. eurasius hyalosuperficies Vor.</tp:taxon-name>
 has been described as 
-<!--template match = taxonomicName--><tp:taxon-name>variety without</tp:taxon-name>
+<tp:taxon-name>variety without</tp:taxon-name>
 morphological description, we provide a description of the species.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1867-1891-">Figs. 3C–D</xref>
+<xref rid="fig-6--151-250-1867-1891-">Figs. 3C–D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1929-1953-">6</xref>
+<xref rid="fig-11--151-250-1929-1953-">6</xref>
 ; 
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ). Ratio length of eye to length of subocular groove 3.4–4.2 in 
 ♂
 , 2.8–3.3 in 
@@ -690,10 +690,10 @@ Description
 . Lobes of penis in profile thinly conical, their tips slightly incurved in cranial direction, lophi of epiphallus different in shape, but these differences with numerous transitional variants. Ovipositor corresponds to that for the genus. The whole body brownish, taupe, buffy, head and thorax sometimes with a green tint, dark and light patterns typical for the genus; downiness weak.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 occurs in south-eastern part of European 
 Russia
 , very likely in the Caucasus, in 
@@ -706,100 +706,100 @@ Kyrgyzstan
 China
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Recognition
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1867-1891-">Fig. 3D–E</xref>
+<xref rid="fig-6--151-250-1867-1891-">Fig. 3D–E</xref>
 ). The hind wings in 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 are distinguishable from those in 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 , first, by the darker costal area, second, by the wider medial area than in 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 , and third, by almost fused cubital veins in contrast to separate cubital veins in 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Calling song
 (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1837-1861-">Fig. 4D–E</xref>
+<xref rid="fig-9--151-250-1837-1861-">Fig. 4D–E</xref>
 ). The calling song of 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 is generated by the wing clapping. The echemes are irregular, of variable duration in the range of 1 to 5 s. The wing beats are produced at a rate of 60–100/s.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Courtship song
 (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7</xref>
 , 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 ). The courtship song of 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 usually starts with generating of single or double pulses repeated at the rate of 2–4/s (element 1). These pulses are produced by both up and down movements of the hind legs (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7C</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7C</xref>
 ), whereas in 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 , the pulses are only produced by the down movements. In 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 , the element 1 can continue for 1.5 min, sometimes transforming to the element 1' (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7F</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7F</xref>
 ). The latter element includes series of pulses that are similar to the pulses of the element 1 but repeated at the faster rate of 1.3–2.8/s. The element 1 or 1' can be abruptly followed by the element 3 (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7D</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7D</xref>
 ). A male abruptly lifts 
 t
 he hind legs almost vertically and produces a stroke with the hind tibiae. An angle between femur and tibia usually is larger than 100°. At the same time, the male produces a backward movement with antennae. Then the tibiae are pressed to the femora, the femora are slightly lifted and the stroke with the tibiae is repeated (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7G</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7G</xref>
 ). These movements result to generation of the noisy syllables repeated at the rate of 2–2.5/s. Every noisy syllable can contain
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-9--151-250-1837-1861-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-9--151-250-1837-1861-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
 Oscillograms of the calling songs of 
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus eurasius Zub.</tp:taxon-name>
+<tp:taxon-name>Stenobothrus eurasius Zub.</tp:taxon-name>
 (A) from Pavlodar region and 
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>Stenobothrus hyalosuperficies</tp:taxon-name>
 (D) from West-Kazakhstan region. Song recordings are presented at three different speeds (faster oscillograms of the indicated parts of the songs shown in B, C, and E). In all oscillograms the two upper lines are recordings of hind leg movements and the lower line is the sound recording. Drawings under oscillograms A and D demonstrate the leg and wing positions during singing of the corresponding species. Different song parameters indicated with brackets and arrows.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4749949/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--151-250-1857-1881-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--151-250-1857-1881-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
 Oscillograms of the courtship songs of three males of 
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus eurasius</tp:taxon-name>
+<tp:taxon-name>Stenobothrus eurasius</tp:taxon-name>
 from Pavlodar region (A), Kherson region (B), and Altai Republic (C). Song recordings are presented at two different speeds (faster oscillograms of the indicated parts of the songs shown in D–H). D—element 1, E and H—element 2, F and G—elements 2 and 3. In all oscillograms the two upper lines are recordings of hind leg movements and the lower line is the sound recording. Different song parameters indicated with brackets.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4749951/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1929-1953-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--151-250-1929-1953-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 6.
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus hyalosuperficies Vor.</tp:taxon-name>
+<tp:taxon-name>Stenobothrus hyalosuperficies Vor.</tp:taxon-name>
 Male from Pervomaisky, Orenburg region, A—dorsal view; male from Kehen, Almaty region, B—lateral view,C—dorsal view; female from Uchebny, Saratov region, D—lateral view, E—dorsal view, F— lateral view.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4749953/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-12--151-250-1849-1873-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-12--151-250-1849-1873-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 7.
 Oscillograms of the courtship songs of two males of 
-<!--template match = taxonomicName--><tp:taxon-name>Stenobothrus hyalosuperficies Vor.</tp:taxon-name>
+<tp:taxon-name>Stenobothrus hyalosuperficies Vor.</tp:taxon-name>
 from Orenburg region (A), and Almaty region (B). Song recordings are presented at three different speeds (faster oscillograms of the indicated parts of the songs shown in C–G). C—element 1, D—element 3, E—elements 3 and 4, F—elements 3 and 1'. In all oscillograms the two upper lines are recordings of hind leg movements and the lower line is the sound recording. Different song parameters indicated with brackets. Drawings on oscillogram G demonstrate successive positions of tibiae and antennae during element 3.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4749955/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 one loud pulse that is usually produced during the stroke with the tibiae. At the end of the element 3, the legs can be moved down in a stepwise manner similarly to that how it is produced by 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 in element 3 (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7E</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7E</xref>
 ). As a result, the legs generate one syllable of pulses similar to hemi-syllable B' of 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 . The element 3 can be followed by the element 4 that is identical to the calling song and generated by wing beats (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1849-1873-">Fig. 7E</xref>
+<xref rid="fig-12--151-250-1849-1873-">Fig. 7E</xref>
 ). The duration of the element 4 varies from 100 ms to 4 s, the pulses are repeated at the rate of 70–90/s. It should be noted that in 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 , various elements are commonly produced in a random order, in contrast to 
-<!--template match = taxonomicName--><tp:taxon-name>S. eurasius</tp:taxon-name>
+<tp:taxon-name>S. eurasius</tp:taxon-name>
 . A copulation attempt in 
-<!--template match = taxonomicName--><tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
+<tp:taxon-name>S. hyalosuperficies</tp:taxon-name>
 , however, usually occurs after the wing clapping.
 </p>
 </tp:treatment-sec>

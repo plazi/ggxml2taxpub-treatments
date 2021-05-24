@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Limnophora exigua (Wiedemann)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Limnophora exigua (Wiedemann)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1944-1968-">Figs 2A‒C</xref>
+<xref rid="fig-4--151-250-1944-1968-">Figs 2A‒C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-21--151-250-1973-1997-">12A, B</xref>
+<xref rid="fig-21--151-250-1973-1997-">12A, B</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-250-1944-1968-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-250-1944-1968-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora exigua (Wiedemann)</tp:taxon-name>
+<tp:taxon-name>Limnophora exigua (Wiedemann)</tp:taxon-name>
 . Male. Hypopygium, caudal (
 A
 ) and lateral (
@@ -25,13 +25,13 @@ C
 ). Same scale.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671812/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora plumiseta Stein</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Limnophora plumiseta Stein</tp:taxon-name>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17694">Emden 1958: 6</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17694">Emden 1958: 6</xref>
 </tp:nomenclature-citation>
 (
 Cape Verde
@@ -39,18 +39,18 @@ Is.).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora exigua (Wiedemann)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Limnophora exigua (Wiedemann)</tp:taxon-name>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref18296">Pont 1980: 748</xref>
+<tp:nomenclature-citation>
+<xref rid="ref18296">Pont 1980: 748</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
 [
 NHMD
@@ -63,15 +63,15 @@ Tanzania
 (Afrotropical).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Very small, wing length 
 2.7‒3.4mm
 . 
 Male:
 See 
-<!--template match = bibRefCitation--><xref rid="ref17496">Couri &amp; Pont (2020: 7</xref>
+<xref rid="ref17496">Couri &amp; Pont (2020: 7</xref>
 , figs 41‒43) for habitus im- ages. Arista short-plumose, longest branches 0.5‒0.75 times as wide as postpedicel. Frons broad, subshining black on large frontal triangle and upper part of fronto-orbital plates, silvery pruinose on lower part of fronto-orbital plates and on parafacial plates. Fronto-orbital plate with 2 orbital and 4 frontal setae. Frons and facial margin equally produced. Mesonotum grey pruinose with broad band behind the suture and all scutellum brownish black. Dorsocentral setae 4 unequal behind the suture; acrostichal field with setulae only, arranged in 4 presutural rows and up to 8 rows behind the suture. Mid femur with 2 subapical 
 pd
 setae, without 
@@ -83,18 +83,18 @@ av
 setae on subapical part; 
 pv
 setae absent. Male tergite VI fused together with prehypopygeal sclerite. Sternite I bare. Sternite V and hypopygium as in 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1944-1968-">Figs 2A‒C</xref>
+<xref rid="fig-4--151-250-1944-1968-">Figs 2A‒C</xref>
 . 
 Female:
 Very similar to the male. Ovipositor (
-<!--template match = figureCitation--><xref rid="fig-21--151-250-1973-1997-">Figs 12A, B</xref>
+<xref rid="fig-21--151-250-1973-1997-">Figs 12A, B</xref>
 ) short and thick; tergite VIII with a pair of dorsal hind marginal setulae. See 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 for more ovipositor characters.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Cape Verde
 Islands: Santo Antão, 

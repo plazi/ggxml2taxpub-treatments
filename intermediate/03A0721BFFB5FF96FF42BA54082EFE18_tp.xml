@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs 5–8</xref>
+<xref rid="fig-">Figs 5–8</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-264-1688-1712-">15–19</xref>
+<xref rid="fig-6--151-264-1688-1712-">15–19</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-264-1372-1396-">22, 23</xref>
+<xref rid="fig-7--151-264-1372-1396-">22, 23</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007: 24</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007: 24</tp:taxon-name>
 </tp:nomenclature-citation>
 ; figs 1–5 (male genitalia), 6 (female genitala); pl. 2: 7–9 (moths); TL: 
 Russia
@@ -26,142 +26,142 @@ Russia
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Russia</named-content>
 ,
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amurskaya oblast</named-content>
+<named-content content-type="location">Amurskaya oblast</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Zeyskii District</named-content>
+<named-content content-type="location">Zeyskii District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Zeyskii State Nature Reserve</named-content>
+<named-content content-type="location">Zeyskii State Nature Reserve</named-content>
 , kordon [blockhouse] 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tyoplyi</named-content>
+<named-content content-type="location">Tyoplyi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">53°51’15.9”N</named-content>
+<named-content content-type="geoCoordinate">53°51’15.9”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°21’34.0”E</named-content>
+<named-content content-type="geoCoordinate">127°21’34.0”E</named-content>
 , on light, 17.06.201 7, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A.A. Kuzmin</named-content>
+<named-content content-type="collectorName">A.A. Kuzmin</named-content>
 legit—3♂, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 ditto, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Skovorodinskii District</named-content>
+<named-content content-type="collectingMunicipality">Skovorodinskii District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5 km</named-content>
+<named-content content-type="quantity">5 km</named-content>
 south of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Urusha town</named-content>
+<named-content content-type="collectingCounty">Urusha town</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">53°59’56”N</named-content>
+<named-content content-type="geoCoordinate">53°59’56”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">122°53’08”E</named-content>
+<named-content content-type="geoCoordinate">122°53’08”E</named-content>
 , 22.06.201 9, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A.A. Kuzmin</named-content>
+<named-content content-type="collectorName">A.A. Kuzmin</named-content>
 legit—1♂ [new locality]
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Genetic data
 (
-<!--template match = tableCitation--><xref>Tab. 1</xref>
+<xref>Tab. 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1269-1293-">Fig. 24</xref>
+<xref rid="fig-8--151-250-1269-1293-">Fig. 24</xref>
 ). Barcode of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+<tp:taxon-name>Z. tukuringra</tp:taxon-name>
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>Z. koreana</tp:taxon-name>
+<tp:taxon-name>Z. koreana</tp:taxon-name>
 on 1.9–2.4% p-distance and from 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga</tp:taxon-name>
+<tp:taxon-name>Zaranga</tp:taxon-name>
 sp. from 
 Yunnan
 on 5.3–5.7% p-distance. Intraspecific barcode ranges up to 0.5% (three samples from two distant localities).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--151-264-1688-1712-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--151-264-1688-1712-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 11–19.
 Male genitala of 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga</tp:taxon-name>
+<tp:taxon-name>Zaranga</tp:taxon-name>
 . 11–14— 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga koreana</tp:taxon-name>
+<tp:taxon-name>Zaranga koreana</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 : 11, 12—Jirisan, paratype; 13, 14—Hallasan, paratype Scale bar 5mm. 15–19— 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra , Zeyskii Reserve.</tp:taxon-name>
+<tp:taxon-name>Zaranga tukuringra , Zeyskii Reserve.</tp:taxon-name>
 11, 13, 15—the genital segment, ventral view, phallus removed; 12, 14, 18—phallus, ventral view, vesica everted; 16—uncus and socii, lateral view; 17—left valva, medial view, with medial harpe turned dorsad. Scale bar 1 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529754/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Russia
 (central and western Amurskaya oblast); probably extreme NE 
 China
 (Bolshoi Khingan Range; see Discussion below) (
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1130-1154-">Fig. 25</xref>
+<xref rid="fig-10--151-250-1130-1154-">Fig. 25</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Larval hostplants.
 Leaves of 
-<!--template match = taxonomicName--><tp:taxon-name>Cornus alba</tp:taxon-name>
+<tp:taxon-name>Cornus alba</tp:taxon-name>
 L. (
-<!--template match = taxonomicName--><tp:taxon-name>Cornaceae</tp:taxon-name>
+<tp:taxon-name>Cornaceae</tp:taxon-name>
 ) in Zeyskii Nature Reserve (
-<!--template match = bibRefCitation--><xref rid="ref7934">
+<xref rid="ref7934">
 Dubatolov 
 et al
 . 2013
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Note
 . The original description of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+<tp:taxon-name>Z. tukuringra</tp:taxon-name>
 by 
-<!--template match = bibRefCitation--><xref rid="ref9100">Streltzov &amp; Yakovlev (2007)</xref>
+<xref rid="ref9100">Streltzov &amp; Yakovlev (2007)</xref>
 is quite comprehensive, but small corrections need to be made. In the illustration of the wing venation (fig. 1, obviously male), on the forewing veins, R 
 1
 –Rs2 and the posterior portion of the discal vein are lacking, and on the hindwing veins, R 
 1
 , 1A+2A and 3A are also lacking, but the plica on the place of the reduced CuP is drawn as a vein. Male and female wing venation of 
 
-<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+<tp:taxon-name>Z. tukuringra</tp:taxon-name>
 ,
 
 see 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1464-1488-">
+<xref rid="fig-5--151-264-1464-1488-">
 Figs 9 &amp; 
 10
 </xref>
 in the present paper. The valva is flipped 180 degrees (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1576-1600-">
+<xref rid="fig-4--151-264-1576-1600-">
 Fig. 
 5
 </xref>
 in the cited article). Apophyses posteriores are missed on the drawing of the female genitalia (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1576-1600-">Fig. 6</xref>
+<xref rid="fig-4--151-264-1576-1600-">Fig. 6</xref>
 , ibid) and in the text. In the text, latero-anterior extensions of lamella postvaginalis are misidentified as the apophyses anteriores. The signum is considered to be lacking, but present, as in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. koreana</tp:taxon-name>
+<tp:taxon-name>Z. koreana</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa</tp:taxon-name>
 . Photos of the male and female genitalia of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+<tp:taxon-name>Z. tukuringra</tp:taxon-name>
 see 
-<!--template match = figureCitation--><xref rid="fig-6--151-264-1688-1712-">Figs 15–19</xref>
+<xref rid="fig-6--151-264-1688-1712-">Figs 15–19</xref>
 and 
 
-<!--template match = figureCitation--><xref rid="fig-7--151-264-1372-1396-">22–23</xref>
+<xref rid="fig-7--151-264-1372-1396-">22–23</xref>
 in
 
 the present paper.

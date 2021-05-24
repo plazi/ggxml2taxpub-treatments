@@ -1,635 +1,635 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Platevindex martensi ( Plate, 1893 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 54–58</xref>
+<tp:nomenclature><tp:taxon-name>Platevindex martensi ( Plate, 1893 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figs 54–58</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis martensi Plate, 1893: 196–197</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Oncis martensi Plate, 1893: 196–197</tp:taxon-name>
 , pl. 7, figs 7, 23a, pl. 10, fig. 50.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis inspectabilis Plate, 1893: 198–199</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Oncis inspectabilis Plate, 1893: 198–199</tp:taxon-name>
 . 
 Syn. nov.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Onchidium coriaceum</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Onchidium coriaceum</tp:taxon-name>
 – 
 
-<!--treatment-citation--><tp:nomenclature-citation>Semper 1880: 271–273</tp:nomenclature-citation>
+<tp:nomenclature-citation>Semper 1880: 271–273</tp:nomenclature-citation>
 
 (in part only) [non 
-<!--template match = taxonomicName--><tp:taxon-name>Onchidium coriaceum Semper, 1880</tp:taxon-name>
+<tp:taxon-name>Onchidium coriaceum Semper, 1880</tp:taxon-name>
 ].
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis martensi</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Oncis martensi</tp:taxon-name>
 – 
 
-<!--treatment-citation--><tp:nomenclature-citation>Stantschinsky 1907: 395</tp:nomenclature-citation>
+<tp:nomenclature-citation>Stantschinsky 1907: 395</tp:nomenclature-citation>
 
 . — 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hoffmann 1928: 89</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hoffmann 1928: 89</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
 – 
 
-<!--treatment-citation--><tp:nomenclature-citation>Stantschinsky 1907: 395</tp:nomenclature-citation>
+<tp:nomenclature-citation>Stantschinsky 1907: 395</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Platevindex martensi</tp:taxon-name>
 – 
 
-<!--treatment-citation--><tp:nomenclature-citation>Dayrat 2009: 5</tp:nomenclature-citation>
+<tp:nomenclature-citation>Dayrat 2009: 5</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex mortoni</tp:taxon-name>
+<p>
+<tp:taxon-name>Platevindex mortoni</tp:taxon-name>
 – 
-<!--template match = bibRefCitation--><xref rid="ref75598">
+<xref rid="ref75598">
 Zhang 
 et al
 . 2017
 </xref>
 : fig. 1e (non 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex mortoni Britton, 1984</tp:taxon-name>
+<tp:taxon-name>Platevindex mortoni Britton, 1984</tp:taxon-name>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<title>Material examined</title>
+<p>
 
 Holotype
 
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">THAILAND</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">THAILAND</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 (44/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">41 mm</named-content>
+<named-content content-type="quantity">41 mm</named-content>
 ) by monotypy; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Petshaburi</named-content>
+<named-content content-type="collectingMunicipality">Petshaburi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Gulf of Siam</named-content>
+<named-content content-type="location">Gulf of Siam</named-content>
 [Phetchaburi, Gulf of Thailand]; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 8454</named-content>
+<named-content content-type="specimenCode">ZMB/Moll 8454</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
+<tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
 
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">MYANMAR</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">MYANMAR</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 (28/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">23 mm</named-content>
+<named-content content-type="quantity">23 mm</named-content>
 ) by monotypy; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lampee</named-content>
+<named-content content-type="location">Lampee</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Birma</named-content>
+<named-content content-type="location">Birma</named-content>
 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lampi Island</named-content>
+<named-content content-type="location">Lampi Island</named-content>
 , Mergui Archipelago, southern Myanmar, Andaman Sea]; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Anderson</named-content>
+<named-content content-type="collectorName">Anderson</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 38934</named-content>
+<named-content content-type="specimenCode">ZMB/Moll 38934</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Notes on 
 type
 material
 
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis martensi</tp:taxon-name>
+<p>
+<tp:taxon-name>Oncis martensi</tp:taxon-name>
 . The 
 holotype
 was previously dissected. Internal organs are mostly missing; only a few pieces of the female (posterior) reproductive system and digestive system remain. The penial complex and buccal mass are missing.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
+<p>
+<tp:taxon-name>Oncis inspectabilis</tp:taxon-name>
 . The 
 holotype
 was previously dissected. Internal organs are mostly missing. The buccal mass remains, as well as pieces of the deferent duct, oviduct and spermatheca.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other material
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">AUSTRALIA</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">AUSTRALIA</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Northern Territory</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Northern Territory</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 specs</named-content>
+<named-content content-type="specimenCount">4 specs</named-content>
 (39/26 [1711], 25/20 [1709], 25/20 [1710] and 13/12 [1707] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Darwin</named-content>
+<named-content content-type="location">Darwin</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Elizabeth Road</named-content>
+<named-content content-type="location">Elizabeth Road</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12°32.893′ S</named-content>
+<named-content content-type="geoCoordinate">12°32.893′ S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">130°57.642′ E</named-content>
+<named-content content-type="geoCoordinate">130°57.642′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 Aug. 2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20 Aug. 2012</named-content>
 </named-content>
 ; station 70; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Ceriops</named-content>
+<named-content content-type="collectedFrom">
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Ceriops</named-content>
 </named-content>
 and old logs in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 forest
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NTM P.57611</named-content>
+<named-content content-type="specimenCode">NTM P.57611</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">BRUNEI</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">BRUNEI</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (43/29 [1040] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">near Batu Marang</named-content>
+<named-content content-type="locationDeviation">near Batu Marang</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">04°59.131′ N</named-content>
+<named-content content-type="geoCoordinate">04°59.131′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">115°01.820′ E</named-content>
+<named-content content-type="geoCoordinate">115°01.820′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29 Jul. 2011</named-content>
 </named-content>
 ; station 34; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 old mangrove with tall 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 trees with high roots and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Thalassina</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Thalassina</named-content>
 </named-content>
 mounds
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BDMNH</named-content>
+<named-content content-type="collectionCode">BDMNH</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">INDONESIA</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sumatra</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Sumatra</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (52/19 [1767] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Pulau Sinaboi</named-content>
+<named-content content-type="collectingMunicipality">Pulau Sinaboi</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">02°18.145′ N</named-content>
+<named-content content-type="geoCoordinate">02°18.145′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°59.309′ E</named-content>
+<named-content content-type="geoCoordinate">100°59.309′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8 Oct. 2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8 Oct. 2012</named-content>
 </named-content>
 ; station 73; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 some small 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 near shore
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00107</named-content>
+<named-content content-type="specimenCode">UMIZ 00107</named-content>
 </tp:material-citation>
 •
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (22/13 [1776] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dumai</named-content>
+<named-content content-type="location">Dumai</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°42.838′ N</named-content>
+<named-content content-type="geoCoordinate">01°42.838′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">101°23.286′ E</named-content>
+<named-content content-type="geoCoordinate">101°23.286′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 Oct. 2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9 Oct. 2012</named-content>
 </named-content>
 ; station 74; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">mangrove just behind abandoned buildings, high intertidal</named-content>
+<named-content content-type="collectedFrom">mangrove just behind abandoned buildings, high intertidal</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00108</named-content>
+<named-content content-type="specimenCode">UMIZ 00108</named-content>
 </tp:material-citation>
 •
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (34/19 [1748] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sungai Lubuk</named-content>
+<named-content content-type="collectingMunicipality">Sungai Lubuk</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°40.174′ S</named-content>
+<named-content content-type="geoCoordinate">05°40.174′ S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">105°34.097′ E</named-content>
+<named-content content-type="geoCoordinate">105°34.097′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Oct. 2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Oct. 2012</named-content>
 </named-content>
 ; station 79; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 mounds of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Thalassina</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Thalassina</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 , dead logs in the high intertidal
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00109</named-content>
+<named-content content-type="specimenCode">UMIZ 00109</named-content>
 </tp:material-citation>
 . – 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Sulawesi</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specs</named-content>
+<named-content content-type="specimenCount">2 specs</named-content>
 (36/23 [2334] and 35/23 [2333] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Makassar City</named-content>
+<named-content content-type="collectingMunicipality">Makassar City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tallo</named-content>
+<named-content content-type="location">Tallo</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°06.117′ S</named-content>
+<named-content content-type="geoCoordinate">05°06.117′ S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119°26.777′ E</named-content>
+<named-content content-type="geoCoordinate">119°26.777′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 Mar. 2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 Mar. 2013</named-content>
 </named-content>
 ; station 92; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">small mangrove with outhouse in center</named-content>
+<named-content content-type="collectedFrom">small mangrove with outhouse in center</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00111</named-content>
+<named-content content-type="specimenCode">UMIZ 00111</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">MALAYSIA</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">MALAYSIA</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Peninsular Malaysia</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Peninsular Malaysia</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (30/18 [964] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Nibong Tebal</named-content>
+<named-content content-type="collectingMunicipality">Nibong Tebal</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pulau Burung</named-content>
+<named-content content-type="location">Pulau Burung</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°12.488′ N</named-content>
+<named-content content-type="geoCoordinate">05°12.488′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°25.564′ E</named-content>
+<named-content content-type="geoCoordinate">100°25.564′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11 Jul. 2011</named-content>
 </named-content>
 ; station 17; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="collectedFrom">
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 mangrove with a few 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Sonneratia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Sonneratia</named-content>
 </named-content>
 and soft mud
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00029</named-content>
+<named-content content-type="specimenCode">USMMC 00029</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (31/30 [934] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Balok</named-content>
+<named-content content-type="collectingMunicipality">Balok</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">03°53.219′ N</named-content>
+<named-content content-type="geoCoordinate">03°53.219′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">103°21.978′ E</named-content>
+<named-content content-type="geoCoordinate">103°21.978′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Jul. 2011</named-content>
 </named-content>
 ; station 19; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="collectedFrom">
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 mangrove with some 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 and mostly hard mud
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00030</named-content>
+<named-content content-type="specimenCode">USMMC 00030</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specs</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 specs</named-content>
 (37/23 [no DNA] and 36/18 [no DNA] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Merbok</named-content>
+<named-content content-type="location">Merbok</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°39.035′ N</named-content>
+<named-content content-type="geoCoordinate">05°39.035′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°25.782′ E</named-content>
+<named-content content-type="geoCoordinate">100°25.782′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Jul. 2011</named-content>
 </named-content>
 ; station 21; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 deep 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 forest with old, tall trees, hard mud, many small creeks and dead logs
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00031</named-content>
+<named-content content-type="specimenCode">USMMC 00031</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (39/21 [933] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Merbok</named-content>
+<named-content content-type="location">Merbok</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°40.143′ N</named-content>
+<named-content content-type="geoCoordinate">05°40.143′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°26.178′ E</named-content>
+<named-content content-type="geoCoordinate">100°26.178′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Jul. 2011</named-content>
 </named-content>
 ; station 22; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 mangrove of mostly 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 , some 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 with soft mud near creek
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00077</named-content>
+<named-content content-type="specimenCode">USMMC 00077</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (37/15 [no DNA] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Langkawi</named-content>
+<named-content content-type="location">Langkawi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Tanjung Rhu</named-content>
+<named-content content-type="collectingMunicipality">Tanjung Rhu</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">06°25.317′ N</named-content>
+<named-content content-type="geoCoordinate">06°25.317′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">99°50.106′ E</named-content>
+<named-content content-type="geoCoordinate">99°50.106′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Jul. 2011</named-content>
 </named-content>
 ; station 26; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 open forest of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Sonneratia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Sonneratia</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Bruguiera</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Bruguiera</named-content>
 </named-content>
 with high mounds of mud around some trees
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00032</named-content>
+<named-content content-type="specimenCode">USMMC 00032</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (32/24 [930] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kuala Sepatang</named-content>
+<named-content content-type="collectingMunicipality">Kuala Sepatang</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">04°50.434′ N</named-content>
+<named-content content-type="geoCoordinate">04°50.434′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°38.176′ E</named-content>
+<named-content content-type="geoCoordinate">100°38.176′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Jul. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Jul. 2011</named-content>
 </named-content>
 ; station 27; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 old 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Acrostichum</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Acrostichum</named-content>
 </named-content>
 ferns very high in tidal zone, near boardwalk
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USMMC 00033</named-content>
+<named-content content-type="specimenCode">USMMC 00033</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">PHILIPPINES</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">PHILIPPINES</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Bohol</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Bohol</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specs</named-content>
+<named-content content-type="specimenCount">2 specs</named-content>
 (31/16 [3342] and 14/8 [3336] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mabini</named-content>
+<named-content content-type="collectingMunicipality">Mabini</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">09°51.532′ N</named-content>
+<named-content content-type="geoCoordinate">09°51.532′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">124°31.685′ E</named-content>
+<named-content content-type="geoCoordinate">124°31.685′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Jul. 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17 Jul. 2014</named-content>
 </named-content>
 ; station 194; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 narrow 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 mangrove by the sea with fish ponds built on landward side, many dead logs
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">PNM 041250</named-content>
+<named-content content-type="specimenCode">PNM 041250</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 specs</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">4 specs</named-content>
 (51/27 [3365], 34/22 [3364], 33/14 [3362] and 24/11 [3358] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mabini</named-content>
+<named-content content-type="collectingMunicipality">Mabini</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">09°51.402′ N</named-content>
+<named-content content-type="geoCoordinate">09°51.402′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">124°30.982′ E</named-content>
+<named-content content-type="geoCoordinate">124°30.982′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Jul. 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Jul. 2014</named-content>
 </named-content>
 ; station 195; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 narrow 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 mangrove by the sea with fish ponds built on landward side, cement ditches between the mangrove patches and the ponds
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">PNM 041251</named-content>
+<named-content content-type="specimenCode">PNM 041251</named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">SINGAPORE</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">SINGAPORE</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+<named-content content-type="specimenCount">1 spec.</named-content>
 (31/20 [988] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pasir Ris Park</named-content>
+<named-content content-type="location">Pasir Ris Park</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°22.840′ N</named-content>
+<named-content content-type="geoCoordinate">01°22.840′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">103°57.224′ E</named-content>
+<named-content content-type="geoCoordinate">103°57.224′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Mar. 2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 Mar. 2010</named-content>
 </named-content>
 ; station 5; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">mud and dead logs in upper tidal</named-content>
+<named-content content-type="collectedFrom">mud and dead logs in upper tidal</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZRC.MOL.10480</named-content>
+<named-content content-type="specimenCode">ZRC.MOL.10480</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 specs</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 specs</named-content>
 (40/22 [no DNA], 37/20 [no DNA] and 35/21 [987] mm); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lim Chu Kang</named-content>
+<named-content content-type="collectingMunicipality">Lim Chu Kang</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°26.785′ N</named-content>
+<named-content content-type="geoCoordinate">01°26.785′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">103°42.531′ E</named-content>
+<named-content content-type="geoCoordinate">103°42.531′ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 Apr. 2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 Apr. 2010</named-content>
 </named-content>
 ; station 9; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<named-content content-type="collectedFrom">
 piece of wood in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Avicennia</named-content>
 </named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhizophora</named-content>
 </named-content>
 mangrove
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZRC.MOL.10481</named-content>
+<named-content content-type="specimenCode">ZRC.MOL.10481</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<title>Description</title>
+<p>
 Color and morphology of live animals
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs 54–55A</xref>
+<xref rid="fig-">Figs 54–55A</xref>
 )
 </p>
-<!--template match = paragraph--><p>
+<p>
 Live animals are not usually covered with mud, and their natural color is visible without washing. The dorsal notum is brown to dark brown or black, often mottled with two colors. The notum bears small elongated (longitudinal) ridges. The ventral color varies but the hyponotum is yellow, beige or yellow-orange, with distinct darker spots of variable size (small to large) and color (faintly tan to black). When those spots are large and dark enough, the hyponotum appears nearly black (which was most common in the Strait of 
 Malacca
 ). The hyponotum of juvenile specimens can be marked by fewer spots. In 
@@ -642,10 +642,10 @@ Brunei
 2 mm
 from the notum edge).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-97--189-232-1749-1775-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-97--189-232-1749-1775-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 54.
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
 , live animals. 
 A
 . Dorsal view, 34 mm long [1748], Indonesia, Sumatra (UMIZ 00109). 
@@ -671,10 +671,10 @@ K
 . Ventral view, 30 mm long, [964], Peninsular Malaysia, Penang (USMMC 00029).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594465/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-98--189-232-1644-1670-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-98--189-232-1644-1670-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 55
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
 , external morphology, digestive and reproductive systems. 
 A
 . Dorsal notum, entire animal, 
@@ -716,28 +716,28 @@ F
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4601464/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Digestive system
 (
-<!--template match = figureCitation--><xref rid="fig-15--189-232-1538-1564-">Figs 2</xref>
+<xref rid="fig-15--189-232-1538-1564-">Figs 2</xref>
 C–D, 55B–C, 56)
 </p>
-<!--template match = paragraph--><p>
+<p>
 Radulae measure up to 
 5 mm
 in length. Examples of radular formulae are presented in 
-<!--template match = tableCitation--><xref>Table 5</xref>
+<xref>Table 5</xref>
 . The intestinal loops are of 
 type
 II, with a transitional loop oriented between 6 and 9 o’clock.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Reproductive system
 (
-<!--template match = figureCitation--><xref rid="fig-98--189-232-1644-1670-">Figs 55</xref>
+<xref rid="fig-98--189-232-1644-1670-">Figs 55</xref>
 D–F, 57)
 </p>
-<!--template match = paragraph--><p>
+<p>
 In the posterior part of the reproductive system, the oviduct is wider than the deferent duct (approximately up to twice as wide). Its distal section (distal to the spermatheca) is approximately up to twice as long as its proximal section. The deferent duct is longer than the oviduct, not attached to it, and highly coiled with tight, long, U-shaped loops. However, the deferent duct tends to be shorter in 
 Malaysia
 and 
@@ -759,15 +759,15 @@ long and approximately
 wide. Penial hooks are relatively large, approximately 
 35 to 55 µm
 long (
-<!--template match = figureCitation--><xref rid="fig-100--190-233-1921-1947-">Fig. 57B</xref>
+<xref rid="fig-100--190-233-1921-1947-">Fig. 57B</xref>
 ), and can be seen inside the semi-transparent penis or when the penis is evaginated like the finger of a glove in the vestibule (
-<!--template match = figureCitation--><xref rid="fig-100--190-233-1921-1947-">Fig. 57A</xref>
+<xref rid="fig-100--190-233-1921-1947-">Fig. 57A</xref>
 ). The posterior retractor muscle of the penis inserts on the right side, within the third (posterior) quarter of the visceral cavity. The length of the retractor muscle varies from half the length of the penial sheath to slightly longer than the penial sheath. The deferent duct is highly convoluted (but is less convoluted in juvenile specimens).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-99--191-234-1916-1942-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-99--191-234-1916-1942-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 56.
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
 ,radula, Philippines, Bohol[3336]. 
 A
 . Rachidian and innermost lateral teeth. 
@@ -779,49 +779,49 @@ D
 . Outermost lateral teeth. Abrreviations: lp = lateral protuberance. Scale bars: A, D = 20 μm; B–C = 30 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594467/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Distinctive diagnostic features
 (
-<!--template match = tableCitation--><xref>Table 4</xref>
+<xref>Table 4</xref>
 )
 </p>
-<!--template match = paragraph--><p>
+<p>
 Externally, the orange foot distinguishes 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi</tp:taxon-name>
 from all other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 . The small, elongated ridges on its dorsal notum are also present in 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 , but the foot of 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 is black. The presence of many dorsal eyes right at the margin of the dorsal notum (within 
 2 mm
 from the edge) is only shared by 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 Internally, the long deferent duct with elongated loops in the anterior penial apparatus (which is not closely attached to the oviduct) differentiate 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 from other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 . Also, the penial retractor muscle inserts between ½ to ¾ down the length of the visceral cavity in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 while it inserts at the posterior end of the cavity in 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 (
-<!--template match = figureCitation--><xref rid="fig-36--189-232-1716-1742-">Fig. 10C</xref>
+<xref rid="fig-36--189-232-1716-1742-">Fig. 10C</xref>
 )
 </p>
-<!--template match = paragraph--><p>
+<p>
 Australia
 : 
 Northern Territory
@@ -840,7 +840,7 @@ Myanmar
 : Andaman Sea (
 type
 locality of 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 ). 
 Philippines
 : 
@@ -854,51 +854,51 @@ Thailand
 (
 type
 locality of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 ). All records are new, except for the 
 type
 localities.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Habitat
 (
-<!--template match = figureCitation--><xref rid="fig-102--189-232-1810-1836-">Fig. 58</xref>
+<xref rid="fig-102--189-232-1810-1836-">Fig. 58</xref>
 )
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi</tp:taxon-name>
+<p>
+<tp:taxon-name>Platevindex martensi</tp:taxon-name>
 is typically found in or near mangroves, on tree roots and trunks as well as dead logs. It usually lives in the high intertidal only reached by the highest tides (with 
-<!--template match = taxonomicName--><tp:taxon-name>Acrostichum</tp:taxon-name>
+<tp:taxon-name>Acrostichum</tp:taxon-name>
 ferns). It can also be found in cement ditches nearby a mangrove. One juvenile was found on coarse-grained sand in a mangrove forest in the 
 Philippines
 , but 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 slugs normally are not found directly on mud or sand. 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi</tp:taxon-name>
 is not found on rocky shores.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<title>Remarks</title>
+<p>
 All of the distinctive characters of 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 are present in the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>Oncis martensi</tp:taxon-name>
+<tp:taxon-name>Oncis martensi</tp:taxon-name>
 , including a flattened and hard body, a narrow foot, a male opening to the right of the midline between the two eye tentacles and no accessory penial gland. In the original description of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi , Plate (1893: 196)</tp:taxon-name>
+<tp:taxon-name>P. martensi , Plate (1893: 196)</tp:taxon-name>
 wrote that the 
 holotype
 was collected from 
 Singapore
 by professor von Martens. However, von 
-<!--template match = bibRefCitation--><xref rid="ref73284">Martens (1897: 128)</xref>
+<xref rid="ref73284">Martens (1897: 128)</xref>
 later wrote that “ 
-<!--template match = taxonomicName--><tp:taxon-name>Oncis martensi Plate</tp:taxon-name>
+<tp:taxon-name>Oncis martensi Plate</tp:taxon-name>
 was not found by me at 
 Singapore
 , but at Petshaburi in the Gulf of 
@@ -910,25 +910,25 @@ holotype
 at the Berlin Museum now reads “ 
 Siam
 , Petehabardi” (presumably a misspelling). 
-<!--template match = bibRefCitation--><xref rid="ref72283">Hoffmann (1928: 89)</xref>
+<xref rid="ref72283">Hoffmann (1928: 89)</xref>
 considered Petshaburi to be the type locality and even specified “ 
 Singapore
 , Plate, ex errore, nach 
-<!--template match = bibRefCitation--><xref rid="ref73284">Martens 1897</xref>
+<xref rid="ref73284">Martens 1897</xref>
 .” Also, note that the specific name appears as “ 
-<!--template match = taxonomicName--><tp:taxon-name>martensi</tp:taxon-name>
+<tp:taxon-name>martensi</tp:taxon-name>
 ” in the text and in one figure caption (
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate 1893: 196</xref>
+<xref rid="ref73697">Plate 1893: 196</xref>
 , pl. 7, fig. 23a) but as “ 
 martensii
 ” in the two other figure captions (
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate 1893</xref>
+<xref rid="ref73697">Plate 1893</xref>
 : pl. 7, fig. 7, pl. 10, fig. 50).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-100--190-233-1921-1947-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-100--190-233-1921-1947-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 57.
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi ( Plate, 1893 )</tp:taxon-name>
 , penial hooks. 
 A
 . Penis everted with hooks outside, Peninsular Malaysia, Penang [964] (USMMC 00029). 
@@ -936,37 +936,37 @@ B
 . Australia, Darwin [1711] (NTM P.57611). Scale bars: A = 50 μm; B = 30 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594469/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 The posterior (female) reproductive system in the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 is largely destroyed. The hermaphroditic gland is in pieces and disconnected from the hermaphroditic duct. A large part of the female gland mass is separated from the oviduct and the deferent duct. However, the long and convoluted deferent duct is intact and is only consistent with the species described here. 
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 197)</xref>
+<xref rid="ref73697">Plate (1893: 197)</xref>
 also described the color of the live animal (based on field notes from von Martens) as having an intense yellow hyponotum with black marbling as well as a light gray-brown foot. A yellow hyponotum is only found in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 The color of the foot is the external trait which can distinguish these two species, and Plate’s description of “light gray-brown” is a closer match to the bright orange foot of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 than the dark black foot of 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 The number of dorsal eyes he described (90) is higher than what we have observed in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 , but we could not check this as the dorsal eyes have lost their pigment. 
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate’s (1893: 197)</xref>
+<xref rid="ref73697">Plate’s (1893: 197)</xref>
 description of the dorsal eyes that “sit alone on the big warts” is consistent with this species, but his comment that “this rule does not apply without exception, because on about 12 warts there are 2 eye spots, so that one can speak in these cases of a group” is surprising. We have found no evidence that dorsal eyes occur in groups of two in this species; Plate’s statement that dorsal eyes occurred in pairs suggests that his count of dorsal eyes is likely an overestimate.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate’s (1893: 198–199)</xref>
+<p>
+<xref rid="ref73697">Plate’s (1893: 198–199)</xref>
 original description of 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
+<tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
 from an island in southern 
 Myanmar
 , in the Andaman Sea, mentioned the diagnostic characters of 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 . Plate indicated intestinal loops of type II, but this could not be verified because the intestine of the 
 holotype
 was previously dissected. Plate’s original description indicates a black-blue hyponotum (the color of the 
@@ -978,125 +978,125 @@ Malaysia
 . Despite a slight difference in the description of the hyponotum color, it can be determined that the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 belongs to the species described here due to the remains of its female (posterior) reproductive system. The length of the deferent duct adjacent to the oviduct is long and convoluted with elongated loops, which is indistinguishable from 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 (the deferent duct is similar in length in specimens of a similar size from Peninsular 
 Malaysia
 ). The length of the distal portion of the penis with hooks in 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 (
 2 mm
 ) also fits exactly the size range observed in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 (
 2–2.5 mm
 ). So, for all the reasons above, 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 is considered here to be a junior synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Semper’s (1882) original description of 
-<!--template match = taxonomicName--><tp:taxon-name>Onchidium coriaceum</tp:taxon-name>
+<tp:taxon-name>Onchidium coriaceum</tp:taxon-name>
 was based on 
 syntypes
 that are part of at least two species (see our remarks on 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex coriaceus coriaceus</tp:taxon-name>
+<tp:taxon-name>Platevindex coriaceus coriaceus</tp:taxon-name>
 ). One 
 paralectotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>O. coriaceum</tp:taxon-name>
+<tp:taxon-name>O. coriaceum</tp:taxon-name>
 from 
 Penang
 belongs to 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 . Indeed, its posterior (female) reproductive system is not compatible with 
-<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+<tp:taxon-name>P. coriaceus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>P. tigrinus</tp:taxon-name>
+<tp:taxon-name>P. tigrinus</tp:taxon-name>
 or 
-<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+<tp:taxon-name>P. luteus</tp:taxon-name>
 , but displays the diagnostic feature of 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 (the wide, long, highly-convoluted deferent duct adjacent to the oviduct). In addition, Semper rightly noted that dorsal eyes are present across the notum including on its margin, and dorsal eyes very close to the notum edge (&lt;
 2 mm
 ) are only found in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref75598">
+<p>
+<xref rid="ref75598">
 Zhang 
 et al
 . (2017)
 </xref>
 recently re-described a species they identified as 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex mortoni</tp:taxon-name>
+<tp:taxon-name>Platevindex mortoni</tp:taxon-name>
 based on specimens from 
 Hong Kong
 , but 
-<!--template match = taxonomicName--><tp:taxon-name>P. mortoni</tp:taxon-name>
+<tp:taxon-name>P. mortoni</tp:taxon-name>
 is considered here a nomen dubium and their description is based on specimens that belong to at least two different species. One individual illustrated with a bright orange foot (
-<!--template match = bibRefCitation--><xref rid="ref75598">
+<xref rid="ref75598">
 Zhang 
 et al
 . 2017
 </xref>
 : fig. 1e) is identified here as 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 196–199)</xref>
+<p>
+<xref rid="ref73697">Plate (1893: 196–199)</xref>
 did not comment on the very close similarity between 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
+<tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 in his original descriptions, but he compared 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 to 
-<!--template match = taxonomicName--><tp:taxon-name>P. semperi</tp:taxon-name>
+<tp:taxon-name>P. semperi</tp:taxon-name>
 , from the 
 Philippines
 (
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate 1893: 199</xref>
+<xref rid="ref73697">Plate 1893: 199</xref>
 ). This may be due to a similarity in their hyponotum color; the preserved hyponota of both 
-<!--template match = taxonomicName--><tp:taxon-name>O. inspectabilis</tp:taxon-name>
+<tp:taxon-name>O. inspectabilis</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. semperi</tp:taxon-name>
+<tp:taxon-name>O. semperi</tp:taxon-name>
 were described by Plate as dark blue (though, now, decades later, the hyponotum is creamish in the 
 type
 specimens of both species). However, 
-<!--template match = taxonomicName--><tp:taxon-name>P. inspectabilis</tp:taxon-name>
+<tp:taxon-name>P. inspectabilis</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. semperi</tp:taxon-name>
+<tp:taxon-name>P. semperi</tp:taxon-name>
 are not regarded as synonyms because 
-<!--template match = bibRefCitation--><xref rid="ref73697">Plate’s (1893: 193)</xref>
+<xref rid="ref73697">Plate’s (1893: 193)</xref>
 description of the copulatory apparatus of 
-<!--template match = taxonomicName--><tp:taxon-name>P. semperi</tp:taxon-name>
+<tp:taxon-name>P. semperi</tp:taxon-name>
 indicates that it is a junior synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+<tp:taxon-name>P. coriaceus</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
+<tp:taxon-name>Platevindex inspectabilis</tp:taxon-name>
 was also proposed as a synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>Oncis stuxbergi</tp:taxon-name>
+<tp:taxon-name>Oncis stuxbergi</tp:taxon-name>
 by 
-<!--template match = bibRefCitation--><xref rid="ref72283">Hoffmann (1928: 88)</xref>
+<xref rid="ref72283">Hoffmann (1928: 88)</xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref72690">Labbé (1934: 235)</xref>
+<xref rid="ref72690">Labbé (1934: 235)</xref>
 , but 
-<!--template match = taxonomicName--><tp:taxon-name>Vaginulus stuxbergi Westerlund, 1883</tp:taxon-name>
+<tp:taxon-name>Vaginulus stuxbergi Westerlund, 1883</tp:taxon-name>
 actually belongs to the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Onchidium ( Dayrat et al . 2016 )</tp:taxon-name>
+<tp:taxon-name>Onchidium ( Dayrat et al . 2016 )</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 We collected 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex martensi</tp:taxon-name>
+<tp:taxon-name>Platevindex martensi</tp:taxon-name>
 in 
 Northern Territory
 , 
@@ -1110,16 +1110,16 @@ Australia
 ) from Maroochy, Mooloolaba, 
 Queensland
 , shows a 
-<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+<tp:taxon-name>Platevindex</tp:taxon-name>
 slug with elongated dorsal ridges similar to those found in 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp. nov.
+<tp:taxon-name>P. aptei</tp:taxon-name>
+sp. nov.
 Also, its description mentions that it is an “orange footed mangrove onch slug.” Because no photograph of the ventral surface is available, the identification of that slug cannot be confirmed. Until this geographic record is confirmed by the examination of actual specimens, 
 Queensland
 is not considered part of the geographic distribution for 
-<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+<tp:taxon-name>P. martensi</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>

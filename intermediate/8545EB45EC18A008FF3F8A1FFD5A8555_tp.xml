@@ -1,64 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Doloisia (Doloisia) alata Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Doloisia (Doloisia) alata Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1851-1875-">Figs. 15A, B</xref>
+<xref rid="fig-23--151-250-1851-1875-">Figs. 15A, B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">16–18</xref>
+<xref rid="fig-">16–18</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961: 448</xref>
+<tp:nomenclature-citation>
+<xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961: 448</xref>
 </tp:nomenclature-citation>
 , figs. 1–7.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
 : Wen 1984: 302; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref22142">
+<tp:nomenclature-citation>
+<xref rid="ref22142">
 Li 
 et al.
 1997: 333
 </xref>
 </tp:nomenclature-citation>
 , fig. 2-23-2; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref22012">Kudryashova 2004: 37</xref>
+<tp:nomenclature-citation>
+<xref rid="ref22012">Kudryashova 2004: 37</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia (Doloisia)</tp:taxon-name>
+<tp:taxon-name>Doloisia (Doloisia)</tp:taxon-name>
 alata
 
 : 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref23361">Vercammen-Grandjean 1968: 97</xref>
+<tp:nomenclature-citation>
+<xref rid="ref23361">Vercammen-Grandjean 1968: 97</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref21456">
+<tp:nomenclature-citation>
+<xref rid="ref21456">
 Chau 
 et al.
 2007: 142
@@ -68,54 +68,54 @@ et al.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 SIF = 3B1b-N-3-2110.0000; fsp = 7.7.7; fCx = 3.5.10; fSt = 2.2; fPp = B/B/NNB; fSc: PL &gt;&gt; AM&gt; AL; Ip = 688–741; fD = 4H-10-8-6-6-2; DS = 36–40; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">V</named-content>
 = 38–41; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NDV</named-content>
+<named-content content-type="collectionCode">NDV</named-content>
 = 75–80. Eyes absent. Standard measurements of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 series given in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 6</named-content>
+<named-content content-type="tableCitation">Table 6</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description (larva)
 [based on 
 lectotype
 and 
 4 paralectotypes
 ]. IDIOSOMA (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1851-1875-">Figs. 15A, B</xref>
+<xref rid="fig-23--151-250-1851-1875-">Figs. 15A, B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-24--151-250-1891-1915-">16</xref>
+<xref rid="fig-24--151-250-1891-1915-">16</xref>
 ). Eyes absent; 36–40 dorsal idiosomal setae covered with long thin barbs, including two pairs of humeral setae; 4 sternal setae; 38–41 ventral setae; NDV = 75–80.
 </p>
-<!--template match = paragraph--><p>
+<p>
 GNATHOSOMA (
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1661-1685-">Fig. 17A, B</xref>
+<xref rid="fig-25--151-250-1661-1685-">Fig. 17A, B</xref>
 ). Cheliceral blade with two large hooks; gnathobase with moderate puncta and 1 pair of branched setae; galeala nude; palpal claw with 3 prongs, internal prong long and strongly curved; setae on palpal femur and genu branched; dorsal and lateral palpal tibial setae nude, ventral palpal tibial seta branched; palpal tarsus with 1 small dorsal seta having 1 branch, 3 heavily branched ventral setae, and tarsala.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-23--151-250-1851-1875-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-23--151-250-1851-1875-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 15.
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
-<!--template match = bibRefCitation--><xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
+<xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
 . 
 A
 , anterior part of idiosoma, dorsal aspect, of paralectotype ZMMU Tdt-3173 (specimen 2); 
 B
 , anterior part of idiosoma, ventral aspect, of paralectotype ZMMU Tdt-3157 (specimen 2). 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia fulminans Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</tp:taxon-name>
+<tp:taxon-name>Doloisia fulminans Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</tp:taxon-name>
 . 
 C
 , anterior part of idiosoma, dorsal aspect, of paralectotype ZMMU Tdt-3159 (specimen 2); 
@@ -123,14 +123,14 @@ D
 , anterior part of idiosoma, ventral aspect, of lectotype. Scale bars: 100 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745709/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-24--151-250-1891-1915-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-24--151-250-1891-1915-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 16.
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
-<!--template match = bibRefCitation--><xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
+<xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
 . 
 A
 , arrangement of dorsal idiosomal setae of paralectotype ZMMU Tdt-3176 (specimen 1); 
@@ -146,14 +146,14 @@ E
 , preanal seta of lectotype. Scale bars: 100 μm (A, B), 20 μm (C–E).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745711/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-25--151-250-1661-1685-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-25--151-250-1661-1685-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 17.
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
-<!--template match = bibRefCitation--><xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
+<xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
 , lectotype. 
 A
 , ventral aspect of gnathosoma; 
@@ -169,67 +169,67 @@ F,
 leg III (trochanter–tarsus). Scale bars: 20 μm (A, B), 50 μm (C), 50 μm (D–F).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745713/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 SCUTUM (
-<!--template match = figureCitation--><xref rid="fig-23--151-250-1851-1875-">Fig. 15A</xref>
+<xref rid="fig-23--151-250-1851-1875-">Fig. 15A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1661-1685-">17C</xref>
+<xref rid="fig-25--151-250-1661-1685-">17C</xref>
 ). Trapezoidal, wider than long, with straight posterior margin, moderately covered with small puncta, with 1 AM covered with short barbs, 1 pair of nude ALs and 1 pair of PLs covered with long thin barbs; AM anterior to level of ALs; PLs much longer AM, ALs shorter AM; sensilla bulbous, covered with spikes; sensillum bases situated at equal distances from levels of ALs and PLs.
 </p>
-<!--template match = paragraph--><p>
+<p>
 LEGS (
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1661-1685-">Fig. 17D–F</xref>
+<xref rid="fig-25--151-250-1661-1685-">Fig. 17D–F</xref>
 ).All 7-segmented, with 1 pair of claws and claw-like empodium. Leg I: coxa with 3 branched setae (3B); trochanter 1B; basifemur 1B; telofemur 5B; genu 4B, 2 genualae, microgenuala; tibia 8B, 2 tibialae, microtibiala; tarsus 21B, tarsala, microtarsala distal to tarsala, subterminala, parasubterminala, pretarsala. Leg II: coxa 5B; trochanter 1B; basifemur 2B; telofemur 4B; genu 3B, genuala; tibia 6B, 2 tibialae; tarsus 18B, tarsala, microtarsala near and proximal to tarsala, pretarsala. Leg III: coxa 10B; trochanter 1B; basifemur 2B; telofemur 3B; genu 3B, genuala; tibia 6B; tarsus 15B.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-26--151-239-296-320-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-26--151-239-296-320-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 6.
 Standard measurements (µm) and numbers of setae of 
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
 (n = 5).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-26--151-250-1653-1677-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-26--151-250-1653-1677-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 18.
 Type specimens of 
 
-<!--template match = taxonomicName--><tp:taxon-name>Doloisia</tp:taxon-name>
+<tp:taxon-name>Doloisia</tp:taxon-name>
 alata
 
-<!--template match = bibRefCitation--><xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
+<xref rid="ref22808">Schluger, Grochovskaja, Ngu, Hoe and Tung, 1961</xref>
 on slides.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Hosts.
-<!--template match = taxonomicName--><tp:taxon-name>Leopoldamys edwardsi</tp:taxon-name>
+<tp:taxon-name>Leopoldamys edwardsi</tp:taxon-name>
 [= 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus grochovskii D. Tien</tp:taxon-name>
+<tp:taxon-name>Rattus grochovskii D. Tien</tp:taxon-name>
 (
 nomen nudum
 )] (
-<!--template match = bibRefCitation--><xref rid="ref22808">
+<xref rid="ref22808">
 Schluger 
 et al.
 1961
 </xref>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus losea (Wen 1984)</tp:taxon-name>
+<tp:taxon-name>Rattus losea (Wen 1984)</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 China
 (Wen 1984; 
-<!--template match = bibRefCitation--><xref rid="ref22142">
+<xref rid="ref22142">
 Li 
 et al.
 1997
@@ -239,21 +239,21 @@ Vietnam
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined
 (
-<!--template match = figureCitation--><xref rid="fig-26--151-250-1653-1677-">Fig. 18</xref>
+<xref rid="fig-26--151-250-1653-1677-">Fig. 18</xref>
 ). 
 Lectotype
 (here designated): larva 
 ZMMU
 Tdt-3174 (specimen 1) ex 
-<!--template match = taxonomicName--><tp:taxon-name>L. edwardsi No</tp:taxon-name>
+<tp:taxon-name>L. edwardsi No</tp:taxon-name>
 44 [labeled as “ 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus sp.</tp:taxon-name>
+<tp:taxon-name>Rattus sp.</tp:taxon-name>
 n. (
-<!--template match = taxonomicName--><tp:taxon-name>Rattus grochovskii</tp:taxon-name>
+<tp:taxon-name>Rattus grochovskii</tp:taxon-name>
 )”], 
 Vietnam
 , 
@@ -277,15 +277,15 @@ lectotype
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 According to the original description, 
 D. alata
 is similar to 
-<!--template match = taxonomicName--><tp:taxon-name>D. synoti Oudemans, 1910</tp:taxon-name>
+<tp:taxon-name>D. synoti Oudemans, 1910</tp:taxon-name>
 and differs from it “by the absence of eyes, greater number of dorsal setae, and by other characters” (
-<!--template match = bibRefCitation--><xref rid="ref22808">
+<xref rid="ref22808">
 Schluger 
 et al.
 1961
@@ -293,11 +293,11 @@ et al.
 ). In our opinion, 
 D. alata
 is more similar to 
-<!--template match = taxonomicName--><tp:taxon-name>D. hopuensis Hsu and Chen, 1964</tp:taxon-name>
+<tp:taxon-name>D. hopuensis Hsu and Chen, 1964</tp:taxon-name>
 than to 
-<!--template match = taxonomicName--><tp:taxon-name>D. synoti</tp:taxon-name>
+<tp:taxon-name>D. synoti</tp:taxon-name>
 , and differs from it by a slightly lower number of idiosomal setae (fD = 4H-10-8-6-6-2 vs. 4H-12-10-8-6-4-2, DS = 36–40 vs. 46–48) and by longer legs (Ip = 688–741 vs. 546) (
-<!--template match = bibRefCitation--><xref rid="ref22142">
+<xref rid="ref22142">
 Li 
 et al.
 1997

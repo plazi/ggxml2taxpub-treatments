@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Selenanthias analis Tanaka<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figures 44–45</xref>
+<tp:nomenclature><tp:taxon-name>Selenanthias analis Tanaka<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figures 44–45</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 1–17</xref>
+<xref>Tables 1–17</xref>
 , 
-<!--template match = tableCitation--><xref>30</xref>
+<xref>30</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="vernacular_names">
-<!--template match = paragraph--><p>Common name: Pearlspot Fairy Basslet</p>
+<tp:treatment-sec sec-type="vernacular_names">
+<p>Common name: Pearlspot Fairy Basslet</p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Selenanthias analis Tanaka 1918: 516</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Selenanthias analis Tanaka 1918: 516</tp:taxon-name>
 , pl. 138, fig. 385 (
 type
 locality: Tokyo market).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Gloerfelt-Tarp &amp; Kailola 1984: 138</tp:nomenclature-citation>
+<tp:nomenclature-citation>Gloerfelt-Tarp &amp; Kailola 1984: 138</tp:nomenclature-citation>
 
 , 326 (colour photo, diagnosis, northwestern 
 Australia
 ).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Paxton 
 et al.
 1989: 507
@@ -37,11 +37,11 @@ et al.
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hutchins 2001: 30</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hutchins 2001: 30</tp:nomenclature-citation>
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Allen 
 et al.
 2006: 996
@@ -49,7 +49,7 @@ et al.
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Larson 
 et al.
 2013: 103
@@ -59,32 +59,32 @@ et al.
 Northern Territory
 ).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Anderson 2018: 51</tp:nomenclature-citation>
+<tp:nomenclature-citation>Anderson 2018: 51</tp:nomenclature-citation>
 
 (checklist). — 
 
-<!--treatment-citation--><tp:nomenclature-citation>Parenti &amp; Randall 2020: 44</tp:nomenclature-citation>
+<tp:nomenclature-citation>Parenti &amp; Randall 2020: 44</tp:nomenclature-citation>
 
 (checklist).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 The following characters distinguish 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 from congeners: dorsal fin with 16–19, usually 17 segmented dorsal-rays; lower gill rakers 19–23; males with large black blotch on soft part of anal fin.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = taxonomicName--><tp:taxon-name>Selenanthias analis</tp:taxon-name>
+<tp:taxon-name>Selenanthias analis</tp:taxon-name>
 is a relatively large anthiadine (largest specimen 
 170 mm
 SL, 
-<!--template match = bibRefCitation--><xref rid="ref72398">Kamohara 1952</xref>
+<xref rid="ref72398">Kamohara 1952</xref>
 ) found from southern 
 Japan
 , 
@@ -98,14 +98,14 @@ Australia
 . Within 
 Australia
 , it is known from the North West Shelf and Arafura Sea (
-<!--template match = figureCitation--><xref rid="fig-106--151-250-1686-1710-">Figure 45</xref>
+<xref rid="fig-106--151-250-1686-1710-">Figure 45</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Our use of the name 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 is tentative, pending more complete revisionary studies of the genus. In particular, the status of 
-<!--template match = taxonomicName--><tp:taxon-name>S. myersi</tp:taxon-name>
+<tp:taxon-name>S. myersi</tp:taxon-name>
 is in need of review. Randall (1995) described the species on the basis of the 
 58.6 mm
 SL 
@@ -125,459 +125,459 @@ Guam
 , 
 Mariana Islands
 . He compared it with four specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 , 92.0–100.0 mm SL, and differentiated it on the basis of coloration (absence versus presence of a dark spot on the anal fin), number of lower gill rakers (22 versus 19–21) and bony interorbital width (4.3–4.5 versus 
 3.45–3.8 in
 HL). However, we note that dark spots are variably present or absent in our Australian specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 (absent in five specimens, 41.0–90.0 mm SL, and present in 
 11 specimens
 85.0– 
 98.5 mm
 SL), bony interorbital widths overlap broadly with the 
-<!--template match = taxonomicName--><tp:taxon-name>S. myersi</tp:taxon-name>
+<tp:taxon-name>S. myersi</tp:taxon-name>
 type specimens (9.2–10.4 % SL and 
 3.9–4.3 in
 HL for our Australian 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 specimens versus 9.1–9.7 % SL and 
 4.3–4.5 in
 HL for 
-<!--template match = taxonomicName--><tp:taxon-name>S. myersi</tp:taxon-name>
+<tp:taxon-name>S. myersi</tp:taxon-name>
 ) and counts of lower gill rakers also overlap (19–23 versus 22). However, the situation is further complicated by the potential presence of two species in Indonesian waters: a preliminary comparison of COI sequence data for five specimens from Lombok, 
 Indonesia
 (all with dark anal-fin spots) and two specimens from Western Australia (no anal-fin spot) suggests two clades, one consisting of the Western Australian specimen and one of the Indonesian specimens, and the other consisting of the remaining Indonesian specimens. Because of this uncertainty, our account for 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 is based entirely on northwestern Australian specimens.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 We add the following new observations for Australian specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>S. analis</tp:taxon-name>
+<tp:taxon-name>S. analis</tp:taxon-name>
 : scales with basal cteni; vertebrae 10+16; supraneurals 3; predorsal formula 0/0+0/2/1+1 or 0/0+0/2+1/1; dorsal pterygiophores in interneural spaces 9–13 1/1/1/1+1/1 or 1/1/1/1+1/1+1; terminal dorsal pterygiophore in interneural space 18–19; 0–2 trisegmental pterygiophores associated with dorsal fin; 3–6 trisegmental pterygiophores associated with anal fin; terminal anal pterygiophore in interhaemal space 5–6; ribs present on vertebrae 3 through 10; epineurals present on vertebrae 1 through 12–13; parhypural and hypurals autogenous; well-developed hypurapophysis on parhypural; epurals 3; single uroneural (posterior uroneural absent); ventral tip of cleithrum with well-developed posteroventral process; proximal tip of first anal-fin pterygiophore near distal tips of parapophyses on vertebra 10.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Morphometric data are summarised in 
-<!--template match = tableCitation--><xref>Table 30</xref>
+<xref>Table 30</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-105--151-250-1677-1701-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-105--151-250-1677-1701-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 44.
-<!--template match = taxonomicName--><tp:taxon-name>Selenanthias analis , CSIRO H 1036</tp:taxon-name>
+<tp:taxon-name>Selenanthias analis , CSIRO H 1036</tp:taxon-name>
 -9, 90.0 mm SL, north of Cape Lambert, Western Australia. Photo by T. Carter, CSIRO.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4472017/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Australia</named-content>
+<named-content content-type="collectingCountry">Australia</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<named-content content-type="collectionCode">AMS</named-content>
 I.22807-039, 4: 90.0– 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">98.5 mm</named-content>
+<named-content content-type="quantity">98.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">175 km</named-content>
+<named-content content-type="quantity">175 km</named-content>
 north of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Port Hedland</named-content>
+<named-content content-type="location">Port Hedland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">18°32′S</named-content>
+<named-content content-type="geoCoordinate">18°32′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">118°17′E</named-content>
+<named-content content-type="geoCoordinate">118°17′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200-204 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">200-204 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Engel</named-content>
+<named-content content-type="collectorName">Engel</named-content>
 trawl, J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Paxton</named-content>
+<named-content content-type="collectorName">Paxton</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Soela</named-content>
+<named-content content-type="collectionCode">RV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Soela</named-content>
 ,
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 Apr 1982</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2 Apr 1982</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 751-4</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 751-4</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">94.1 mm</named-content>
+<named-content content-type="quantity">94.1 mm</named-content>
 SL, north of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dampier Archipelago</named-content>
+<named-content content-type="location">Dampier Archipelago</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°08.9′S</named-content>
+<named-content content-type="geoCoordinate">19°08.9′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">116°52.6′E</named-content>
+<named-content content-type="geoCoordinate">116°52.6′E</named-content>
 to 19°08.4′S, 116°54.1′E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">196–198 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">196–198 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Frank</named-content>
+<named-content content-type="collectorName">Frank</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bryce</named-content>
+<named-content content-type="collectorName">Bryce</named-content>
 demersal trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Soela</named-content>
+<named-content content-type="collectionCode">FRV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Soela</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 Oct 1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24 Oct 1986</named-content>
 </named-content>
 (SO0686/84)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 1036-9</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 1036-9</named-content>
 , 90.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 1036-10</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 1036-10</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">93</named-content>
+<named-content content-type="specimenCode">93</named-content>
 mm SL (radiograph only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 1036-11</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 1036-11</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">96</named-content>
+<named-content content-type="specimenCode">96</named-content>
 mm SL (radiograph only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 1036-12</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 1036-12</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">3</named-content>
+<named-content content-type="specimenCode">3</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">85–88 mm</named-content>
+<named-content content-type="quantity">85–88 mm</named-content>
 SL (radiographs only), north of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cape Lambert</named-content>
+<named-content content-type="location">Cape Lambert</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°06.1′S</named-content>
+<named-content content-type="geoCoordinate">19°06.1′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°07.0′E</named-content>
+<named-content content-type="geoCoordinate">117°07.0′E</named-content>
 to 19°06.5′S, 117°08.8′E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">178–183 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">178–183 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Frank</named-content>
+<named-content content-type="collectorName">Frank</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bryce</named-content>
+<named-content content-type="collectorName">Bryce</named-content>
 demersal trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Soela</named-content>
+<named-content content-type="collectionCode">FRV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Soela</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12 Oct 1987</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12 Oct 1987</named-content>
 </named-content>
 (SO0787/129)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6374-15</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 6374-15</named-content>
 , 71.0 mm SL, northwest of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Geraldton</named-content>
+<named-content content-type="location">Geraldton</named-content>
 , from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27°55.72′S</named-content>
+<named-content content-type="geoCoordinate">27°55.72′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">113°08.28′E</named-content>
+<named-content content-type="geoCoordinate">113°08.28′E</named-content>
 to 27°56.02′S, 113°08.64′E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">252-253 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">252-253 m</named-content>
 </named-content>
 , beam trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
+<named-content content-type="collectionCode">FRV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4 Dec 2005</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">4 Dec 2005</named-content>
 </named-content>
 (field station number SS1005/99)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-18</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 6378-18</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">41</named-content>
+<named-content content-type="specimenCode">41</named-content>
 mm SL (radiograph only), west of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Exmouth Gulf</named-content>
+<named-content content-type="location">Exmouth Gulf</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">21°59.17′S</named-content>
+<named-content content-type="geoCoordinate">21°59.17′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">113°49.20′E</named-content>
+<named-content content-type="geoCoordinate">113°49.20′E</named-content>
 to 21°59.79′S, 113°49.14′E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">165–166 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">165–166 m</named-content>
 </named-content>
 , beam trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
+<named-content content-type="collectionCode">FRV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Dec 2005</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11 Dec 2005</named-content>
 </named-content>
 (field station number SS1005/153)
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6604-02</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 6604-02</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">58 mm</named-content>
+<named-content content-type="quantity">58 mm</named-content>
 SL (radiograph only), west of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Barrow Island</named-content>
+<named-content content-type="location">Barrow Island</named-content>
 , from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°58.86′S</named-content>
+<named-content content-type="geoCoordinate">20°58.86′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">114°43.42′E</named-content>
+<named-content content-type="geoCoordinate">114°43.42′E</named-content>
 to 20°59.41′S, 114°43.74′E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">205–210 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">205–210 m</named-content>
 </named-content>
 , beam trawl, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M.F. Gomon</named-content>
+<named-content content-type="collectorName">M.F. Gomon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
+<named-content content-type="collectionCode">FRV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Southern Surveyor</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 Jun 2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10 Jun 2007</named-content>
 </named-content>
 (field station number SS0507/6)
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Northern Territory</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Northern Territory</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Australia</named-content>
+<named-content content-type="collectingCountry">Australia</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NTM</named-content>
+<named-content content-type="collectionCode">NTM</named-content>
 S.12927-003, 2: 84.6–93.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Arafura Sea</named-content>
+<named-content content-type="location">Arafura Sea</named-content>
 , north of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bathurst Island</named-content>
+<named-content content-type="collectingMunicipality">Bathurst Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9°59′S</named-content>
+<named-content content-type="geoCoordinate">9°59′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">130°10′E</named-content>
+<named-content content-type="geoCoordinate">130°10′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">169 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">169 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Williams</named-content>
+<named-content content-type="collectorName">S. Williams</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">
+<named-content content-type="collectorName">
 FV 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Clipper Bird</named-content>
+<named-content content-type="emphasis">Clipper Bird</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 Nov 1990</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">16 Nov 1990</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Non-Australian specimens examined
 (data not included in descriptions or summary tables). 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Indonesia</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 7220-06</named-content>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 7220-06</named-content>
 (field number LM-684), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">110.3 mm</named-content>
+<named-content content-type="quantity">110.3 mm</named-content>
 SL
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 7220-07</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 7220-07</named-content>
 (field number LM-685), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">119.5 mm</named-content>
+<named-content content-type="quantity">119.5 mm</named-content>
 SL
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 7220-08</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 7220-08</named-content>
 (field number LM-686), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">123 mm</named-content>
+<named-content content-type="quantity">123 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Tanjung Luar</named-content>
+<named-content content-type="collectingCounty">Tanjung Luar</named-content>
 fish market, southeast coast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lombok</named-content>
+<named-content content-type="collectingMunicipality">Lombok</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Indonesia</named-content>
+<named-content content-type="location">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">08°45′S</named-content>
+<named-content content-type="geoCoordinate">08°45′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">116°35′S</named-content>
+<named-content content-type="geoCoordinate">116°35′S</named-content>
 , W
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">White</named-content>
+<named-content content-type="location">White</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">05 Nov 2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">05 Nov 2010</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 7221-04</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 7221-04</named-content>
 (field number LM-742), 119.0 mm SL
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 7221-05</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">CSIRO</named-content>
+<named-content content-type="specimenCode">H 7221-05</named-content>
 (field number LM-743), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">120 mm</named-content>
+<named-content content-type="quantity">120 mm</named-content>
 SL (radiograph only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Tanjung Luar</named-content>
+<named-content content-type="collectingCounty">Tanjung Luar</named-content>
 fish market, southeast coast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lombok</named-content>
+<named-content content-type="collectingMunicipality">Lombok</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Indonesia</named-content>
+<named-content content-type="location">Indonesia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">08°45′S</named-content>
+<named-content content-type="geoCoordinate">08°45′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">116°35′S</named-content>
+<named-content content-type="geoCoordinate">116°35′S</named-content>
 , W
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">T</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">White</named-content>
+<named-content content-type="location">White</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">06 Nov 2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">06 Nov 2010</named-content>
 </named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Taiwan</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Taiwan</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ASIZP</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">55519, 105.3 mm</named-content>
+<named-content content-type="collectionCode">ASIZP</named-content>
+<named-content content-type="quantity">55519, 105.3 mm</named-content>
 SL (radiograph only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kaohsiung</named-content>
+<named-content content-type="collectingRegion">Kaohsiung</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">22°25′N</named-content>
+<named-content content-type="geoCoordinate">22°25′N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120°17′E</named-content>
+<named-content content-type="geoCoordinate">120°17′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S.C. Lee</named-content>
+<named-content content-type="collectorName">S.C. Lee</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Mar 1980</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 Mar 1980</named-content>
 </named-content>
 (radiograph from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Shao 2020</named-content>
+<named-content content-type="bibRefCitation">Shao 2020</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Vietnam</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CAS</named-content>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">CAS</named-content>
 53554
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">58.6 mm</named-content>
+<named-content content-type="quantity">58.6 mm</named-content>
 SL (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">S. myersi</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">S. myersi</named-content>
 Randall 1995
 </named-content>
 ; radiograph only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">South China Sea</named-content>
+<named-content content-type="collectingMunicipality">South China Sea</named-content>
 , off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Vietnam</named-content>
+<named-content content-type="location">Vietnam</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°40′N</named-content>
+<named-content content-type="geoCoordinate">15°40′N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">109°25.5′E</named-content>
+<named-content content-type="geoCoordinate">109°25.5′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">110–200 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">110–200 m</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">3 m</named-content>
+<named-content content-type="quantity">3 m</named-content>
 </named-content>
 beam trawl
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">R</named-content>
 .L. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bolin</named-content>
+<named-content content-type="collectorName">Bolin</named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MV</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Stranger</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">MV</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Stranger</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Feb 1960</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Feb 1960</named-content>
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Scripps</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NAGA 60-212</named-content>
+<named-content content-type="location">Scripps</named-content>
+<named-content content-type="specimenCode">NAGA 60-212</named-content>
 )
 </tp:material-citation>
 .

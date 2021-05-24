@@ -1,61 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Thamnodynastes silvai sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Thamnodynastes silvai sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 3–4</xref>
+<xref rid="fig-">Figs. 3–4</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes cf. pallidus Dixon &amp; Soini, 1977: 73</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Thamnodynastes cf. pallidus Dixon &amp; Soini, 1977: 73</tp:taxon-name>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref10882">Dixon and Soini, 1986: 132</xref>
+<tp:nomenclature-citation>
+<xref rid="ref10882">Dixon and Soini, 1986: 132</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes pallidus Bartlett &amp; Bartlett, 2003: 250</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Thamnodynastes pallidus Bartlett &amp; Bartlett, 2003: 250</tp:taxon-name>
 </tp:nomenclature-citation>
 , fig. 248.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .
 </named-content>
 An adult male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2139</named-content>
+<named-content content-type="specimenCode">SINCHI-R 2139</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 948</named-content>
+<named-content content-type="specimenCode">JSH 948</named-content>
 ), collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Juan Silva Haad</named-content>
+<named-content content-type="collectorName">Juan Silva Haad</named-content>
 on Isla Rondinã (no collection date), province of Mariscal Ramón Castilla, district of Ramón Castilla, department of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Loreto</named-content>
+<named-content content-type="collectingRegion">Loreto</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Peru</named-content>
+<named-content content-type="collectingCountry">Peru</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 3</named-content>
+<named-content content-type="figureCitation">Fig. 3</named-content>
 ).
 </tp:material-citation>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-7--151-250-1612-1636-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-7--151-250-1612-1636-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
 Dorsal (
 A
@@ -68,357 +68,357 @@ E
 ) and ventral (
 F
 ) views of body of the holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 (SINCHI-R 2139) from Ramón Castilla, Loreto Department, Peru. Scale bars = 3 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4674007/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">n</named-content>
+<named-content content-type="emphasis">n</named-content>
 =30).
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Seven</named-content>
+<named-content content-type="collectorName">Seven</named-content>
 adults and one juvenile from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Loreto</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Department</named-content>
+<named-content content-type="collectingRegion">Loreto</named-content>
+<named-content content-type="location">Department</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Peru</named-content>
+<named-content content-type="collectingCountry">Peru</named-content>
 </tp:material-citation>
 : 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 female, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AMNH 52125</named-content>
+<named-content content-type="specimenCode">AMNH 52125</named-content>
 , collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Harvey Bassler</named-content>
+<named-content content-type="collectorName">Harvey Bassler</named-content>
 on
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">March 1931</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">March 1931</named-content>
 </named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Caballococha</named-content>
+<named-content content-type="collectorName">Caballococha</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Amazon River</named-content>
+<named-content content-type="collectingRegion">Amazon River</named-content>
 ; male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AMNH 53581</named-content>
+<named-content content-type="specimenCode">AMNH 53581</named-content>
 , collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Harvey Bassler</named-content>
+<named-content content-type="collectorName">Harvey Bassler</named-content>
 on
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">December 16 1926</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">December 16 1926</named-content>
 </named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Rean Rean</named-content>
+<named-content content-type="collectorName">Rean Rean</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Suhuayo</named-content>
+<named-content content-type="collectorName">Suhuayo</named-content>
 (near 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Contamana</named-content>
+<named-content content-type="location">Contamana</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ucayali River</named-content>
+<named-content content-type="collectingRegion">Ucayali River</named-content>
 ); male
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AMNH 52083</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">AMNH 52083</named-content>
 and female
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AMNH 55472</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">AMNH 55472</named-content>
 , without additional information; male
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AMNH 55643</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">AMNH 55643</named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Harvey Bassler</named-content>
+<named-content content-type="collectorName">Harvey Bassler</named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Monte Carmelo</named-content>
+<named-content content-type="collectorName">Monte Carmelo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Requena Province</named-content>
+<named-content content-type="collectingRegion">Requena Province</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Uresti</named-content>
+<named-content content-type="location">Uresti</named-content>
 ), no collection date; female
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MHNC 3143</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">MHNC 3143</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
 11) from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dos de Mayo</named-content>
+<named-content content-type="location">Dos de Mayo</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sarayacu</named-content>
+<named-content content-type="collectingMunicipality">Sarayacu</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ucayali Province</named-content>
+<named-content content-type="collectingRegion">Ucayali Province</named-content>
 ; male
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USNM 197292</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">USNM 197292</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">AJ 933</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">AJ 933</named-content>
 ), collected on
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">November 1970</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">November 1970</named-content>
 </named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Iquitos</named-content>
+<named-content content-type="taxonomicName">Iquitos</named-content>
 ; young male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">CORBIDI 6072</named-content>
+<named-content content-type="specimenCode">CORBIDI 6072</named-content>
 , from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Requena Province</named-content>
+<named-content content-type="collectingRegion">Requena Province</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Jenaro Herrera</named-content>
+<named-content content-type="location">Jenaro Herrera</named-content>
 ) without additional information. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Twelve</named-content>
+<named-content content-type="collectingMunicipality">Twelve</named-content>
 adults
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dionisio Mafra</named-content>
+<named-content content-type="collectorName">Dionisio Mafra</named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yahuma island</named-content>
+<named-content content-type="location">Yahuma island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cayarú</named-content>
+<named-content content-type="location">Cayarú</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mariscal Ramón Castilla Province</named-content>
+<named-content content-type="location">Mariscal Ramón Castilla Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ramón Castilla district</named-content>
+<named-content content-type="collectingMunicipality">Ramón Castilla district</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Loreto</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Department</named-content>
+<named-content content-type="collectingRegion">Loreto</named-content>
+<named-content content-type="collectingCounty">Department</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Peru</named-content>
+<named-content content-type="collectingCountry">Peru</named-content>
 : five females, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2143</named-content>
+<named-content content-type="specimenCode">SINCHI-R 2143</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1420</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1420</named-content>
 ), SINCHI-R 2154 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1182</named-content>
+<named-content content-type="location">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1182</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2148</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2148</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 956</named-content>
+<named-content content-type="specimenCode">JSH 956</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2147</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2147</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1034</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1034</named-content>
 ) and
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2151</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2151</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1585</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1585</named-content>
 ); and seven males
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2140</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2140</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1051</named-content>
+<named-content content-type="specimenCode">JSH 1051</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2141</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2141</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1427</named-content>
+<named-content content-type="specimenCode">JSH 1427</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2163</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2163</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1062</named-content>
+<named-content content-type="specimenCode">JSH 1062</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2146</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2146</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 963</named-content>
+<named-content content-type="specimenCode">JSH 963</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2149</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2149</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 704</named-content>
+<named-content content-type="specimenCode">JSH 704</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2150</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2150</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1422</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1422</named-content>
 ), and
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2157</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2157</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1043</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1043</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Five</named-content>
+<named-content content-type="collectorName">Five</named-content>
 adults and one juvenile from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Leticia</named-content>
+<named-content content-type="location">Leticia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Amazonas department</named-content>
+<named-content content-type="collectingRegion">Amazonas department</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Colombia</named-content>
+<named-content content-type="collectingCountry">Colombia</named-content>
 </tp:material-citation>
 : 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 female, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IAVH 2046</named-content>
+<named-content content-type="specimenCode">IAVH 2046</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">OPM 518</named-content>
+<named-content content-type="location">Field Number</named-content>
+<named-content content-type="specimenCode">OPM 518</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 collected by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oscar Pinto-Moreno</named-content>
+<named-content content-type="collectorName">Oscar Pinto-Moreno</named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amacayacu Natural National Park</named-content>
+<named-content content-type="location">Amacayacu Natural National Park</named-content>
 ; young male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IAVH 854</named-content>
+<named-content content-type="specimenCode">IAVH 854</named-content>
 </tp:material-citation>
 , collected by Juan Silva Haad on 
 August 1978
 ; two males, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2144</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2144</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 1127</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 1127</named-content>
 ) and
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2169</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2169</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 861</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 861</named-content>
 ); and two females
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2142</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2142</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 819</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 819</named-content>
 ) and
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2159</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2159</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 150</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 150</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">One</named-content>
+<named-content content-type="location">One</named-content>
 adult male
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USNM 233065</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">USNM 233065</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
 807), collected on
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">May 1952</named-content>
+<tp:material-citation>
+<named-content content-type="date">
+<named-content content-type="collectingDate">May 1952</named-content>
 </named-content>
 at 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Maruma</named-content>
+<named-content content-type="collectorName">Maruma</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Morona-Santiago Province</named-content>
+<named-content content-type="collectingRegion">Morona-Santiago Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Ecuador</named-content>
+<named-content content-type="collectingCountry">Ecuador</named-content>
 (no collector information)
 </tp:material-citation>
 . Two adult females, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2153</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2153</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 373</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 373</named-content>
 ) and
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2162</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">SINCHI-R 2162</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Field Number</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">JSH 429</named-content>
+<named-content content-type="collectorName">Field Number</named-content>
+<named-content content-type="specimenCode">JSH 429</named-content>
 ), from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Tabatinga</named-content>
+<named-content content-type="taxonomicName">Tabatinga</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amazonas State</named-content>
+<named-content content-type="location">Amazonas State</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Brazil</named-content>
+<named-content content-type="collectingCountry">Brazil</named-content>
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 One adult female, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MPEG 18835</named-content>
+<named-content content-type="specimenCode">MPEG 18835</named-content>
 (Field Number 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">TCAP 2357</named-content>
+<named-content content-type="specimenCode">TCAP 2357</named-content>
 ), collected on 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">July 29, 1994</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">July 29, 1994</named-content>
 </named-content>
 by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Marinus S. Hoogmoed</named-content>
+<named-content content-type="collectorName">Marinus S. Hoogmoed</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Teresa C. Ávila-Pires</named-content>
+<named-content content-type="collectorName">Teresa C. Ávila-Pires</named-content>
 at the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mamirauá Ecological Station</named-content>
+<named-content content-type="location">Mamirauá Ecological Station</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Araçazinho lake</named-content>
+<named-content content-type="location">Araçazinho lake</named-content>
 (left bank of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Paraná</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Apara</named-content>
+<named-content content-type="collectingRegion">Paraná</named-content>
+<named-content content-type="location">Apara</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Uarini</named-content>
+<named-content content-type="collectingMunicipality">Uarini</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Amazonas</named-content>
+<named-content content-type="collectingCounty">Amazonas</named-content>
 state, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Brazil</named-content>
+<named-content content-type="collectingCountry">Brazil</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Venter scattered with sparse dark brown blotches, not forming longitudinal ventral stripes; 12–21 dark brown blotches on the first third of the dorsum of the body, which progressively fade and turn into small brown spots on each side of the paravertebral region (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 3–4</xref>
+<xref rid="fig-">Figs. 3–4</xref>
 ); dorsal scale rows smooth, in 17/17/11 (70%, 
 n=
 42) or 17/17/13 (22%, 
@@ -432,124 +432,124 @@ males; and subcaudals
 females, 
 83–101 in
 males (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Comparisons.
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 differs from all congeners by having 17/17/13 or 17/17/11 dorsals [vs. 19/19/ 
 15 in
-<!--template match = taxonomicName--><tp:taxon-name>T. almae Franco &amp; Ferreira, 2003</tp:taxon-name>
+<tp:taxon-name>T. almae Franco &amp; Ferreira, 2003</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. chaquensis Bergna &amp; Alvarez, 1993</tp:taxon-name>
+<tp:taxon-name>T. chaquensis Bergna &amp; Alvarez, 1993</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. corocoroensis Gorzula &amp; Ayarzagüena, 1996</tp:taxon-name>
+<tp:taxon-name>T. corocoroensis Gorzula &amp; Ayarzagüena, 1996</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. dixoni</tp:taxon-name>
+<tp:taxon-name>T. dixoni</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. gambotensis Perez-Santos &amp; Moreno, 1989</tp:taxon-name>
+<tp:taxon-name>T. gambotensis Perez-Santos &amp; Moreno, 1989</tp:taxon-name>
 ; 
 
-<!--template match = taxonomicName--><tp:taxon-name>T. hypoconia</tp:taxon-name>
+<tp:taxon-name>T. hypoconia</tp:taxon-name>
 ;
 
-<!--template match = taxonomicName--><tp:taxon-name>T. marahuaquensis Gorzula &amp; Ayarzagüena, 1996</tp:taxon-name>
+<tp:taxon-name>T. marahuaquensis Gorzula &amp; Ayarzagüena, 1996</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. nattereri</tp:taxon-name>
+<tp:taxon-name>T. nattereri</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. paraguanae</tp:taxon-name>
+<tp:taxon-name>T. paraguanae</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. phoenix Franco, Trevine, Montingelli &amp; Zaher, 2017</tp:taxon-name>
+<tp:taxon-name>T. phoenix Franco, Trevine, Montingelli &amp; Zaher, 2017</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. ramonriveroi Manzanilla &amp; Sánchez, 2005</tp:taxon-name>
+<tp:taxon-name>T. ramonriveroi Manzanilla &amp; Sánchez, 2005</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. rutilus (Prado, 1942)</tp:taxon-name>
+<tp:taxon-name>T. rutilus (Prado, 1942)</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. strigatus</tp:taxon-name>
+<tp:taxon-name>T. strigatus</tp:taxon-name>
 ; 
-<!--template match = taxonomicName--><tp:taxon-name>T. yavi Myers &amp; Donnelly, 1996</tp:taxon-name>
+<tp:taxon-name>T. yavi Myers &amp; Donnelly, 1996</tp:taxon-name>
 ; and 19/19/ 
 13 in
-<!--template match = taxonomicName--><tp:taxon-name>T. ceibae Bailey &amp; Thomas, 2007</tp:taxon-name>
+<tp:taxon-name>T. ceibae Bailey &amp; Thomas, 2007</tp:taxon-name>
 ], and ventral color pattern lacking longitudinal stripes (vs. at least some portion of venter with continuous or inconspicuous longitudinal stripes in all other 
 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes</tp:taxon-name>
 ,
 
 except for 
-<!--template match = taxonomicName--><tp:taxon-name>T. sertanejo</tp:taxon-name>
+<tp:taxon-name>T. sertanejo</tp:taxon-name>
 ). In addition, from the other species with 17 dorsals at midbody (
-<!--template match = taxonomicName--><tp:taxon-name>T. chimanta Roze, 1958</tp:taxon-name>
+<tp:taxon-name>T. chimanta Roze, 1958</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. duida</tp:taxon-name>
+<tp:taxon-name>T. duida</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. lanei Bailey, Thomas &amp; Silva Jr., 2005</tp:taxon-name>
+<tp:taxon-name>T. lanei Bailey, Thomas &amp; Silva Jr., 2005</tp:taxon-name>
 ), the new species differs by having 13 series of dorsals on the cloacal region (vs. 15 series in 
 
-<!--template match = taxonomicName--><tp:taxon-name>T. chimanta</tp:taxon-name>
+<tp:taxon-name>T. chimanta</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. duida</tp:taxon-name>
+<tp:taxon-name>T. duida</tp:taxon-name>
 
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. lanei</tp:taxon-name>
+<tp:taxon-name>T. lanei</tp:taxon-name>
 ); smooth dorsal scales (vs. dorsals markedly keeled in 
-<!--template match = taxonomicName--><tp:taxon-name>T. lanei</tp:taxon-name>
+<tp:taxon-name>T. lanei</tp:taxon-name>
 ); and 80–101 subcaudals (vs. 51–61 subcaudals in 
 
-<!--template match = taxonomicName--><tp:taxon-name>T. chimanta</tp:taxon-name>
+<tp:taxon-name>T. chimanta</tp:taxon-name>
 ,
 
 56 in
-<!--template match = taxonomicName--><tp:taxon-name>T. duida</tp:taxon-name>
+<tp:taxon-name>T. duida</tp:taxon-name>
 and 
 73–88 in
-<!--template match = taxonomicName--><tp:taxon-name>T. lanei</tp:taxon-name>
+<tp:taxon-name>T. lanei</tp:taxon-name>
 ) (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ). From the species of the 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallidus</tp:taxon-name>
+<tp:taxon-name>T. pallidus</tp:taxon-name>
 group (
-<!--template match = taxonomicName--><tp:taxon-name>T. longicaudus</tp:taxon-name>
+<tp:taxon-name>T. longicaudus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallidus</tp:taxon-name>
+<tp:taxon-name>T. pallidus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>T. sertanejo</tp:taxon-name>
+<tp:taxon-name>T. sertanejo</tp:taxon-name>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>T. silvai</tp:taxon-name>
+<tp:taxon-name>T. silvai</tp:taxon-name>
 differs by a set of characters (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ). Besides the absence of longitudinal ventral stripes, it differs from 
-<!--template match = taxonomicName--><tp:taxon-name>T. longicaudus</tp:taxon-name>
+<tp:taxon-name>T. longicaudus</tp:taxon-name>
 by having 17/17/13 or 17/17/11 dorsals (vs. 19/19/13); from 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallidus</tp:taxon-name>
+<tp:taxon-name>T. pallidus</tp:taxon-name>
 by divided cloacal (vs. single), the overall dorsal pattern, composed by several blotches on the first third of the body (vs. first third with several spots of lighter scales, yellow and whitish, bordered by dark brown or black markings in the scale interspaces, in a variegated pattern, sometimes forming smaller blotches), and wider and darker postocular stripe and supralabials spots (vs. postocular stripe and labial spots composed only by a thin dark line delineating the border, not colored internally) (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1943-1967-">Figs. 1</xref>
+<xref rid="fig-5--151-250-1943-1967-">Figs. 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1612-1636-">3</xref>
+<xref rid="fig-7--151-250-1612-1636-">3</xref>
 ). 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes sertanejo</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes sertanejo</tp:taxon-name>
 is the only other member of the genus with a blotched ventral pattern (not forming longitudinal stripes). Even so, 
-<!--template match = taxonomicName--><tp:taxon-name>T. silvai</tp:taxon-name>
+<tp:taxon-name>T. silvai</tp:taxon-name>
 can be easily differentiated by head length 12.3–17.1 mm (vs. 16.1–25.8 mm in 
-<!--template match = taxonomicName--><tp:taxon-name>T. sertanejo</tp:taxon-name>
+<tp:taxon-name>T. sertanejo</tp:taxon-name>
 ), lower number of ventral counts, both for male and females (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ), and also by the overall dorsal body pattern: transverse dark brown or greyish bands separated by lighter bands (formed by three to five rows of beige scales) on the first third of the body, progressively vanishing into a homogeneous pattern with a few scattered small dark spots in mid-body that continue throughout the tail (vs. generally homogeneous first third of the body in 
-<!--template match = taxonomicName--><tp:taxon-name>T. sertanejo</tp:taxon-name>
+<tp:taxon-name>T. sertanejo</tp:taxon-name>
 , with dark broad dorsal blotches separated by transverse bands of two or three rows of white scales, evident from the mid-body to tail) (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1943-1967-">Figs. 1</xref>
+<xref rid="fig-5--151-250-1943-1967-">Figs. 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">3–4</xref>
+<xref rid="fig-">3–4</xref>
 ). Additionally, 
-<!--template match = taxonomicName--><tp:taxon-name>T. sertanejo</tp:taxon-name>
+<tp:taxon-name>T. sertanejo</tp:taxon-name>
 also exhibits a few scattered black dots on the anterior portion of the venter, which may appear as larger black spots on the ventral posterior region (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1943-1967-">Fig. 1</xref>
+<xref rid="fig-5--151-250-1943-1967-">Fig. 1</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 
 Description of the 
 holotype
@@ -571,11 +571,11 @@ contacting the second pair; pair of mental shields, approximately the same size;
 3 mm
 , distance between eyes 5.4 mm, eye-mouth distance (approximately at the level of the fifth supralabial) 1.2 mm, eye-rostral distance 3.6 mm; internasal scale (length X width): 1.2 X 0.9 mm, prefrontal: 1.7 X 1.5 mm, frontal: 4.4 X 1.7 mm, parietal: 4.5 X 2.2 mm, loreal: 1.1 X 0.6 mm; prediastemal maxillary teeth 9 plus 2 slightly enlarged and grooved fangs.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-9--151-250-1932-1956-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-9--151-250-1932-1956-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
 Color pattern variability in dorsal (left) and ventral (right) views of the paratypes of 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 : SINCHI-R 2144 
 (A)
 and specimen IAVH 2046 
@@ -587,13 +587,13 @@ and MHNC 3143
 from Loreto Department, Peru. Other scale bars = 4 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4674009/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--151-239-151-175-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--151-239-151-175-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 2.
 Morphological variation within species of the 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes pallidus</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes pallidus</tp:taxon-name>
 group. Measurements data are for adults, except for the single female specimen of 
-<!--template match = taxonomicName--><tp:taxon-name>T. longicaudus</tp:taxon-name>
+<tp:taxon-name>T. longicaudus</tp:taxon-name>
 , represented by a newborn individual. 
 M=
 Males; 
@@ -613,15 +613,15 @@ SC=
 subcaudals; 
 ventral stripes=
 number of longitudinal ventral stripes on the body. * Data complemented by 
-<!--template match = bibRefCitation--><xref rid="ref12001">
+<xref rid="ref12001">
 Nóbrega 
 et al.
 (2016)
 </xref>
 ; ** maximum SVL for 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallidus</tp:taxon-name>
+<tp:taxon-name>T. pallidus</tp:taxon-name>
 in 
-<!--template match = bibRefCitation--><xref rid="ref12001">
+<xref rid="ref12001">
 Nóbrega 
 et al.
 (2016)
@@ -629,51 +629,51 @@ et al.
 = 600 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e1292">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e1292">
+<tr>
+<td>
 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->sp.n.
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+sp.n.
 
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes pallidus</tp:taxon-name>
+<td>
+<tp:taxon-name>Thamnodynastes pallidus</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodyanstes longicaudus</tp:taxon-name>
+<td>
+<tp:taxon-name>Thamnodyanstes longicaudus</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodyanstes sertanejo</tp:taxon-name>
+<td>
+<tp:taxon-name>Thamnodyanstes sertanejo</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 DO
 </td>
-<!--template match = td--><td>
+<td>
 17/17/11 (
 n
 =42) or 13 (
 n
 =13)
 </td>
-<!--template match = td--><td>
+<td>
 17/17/13 (
 n
 =61) or 11 (
 n
 =10)
 </td>
-<!--template match = td--><td>
+<td>
 19/19/13 (
 n
 =9) or 19/19/15 (
 n
 =1)
 </td>
-<!--template match = td--><td>
+<td>
 17/17/11(
 n
 =24) or 13 (
@@ -681,332 +681,332 @@ n
 =10)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 M
 </td>
-<!--template match = td--><td>
+<td>
 292–440 (356.6±41, 
 n
 =25)
 </td>
-<!--template match = td--><td>
+<td>
 283–520 (401.8±55.7, 
 n
 =29)**
 </td>
-<!--template match = td--><td>
+<td>
 298–416 (343.1±40.9, 
 n
 =7)
 </td>
-<!--template match = td--><td>
+<td>
 415–665 (568.3±67.1, 
 n
 =19)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 SVL (mm)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 F
 </td>
-<!--template match = td--><td>
+<td>
 251–388 (321.4±27.6, 
 n
 =29)
 </td>
-<!--template match = td--><td>
+<td>
 253–451 (368.8±60.1, 
 n
 =43)
 </td>
-<!--template match = td--><td>
+<td>
 163 (
 n
 =1)
 </td>
-<!--template match = td--><td>
+<td>
 390–655 (519.6±68, 
 n
 =17)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 M
 </td>
-<!--template match = td--><td>
+<td>
 136–237.5 (170.4±24.1, 
 n
 =20)
 </td>
-<!--template match = td--><td>
+<td>
 123–222 (165.8±23.6, 
 n
 =27)
 </td>
-<!--template match = td--><td>
+<td>
 127–221 (179.1±31.8, 
 n
 =7)
 </td>
-<!--template match = td--><td>
+<td>
 142–272 (215.3±30.7, 
 n
 =18)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 TL (mm)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 F
 </td>
-<!--template match = td--><td>
+<td>
 120–173 (149.5±11.9, 
 n
 =26)
 </td>
-<!--template match = td--><td>
+<td>
 97–190 (149.1±26.2, 
 n
 =42)
 </td>
-<!--template match = td--><td>
+<td>
 76 (
 n
 =1)
 </td>
-<!--template match = td--><td>
+<td>
 132–231 (179±23.8, 
 n
 =16)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 M
 </td>
-<!--template match = td--><td>
+<td>
 12.3–15.7 (14±0.8, 
 n
 =24)
 </td>
-<!--template match = td--><td>
+<td>
 11.9–18.1 (15.2±1.8, 
 n
 =29)
 </td>
-<!--template match = td--><td>
+<td>
 12.4–17.9 (14.4±1.8, 
 n
 =8)
 </td>
-<!--template match = td--><td>
+<td>
 16.1–24 (21±1.8, 
 n
 =19)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 HL (mm)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 F
 </td>
-<!--template match = td--><td>
+<td>
 12.3–17.1 (14.5±1.1, 
 n
 =30)
 </td>
-<!--template match = td--><td>
+<td>
 11.2–18.8 (15.3±2, 
 n
 =40)
 </td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>
+<td>–</td>
+<td>
 17.2–25.8 (21.7±2.4, 
 n
 =16)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 M
 </td>
-<!--template match = td--><td>
+<td>
 127–148 (137±4.8, 
 n
 =27)
 </td>
-<!--template match = td--><td>
+<td>
 127–164 (
 n
 =53)*
 </td>
-<!--template match = td--><td>
+<td>
 133–147 (141±4.3, 
 n
 =7)
 </td>
-<!--template match = td--><td>
+<td>
 152–167 (159±3.4, 
 n
 =20)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 VE
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 F
 </td>
-<!--template match = td--><td>
+<td>
 124–137 (128±2.9, 
 n
 =30)
 </td>
-<!--template match = td--><td>
+<td>
 136–164 (
 n
 =73)*
 </td>
-<!--template match = td--><td>
+<td>
 142 (
 n
 =1)
 </td>
-<!--template match = td--><td>
+<td>
 140–151 (145±2.7, 
 n
 =18)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 M
 </td>
-<!--template match = td--><td>
+<td>
 83–101 (94± 4.2, 
 n
 =21)
 </td>
-<!--template match = td--><td>
+<td>
 70–104 (
 n
 =50)*
 </td>
-<!--template match = td--><td>
+<td>
 102–109 (106±2.4, 
 n
 =7)
 </td>
-<!--template match = td--><td>
+<td>
 84–98 (91±3.7, 
 n
 =20)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 SC
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 F
 </td>
-<!--template match = td--><td>
+<td>
 80–97 (87±4.1, 
 n
 =27)
 </td>
-<!--template match = td--><td>
+<td>
 73–101 (
 n
 =72)*
 </td>
-<!--template match = td--><td>
+<td>
 100 (
 n
 =1)
 </td>
-<!--template match = td--><td>
+<td>
 74–84 (79±2.7, 
 n
 =17)
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 ventral stripes
 </td>
-<!--template match = td--><td>absent</td>
-<!--template match = td--><td>4</td>
-<!--template match = td--><td>2– 6</td>
-<!--template match = td--><td>absent</td>
+<td>absent</td>
+<td>4</td>
+<td>2– 6</td>
+<td>absent</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 In preservative, dorsal surface of the head with intense brown pigmentation from the supratemporals to internasals, temporals light beige with several small brown dots; brown postocular stripe, extending from the postoculars to the rear corner of the mouth, where it continues as a blotch of seven scales in length; supralabial background light beige with a few small brown dots, brown blotches on the first three supralabials, and a small blotch right under the eye between supralabials four and five; infralabials background light beige with scattered small brown stains, reaching mentals, gulars and preventrals. Sixteen dorsal dark brown bands, two to four scale rows long, more prominent on the first third of the body, progressively losing pigmentation towards the tail, until fading into sparse dark brown spots on each side of the vertebral scale; beige stripe from the distal border of the parietals, extending eight scales onto the neck, bordered by two dark brown stripes (10 scales long) on each side; ventral background light beige with intense pigmentation of minute brown spots, darkening the overall ventral pattern towards the tail; diffuse dark brown blotches, concentrated on the paraventral portion, more evident from the second third of the body; ventral portion of the tail dark brown with more intense pigmentation than body (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1612-1636-">Fig. 3</xref>
+<xref rid="fig-7--151-250-1612-1636-">Fig. 3</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The hemipenis of the 
 holotype
 is unilobed (although with divided retractor muscle), unicalyculate and non-capitated, with very short capitulum covered with small papillate calyces; few spinulate calyces on the proximal portion of capitulum on the asulcate side; hemipenial body covered with a few rows of small spines, 19 slightly larger spines encircling first row; sulcus spermaticus divided at the base of the capitulum, with sulci ending in slightly enlarged area, on approximately half the capitulum length; subtle constriction between base and hemipenial body; base covered with several spines, approximately the same size as the body spines (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1889-1913-">Fig. 5</xref>
+<xref rid="fig-11--151-250-1889-1913-">Fig. 5</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Hemipenial morphology (
 n
 =15).
 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 has a hemipenis pattern corresponding fairly well to the overall pattern of the 
-<!--template match = taxonomicName--><tp:taxon-name>T. pallidus</tp:taxon-name>
+<tp:taxon-name>T. pallidus</tp:taxon-name>
 group, more closely resembling the hemipenis of 
-<!--template match = taxonomicName--><tp:taxon-name>T. longicaudus</tp:taxon-name>
+<tp:taxon-name>T. longicaudus</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1693-1717-">Figs. 2</xref>
+<xref rid="fig-6--151-250-1693-1717-">Figs. 2</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1889-1913-">5</xref>
+<xref rid="fig-11--151-250-1889-1913-">5</xref>
 ). Additional prepared hemipenes exhibited little variation (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1889-1913-">Fig. 5</xref>
+<xref rid="fig-11--151-250-1889-1913-">Fig. 5</xref>
 ), such as: capitular spinulate calyces can be more evident on the proximal portion of the capitulum, on the asulcate side (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1889-1913-">Fig. 5C</xref>
+<xref rid="fig-11--151-250-1889-1913-">Fig. 5C</xref>
 ); the sulci are short, after the sulcus spermaticus division, associated with a short capitulum in all analyzed specimens, and their termination can be slightly closer to the capitulum apex (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1889-1913-">Fig. 5B–D</xref>
+<xref rid="fig-11--151-250-1889-1913-">Fig. 5B–D</xref>
 ).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1889-1913-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--151-250-1889-1913-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
 Hemipenial variation displaying the sulcate (left) and asulcate (right) sides of the organs of 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 : holotype (SINCHI-R 2139) 
 (A)
 ; AMNH 53058 (fully everted but not maximally expanded distally) from 
-<!--template match = taxonomicName--><tp:taxon-name>Iquitos</tp:taxon-name>
+<tp:taxon-name>Iquitos</tp:taxon-name>
 , Loreto, Peru 
 (B)
 ; paratype SINCHI-R 2144 
@@ -1016,7 +1016,7 @@ and paratype SINCHI-R 2169 from Leticia, Colombia
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4674011/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Meristic and morphometric variation.
 Largest male (SINCHI-R 2139) SVL 
 440 mm
@@ -1094,25 +1094,25 @@ n
 n
 =1).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Color pattern variation.
 In preservative, examined specimens show head usually very pigmented with several small dots, from rostral to temporal scales, almost black in few specimens (USNM 233065, MHNC 3143). Head usually with two dark brown bands right after temporals, extending onto the neck, occasionally merged with first pair of dorsal blotches (USNM 203065, SINCHI-R 2142, 2139) (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
 ). These two bands may define a lighter central neck band (SINCHI-R 2153). Postocular stripe very distinguished, the same color as dorsal blotches, ending right after the corner of the mouth, and extending for 2 or 3 scales ventrally (IAVH 2046), or linearly extending on the side of the body (AMNH 52083) (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1612-1636-">Figs. 3</xref>
+<xref rid="fig-7--151-250-1612-1636-">Figs. 3</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1932-1956-">4</xref>
+<xref rid="fig-9--151-250-1932-1956-">4</xref>
 ). Venter of the head light beige, with a few scattered brown dots concentrated more on neck region and laterally. Twelve to 21 dorsal bands on the first third of the body, defined into regular transverse bands (CORBIDI 6072, AMNH 52536) or irregularly shaped (e.g. IAVH 2046) (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
 ). Final dorsal two thirds of body and tail with more intensely pigmented variegate pattern (AMNH 52083, 53581), or with very subtle pigmentation, almost immaculate (AMNH 52858). All specimens (
 n
 =64) lack longitudinal ventral stripes, with ventral brown blotches dispersed throughout the belly and tail (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 3–4</xref>
+<xref rid="fig-">Figs. 3–4</xref>
 ). These blotches can be evenly spaced, occupying two ventral scales each (AMNH 53582, 55472), or more irregularly dispersed (IAVH 2046, USNM 233065) (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1932-1956-">Fig. 4</xref>
 ). Most specimens with overall ventral darkening towards the tail, from beige or light cream on the head to an intensely pigmentated brown tail (IAVH 2046).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Color in life.
 The following pattern and coloration description of specimen AMNH 147707, from Pebas, 
 Loreto
@@ -1123,20 +1123,20 @@ April 14, 1977
 ): “Overall grayish brown above, with a few blackish brown spots and vague yellowish-brown areas that are paler than ground color and that occur at intervals to give an incipient banded pattern. The neck or hood region is banded with brown saddles and lighter brown interspaces (scales in the interspaces have pale yellow bases set in white skin). A pair of vague dark brown lines on rear of head and nape. Underside head and neck white, thence turning an increasingly dark grayish brown on venter, with squarish marks of still darker brown; these marks tend to be broken and/or bordered by streaks of whitish. Iris pale brown; pupil vertical. Tongue overall grayish black except for a broad brown band that encircles the base of fork.”
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 The specific epithet “ 
-<!--template match = taxonomicName--><tp:taxon-name>silvai</tp:taxon-name>
+<tp:taxon-name>silvai</tp:taxon-name>
 ” is patronymic honoring the late Juan Silva Haad, physician at the hospital of Leticia for many years, who maintained a snake collection for over 50 years. He collected several species from Colombian, Peruvian and Brazilian Amazonia, including several of the 
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes</tp:taxon-name>
+<tp:taxon-name>Thamnodynastes</tp:taxon-name>
 specimens used in this description. He donated most part of his collection to the Sinchi Institute, with over 2,500 specimens of Amazonian snakes, which represented an immense contribution for the Institute’s collection, and a valuable addition of important data for the study of Amazonian snakes. Unfortunately, he passed away on 
 January 31, 2021
 , just a few weeks before the final reviewed version of the manuscript was accepted.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution and natural history.
 Six females had three to six developed follicles with visible embryos (possibly in early stages of development due to their small size): SINCHI-R 2142 (3 follicles/embryos), SINCHI-R 2143 (6), SINCHI-R 2147 (4), SINCHI-R 2154 (5), SINCHI-R 2172 (5), and SINCHI-R 2173 (5); and one female (MPEG 18835) had three well-developed follicles with larger visible embryos, confirming a viviparous reproductive mode. The largest pregnant female (SINCHI-R 2147: SVL 
 323 mm
@@ -1147,72 +1147,72 @@ Six females had three to six developed follicles with visible embryos (possibly 
 , TL 
 152 mm
 ) had a small frog (family 
-<!--template match = taxonomicName--><tp:taxon-name>Hylidae</tp:taxon-name>
+<tp:taxon-name>Hylidae</tp:taxon-name>
 ) in the stomach.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">On</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">July 29, 1994</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="collectorName">On</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">July 29, 1994</named-content>
 </named-content>
 at 14:15 h, during the flood season in the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amazon</named-content>
+<named-content content-type="collectorName">Amazon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Marinus S. Hoogmoed</named-content>
+<named-content content-type="collectorName">Marinus S. Hoogmoed</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Teresa C.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Avila-Pires</named-content>
+<named-content content-type="collectorName">Teresa C.</named-content>
+<named-content content-type="collectorName">Avila-Pires</named-content>
 collected a female (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MPEG 18835</named-content>
+<named-content content-type="specimenCode">MPEG 18835</named-content>
 ) in an isolated tree, emerging from a floating meadow (mixed vegetation) at the edge of a lake, completely surrounded by floating grassy mats along its banks. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">The</named-content>
+<named-content content-type="collectorName">The</named-content>
 specimen was slowly moving on the branches of a tree at a height of about 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2m</named-content>
 </named-content>
 above the water surface. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">When</named-content>
+<named-content content-type="location">When</named-content>
 collected (and later again when photographed), it flattened its head and anterior part of the body horizontally (forming a hood), which caused the thin skin between the scales to be stretched and exposed, suddenly showing a bold pattern of transverse, dark brown spots on a lighter background (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 6A–B</named-content>
+<named-content content-type="figureCitation">Figs. 6A–B</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Within</named-content>
+<named-content content-type="location">Within</named-content>
 the spots, the edges of the scales were black, forming three to six horizontal short zig-zag lines (about three scales long) within the dark spots. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Because</named-content>
+<named-content content-type="location">Because</named-content>
 of the abrupt change this behavior was interpreted as being defensive. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">No</named-content>
+<named-content content-type="location">No</named-content>
 attempt to bite was made. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">We</named-content>
+<named-content content-type="location">We</named-content>
 also report, for the first time, the same behavior for 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">T. pallidus</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="taxonomicName">T. pallidus</named-content>
 .
 </named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Two</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Two</named-content>
 specimens (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SINCHI-R 2528</named-content>
+<named-content content-type="specimenCode">SINCHI-R 2528</named-content>
 and 2529) displayed the hood-displaying performance while their photographs were being taken, during fieldwork in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">San José</named-content>
+<named-content content-type="collectingCounty">San José</named-content>
 del 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Guaviare</named-content>
+<named-content content-type="collectingRegion">Guaviare</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Guaviare Department</named-content>
+<named-content content-type="collectingRegion">Guaviare Department</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Colombia</named-content>
+<named-content content-type="collectingCountry">Colombia</named-content>
 , in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">June 15, 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">June 15, 2017</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 6C–D</named-content>
+<named-content content-type="figureCitation">Figs. 6C–D</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
+<p>
+<tp:taxon-name>Thamnodynastes silvai</tp:taxon-name>
 occurs in forested areas of Amazonia, along the triple frontier of 
 Colombia
 , 
@@ -1230,7 +1230,7 @@ Ecuador
 , and northeast to Uarini, state of Amazonas in 
 Brazil
 (
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1268-1292-">Fig. 7</xref>
+<xref rid="fig-14--151-250-1268-1292-">Fig. 7</xref>
 ).
 </p>
 </tp:treatment-sec>

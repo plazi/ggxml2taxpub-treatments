@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Plectranthias longimanus (Weber)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1831-1855-">Figures 3A</xref>
+<tp:nomenclature><tp:taxon-name>Plectranthias longimanus (Weber)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-6--151-250-1831-1855-">Figures 3A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1865-1889-">5B</xref>
+<xref rid="fig-7--151-250-1865-1889-">5B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">31–32</xref>
+<xref rid="fig-">31–32</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 1–16</xref>
+<xref>Tables 1–16</xref>
 , 
-<!--template match = tableCitation--><xref>24</xref>
+<xref>24</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="vernacular_names">
-<!--template match = paragraph--><p>Common name: Longfin Perchlet</p>
+<tp:treatment-sec sec-type="vernacular_names">
+<p>Common name: Longfin Perchlet</p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pteranthias longimanus Weber 1913: 209</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pteranthias longimanus Weber 1913: 209</tp:taxon-name>
 , fig. 54 (
 type
 locality: 
@@ -33,15 +33,15 @@ Indonesia
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Allen &amp; Russell 1986: 85</tp:nomenclature-citation>
+<tp:nomenclature-citation>Allen &amp; Russell 1986: 85</tp:nomenclature-citation>
 
 (checklist, Scott Reef).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Paxton 
 et al.
 1989: 507
@@ -49,7 +49,7 @@ et al.
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Allen 
 et al.
 2006: 990
@@ -57,7 +57,7 @@ et al.
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Moore 
 et al.
 2014: 182
@@ -65,14 +65,14 @@ et al.
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Anderson 2018: 30</tp:nomenclature-citation>
+<tp:nomenclature-citation>Anderson 2018: 30</tp:nomenclature-citation>
 
 (checklist).— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Parenti &amp; Randall 2020: 26</tp:nomenclature-citation>
+<tp:nomenclature-citation>Parenti &amp; Randall 2020: 26</tp:nomenclature-citation>
 
 (checklist). — 
-<!--template match = bibRefCitation--><xref rid="ref73270">
+<xref rid="ref73270">
 Moore 
 et al.
 2020
@@ -81,212 +81,212 @@ et al.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 The following combination of characters distinguishes 
-<!--template match = taxonomicName--><tp:taxon-name>P. longimanus</tp:taxon-name>
+<tp:taxon-name>P. longimanus</tp:taxon-name>
 from all other congeners: dorsal rays X,12–15; fourth dorsal spine longest; pectoral rays 12–13, all rays unbranched; lateral line incomplete, with 10–17 tubed scales; greatest body depth 32.3–39.9 % SL.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 A small 
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias</tp:taxon-name>
+<tp:taxon-name>Plectranthias</tp:taxon-name>
 species (largest known specimen 
 29 mm
 SL; 
-<!--template match = bibRefCitation--><xref rid="ref71700">Heemstra &amp; Randall 2009</xref>
+<xref rid="ref71700">Heemstra &amp; Randall 2009</xref>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>P. longimanus</tp:taxon-name>
+<tp:taxon-name>P. longimanus</tp:taxon-name>
 is known in 
 Australia
 from the Timor Sea, Great Barrier Reef, Coral Sea and southern 
 Queensland
 (
-<!--template match = figureCitation--><xref rid="fig-78--151-250-1153-1177-">Figure 32</xref>
+<xref rid="fig-78--151-250-1153-1177-">Figure 32</xref>
 ). Elsewhere it ranges widely throughout the Indo-west Pacific, from the east African coast to 
 Tonga
 (
-<!--template match = bibRefCitation--><xref rid="ref71700">Heemstra &amp; Randall 2009</xref>
+<xref rid="ref71700">Heemstra &amp; Randall 2009</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref74315">
+<xref rid="ref74315">
 Randall 
 et al.
 2003
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 In their table 1 for western Indian Ocean 
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias , Heemstra &amp; Randall (2009)</tp:taxon-name>
+<tp:taxon-name>Plectranthias , Heemstra &amp; Randall (2009)</tp:taxon-name>
 gave a count of 15 branched caudal-fin rays for this species. In their account for the species, however, they gave a range of 13–15 branched caudal rays. All specimens examined by us had 13 (7+6) branched caudal rays.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 We add the following new observations: scales with peripheral cteni; vertebrae 10+16, rarely 10+17; supraneurals 2; predorsal formula 0/0/2/1+1; dorsal pterygiophores in interneural spaces 9–13 1/1/1+1/1+1/1; no trisegmental pterygiophores associated with dorsal fin; terminal dorsal pterygiophore in interneural space 17; no trisegmental pterygiophores associated with anal fin; terminal anal pterygiophore in interhaemal space 5; ribs present on vertebrae 3 through 9–10; epineurals present on vertebrae 1 through 8–10; hypurals 1 and 2 represented by undifferentiated plate, other hypurals and parhypural autogenous (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1865-1889-">Figure 5B</xref>
+<xref rid="fig-7--151-250-1865-1889-">Figure 5B</xref>
 ); well-developed hypurapophysis on parhypural; epurals 3; single uroneural (posterior uroneural absent); ventral tip of cleithrum with well-developed posteroventral process; proximal tip of first anal-fin pterygiophore near distal tips of parapophyses on vertebra 10.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Morphometric data are summarised in 
-<!--template match = tableCitation--><xref>Table 24</xref>
+<xref>Table 24</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
+<tp:treatment-sec sec-type="discussion">
+<p>
+<tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
 is very similar to 
-<!--template match = taxonomicName--><tp:taxon-name>P. nanus</tp:taxon-name>
+<tp:taxon-name>P. nanus</tp:taxon-name>
 in coloration and most morphometric and meristic features. They are apparently unique within the genus in having hypurals 1 and 2 present as an undifferentiated plate (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1865-1889-">Figure 5B</xref>
+<xref rid="fig-7--151-250-1865-1889-">Figure 5B</xref>
 ). This potential synapomorphy has not been found in other examined 
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias</tp:taxon-name>
+<tp:taxon-name>Plectranthias</tp:taxon-name>
 species, where instead the two hypurals are autogenous (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1865-1889-">Figure 5A</xref>
+<xref rid="fig-7--151-250-1865-1889-">Figure 5A</xref>
 ). The two species are distinguished from each other by the following characters: number of pectoral rays (
 12–13 in
-<!--template match = taxonomicName--><tp:taxon-name>P. longimanus</tp:taxon-name>
+<tp:taxon-name>P. longimanus</tp:taxon-name>
 versus 14–15, rarely 
 13 in
-<!--template match = taxonomicName--><tp:taxon-name>P. nanus</tp:taxon-name>
+<tp:taxon-name>P. nanus</tp:taxon-name>
 ); number of tubed scales in the lateral line (12–17 versus 15–21); number of circumpeduncular scales (12 versus 12–15, usually 14); degree of development of serrations on the interopercle and subopercle (bones with 2–6 and 2–7 conspicuous serrations, respectively, versus each bone with 0–2 weak serrations; 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1831-1855-">Figure 3</xref>
+<xref rid="fig-6--151-250-1831-1855-">Figure 3</xref>
 ); and body depth (greatest body depth 32.3–39.9 % SL and body depth at anal origin 27.1–32.0 % SL versus 29.4–33.3 % SL and 24.6–27.2 % SL, respectively). The two species also differ slightly in coloration. In particular, 
-<!--template match = taxonomicName--><tp:taxon-name>P. nanus</tp:taxon-name>
+<tp:taxon-name>P. nanus</tp:taxon-name>
 is distinguished in having a pale bar on the caudal-fin base, edged posteriorly with a dark bar (or series of short bars). In contrast, 
-<!--template match = taxonomicName--><tp:taxon-name>P. longimanus</tp:taxon-name>
+<tp:taxon-name>P. longimanus</tp:taxon-name>
 has two dark basal spots on the caudal fin, which are edged dorsally and ventrally by pale spots (cf. 
-<!--template match = figureCitation--><xref rid="fig-77--151-250-1957-1981-">Figures 31</xref>
+<xref rid="fig-77--151-250-1957-1981-">Figures 31</xref>
 and 
-<!--template match = figureCitation--><xref rid="fig-95--151-250-1414-1438-">39</xref>
+<xref rid="fig-95--151-250-1414-1438-">39</xref>
 ; see also 
-<!--template match = bibRefCitation--><xref rid="ref72727">
+<xref rid="ref72727">
 Kawaji 
 et al.
 2019
 </xref>
 : fig. 4). As noted by 
-<!--template match = bibRefCitation--><xref rid="ref74071">Randall (1980)</xref>
+<xref rid="ref74071">Randall (1980)</xref>
 , the two species appear to have different habitat requirements: 
-<!--template match = taxonomicName--><tp:taxon-name>P. longimanus</tp:taxon-name>
+<tp:taxon-name>P. longimanus</tp:taxon-name>
 appears to be found mostly around continental areas or larger islands, whereas 
-<!--template match = taxonomicName--><tp:taxon-name>P. nanus</tp:taxon-name>
+<tp:taxon-name>P. nanus</tp:taxon-name>
 is restricted to smaller oceanic islands and reefs. However, the two species overlap in distribution in 
 Australia
 on the Great Barrier Reef and northern Coral Sea and have been collected from the same rotenone stations (e.g. at Osprey Reef and Boot Reef, Coral Sea).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-77--151-250-1957-1981-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-77--151-250-1957-1981-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 31.
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
+<tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
 : A) aquarium specimen (not retained); B) NTM S.11373-034, 25.4 mm SL, preserved, east of Sandy Islet, Scott Reef, Western Australia. Photos by Y.K. Tea (A) and A.C. Gill (B).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471989/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-78--151-250-1153-1177-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-78--151-250-1153-1177-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 32.
 Australian distribution records for 
-<!--template match = taxonomicName--><tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
+<tp:taxon-name>Plectranthias longimanus</tp:taxon-name>
 (closed circles) and 
-<!--template match = taxonomicName--><tp:taxon-name>P. maculicauda</tp:taxon-name>
+<tp:taxon-name>P. maculicauda</tp:taxon-name>
 (open circles).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471991/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Australia</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Australia</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<named-content content-type="collectionCode">AMS</named-content>
 I.19445-095, 2: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">22.1–22.7 mm</named-content>
+<named-content content-type="quantity">22.1–22.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Queensland</named-content>
+<named-content content-type="collectingRegion">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Great Barrier Reef</named-content>
+<named-content content-type="collectingCounty">Great Barrier Reef</named-content>
 , channel between 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Yonge</named-content>
+<named-content content-type="collectingMunicipality">Yonge</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Carter Reefs</named-content>
+<named-content content-type="location">Carter Reefs</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">14°35′S</named-content>
+<named-content content-type="geoCoordinate">14°35′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°36′E</named-content>
+<named-content content-type="geoCoordinate">145°36′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">15 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">15 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8 Nov 1975</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8 Nov 1975</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.19472-121, 3: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">22.6–24.2 mm</named-content>
+<named-content content-type="quantity">22.6–24.2 mm</named-content>
 SL (radiographs only), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Queensland</named-content>
+<named-content content-type="collectingRegion">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
+<named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
 , north end of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yonge</named-content>
+<named-content content-type="location">Yonge</named-content>
 Reef, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">14°35′S</named-content>
+<named-content content-type="geoCoordinate">14°35′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°36′E</named-content>
+<named-content content-type="geoCoordinate">145°36′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">7–15 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">7–15 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 Nov 1975</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23 Nov 1975</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.22576-013, 2: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">25.7–26.4 mm</named-content>
+<named-content content-type="quantity">25.7–26.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Queensland</named-content>
+<named-content content-type="collectingRegion">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
+<named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Escape Reef</named-content>
+<named-content content-type="location">Escape Reef</named-content>
 , middle of back reef edge, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°50′S</named-content>
+<named-content content-type="geoCoordinate">15°50′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°50′E</named-content>
+<named-content content-type="geoCoordinate">145°50′E</named-content>
 , coral bommie on sand, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">34 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">34 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Oct 1981</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Oct 1981</named-content>
 </named-content>
 </tp:material-citation>
 ; 
@@ -294,385 +294,385 @@ AMS
 I.22613-016, 2: 17.0– 
 24.8 mm
 SL, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.22613-052, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">20.3 mm</named-content>
+<named-content content-type="quantity">20.3 mm</named-content>
 SL (subsequently cleared and stained), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Queensland</named-content>
+<named-content content-type="collectingRegion">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
+<named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Escape Reef North</named-content>
+<named-content content-type="location">Escape Reef North</named-content>
 , back reef floor, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°49′S</named-content>
+<named-content content-type="geoCoordinate">15°49′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°50′E</named-content>
+<named-content content-type="geoCoordinate">145°50′E</named-content>
 , coral and sand, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">27 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">27 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1 Nov 1981</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1 Nov 1981</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.33711-062, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">22.3 mm</named-content>
+<named-content content-type="quantity">22.3 mm</named-content>
 SL, far 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">northern Great Barrier Reef</named-content>
+<named-content content-type="location">northern Great Barrier Reef</named-content>
 lagoon, 1–2 nautical miles from outer reef, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">10°34.48′S</named-content>
+<named-content content-type="geoCoordinate">10°34.48′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">143°35.28′E</named-content>
+<named-content content-type="geoCoordinate">143°35.28′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">14–15 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">14–15 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 Jan 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">16 Jan 1993</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.33715-110, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">24.7 mm</named-content>
+<named-content content-type="quantity">24.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Coral Sea</named-content>
+<named-content content-type="collectingMunicipality">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ashmore Reef</named-content>
+<named-content content-type="location">Ashmore Reef</named-content>
 , southeast corner of lagoon, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">10°26.66′S</named-content>
+<named-content content-type="geoCoordinate">10°26.66′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°26.82′E</named-content>
+<named-content content-type="geoCoordinate">144°26.82′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">12–17 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">12–17 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al.</named-content>
+<named-content content-type="emphasis">et al.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Jan 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17 Jan 1993</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NTM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NTM</named-content>
 S.11373- 034, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">25.4 mm</named-content>
+<named-content content-type="quantity">25.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Scott Reef</named-content>
+<named-content content-type="collectingMunicipality">Scott Reef</named-content>
 , east of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sandy Islet</named-content>
+<named-content content-type="location">Sandy Islet</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">14°04′S</named-content>
+<named-content content-type="geoCoordinate">14°04′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">121°47′E</named-content>
+<named-content content-type="geoCoordinate">121°47′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">22–25 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">22–25 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.C. Russell</named-content>
+<named-content content-type="collectorName">B.C. Russell</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8 Sep 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8 Sep 1984</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NTM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NTM</named-content>
 S.11387-010, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">14.9 mm</named-content>
+<named-content content-type="quantity">14.9 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">North Reef</named-content>
+<named-content content-type="location">North Reef</named-content>
 , east side, north of passage, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">13°15′S</named-content>
+<named-content content-type="geoCoordinate">13°15′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">121°54′E</named-content>
+<named-content content-type="geoCoordinate">121°54′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">7–22 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">7–22 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.C. Russell</named-content>
+<named-content content-type="collectorName">B.C. Russell</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12 Sep 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12 Sep 1984</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NTM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NTM</named-content>
 S.13410-001, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">18.2 mm</named-content>
+<named-content content-type="quantity">18.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cartier Reef</named-content>
+<named-content content-type="location">Cartier Reef</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12°31.4′S</named-content>
+<named-content content-type="geoCoordinate">12°31.4′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">123°33.3′E</named-content>
+<named-content content-type="geoCoordinate">123°33.3′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">12–23 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">12–23 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Short</named-content>
+<named-content content-type="collectorName">J. Short</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 May 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 May 1992</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">WAM</named-content>
 P.28534-021, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">22.8 mm</named-content>
+<named-content content-type="quantity">22.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
+<named-content content-type="collectingMunicipality">Great Barrier Reef</named-content>
 , Ribbon 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Reefs</named-content>
+<named-content content-type="location">Reefs</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">14°58′S</named-content>
+<named-content content-type="geoCoordinate">14°58′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°44′E</named-content>
+<named-content content-type="geoCoordinate">145°44′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">25–40 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">25–40 m</named-content>
 </named-content>
 , G
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">R</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Allen</named-content>
+<named-content content-type="location">Allen</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Nov 1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13 Nov 1985</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional specimens identified for distribution information.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.20937-027, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">9.7 mm</named-content>
+<named-content content-type="quantity">9.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Queensland</named-content>
+<named-content content-type="location">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Haggerstone Island</named-content>
+<named-content content-type="collectingMunicipality">Haggerstone Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12°02′E</named-content>
+<named-content content-type="geoCoordinate">12°02′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">143°17′E</named-content>
+<named-content content-type="geoCoordinate">143°17′E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2–5 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2–5 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 Feb 1979</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20 Feb 1979</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.25107-071, 5: 13.6–17.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coral Sea</named-content>
+<named-content content-type="location">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Osprey Reef</named-content>
+<named-content content-type="collectingMunicipality">Osprey Reef</named-content>
 , west edge dropoff (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">13°56′S</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">146°34′E</named-content>
+<named-content content-type="geoCoordinate">13°56′S</named-content>
+<named-content content-type="geoCoordinate">146°34′E</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">10–25 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">10–25 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 Nov 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 Nov 1984</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.30465- 048, 2: 15.1–22.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coral Sea</named-content>
+<named-content content-type="location">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Holmes Reef</named-content>
+<named-content content-type="collectingMunicipality">Holmes Reef</named-content>
 , lee side, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">16°30.5′S</named-content>
+<named-content content-type="geoCoordinate">16°30.5′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">149°30.0′E</named-content>
+<named-content content-type="geoCoordinate">149°30.0′E</named-content>
 , patch reef, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">3–10 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">3–10 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
 AMS
 Team; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.33728-083, 4: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">11.9–18.1 mm</named-content>
+<named-content content-type="quantity">11.9–18.1 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coral Sea</named-content>
+<named-content content-type="location">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Ashmore</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Reef</named-content>
+<named-content content-type="collectingCountry">Ashmore</named-content>
+<named-content content-type="collectingMunicipality">Reef</named-content>
 , northeast side, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">10°09.52′S</named-content>
+<named-content content-type="geoCoordinate">10°09.52′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°35.44′E</named-content>
+<named-content content-type="geoCoordinate">144°35.44′E</named-content>
 , outer slope, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">4–24 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">4–24 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25 Jan 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25 Jan 1993</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.33747-053, 2: 10.0–16.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coral Sea</named-content>
+<named-content content-type="location">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Boot Reef</named-content>
+<named-content content-type="collectingMunicipality">Boot Reef</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">09°58.70′S</named-content>
+<named-content content-type="geoCoordinate">09°58.70′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°42.52′E</named-content>
+<named-content content-type="geoCoordinate">144°42.52′E</named-content>
 , coral, sand and rubble, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">23–30 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">23–30 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Jan 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Jan 1993</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 I.33751-053, 20.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Coral Sea</named-content>
+<named-content content-type="location">Coral Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Portlock Reef</named-content>
+<named-content content-type="collectingMunicipality">Portlock Reef</named-content>
 , east side of eastern reef in southern group, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">09°35.19′S</named-content>
+<named-content content-type="geoCoordinate">09°35.19′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°48.62′E</named-content>
+<named-content content-type="geoCoordinate">144°48.62′E</named-content>
 , steep slope with coral, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">5–31 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">5–31 m</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">AMS</named-content>
 team, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Jan 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29 Jan 1993</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">QM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">QM</named-content>
 I.36357, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">25.5 mm</named-content>
+<named-content content-type="quantity">25.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Queensland</named-content>
+<named-content content-type="location">Queensland</named-content>
 , off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bunker Group</named-content>
+<named-content content-type="collectingMunicipality">Bunker Group</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">23°49.5′S</named-content>
+<named-content content-type="geoCoordinate">23°49.5′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">152°19.5′E</named-content>
+<named-content content-type="geoCoordinate">152°19.5′E</named-content>
 , epibenthic sled, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">50 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">50 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Seabed Biodiversity Team</named-content>
+<named-content content-type="collectorName">Seabed Biodiversity Team</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 May 2004</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23 May 2004</named-content>
 </named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">QM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">QM</named-content>
 I.37740, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">28.8 mm</named-content>
+<named-content content-type="quantity">28.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Queensland</named-content>
+<named-content content-type="location">Queensland</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Stradbroke Island</named-content>
+<named-content content-type="location">Stradbroke Island</named-content>
 , off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Point Lookout</named-content>
+<named-content content-type="collectingMunicipality">Point Lookout</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Manta Ray Bommie</named-content>
+<named-content content-type="collectingCounty">Manta Ray Bommie</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27°25′S</named-content>
+<named-content content-type="geoCoordinate">27°25′S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">153°33′E</named-content>
+<named-content content-type="geoCoordinate">153°33′E</named-content>
 , rotenone, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">7–11 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">7–11 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Johnson</named-content>
+<named-content content-type="collectorName">J. Johnson</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Ekins</named-content>
+<named-content content-type="collectorName">M. Ekins</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Dec 2005</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Dec 2005</named-content>
 </named-content>
 </tp:material-citation>
 .

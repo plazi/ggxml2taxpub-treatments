@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera siniaevi Ahrens, 2004<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-186--151-250-1861-1885-">Figures 42</xref>
+<tp:nomenclature><tp:taxon-name>Maladera siniaevi Ahrens, 2004<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-186--151-250-1861-1885-">Figures 42</xref>
 E–H, 109
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera sinaevi Ahrens 2004b: 284</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Maladera sinaevi Ahrens 2004b: 284</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera siniaevi : Ahrens 2006c: 414</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Maladera siniaevi : Ahrens 2006c: 414</tp:taxon-name>
 </tp:nomenclature-citation>
 (name emended); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330155">Ahrens 2007b: 24</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330155">Ahrens 2007b: 24</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330407">Ahrens &amp; Fabrizi 2009b: 275</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330407">Ahrens &amp; Fabrizi 2009b: 275</xref>
 </tp:nomenclature-citation>
 , 2016: 151.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Additional material examined.
 1 ♂
 “ 
@@ -59,15 +59,15 @@ Han Yinheng
 IZAS
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Distribution.
 See
 
 map (
-<!--template match = figureCitation--><xref rid="fig-356--151-250-1044-1068-">Fig. 109</xref>
+<xref rid="fig-356--151-250-1044-1068-">Fig. 109</xref>
 ) and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>

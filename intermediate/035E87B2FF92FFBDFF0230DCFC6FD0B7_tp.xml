@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Plecia rhenana Heyden &amp; Heyden, 1865 (figs. 55, 158–159)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Plecia rhenana Heyden &amp; Heyden, 1865 (figs. 55, 158–159)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Plecia rhenana Heyden &amp; Heyden 1865: 28–29</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Plecia rhenana Heyden &amp; Heyden 1865: 28–29</tp:taxon-name>
 .
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
+<p>
 Localities
 : Rott. Also in Aix-en-Provence, 
 France
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Female redescribed by 
-<!--template match = bibRefCitation--><xref rid="ref51464">Skartveit &amp; Nel (2017)</xref>
+<xref rid="ref51464">Skartveit &amp; Nel (2017)</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined
 : 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 (female) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMUK</named-content>
+<named-content content-type="collectionCode">NHMUK</named-content>
 In 38798 (fig. 55).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description
 :
 </p>
-<!--template match = paragraph--><p>Female (N=1, figs. 55, 158–159):</p>
-<!--template match = paragraph--><p>
+<p>Female (N=1, figs. 55, 158–159):</p>
+<p>
 Total length 
 9.1 mm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Head (
-<!--template match = figureCitation--><xref rid="fig-64--151-210-1724-1748-">fig.159</xref>
+<xref rid="fig-64--151-210-1724-1748-">fig.159</xref>
 ): Length 
 1.01 mm
 , width 
@@ -60,19 +60,19 @@ long,
 0.15 mm
 wide, 8-segmented.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Thorax: Length 
 2.5 mm
 , width 2.0 mm, dark brown, haltere dark brown.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Legs: Slender. Just apical part of tibia and tarsus of fore and mid legs preserved. Tibiae apparently pale, tarsi dark brown. Fore tibia 
 1.9 mm
 long.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Wing (
-<!--template match = figureCitation--><xref rid="fig-64--151-210-1724-1748-">fig. 158</xref>
+<xref rid="fig-64--151-210-1724-1748-">fig. 158</xref>
 ): Length 
 9.3 mm
 , width 
@@ -88,10 +88,10 @@ oblique, gently, evenly curved. R
 apically gently curved. R-M vertical. Fork of M asymmetrical, rounded. CuA 
 2
 apically distinctly curved basad. CuP fine, curved, running some distance from CuA and parallel to this vein. Vein measurements are given in 
-<!--template match = tableCitation--><xref>Table 4</xref>
+<xref>Table 4</xref>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Abdomen: 
 5.8 mm
 long, 
@@ -99,16 +99,16 @@ long,
 wide.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Discussion
 :
 </p>
-<!--template match = paragraph--><p>
+<p>
 This name obviously has meant different things to different authors. 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia rhenana sensu Statz</tp:taxon-name>
+<tp:taxon-name>Plecia rhenana sensu Statz</tp:taxon-name>
 is not 
-<!--template match = taxonomicName--><tp:taxon-name>P. rhenana Heyden &amp; Heyden.</tp:taxon-name>
+<tp:taxon-name>P. rhenana Heyden &amp; Heyden.</tp:taxon-name>
 It differs from the 
 holotype
 in having darkened, not hyaline, wings, being much larger and having a pseudovein along CuA.The 
@@ -116,9 +116,9 @@ holotype
 female has a wing length of 
 9.3 mm
 , whereas a specimen of 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia rhenana sensu Statz</tp:taxon-name>
+<tp:taxon-name>Plecia rhenana sensu Statz</tp:taxon-name>
 is a very large 
-<!--template match = taxonomicName--><tp:taxon-name>Plecia</tp:taxon-name>
+<tp:taxon-name>Plecia</tp:taxon-name>
 with a wing length of 
 13.7 mm
 .

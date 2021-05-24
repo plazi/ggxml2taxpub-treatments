@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Evippa onager Simon, 1895 sensu Šternbergs 1979<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1858-1884-">Figs 3</xref>
+<tp:nomenclature><tp:taxon-name>Evippa onager Simon, 1895 sensu Šternbergs 1979<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-7--189-232-1858-1884-">Figs 3</xref>
 C–D, 4C, 5C, 6C, 7C, 8C, 10C, 11C
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Evippa onager Simon, 1895: 341</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Evippa onager Simon, 1895: 341</tp:taxon-name>
 (
 ♀
 , 
@@ -21,12 +21,12 @@ China
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Evippa caucasica Zamani et al. , 2016: 107</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Evippa caucasica Zamani et al. , 2016: 107</tp:taxon-name>
 , figs 28–30 (♂, 
 Iran
 ). (misidentification corrected by 
-<!--template match = bibRefCitation--><xref rid="ref18872">
+<xref rid="ref18872">
 Zamani 
 et al
 . 2017
@@ -35,11 +35,11 @@ et al
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Evippa? onager</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Evippa? onager</tp:taxon-name>
 – 
 
-<!--treatment-citation--><tp:nomenclature-citation>Šternbergs 1979: 67</tp:nomenclature-citation>
+<tp:nomenclature-citation>Šternbergs 1979: 67</tp:nomenclature-citation>
 
 , fig. 1 (misidentified fide Marusik 
 et al.
@@ -51,10 +51,10 @@ Turkmenistan
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Evippa? onager sensu Šternbergs 1979</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Evippa? onager sensu Šternbergs 1979</tp:taxon-name>
 – 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Marusik 
 et al.
 2003: 50, figs 19–22, 28–29 (♂ 
@@ -66,187 +66,187 @@ Turkmenistan
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<title>Diagnosis</title>
+<p>
 Recognized by short, robust legs (carapace longer than ¼ of leg I), coloration and its genital morphology. Prosoma of preserved specimens dark brown (other 
-<!--template match = taxonomicName--><tp:taxon-name>Evippinae</tp:taxon-name>
+<tp:taxon-name>Evippinae</tp:taxon-name>
 in 
 Israel
 are yellow after preservation). Male palp: tegular apophysis parallel to cymbium, with single, small, subapical process oriented ventrad (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1667-1693-">Figs 6C</xref>
+<xref rid="fig-10--189-232-1667-1693-">Figs 6C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1691-1717-">7C</xref>
+<xref rid="fig-11--189-232-1691-1717-">7C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--189-232-1691-1717-">8C</xref>
+<xref rid="fig-12--189-232-1691-1717-">8C</xref>
 ). It is the only 
-<!--template match = taxonomicName--><tp:taxon-name>Evippa</tp:taxon-name>
+<tp:taxon-name>Evippa</tp:taxon-name>
 in 
 Israel
 with a subapical process directed ventrad at 90° to the tegular apophysis. In the similar 
-<!--template match = taxonomicName--><tp:taxon-name>Evippa caucasica Marusik, Guseinov &amp; Koponen, 2003</tp:taxon-name>
+<tp:taxon-name>Evippa caucasica Marusik, Guseinov &amp; Koponen, 2003</tp:taxon-name>
 , the base of the subapical process reaches the tip of the tegular apophysis, whereas in 
-<!--template match = taxonomicName--><tp:taxon-name>E. onager</tp:taxon-name>
+<tp:taxon-name>E. onager</tp:taxon-name>
 , the tip and the process are distinct. Epigyne: atria distinct, widest in middle. Septum narrow, slightly constricted in middle, broadened distally (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1893-1919-">Figs 10C</xref>
+<xref rid="fig-14--189-232-1893-1919-">Figs 10C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-15--189-232-1893-1919-">11C</xref>
+<xref rid="fig-15--189-232-1893-1919-">11C</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">ISRAEL</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<title>Material examined</title>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">ISRAEL</named-content>
 – 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dead Sea Area</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Dead Sea Area</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Qalya</named-content>
+<named-content content-type="location">Qalya</named-content>
 ; [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">31.74° N</named-content>
+<named-content content-type="geoCoordinate">31.74° N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35.46° E</named-content>
+<named-content content-type="geoCoordinate">35.46° E</named-content>
 ]; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Feb. 1941</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Feb. 1941</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Shulov</named-content>
+<named-content content-type="collectorName">A. Shulov</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">HUJ INV- Ar 16510</named-content>
+<named-content content-type="specimenCode">HUJ INV- Ar 16510</named-content>
 </tp:material-citation>
 . – 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Negev</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Negev</named-content>
 </named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 subadult</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">1 subadult</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Nahal Hiyyon</named-content>
+<named-content content-type="location">Nahal Hiyyon</named-content>
 ; [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30.191° N</named-content>
+<named-content content-type="geoCoordinate">30.191° N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35.008° E</named-content>
+<named-content content-type="geoCoordinate">35.008° E</named-content>
 ]; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Jul. 2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 Jul. 2019</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">HUJ INV-Ar 20315</named-content>
+<named-content content-type="specimenCode">HUJ INV-Ar 20315</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 ; same collection data as for preceding; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Jul. 2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30 Jul. 2019</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">HUJ INV-Ar 20316</named-content>
+<named-content content-type="specimenCode">HUJ INV-Ar 20316</named-content>
 </tp:material-citation>
 • 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Biq’at ‘Uvda</named-content>
+<named-content content-type="location">Biq’at ‘Uvda</named-content>
 (‘ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Uvda valley</named-content>
+<named-content content-type="location">Uvda valley</named-content>
 ); [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">29.998° N</named-content>
+<named-content content-type="geoCoordinate">29.998° N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34.973° E</named-content>
+<named-content content-type="geoCoordinate">34.973° E</named-content>
 ]; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Mar. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Mar. 2018</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Gavish-Regev</named-content>
+<named-content content-type="collectorName">E. Gavish-Regev</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">HUJ INV-Ar 20314</named-content>
+<named-content content-type="specimenCode">HUJ INV-Ar 20314</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<title>Description</title>
+<p>
 Male
 </p>
-<!--template match = paragraph--><p>MEASUREMENTS (n =2, specimen HUJ INV-Ar 20316 (the smaller of the two) was raised in the laboratory and might not be representative of sizes found in wild populations). AME diameter: 0.24–0.2; PME diameter: 0.51–0.4; carapace length: 3.97–3.58; carapace width: 2.94–2.67; abdomen length: 2.81–3.4; leg I (Fe, Pa, Ti, Mt, Tr): 2.99–2.74 (rest missing in specimen HUJ INV-Ar 16510), 1.26, 2.38, 2.3, 1.27; leg II: 2.91–2.44, 1.27–1.17, 3.04–2.3, 2.91–2.4 (rest missing in specimen HUJ INV-Ar 16510), 1.19; leg III: 2.29–2.6, 1.38–1.22, 2.59–2.22, 3.51–2.86, 1.51–1.34; leg IV: 3.83–3.34, 1.64–1.37, 3.43–2.9, 5.13–4.13, 1.99–1.61.</p>
-<!--template match = paragraph--><p>
+<p>MEASUREMENTS (n =2, specimen HUJ INV-Ar 20316 (the smaller of the two) was raised in the laboratory and might not be representative of sizes found in wild populations). AME diameter: 0.24–0.2; PME diameter: 0.51–0.4; carapace length: 3.97–3.58; carapace width: 2.94–2.67; abdomen length: 2.81–3.4; leg I (Fe, Pa, Ti, Mt, Tr): 2.99–2.74 (rest missing in specimen HUJ INV-Ar 16510), 1.26, 2.38, 2.3, 1.27; leg II: 2.91–2.44, 1.27–1.17, 3.04–2.3, 2.91–2.4 (rest missing in specimen HUJ INV-Ar 16510), 1.19; leg III: 2.29–2.6, 1.38–1.22, 2.59–2.22, 3.51–2.86, 1.51–1.34; leg IV: 3.83–3.34, 1.64–1.37, 3.43–2.9, 5.13–4.13, 1.99–1.61.</p>
+<p>
 COLOR. Carapace brown, darker on margins and in ocular area, sparsely radiated. Clypeus center dark, margins white. Chelicerae dark yellow, striated brown. Legs yellow, dorsum with wide brown annulations. Palps yellow, tarsus darkest. Sternum brown to black. Abdomen dorsum brown to black with white setae. Abdomen venter black to brown, with sparse white setae. Spinnerets yellow (
-<!--template match = figureCitation--><xref rid="fig-8--189-232-1894-1920-">Fig. 4C</xref>
+<xref rid="fig-8--189-232-1894-1920-">Fig. 4C</xref>
 ). Live specimens dark yellow; legs with faint annulations.
 </p>
-<!--template match = paragraph--><p>CARAPACE. Transverse depression posterior to ocular area.</p>
-<!--template match = paragraph--><p>CHELICERAL TEETH. 2 promarginal, 2 retromarginal.</p>
-<!--template match = paragraph--><p>
+<p>CARAPACE. Transverse depression posterior to ocular area.</p>
+<p>CHELICERAL TEETH. 2 promarginal, 2 retromarginal.</p>
+<p>
 GENITALIA. Palpal organs weakly sclerotized. Tegulum flat. Part of sperm duct visible through tegulum makes two sinoid curves. Tegular apophysis large, somewhat transparent, oriented distad, with subapical process oriented ventrad. Subapical process sharp, distinct from sharp tip of tegular apophysis (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1667-1693-">Figs 6C</xref>
+<xref rid="fig-10--189-232-1667-1693-">Figs 6C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1691-1717-">7C</xref>
+<xref rid="fig-11--189-232-1691-1717-">7C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--189-232-1691-1717-">8C</xref>
+<xref rid="fig-12--189-232-1691-1717-">8C</xref>
 ).
 </p>
-<!--template match = paragraph--><p>LEGS. Pseudoarticulation of tarsi not evident, but tarsi curved. Metatarsus I ventral spination: 3 pairs + apical triplet; tibia I ventral spination: 5 pairs + apical pair.</p>
-<!--template match = paragraph--><p>
+<p>LEGS. Pseudoarticulation of tarsi not evident, but tarsi curved. Metatarsus I ventral spination: 3 pairs + apical triplet; tibia I ventral spination: 5 pairs + apical pair.</p>
+<p>
 Female
 </p>
-<!--template match = paragraph--><p>MEASUREMENTS. AME diameter: 0.2; PME diameter: 0.56; carapace length: 3.88; carapace width: 2.8; abdomen length: 4.44; leg I (Fe, Pa, Ti, Mt, Tr): 2.54, 1.37, 2.35, 1.94, 1.03; leg II: 2.55, 1.36, 2.26, 1.96, 0.96; leg III: 2.58, 1.31, 2.22, 2.39, 1.1; leg IV: 3.31, 1.47, 2.93, 3.9, 1.41.</p>
-<!--template match = paragraph--><p>
+<p>MEASUREMENTS. AME diameter: 0.2; PME diameter: 0.56; carapace length: 3.88; carapace width: 2.8; abdomen length: 4.44; leg I (Fe, Pa, Ti, Mt, Tr): 2.54, 1.37, 2.35, 1.94, 1.03; leg II: 2.55, 1.36, 2.26, 1.96, 0.96; leg III: 2.58, 1.31, 2.22, 2.39, 1.1; leg IV: 3.31, 1.47, 2.93, 3.9, 1.41.</p>
+<p>
 COLOR. Carapace blackish, with some orange setae and orange fringe of setae. Clypeus blackish. Chelicerae reddish brown. Legs yellow, dorsum annulated grey. Palps yellow. Sternum black. Abdomen dorsum dark brown. Abdomen venter grey, spotted yellow. Spinnerets yellow (
-<!--template match = figureCitation--><xref rid="fig-8--189-232-1894-1920-">Fig. 4C</xref>
+<xref rid="fig-8--189-232-1894-1920-">Fig. 4C</xref>
 ). Live specimens yellow, legs mildly annulated (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1858-1884-">Figs 3</xref>
+<xref rid="fig-7--189-232-1858-1884-">Figs 3</xref>
 C–D).
 </p>
-<!--template match = paragraph--><p>CARAPACE. Transverse depression posterior to ocular area.</p>
-<!--template match = paragraph--><p>CHELICERAL TEETH. 3 promarginal, 2 retromarginal.</p>
-<!--template match = paragraph--><p>
+<p>CARAPACE. Transverse depression posterior to ocular area.</p>
+<p>CHELICERAL TEETH. 3 promarginal, 2 retromarginal.</p>
+<p>
 GENITALIA. Epigyne septum wider posteriorly, margins with small tooth or terrace in middle. Atria distinct (
-<!--template match = figureCitation--><xref rid="fig-14--189-232-1893-1919-">Fig. 10C</xref>
+<xref rid="fig-14--189-232-1893-1919-">Fig. 10C</xref>
 ), width variable (compare 
-<!--template match = bibRefCitation--><xref rid="ref18645">Šternbergs 1979</xref>
+<xref rid="ref18645">Šternbergs 1979</xref>
 ). Spermathecae round, unbent, distinct from sperm ducts (
-<!--template match = figureCitation--><xref rid="fig-15--189-232-1893-1919-">Fig. 11C</xref>
+<xref rid="fig-15--189-232-1893-1919-">Fig. 11C</xref>
 ).
 </p>
-<!--template match = paragraph--><p>LEGS. No clear pseudoarticulation on tarsi. Metatarsus I ventral spination: 3 pairs + apical triplet; tibia I ventral spination: 6 pairs + apical pair.</p>
+<p>LEGS. No clear pseudoarticulation on tarsi. Metatarsus I ventral spination: 3 pairs + apical triplet; tibia I ventral spination: 6 pairs + apical pair.</p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Natural history</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<title>Natural history</title>
+<p>
 Outside 
 Israel
 inhabits steppes. In 
 Israel
 inhabits hyperarid deserts. Specimens were found at night, on and in the cracks of fine-grained floodplain deposits (
-<!--template match = figureCitation--><xref rid="fig-19--189-232-1894-1920-">Fig. 15C</xref>
+<xref rid="fig-19--189-232-1894-1920-">Fig. 15C</xref>
 ). Adult female collected in March, adult male collected in February, juveniles collected in July (
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 ). The short legs, not typical of 
-<!--template match = taxonomicName--><tp:taxon-name>Evippinae</tp:taxon-name>
+<tp:taxon-name>Evippinae</tp:taxon-name>
 , may be an adaptation for a somewhat fossorial lifestyle.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Distribution</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<title>Distribution</title>
+<p>
 Turkmenistan
 (
-<!--template match = bibRefCitation--><xref rid="ref18645">Šternbergs 1979</xref>
+<xref rid="ref18645">Šternbergs 1979</xref>
 ), 
 Iran
 (
-<!--template match = bibRefCitation--><xref rid="ref18805">
+<xref rid="ref18805">
 Zamani 
 et al.
 2016
@@ -256,26 +256,26 @@ Israel
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Records</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<title>Records</title>
+<p>
 Israel
 : Dead Sea area (Qalya), Negev (Biq’at ‘Uvda, Nahal Hiyyon) (
-<!--template match = figureCitation--><xref rid="fig-21--189-232-1894-1920-">Fig. 16</xref>
+<xref rid="fig-21--189-232-1894-1920-">Fig. 16</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<title>Remarks</title>
+<p>
 The female of 
-<!--template match = taxonomicName--><tp:taxon-name>Evippa onager</tp:taxon-name>
+<tp:taxon-name>Evippa onager</tp:taxon-name>
 was originally described from 
 China
 by 
-<!--template match = bibRefCitation--><xref rid="ref18525">Simon (1895)</xref>
+<xref rid="ref18525">Simon (1895)</xref>
 , and redescribed from both sexes by 
-<!--template match = bibRefCitation--><xref rid="ref18645">Šternbergs (1979)</xref>
+<xref rid="ref18645">Šternbergs (1979)</xref>
 from 
 Turkmenistan
 . It is very unlikely that these later specimens are conspecific with the 
@@ -283,25 +283,25 @@ holotype
 (fide Marusik 
 et al.
 2003). As we have not examined Simon’s type specimen, we avoided describing a new species and instead have chosen to treat the species as 
-<!--template match = taxonomicName--><tp:taxon-name>Evippa onager sensu Šternbergs</tp:taxon-name>
+<tp:taxon-name>Evippa onager sensu Šternbergs</tp:taxon-name>
 , following Marusik 
 et al.
 (2003).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The species’ population in 
 Israel
 is by far the southernmost and westernmost of the three known localities, and the only one not in a steppe habitat. Nevertheless, cool steppe habitats are found in 
 Israel
 and it would be helpfull to search them for 
-<!--template match = taxonomicName--><tp:taxon-name>E. onager</tp:taxon-name>
+<tp:taxon-name>E. onager</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 See Phylogenetic relationships of 
-<!--template match = taxonomicName--><tp:taxon-name>Evippinae</tp:taxon-name>
+<tp:taxon-name>Evippinae</tp:taxon-name>
 based on COI and NADH for a partial molecular phylogeny and a discussion of the placement of 
-<!--template match = taxonomicName--><tp:taxon-name>E. onager</tp:taxon-name>
+<tp:taxon-name>E. onager</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Centropomus pectinatus Poey, 1860<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Centropomus pectinatus Poey, 1860<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-25--151-250-1819-1843-">Figure 15</xref>
+<xref rid="fig-25--151-250-1819-1843-">Figure 15</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus pectinatus Poey, 1860: 121</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Centropomus pectinatus Poey, 1860: 121</tp:taxon-name>
 </tp:nomenclature-citation>
 (original description; 
 Havana
@@ -24,51 +24,51 @@ Cuba
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus pedimacula Poey, 1860: 122</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Centropomus pedimacula Poey, 1860: 122</tp:taxon-name>
 </tp:nomenclature-citation>
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus cuvieri Bocourt, 1868: 91</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Centropomus cuvieri Bocourt, 1868: 91</tp:taxon-name>
 </tp:nomenclature-citation>
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 .
 </named-content>
 CAS-SU 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1602, 188 mm</named-content>
+<named-content content-type="quantity">1602, 188 mm</named-content>
 SL (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 15</named-content>
+<named-content content-type="figureCitation">Fig. 15</named-content>
 ), loc.: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Havana</named-content>
+<named-content content-type="collectingRegion">Havana</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Cuba</named-content>
+<named-content content-type="collectingCountry">Cuba</named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The original description of 
-<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+<tp:taxon-name>C. pectinatus</tp:taxon-name>
 by 
-<!--template match = bibRefCitation--><xref rid="ref28485">Poey (1860)</xref>
+<xref rid="ref28485">Poey (1860)</xref>
 is based on a 
 310 mm
 TL specimen. However, 
-<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+<xref rid="ref28867">Rivas (1986)</xref>
 stated that no specimen that agrees with the original description could be found in MCZ, USNM, or any other museum. The 
 neotype
 (CAS-SU 1602) designated by 
-<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+<xref rid="ref28867">Rivas (1986)</xref>
 is a specimen from 
 Havana
 , 
@@ -78,15 +78,15 @@ Cuba
 SL, deposited in the California Academy of Sciences.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus pectinatus</tp:taxon-name>
+<tp:taxon-name>Centropomus pectinatus</tp:taxon-name>
 differs from its congeners as follows:
 </p>
-<!--template match = paragraph--><p>
+<p>
 Western Atlantic: from 
-<!--template match = taxonomicName--><tp:taxon-name>C. undecimalis</tp:taxon-name>
+<tp:taxon-name>C. undecimalis</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 66–75), 14–16 lower limb gill rakers on first arch (
@@ -102,7 +102,7 @@ vs
 more elongate and lower body, mean body height 22.9% SL), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. irae</tp:taxon-name>
+<tp:taxon-name>C. irae</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 79–96), 14–16 lower limb gill rakers on first arch (
@@ -118,7 +118,7 @@ vs
 more elongate and lower body, mean body height 22.3% SL), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+<tp:taxon-name>C. parallelus</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 64–70), 14–16 lower limb gill rakers on first arch (
@@ -128,7 +128,7 @@ vs
 13–18), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. ensiferus</tp:taxon-name>
+<tp:taxon-name>C. ensiferus</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 48–58), 14–16 lower limb gill rakers on first arch (
@@ -142,7 +142,7 @@ vs
 pelvic fin usually not reaching anus), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. poeyi</tp:taxon-name>
+<tp:taxon-name>C. poeyi</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 69–74), 14–16 lower limb gill rakers on first arch (
@@ -157,9 +157,9 @@ III,7), and second dorsal fin with I,11 (
 vs
 I,9).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Eastern Pacific: from 
-<!--template match = taxonomicName--><tp:taxon-name>C. nigrescens</tp:taxon-name>
+<tp:taxon-name>C. nigrescens</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 68–76), 14–16 lower limb gill rakers on first arch (
@@ -171,7 +171,7 @@ vs
 longest anal-fin spine not reaching caudal-fin base), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. viridis</tp:taxon-name>
+<tp:taxon-name>C. viridis</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 67–75), 14–16 lower limb gill rakers on first arch (
@@ -185,7 +185,7 @@ vs
 III,7), and second dorsal fin with I,11 (
 vs
 I,9); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. armatus</tp:taxon-name>
+<tp:taxon-name>C. armatus</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 47–59), 14–16 lower limb gill rakers on first arch (
@@ -197,7 +197,7 @@ vs
 second anal-fin spine longer than the third, reaching caudal-fin base), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. robalito</tp:taxon-name>
+<tp:taxon-name>C. robalito</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 47–59), 20–23 gill rakers on first arch (
@@ -207,7 +207,7 @@ vs
 second anal-fin spine longer than the third, reaching caudal-fin base), and anal fin with III,8 (
 vs
 III,7); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. unionensis</tp:taxon-name>
+<tp:taxon-name>C. unionensis</tp:taxon-name>
 , by having 14–16 lower limb gill rakers on first arch (
 vs
 10–14); 20–23 gill rakers on first arch (
@@ -219,41 +219,41 @@ vs
 III,7), and second dorsal fin with I,11 (
 vs
 I,9); from 
-<!--template match = taxonomicName--><tp:taxon-name>C. medius</tp:taxon-name>
+<tp:taxon-name>C. medius</tp:taxon-name>
 , by having 47–52 scales on lateral line to caudal-fin base (
 vs
 53–65), and the longest anal-fin spine usually reaching caudal-fin base when adpressed (
 vs
 longest anal-fin spine not reaching caudal-fin base).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Molecular data.
 Specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+<tp:taxon-name>C. pectinatus</tp:taxon-name>
 form a strongly supported cluster, with 100% bootstrap value, in the COI sequences analysis (
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1944-1968-">Figure 8</xref>
+<xref rid="fig-15--151-250-1944-1968-">Figure 8</xref>
 ). The genetic distance between 
-<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+<tp:taxon-name>C. pectinatus</tp:taxon-name>
 and other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus</tp:taxon-name>
+<tp:taxon-name>Centropomus</tp:taxon-name>
 ranged from 0.047 to 0.190 (
-<!--template match = tableCitation--><xref>Table 7</xref>
+<xref>Table 7</xref>
 ). The genetic analyses indicate that 
-<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+<tp:taxon-name>C. pectinatus</tp:taxon-name>
 is the sister group of 
-<!--template match = taxonomicName--><tp:taxon-name>C. medius</tp:taxon-name>
+<tp:taxon-name>C. medius</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Morphometrics and meristics data are summarized in 
-<!--template match = tableCitation--><xref>Tables 8</xref>
+<xref>Tables 8</xref>
 , 
-<!--template match = tableCitation--><xref>9</xref>
+<xref>9</xref>
 and 
-<!--template match = tableCitation--><xref>10</xref>
+<xref>10</xref>
 on the basis of 
 14 specimens
 , 
@@ -264,18 +264,18 @@ average). Body slightly elongate, body moderately high, mean body height 26.6% S
 196.5 mm
 SL. Lower jaw protractile, longer than upper jaw, extending beyond tip of snout. Snout narrow and long, mean snout length 12.0% SL (10.7%–13.3%); eye medium, mean orbital diameter 19.4% HL. Preoperculum heavily serrated in adults; operculum smooth, without spines, bordered by a membrane that extends beyond origin of pectoral fin; 3–5 small spines in dorsal part of operculum.
 </p>
-<!--template match = paragraph--><p>Dorsal fins separated by a small gap, not connected by membrane, first dorsal fin always VIII, second dorsal fin I,11. Pectoral fin with 13–15 rays, longest ray extending beyond origin of pelvic fin. Pelvic fin I,5, longest ray usually reaching anus. Anal fin III,8, third spine longer than second spine, usually reaching caudal-fin base when close to body (adpressed). Caudal fin deeply forked. Lateral line with ctenoid scales, extending onto caudal fin. Lateral line with 47–52 scales to caudal-fin base, 50–56 scales extending onto end of caudal fin. Scale rows between lateral line and origin of second dorsal fin 8–10; scale rows between lateral line and origin of anal fin 9–12. 14–16 lower limb gill rakers on first arch; 20–23 gill rakers on first arch, excluding rudiments; 19–21 gill rakers on second arch, including rudiments.</p>
+<p>Dorsal fins separated by a small gap, not connected by membrane, first dorsal fin always VIII, second dorsal fin I,11. Pectoral fin with 13–15 rays, longest ray extending beyond origin of pelvic fin. Pelvic fin I,5, longest ray usually reaching anus. Anal fin III,8, third spine longer than second spine, usually reaching caudal-fin base when close to body (adpressed). Caudal fin deeply forked. Lateral line with ctenoid scales, extending onto caudal fin. Lateral line with 47–52 scales to caudal-fin base, 50–56 scales extending onto end of caudal fin. Scale rows between lateral line and origin of second dorsal fin 8–10; scale rows between lateral line and origin of anal fin 9–12. 14–16 lower limb gill rakers on first arch; 20–23 gill rakers on first arch, excluding rudiments; 19–21 gill rakers on second arch, including rudiments.</p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Centropomus pectinatus</tp:taxon-name>
+<tp:taxon-name>Centropomus pectinatus</tp:taxon-name>
 occurs from south Florida, Gulf of Mexico, Antilles, to 
 Paraná
 , 
 Brazil
 . The record of 
-<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+<tp:taxon-name>C. pectinatus</tp:taxon-name>
 in the Pacific (CAS-SU 2952) is erroneous, since the material examined herein and literature records strongly indicate that the species is restricted to the Western Atlantic.
 </p>
 </tp:treatment-sec>

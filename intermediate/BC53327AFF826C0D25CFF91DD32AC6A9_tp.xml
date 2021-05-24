@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Zagrammosoma hobbesi LaSalle<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Zagrammosoma hobbesi LaSalle<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-57--151-250-1923-1947-">Fig. 21</xref>
+<xref rid="fig-57--151-250-1923-1947-">Fig. 21</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma hobbesi LaSalle, 1989: 231–236</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zagrammosoma hobbesi LaSalle, 1989: 231–236</tp:taxon-name>
 . 
 Holotype
 ♀
@@ -32,173 +32,173 @@ Summit Valley
 , 
 G. Gordh
 , host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Eriodictyon</tp:taxon-name>
+<tp:taxon-name>Eriodictyon</tp:taxon-name>
 . 
 Depository
 : USNM, UCRCENT471571.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 The main diagnostic characters for 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma hobbesi</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma hobbesi</tp:taxon-name>
 are the combination of an all-black body and black “tiger stripes” on the yellow face (
-<!--template match = figureCitation--><xref rid="fig-57--151-250-1923-1947-">Fig. 21A</xref>
+<xref rid="fig-57--151-250-1923-1947-">Fig. 21A</xref>
 ). This is very similar to 
-<!--template match = taxonomicName--><tp:taxon-name>Z. headricki</tp:taxon-name>
+<tp:taxon-name>Z. headricki</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-54--151-250-1923-1947-">Fig. 19A</xref>
+<xref rid="fig-54--151-250-1923-1947-">Fig. 19A</xref>
 ), however, the funiculars of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. hobbesi</tp:taxon-name>
+<tp:taxon-name>Z. hobbesi</tp:taxon-name>
 are both longer than wide, whereas they are both wider than long in 
 
-<!--template match = taxonomicName--><tp:taxon-name>Z. headricki</tp:taxon-name>
+<tp:taxon-name>Z. headricki</tp:taxon-name>
 .
 
 As well, the parastigmal band does not reach the cubital fold of the fore wing in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. hobbesi</tp:taxon-name>
+<tp:taxon-name>Z. hobbesi</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-57--151-250-1923-1947-">Fig. 21C</xref>
+<xref rid="fig-57--151-250-1923-1947-">Fig. 21C</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-57--151-250-1923-1947-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-57--151-250-1923-1947-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 21.
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma hobbesi</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma hobbesi</tp:taxon-name>
 , ♀: (A) head, frontolateral, (B) lateral habitus, (C) fore wing, dorsal, (D) dorsal habitus; (E) ♁ dorsal habitus. Scale bar = 0.2 mm (A), 0.5 mm (B–E).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471849/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-58--151-250-1079-1103-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-58--151-250-1079-1103-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 22.
 Distributions of 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma fisheri</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->
+<tp:taxon-name>Zagrammosoma fisheri</tp:taxon-name>
+
 n. sp
 .
 
 , 
 
-<!--template match = taxonomicName--><tp:taxon-name>Z. hobbesi</tp:taxon-name>
+<tp:taxon-name>Z. hobbesi</tp:taxon-name>
 ,
 
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. intermedium</tp:taxon-name>
+<tp:taxon-name>Z. intermedium</tp:taxon-name>
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471851/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Female - body length 
 1.37–2.9 mm
 . Metallic luster on body absent. Scape yellow with black stripe dorsally. Lower face with dark median band. Vertex with 2 stripes above compound eye. Gena dark, with yellow spot at ventral margin. Occiput black with median yellow stripe. Pronotum black; no stripes laterally. Mesoscutum black. Propodeum black. Procoxa, mesocoxa, and metacoxa dark. Profemur and mesofemur yellow. Metafemur yellow with dark banding encircling femur. Fore wing: basal band absent; cubital band absent; parastigmal, stigmal, and postmarginal bands present, with perpendicular extension greater than that of stigmal apex; connections from parastigmal band to stigmal band, and from stigmal band to postmarginal band absent. Hind wing hyaline. Gaster dark.
 </p>
-<!--template match = paragraph--><p>Upper ocular sulcus present. Pedicel longer than wide. Funiculars symmetrical: first longer than wide (w:l = 0.61–0.73); second longer than wide (w:l = 0.88–0.93).</p>
-<!--template match = paragraph--><p>
+<p>Upper ocular sulcus present. Pedicel longer than wide. Funiculars symmetrical: first longer than wide (w:l = 0.61–0.73); second longer than wide (w:l = 0.88–0.93).</p>
+<p>
 Pronotum, in dorsal view, bell-shaped (w:l = 1.61–1.8); 3–4 pairs of setae along posterior margin. Mesoscutum reticulate; small, scattered setae absent; intermediate setae present. Mesoscutellum subequal or wider than long (w:l = 1.0–1.14); submedian grooves present. Hind tibial spur distinctly shorter than basitarsus. Hind basitarsus subequal in length to 2 
 <sup>nd</sup>
 tarsomere (bst:2 
 <sup>nd</sup>
 = 1.0).
 </p>
-<!--template match = paragraph--><p>Fore wing l:w = 2.44–2.47. Submarginal vein with 5–8 setae dorsally. Basal fold setose. Cubital fold setose. Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
-<!--template match = paragraph--><p>
+<p>Fore wing l:w = 2.44–2.47. Submarginal vein with 5–8 setae dorsally. Basal fold setose. Cubital fold setose. Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
+<p>
 Male - as female, except: body length 
 1.11–1.5 mm
 ; gaster black or with faint yellow medially (
-<!--template match = figureCitation--><xref rid="fig-57--151-250-1923-1947-">Fig. 21E</xref>
+<xref rid="fig-57--151-250-1923-1947-">Fig. 21E</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 This is a commonly collected species in the mountains in San Bernardino County, 
 California
 , and should be easily distinguished from the other species of 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma</tp:taxon-name>
 by the wing patterns and face markings.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Hosts.
 Reared from lepidopteran leaf miners. See 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Lepidoptera</tp:taxon-name>
+<tp:taxon-name>Lepidoptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Gelechiidae</tp:taxon-name>
+<tp:taxon-name>Gelechiidae</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution. Nearctic:
 USA
 (CA) (
-<!--template match = figureCitation--><xref rid="fig-58--151-250-1079-1103-">Fig. 22</xref>
+<xref rid="fig-58--151-250-1079-1103-">Fig. 22</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 Named after the tiger “Hobbes” from the Calvin &amp; Hobbes comic, as this species has yellow and black stripes on the face, similar to a tiger.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">California</named-content>
+<named-content content-type="collectingRegion">California</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">San Bernardino Co.</named-content>
+<named-content content-type="collectingCounty">San Bernardino Co.</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
+<named-content content-type="collectingMunicipality">
+<named-content content-type="location">
 Mojave 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">River</named-content>
+<named-content content-type="location">River</named-content>
 </named-content>
 Forks
 </named-content>
 ~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">9 mi.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Hesperia</named-content>
+<named-content content-type="quantity">9 mi.</named-content>
+<named-content content-type="collectorName">S. Hesperia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">966m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">966m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°19’51”N</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">34°19’51”N</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°15’48”W</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">117°15’48”W</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.v.1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.v.1985</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. D. Pinto</named-content>
+<named-content content-type="collectorName">J. D. Pinto</named-content>
 [5♁ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5♀</named-content>
+<named-content content-type="specimenCount">5♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ANIC</named-content>
+<named-content content-type="collectionCode">ANIC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT238204–238209</named-content>
+<named-content content-type="specimenCode">UCRCENT238204–238209</named-content>
 ,
 </tp:material-citation>
 BMNH: NHMUK10370160, 10370166, 
@@ -218,7 +218,7 @@ CNC
 , 
 14.v.1985
 , G. Gordh, host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Eriodictyon</tp:taxon-name>
+<tp:taxon-name>Eriodictyon</tp:taxon-name>
 sp. [3♁ 
 9♀
 , 
@@ -236,7 +236,7 @@ UCRC
 , 
 14.v.1985
 , G. Gordh, host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Haplopappus</tp:taxon-name>
+<tp:taxon-name>Haplopappus</tp:taxon-name>
 sp. [3♁ 
 9♀
 , 
@@ -266,9 +266,9 @@ USNM
 , 
 25.iv.1946
 , A.L. Melander, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Coelopoeta</tp:taxon-name>
+<tp:taxon-name>Coelopoeta</tp:taxon-name>
 sp., host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Phacelia</tp:taxon-name>
+<tp:taxon-name>Phacelia</tp:taxon-name>
 sp. [1?, 
 USNM
 : UCRCENT425345]. 
@@ -288,194 +288,194 @@ SE Bodega Bay,
 , 
 20.v.1983
 , D. L. Wagner, JAP No. 83D109, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Coelopoeta</tp:taxon-name>
+<tp:taxon-name>Coelopoeta</tp:taxon-name>
 sp., host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Phacelia</tp:taxon-name>
+<tp:taxon-name>Phacelia</tp:taxon-name>
 sp. [
 3♀
 , 
 USNM
 : UCRCENT425343, 425344, 425428].
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Additional
 material examined.
 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">USA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">California</named-content>
+<named-content content-type="collectingRegion">California</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">San Bernardino Co.</named-content>
+<named-content content-type="collectingCounty">San Bernardino Co.</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Hwy</named-content>
+<named-content content-type="collectingCounty">Hwy</named-content>
 138 (hydro line), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1015m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1015m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°19’22”N</named-content>
+<named-content content-type="geoCoordinate">34°19’22”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°27’26”W</named-content>
+<named-content content-type="geoCoordinate">117°27’26”W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3.v.2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">3.v.2013</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Heraty</named-content>
+<named-content content-type="collectorName">Heraty</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Herreid</named-content>
+<named-content content-type="collectorName">Herreid</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Chapparal</named-content>
+<named-content content-type="collectingMunicipality">Chapparal</named-content>
 , swp, H13-021[
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UCRC</named-content>
+<named-content content-type="collectionCode">UCRC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT 485243</named-content>
+<named-content content-type="specimenCode">UCRCENT 485243</named-content>
 ].
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 Jct. 138 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lone Pine Canyon rd.</named-content>
+<named-content content-type="location">Lone Pine Canyon rd.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1002m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1002m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°18’57”N</named-content>
+<named-content content-type="geoCoordinate">34°18’57”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°29’43”W</named-content>
+<named-content content-type="geoCoordinate">117°29’43”W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.v.2008</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18.v.2008</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Yanega</named-content>
+<named-content content-type="collectorName">D. Yanega</named-content>
 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UCRC</named-content>
+<named-content content-type="collectionCode">UCRC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT226454</named-content>
+<named-content content-type="specimenCode">UCRCENT226454</named-content>
 ].
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mill Creek</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">
+<named-content content-type="location">Mill Creek</named-content>
 Cyn. X Hwy
 </named-content>
 38 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Forest Falls</named-content>
+<named-content content-type="location">Forest Falls</named-content>
 turnoff, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1400m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1400m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°05’45”N</named-content>
+<named-content content-type="geoCoordinate">34°05’45”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">116°57’11”W</named-content>
+<named-content content-type="geoCoordinate">116°57’11”W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8.v.1996</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8.v.1996</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Gates</named-content>
+<named-content content-type="collectorName">M. Gates</named-content>
 , host plant: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Eriodictyon trichocalyx</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Eriodictyon trichocalyx</named-content>
 </named-content>
 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UCRC</named-content>
+<named-content content-type="collectionCode">UCRC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT414305</named-content>
+<named-content content-type="specimenCode">UCRCENT414305</named-content>
 ].
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
+<tp:material-citation>
+<named-content content-type="location">
 Mojave 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">River</named-content>
+<named-content content-type="location">River</named-content>
 </named-content>
 Forks ~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">9 mi.</named-content>
+<named-content content-type="quantity">9 mi.</named-content>
 S. Hesperia, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">966m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">966m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°19’51”N</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">34°19’51”N</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°15’48”W</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">117°15’48”W</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.v.1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.v.1985</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. D. Pinto</named-content>
+<named-content content-type="collectorName">J. D. Pinto</named-content>
 [1♁, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ANIC</named-content>
+<named-content content-type="collectionCode">ANIC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT238210</named-content>
+<named-content content-type="specimenCode">UCRCENT238210</named-content>
 ].
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 Mormon Rocks, Hwy 138, 1034m, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°19’10”N</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">34°19’10”N</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°30’16”W</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">117°30’16”W</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8.v.2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">8.v.2013</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. K. Perry</named-content>
+<named-content content-type="collectorName">R. K. Perry</named-content>
 , sweep [1♁ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♀</named-content>
+<named-content content-type="specimenCount">3♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UCRC</named-content>
+<named-content content-type="collectionCode">UCRC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT395931</named-content>
+<named-content content-type="specimenCode">UCRCENT395931</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">D3703</named-content>
+<named-content content-type="emphasis">D3703</named-content>
 )].
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">San Bernardino Natl. Forest</named-content>
+<tp:material-citation>
+<named-content content-type="location">San Bernardino Natl. Forest</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">985m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">985m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">34°06’2”N</named-content>
+<named-content content-type="geoCoordinate">34°06’2”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°01’29”W</named-content>
+<named-content content-type="geoCoordinate">117°01’29”W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7.iv.2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7.iv.2014</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. K. Perry</named-content>
+<named-content content-type="collectorName">R. K. Perry</named-content>
 , sweep, RP14/005 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UCRC</named-content>
+<named-content content-type="collectionCode">UCRC</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT414594</named-content>
+<named-content content-type="specimenCode">UCRCENT414594</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">D4000</named-content>
+<named-content content-type="emphasis">D4000</named-content>
 ), 485240 – 485242]
 </tp:material-citation>
 .

@@ -1,143 +1,143 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Nothobranchius nikiforovi , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1491-1515-">Figure 4</xref>
+<tp:nomenclature><tp:taxon-name>Nothobranchius nikiforovi , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-12--151-250-1491-1515-">Figure 4</xref>
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 urn:lsid:zoobank.org:act: 
 B1465766-5959-4EE4-9E1E-AF82EC939B17
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius cf. eggersi : van der Merwe et al . 2020: 11</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Nothobranchius cf. eggersi : van der Merwe et al . 2020: 11</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2021.001</named-content>
+<named-content content-type="specimenCode">MRAC 2021.001</named-content>
 .P.0001, male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">24.4 mm</named-content>
+<named-content content-type="quantity">24.4 mm</named-content>
 SL; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tanzania</named-content>
+<named-content content-type="collectingCountry">Tanzania</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">lower Matandu</named-content>
+<named-content content-type="location">lower Matandu</named-content>
 drainage: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Zinga</named-content>
+<named-content content-type="collectingMunicipality">Zinga</named-content>
 system: ephemeral pool, about 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">9 km</named-content>
+<named-content content-type="quantity">9 km</named-content>
 southeast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Njinjo township</named-content>
+<named-content content-type="collectingCounty">Njinjo township</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">08°51’09” S</named-content>
+<named-content content-type="geoCoordinate">08°51’09” S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">38°57’14” E</named-content>
+<named-content content-type="geoCoordinate">38°57’14” E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Nikiforov</named-content>
+<named-content content-type="collectorName">A. Nikiforov</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Korolev, S</named-content>
+<named-content content-type="collectorName">Korolev, S</named-content>
 . Streltsov &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Torgashev</named-content>
+<named-content content-type="collectorName">S. Torgashev</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 June 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 June 2017</named-content>
 </named-content>
 .
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2021.001</named-content>
+<named-content content-type="specimenCode">MRAC 2021.001</named-content>
 .P.0002-4, 3, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 males</named-content>
+<named-content content-type="specimenCount">2 males</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">19.8–20.1 mm</named-content>
+<named-content content-type="quantity">19.8–20.1 mm</named-content>
 SL &amp; female, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">14.9 mm</named-content>
+<named-content content-type="quantity">14.9 mm</named-content>
 SL; collected with the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 </tp:material-citation>
 .— 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MRAC 2021.001</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">MRAC 2021.001</named-content>
 .P.0005-6, 2, male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">24.5 mm</named-content>
+<named-content content-type="quantity">24.5 mm</named-content>
 SL &amp; female 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">24.3 mm</named-content>
+<named-content content-type="quantity">24.3 mm</named-content>
 SL; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tanzania</named-content>
+<named-content content-type="collectingCountry">Tanzania</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">lower Matandu</named-content>
+<named-content content-type="location">lower Matandu</named-content>
 drainage: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Zinga</named-content>
+<named-content content-type="collectingMunicipality">Zinga</named-content>
 system: ephemeral swamp, about 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">32 km</named-content>
+<named-content content-type="quantity">32 km</named-content>
 southwest of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Njinjo township</named-content>
+<named-content content-type="collectingCounty">Njinjo township</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">09°02’38” S</named-content>
+<named-content content-type="geoCoordinate">09°02’38” S</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">38°46’23” E</named-content>
+<named-content content-type="geoCoordinate">38°46’23” E</named-content>
 ; collectors and date as for 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 is distinguished from all other congeners, except 
-<!--template match = taxonomicName--><tp:taxon-name>N. eggersi</tp:taxon-name>
+<tp:taxon-name>N. eggersi</tp:taxon-name>
 , by males presenting two phenotypes; the blue phenotype having a bright iridescent light blue to blue-green body, with narrow red-brown scale margins creating irregular reticulated pattern forming chevron-shaped crossbars on posteroventral portion of body and median fins light blue with red-brown dotted pattern; the red phenotype has a dark red head, light blue dorsal and anal fins proximally and medially, dark red distally, with dark red stripes parallel to the fin rays, and plain dark red caudal fin.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<p>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>N. eggersi</tp:taxon-name>
+<tp:taxon-name>N. eggersi</tp:taxon-name>
 by male colour pattern: the blue phenotypes having median fins with dark grey distal portion, some of the rays of dorsal and anal fins with white tips only (vs. median fins light blue with distinct slender white distal band), the caudal fin lacking a spotted pattern (vs. dots arranged into irregular curved stripes); the red phenotype has a golden stripe between the nape and dorsal-fin origin (vs. light blue stripe), the dorsal and anal fin distal portion plain red and without light distal band (vs. with distinct narrow white distal band), the pelvic fin without distal band (vs. with distinct slender light blue to white distal band). Furthermore, it differs from 
-<!--template match = taxonomicName--><tp:taxon-name>N. eggersi</tp:taxon-name>
+<tp:taxon-name>N. eggersi</tp:taxon-name>
 by the morphometric characters of having greater postorbital length of 49–55 % HL (vs. 42–48), and greater head width of 
 64–71 in
 % of its depth (vs. 56–62).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 General body features of males illustrated by 
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1491-1515-">Figure 4 A–C</xref>
+<xref rid="fig-12--151-250-1491-1515-">Figure 4 A–C</xref>
 . Morphometric and meristic characters of 
 holotype
 and 
 paratypes
 summarised in 
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 . Relatively small-sized 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius</tp:taxon-name>
+<tp:taxon-name>Nothobranchius</tp:taxon-name>
 species, maximum observed length of specimens examined 
 24.5 mm
 SL, although specimens were observed to attain 
@@ -146,15 +146,15 @@ SL. General body shape robust, laterally compressed and deep. Greatest body dept
 124–132 in
 % of its depth. Anus slightly anterior to anal-fin origin.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Head moderately long (27.5–32.7 % SL), laterally compressed, deeper than wide (head width 
 64–71 in
 % of its depth). Snout slightly pointed, smaller than eye diameter. Mouth supraterminal, slightly oblique in profile. Jaws subequal, lower jaw longer than upper, posterior end of rictus at same level or slightly ventral to centre of eye. Premaxilla and dentary with many irregularly distributed conical, slightly curved teeth at outer row. Orbit large (33–39 % HL), mainly in anterior half of head (snout to eye end length 45–51 % HL), at median portion of head side. Branchiostegal membrane projecting posteriorly from opercle.
 </p>
-<!--template match = paragraph--><p>Dorsal-fin origin anterior to anal-fin origin, both fins originating posterior to mid-length of body. Distal border of dorsal and anal fins rounded, with small contact organs in form of papillae on fin rays and distal margin with short filamentous rays. Posterior extremity of dorsal fin reaching caudal-fin base. Dorsal fin, 14–16; anal fin, 13–16. Pectoral fin subtriangular; insertion slightly posterior to margin of opercular opening; base slightly oblique, upper fin rays placed slightly anteriorly to lower fin rays, tip reaching or slightly surpassing base of pelvic fin. Pelvic fin subabdominal, its origin at about mid-length of body, short, bases medially separated, tip reaching urogenital papilla. Caudal fin subtruncate, with 13–14 branched rays, plus two to five procurrent rays at dorsal and ventral origins.</p>
-<!--template match = paragraph--><p>Scales cycloid, body and head entirely scaled, except for ventral surface of head. No scales on the base of dorsal and anal fins. Scales in mid-longitudinal series, 26–28 plus two or three small scales on caudal-fin base. Transverse rows of scales in front of dorsal-fin origin, 10–11; scale rows around caudal peduncle 12.</p>
-<!--template match = paragraph--><p>Frontal squamation pattern variable. Anterior nostril at anterior tip of snout, tubular opening lateral to upper lip. Posterior nostril in front of orbit, with oblique oval aperture. Frontal sensory system with one neuromast in shallow groove. Cephalic sensory system at supraorbital level fragmented into two discontinuous portions, with one neuromast at anterior level in shallow groove, continued over orbit at posterior supraorbital level with two exposed neuromasts, whereas at supratemporal level in slightly curved shallow groove, with three or four exposed neuromasts. Preorbital canal in shallow groove with three exposed neuromasts; postorbital canal in deep groove with one exposed neuromast; infraorbital level with about dozen small buttons at ventral and posterior margin of orbit. Preopercular system with six to seven exposed neuromasts in deep groove on preopercle portion, whereas in shallow groove with small buttons on ventral portion. Mandibular canal in shallow groove with about ten small buttons. One neuromast on each scale along trunk mid-longitudinal series.</p>
-<!--template match = paragraph--><p>
+<p>Dorsal-fin origin anterior to anal-fin origin, both fins originating posterior to mid-length of body. Distal border of dorsal and anal fins rounded, with small contact organs in form of papillae on fin rays and distal margin with short filamentous rays. Posterior extremity of dorsal fin reaching caudal-fin base. Dorsal fin, 14–16; anal fin, 13–16. Pectoral fin subtriangular; insertion slightly posterior to margin of opercular opening; base slightly oblique, upper fin rays placed slightly anteriorly to lower fin rays, tip reaching or slightly surpassing base of pelvic fin. Pelvic fin subabdominal, its origin at about mid-length of body, short, bases medially separated, tip reaching urogenital papilla. Caudal fin subtruncate, with 13–14 branched rays, plus two to five procurrent rays at dorsal and ventral origins.</p>
+<p>Scales cycloid, body and head entirely scaled, except for ventral surface of head. No scales on the base of dorsal and anal fins. Scales in mid-longitudinal series, 26–28 plus two or three small scales on caudal-fin base. Transverse rows of scales in front of dorsal-fin origin, 10–11; scale rows around caudal peduncle 12.</p>
+<p>Frontal squamation pattern variable. Anterior nostril at anterior tip of snout, tubular opening lateral to upper lip. Posterior nostril in front of orbit, with oblique oval aperture. Frontal sensory system with one neuromast in shallow groove. Cephalic sensory system at supraorbital level fragmented into two discontinuous portions, with one neuromast at anterior level in shallow groove, continued over orbit at posterior supraorbital level with two exposed neuromasts, whereas at supratemporal level in slightly curved shallow groove, with three or four exposed neuromasts. Preorbital canal in shallow groove with three exposed neuromasts; postorbital canal in deep groove with one exposed neuromast; infraorbital level with about dozen small buttons at ventral and posterior margin of orbit. Preopercular system with six to seven exposed neuromasts in deep groove on preopercle portion, whereas in shallow groove with small buttons on ventral portion. Mandibular canal in shallow groove with about ten small buttons. One neuromast on each scale along trunk mid-longitudinal series.</p>
+<p>
 Females slightly smaller than males, maximum observed size 
 24.3 mm
 SL. Body more laterally compressed than in males (head width 46–49 % HL vs. 53–58, head width 
@@ -163,16 +163,16 @@ SL. Body more laterally compressed than in males (head width 46–49 % HL vs. 53
 156–157 in
 % of its depth vs. 124–132, caudal peduncle depth 12.1–12.3 % SL vs. 12.4–15.2).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Colouration.
 Live males (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1491-1515-">Fig. 4 B–C</xref>
+<xref rid="fig-12--151-250-1491-1515-">Fig. 4 B–C</xref>
 ) presenting both blue and red phenotypes.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-12--151-250-1491-1515-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-12--151-250-1491-1515-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 , 
 A.
 holotype, male, MRAC 2021.001.P.0001, 24.4 mm SL; Tanzania: lower Matandu drainage: Zinga system: ephemeral pool, about 9 km SE of Njinjo; 
@@ -184,47 +184,47 @@ D.
 captive bred female from the type locality, about 20 mm SL. Photographs by B. Nagy (A, D) and A. Nikiforov (B, C).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4643482/files/figure.png"/></fig>
-<!--template match = paragraph--><p>Blue phenotype: Scales on trunk bright iridescent blue-green, with narrow red-brown scale margins creating irregular reticulated pattern. Scales on abdomen light blue to white. Scales on dorsum anterior to dorsal fin golden green. Lower jaw, snout, and frontal portions of head blue-green. Posterior scale margins on post-orbital portion of opercle creating three red-brown oblique bars. Exposed branchiostegal membrane light blue-green. Iris light blue to golden. Median fins light blue sparsely spotted with red-brown dots, and with dark grey distal portion, some rays of dorsal and anal fins with white tips. Pelvic fin yellow-green. Pectoral fin hyaline with light blue tip.</p>
-<!--template match = paragraph--><p>Red phenotype: Scales on trunk bright iridescent light blue, with narrow dark red scale margins creating intense reticulated pattern, forming chevron-shaped crossbars on posteroventral portion of body. Scales on abdomen light blue to silver. Dorsum with golden scales on dorsal region, creating stripe between nape and dorsal-fin origin. Lower jaw, snout and frontal portions of head dark red. Posterior scale margins on post-orbital portion of opercle creating three dark red oblique bars or reticulations. Exposed branchiostegal membrane dark red. Iris light blue to golden. Dorsal and anal fins light blue proximally and medially, with dark red stripes parallel to fin rays, and plain dark red distally. Caudal fin plain dark red. Pelvic fin plain red. Pectoral fin dark red.</p>
-<!--template match = paragraph--><p>
+<p>Blue phenotype: Scales on trunk bright iridescent blue-green, with narrow red-brown scale margins creating irregular reticulated pattern. Scales on abdomen light blue to white. Scales on dorsum anterior to dorsal fin golden green. Lower jaw, snout, and frontal portions of head blue-green. Posterior scale margins on post-orbital portion of opercle creating three red-brown oblique bars. Exposed branchiostegal membrane light blue-green. Iris light blue to golden. Median fins light blue sparsely spotted with red-brown dots, and with dark grey distal portion, some rays of dorsal and anal fins with white tips. Pelvic fin yellow-green. Pectoral fin hyaline with light blue tip.</p>
+<p>Red phenotype: Scales on trunk bright iridescent light blue, with narrow dark red scale margins creating intense reticulated pattern, forming chevron-shaped crossbars on posteroventral portion of body. Scales on abdomen light blue to silver. Dorsum with golden scales on dorsal region, creating stripe between nape and dorsal-fin origin. Lower jaw, snout and frontal portions of head dark red. Posterior scale margins on post-orbital portion of opercle creating three dark red oblique bars or reticulations. Exposed branchiostegal membrane dark red. Iris light blue to golden. Dorsal and anal fins light blue proximally and medially, with dark red stripes parallel to fin rays, and plain dark red distally. Caudal fin plain dark red. Pelvic fin plain red. Pectoral fin dark red.</p>
+<p>
 Live female (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1491-1515-">Fig. 4 D</xref>
+<xref rid="fig-12--151-250-1491-1515-">Fig. 4 D</xref>
 ): scales on trunk and head pale grey-brown, darker on dorsum and lighter to silver on venter. Scales with dark grey-brown margin, creating reticulation on trunk. Light blue iridescence on trunk and opercular region. Iris silver. All fins hyaline.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 is currently known from temporary pools formed in the floodplain of the lower reaches of the seasonal Matandu River drainage (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1820-1844-">Fig. 1</xref>
+<xref rid="fig-2--151-250-1820-1844-">Fig. 1</xref>
 ). Three sites, including the type locality and the site of 
 paratypes
 , are associated with the Zinga River, a south bank tributary of the Matandu River (indicated with ‘T’ for type locality and ‘P’ for 
 paratype
 locality in 
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1820-1844-">Figure 1</xref>
+<xref rid="fig-2--151-250-1820-1844-">Figure 1</xref>
 ). A fourth known site is located further east, on the coastal floodplain associated with the lowermost part of the Matandu drainage.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Ecology.
 The lower reaches of the Matandu drainage in south-eastern 
 Tanzania
 , where 
-<!--template match = taxonomicName--><tp:taxon-name>N . nikiforovi</tp:taxon-name>
+<tp:taxon-name>N . nikiforovi</tp:taxon-name>
 occurs, has a unimodal rainfall pattern extending from November to April, inferring an annual mode of reproduction in this species. The mean annual rainfall decreases southwards along the coast and is around 
 1000 mm
 at the Matandu River (
-<!--template match = bibRefCitation--><xref rid="ref10882">Hughes &amp; Hughes 1992</xref>
+<xref rid="ref10882">Hughes &amp; Hughes 1992</xref>
 ). Wetlands are at their lowest levels in August to September, when seasonal streams and most temporary habitats are dry.
 </p>
-<!--template match = paragraph--><p>
+<p>
 The type locality is a small temporary pool formed in the drainage of the seasonal Zinga River, a tributary of the Matandu River (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1980-2004-">Fig. 5</xref>
+<xref rid="fig-13--151-250-1980-2004-">Fig. 5</xref>
 ). The habitat belongs to category 2.1.1 as defined by 
-<!--template match = bibRefCitation--><xref rid="ref12713">Watters (2014)</xref>
+<xref rid="ref12713">Watters (2014)</xref>
 , representing ditches and excavated or eroded depressions associated with culverts along roads traversing the floodplain. At the end of the rainy season, the habitat was a shallow pool, about 
 10 m
 long and less than 
@@ -232,48 +232,48 @@ long and less than
 wide, and less than 
 1 m
 at the deepest point. At the type locality, all sampling took place in the same general habitat. The water was turbid, the bottom of the pool was not visible. Accompanying congeners consisted of 
-<!--template match = taxonomicName--><tp:taxon-name>N . cf. melanospilus</tp:taxon-name>
+<tp:taxon-name>N . cf. melanospilus</tp:taxon-name>
 . No water quality determinations were made at the time of collection of the type specimens. However, the second author, when visiting the 
 paratype
 locality on 
 June 7, 1997
 during the mid-afternoon, determined the following water conditions: pH = 7.8, total dissolved solids = 440 ppm, temperature = 26 °C.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-13--151-250-1980-2004-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-13--151-250-1980-2004-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
 Type locality of 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 ; Tanzania: lower Matandu drainage: ephemeral pool, about 9 km southeast of Njinjo township. Photographed on 14 June 2017.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4643484/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Conservation status.
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 is recommended to be listed as Vulnerable. The species is currently known from four sites, belonging to three threat-based locations. The species might exist at some other sites within the drainages associated with the lower Matandu but its distribution will remain restricted and any potential additional populations are expected to be fragmented. The extent of occurrence is expected to be less than 
 5,000 km
 ² and the maximum number of threat-based locations is estimated as ten. Using IUCN version 3.1 (2012), the species meets the criteria B1ab(iii) for Vulnerable.
 </p>
-<!--template match = paragraph--><p>
+<p>
 The increasing pressure on land and water resources of wetlands will continue to result in habitat degradation and represent and important threat to the species, raising vulnerability in terms of conservation status. In combination with its seasonal life cycle in ephemeral habitats, its dependence on the clay-rich vertisol-type substratum for embryonic development makes the species more exposed to threats (
-<!--template match = bibRefCitation--><xref rid="ref12955">Nagy &amp; Watters 2020</xref>
+<xref rid="ref12955">Nagy &amp; Watters 2020</xref>
 ).
 </p>
-<!--template match = paragraph--><p>No conservation measures are in place for this species, and it is not known from any protected areas. There is a need for improved habitat protection at the locations where the species is known to occur. Additional surveys targeting suitable habitats should be conducted in the region in order to better understand the geographic distribution of this species and to elaborate the appropriate measures of conservation.</p>
-<!--template match = paragraph--><p>
+<p>No conservation measures are in place for this species, and it is not known from any protected areas. There is a need for improved habitat protection at the locations where the species is known to occur. Additional surveys targeting suitable habitats should be conducted in the region in order to better understand the geographic distribution of this species and to elaborate the appropriate measures of conservation.</p>
+<p>
 Biology.
 Aquarium maintenance of selected specimens was undertaken for observation of breeding behaviour and biology. 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
+<tp:taxon-name>Nothobranchius nikiforovi</tp:taxon-name>
 has an annual mode of reproduction, typical of the genus. Eggs are deposited in the habitat substrate, where they survive the dry season and hatch with the onset of the wet season. Under captive conditions, peat moss was used successfully as an artificial spawning substrate. An embryonic development period of three to four months was observed at a temperature of about 22–24 °C.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 The specific name is given in honour of Andrei Nikiforov, from 
 Russia
 , who participated in several field surveys aimed at research on 
-<!--template match = taxonomicName--><tp:taxon-name>Nothobranchius</tp:taxon-name>
+<tp:taxon-name>Nothobranchius</tp:taxon-name>
 fishes in 
 Tanzania
 , and he is co-discoverer of the new species and co-collector of the 

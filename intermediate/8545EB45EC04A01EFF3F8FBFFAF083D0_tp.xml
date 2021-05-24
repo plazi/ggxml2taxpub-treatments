@@ -1,288 +1,288 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1883-1907-">Figs. 1C, D</xref>
+<xref rid="fig-5--151-250-1883-1907-">Figs. 1C, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">5–7</xref>
+<xref rid="fig-">5–7</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Gahrliepia (Walchia) delicatula Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960c: 470</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Gahrliepia (Walchia) delicatula Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960c: 470</tp:taxon-name>
 </tp:nomenclature-citation>
 , figs. 46–53.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Gahrliepia (Walchia) delicatula : Chau et al. 2007: 167</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Gahrliepia (Walchia) delicatula : Chau et al. 2007: 167</tp:taxon-name>
 </tp:nomenclature-citation>
 , fig. 82.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Walchia (Walchia) delicatula : Vercammen-Grandjean 1968: 111</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Walchia (Walchia) delicatula : Vercammen-Grandjean 1968: 111</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Walchia delicatula : Kudryashova 2004: 45</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Walchia delicatula : Kudryashova 2004: 45</tp:taxon-name>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Walchia tianguangshanensis Zhao, 1981: 324</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Walchia tianguangshanensis Zhao, 1981: 324</tp:taxon-name>
 </tp:nomenclature-citation>
 , figs. 1–5, 
 syn. nov.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 SIF = 4B-N-3-2110.0000; fsp = 7.6.6; fCx = 1.1.1; fSt = 2.2; fPp = N/N/NNN; fSc: AL&gt; PL; Ip = 552–639; fD = 2H-6-6-6-6-4-3-2; DS = 31–38; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">V</named-content>
 = 38–49; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NDV</named-content>
+<named-content content-type="collectionCode">NDV</named-content>
 = 69–87. Eyes 2 + 2. Standard measurements of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+<named-content content-type="typeStatus">type</named-content>
 series given in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 3</named-content>
+<named-content content-type="tableCitation">Table 3</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--151-239-666-690-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--151-239-666-690-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 3.
 Standard measurements (µm) and numbers of setae of 
-<!--template match = taxonomicName--><tp:taxon-name>Walchia delicatula</tp:taxon-name>
+<tp:taxon-name>Walchia delicatula</tp:taxon-name>
 (n = 12).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e266">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e266">
+<tr>
+<td>
 Range
 </td>
-<!--template match = td--><td>
+<td>
 Mean
 </td>
-<!--template match = td--><td>
+<td>
 Lectotype
 </td>
-<!--template match = td--><td>
+<td>
 
-<!--template match = taxonomicName--><tp:taxon-name>W. tianguangshanensis</tp:taxon-name>
+<tp:taxon-name>W. tianguangshanensis</tp:taxon-name>
 (by 
-<!--template match = bibRefCitation--><xref rid="ref23816">Zhao 1981</xref>
+<xref rid="ref23816">Zhao 1981</xref>
 )
 
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>AW</td>
-<!--template match = td--><td>41–49</td>
-<!--template match = td--><td>46</td>
-<!--template match = td--><td>41</td>
-<!--template match = td--><td>45</td>
+<tr>
+<td>AW</td>
+<td>41–49</td>
+<td>46</td>
+<td>41</td>
+<td>45</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>PW</td>
-<!--template match = td--><td>52–69</td>
-<!--template match = td--><td>59</td>
-<!--template match = td--><td>52</td>
-<!--template match = td--><td>58</td>
+<tr>
+<td>PW</td>
+<td>52–69</td>
+<td>59</td>
+<td>52</td>
+<td>58</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>SB</td>
-<!--template match = td--><td>34–45</td>
-<!--template match = td--><td>39</td>
-<!--template match = td--><td>34</td>
-<!--template match = td--><td>43</td>
+<tr>
+<td>SB</td>
+<td>34–45</td>
+<td>39</td>
+<td>34</td>
+<td>43</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>ASB</td>
-<!--template match = td--><td>22–31</td>
-<!--template match = td--><td>27</td>
-<!--template match = td--><td>22</td>
-<!--template match = td--><td>24</td>
+<tr>
+<td>ASB</td>
+<td>22–31</td>
+<td>27</td>
+<td>22</td>
+<td>24</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>PSB</td>
-<!--template match = td--><td>59–72</td>
-<!--template match = td--><td>63</td>
-<!--template match = td--><td>61</td>
-<!--template match = td--><td>70</td>
+<tr>
+<td>PSB</td>
+<td>59–72</td>
+<td>63</td>
+<td>61</td>
+<td>70</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>SD</td>
-<!--template match = td--><td>83–99</td>
-<!--template match = td--><td>90</td>
-<!--template match = td--><td>83</td>
-<!--template match = td--><td>94</td>
+<tr>
+<td>SD</td>
+<td>83–99</td>
+<td>90</td>
+<td>83</td>
+<td>94</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P-PL</td>
-<!--template match = td--><td>36–46</td>
-<!--template match = td--><td>41</td>
-<!--template match = td--><td>39</td>
-<!--template match = td--><td>-</td>
+<tr>
+<td>P-PL</td>
+<td>36–46</td>
+<td>41</td>
+<td>39</td>
+<td>-</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>AP</td>
-<!--template match = td--><td>42–52</td>
-<!--template match = td--><td>46</td>
-<!--template match = td--><td>44</td>
-<!--template match = td--><td>45</td>
+<tr>
+<td>AP</td>
+<td>42–52</td>
+<td>46</td>
+<td>44</td>
+<td>45</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>AL</td>
-<!--template match = td--><td>31–38</td>
-<!--template match = td--><td>34</td>
-<!--template match = td--><td>33</td>
-<!--template match = td--><td>34</td>
+<tr>
+<td>AL</td>
+<td>31–38</td>
+<td>34</td>
+<td>33</td>
+<td>34</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>PL</td>
-<!--template match = td--><td>29–32</td>
-<!--template match = td--><td>31</td>
-<!--template match = td--><td>29</td>
-<!--template match = td--><td>34</td>
+<tr>
+<td>PL</td>
+<td>29–32</td>
+<td>31</td>
+<td>29</td>
+<td>34</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>H</td>
-<!--template match = td--><td>30–40</td>
-<!--template match = td--><td>35</td>
-<!--template match = td--><td>35</td>
-<!--template match = td--><td>31</td>
+<tr>
+<td>H</td>
+<td>30–40</td>
+<td>35</td>
+<td>35</td>
+<td>31</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>D min</td>
-<!--template match = td--><td>22–30</td>
-<!--template match = td--><td>28</td>
-<!--template match = td--><td>28</td>
-<!--template match = td--><td>23</td>
+<tr>
+<td>D min</td>
+<td>22–30</td>
+<td>28</td>
+<td>28</td>
+<td>23</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>D max</td>
-<!--template match = td--><td>26–38</td>
-<!--template match = td--><td>35</td>
-<!--template match = td--><td>35</td>
-<!--template match = td--><td>28</td>
+<tr>
+<td>D max</td>
+<td>26–38</td>
+<td>35</td>
+<td>35</td>
+<td>28</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>V min</td>
-<!--template match = td--><td>14–19</td>
-<!--template match = td--><td>17</td>
-<!--template match = td--><td>17</td>
-<!--template match = td--><td>16</td>
+<tr>
+<td>V min</td>
+<td>14–19</td>
+<td>17</td>
+<td>17</td>
+<td>16</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>V max</td>
-<!--template match = td--><td>24–35</td>
-<!--template match = td--><td>31</td>
-<!--template match = td--><td>32</td>
-<!--template match = td--><td>29</td>
+<tr>
+<td>V max</td>
+<td>24–35</td>
+<td>31</td>
+<td>32</td>
+<td>29</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>pa</td>
-<!--template match = td--><td>190–234</td>
-<!--template match = td--><td>212</td>
-<!--template match = td--><td>220</td>
-<!--template match = td--><td>210</td>
+<tr>
+<td>pa</td>
+<td>190–234</td>
+<td>212</td>
+<td>220</td>
+<td>210</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>pm</td>
-<!--template match = td--><td>157–184</td>
-<!--template match = td--><td>174</td>
-<!--template match = td--><td>183</td>
-<!--template match = td--><td>183</td>
+<tr>
+<td>pm</td>
+<td>157–184</td>
+<td>174</td>
+<td>183</td>
+<td>183</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>pp</td>
-<!--template match = td--><td>203–238</td>
-<!--template match = td--><td>218</td>
-<!--template match = td--><td>211</td>
-<!--template match = td--><td>216</td>
+<tr>
+<td>pp</td>
+<td>203–238</td>
+<td>218</td>
+<td>211</td>
+<td>216</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Ip</td>
-<!--template match = td--><td>552–639</td>
-<!--template match = td--><td>604</td>
-<!--template match = td--><td>614</td>
-<!--template match = td--><td>610</td>
+<tr>
+<td>Ip</td>
+<td>552–639</td>
+<td>604</td>
+<td>614</td>
+<td>610</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>DS</td>
-<!--template match = td--><td>31–38</td>
-<!--template match = td--><td>36</td>
-<!--template match = td--><td>36</td>
-<!--template match = td--><td>33</td>
+<tr>
+<td>DS</td>
+<td>31–38</td>
+<td>36</td>
+<td>36</td>
+<td>33</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>V</td>
-<!--template match = td--><td>38–49</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>45</td>
+<tr>
+<td>V</td>
+<td>38–49</td>
+<td>43</td>
+<td>43</td>
+<td>45</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>NDV</td>
-<!--template match = td--><td>69–87</td>
-<!--template match = td--><td>79</td>
-<!--template match = td--><td>79</td>
-<!--template match = td--><td>78</td>
+<tr>
+<td>NDV</td>
+<td>69–87</td>
+<td>79</td>
+<td>79</td>
+<td>78</td>
 </tr>
 </table>
 </p>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description (larva)
 [based on 
 lectotype
 and 
 11 paralectotypes
 ]. IDIOSOMA (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1883-1907-">Figs. 1C, D</xref>
+<xref rid="fig-5--151-250-1883-1907-">Figs. 1C, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1896-1920-">5</xref>
+<xref rid="fig-11--151-250-1896-1920-">5</xref>
 ). Eyes 2 + 2, posterior pair smaller; 31–38 barbed dorsal idiosomal setae including one pair of humeral setae; 4 sternal setae; 38–49 ventral setae; NDV = 69–87.
 </p>
-<!--template match = paragraph--><p>
+<p>
 GNATHOSOMA (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1866-1890-">Fig. 6A, B</xref>
+<xref rid="fig-12--151-250-1866-1890-">Fig. 6A, B</xref>
 ). Cheliceral blade with tricuspid cap; cheliceral base moderately covered with puncta; gnathobase with dense puncta and 1 pair of branched setae; galeala nude; palpal claw with 3 prongs; setae on palpal femur, genu, and tibia nude; palpal tarsus with 4 branched setae and tarsala.
 </p>
-<!--template match = paragraph--><p>
+<p>
 SCUTUM (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1883-1907-">Fig. 1C</xref>
+<xref rid="fig-5--151-250-1883-1907-">Fig. 1C</xref>
 ). Pentagonal, longer than width, with pointed posterior angle, densely covered with small puncta, with 1 pair of ALs and 1 pair of PLs; sensilla fusiform, covered with spikes; sensillum bases situated at equal distances from levels of ALs and PLs.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1896-1920-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--151-250-1896-1920-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 5.
-<!--template match = taxonomicName--><tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
+<tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
 . 
 A
 , arrangement of dorsal idiosomal setae of paralectotype ZMMU Tdt-3239 (specimen 2); 
@@ -296,10 +296,10 @@ D
 , preanal seta of paralectotype ZMMU Tdt-3238 (specimen 2). Scale bars: 100 μm (A, B), 20 μm (C, D).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745685/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-12--151-250-1866-1890-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-12--151-250-1866-1890-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 6.
-<!--template match = taxonomicName--><tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
+<tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
 . 
 A
 , ventral aspect of gnathosoma of paralectotype ZMMU Tdt-3238 (specimen 2); 
@@ -313,53 +313,53 @@ E
 , leg III (trochanter–tarsus) of paralectotype ZMMU Tdt-3239 (specimen 2). Scale bars: 20 μm (A, B), 50 μm (C–E).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745689/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-13--151-250-838-862-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-13--151-250-838-862-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 7.
 Type specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
+<tp:taxon-name>Walchia delicatula (Schluger, Grochovskaja, Ngu, Hoe and Tung, 1960)</tp:taxon-name>
 on slides.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745691/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 LEGS (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1866-1890-">Fig. 6C–E</xref>
+<xref rid="fig-12--151-250-1866-1890-">Fig. 6C–E</xref>
 ). All with 1 pair of claws and claw-like empodium. Leg I: 7-segmented, coxa with 1 branched seta (1B); trochanter 1B; basifemur 1B; telofemur 5B; genu 4B, 2 genualae, microgenuala; tibia 8B, 2 tibialae, microtibiala; tarsus 22B, tarsala, microtarsala proximal to tarsala, subterminala, parasubterminala, pretarsala. Leg II: 6-segmented, coxa 1B; trochanter 1B; femur 6B; genu 3B, genuala; tibia 6B, 2 tibialae; tarsus 16B, tarsala, microtarsala near and proximal to tarsala, pretarsala. Leg III: 6-segmented, coxa 1B; trochanter 1B; femur 4B, nude ventral femorala; genu 3B, genuala; tibia 6B; tarsus 15B.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Hosts.
-<!--template match = taxonomicName--><tp:taxon-name>Tupaia hongaensis</tp:taxon-name>
+<tp:taxon-name>Tupaia hongaensis</tp:taxon-name>
 (
 nomen nudum
 ) (
-<!--template match = taxonomicName--><tp:taxon-name>Scandentia</tp:taxon-name>
+<tp:taxon-name>Scandentia</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Tupaiidae</tp:taxon-name>
+<tp:taxon-name>Tupaiidae</tp:taxon-name>
 ), 
 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus norvegicus</tp:taxon-name>
+<tp:taxon-name>Rattus norvegicus</tp:taxon-name>
 ,
 
-<!--template match = taxonomicName--><tp:taxon-name>Rhizomys pruinosus ( Schluger et al. 1960c )</tp:taxon-name>
+<tp:taxon-name>Rhizomys pruinosus ( Schluger et al. 1960c )</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Rattus tanezumi</tp:taxon-name>
+<tp:taxon-name>Rattus tanezumi</tp:taxon-name>
 (= 
-<!--template match = taxonomicName--><tp:taxon-name>R. flavipectus</tp:taxon-name>
+<tp:taxon-name>R. flavipectus</tp:taxon-name>
 ) (
-<!--template match = bibRefCitation--><xref rid="ref21456">
+<xref rid="ref21456">
 Chau 
 et al.
 2007
 </xref>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>Berylmys bowersi</tp:taxon-name>
+<tp:taxon-name>Berylmys bowersi</tp:taxon-name>
 (this study).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 China
 (this study), 
@@ -367,134 +367,134 @@ Vietnam
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined
 (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-838-862-">Fig. 7</xref>
+<xref rid="fig-13--151-250-838-862-">Fig. 7</xref>
 ). 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Lectotype</named-content>
 (here designated): larva 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3240 (specimen 3) ex 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">R. pruinosus</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">R. pruinosus</named-content>
 No
 </named-content>
 208, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<named-content content-type="collectingCountry">Vietnam</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ha Giang Province</named-content>
+<named-content content-type="collectingRegion">Ha Giang Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ha Giang</named-content>
+<named-content content-type="collectingRegion">Ha Giang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 May 1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 May 1956</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
+<named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paralectotypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paralectotypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">seven larvae</named-content>
+<named-content content-type="specimenCount">seven larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3237 (specimen 3), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3238 (specimens 2, 3), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3239 (specimen 2), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3240 (specimen 5), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3241 (specimen 3), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3242 (specimen 3), same collection data as for lectotype; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">five larvae</named-content>
+<named-content content-type="specimenCount">five larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3234 (specimens 1, 2, 4), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMMU</named-content>
+<named-content content-type="collectionCode">ZMMU</named-content>
 Tdt-3236 (specimens 2, 5), ex 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">R. pruinosus</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">R. pruinosus</named-content>
 No
 </named-content>
 258, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+<named-content content-type="collectingCountry">Vietnam</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ha Giang Province</named-content>
+<named-content content-type="collectingRegion">Ha Giang Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ha Giang</named-content>
+<named-content content-type="collectingRegion">Ha Giang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3 June 1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">3 June 1956</named-content>
 </named-content>
 , coll. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
+<named-content content-type="collectorName">I.M. Grochovskaja.</named-content>
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 According to the original description, 
-<!--template match = taxonomicName--><tp:taxon-name>W. delicatula</tp:taxon-name>
+<tp:taxon-name>W. delicatula</tp:taxon-name>
 is similar to 
-<!--template match = taxonomicName--><tp:taxon-name>W. neosinensis ( Hsu and Wen, 1956 )</tp:taxon-name>
+<tp:taxon-name>W. neosinensis ( Hsu and Wen, 1956 )</tp:taxon-name>
 , but differs in the “shape of trichobothria (sensilla), position of seta on leg coxa III, nude outer lateral seta on palpal tibia, wider scutum, and other characters” (
-<!--template match = bibRefCitation--><xref rid="ref22738">
+<xref rid="ref22738">
 Schluger 
 et al.
 1960c
 </xref>
 ). The “outer lateral seta on palpal tibia” is actually ventral palpal tibial seta. The difference in its shape (fPp = N/N/NNN in 
-<!--template match = taxonomicName--><tp:taxon-name>W. delicatula</tp:taxon-name>
+<tp:taxon-name>W. delicatula</tp:taxon-name>
 and fPp = N/N/NNB in 
-<!--template match = taxonomicName--><tp:taxon-name>W. neosinensis</tp:taxon-name>
+<tp:taxon-name>W. neosinensis</tp:taxon-name>
 ) is the most clear difference between these two species. We did not find the difference between these species in the position of coxal seta III. The difference in the shape of sensilla (narrower in 
-<!--template match = taxonomicName--><tp:taxon-name>W. delicatula</tp:taxon-name>
+<tp:taxon-name>W. delicatula</tp:taxon-name>
 than in 
-<!--template match = taxonomicName--><tp:taxon-name>W. neosinensis</tp:taxon-name>
+<tp:taxon-name>W. neosinensis</tp:taxon-name>
 ) seems reliable, although rather slight. According to our data, the metric differences between these species are as follows: AW = 41–49, PW = 52–69, SB = 34–45, ASB = 22–31, SD = 83–99, and AP = 
 42–52 in
 the 
 type
 series of 
-<!--template match = taxonomicName--><tp:taxon-name>W. delicatula</tp:taxon-name>
+<tp:taxon-name>W. delicatula</tp:taxon-name>
 vs. 33, 41, 29, 20, 82, and 
 38 in
-<!--template match = taxonomicName--><tp:taxon-name>W. neosinensis</tp:taxon-name>
+<tp:taxon-name>W. neosinensis</tp:taxon-name>
 , respectively (
-<!--template match = bibRefCitation--><xref rid="ref21767">Hsu &amp; Wen 1956</xref>
+<xref rid="ref21767">Hsu &amp; Wen 1956</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref22142">
+<xref rid="ref22142">
 Li 
 et al.
 1997
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The species 
-<!--template match = taxonomicName--><tp:taxon-name>W. tianguangshanensis Zhao, 1981</tp:taxon-name>
+<tp:taxon-name>W. tianguangshanensis Zhao, 1981</tp:taxon-name>
 , which was described from a single specimen ex 
-<!--template match = taxonomicName--><tp:taxon-name>B. bowersi</tp:taxon-name>
+<tp:taxon-name>B. bowersi</tp:taxon-name>
 from 
 Guangdong Province
 of 
 China
 , does not differ from 
-<!--template match = taxonomicName--><tp:taxon-name>W. delicatula</tp:taxon-name>
+<tp:taxon-name>W. delicatula</tp:taxon-name>
 , neither by morphology, nor by measurements (
-<!--template match = tableCitation--><xref>Table 2</xref>
+<xref>Table 2</xref>
 ), and therefore is synonymized here with the latter.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Specimens Nos 1 and 2 on the slide ZMMU Tdt-3237 belong to 
-<!--template match = taxonomicName--><tp:taxon-name>Walchia pacifica (Chen and Hsu, 1955)</tp:taxon-name>
+<tp:taxon-name>Walchia pacifica (Chen and Hsu, 1955)</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>

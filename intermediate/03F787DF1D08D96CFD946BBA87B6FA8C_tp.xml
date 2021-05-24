@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figs 2–7</xref>
+<tp:nomenclature><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figs 2–7</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-">10–11</xref>
+<xref rid="fig-">10–11</xref>
 ; 
-<!--template match = tableCitation--><xref>Tables 2–3</xref>
+<xref>Tables 2–3</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Seira nigromaculata Lubbock 1873: 146</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Seira nigromaculata Lubbock 1873: 146</tp:taxon-name>
 </tp:nomenclature-citation>
 , 
 Great Britain
@@ -24,12 +24,12 @@ Great Britain
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Willowsia nigromaculata</tp:taxon-name>
 – 
-<!--treatment-citation--><tp:nomenclature-citation>Shoebotham 1917: 432 (comb.).</tp:nomenclature-citation>
+<tp:nomenclature-citation>Shoebotham 1917: 432 (comb.).</tp:nomenclature-citation>
 — 
-<!--template match = bibRefCitation--><xref rid="ref11872">
+<xref rid="ref11872">
 Zhang 
 et al.
 2011
@@ -39,71 +39,71 @@ et al.
 .
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="type_taxon">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Type species</title>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Seira nigromaculata Lubbock, 1873</tp:taxon-name>
+<tp:treatment-sec sec-type="type_taxon">
+<title>Type species</title>
+<p>
+<tp:taxon-name>Seira nigromaculata Lubbock, 1873</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<title>Diagnosis</title>
+<p>
 Body with pigments laterally on head to Abd III, and spots on Abd IV, femur and tibiotarsus (
-<!--template match = figureCitation--><xref rid="fig-6--188-231-1962-1988-">Fig. 2</xref>
+<xref rid="fig-6--188-231-1962-1988-">Fig. 2</xref>
 ); head mac S0 absent, Ps3 mes and Ps5 mac present; sublobal plate with 2 inner appendages (
-<!--template match = figureCitation--><xref rid="fig-9--189-231-1890-1916-">Fig. 5E</xref>
+<xref rid="fig-9--189-231-1890-1916-">Fig. 5E</xref>
 ); Th II–Abd IV formula with 9,8|3,3,3+7,7+14 mac, p2a rarely present on Th III (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6A–C</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6A–C</xref>
 ); manubrium dorsally with 7 lateral chaetae abruptly acuminate at the tip, manubrial plate with 3–4 chaetae, 1 mac (
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">Fig. 7G–H</xref>
+<xref rid="fig-11--189-232-1857-1883-">Fig. 7G–H</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">FRANCE</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<title>Material examined</title>
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">FRANCE</named-content>
 • 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♀♀</named-content>
+<named-content content-type="specimenCount">5 ♀♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 juvenile</named-content>
+<named-content content-type="specimenCount">1 juvenile</named-content>
 on slides, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 specimens</named-content>
+<named-content content-type="specimenCount">7 specimens</named-content>
 in alcohol; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Paris</named-content>
+<named-content content-type="collectingMunicipality">Paris</named-content>
 , National Museum of Natural History, Department de Systematique et Évolution; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">48°50′30.0″ N</named-content>
+<named-content content-type="geoCoordinate">48°50′30.0″ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">02°21′33.1″ E</named-content>
+<named-content content-type="geoCoordinate">02°21′33.1″ E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">in laboratory benchtop</named-content>
+<named-content content-type="collectedFrom">in laboratory benchtop</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1 Jun. 2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1 Jun. 2016</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">VD Tarli</named-content>
+<named-content content-type="collectorName">VD Tarli</named-content>
 leg.; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">INPA</named-content>
+<named-content content-type="collectionCode">INPA</named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<title>Description</title>
+<p>
 LENGTH. Total length (head + trunk) of specimens 
 1.51–1.85 mm
 (n = 3). Specimens pale yellowish white with violet pigments on Ant II to Ant IV, head laterally, margins of Th II–Abd II, Abd III with one transverse band that expands laterally, Abd IV dorsally with one irregular lateral spot, irregular spots on
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--188-231-1962-1988-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--188-231-1962-1988-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 2.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 , habitus. 
 A
 . Lateral view. 
@@ -111,11 +111,11 @@ B
 . Dorsal view. Scale bars: 0.5 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611543/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-7--189-232-1787-1813-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-7--189-232-1787-1813-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 3.
 Scanning electron microscopy of 
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 . 
 A
 . Scale apically pointed of Abd IV. 
@@ -131,30 +131,30 @@ F
 . Distal dens and mucro (lateral side). Abbreviations: see Material and methods. Scale bars: A, C–F = 5 μm; B = 2 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611547/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 dorsoventral plate and posterior border; distal half of Abd V to VI, distal femur and tibiotarsus medially; eyepatches black (
-<!--template match = figureCitation--><xref rid="fig-6--188-231-1962-1988-">Fig. 2</xref>
+<xref rid="fig-6--188-231-1962-1988-">Fig. 2</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 HEAD. Antennal ratio as I: II: III: IV = 1: 1.83–2.00 1.68–2.12: 1.81–2.36 (n = 3). Ant IV not annulated, with apical bulb bilobed and sometimes retraticle. Five interocular chaetae (q, v, p, r, t); head dorsal macrochaetotaxy (
-<!--template match = figureCitation--><xref rid="fig-9--189-231-1890-1916-">Fig. 5B</xref>
+<xref rid="fig-9--189-231-1890-1916-">Fig. 5B</xref>
 ) with 5 ‘An’ (An1a–3), 4 ‘A’ (A0, A2–3, A5), 3 ‘M’ (M1–2, M4), 6 ‘S’ (S2– 6), 1 ‘Ps’ (Ps5), 5 ‘Pa’ (Pa1–5), 2 ‘Pm’ (Pm1, Pm3), 5 ‘Pp’ (Pp1–5), and 2 ‘Pe’ (Pe2–3) mac; An2a?, A1, A4? mic present. Maxillary palp with t.a. smooth and b.c. weakly striated, thicker and 1.12 longer than t.a.; sublobal plate with 2 inner (sb.2–3) and 1 outer (sb.4) smooth appendages, sb.2 smaller and sb.4 minute (
-<!--template match = figureCitation--><xref rid="fig-9--189-231-1890-1916-">Fig. 5E</xref>
+<xref rid="fig-9--189-231-1890-1916-">Fig. 5E</xref>
 ). Ventral chaetotaxy with about 68 ciliate chaetae, 36 thin of differents sizes, 31 normal and subequal in length and 1 b.c., cephalic groove with 6 chaetae; postlabial formula with 4 (G1–4), 4 (X, X2–4), 4 (H2–4), 4 (J1–4), 2 (X’, X4’) chaetae (
-<!--template match = figureCitation--><xref rid="fig-9--189-231-1890-1916-">Fig. 5G</xref>
+<xref rid="fig-9--189-231-1890-1916-">Fig. 5G</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 THORAX CHAETOTAXY (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6A</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6A</xref>
 ). Th II, anterior collar with numerous chaetae; a, m and p series with 1 (a5), 1 (m4) and 7 (p1–5) mac, respectively. Th III, a, m and p series with 2 (a4, a6), 4 (m5–7) and 5–6 (p1–3, p5–6) mac, respectively, p2a mac rarely present; laterally numerous mes. Ratio Th II: III = 1.48–1.30: 1 (n=3).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-8--189-232-1892-1918-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-8--189-232-1892-1918-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 4.
 Optical microscope photography of 
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 . 
 A
 . Furcula (dorsal view). 
@@ -164,10 +164,10 @@ C
 . Manubrium and proximal dentes (ventral view), arrow indicate subapical chaetae. Scale bars: A, C =100 μm; B = 50 μm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611549/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-9--189-231-1890-1916-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-9--189-231-1890-1916-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 5.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 , head (left side). 
 A
 . Ant III apical organ. 
@@ -185,10 +185,10 @@ G
 . Basomedian and basolateral labial fields and complete postlabial chaetotaxy. Abbreviations: see Material and methods.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611553/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-10--189-232-1927-1953-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-10--189-232-1927-1953-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 6.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 , dorsal chaetotaxy (left side). 
 A
 . Th II–III. 
@@ -206,10 +206,10 @@ F
 . Abd IV. Abbreviations: see Material and methods.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611557/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--189-232-1857-1883-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--189-232-1857-1883-" fig-type="figure" position="float"><caption>
+<p>
 Fig. 7.
-<!--template match = taxonomicName--><tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
+<tp:taxon-name>Willowsia nigromaculata ( Lubbock, 1873 )</tp:taxon-name>
 . 
 A
 . Subcoxa I. 
@@ -233,56 +233,56 @@ J
 . Mucro (lateral view). Abbreviations: see Material and methods.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4611559/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 ABDOMEN CHAETOTAXY (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6B–F</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6B–F</xref>
 ). Abd I, m series with 3 mac (m2–4) subequal in length. Abd II, a and m series with 1 (a2) and 3 (m3–3e, m5) mac, respectively; a5 and m2 bothriotricha with 9 and 6 accessory chaetae, respectively (
-<!--template match = figureCitation--><xref rid="fig-7--189-232-1787-1813-">Figs 3C</xref>
+<xref rid="fig-7--189-232-1787-1813-">Figs 3C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">6D</xref>
+<xref rid="fig-10--189-232-1927-1953-">6D</xref>
 ). Abd III, a, m and p series with 3 (a2–3, a7), 4 (m3, am6, pm6, m7) and 3 (p6, p7–7i) mac, respectively; m2 bothriotrichum with 3 accessory chaetae and a5 and m5 bothriotricha with 15 accessory chaetae between them (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6E</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6E</xref>
 ). Abd IV, A to T series with 7 mac (A3–4, A6, B4–6, C1) and E to Fe series with 14 mac (E2a–3, E4p, F1–3p, Fe3–5); T2 and T4 bothriotricha with 2 mic and 8 accessory chaetae between them (
-<!--template match = figureCitation--><xref rid="fig-10--189-232-1927-1953-">Fig. 6F</xref>
+<xref rid="fig-10--189-232-1927-1953-">Fig. 6F</xref>
 ); 2 sens 
 type
 I (as, ps), 4 sens 
 type
 II, and 13 posterior chaetae of different sizes. Abd V a, m, pa and p series with 1 (a5), 4 (m2–3, m5–5e), 1 (p6ai) and 5 (p1, p3–6) mac, respectively. Ratio Abd III: IV = 1: 3.61–4.14 (n= 3).
 </p>
-<!--template match = paragraph--><p>
+<p>
 LEGS. Subcoxa I with 3 chaetae and 2 psp; subcoxa II with an anterior row of 7 chaetae and about 16 anterior chaetae, posterior row of 3 chaetae and 2 psp; subcoxa III with one row of 7 chaetae, about 16 anterior chaetae and 2 posterior psp (
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">Fig. 7A–C</xref>
+<xref rid="fig-11--189-232-1857-1883-">Fig. 7A–C</xref>
 ). Trochanteral organ with 12–16 spine-like chaetae (
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">Fig. 7D</xref>
+<xref rid="fig-11--189-232-1857-1883-">Fig. 7D</xref>
 ). Ratio unguis: unguiculus = 1: 0.52. Tibiotarsal smooth chaeta 1.09 the length of unguiculus; tenent hairs 0.97 the length of unguis.
 </p>
-<!--template match = paragraph--><p>
+<p>
 COLLOPHORE. Anterior side with about 20 chaetae, 5 mac and 3 mes ciliate and abruptly acuminate at the tip, and 13 thin chaetae weakly ciliate; posterior side with 8 chaetae (1 unpaired) weakly ciliate and 2 distally thicker; lateral flap with 3 smooth chaetae and 9 chaetae weakly ciliate (
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">Fig. 7F</xref>
+<xref rid="fig-11--189-232-1857-1883-">Fig. 7F</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 FURCULA. Manubrium ventrally with 4 subapical chaetae of the same length and 14–16 apical chaetae, 6 inner chaetae smaller, others subequal (
-<!--template match = figureCitation--><xref rid="fig-8--189-232-1892-1918-">Figs 4C</xref>
+<xref rid="fig-8--189-232-1892-1918-">Figs 4C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">7I</xref>
+<xref rid="fig-11--189-232-1857-1883-">7I</xref>
 ); dorsally with one lateral row of 7 ciliate chaetae abruptly acuminate at the tip, 3 mac and 4 mes (1 basal and 1 antero-subapical); manubrial plate with 3–4 ciliate chaetae of different sizes (1 mac abruptly acuminate at the tip) and 2 psp (
-<!--template match = figureCitation--><xref rid="fig-8--189-232-1892-1918-">Figs 4A–B</xref>
+<xref rid="fig-8--189-232-1892-1918-">Figs 4A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--189-232-1857-1883-">7G–H</xref>
+<xref rid="fig-11--189-232-1857-1883-">7G–H</xref>
 ).
 </p>
-<!--template match = paragraph[descendant::heading][preceding-sibling::paragraph[descendant::heading]]]--><p><bold>
+<p><bold>
 DNA Barcodes
 </bold></p>
-<!--template match = paragraph--><p>
+<p>
 GenBank 
 KY468311
 ; Teillet, 
 France
 (
-<!--template match = bibRefCitation--><xref rid="ref9968">
+<xref rid="ref9968">
 Ding 
 et al.
 2018
@@ -296,7 +296,7 @@ MG039377
 ; Toronto, 
 Canada
 (
-<!--template match = bibRefCitation--><xref rid="ref9747">
+<xref rid="ref9747">
 deWaard 
 et al.
 2019

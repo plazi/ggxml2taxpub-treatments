@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Brachirus aspilos ( Bleeker 1852 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-">Figures 1–5</xref>
+<tp:nomenclature><tp:taxon-name>Brachirus aspilos ( Bleeker 1852 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-">Figures 1–5</xref>
 ; 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura aspilos Bleeker 1852: 74</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura aspilos Bleeker 1852: 74</tp:taxon-name>
 (
 type
 locality: 
@@ -22,8 +22,8 @@ Singapore
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura marmoratus Bleeker 1853: 90</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura marmoratus Bleeker 1853: 90</tp:taxon-name>
 (
 type
 locality: 
@@ -36,8 +36,8 @@ Indonesia
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura heterolepis Bleeker 1856: 65</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura heterolepis Bleeker 1856: 65</tp:taxon-name>
 (
 type
 locality: Ambon, 
@@ -48,8 +48,8 @@ Indonesia
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus heterolepis : Bleeker 1865</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Brachirus heterolepis : Bleeker 1865</tp:taxon-name>
 –1871: 20, pl. 236, fig. 2 (
 Singapore
 ; Lawajong, Solor Island, 
@@ -66,11 +66,11 @@ Ambon
 Indonesia
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Munroe 2001: 3881</tp:nomenclature-citation>
+<tp:nomenclature-citation>Munroe 2001: 3881</tp:nomenclature-citation>
 
 (western central Pacific); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Allen &amp; Erdmann 2012: 1054</tp:nomenclature-citation>
+<tp:nomenclature-citation>Allen &amp; Erdmann 2012: 1054</tp:nomenclature-citation>
 
 , unnumbered figs. (
 Sumatra
@@ -80,7 +80,7 @@ West Papua
 Indonesia
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Fricke 
 et al
 . 2014: 190
@@ -94,8 +94,8 @@ Papua New Guinea
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura dicholepis Peters 1877: 844</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura dicholepis Peters 1877: 844</tp:taxon-name>
 (
 type
 locality: 
@@ -108,8 +108,8 @@ Papua New Guinea
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura sorsogonensis Evermann &amp; Seale 1907: 106</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura sorsogonensis Evermann &amp; Seale 1907: 106</tp:taxon-name>
 , fig. 22 (
 type
 locality: 
@@ -124,13 +124,13 @@ Philippines
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura marginata</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Synaptura marginata</tp:taxon-name>
 (not of 
-<!--template match = bibRefCitation--><xref rid="ref8937">Boulenger 1900</xref>
+<xref rid="ref8937">Boulenger 1900</xref>
 ): 
 
-<!--treatment-citation--><tp:nomenclature-citation>Ochiai 1984: 340</tp:nomenclature-citation>
+<tp:nomenclature-citation>Ochiai 1984: 340</tp:nomenclature-citation>
 
 , fig. 319-H (Amami-oshima island to 
 Okinawa Pref.
@@ -138,7 +138,7 @@ Okinawa Pref.
 Japan
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Iwatsuki 
 et al
 . 2000: 105
@@ -150,7 +150,7 @@ Sulawesi
 Indonesia
 (based on MUFS 18709, 18911)]; 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Sakai 
 et al
 . 2001: 123
@@ -160,7 +160,7 @@ et al
 Japan
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Allen &amp; Adrim 2003: 64</tp:nomenclature-citation>
+<tp:nomenclature-citation>Allen &amp; Adrim 2003: 64</tp:nomenclature-citation>
 
 (
 Sumatra
@@ -170,7 +170,7 @@ Papua
 Indonesia
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Matsuura 
 et al
 . 2003: 216
@@ -180,7 +180,7 @@ et al
 Indonesia
 ; fig. based on Japanese specimen); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Shao 
 et al
 . 2008: 265
@@ -188,19 +188,19 @@ et al
 
 (southern Taiwan); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Motomura &amp; Matsuura 2010: 232</tp:nomenclature-citation>
+<tp:nomenclature-citation>Motomura &amp; Matsuura 2010: 232</tp:nomenclature-citation>
 
 (Yaku-shima island, Osumi Islands, 
 Japan
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Ohashi &amp; Motomura 2011: 109</tp:nomenclature-citation>
+<tp:nomenclature-citation>Ohashi &amp; Motomura 2011: 109</tp:nomenclature-citation>
 
 (Yaku-shima island, Osumi Islands, 
 Japan
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Nakabo &amp; Doiuchi 2013: 1692</tp:nomenclature-citation>
+<tp:nomenclature-citation>Nakabo &amp; Doiuchi 2013: 1692</tp:nomenclature-citation>
 
 , unnumbered figs. (Yaku-shima island and Ryukyu Islands, 
 Japan
@@ -208,17 +208,17 @@ Japan
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos : Munroe 2000: 646</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Brachirus aspilos : Munroe 2000: 646</tp:taxon-name>
 (South 
 China
 Sea); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Munroe 2001: 3881</tp:nomenclature-citation>
+<tp:nomenclature-citation>Munroe 2001: 3881</tp:nomenclature-citation>
 
 (western central Pacific); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Larson 
 et al
 . 2013: 226
@@ -230,18 +230,18 @@ Northern Territory
 Australia
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Voronina 2019: 418</tp:nomenclature-citation>
+<tp:nomenclature-citation>Voronina 2019: 418</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus sorsogonensis : Munroe 2000: 646</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Brachirus sorsogonensis : Munroe 2000: 646</tp:taxon-name>
 (South 
 China
 Sea); 
-<!--template match = bibRefCitation--><xref rid="ref10089">Munroe 2001</xref>
+<xref rid="ref10089">Munroe 2001</xref>
 ; 3884 (
 Philippines
 and 
@@ -250,11 +250,11 @@ Samoa
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus dicholepis : Munroe 2001: 3881</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Brachirus dicholepis : Munroe 2001: 3881</tp:taxon-name>
 (western central Pacific); 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Fricke 
 et al
 . 2019: 317
@@ -266,14 +266,14 @@ New Ireland
 Papua New Guinea
 ); 
 
-<!--treatment-citation--><tp:nomenclature-citation>Voronina 2019: 418</tp:nomenclature-citation>
+<tp:nomenclature-citation>Voronina 2019: 418</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus marmoratus : Allen &amp; Erdmann 2012: 1054</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Brachirus marmoratus : Allen &amp; Erdmann 2012: 1054</tp:taxon-name>
 , unnumbered figs. (
 Java
 , 
@@ -285,1631 +285,1631 @@ Indonesia
 ).
 </tp:nomenclature-citation-list>
 
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
+<p>
+<tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
 (not of 
-<!--template match = bibRefCitation--><xref rid="ref8937">Boulenger 1900</xref>
+<xref rid="ref8937">Boulenger 1900</xref>
 ): 
-<!--template match = bibRefCitation--><xref rid="ref9682">Kottelat 2013: 465</xref>
+<xref rid="ref9682">Kottelat 2013: 465</xref>
 (Mekong delta); 
-<!--template match = bibRefCitation--><xref rid="ref10175">Muto 2019: 495</xref>
+<xref rid="ref10175">Muto 2019: 495</xref>
 , unnumbered figs. [Amami-oshima island (based on KAUM–I. 76287) and Yoron-jima island (based on KAUM–I. 104207), Amami Islands, 
 Japan
 ].
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Holotype</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1862.6</named-content>
+<named-content content-type="specimenCode">BMNH 1862.6</named-content>
 .3.5, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">138.2 mm</named-content>
+<named-content content-type="quantity">138.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Singapore</named-content>
+<named-content content-type="collectingCountry">Singapore</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P. Bleeker.</named-content>
+<named-content content-type="collectorName">P. Bleeker.</named-content>
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other type specimens examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1862.6</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">BMNH 1862.6</named-content>
 .3.1, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Synaptura heterolepis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Synaptura heterolepis</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">226.2 mm</named-content>
+<named-content content-type="quantity">226.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Ambon</named-content>
+<named-content content-type="collectingCountry">Ambon</named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Molucca Islands</named-content>
+<tp:material-citation>
+<named-content content-type="location">Molucca Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 </tp:material-citation>
 , P. Bleeker; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">USNM 55916</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">USNM 55916</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Synaptura sorsogonensis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Synaptura sorsogonensis</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">193.7 mm</named-content>
+<named-content content-type="quantity">193.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bacon</named-content>
+<named-content content-type="location">Bacon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sorsogon</named-content>
+<named-content content-type="collectingRegion">Sorsogon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Luzon</named-content>
+<named-content content-type="collectingMunicipality">Luzon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Philippines</named-content>
+<named-content content-type="collectingCountry">Philippines</named-content>
 </tp:material-citation>
 , C. Pierson; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB 9861</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">ZMB 9861</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Synaptura dicholepis</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Synaptura dicholepis</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">274.3 mm</named-content>
+<named-content content-type="quantity">274.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">New Hanover</named-content>
+<named-content content-type="location">New Hanover</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Bismarck Archipelago</named-content>
+<named-content content-type="collectingCountry">Bismarck Archipelago</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Papua New Guinea</named-content>
+<named-content content-type="collectingCountry">Papua New Guinea</named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Non-type specimens examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">48 specimens</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">48 specimens</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">23.6–403.3 mm</named-content>
+<named-content content-type="quantity">23.6–403.3 mm</named-content>
 SL. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">JAPAN</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">JAPAN</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BSKU</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50080, 205.8 mm</named-content>
+<named-content content-type="collectionCode">BSKU</named-content>
+<named-content content-type="quantity">50080, 205.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Shirahama</named-content>
+<named-content content-type="collectingCounty">Shirahama</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Iriomote-jima island</named-content>
+<named-content content-type="collectingMunicipality">Iriomote-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12 Oct. 2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12 Oct. 2011</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BSKU</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">113945, 160.8 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">BSKU</named-content>
+<named-content content-type="quantity">113945, 160.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BSKU</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">113946, 304.4 mm</named-content>
+<named-content content-type="collectionCode">BSKU</named-content>
+<named-content content-type="quantity">113946, 304.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shirahama</named-content>
+<named-content content-type="location">Shirahama</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Iriomote-jima island</named-content>
+<named-content content-type="location">Iriomote-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Apr. 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Apr. 2014</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BSKU</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">114074, 279.5 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">BSKU</named-content>
+<named-content content-type="quantity">114074, 279.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Funaura Port</named-content>
+<named-content content-type="location">Funaura Port</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Iriomote-jima island</named-content>
+<named-content content-type="location">Iriomote-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Apr. 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Apr. 2014</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 28461, 278.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">28462, 275.2 mm</named-content>
+<named-content content-type="quantity">28462, 275.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 28463, 324.0 mm SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hirayashiki</named-content>
+<named-content content-type="location">Hirayashiki</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Katsuren</named-content>
+<named-content content-type="location">Katsuren</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Uruma</named-content>
+<named-content content-type="location">Uruma</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°17′N</named-content>
+<named-content content-type="geoCoordinate">26°17′N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°55ʹE</named-content>
+<named-content content-type="geoCoordinate">127°55ʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Motomura</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">Motomura</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Apr. 2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13 Apr. 2010</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">60781, 259.7 mm</named-content>
+<named-content content-type="quantity">60781, 259.7 mm</named-content>
 SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Minatomachi</named-content>
+<named-content content-type="collectorName">Minatomachi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Naha</named-content>
+<named-content content-type="collectorName">Naha</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°13ʹN</named-content>
+<named-content content-type="geoCoordinate">26°13ʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°40ʹE</named-content>
+<named-content content-type="geoCoordinate">127°40ʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Iwatsubo</named-content>
+<named-content content-type="collectorName">H. Iwatsubo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 Dec. 2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 Dec. 2013</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">64921, 170.4 mm</named-content>
+<named-content content-type="quantity">64921, 170.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Toguchi Beach</named-content>
+<named-content content-type="collectorName">Toguchi Beach</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yomitan</named-content>
+<named-content content-type="collectorName">Yomitan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nakagami</named-content>
+<named-content content-type="collectorName">Nakagami</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°22ʹN</named-content>
+<named-content content-type="geoCoordinate">26°22ʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°44ʹE</named-content>
+<named-content content-type="geoCoordinate">127°44ʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26 Oct. 2013</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26 Oct. 2013</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">104207, 221.5 mm</named-content>
+<named-content content-type="quantity">104207, 221.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Chabana Beach</named-content>
+<named-content content-type="collectorName">Chabana Beach</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yoron-jima island</named-content>
+<named-content content-type="location">Yoron-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amami Islands</named-content>
+<named-content content-type="location">Amami Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kagoshima</named-content>
+<named-content content-type="collectingRegion">Kagoshima</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27°03ʹN</named-content>
+<named-content content-type="geoCoordinate">27°03ʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°24ʹE</named-content>
+<named-content content-type="geoCoordinate">128°24ʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2–4 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2–4 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Uyeno</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">D. Uyeno</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 July 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2 July 2017</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">116037, 334.1 mm</named-content>
+<named-content content-type="quantity">116037, 334.1 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">116038, 347.3 mm</named-content>
+<named-content content-type="quantity">116038, 347.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Ryukyu Islands</named-content>
+<named-content content-type="location">southern Ryukyu Islands</named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amami</named-content>
+<named-content content-type="collectorName">Amami</named-content>
 to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama islands</named-content>
+<named-content content-type="location">Yaeyama islands</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 May 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2 May 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">116039, 326.8 mm</named-content>
+<named-content content-type="quantity">116039, 326.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Ryukyu Islands</named-content>
+<named-content content-type="location">southern Ryukyu Islands</named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amami</named-content>
+<named-content content-type="collectorName">Amami</named-content>
 to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama islands</named-content>
+<named-content content-type="location">Yaeyama islands</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 Apr. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 Apr. 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 117762, 162.0 mm SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hiyane</named-content>
+<named-content content-type="collectorName">Hiyane</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°18ʹ41ʹʹN</named-content>
+<named-content content-type="geoCoordinate">26°18ʹ41ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°50ʹ03ʹʹE</named-content>
+<named-content content-type="geoCoordinate">127°50ʹ03ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2–4 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2–4 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25 May 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25 May 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">117767, 161.7 mm</named-content>
+<named-content content-type="quantity">117767, 161.7 mm</named-content>
 SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hiyane</named-content>
+<named-content content-type="collectorName">Hiyane</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°18ʹ41ʹʹN</named-content>
+<named-content content-type="geoCoordinate">26°18ʹ41ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°50ʹ03ʹʹE</named-content>
+<named-content content-type="geoCoordinate">127°50ʹ03ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2–4 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2–4 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 June 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 June 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">125214, 235.7 mm</named-content>
+<named-content content-type="quantity">125214, 235.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Ryukyu Islands</named-content>
+<named-content content-type="location">southern Ryukyu Islands</named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amami</named-content>
+<named-content content-type="collectorName">Amami</named-content>
 to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama islands</named-content>
+<named-content content-type="location">Yaeyama islands</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Oct. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19 Oct. 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">125230, 258.6 mm</named-content>
+<named-content content-type="quantity">125230, 258.6 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">125231, 268.7 mm</named-content>
+<named-content content-type="quantity">125231, 268.7 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Ryukyu Islands</named-content>
+<named-content content-type="location">southern Ryukyu Islands</named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amami</named-content>
+<named-content content-type="collectorName">Amami</named-content>
 to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama islands</named-content>
+<named-content content-type="location">Yaeyama islands</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3 Nov. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">3 Nov. 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">128765, 291.8 mm</named-content>
+<named-content content-type="quantity">128765, 291.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">southern Ryukyu Islands</named-content>
+<named-content content-type="location">southern Ryukyu Islands</named-content>
 from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Amami</named-content>
+<named-content content-type="collectorName">Amami</named-content>
 to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama islands</named-content>
+<named-content content-type="location">Yaeyama islands</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Y. Sakurai</named-content>
+<named-content content-type="collectorName">Y. Sakurai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 Feb. 2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18 Feb. 2019</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KAUM–I</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KAUM–I</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">131182, 127.4 mm</named-content>
+<named-content content-type="quantity">131182, 127.4 mm</named-content>
 SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Awase</named-content>
+<named-content content-type="collectorName">Awase</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">26°18ʹ47ʹʹN</named-content>
+<named-content content-type="geoCoordinate">26°18ʹ47ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°51ʹ02ʹʹE</named-content>
+<named-content content-type="geoCoordinate">127°51ʹ02ʹʹE</named-content>
 , 1.5–2.0 m, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6 June 2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6 June 2019</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KPM-NI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">17684, 403.3 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KPM-NI</named-content>
+<named-content content-type="quantity">17684, 403.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KPM-NI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">17685, 362.7 mm</named-content>
+<named-content content-type="collectionCode">KPM-NI</named-content>
+<named-content content-type="quantity">17685, 362.7 mm</named-content>
 SL, south of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tokashiku Beach</named-content>
+<named-content content-type="location">Tokashiku Beach</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tokashiki-jima island</named-content>
+<named-content content-type="location">Tokashiki-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kerama Islands</named-content>
+<named-content content-type="location">Kerama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Islands</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectorName">Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , Y. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Miyazaki</named-content>
+<named-content content-type="collectingRegion">Miyazaki</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 Mar. 2006</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10 Mar. 2006</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">KPM-NI 24325</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCode">KPM-NI 24325</named-content>
 , 274.0 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 (purchased at Tomari Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 July 2009</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11 July 2009</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KPM-NI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">33316, 102.6 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">KPM-NI</named-content>
+<named-content content-type="quantity">33316, 102.6 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yakata</named-content>
+<named-content content-type="location">Yakata</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Okinawa-jima island</named-content>
+<named-content content-type="location">Okinawa-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Islands</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="location">Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Senou</named-content>
+<named-content content-type="collectorName">H. Senou</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Aizawa</named-content>
+<named-content content-type="collectorName">M. Aizawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 Sept. 1990</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 Sept. 1990</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">KPM-NI 34050</named-content>
+<named-content content-type="specimenCode">KPM-NI 34050</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">88.3 mm</named-content>
+<named-content content-type="quantity">88.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ishigaki-jima island</named-content>
+<named-content content-type="location">Ishigaki-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Senou</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">H. Senou</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4 Sept. 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">4 Sept. 1991</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">KPM-NI 34089</named-content>
+<named-content content-type="specimenCode">KPM-NI 34089</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">23.6 mm</named-content>
+<named-content content-type="quantity">23.6 mm</named-content>
 SL, mouth of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Miyara River</named-content>
+<named-content content-type="location">Miyara River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ishigaki-jima island</named-content>
+<named-content content-type="location">Ishigaki-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Senou</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">H. Senou</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 Sept. 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 Sept. 1991</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KPM-NI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">37533, 159.8 mm</named-content>
+<named-content content-type="collectionCode">KPM-NI</named-content>
+<named-content content-type="quantity">37533, 159.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Awase</named-content>
+<named-content content-type="location">Awase</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Nakagusuku Bay</named-content>
+<named-content content-type="location">Nakagusuku Bay</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Okinawa-jima island</named-content>
+<named-content content-type="location">Okinawa-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Islands</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="location">Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">0.5 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">0.5 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Matsuzaki</named-content>
+<named-content content-type="collectorName">K. Matsuzaki</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 May 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 May 2014</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NSMT-P</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">34102, 213.2 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NSMT-P</named-content>
+<named-content content-type="quantity">34102, 213.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sakinome</named-content>
+<named-content content-type="location">Sakinome</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Setouchi</named-content>
+<named-content content-type="location">Setouchi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amami-oshima island</named-content>
+<named-content content-type="location">Amami-oshima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Amami Islands</named-content>
+<named-content content-type="location">Amami Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kagoshima</named-content>
+<named-content content-type="collectingRegion">Kagoshima</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°11ʹ06ʹʹN</named-content>
+<named-content content-type="geoCoordinate">28°11ʹ06ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">129°16ʹ12ʹʹE</named-content>
+<named-content content-type="geoCoordinate">129°16ʹ12ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">5 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">5 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Sept. 1989</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Sept. 1989</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NSMT-P</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">59151, 184.1 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NSMT-P</named-content>
+<named-content content-type="quantity">59151, 184.1 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yonada River</named-content>
+<named-content content-type="location">Yonada River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Iriomote-jima island</named-content>
+<named-content content-type="location">Iriomote-jima island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yaeyama Islands</named-content>
+<named-content content-type="location">Yaeyama Islands</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">Mar. 1997</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">Mar. 1997</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HUMZ</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">63002, 197.1 mm</named-content>
+<named-content content-type="collectionCode">HUMZ</named-content>
+<named-content content-type="quantity">63002, 197.1 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Naha</named-content>
+<named-content content-type="collectorName">Naha</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 (purchased at Makishi Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">July 1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">July 1993</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HUMZ</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">101193, 312.3 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">HUMZ</named-content>
+<named-content content-type="quantity">101193, 312.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ishikawa, Okinawa</named-content>
+<named-content content-type="collectingRegion">Ishikawa, Okinawa</named-content>
 (purchased at fish market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 Apr. 1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15 Apr. 1984</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 URM-P 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">19794, 334.8 mm</named-content>
+<named-content content-type="quantity">19794, 334.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Onna</named-content>
+<named-content content-type="collectorName">Onna</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kunigami</named-content>
+<named-content content-type="collectorName">Kunigami</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Aug. 1988</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14 Aug. 1988</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 URM-P 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">43494, 249.6 mm</named-content>
+<named-content content-type="quantity">43494, 249.6 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Itoman</named-content>
+<named-content content-type="collectorName">Itoman</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 (purchased at fish market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Shimada</named-content>
+<named-content content-type="collectorName">K. Shimada</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Oct. 2005</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28 Oct. 2005</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 URM-P 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">43563, 283.8 mm</named-content>
+<named-content content-type="quantity">43563, 283.8 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yonajou</named-content>
+<named-content content-type="collectorName">Yonajou</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Okinawa</named-content>
+<named-content content-type="collectingRegion">Okinawa</named-content>
 (purchased at fish market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Shimada</named-content>
+<named-content content-type="collectorName">K. Shimada</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5 Oct. 2005</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5 Oct. 2005</named-content>
 </named-content>
 .
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">TAIWAN</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">TAIWAN</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NMMBP</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2297, 342.7 mm</named-content>
+<named-content content-type="collectionCode">NMMBP</named-content>
+<named-content content-type="quantity">2297, 342.7 mm</named-content>
 SL, Hou-bi-hwo, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Pingtung</named-content>
+<named-content content-type="collectingRegion">Pingtung</named-content>
 , trawl, 0–1.0 m, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.-P. Chen</named-content>
+<named-content content-type="collectorName">J.-P. Chen</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 Dec. 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 Dec. 2001</named-content>
 </named-content>
 .
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">PHILIPPINES</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">PHILIPPINES</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1933.3</named-content>
+<named-content content-type="specimenCode">BMNH 1933.3</named-content>
 .11.792, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">182.3 mm</named-content>
+<named-content content-type="quantity">182.3 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Culion, A</named-content>
+<named-content content-type="collectorName">Culion, A</named-content>
 . Herre;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UPVMI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2521, 257.4 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">UPVMI</named-content>
+<named-content content-type="quantity">2521, 257.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UPVMI</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2522, 266.9 mm</named-content>
+<named-content content-type="collectionCode">UPVMI</named-content>
+<named-content content-type="quantity">2522, 266.9 mm</named-content>
 SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Estancia</named-content>
+<named-content content-type="collectorName">Estancia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Iloilo</named-content>
+<named-content content-type="collectingRegion">Iloilo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Panay Island</named-content>
+<named-content content-type="location">Panay Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Visayas</named-content>
+<named-content content-type="collectorName">Visayas</named-content>
 (purchased at Estansia Fish Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Okamoto</named-content>
+<named-content content-type="collectorName">J. Okamoto</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25 July 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25 July 2018</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">445291, 179.2 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="quantity">445291, 179.2 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">445293, 209.4 mm</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="quantity">445293, 209.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">445295, 221.4 mm</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="quantity">445295, 221.4 mm</named-content>
 SL, off 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tayabas Bay</named-content>
+<named-content content-type="location">Tayabas Bay</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Quezon</named-content>
+<named-content content-type="collectingRegion">Quezon</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Luzon</named-content>
+<named-content content-type="location">Luzon</named-content>
 (purchased at Pagbilao Market), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Williams</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">J. Williams</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26 Oct. 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26 Oct. 2017</named-content>
 </named-content>
 .
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">SINGAPORE</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">SINGAPORE</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1933.7</named-content>
+<named-content content-type="specimenCode">BMNH 1933.7</named-content>
 .31.21, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">144.5 mm</named-content>
+<named-content content-type="quantity">144.5 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1933.7</named-content>
+<named-content content-type="specimenCode">BMNH 1933.7</named-content>
 .31.22, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">142.1 mm</named-content>
+<named-content content-type="quantity">142.1 mm</named-content>
 SL, purchased at fish market;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZRC</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">ZRC</named-content>
 55760
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specimens</named-content>
+<named-content content-type="specimenCount">2 specimens</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">98.1–99.6 mm</named-content>
+<named-content content-type="quantity">98.1–99.6 mm</named-content>
 SL, intertidal lagoon next to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tanah Merah Ferry Terminal</named-content>
+<named-content content-type="collectorName">Tanah Merah Ferry Terminal</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tenah Merah, H.-H</named-content>
+<named-content content-type="collectorName">Tenah Merah, H.-H</named-content>
 . Tan 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12–15 Jan. 2017</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">12–15 Jan. 2017</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZRC</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">30305</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">ZRC</named-content>
+<named-content content-type="quantity">30305</named-content>
 </named-content>
 , 268.6 mm SL, reef flat at southeast coast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sentosa, D.-G.</named-content>
+<named-content content-type="collectorName">Sentosa, D.-G.</named-content>
 -B. Chia 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 May 1992</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21 May 1992</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZRC</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">47351</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">ZRC</named-content>
+<named-content content-type="quantity">47351</named-content>
 </named-content>
 , 282.6 mm SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Changi Beach</named-content>
+<named-content content-type="collectorName">Changi Beach</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 Jan. 2002</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24 Jan. 2002</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZRC</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">60307</named-content>
+<named-content content-type="accessionNumber">
+<named-content content-type="collectionCode">ZRC</named-content>
+<named-content content-type="quantity">60307</named-content>
 </named-content>
 , 194.5 mm SL, purchased at fish market, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H.-C. Ho</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al</named-content>
+<named-content content-type="collectorName">H.-C. Ho</named-content>
+<named-content content-type="emphasis">et al</named-content>
 ., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7 Aug. 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7 Aug. 2018</named-content>
 </named-content>
 .
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">INDONESIA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectionCode">INDONESIA</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1858.4</named-content>
+<named-content content-type="specimenCode">BMNH 1858.4</named-content>
 .29.4, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">155.6 mm</named-content>
+<named-content content-type="quantity">155.6 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ambon, G</named-content>
+<named-content content-type="collectorName">Ambon, G</named-content>
 . Frank; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NSMT-P</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">63024, 175.1 mm</named-content>
+<named-content content-type="collectionCode">NSMT-P</named-content>
+<named-content content-type="quantity">63024, 175.1 mm</named-content>
 SL, west coast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Batsulubang</named-content>
+<named-content content-type="collectingCounty">Batsulubang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lembeh Island</named-content>
+<named-content content-type="collectingMunicipality">Lembeh Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bitung</named-content>
+<named-content content-type="location">Bitung</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">North Sulawesi</named-content>
+<named-content content-type="location">North Sulawesi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°26ʹ00ʹʹN</named-content>
+<named-content content-type="geoCoordinate">01°26ʹ00ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">125°11ʹ30ʹʹE</named-content>
+<named-content content-type="geoCoordinate">125°11ʹ30ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1 m</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NSMT-P</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">62035, 107.7 mm</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">NSMT-P</named-content>
+<named-content content-type="quantity">62035, 107.7 mm</named-content>
 SL, west coast of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tanjung Lampu</named-content>
+<named-content content-type="collectorName">Tanjung Lampu</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lembeh Island</named-content>
+<named-content content-type="location">Lembeh Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bitung</named-content>
+<named-content content-type="collectorName">Bitung</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">North Sulawesi</named-content>
+<named-content content-type="location">North Sulawesi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°26ʹ00ʹʹN</named-content>
+<named-content content-type="geoCoordinate">01°26ʹ00ʹʹN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">125°11ʹ18ʹʹE</named-content>
+<named-content content-type="geoCoordinate">125°11ʹ18ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1.5 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1.5 m</named-content>
 </named-content>
 .
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">PAPUA NEW GUINEA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">PAPUA NEW GUINEA</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1881.10</named-content>
+<named-content content-type="specimenCode">BMNH 1881.10</named-content>
 .18.17, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">150.5 mm</named-content>
+<named-content content-type="quantity">150.5 mm</named-content>
 SL, New Britain Island, Bismarck Archipelago.
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">AUSTRALIA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">AUSTRALIA</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAM</named-content>
+<named-content content-type="collectionCode">WAM</named-content>
 P.29052-017, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">90.6 mm</named-content>
+<named-content content-type="quantity">90.6 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Middle Island</named-content>
+<named-content content-type="location">Middle Island</named-content>
 , Ashmore Reef, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12°16ʹS</named-content>
+<named-content content-type="geoCoordinate">12°16ʹS</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">123°02ʹE</named-content>
+<named-content content-type="geoCoordinate">123°02ʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">0.1–0.4 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">0.1–0.4 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G. Allen</named-content>
+<named-content content-type="collectorName">G. Allen</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 Sept. 1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">16 Sept. 1986</named-content>
 </named-content>
 ;
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAM</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">WAM</named-content>
 P.14816-001, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">133.4 mm</named-content>
+<named-content content-type="quantity">133.4 mm</named-content>
 SL, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shark Bay</named-content>
+<named-content content-type="location">Shark Bay</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+<named-content content-type="collectingRegion">Western Australia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">25°21ʹS</named-content>
+<named-content content-type="geoCoordinate">25°21ʹS</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">113°44ʹʹE</named-content>
+<named-content content-type="geoCoordinate">113°44ʹʹE</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . McKay, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">July 1958</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">July 1958</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1870-1894-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-250-1870-1894-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 (BMNH 1862.6.3.5, 138.2 mm SL, Singapore). A, ocular side; B, blind side.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4441867/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 A species of 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus</tp:taxon-name>
+<tp:taxon-name>Brachirus</tp:taxon-name>
 with the following combination of characters: dorsal-fin rays 64–76 (mode 71), anal-fin rays 51–62 (56), pored scales on straight portion of lateral line 93–126 (118); vertebrae 41–44 (43); pectoral-fin rays 4–7 (6) and 4–7 (5) on ocular and blind sides, respectively; pelvic-fin rays 4–6 (5) and 4 or 5 (4) on ocular and blind sides, respectively; caudal-fin rays 13–15 (14); body slightly elongate, its depth 40.0–51.0 (mean 45.5)% SL; head length 16.1–23.9 (18.6)% SL; pectoral fin on ocular side longer than that on blind side, 5.3–7.6 (6.6)% SL and 4.0–6.0 (4.8)% SL, respectively; pelvic fin on ocular side longer than that on blind side, 4.9–7.4 (6.0)% SL and 4.3–7.5 (5.8)% SL, respectively; body depth below lateral line 21.7–27.1 (23.4)% SL; lips without labial papillae; eyes separated by scaled interorbital space; cycloid or weakly ctenoid scales on blind side; body on ocular side uniformly brown or grey with dark vermiculation, some small white blotches along dorsal- and anal-fin bases, or without remarkable pattern.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Frequency data of selected meristic characters and proportional measurements as percentages of SL given in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 . Dorsal-fin rays all branched at tips (except small individuals), uppermost quadruple-branched, number of branches tending to increase with growth, a papilla in front of 1st dorsal ray; anal-fin rays all branched at tips (except small individuals), uppermost ray quadruple-branched, number of branches tending to increase with growth; caudal-fin rays all branched at tips (except small individuals), uppermost ray quadruple-branched, number of branches tending to increase with growth; pectoral fin rays on ocular side all double-branched at tips; pelvic-fin rays on ocular side all double- or triple-branched at tips, third rays longest on both sides; curved lateral line scales on ocular side of head curved; dorsal pterygiophore formula (number of proximal pterygiophores inserted onto dorsal edge of erisma) 4 or 5 (5), number of pterygiophores attached to or directly over cranium and dorsoposterior surface of neural spine of second vertebra 0 and 3–5 (3), respectively. Body moderately extended and wider compared to other soles; body thin (juveniles very thin); eyes small (much larger relative size much greater in juveniles), sometimes with about 7 short-hairy cirri-like eyelashes; a narrow concave interorbital space covered with scales; relative to long axis of body upper and lower eyes overlapping by about one-fourth eye diameter; upper end of gill opening horizontally level with ventral margin of lower eye.
 </p>
-<!--template match = paragraph--><p>Mouth interior, jaws strongly curved; maxilla extending posteriorly to vertical through lower eye anterior margin; jaws on blind side with a band of villiform teeth (about 2 rows in widest portion); anterior-nostril tube on front of lower eye slender, short, its length about half eye diameter, posterior-nostril tube on ocular side with small aperture, shorter and wider than anterior tube; a single nostril tube on blind side surrounded with hairy membrane located behind eye.</p>
-<!--template match = paragraph--><p>
+<p>Mouth interior, jaws strongly curved; maxilla extending posteriorly to vertical through lower eye anterior margin; jaws on blind side with a band of villiform teeth (about 2 rows in widest portion); anterior-nostril tube on front of lower eye slender, short, its length about half eye diameter, posterior-nostril tube on ocular side with small aperture, shorter and wider than anterior tube; a single nostril tube on blind side surrounded with hairy membrane located behind eye.</p>
+<p>
 Scales ctenoid on ocular side of body, with 9–14 cteni (juveniles and small individuals with fewer cteni), cycloid or weakly ctenoid on blind side of body, with 1 (rarely 2 or 3) cteni (most juveniles or small individuals with cycloid scales only on blind side, 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1401-1425-">Fig. 3</xref>
+<xref rid="fig-8--151-250-1401-1425-">Fig. 3</xref>
 ); scales progressively smaller towards head and bases of dorsal and anal fins; number of cteni tending to increase towards posterior base of anal fin; cteni smaller than cirri (sensory papillae); many short cirri scattered on ocular side of body, fewer short cirri on blind side; scales on ocular side of head and caudal fin rays small, with cteni; a dense circular mass of papillae forming reticulate pattern on blind side of head before vertical through pelvic-fin base; dorsal, anal and caudal fin rays on ocular side covered with 2 scale rows, their size diminishing distally, scales with about 3 cteni; 17–20 (18) scale rows between posterior margin of lower eye and upper opening of operculum on ocular side; many cirri scattered on ocular side of head; opercular edge of gill opening on both sides with developed membrane; uppermost gill opening at base of pectoral fin; lateral line straight along midline of body on both sides, lateral line on head on ocular side curved, below 9–10th to 14–16th dorsal-fin bases; medio-lateral line on blind side of body continuing on head along upper edge of operculum and connecting with curved line extending to 15th dorsal ray, continuous with many branches of cephalic lateral line system.
 </p>
-<!--template match = paragraph--><p>Dorsal and anal fin bases at level of 20th anal- and dorsal-fin rays, respectively, on ocular side covered with 1 or 2 and 8–10 scale rows, respectively; scales present on blind side (difficult to count in juveniles and small individuals); ocular side of caudal fin base mostly covered with scales (12–14 rows), scales progressively smaller posteriorly, fewer scales on blind side; pectoral-fin base on ocular side covered by 2 or 3 scale rows with 2 or 3 lines, pectoral-fin rays on both sides not covered with scales (ocular side pelvic-fin base scaled in juveniles and small individuals, scales absent on blind side); membrane of dorsal and anal fins on both sides connected, progressively shorter posteriorly; some cirri scattered randomly on all fin rays on ocular side (many cirri in larger individuals); genital papilla just anterior to anal-fin origin; anus small, at anterior of 1st anal-fin ray, between genital papilla and blind side pelvic fin base.</p>
-<!--template match = paragraph--><p>Origin of dorsal fin above anterior margin of lower eye joined with anterior edge of upper lip; first dorsal-fin ray 8.0–19.7 (13.7) % HL; origin of anal fin about level with 13th –15th dorsal-fin ray; pre-anal fin length 12.1–19.9 (15.3) % SL; first anal-fin ray 15.1–28.5 (21.2) % HL; 3rd pectoral-fin largest on both sides; pelvic fins close together on ventral edge of body, base of pelvic fin on ocular side slightly wider, reaching or just short of base of 4th anal-fin ray, 3rd ray longest on both sides.</p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<p>Dorsal and anal fin bases at level of 20th anal- and dorsal-fin rays, respectively, on ocular side covered with 1 or 2 and 8–10 scale rows, respectively; scales present on blind side (difficult to count in juveniles and small individuals); ocular side of caudal fin base mostly covered with scales (12–14 rows), scales progressively smaller posteriorly, fewer scales on blind side; pectoral-fin base on ocular side covered by 2 or 3 scale rows with 2 or 3 lines, pectoral-fin rays on both sides not covered with scales (ocular side pelvic-fin base scaled in juveniles and small individuals, scales absent on blind side); membrane of dorsal and anal fins on both sides connected, progressively shorter posteriorly; some cirri scattered randomly on all fin rays on ocular side (many cirri in larger individuals); genital papilla just anterior to anal-fin origin; anus small, at anterior of 1st anal-fin ray, between genital papilla and blind side pelvic fin base.</p>
+<p>Origin of dorsal fin above anterior margin of lower eye joined with anterior edge of upper lip; first dorsal-fin ray 8.0–19.7 (13.7) % HL; origin of anal fin about level with 13th –15th dorsal-fin ray; pre-anal fin length 12.1–19.9 (15.3) % SL; first anal-fin ray 15.1–28.5 (21.2) % HL; 3rd pectoral-fin largest on both sides; pelvic fins close together on ventral edge of body, base of pelvic fin on ocular side slightly wider, reaching or just short of base of 4th anal-fin ray, 3rd ray longest on both sides.</p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1.
 Counts and measurements (expressed as percentages of standard length) of the holotype and other specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 , and holotypes of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura</tp:taxon-name>
+<tp:taxon-name>Synaptura</tp:taxon-name>
 swin-
 </p>
-<!--template match = paragraph--><p>
+<p>
 honis
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura marginatus</tp:taxon-name>
+<tp:taxon-name>Synaptura marginatus</tp:taxon-name>
 . Modes of counts and means of measurements in parentheses.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e2188">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<p>
+<table id="d1e2188">
+<tr>
+<td>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus swinhonis</tp:taxon-name>
+<td>
+<tp:taxon-name>Brachirus swinhonis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
+<td>
+<tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura aspilos</tp:taxon-name>
+<tp:taxon-name>Synaptura aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S. heterolepis</tp:taxon-name>
+<tp:taxon-name>S. heterolepis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . dicholepis</tp:taxon-name>
+<tp:taxon-name>S . dicholepis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . sorsogonensis</tp:taxon-name>
+<tp:taxon-name>S . sorsogonensis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Non-types of 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . swinhonis</tp:taxon-name>
+<tp:taxon-name>S . swinhonis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . marginata</tp:taxon-name>
+<tp:taxon-name>S . marginata</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>BMNH 1862.6.3.5</td>
-<!--template match = td--><td>BMNH 1862.6.3.1</td>
-<!--template match = td--><td>ZMB 9861</td>
-<!--template match = td--><td>USNM 55916</td>
-<!--template match = td--><td>
+<tr>
+<td>BMNH 1862.6.3.5</td>
+<td>BMNH 1862.6.3.1</td>
+<td>ZMB 9861</td>
+<td>USNM 55916</td>
+<td>
 n
 = 48
 </td>
-<!--template match = td--><td>NMW 43070</td>
-<!--template match = td--><td>BMNH 1898.12.17.36</td>
+<td>NMW 43070</td>
+<td>BMNH 1898.12.17.36</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Total length (mm)</td>
-<!--template match = td--><td>161.8</td>
-<!--template match = td--><td>255.0</td>
-<!--template match = td--><td>307.2</td>
-<!--template match = td--><td>220.9</td>
-<!--template match = td--><td>30.3–465.5</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>265.1</td>
+<tr>
+<td>Total length (mm)</td>
+<td>161.8</td>
+<td>255.0</td>
+<td>307.2</td>
+<td>220.9</td>
+<td>30.3–465.5</td>
+<td>–</td>
+<td>265.1</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Standard length (mm)</td>
-<!--template match = td--><td>138.2</td>
-<!--template match = td--><td>226.2</td>
-<!--template match = td--><td>274.3</td>
-<!--template match = td--><td>193.7</td>
-<!--template match = td--><td>23.6–403.3</td>
-<!--template match = td--><td>98.6</td>
-<!--template match = td--><td>230.2</td>
+<tr>
+<td>Standard length (mm)</td>
+<td>138.2</td>
+<td>226.2</td>
+<td>274.3</td>
+<td>193.7</td>
+<td>23.6–403.3</td>
+<td>98.6</td>
+<td>230.2</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Counts</td>
+<tr>
+<td>Counts</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Dorsal-fin rays</td>
-<!--template match = td--><td>68</td>
-<!--template match = td--><td>67</td>
-<!--template match = td--><td>67</td>
-<!--template match = td--><td>72</td>
-<!--template match = td--><td>64–76 (71)</td>
-<!--template match = td--><td>70</td>
-<!--template match = td--><td>71</td>
+<tr>
+<td>Dorsal-fin rays</td>
+<td>68</td>
+<td>67</td>
+<td>67</td>
+<td>72</td>
+<td>64–76 (71)</td>
+<td>70</td>
+<td>71</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Anal-fin rays</td>
-<!--template match = td--><td>54</td>
-<!--template match = td--><td>52</td>
-<!--template match = td--><td>56</td>
-<!--template match = td--><td>59</td>
-<!--template match = td--><td>51–62 (56)</td>
-<!--template match = td--><td>57</td>
-<!--template match = td--><td>55</td>
+<tr>
+<td>Anal-fin rays</td>
+<td>54</td>
+<td>52</td>
+<td>56</td>
+<td>59</td>
+<td>51–62 (56)</td>
+<td>57</td>
+<td>55</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pectoral-fin rays (O)</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>4–7 (6)</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>8</td>
+<tr>
+<td>Pectoral-fin rays (O)</td>
+<td>6</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4–7 (6)</td>
+<td>6</td>
+<td>8</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pectoral-fin rays (B)</td>
-<!--template match = td--><td>4</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>4–7 (5)</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>8</td>
+<tr>
+<td>Pectoral-fin rays (B)</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+<td>4–7 (5)</td>
+<td>6</td>
+<td>8</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pelvic-fin rays (O)</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>4–6 (5)</td>
-<!--template match = td--><td>4</td>
-<!--template match = td--><td>3</td>
+<tr>
+<td>Pelvic-fin rays (O)</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4–6 (5)</td>
+<td>4</td>
+<td>3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pelvic-fin rays (B)</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>4</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>4–5 (4)</td>
-<!--template match = td--><td>4</td>
-<!--template match = td--><td>4</td>
+<tr>
+<td>Pelvic-fin rays (B)</td>
+<td>5</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>4–5 (4)</td>
+<td>4</td>
+<td>4</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Caudal-fin rays</td>
-<!--template match = td--><td>14</td>
-<!--template match = td--><td>14</td>
-<!--template match = td--><td>14</td>
-<!--template match = td--><td>15</td>
-<!--template match = td--><td>13–15 (14)</td>
-<!--template match = td--><td>14</td>
-<!--template match = td--><td>17</td>
+<tr>
+<td>Caudal-fin rays</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td>15</td>
+<td>13–15 (14)</td>
+<td>14</td>
+<td>17</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Total vertebrae</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>41–44 (43)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>41</td>
+<tr>
+<td>Total vertebrae</td>
+<td>43</td>
+<td>43</td>
+<td>–</td>
+<td>–</td>
+<td>41–44 (43)</td>
+<td>–</td>
+<td>41</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lateral-line scales at head (O)</td>
-<!--template match = td--><td>34</td>
-<!--template match = td--><td>26</td>
-<!--template match = td--><td>20</td>
-<!--template match = td--><td>27</td>
-<!--template match = td--><td>18–37 (30)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>–</td>
+<tr>
+<td>Lateral-line scales at head (O)</td>
+<td>34</td>
+<td>26</td>
+<td>20</td>
+<td>27</td>
+<td>18–37 (30)</td>
+<td>–</td>
+<td>–</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lateral-line scales (O)</td>
-<!--template match = td--><td>100</td>
-<!--template match = td--><td>94</td>
-<!--template match = td--><td>100</td>
-<!--template match = td--><td>112</td>
-<!--template match = td--><td>93–126 (118)</td>
-<!--template match = td--><td>108</td>
-<!--template match = td--><td>114</td>
+<tr>
+<td>Lateral-line scales (O)</td>
+<td>100</td>
+<td>94</td>
+<td>100</td>
+<td>112</td>
+<td>93–126 (118)</td>
+<td>108</td>
+<td>114</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lateral-line scales at caudal fin (O)</td>
-<!--template match = td--><td>21</td>
-<!--template match = td--><td>23</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>29</td>
-<!--template match = td--><td>15–31 (23)</td>
-<!--template match = td--><td>29</td>
-<!--template match = td--><td>–</td>
+<tr>
+<td>Lateral-line scales at caudal fin (O)</td>
+<td>21</td>
+<td>23</td>
+<td>–</td>
+<td>29</td>
+<td>15–31 (23)</td>
+<td>29</td>
+<td>–</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lateral-line scales (B)</td>
-<!--template match = td--><td>114</td>
-<!--template match = td--><td>106</td>
-<!--template match = td--><td>98</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>98–128 (118)</td>
-<!--template match = td--><td>102</td>
-<!--template match = td--><td>114</td>
+<tr>
+<td>Lateral-line scales (B)</td>
+<td>114</td>
+<td>106</td>
+<td>98</td>
+<td>–</td>
+<td>98–128 (118)</td>
+<td>102</td>
+<td>114</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Scale rows above lateral line (O)</td>
-<!--template match = td--><td>40</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>38</td>
-<!--template match = td--><td>36–53 (43)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>39</td>
+<tr>
+<td>Scale rows above lateral line (O)</td>
+<td>40</td>
+<td>43</td>
+<td>43</td>
+<td>38</td>
+<td>36–53 (43)</td>
+<td>–</td>
+<td>39</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Scale rows above lateral line (B)</td>
-<!--template match = td--><td>43</td>
-<!--template match = td--><td>50</td>
-<!--template match = td--><td>48</td>
-<!--template match = td--><td>45</td>
-<!--template match = td--><td>40–56 (48)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>39</td>
+<tr>
+<td>Scale rows above lateral line (B)</td>
+<td>43</td>
+<td>50</td>
+<td>48</td>
+<td>45</td>
+<td>40–56 (48)</td>
+<td>–</td>
+<td>39</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Scale rows below lateral line (O)</td>
-<!--template match = td--><td>49</td>
-<!--template match = td--><td>47</td>
-<!--template match = td--><td>50</td>
-<!--template match = td--><td>46</td>
-<!--template match = td--><td>40–60 (53)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>48</td>
+<tr>
+<td>Scale rows below lateral line (O)</td>
+<td>49</td>
+<td>47</td>
+<td>50</td>
+<td>46</td>
+<td>40–60 (53)</td>
+<td>–</td>
+<td>48</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Scale rows below lateral line (B)</td>
-<!--template match = td--><td>55</td>
-<!--template match = td--><td>56</td>
-<!--template match = td--><td>56</td>
-<!--template match = td--><td>52</td>
-<!--template match = td--><td>44–68 (63)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>46</td>
+<tr>
+<td>Scale rows below lateral line (B)</td>
+<td>55</td>
+<td>56</td>
+<td>56</td>
+<td>52</td>
+<td>44–68 (63)</td>
+<td>–</td>
+<td>46</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Dorsal-fin scale rows (O)</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>9</td>
-<!--template match = td--><td>9</td>
-<!--template match = td--><td>8–11 (9)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>0</td>
+<tr>
+<td>Dorsal-fin scale rows (O)</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>8–11 (9)</td>
+<td>–</td>
+<td>0</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Anal-fin scale rows (O)</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>8</td>
-<!--template match = td--><td>8–11 (9)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>0</td>
+<tr>
+<td>Anal-fin scale rows (O)</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8–11 (9)</td>
+<td>–</td>
+<td>0</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Interorbital scale rows</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>5</td>
-<!--template match = td--><td>4–6 (5)</td>
-<!--template match = td--><td>6</td>
-<!--template match = td--><td>3</td>
+<tr>
+<td>Interorbital scale rows</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+<td>5</td>
+<td>4–6 (5)</td>
+<td>6</td>
+<td>3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Measurements (% SL)</td>
+<tr>
+<td>Measurements (% SL)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Body depth</td>
-<!--template match = td--><td>42.2</td>
-<!--template match = td--><td>43.3</td>
-<!--template match = td--><td>46.0</td>
-<!--template match = td--><td>42.0</td>
-<!--template match = td--><td>40.0–51.0 (45.5)</td>
-<!--template match = td--><td>41.5</td>
-<!--template match = td--><td>42.5</td>
+<tr>
+<td>Body depth</td>
+<td>42.2</td>
+<td>43.3</td>
+<td>46.0</td>
+<td>42.0</td>
+<td>40.0–51.0 (45.5)</td>
+<td>41.5</td>
+<td>42.5</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Body width</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>6.2</td>
-<!--template match = td--><td>5.7</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>4.8–10.2 (6.7)</td>
-<!--template match = td--><td>3.5</td>
-<!--template match = td--><td>6.8</td>
+<tr>
+<td>Body width</td>
+<td>5.4</td>
+<td>6.2</td>
+<td>5.7</td>
+<td>–</td>
+<td>4.8–10.2 (6.7)</td>
+<td>3.5</td>
+<td>6.8</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 ......continued on the next page
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>TABLE 1. (Continued)</p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>TABLE 1. (Continued)</p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e3003">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<p>
+<table id="d1e3003">
+<tr>
+<td>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus swinhonis</tp:taxon-name>
+<td>
+<tp:taxon-name>Brachirus swinhonis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
+<td>
+<tp:taxon-name>Dagetichthys marginatus</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura aspilos</tp:taxon-name>
+<tp:taxon-name>Synaptura aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S. heterolepis</tp:taxon-name>
+<tp:taxon-name>S. heterolepis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . dicholepis</tp:taxon-name>
+<tp:taxon-name>S . dicholepis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . sorsogonensis</tp:taxon-name>
+<tp:taxon-name>S . sorsogonensis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Non-types of 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . swinhonis</tp:taxon-name>
+<tp:taxon-name>S . swinhonis</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>S . marginata</tp:taxon-name>
+<tp:taxon-name>S . marginata</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>BMNH 1862.6.3.5</td>
-<!--template match = td--><td>BMNH 1862.6.3.1</td>
-<!--template match = td--><td>ZMB 9861</td>
-<!--template match = td--><td>USNM 55916</td>
-<!--template match = td--><td>
+<tr>
+<td>BMNH 1862.6.3.5</td>
+<td>BMNH 1862.6.3.1</td>
+<td>ZMB 9861</td>
+<td>USNM 55916</td>
+<td>
 n
 = 48
 </td>
-<!--template match = td--><td>NMW 43070</td>
-<!--template match = td--><td>BMNH 1898.12.17.36</td>
+<td>NMW 43070</td>
+<td>BMNH 1898.12.17.36</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Head length</td>
-<!--template match = td--><td>20.0</td>
-<!--template match = td--><td>16.8</td>
-<!--template match = td--><td>17.2</td>
-<!--template match = td--><td>19.1</td>
-<!--template match = td--><td>16.1–23.9 (18.6)</td>
-<!--template match = td--><td>24.8</td>
-<!--template match = td--><td>21.2</td>
+<tr>
+<td>Head length</td>
+<td>20.0</td>
+<td>16.8</td>
+<td>17.2</td>
+<td>19.1</td>
+<td>16.1–23.9 (18.6)</td>
+<td>24.8</td>
+<td>21.2</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Head width</td>
-<!--template match = td--><td>5.5</td>
-<!--template match = td--><td>6.1</td>
-<!--template match = td--><td>5.6</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>5.0–8.2 (6.0)</td>
-<!--template match = td--><td>4.8</td>
-<!--template match = td--><td>5.9</td>
+<tr>
+<td>Head width</td>
+<td>5.5</td>
+<td>6.1</td>
+<td>5.6</td>
+<td>–</td>
+<td>5.0–8.2 (6.0)</td>
+<td>4.8</td>
+<td>5.9</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Snout length</td>
-<!--template match = td--><td>5.1</td>
-<!--template match = td--><td>6.5</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>6.5</td>
-<!--template match = td--><td>5.1–8.2 (6.4)</td>
-<!--template match = td--><td>7.3</td>
-<!--template match = td--><td>5.7</td>
+<tr>
+<td>Snout length</td>
+<td>5.1</td>
+<td>6.5</td>
+<td>5.4</td>
+<td>6.5</td>
+<td>5.1–8.2 (6.4)</td>
+<td>7.3</td>
+<td>5.7</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Upper-eye diameter</td>
-<!--template match = td--><td>2.0</td>
-<!--template match = td--><td>2.7</td>
-<!--template match = td--><td>1.9</td>
-<!--template match = td--><td>2.3</td>
-<!--template match = td--><td>1.5–4.1 (2.4)</td>
-<!--template match = td--><td>2.8</td>
-<!--template match = td--><td>2.5</td>
+<tr>
+<td>Upper-eye diameter</td>
+<td>2.0</td>
+<td>2.7</td>
+<td>1.9</td>
+<td>2.3</td>
+<td>1.5–4.1 (2.4)</td>
+<td>2.8</td>
+<td>2.5</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lower-eye diameter</td>
-<!--template match = td--><td>2.2</td>
-<!--template match = td--><td>3.2</td>
-<!--template match = td--><td>1.7</td>
-<!--template match = td--><td>3.2</td>
-<!--template match = td--><td>1.1–4.0 (2.4)</td>
-<!--template match = td--><td>3.1</td>
-<!--template match = td--><td>2.5</td>
+<tr>
+<td>Lower-eye diameter</td>
+<td>2.2</td>
+<td>3.2</td>
+<td>1.7</td>
+<td>3.2</td>
+<td>1.1–4.0 (2.4)</td>
+<td>3.1</td>
+<td>2.5</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Interorbital width</td>
-<!--template match = td--><td>3.2</td>
-<!--template match = td--><td>2.4</td>
-<!--template match = td--><td>3.0</td>
-<!--template match = td--><td>1.9</td>
-<!--template match = td--><td>1.8–3.2 (2.6)</td>
-<!--template match = td--><td>3.2</td>
-<!--template match = td--><td>1.8</td>
+<tr>
+<td>Interorbital width</td>
+<td>3.2</td>
+<td>2.4</td>
+<td>3.0</td>
+<td>1.9</td>
+<td>1.8–3.2 (2.6)</td>
+<td>3.2</td>
+<td>1.8</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pre-anterior-nostril length</td>
-<!--template match = td--><td>3.4</td>
-<!--template match = td--><td>3.8</td>
-<!--template match = td--><td>4.3</td>
-<!--template match = td--><td>4.3</td>
-<!--template match = td--><td>3.4–6.1 (4.3)</td>
-<!--template match = td--><td>3.2</td>
-<!--template match = td--><td>3.1</td>
+<tr>
+<td>Pre-anterior-nostril length</td>
+<td>3.4</td>
+<td>3.8</td>
+<td>4.3</td>
+<td>4.3</td>
+<td>3.4–6.1 (4.3)</td>
+<td>3.2</td>
+<td>3.1</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Anterior nostril tube length</td>
-<!--template match = td--><td>1.6</td>
-<!--template match = td--><td>1.8</td>
-<!--template match = td--><td>1.1</td>
-<!--template match = td--><td>1.1</td>
-<!--template match = td--><td>0.8–2.0 (1.4)</td>
-<!--template match = td--><td>1.8</td>
-<!--template match = td--><td>1.3</td>
+<tr>
+<td>Anterior nostril tube length</td>
+<td>1.6</td>
+<td>1.8</td>
+<td>1.1</td>
+<td>1.1</td>
+<td>0.8–2.0 (1.4)</td>
+<td>1.8</td>
+<td>1.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Upper-jaw length</td>
-<!--template match = td--><td>6.1</td>
-<!--template match = td--><td>5.2</td>
-<!--template match = td--><td>5.2</td>
-<!--template match = td--><td>5.6</td>
-<!--template match = td--><td>4.1–7.4 (5.4)</td>
-<!--template match = td--><td>7.1</td>
-<!--template match = td--><td>6.7</td>
+<tr>
+<td>Upper-jaw length</td>
+<td>6.1</td>
+<td>5.2</td>
+<td>5.2</td>
+<td>5.6</td>
+<td>4.1–7.4 (5.4)</td>
+<td>7.1</td>
+<td>6.7</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Lower-jaw length</td>
-<!--template match = td--><td>5.5</td>
-<!--template match = td--><td>4.3</td>
-<!--template match = td--><td>3.9</td>
-<!--template match = td--><td>5.8</td>
-<!--template match = td--><td>3.1–6.2 (4.3)</td>
-<!--template match = td--><td>4.9</td>
-<!--template match = td--><td>5.4</td>
+<tr>
+<td>Lower-jaw length</td>
+<td>5.5</td>
+<td>4.3</td>
+<td>3.9</td>
+<td>5.8</td>
+<td>3.1–6.2 (4.3)</td>
+<td>4.9</td>
+<td>5.4</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pre-anal-fin length</td>
-<!--template match = td--><td>16.8</td>
-<!--template match = td--><td>17.3</td>
-<!--template match = td--><td>6.4</td>
-<!--template match = td--><td>14.4</td>
-<!--template match = td--><td>12.1–19.9 (15.3)</td>
-<!--template match = td--><td>19.7</td>
-<!--template match = td--><td>17.2</td>
+<tr>
+<td>Pre-anal-fin length</td>
+<td>16.8</td>
+<td>17.3</td>
+<td>6.4</td>
+<td>14.4</td>
+<td>12.1–19.9 (15.3)</td>
+<td>19.7</td>
+<td>17.2</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pre-pectoral-fin length</td>
-<!--template match = td--><td>20.7</td>
-<!--template match = td--><td>18.7</td>
-<!--template match = td--><td>17.7</td>
-<!--template match = td--><td>18.3</td>
-<!--template match = td--><td>16.0–21.5 (18.6)</td>
-<!--template match = td--><td>23.9</td>
-<!--template match = td--><td>21.2</td>
+<tr>
+<td>Pre-pectoral-fin length</td>
+<td>20.7</td>
+<td>18.7</td>
+<td>17.7</td>
+<td>18.3</td>
+<td>16.0–21.5 (18.6)</td>
+<td>23.9</td>
+<td>21.2</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pre-pelvic-fin length</td>
-<!--template match = td--><td>15.9</td>
-<!--template match = td--><td>13.6</td>
-<!--template match = td--><td>13.7</td>
-<!--template match = td--><td>11.0</td>
-<!--template match = td--><td>9.0–16.9 (12.0)</td>
-<!--template match = td--><td>15.9</td>
-<!--template match = td--><td>15.3</td>
+<tr>
+<td>Pre-pelvic-fin length</td>
+<td>15.9</td>
+<td>13.6</td>
+<td>13.7</td>
+<td>11.0</td>
+<td>9.0–16.9 (12.0)</td>
+<td>15.9</td>
+<td>15.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>First dorsal-fin ray length</td>
-<!--template match = td--><td>2.6</td>
-<!--template match = td--><td>2.2</td>
-<!--template match = td--><td>2.4</td>
-<!--template match = td--><td>4.3</td>
-<!--template match = td--><td>1.6–3.5 (2.5)</td>
-<!--template match = td--><td>2.1</td>
-<!--template match = td--><td>2.1</td>
+<tr>
+<td>First dorsal-fin ray length</td>
+<td>2.6</td>
+<td>2.2</td>
+<td>2.4</td>
+<td>4.3</td>
+<td>1.6–3.5 (2.5)</td>
+<td>2.1</td>
+<td>2.1</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Longest dorsal-fin ray length</td>
-<!--template match = td--><td>12.0</td>
-<!--template match = td--><td>12.0</td>
-<!--template match = td--><td>9.1</td>
-<!--template match = td--><td>12.1</td>
-<!--template match = td--><td>8.7–13.8 (10.5)</td>
-<!--template match = td--><td>9.4</td>
-<!--template match = td--><td>10.0</td>
+<tr>
+<td>Longest dorsal-fin ray length</td>
+<td>12.0</td>
+<td>12.0</td>
+<td>9.1</td>
+<td>12.1</td>
+<td>8.7–13.8 (10.5)</td>
+<td>9.4</td>
+<td>10.0</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>First anal-fin ray length</td>
-<!--template match = td--><td>3.0</td>
-<!--template match = td--><td>4.4</td>
-<!--template match = td--><td>3.4</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>2.6–5.7 (3.9)</td>
-<!--template match = td--><td>2.9</td>
-<!--template match = td--><td>3.3</td>
+<tr>
+<td>First anal-fin ray length</td>
+<td>3.0</td>
+<td>4.4</td>
+<td>3.4</td>
+<td>5.4</td>
+<td>2.6–5.7 (3.9)</td>
+<td>2.9</td>
+<td>3.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Longest anal-fin ray length</td>
-<!--template match = td--><td>12.0</td>
-<!--template match = td--><td>10.9</td>
-<!--template match = td--><td>8.1</td>
-<!--template match = td--><td>12.0</td>
-<!--template match = td--><td>8.8–14.2 (10.7)</td>
-<!--template match = td--><td>8.5</td>
-<!--template match = td--><td>9.9</td>
+<tr>
+<td>Longest anal-fin ray length</td>
+<td>12.0</td>
+<td>10.9</td>
+<td>8.1</td>
+<td>12.0</td>
+<td>8.8–14.2 (10.7)</td>
+<td>8.5</td>
+<td>9.9</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Anal-fin base length</td>
-<!--template match = td--><td>84.8</td>
-<!--template match = td--><td>82.5</td>
-<!--template match = td--><td>89.3</td>
-<!--template match = td--><td>87.7</td>
-<!--template match = td--><td>81.4–93.6 (86.7)</td>
-<!--template match = td--><td>87.1</td>
-<!--template match = td--><td>87.4</td>
+<tr>
+<td>Anal-fin base length</td>
+<td>84.8</td>
+<td>82.5</td>
+<td>89.3</td>
+<td>87.7</td>
+<td>81.4–93.6 (86.7)</td>
+<td>87.1</td>
+<td>87.4</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Caudal-fin length</td>
-<!--template match = td--><td>16.0</td>
-<!--template match = td--><td>14.1</td>
-<!--template match = td--><td>12.1</td>
-<!--template match = td--><td>87.7</td>
-<!--template match = td--><td>12.1–17.6 (14.4)</td>
-<!--template match = td--><td>16.9</td>
-<!--template match = td--><td>17.0</td>
+<tr>
+<td>Caudal-fin length</td>
+<td>16.0</td>
+<td>14.1</td>
+<td>12.1</td>
+<td>87.7</td>
+<td>12.1–17.6 (14.4)</td>
+<td>16.9</td>
+<td>17.0</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pectoral-fin length (O)</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>6.7</td>
-<!--template match = td--><td>6.3</td>
-<!--template match = td--><td>5.5</td>
-<!--template match = td--><td>5.3–7.6 (6.6)</td>
-<!--template match = td--><td>5.2</td>
-<!--template match = td--><td>6.4</td>
+<tr>
+<td>Pectoral-fin length (O)</td>
+<td>5.4</td>
+<td>6.7</td>
+<td>6.3</td>
+<td>5.5</td>
+<td>5.3–7.6 (6.6)</td>
+<td>5.2</td>
+<td>6.4</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pectoral-fin length (B)</td>
-<!--template match = td--><td>4.3</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>3.0</td>
-<!--template match = td--><td>4.5</td>
-<!--template match = td--><td>4.0–6.0 (4.8)</td>
-<!--template match = td--><td>4.7</td>
-<!--template match = td--><td>6.4</td>
+<tr>
+<td>Pectoral-fin length (B)</td>
+<td>4.3</td>
+<td>5.4</td>
+<td>3.0</td>
+<td>4.5</td>
+<td>4.0–6.0 (4.8)</td>
+<td>4.7</td>
+<td>6.4</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pelvic-fin length (O)</td>
-<!--template match = td--><td>7.3</td>
-<!--template match = td--><td>5.9</td>
-<!--template match = td--><td>6.0</td>
-<!--template match = td--><td>7.2</td>
-<!--template match = td--><td>4.9–7.4 (6.0)</td>
-<!--template match = td--><td>9.6</td>
-<!--template match = td--><td>3.8</td>
+<tr>
+<td>Pelvic-fin length (O)</td>
+<td>7.3</td>
+<td>5.9</td>
+<td>6.0</td>
+<td>7.2</td>
+<td>4.9–7.4 (6.0)</td>
+<td>9.6</td>
+<td>3.8</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pelvic-fin length (B)</td>
-<!--template match = td--><td>5.9</td>
-<!--template match = td--><td>4.9</td>
-<!--template match = td--><td>5.3</td>
-<!--template match = td--><td>6.1</td>
-<!--template match = td--><td>3.9–6.5 (4.9)</td>
-<!--template match = td--><td>6.9</td>
-<!--template match = td--><td>4.3</td>
+<tr>
+<td>Pelvic-fin length (B)</td>
+<td>5.9</td>
+<td>4.9</td>
+<td>5.3</td>
+<td>6.1</td>
+<td>3.9–6.5 (4.9)</td>
+<td>6.9</td>
+<td>4.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Caudal-peduncle depth</td>
-<!--template match = td--><td>5.9</td>
-<!--template match = td--><td>6.4</td>
-<!--template match = td--><td>5.0</td>
-<!--template match = td--><td>5.4</td>
-<!--template match = td--><td>4.3–7.5 (5.8)</td>
-<!--template match = td--><td>6.8</td>
-<!--template match = td--><td>7.3</td>
+<tr>
+<td>Caudal-peduncle depth</td>
+<td>5.9</td>
+<td>6.4</td>
+<td>5.0</td>
+<td>5.4</td>
+<td>4.3–7.5 (5.8)</td>
+<td>6.8</td>
+<td>7.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Body depth above lateral line</td>
-<!--template match = td--><td>18.8</td>
-<!--template match = td--><td>19.7</td>
-<!--template match = td--><td>21.2</td>
-<!--template match = td--><td>18.2</td>
-<!--template match = td--><td>18.0–23.4 (19.8)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>19.5</td>
+<tr>
+<td>Body depth above lateral line</td>
+<td>18.8</td>
+<td>19.7</td>
+<td>21.2</td>
+<td>18.2</td>
+<td>18.0–23.4 (19.8)</td>
+<td>–</td>
+<td>19.5</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Body depth below lateral line</td>
-<!--template match = td--><td>22.4</td>
-<!--template match = td--><td>22.5</td>
-<!--template match = td--><td>25.0</td>
-<!--template match = td--><td>21.5</td>
-<!--template match = td--><td>21.7–27.1 (23.4)</td>
-<!--template match = td--><td>–</td>
-<!--template match = td--><td>23.0</td>
+<tr>
+<td>Body depth below lateral line</td>
+<td>22.4</td>
+<td>22.5</td>
+<td>25.0</td>
+<td>21.5</td>
+<td>21.7–27.1 (23.4)</td>
+<td>–</td>
+<td>23.0</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 O: ocular side; B: blind side.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-7--151-250-1943-1967-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-7--151-250-1943-1967-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
 Holotypes of nominal species identified as 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 in this study. A, BMNH 1862.6.3.1, holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura heterolepis</tp:taxon-name>
+<tp:taxon-name>Synaptura heterolepis</tp:taxon-name>
 , 226.2 mm SL, Indonesia; B, ZMB 9861, holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura dicholepis</tp:taxon-name>
+<tp:taxon-name>Synaptura dicholepis</tp:taxon-name>
 , 274.3 mm SL, Papua New Guinea; C, USNM 55916, holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Synaptura sorsogonensis</tp:taxon-name>
+<tp:taxon-name>Synaptura sorsogonensis</tp:taxon-name>
 , 193.7 mm SL, Philippines.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4441869/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-8--151-250-1401-1425-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-8--151-250-1401-1425-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 3.
 Blind side midbody scales from below the lateral line in 
-<!--template match = taxonomicName--><tp:taxon-name>Brachirus aspilos</tp:taxon-name>
+<tp:taxon-name>Brachirus aspilos</tp:taxon-name>
 (BSKU 114074, 279.5 mm SL). A, whole scale; B, cycloid scale; C, ctenoid scale with single ctenii; D, ctenoid scale with three ctenii.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4441871/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Coloration when fresh
 . Based on color photographs of fresh specimens (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
 A–F). The color pattern difference appear not to depend on sexes from examination of gonads, but probably depends on substrate of the habitat. Body color on ocular side variegated, highly variable, generally greyish or brownish, mottled with irregularly scattered, variously-sized pale or light greyish or brownish blotches and irregular vertical dark brown bands (some individuals with 4 or 5 bands on midbody along lateral line (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1943-1967-">Figs. 2D</xref>
+<xref rid="fig-7--151-250-1943-1967-">Figs. 2D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">4A, D</xref>
+<xref rid="fig-9--151-250-1467-1491-">4A, D</xref>
 ); occasionally tortoiseshell-like patterns of pale spots and lines (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1943-1967-">Figs. 2B</xref>
+<xref rid="fig-7--151-250-1943-1967-">Figs. 2B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">4A</xref>
+<xref rid="fig-9--151-250-1467-1491-">4A</xref>
 , D–E), or scattered white blotches (sometimes absent in juveniles and adults), usually with a series of small white blotches along entire dorsal- and anal-fin bases and lacking dark grey vertical bands (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
 D–E); sometimes varying from whitish-grey to blackish (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
 A–C). Body on blind side pale yellow with dark brown dorsal, anal and caudal fins; inside of mouth greyish. Head greyish or brownish; sometimes ca. 5 semicircular spots above upper eye. Opercular membrane light grey. All cirri on both sides of body translucent brown. Several blackish to brownish blotches with thin dark borders along dorsal- and anal-fin bases (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1943-1967-">Figs. 2D</xref>
+<xref rid="fig-7--151-250-1943-1967-">Figs. 2D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">4A, D</xref>
+<xref rid="fig-9--151-250-1467-1491-">4A, D</xref>
 ). Dorsal, anal and caudal fin colors on both sides similar to that of ocular side of body, greyish to brownish (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
+<xref rid="fig-9--151-250-1467-1491-">Fig. 4</xref>
 ); tips of dorsal, anal and caudal fins with white margin; pectoral fin uniformly translucent white, sometimes with black small spots above central area on blind side, tips sometimes with white to yellow margin; pelvic fins generally greyish or brownish, tips on ocular side whitish, uniformly translucent white on blind side.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Currently known from tropical to subtropical waters in the southeastern Indian and western Pacific oceans, having been recorded from 
 Japan
@@ -1932,23 +1932,23 @@ Samoa
 , and 
 Australia
 (
-<!--template match = bibRefCitation--><xref rid="ref8635">Bleeker 1852</xref>
+<xref rid="ref8635">Bleeker 1852</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref8664">1853</xref>
+<xref rid="ref8664">1853</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref8693">1856</xref>
+<xref rid="ref8693">1856</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref10389">Peters 1877</xref>
+<xref rid="ref10389">Peters 1877</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref9123">Evermann &amp; Seale 1907</xref>
+<xref rid="ref9123">Evermann &amp; Seale 1907</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref10027">Munroe 2000</xref>
+<xref rid="ref10027">Munroe 2000</xref>
 , 2001; 
-<!--template match = bibRefCitation--><xref rid="ref9515">Hoese &amp; Bray 2006</xref>
+<xref rid="ref9515">Hoese &amp; Bray 2006</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref9682">Kottelat 2013</xref>
+<xref rid="ref9682">Kottelat 2013</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref9770">
+<xref rid="ref9770">
 Larson 
 et al
 . 2013
@@ -1956,9 +1956,9 @@ et al
 ; Frick 
 et al
 . 2014; this study: 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">Fig. 5</xref>
+<xref rid="fig-11--151-250-1842-1866-">Fig. 5</xref>
 ). Specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>B. aspilos</tp:taxon-name>
+<tp:taxon-name>B. aspilos</tp:taxon-name>
 examined in the present study had been collected from shallow marine and estuarine waters in depths less than 
 
 5 m
@@ -1967,7 +1967,7 @@ examined in the present study had been collected from shallow marine and estuari
 However, underwater photographs have shown individuals on shallow sandy bottoms between 
 2–30 m
 depth (
-<!--template match = bibRefCitation--><xref rid="ref8561">Allen &amp; Erdmann 2012</xref>
+<xref rid="ref8561">Allen &amp; Erdmann 2012</xref>
 ; this study).
 </p>
 </tp:treatment-sec>

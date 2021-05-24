@@ -1,70 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Limnophora bipunctata (Stein)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Limnophora bipunctata (Stein)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Figs 1D‒G</xref>
+<xref rid="fig-3--151-250-1943-1967-">Figs 1D‒G</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Calliophrys bipunctata Stein</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Calliophrys bipunctata Stein</tp:taxon-name>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17283">Becker 1908a: 103</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17283">Becker 1908a: 103</xref>
 </tp:nomenclature-citation>
 (Gran Canaria, Tenerife, La Palma); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17313">Becker 1908b: 195</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17313">Becker 1908b: 195</xref>
 </tp:nomenclature-citation>
 (
 Madeira
 ); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17783">Frey 1936: 131</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17783">Frey 1936: 131</xref>
 </tp:nomenclature-citation>
 (Gran Canaria, La Gomera, La Palma).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora (Calliophrys) bipunctata (Stein)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Limnophora (Calliophrys) bipunctata (Stein)</tp:taxon-name>
 ; Hennig 1960: 385; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17198">Báez 1981: 632</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17198">Báez 1981: 632</xref>
 </tp:nomenclature-citation>
 , pl. 1 figs 9, 10, pl. 2 
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Figs 1</xref>
+<xref rid="fig-3--151-250-1943-1967-">Figs 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1944-1968-">2</xref>
+<xref rid="fig-4--151-250-1944-1968-">2</xref>
 (Fuerteventura, Gran Canaria, Tenerife, La Palma).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora (Melanochelia) bipunctata (Stein)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Limnophora (Melanochelia) bipunctata (Stein)</tp:taxon-name>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref18609">Santos Abréu 1976: 106</xref>
+<tp:nomenclature-citation>
+<xref rid="ref18609">Santos Abréu 1976: 106</xref>
 </tp:nomenclature-citation>
 (La Palma).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora bipunctata (Stein)</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Limnophora bipunctata (Stein)</tp:taxon-name>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref18345">Pont 1986: 179</xref>
+<tp:nomenclature-citation>
+<xref rid="ref18345">Pont 1986: 179</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref17496">Couri &amp; Pont 2020: 6</xref>
+<tp:nomenclature-citation>
+<xref rid="ref17496">Couri &amp; Pont 2020: 6</xref>
 </tp:nomenclature-citation>
 , 50 figs 230‒233 (male 
 syntype
@@ -72,270 +72,270 @@ syntype
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
 [
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZH</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">MZH</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMD</named-content>
+<named-content content-type="collectionCode">NHMD</named-content>
 ]: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">CANARY ISLANDS</named-content>
+<named-content content-type="emphasis">CANARY ISLANDS</named-content>
 : FUERTEVENTURA: Chilegua, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20‒23.v.1951</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20‒23.v.1951</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B. Pettersson</named-content>
+<named-content content-type="collectorName">B. Pettersson</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">GRAN CANARIA</named-content>
+<named-content content-type="collectionCode">GRAN CANARIA</named-content>
 : Maspalomas, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♂</named-content>
+<named-content content-type="specimenCount">3♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9‒10.iii.1950</named-content>
+<named-content content-type="specimenCount">3♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9‒10.iii.1950</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 ); Bco. Virgin, Moya, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">400m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">400m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.vii.1984</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.vii.1984</named-content>
 </named-content>
 (Olsen, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Skule</named-content>
+<named-content content-type="collectorName">Skule</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Stadel</named-content>
+<named-content content-type="collectorName">Stadel</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">El Risco</named-content>
+<named-content content-type="collectorName">El Risco</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°02´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°43´W</named-content>
+<named-content content-type="geoCoordinate">28°02´N</named-content>
+<named-content content-type="geoCoordinate">15°43´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">150‒200m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">150‒200m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♂</named-content>
+<named-content content-type="specimenCount">4♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7‒12.i.2014</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7‒12.i.2014</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Mi- chelsen); Aldea, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27°58´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°43´W</named-content>
+<named-content content-type="geoCoordinate">27°58´N</named-content>
+<named-content content-type="geoCoordinate">15°43´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">8km</named-content>
+<named-content content-type="quantity">8km</named-content>
 E, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">250m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">250m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30.xi.2014</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30.xi.2014</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen). LA GOMERA: Cumbre, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<named-content content-type="specimenCount">2♀</named-content>
 1931 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+<named-content content-type="collectionCode">R</named-content>
 . Frey); Las Toscas, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°04´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°12´W</named-content>
+<named-content content-type="geoCoordinate">28°04´N</named-content>
+<named-content content-type="geoCoordinate">17°12´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">720m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">720m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.xi.2002</named-content>
+<named-content content-type="specimenCount">2♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19.xi.2002</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">La Laja</named-content>
+<named-content content-type="collectorName">La Laja</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">480‒600m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">480‒600m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♂</named-content>
+<named-content content-type="specimenCount">4♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.xi.2002</named-content>
+<named-content content-type="specimenCount">4♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23.xi.2002</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8♂</named-content>
+<named-content content-type="specimenCount">8♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22‒29.i.2016</named-content>
+<named-content content-type="specimenCount">4♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22‒29.i.2016</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); Las Carretas, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°11´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°14´W</named-content>
+<named-content content-type="geoCoordinate">28°11´N</named-content>
+<named-content content-type="geoCoordinate">17°14´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">80m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">80m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♂</named-content>
+<named-content content-type="specimenCount">3♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10‒12.i.2006</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10‒12.i.2006</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); Los Loros, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°09´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°16´W</named-content>
+<named-content content-type="geoCoordinate">28°09´N</named-content>
+<named-content content-type="geoCoordinate">17°16´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">520‒770m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">520‒770m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1‒7.ii.2008</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1‒7.ii.2008</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); Bco. Arure, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°06´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°19´W</named-content>
+<named-content content-type="geoCoordinate">28°06´N</named-content>
+<named-content content-type="geoCoordinate">17°19´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200‒265m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">200‒265m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7♂</named-content>
+<named-content content-type="specimenCount">7♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4.ii.2008</named-content>
+<named-content content-type="specimenCount">3♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">4.ii.2008</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); Alojera, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°10´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°19´W</named-content>
+<named-content content-type="geoCoordinate">28°10´N</named-content>
+<named-content content-type="geoCoordinate">17°19´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">100‒120m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">100‒120m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5.ii.2008</named-content>
+<named-content content-type="specimenCount">2♂</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5.ii.2008</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . Michelsen); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bco de Aguajilva</named-content>
+<named-content content-type="location">Bco de Aguajilva</named-content>
 , Lomito Fragoso, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°07´N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°10´W</named-content>
+<named-content content-type="geoCoordinate">28°07´N</named-content>
+<named-content content-type="geoCoordinate">17°10´W</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">220‒250m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">220‒250m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19‒24.i.2019</named-content>
+<named-content content-type="specimenCount">6♂</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19‒24.i.2019</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♂</named-content>
+<named-content content-type="specimenCount">4♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24‒ 29.i.2020</named-content>
+<named-content content-type="specimenCount">2♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24‒ 29.i.2020</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Michelsen</named-content>
+<named-content content-type="location">Michelsen</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">MADEIRA</named-content>
+<named-content content-type="emphasis">MADEIRA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">São Vicente</named-content>
+<named-content content-type="collectingCountry">São Vicente</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♂</named-content>
+<named-content content-type="specimenCount">2♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1‒2.vii.1957</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1‒2.vii.1957</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Poiso-Arieiro</named-content>
+<named-content content-type="location">Poiso-Arieiro</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.vi.1957</named-content>
+<named-content content-type="specimenCount">2♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19.vi.1957</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ribeira Brava</named-content>
+<named-content content-type="location">Ribeira Brava</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.vii.1957</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1.vii.1957</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Porto Santo</named-content>
+<named-content content-type="collectingMunicipality">Porto Santo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6‒12.vii.1957</named-content>
+<named-content content-type="specimenCount">1♂</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">6‒12.vii.1957</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 ); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Canical</named-content>
+<named-content content-type="collectingCounty">Canical</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.iv.1959</named-content>
+<named-content content-type="specimenCount">1♀</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29.iv.1959</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Lindberg</named-content>
+<named-content content-type="collectorName">H. Lindberg</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Small, wing length 2.8‒4.0mm. 
 Male:
@@ -352,16 +352,16 @@ av
 seta near apex, without 
 pv
 setae. Sternite I with setulae at hind margin (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Fig. 1F</xref>
+<xref rid="fig-3--151-250-1943-1967-">Fig. 1F</xref>
 ). Sternite V and hypopygium as in 
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Figs 1D, E, G</xref>
+<xref rid="fig-3--151-250-1943-1967-">Figs 1D, E, G</xref>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1943-1967-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-250-1943-1967-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
-<!--template match = taxonomicName--><tp:taxon-name>Limnophora beckeri (Stein)</tp:taxon-name>
+<tp:taxon-name>Limnophora beckeri (Stein)</tp:taxon-name>
 (A‒C), 
-<!--template match = taxonomicName--><tp:taxon-name>L. bipunctata (Stein)</tp:taxon-name>
+<tp:taxon-name>L. bipunctata (Stein)</tp:taxon-name>
 (D‒G). Males. Hypopygium, caudal (
 A, D
 ) and lateral (
@@ -373,17 +373,17 @@ F
 ). Same scale.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671810/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 Female:
 Similar to the male, but frons slightly convex and declining. Parafacial plates without light brown patch on upper part. See 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 for ovipositor characters which coincide with those of 
-<!--template match = taxonomicName--><tp:taxon-name>L. nitidithorax</tp:taxon-name>
+<tp:taxon-name>L. nitidithorax</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Canary Islands
 : Fuerteventura, Gran Canaria, Tenerife, La Gomera, La Palma; 

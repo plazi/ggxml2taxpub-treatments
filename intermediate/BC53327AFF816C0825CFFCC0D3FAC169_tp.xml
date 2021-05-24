@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Zagrammosoma interlineatum Girault stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Zagrammosoma interlineatum Girault stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-60--151-250-1926-1950-">Fig. 23</xref>
+<xref rid="fig-60--151-250-1926-1950-">Fig. 23</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineata Girault, 1916a: 125–126</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zagrammosoma interlineata Girault, 1916a: 125–126</tp:taxon-name>
 . 
 Holotype
 ♀
@@ -33,126 +33,126 @@ depository: USNM type no. 19641 - UCRCENT471659.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
 ; justified emendation by 
 
-<!--treatment-citation--><tp:nomenclature-citation>Peck, 1951: 459</tp:nomenclature-citation>
+<tp:nomenclature-citation>Peck, 1951: 459</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Cirrospilus interlineatus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Cirrospilus interlineatus</tp:taxon-name>
 ; unjustified combination and spelling by 
 
-<!--treatment-citation--><tp:nomenclature-citation>Herting 1975: 28</tp:nomenclature-citation>
+<tp:nomenclature-citation>Herting 1975: 28</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. interlineatum</tp:taxon-name>
+<tp:taxon-name>Z. interlineatum</tp:taxon-name>
 have usually been identified as 
-<!--template match = taxonomicName--><tp:taxon-name>Z. americanum</tp:taxon-name>
+<tp:taxon-name>Z. americanum</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 , as the differences between the species are slight. 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
 lacks any dark coloration between the notaulus and anterior margin of the mesoscutum (
-<!--template match = figureCitation--><xref rid="fig-60--151-250-1926-1950-">Fig. 23D, E</xref>
+<xref rid="fig-60--151-250-1926-1950-">Fig. 23D, E</xref>
 ), unlike both 
-<!--template match = taxonomicName--><tp:taxon-name>Z. americanum</tp:taxon-name>
+<tp:taxon-name>Z. americanum</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-29--151-250-1770-1794-">Fig. 4D, E</xref>
+<xref rid="fig-29--151-250-1770-1794-">Fig. 4D, E</xref>
 ) and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-77--151-250-1923-1947-">Fig. 34D, E</xref>
+<xref rid="fig-77--151-250-1923-1947-">Fig. 34D, E</xref>
 ). 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma americanum</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma americanum</tp:taxon-name>
 also possesses a dark, transverse stripe underneath the posterior margin of the pronotum. The fore wing of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. interlineatum</tp:taxon-name>
+<tp:taxon-name>Z. interlineatum</tp:taxon-name>
 has a subcircular dark patch posterior to the stigmal vein (
-<!--template match = figureCitation--><xref rid="fig-60--151-250-1926-1950-">Fig. 23C</xref>
+<xref rid="fig-60--151-250-1926-1950-">Fig. 23C</xref>
 ), and the pattern in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 resembles a “w” in shape (
-<!--template match = figureCitation--><xref rid="fig-77--151-250-1923-1947-">Fig. 34C</xref>
+<xref rid="fig-77--151-250-1923-1947-">Fig. 34C</xref>
 ). A median stripe on the lower face is present in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 and absent in 
-<!--template match = taxonomicName--><tp:taxon-name>Z. interlineatum</tp:taxon-name>
+<tp:taxon-name>Z. interlineatum</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Female - body length 
 1.8–2.02 mm
 . Metallic luster on body absent. Scape yellow with black stripe dorsally. Lower face with median stripe absent. Vertex with 2 stripes above compound eye. Gena posteriorly with dark stripes below compound eye. Occiput yellow with 2 dark, vertical stripes. Pronotum with median strip complete; laterally with 2 dark stripes. Prepectus yellow with dark stripe along dorsal margin. Mesoscutum with median stripe complete. Mesoscutellum yellow with three dark stripes. Propodeum yellow with black median carina, anterior and posterior margins, diagonal line connecting anterior and posterior margins. Procoxa and mesocoxa yellow. Metacoxa yellow with black stripe basally. Profemur and mesofemur yellow. Metafemur yellow with interrupted stripe dorsally. Fore wing: basal and cubital bands absent; parastigmal band present, with perpendicular extension less than or equal to that of stigmal apex; stigmal band present, with perpendicular extension greater than that of the stigmal apex; postmarginal band present, with perpendicular extension across 75% or more of fore wing width; connections from parastigmal band to stigmal band absent, and from stigmal band to postmarginal band absent. Hind wing hyaline. Gaster yellow with dark median and transverse bands.
 </p>
-<!--template match = paragraph--><p>Upper ocular sulcus present. Pedicel longer than wide or subequal. Funiculars symmetrical: first longer than wide (w:l = 0.57–0.7); second longer than wide (w:l = 0.8).</p>
-<!--template match = paragraph--><p>
+<p>Upper ocular sulcus present. Pedicel longer than wide or subequal. Funiculars symmetrical: first longer than wide (w:l = 0.57–0.7); second longer than wide (w:l = 0.8).</p>
+<p>
 Pronotum, in dorsal view, bell-shaped (w:l = 1.37–1.5); 4–5 pairs of setae along posterior margin. Mesoscutum reticulate; small, scattered setae present; intermediate setae present. Mesoscutellum wider than long (w:l = 1.05–1.16); submedian grooves present. Hind tibial spur distinctly shorter than basitarsus. Hind basitarsus subequal or longer than second tarsomere (bst:2 
 <sup>nd</sup>
 = 1.04–1.14).
 </p>
-<!--template match = paragraph--><p>Fore wing l:w = 2.37–2.48. Submarginal vein with 7–8 setae dorsally. Basal fold setose. Cubital fold setose. Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
-<!--template match = paragraph--><p>
+<p>Fore wing l:w = 2.37–2.48. Submarginal vein with 7–8 setae dorsally. Basal fold setose. Cubital fold setose. Admarginal setae present. Uncus originating on stigma by more than own length from stigmal apex.</p>
+<p>
 Male - as female, except: body length 
 1.07–1.62 mm
 ; occiput yellow, or yellow with 2 dark, stripes; postmarginal band present, with perpendicular extension greater than that of stigmal apex, but not across 75% or more of fore wing width; metafemur yellow; gaster with markings fainter than those in females.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-60--151-250-1926-1950-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-60--151-250-1926-1950-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 23.
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->stat. rev.
+stat. rev.
 
 , ♀: (A) head, frontolateral, (B) lateral habitus, (C) fore wing, dorsal, (D) dorsal habitus; (E) ♁ dorsal habitus. Scale bar = 0.2 mm (A), 0.5 mm (B–E).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471853/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-61--151-250-1076-1100-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-61--151-250-1076-1100-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 24.
 Distribution of 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
-<!--template match = taxonomicNameLabel-->stat. rev.
+<tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
+stat. rev.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471855/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = bibRefCitation--><xref rid="ref79554">Gordh (1978)</xref>
+<xref rid="ref79554">Gordh (1978)</xref>
 synonymized 
-<!--template match = taxonomicName--><tp:taxon-name>Z. interlineatum</tp:taxon-name>
+<tp:taxon-name>Z. interlineatum</tp:taxon-name>
 with 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 due to a lack of structural characters to differentiate the two species and the color patterns falling within the range of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. multilineatum</tp:taxon-name>
+<tp:taxon-name>Z. multilineatum</tp:taxon-name>
 . 
-<!--template match = bibRefCitation--><xref rid="ref79474">Girault (1916a)</xref>
+<xref rid="ref79474">Girault (1916a)</xref>
 also mentions a metallic line on the gaster, however, there are no metallic markings on this species. 
-<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
+<tp:taxon-name>Zagrammosoma interlineatum</tp:taxon-name>
 was not successfully sequenced, but the color characters are informative, most notably in the wing and mesosoma patterns, and the species status is revised.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = bibRefCitation--><xref rid="ref79474">Girault (1916a)</xref>
+<p>
+<xref rid="ref79474">Girault (1916a)</xref>
 did not designate 
 paratypes
 for 
-<!--template match = taxonomicName--><tp:taxon-name>Z. interlineatum</tp:taxon-name>
+<tp:taxon-name>Z. interlineatum</tp:taxon-name>
 , but there is a series of specimens housed at the USNM with type labels bearing the number 9641 (UCRCENT471478–471481). 
-<!--template match = bibRefCitation--><xref rid="ref79474">Girault (1916a)</xref>
+<xref rid="ref79474">Girault (1916a)</xref>
 mentions that the 
 holotype
 number is 19641, and the specimens from the 9641 series agree with the 
@@ -160,36 +160,36 @@ holotype
 description.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Hosts.
 Reared from coleopteran, dipteran, and lepidopteran leaf miners. See 
-<!--template match = tableCitation--><xref>Table 3</xref>
+<xref>Table 3</xref>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Coleoptera</tp:taxon-name>
+<tp:taxon-name>Coleoptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Curculionidae</tp:taxon-name>
+<tp:taxon-name>Curculionidae</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Diptera</tp:taxon-name>
+<tp:taxon-name>Diptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Agromyzidae</tp:taxon-name>
+<tp:taxon-name>Agromyzidae</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Lepidoptera</tp:taxon-name>
+<tp:taxon-name>Lepidoptera</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Cosmopterigidae</tp:taxon-name>
+<tp:taxon-name>Cosmopterigidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Gelechiidae</tp:taxon-name>
+<tp:taxon-name>Gelechiidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Gracillariidae</tp:taxon-name>
+<tp:taxon-name>Gracillariidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Heliozelidae</tp:taxon-name>
+<tp:taxon-name>Heliozelidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Tischeriidae</tp:taxon-name>
+<tp:taxon-name>Tischeriidae</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution. Nearctic:
 Canada
 (ON), 
@@ -197,54 +197,54 @@ USA
 (AR, CA, CT, FL, IN, KS, KY, MA, MD, MS, NC, OH, PA, TN, VA, 
 Washington DC
 ) (
-<!--template match = figureCitation--><xref rid="fig-61--151-250-1076-1100-">Fig. 24</xref>
+<xref rid="fig-61--151-250-1076-1100-">Fig. 24</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined:
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">USA</named-content>
+<named-content content-type="collectingCountry">USA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Washington D.C.</named-content>
+<named-content content-type="collectingRegion">Washington D.C.</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">3m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">3m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">38°52’41”N</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">38°52’41”N</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">77°00’44”W</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="geoCoordinate">77°00’44”W</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5.viii.1905</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5.viii.1905</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Quaintance, No.</named-content>
+<named-content content-type="collectorName">Quaintance, No.</named-content>
 1198, host: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Coptotriche malifoliella</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Coptotriche malifoliella</named-content>
 </named-content>
 [
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4♀</named-content>
+<named-content content-type="specimenCount">4♀</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">USNM</named-content>
+<named-content content-type="collectionCode">USNM</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UCRCENT471478–471481</named-content>
+<named-content content-type="specimenCode">UCRCENT471478–471481</named-content>
 ]
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 Additional material examined. 
 CANADA
@@ -265,7 +265,7 @@ Campbellford,
 , 
 15.viii.1957
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Cameraria hamadryadella</tp:taxon-name>
+<tp:taxon-name>Cameraria hamadryadella</tp:taxon-name>
 [
 1♀
 , 
@@ -283,7 +283,7 @@ BMNH
 , 
 8.viii.1957
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Cameraria hamadryadella</tp:taxon-name>
+<tp:taxon-name>Cameraria hamadryadella</tp:taxon-name>
 [
 1♀
 , 
@@ -315,7 +315,7 @@ CNC
 , 
 21.iv.1968
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Lithocolletis</tp:taxon-name>
+<tp:taxon-name>Lithocolletis</tp:taxon-name>
 sp [
 1♀
 , 
@@ -379,7 +379,7 @@ Connecticut
 , 
 ix.1911
 , C. R. Ely, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Antispila nysaefoliaella</tp:taxon-name>
+<tp:taxon-name>Antispila nysaefoliaella</tp:taxon-name>
 [1♁ 
 1♀
 1?, 
@@ -400,7 +400,7 @@ Florida
 , 
 x.1985
 , P. Stilling, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Stilbosis quadricustatella</tp:taxon-name>
+<tp:taxon-name>Stilbosis quadricustatella</tp:taxon-name>
 [
 1♀
 , 
@@ -423,7 +423,7 @@ Indiana
 , 
 17.viii.1966
 , host: 
-<!--template match = taxonomicName--><tp:taxon-name>Cameraria</tp:taxon-name>
+<tp:taxon-name>Cameraria</tp:taxon-name>
 , host plant: Oak [
 1♀
 , 
@@ -466,7 +466,7 @@ Riley Co.
 , 
 28.vii.1933
 , L. M. Copenhafer, Q1, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Ornix</tp:taxon-name>
+<tp:taxon-name>Ornix</tp:taxon-name>
 sp. [
 1♀
 , 
@@ -474,7 +474,7 @@ USNM
 : UCRCENT471464]; 
 30.vii.1933
 , L. M. Copenhafer, Q2, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Ornix</tp:taxon-name>
+<tp:taxon-name>Ornix</tp:taxon-name>
 sp. [
 1♀
 , 
@@ -497,7 +497,7 @@ Kentucky
 , 
 vi.1960
 , Wooten-Gibson, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Odontopus calceatus</tp:taxon-name>
+<tp:taxon-name>Odontopus calceatus</tp:taxon-name>
 [
 1♀
 , 
@@ -539,7 +539,7 @@ Massachusetts
 , 
 20.vii–8.viii.1944
 , M. E. Tomlinson, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllonorycter blancardella</tp:taxon-name>
+<tp:taxon-name>Phyllonorycter blancardella</tp:taxon-name>
 [
 1♀
 , 
@@ -579,7 +579,7 @@ North Carolina
 , 
 19.v.1937
 , B. H. Wilford, Lot No. 37-16724, host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Pinus echinata</tp:taxon-name>
+<tp:taxon-name>Pinus echinata</tp:taxon-name>
 [
 1♀
 , 
@@ -599,9 +599,9 @@ Forsyth Co.
 , 
 27.viii.1915
 , Sherman, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Cameraria</tp:taxon-name>
+<tp:taxon-name>Cameraria</tp:taxon-name>
 sp., host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Quercus</tp:taxon-name>
+<tp:taxon-name>Quercus</tp:taxon-name>
 sp. [
 1♀
 , 
@@ -619,7 +619,7 @@ Lincoln Co.
 , 
 15.v.1988
 , J. Walgenbach, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllonorycter blancardella</tp:taxon-name>
+<tp:taxon-name>Phyllonorycter blancardella</tp:taxon-name>
 [
 2♀
 , 
@@ -669,7 +669,7 @@ Licking Co.
 , 
 10.vi.1962
 , F. W. Mead, host plant: 
-<!--template match = taxonomicName--><tp:taxon-name>Quercus</tp:taxon-name>
+<tp:taxon-name>Quercus</tp:taxon-name>
 sp. [
 1♀
 , 
@@ -770,7 +770,7 @@ Falls Church,
 , 
 26.vi.1913
 , C. Heinrich, Hopk. U.S. 11155a, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Cameraria quercivorella</tp:taxon-name>
+<tp:taxon-name>Cameraria quercivorella</tp:taxon-name>
 [
 1♀
 , 
@@ -804,7 +804,7 @@ Rockingham
 78°46’32”W
 
 , iii–iv.1948, C. M. Beckham, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Recurvaria nanella</tp:taxon-name>
+<tp:taxon-name>Recurvaria nanella</tp:taxon-name>
 , host plant: Apple [
 1♀
 , 
@@ -822,7 +822,7 @@ Shenandoah Co.
 78°42’9”W
 
 , iii–iv.1946, C. M. Beckham, Lot. 46-4830, host: 
-<!--template match = taxonomicName--><tp:taxon-name>Phyllonorycter crataegella</tp:taxon-name>
+<tp:taxon-name>Phyllonorycter crataegella</tp:taxon-name>
 , host plant: Apple [
 8♀
 , 

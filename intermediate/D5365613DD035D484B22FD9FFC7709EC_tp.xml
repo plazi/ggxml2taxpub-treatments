@@ -1,251 +1,251 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Rubus villosus Aiton<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Rubus villosus Aiton<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
+<p>
 
 In 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Hortus Kewensis or a 
 Catalogue of Plants Cultivated in the Royal Botanic Garden at Kew
 , 2: 210 (
-<!--template match = bibRefCitation--><xref rid="ref15920">Aiton 1789</xref>
+<xref rid="ref15920">Aiton 1789</xref>
 ).
 </tp:nomenclature-citation>
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 — 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Lectotype</named-content>
 designated by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Bailey (1923: 166)</named-content>
+<named-content content-type="bibRefCitation">Bailey (1923: 166)</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BM 000583294</named-content>
+<named-content content-type="specimenCode">BM 000583294</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 1</named-content>
+<named-content content-type="figureCitation">Fig. 1</named-content>
 ).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus L.H. Bailey, Gentes Herbarum</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>R. leviculus L.H. Bailey, Gentes Herbarum</tp:taxon-name>
 5: 390 (
-<!--template match = bibRefCitation--><xref rid="ref16321">Bailey 1943</xref>
+<xref rid="ref16321">Bailey 1943</xref>
 )
 </tp:nomenclature-citation>
 .
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 — 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Clemson College</named-content>
+<named-content content-type="location">Clemson College</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Pickens County</named-content>
+<named-content content-type="collectingCounty">Pickens County</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">South Carolina</named-content>
+<named-content content-type="collectingRegion">South Carolina</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7.VI.1934</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">7.VI.1934</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M.A. Rice</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">M.A. Rice</named-content>
 536
 </named-content>
 , BH (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 2</named-content>
+<named-content content-type="figureCitation">Fig. 2</named-content>
 ).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>R. missus L.H. Bailey, Gentes Herbarum</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>R. missus L.H. Bailey, Gentes Herbarum</tp:taxon-name>
 5: 344 (
-<!--template match = bibRefCitation--><xref rid="ref16321">Bailey 1943</xref>
+<xref rid="ref16321">Bailey 1943</xref>
 )
 </tp:nomenclature-citation>
 .
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 — 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">near Clarksville</named-content>
+<named-content content-type="locationDeviation">near Clarksville</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Mecklenburg County</named-content>
+<named-content content-type="collectingCounty">Mecklenburg County</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Virginia</named-content>
+<named-content content-type="collectingRegion">Virginia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11.V.1938</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11.V.1938</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L.H. Bailey</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">L.H. Bailey</named-content>
 397
 </named-content>
 , BH.
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>CONTEXT</p>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>CONTEXT</p>
+<p>
 In 1789, Aiton published a new 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus</tp:taxon-name>
+<tp:taxon-name>Rubus</tp:taxon-name>
 species which grew in Kew Gardens under the name 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus villosus ( Aiton 1789: 210 )</tp:taxon-name>
+<tp:taxon-name>Rubus villosus ( Aiton 1789: 210 )</tp:taxon-name>
 . Actually, it was Solander who originally catalogued and gave the name to this 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus</tp:taxon-name>
+<tp:taxon-name>Rubus</tp:taxon-name>
 and Aiton who published it (
-<!--template match = bibRefCitation--><xref rid="ref16729">Blanchard 1911: 431</xref>
+<xref rid="ref16729">Blanchard 1911: 431</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18920">Stafleu &amp; Cowan 1976: 25</xref>
+<xref rid="ref18920">Stafleu &amp; Cowan 1976: 25</xref>
 ). A specimen of it has been conserved in the herbarium of the British Museum. 
-<!--template match = bibRefCitation--><xref rid="ref16205">Bailey (1923: 166)</xref>
+<xref rid="ref16205">Bailey (1923: 166)</xref>
 selected it as the 
 type
 and provided drawings of it in 
-<!--template match = bibRefCitation--><xref rid="ref16166">Bailey (1898: 372)</xref>
+<xref rid="ref16166">Bailey (1898: 372)</xref>
 and a photo in 
-<!--template match = bibRefCitation--><xref rid="ref16205">Bailey (1923: 166)</xref>
+<xref rid="ref16205">Bailey (1923: 166)</xref>
 . It is presently conserved asBM000583294. So, fortunately there is a 
 type
 specimen to help to clarify its identity. Nevertheless, the history of this name and its various interpretations over time are complex.
 </p>
-<!--template match = paragraph--><p>J. F. GMELIN</p>
-<!--template match = paragraph--><p>
+<p>J. F. GMELIN</p>
+<p>
 Soon after Aiton’s publication of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus , Gmelin (1791)</tp:taxon-name>
+<tp:taxon-name>R. villosus , Gmelin (1791)</tp:taxon-name>
 noted that the epithet was already used by Thunberg (in 
-<!--template match = bibRefCitation--><xref rid="ref18369">Murray 1784: 475</xref>
+<xref rid="ref18369">Murray 1784: 475</xref>
 ) for a species from 
 Japan
 . Therein, Thunberg speculated whether 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Thunb.</tp:taxon-name>
+<tp:taxon-name>R. villosus Thunb.</tp:taxon-name>
 might be identical with 
-<!--template match = taxonomicName--><tp:taxon-name>R. corchorifolius</tp:taxon-name>
+<tp:taxon-name>R. corchorifolius</tp:taxon-name>
 L. f. (
-<!--template match = bibRefCitation--><xref rid="ref18080">Linnaeus 1781: 263</xref>
+<xref rid="ref18080">Linnaeus 1781: 263</xref>
 ), but this does not make his name invalid (ICN, 
-<!--template match = bibRefCitation--><xref rid="ref19323">
+<xref rid="ref19323">
 Turland 
 et al.
 2018
 </xref>
 : art. 36.1, last sentence), even now that it is generally accepted that they are indeed identical. Consequently, 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton</tp:taxon-name>
 is a later homonym and thus illegitimate. Realizing this, Gmelin proposed a new name for 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus J.F. Gmel. ( Gmelin 1791: 856 )</tp:taxon-name>
+<tp:taxon-name>R. serratus J.F. Gmel. ( Gmelin 1791: 856 )</tp:taxon-name>
 . Though this publication was well known, it did not play a significant role in the various debates about 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton. Bailey (1944: 521)</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton. Bailey (1944: 521)</tp:taxon-name>
 even stated that the identity of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 was irrelevant because it is an illegitimate name, while failing to account for its legitimate replacement. In the index of the volume of the 13TH edition of the 
 Systema Naturae
 , 
-<!--template match = bibRefCitation--><xref rid="ref17642">Gmelin (1792: 1616)</xref>
+<xref rid="ref17642">Gmelin (1792: 1616)</xref>
 failed to mention the name 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus</tp:taxon-name>
+<tp:taxon-name>R. serratus</tp:taxon-name>
 , but instead used 
-<!--template match = taxonomicName--><tp:taxon-name>R. erectus</tp:taxon-name>
+<tp:taxon-name>R. erectus</tp:taxon-name>
 . It is unclear why Gmelin did so; this created a new, illegitimate synonym for 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus</tp:taxon-name>
+<tp:taxon-name>R. serratus</tp:taxon-name>
 if it was not a mere error.
 </p>
-<!--template match = paragraph--><p>
+<p>
 There also exists a later homonym of 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus J.F. Gmel.</tp:taxon-name>
+<tp:taxon-name>R. serratus J.F. Gmel.</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus Boul. &amp; Letendre</tp:taxon-name>
+<tp:taxon-name>R. serratus Boul. &amp; Letendre</tp:taxon-name>
 in 
-<!--template match = bibRefCitation--><xref rid="ref16796">Boulay (1873</xref>
+<xref rid="ref16796">Boulay (1873</xref>
 : no. 5), which is a synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>R. winteri (P.J. Müll. ex Focke) Foerster (1878: 100)</tp:taxon-name>
+<tp:taxon-name>R. winteri (P.J. Müll. ex Focke) Foerster (1878: 100)</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>PORTER &amp; BAILEY</p>
-<!--template match = paragraph--><p>
+<p>PORTER &amp; BAILEY</p>
+<p>
 Nineteenth-century authors generally used the name 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton</tp:taxon-name>
 for the highbush blackberry common in the eastern parts of North America.They neglected both Thunberg’s earlier homonym and also the legitimate name, 
-<!--template match = taxonomicName--><tp:taxon-name>R. serratus J.F. Gmel.</tp:taxon-name>
+<tp:taxon-name>R. serratus J.F. Gmel.</tp:taxon-name>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Near the close of the 19TH century, 
-<!--template match = bibRefCitation--><xref rid="ref18495">Porter (1890: 15)</xref>
+<xref rid="ref18495">Porter (1890: 15)</xref>
 made new investigations into this taxon and concluded that it consisted of two distinct varieties: alongside the lowland 
-<!--template match = taxonomicName--><tp:taxon-name>var. villosus</tp:taxon-name>
+<tp:taxon-name>var. villosus</tp:taxon-name>
 , he acknowledged a 
-<!--template match = taxonomicName--><tp:taxon-name>var. montanus</tp:taxon-name>
+<tp:taxon-name>var. montanus</tp:taxon-name>
 from mountainous regions. He elevated the latter to the species level some years later as 
-<!--template match = taxonomicName--><tp:taxon-name>R. montanus (Porter) Porter (1894: 120)</tp:taxon-name>
+<tp:taxon-name>R. montanus (Porter) Porter (1894: 120)</tp:taxon-name>
 . When he discovered that the epithet 
-<!--template match = taxonomicName--><tp:taxon-name>montanus</tp:taxon-name>
+<tp:taxon-name>montanus</tp:taxon-name>
 had already been used for a European species, he renamed his species to 
-<!--template match = taxonomicName--><tp:taxon-name>R. allegheniensis ( Porter 1896: 153 )</tp:taxon-name>
+<tp:taxon-name>R. allegheniensis ( Porter 1896: 153 )</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Bailey started his critical work on 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus</tp:taxon-name>
+<tp:taxon-name>Rubus</tp:taxon-name>
 in earnest only a few years later. Soon he discovered that 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 was not identical with the taxon for which the name had widely been used, the highbush blackberry (
-<!--template match = bibRefCitation--><xref rid="ref16166">Bailey 1898: 366</xref>
+<xref rid="ref16166">Bailey 1898: 366</xref>
 , 367). Therefore, the latter was in need of a new name, and Bailey chose for it 
-<!--template match = taxonomicName--><tp:taxon-name>R. nigrobaccus L.H. Bailey (1898: 379</tp:taxon-name>
+<tp:taxon-name>R. nigrobaccus L.H. Bailey (1898: 379</tp:taxon-name>
 ; 
 type
 : see below under 
-<!--template match = taxonomicName--><tp:taxon-name>R. sativus</tp:taxon-name>
+<tp:taxon-name>R. sativus</tp:taxon-name>
 [L.H. Bailey] Clark). After further research, he concluded that 
-<!--template match = bibRefCitation--><xref rid="ref18573">Porter’s (1896)</xref>
+<xref rid="ref18573">Porter’s (1896)</xref>
 division of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 into two species was not tenable (
-<!--template match = bibRefCitation--><xref rid="ref16205">Bailey 1923: 185</xref>
+<xref rid="ref16205">Bailey 1923: 185</xref>
 ). The mountain form, 
-<!--template match = taxonomicName--><tp:taxon-name>R. allegheniensis</tp:taxon-name>
+<tp:taxon-name>R. allegheniensis</tp:taxon-name>
 , was only a habitat modification of the lowland form, 
-<!--template match = taxonomicName--><tp:taxon-name>R. nigrobaccus</tp:taxon-name>
+<tp:taxon-name>R. nigrobaccus</tp:taxon-name>
 (heterotypic synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 auct. non Aiton). Joining both taxa to one species, he treated them from that point forward as 
-<!--template match = taxonomicName--><tp:taxon-name>R. allegheniensis Porter</tp:taxon-name>
+<tp:taxon-name>R. allegheniensis Porter</tp:taxon-name>
 , as it was the oldest legitimate name in his view.
 </p>
-<!--template match = paragraph--><p>
+<p>
 It is this name that came into common use in the 20 
 TH
 century up until now for one of the most common brambles of the eastern and central United States and eastern Canada. 
-<!--template match = bibRefCitation--><xref rid="ref16239">Bailey (1925: 288)</xref>
+<xref rid="ref16239">Bailey (1925: 288)</xref>
 indicated a provisional 
 type
 : “ 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus villosus , Ait.</tp:taxon-name>
+<tp:taxon-name>Rubus villosus , Ait.</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>var. montanus</tp:taxon-name>
+<tp:taxon-name>var. montanus</tp:taxon-name>
 , mihi Pocono Summit. Monroe Co, Penns. Aug. 15/89” 
 NY
 (
@@ -258,90 +258,90 @@ Later
 type
 was formally confirmed byBailey (1944: 522).
 </p>
-<!--template match = paragraph--><p>
+<p>
 THE IDENTITY OF 
-<!--template match = taxonomicName--><tp:taxon-name>R. VILLOSUS AITON</tp:taxon-name>
+<tp:taxon-name>R. VILLOSUS AITON</tp:taxon-name>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Though it was clear to Bailey that 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton</tp:taxon-name>
 was not identical with 
-<!--template match = taxonomicName--><tp:taxon-name>R. allegheniensis</tp:taxon-name>
+<tp:taxon-name>R. allegheniensis</tp:taxon-name>
 , it was not easy to connect it to any of the known North American species of 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus</tp:taxon-name>
+<tp:taxon-name>Rubus</tp:taxon-name>
 . 
-<!--template match = bibRefCitation--><xref rid="ref16166">Bailey (1898: 339)</xref>
+<xref rid="ref16166">Bailey (1898: 339)</xref>
 initially thought it was identical with 
-<!--template match = taxonomicName--><tp:taxon-name>R. flagellaris Willd.</tp:taxon-name>
+<tp:taxon-name>R. flagellaris Willd.</tp:taxon-name>
 (at that time, incorrectly called 
-<!--template match = taxonomicName--><tp:taxon-name>R. canadensis</tp:taxon-name>
+<tp:taxon-name>R. canadensis</tp:taxon-name>
 L., until Bailey’s discovery, after checking the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>R. canadensis</tp:taxon-name>
+<tp:taxon-name>R. canadensis</tp:taxon-name>
 , that 
-<!--template match = taxonomicName--><tp:taxon-name>R. canadensis</tp:taxon-name>
+<tp:taxon-name>R. canadensis</tp:taxon-name>
 is a totally different species; see 
-<!--template match = bibRefCitation--><xref rid="ref16321">Bailey 1943: 243</xref>
+<xref rid="ref16321">Bailey 1943: 243</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref16357">1944: 473-475</xref>
+<xref rid="ref16357">1944: 473-475</xref>
 ). 
-<!--template match = bibRefCitation--><xref rid="ref16765">Brainerd (1900: 25</xref>
+<xref rid="ref16765">Brainerd (1900: 25</xref>
 , 27) followed him in this initial interpretation, and Blanchard was also initially of this opinion (1906a: 148). 
-<!--template match = bibRefCitation--><xref rid="ref18735">Rydberg (1913: 472</xref>
+<xref rid="ref18735">Rydberg (1913: 472</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18760">1915: 149</xref>
+<xref rid="ref18760">1915: 149</xref>
 ) thought 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 to be identical with 
-<!--template match = taxonomicName--><tp:taxon-name>R. plicatifolius Blanchard (1906a: 149)</tp:taxon-name>
+<tp:taxon-name>R. plicatifolius Blanchard (1906a: 149)</tp:taxon-name>
 , which Bailey later (1923: 167) supported with some hesitation. Later, 
-<!--template match = bibRefCitation--><xref rid="ref16357">Bailey (1944: 521)</xref>
+<xref rid="ref16357">Bailey (1944: 521)</xref>
 again supposed this identification might be right but was uncertain.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--132-143-1253-1270-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--132-143-1253-1270-" fig-type="figure" position="float"><caption>
+<p>
 FIG. 1. — Leaves of type of 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus villosus Aiton</tp:taxon-name>
+<tp:taxon-name>Rubus villosus Aiton</tp:taxon-name>
 unfolded (editing Abraham van de Beek). Scale bar: 1 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4680764/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 After our examination of Bailey’s 
 lectotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Aiton</tp:taxon-name>
+<tp:taxon-name>R. villosus Aiton</tp:taxon-name>
 , nine characters turned out to be critical for its identification:
 </p>
-<!--template match = paragraph--><p>a. The cane prickles are very weak.</p>
-<!--template match = paragraph--><p>
+<p>a. The cane prickles are very weak.</p>
+<p>
 b. The stem looks like a trailer, as 
-<!--template match = bibRefCitation--><xref rid="ref16166">Bailey (1898: 373</xref>
+<xref rid="ref16166">Bailey (1898: 373</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref16357">1944: 521</xref>
+<xref rid="ref16357">1944: 521</xref>
 ) already noted.
 </p>
-<!--template match = paragraph--><p>
+<p>
 c. The stems are only 
 2 mm
 wide, even the mature floricane.
 </p>
-<!--template match = paragraph--><p>
+<p>
 d. The leaves are very small; the largest terminal leaflet is only 3.7 × 
 2.4 cm
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 e. The leaves are broader than it seems at first sight. The margins are folded so that the bases look cuneate. The original shape of the best terminal leaflet was restored by projecting the folded margin outward. By doing so, an almost elliptical leaflet appears (
-<!--template match = figureCitation--><xref rid="fig-5--132-143-1253-1270-">Fig. 1</xref>
+<xref rid="fig-5--132-143-1253-1270-">Fig. 1</xref>
 ).
 </p>
-<!--template match = paragraph--><p>f. The leaves are slightly hairy adaxially and rather hairy abaxially, though less than might seem from the unexpanded leaves at the tip of the primocane.</p>
-<!--template match = paragraph--><p>g. The inflorescence has only one flower. Of course, this could be due to unfavorable growing conditions or collecting an atypical inflorescence, but it should be accounted for in combination with the other characteristics.</p>
-<!--template match = paragraph--><p>h. The pedicels have some short, stipitate glands.</p>
-<!--template match = paragraph--><p>i. The ovaries are provided with hairs like the rest of the plant.</p>
-<!--template match = paragraph--><p>Mr.Fred Rumsey(BM)kindly checked the last two characteristics.</p>
-<!--template match = paragraph--><p>
+<p>f. The leaves are slightly hairy adaxially and rather hairy abaxially, though less than might seem from the unexpanded leaves at the tip of the primocane.</p>
+<p>g. The inflorescence has only one flower. Of course, this could be due to unfavorable growing conditions or collecting an atypical inflorescence, but it should be accounted for in combination with the other characteristics.</p>
+<p>h. The pedicels have some short, stipitate glands.</p>
+<p>i. The ovaries are provided with hairs like the rest of the plant.</p>
+<p>Mr.Fred Rumsey(BM)kindly checked the last two characteristics.</p>
+<p>
 The combination of a-d excludes species of the highbush blackberries of the 
 Canadenses
 (L.H. Bailey) L.H. Bailey, 
@@ -353,56 +353,56 @@ Procumbentes
 (Rydb.) L.H. Bailey.The single flower clearly supports this conclusion as well. So the question can be narrowed to which members of the 
 Procumbentes
 have pedicels bearing stipitate glands, canes with small, sparse prickles, and coarsely serrate leaflets bearing soft abaxial hairs? A search through keys in 
-<!--template match = bibRefCitation--><xref rid="ref17052">
+<xref rid="ref17052">
 Davis 
 et al.
 (1968b)
 </xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref19936">Widrlechner &amp;Riley (2017)</xref>
+<xref rid="ref19936">Widrlechner &amp;Riley (2017)</xref>
 and a review of Bailey’s treatments of potential candidates led us to the two taxa that seemed most likely:
 </p>
-<!--template match = paragraph--><p>
+<p>
 a. 
-<!--template match = taxonomicName--><tp:taxon-name>R. invisus (L.H. Bailey) Britton</tp:taxon-name>
+<tp:taxon-name>R. invisus (L.H. Bailey) Britton</tp:taxon-name>
 , of which the serrature is very similar to the 
 type
 of v 
 illosus
 , and
 </p>
-<!--template match = paragraph--><p>
+<p>
 b. 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus L.H. Bailey (1943: 390)</tp:taxon-name>
+<tp:taxon-name>R. leviculus L.H. Bailey (1943: 390)</tp:taxon-name>
 which 
 s
 eems to correspond better, at least if 
-<!--template match = taxonomicName--><tp:taxon-name>R. missus L.H. Bailey (1943: 344)</tp:taxon-name>
+<tp:taxon-name>R. missus L.H. Bailey (1943: 344)</tp:taxon-name>
 , with its 5-nate leaves, is included within this species (
-<!--template match = bibRefCitation--><xref rid="ref19818">Widrlechner 1998: 436</xref>
+<xref rid="ref19818">Widrlechner 1998: 436</xref>
 , 439). It also bears few to many short stipitate glands on its pedicels much like 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 We should note that although 
-<!--template match = taxonomicName--><tp:taxon-name>R. plicatifolius</tp:taxon-name>
+<tp:taxon-name>R. plicatifolius</tp:taxon-name>
 was proposed as a candidate by Blanchard according to 
-<!--template match = bibRefCitation--><xref rid="ref16357">Bailey (1944: 521)</xref>
+<xref rid="ref16357">Bailey (1944: 521)</xref>
 , by 
-<!--template match = bibRefCitation--><xref rid="ref18735">Rydberg (1913: 472</xref>
+<xref rid="ref18735">Rydberg (1913: 472</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref18760">1915: 156</xref>
+<xref rid="ref18760">1915: 156</xref>
 ), and by Bailey himself (
-<!--template match = bibRefCitation--><xref rid="ref16205">Bailey 1923: 167</xref>
+<xref rid="ref16205">Bailey 1923: 167</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref16239">1925: 244</xref>
+<xref rid="ref16239">1925: 244</xref>
 ), it lacks stipitate glands and soft hairs on the underside of its leaves, which have an obviously plicate appearance, much like the European taxon, 
-<!--template match = taxonomicName--><tp:taxon-name>R. plicatus Weihe &amp; Nees.</tp:taxon-name>
+<tp:taxon-name>R. plicatus Weihe &amp; Nees.</tp:taxon-name>
 The type of 
-<!--template match = taxonomicName--><tp:taxon-name>R. plicatifolius</tp:taxon-name>
+<tp:taxon-name>R. plicatifolius</tp:taxon-name>
 is (
-<!--template match = bibRefCitation--><xref rid="ref19818">Widrlechner 1998: 440</xref>
+<xref rid="ref19818">Widrlechner 1998: 440</xref>
 , 
 lectotype
 ):Wells Beach Depot, 
@@ -415,249 +415,249 @@ Maine
 W.H. Blanchard 477
 , BH.
 </p>
-<!--template match = paragraph--><p>
+<p>
 It should be noted here that 
-<!--template match = bibRefCitation--><xref rid="ref16816">Britton (1893)</xref>
+<xref rid="ref16816">Britton (1893)</xref>
 also cited 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus var. humifusus Torr. &amp; Gray (1840: 455)</tp:taxon-name>
+<tp:taxon-name>R. villosus var. humifusus Torr. &amp; Gray (1840: 455)</tp:taxon-name>
 , but he borrowed that epithet from Bailey to whom he explicitly and extensively referred. Bailey did not cite 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus var. humifusus</tp:taxon-name>
+<tp:taxon-name>R. villosus var. humifusus</tp:taxon-name>
 . Thus, the 
 type
 must be selected from Bailey’s specimens.
 </p>
-<!--template match = paragraph--><p>
+<p>
 A new check of the 
 type
 and other specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>R. missus</tp:taxon-name>
+<tp:taxon-name>R. missus</tp:taxon-name>
 confirmed its identity with 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 . The 5-foliolate leaves of the 
 type
 are coincidental; other collections of 
-<!--template match = taxonomicName--><tp:taxon-name>R. missus</tp:taxon-name>
+<tp:taxon-name>R. missus</tp:taxon-name>
 display 3-foliolate leaves, and 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 can also occasionally bear 5-foliolate leaves.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Based on 
-<!--template match = bibRefCitation--><xref rid="ref19856">Widrlechner (2013)</xref>
+<xref rid="ref19856">Widrlechner (2013)</xref>
 and an examination of more than 
 80 specimens
 of these two taxa, key differences between 
-<!--template match = taxonomicName--><tp:taxon-name>R. invisus</tp:taxon-name>
+<tp:taxon-name>R. invisus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 for eight traits are listed in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 . In addition, we measured two additional characters from 
 58 specimens
 bearing 1-flowered inflorescences: the length of the shortest 1-flowered inflorescence and the cane diameter at the corresponding node (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ). Based on the data presented in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 , the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus</tp:taxon-name>
+<tp:taxon-name>R. villosus</tp:taxon-name>
 at BM corresponds best to 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 with few of the characteristic details of 
-<!--template match = taxonomicName--><tp:taxon-name>R. invisus</tp:taxon-name>
+<tp:taxon-name>R. invisus</tp:taxon-name>
 . We conclude that it is identical with 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Insupportofthisfinding,wediscoveredaspecimen(G00653637) in the De Candolle herbarium of the Geneva Botanical Garden (G-DC)with the label:“ 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus villosus</tp:taxon-name>
+<tp:taxon-name>Rubus villosus</tp:taxon-name>
 .Sol./Amer.septentr./ in herb. folia quin./ Kew” (
-<!--template match = figureCitation--><xref rid="fig-8--495-506-2008-2025-">Fig. 3</xref>
+<xref rid="fig-8--495-506-2008-2025-">Fig. 3</xref>
 ), representing a sample that was sent to De Candolle from Kew. It still has Solander’s name as the author. It is a trailer with ternate leaves, which has no flowers, but the label also mentions 5-foliolate leaves. It is a typical example of 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--463-474-2008-2025-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--463-474-2008-2025-" fig-type="figure" position="float"><caption>
+<p>
 FIG. 2. — 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus leviculus L.H. Bailey</tp:taxon-name>
+<tp:taxon-name>Rubus leviculus L.H. Bailey</tp:taxon-name>
 type (
 M.A. Rice 536
 , BH). Scale bar: 2 cm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4680768/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-7--132-143-219-236-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-7--132-143-219-236-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1. — Comparison of morphological traits among representative specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus invisus (L.H. Bailey) Britton</tp:taxon-name>
+<tp:taxon-name>Rubus invisus (L.H. Bailey) Britton</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus L.H. Bailey.</tp:taxon-name>
+<tp:taxon-name>R. leviculus L.H. Bailey.</tp:taxon-name>
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e1093">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e1093">
+<tr>
+<td>
 Trait
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>R. invisus</tp:taxon-name>
+<td>
+<tp:taxon-name>R. invisus</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>R. leviculus</tp:taxon-name>
+<td>
+<tp:taxon-name>R. leviculus</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Floricane diameter</td>
-<!--template match = td--><td>(2-) ± 4 mm</td>
-<!--template match = td--><td>± 2 mm</td>
+<tr>
+<td>Floricane diameter</td>
+<td>(2-) ± 4 mm</td>
+<td>± 2 mm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Primocane prickle length</td>
-<!--template match = td--><td>2.5-3.5 mm</td>
-<!--template match = td--><td>0.5-1.5 mm</td>
+<tr>
+<td>Primocane prickle length</td>
+<td>2.5-3.5 mm</td>
+<td>0.5-1.5 mm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Largest central</td>
-<!--template match = td--><td>Ovate to wide-ovate</td>
-<!--template match = td--><td>Elliptic</td>
+<tr>
+<td>Largest central</td>
+<td>Ovate to wide-ovate</td>
+<td>Elliptic</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>primocane leaflet:</td>
+<tr>
+<td>primocane leaflet:</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>shape</td>
+<tr>
+<td>shape</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Largest central</td>
-<!--template match = td--><td>7-9.5 cm</td>
-<!--template match = td--><td>5-8 cm</td>
+<tr>
+<td>Largest central</td>
+<td>7-9.5 cm</td>
+<td>5-8 cm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>primocane leaflet:</td>
+<tr>
+<td>primocane leaflet:</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>length</td>
+<tr>
+<td>length</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Longest inflorescences:</td>
-<!--template match = td--><td>14-23 (28) cm</td>
-<!--template match = td--><td>4-12.5 cm</td>
+<tr>
+<td>Longest inflorescences:</td>
+<td>14-23 (28) cm</td>
+<td>4-12.5 cm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>length</td>
+<tr>
+<td>length</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Longest inflorescences:</td>
-<!--template match = td--><td>3-7, mostly 3-foliolate</td>
-<!--template match = td--><td>1-3 small leaves</td>
+<tr>
+<td>Longest inflorescences:</td>
+<td>3-7, mostly 3-foliolate</td>
+<td>1-3 small leaves</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>leaves</td>
+<tr>
+<td>leaves</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Shortest 1-flowered</td>
-<!--template match = td--><td>9.4 cm (N = 35)</td>
-<!--template match = td--><td>5.8 cm (N = 23)</td>
+<tr>
+<td>Shortest 1-flowered</td>
+<td>9.4 cm (N = 35)</td>
+<td>5.8 cm (N = 23)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>inflorescence:</td>
+<tr>
+<td>inflorescence:</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>mean length</td>
+<tr>
+<td>mean length</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Mean floricane</td>
-<!--template match = td--><td>2.6 mm (N = 35)</td>
-<!--template match = td--><td>1.6 mm (N = 23)</td>
+<tr>
+<td>Mean floricane</td>
+<td>2.6 mm (N = 35)</td>
+<td>1.6 mm (N = 23)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>diameter subtending</td>
+<tr>
+<td>diameter subtending</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>shortest 1-flowered</td>
+<tr>
+<td>shortest 1-flowered</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>inflorescence</td>
+<tr>
+<td>inflorescence</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pedicel length</td>
-<!--template match = td--><td>2-6 cm</td>
-<!--template match = td--><td>1.8-4.9 cm</td>
+<tr>
+<td>Pedicel length</td>
+<td>2-6 cm</td>
+<td>1.8-4.9 cm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pedicel pubescence</td>
-<!--template match = td--><td>Pubescent</td>
-<!--template match = td--><td>Thinly pubescent</td>
+<tr>
+<td>Pedicel pubescence</td>
+<td>Pubescent</td>
+<td>Thinly pubescent</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>NINETEENTH- CENTURY HOMONYMS</p>
-<!--template match = paragraph--><p>
+<p>NINETEENTH- CENTURY HOMONYMS</p>
+<p>
 After Aiton, the name 
-<!--template match = taxonomicName--><tp:taxon-name>R.villosus</tp:taxon-name>
+<tp:taxon-name>R.villosus</tp:taxon-name>
 was twice applied improperly to other taxa during the 19TH century. The first instance was 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Lasch (1833: 297)</tp:taxon-name>
+<tp:taxon-name>R. villosus Lasch (1833: 297)</tp:taxon-name>
 . The specimen in Lasch’s herbarium is 
-<!--template match = taxonomicName--><tp:taxon-name>R. umbrosus (Weihe) Arrh. ( Arrhenius 1840: 94 )</tp:taxon-name>
+<tp:taxon-name>R. umbrosus (Weihe) Arrh. ( Arrhenius 1840: 94 )</tp:taxon-name>
 , but because he, in the addenda to his original publication (
-<!--template match = bibRefCitation--><xref rid="ref17958">Lasch 1833: 315</xref>
+<xref rid="ref17958">Lasch 1833: 315</xref>
 ), stated that 
-<!--template match = taxonomicName--><tp:taxon-name>R. radula Weihe (1824: 152)</tp:taxon-name>
+<tp:taxon-name>R. radula Weihe (1824: 152)</tp:taxon-name>
 is identical, his name is a 
 nomen superfluum
 for 
-<!--template match = taxonomicName--><tp:taxon-name>R. radula</tp:taxon-name>
+<tp:taxon-name>R. radula</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The other example was 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Mérat</tp:taxon-name>
+<tp:taxon-name>R. villosus Mérat</tp:taxon-name>
 , which 
-<!--template match = bibRefCitation--><xref rid="ref18127">Mérat (1843: 440)</xref>
+<xref rid="ref18127">Mérat (1843: 440)</xref>
 applied to a species that 
-<!--template match = bibRefCitation--><xref rid="ref19467">Vaillant (1727: 174)</xref>
+<xref rid="ref19467">Vaillant (1727: 174)</xref>
 described with the phrase name ‘ 
-<!--template match = taxonomicName--><tp:taxon-name>Rubus montanus</tp:taxon-name>
+<tp:taxon-name>Rubus montanus</tp:taxon-name>
 repens, sarmentis rotundis, spinis minutissimis munitis, foliis rotundis, utrinque lanatis, superne cinereis, inferne candicantibus, flore albo, fructu nigro, parvo’.Vaillant in turn borrowed this description from Micheli in 
-<!--template match = bibRefCitation--><xref rid="ref19175">Tilli (1723: 149)</xref>
+<xref rid="ref19175">Tilli (1723: 149)</xref>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The validating description is by Micheli, and the 
 type
 must be selected from his specimens.Usually original specimens for such old names are no longer extant, but Mrs.Chiara Nepi(Botanical SectionNaturalHistoryMuseumUniversityofFlorence,FI)found, after a long search, a specimen with its label corresponding to the protologue.It consists of two inflorescences and some primocane leaves, though without a piece of the stem itself,mounted on three sheets. It is wonderful to find such an old specimen consisting of more parts and including primocane leaves.
 </p>
-<!--template match = paragraph--><p>
+<p>
 From the description, one could get the impression that it describes 
-<!--template match = taxonomicName--><tp:taxon-name>R. aetnicus Cupani</tp:taxon-name>
+<tp:taxon-name>R. aetnicus Cupani</tp:taxon-name>
 exWeston (1770: 258).The specimen in Florence, however, shows that it is a hybrid of that species with 
-<!--template match = taxonomicName--><tp:taxon-name>R. ulmifolius Schott (1818: 42)</tp:taxon-name>
+<tp:taxon-name>R. ulmifolius Schott (1818: 42)</tp:taxon-name>
 . The petiole is not furrowed; the inflorescence is wider than normal; and the leaves are too large for 
-<!--template match = taxonomicName--><tp:taxon-name>R. aetnicus</tp:taxon-name>
+<tp:taxon-name>R. aetnicus</tp:taxon-name>
 . Field research in middle 
 Italy
 conducted by the senior author (cf. 
-<!--template match = bibRefCitation--><xref rid="ref16455">Beek 2014: 178</xref>
+<xref rid="ref16455">Beek 2014: 178</xref>
 ) over several years showed that hybrids of 
-<!--template match = taxonomicName--><tp:taxon-name>R. aetnicus</tp:taxon-name>
+<tp:taxon-name>R. aetnicus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>R. ulmifolius</tp:taxon-name>
+<tp:taxon-name>R. ulmifolius</tp:taxon-name>
 are abundant in that region in great variation, and the sample fits into that swarm.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Micheli’s plant must be considered part of that group and, by consequence, its correct name is 
-<!--template match = taxonomicName--><tp:taxon-name>R. collinus DC ( De Candolle 1815: 545 )</tp:taxon-name>
+<tp:taxon-name>R. collinus DC ( De Candolle 1815: 545 )</tp:taxon-name>
 . Unfortunately, due to the late validation of Micheli’s description, this name is both a later homonym and a later synonym. Nevertheless, it was validly published, and, thus, Micheli’s plant is the 
 type
 of 
-<!--template match = taxonomicName--><tp:taxon-name>R. villosus Mérat</tp:taxon-name>
+<tp:taxon-name>R. villosus Mérat</tp:taxon-name>
 :
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>R.villosus Mérat</tp:taxon-name>
+<p>
+<tp:taxon-name>R.villosus Mérat</tp:taxon-name>
 , 
 lectotype
 (here designated): 
@@ -668,9 +668,9 @@ nr.32
 “Rovo del Monte di S. Giusto/di foglie utrinque lanate”, FI[
 FI050742, FI050743, FI050744
 ], 3 sheets (
-<!--template match = figureCitation--><xref rid="fig-9--505-516-2008-2025-">Fig. 4</xref>
+<xref rid="fig-9--505-516-2008-2025-">Fig. 4</xref>
 A-C).
 </p>
-<!--template match = paragraph--><p>N.B.: None of these 19TH-century homonyms has been in common use.</p>
+<p>N.B.: None of these 19TH-century homonyms has been in common use.</p>
 </tp:treatment-sec>
 </tp:taxon-treatment>

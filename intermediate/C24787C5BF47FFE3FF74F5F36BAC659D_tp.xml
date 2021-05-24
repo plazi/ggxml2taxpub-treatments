@@ -1,107 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Sophianus alces Distant, 1904<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Sophianus alces Distant, 1904<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-22--151-264-1925-1949-">Figs. 5E</xref>
+<xref rid="fig-22--151-264-1925-1949-">Figs. 5E</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-24--151-264-1912-1936-">7D</xref>
+<xref rid="fig-24--151-264-1912-1936-">7D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1862-1886-">16</xref>
+<xref rid="fig-33--151-264-1862-1886-">16</xref>
 F–I)
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Sophianus Distant, 1904: 486</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Sophianus Distant, 1904: 486</tp:taxon-name>
 (as new species, DV, head); Schuh 1995: 16 (catalogue), 2002–2013 (online catalogue).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis
 . Relatively large species, length 
 3.1 mm
 . Head black, ocelli reddish. First and second antennal segment black, third and fourth segment yellowish brown (dull flavous according to 
-<!--template match = bibRefCitation--><xref rid="ref18010">Distant 1904</xref>
+<xref rid="ref18010">Distant 1904</xref>
 ). Pronotum, mesoscutum, and major part of scutellum black; apex of scutellum yellowish. Hemelytra yellowish brown; bases of clavii darker, apices of coria and cunei brown (piceous according to 
-<!--template match = bibRefCitation--><xref rid="ref18010">Distant 1904</xref>
+<xref rid="ref18010">Distant 1904</xref>
 ). Legs reddish brown. Membrane hyaline. Pronotum distinctly punctate; hemelytra finely punctate. 
 Male genitalia
 as in 
-<!--template match = figureCitation--><xref rid="fig-33--151-264-1862-1886-">Figs. 16</xref>
+<xref rid="fig-33--151-264-1862-1886-">Figs. 16</xref>
 F–I. Detailed measurements in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDIA</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCountry">INDIA</named-content>
 : 17³, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Karnataka</named-content>
+<named-content content-type="collectingRegion">Karnataka</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Belghaum</named-content>
+<named-content content-type="collectingMunicipality">Belghaum</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Arbhavi</named-content>
+<named-content content-type="location">Arbhavi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">595 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">595 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 16 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">°</named-content>
+<named-content content-type="superScript">°</named-content>
 13.605’N
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 074 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">°</named-content>
+<named-content content-type="superScript">°</named-content>
 50.016’E
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.viii.2011</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.viii.2011</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yeshwanth H. M.</named-content>
+<named-content content-type="collectorName">Yeshwanth H. M.</named-content>
 leg., at light; 2³, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bangalore</named-content>
+<named-content content-type="collectorName">Bangalore</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">GKVK</named-content>
+<named-content content-type="collectionCode">GKVK</named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">930m</named-content>
+<tp:material-citation>
+<named-content content-type="quantity">
+<named-content content-type="elevation">930m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12º 58’ N</named-content>
+<named-content content-type="geoCoordinate">12º 58’ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">77º35’E</named-content>
+<named-content content-type="geoCoordinate">77º35’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.xii.2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24.xii.2012</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yeshwanth H. M.</named-content>
+<named-content content-type="collectorName">Yeshwanth H. M.</named-content>
 leg, at light (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UASB</named-content>
+<named-content content-type="collectionCode">UASB</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . A single specimen of this species was originally described from 
 Sri Lanka
@@ -112,8 +112,8 @@ India
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 . 
 India

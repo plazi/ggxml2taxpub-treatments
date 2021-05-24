@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Oiceoptoma tangi Sommer, Růžička, Nishikawa &amp; Schneider , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Oiceoptoma tangi Sommer, Růžička, Nishikawa &amp; Schneider , new species<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1A–F</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1A–F</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">3D–F</xref>
+<xref rid="fig-4--151-250-1718-1742-">3D–F</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">4A, D</xref>
+<xref rid="fig-5--151-250-1735-1759-">4A, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1839-1863-">5A, D</xref>
+<xref rid="fig-6--151-250-1839-1863-">5A, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">6A, D</xref>
+<xref rid="fig-7--151-250-1809-1833-">6A, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1686-1710-">7A–C</xref>
+<xref rid="fig-8--151-250-1686-1710-">7A–C</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">8A, C–D</xref>
+<xref rid="fig-9--151-250-1808-1832-">8A, C–D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">9A–B</xref>
+<xref rid="fig-10--151-250-1864-1888-">9A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">10A–D</xref>
+<xref rid="fig-11--151-250-1842-1866-">10A–D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1869-1893-">11A–B</xref>
+<xref rid="fig-12--151-250-1869-1893-">11A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1849-1873-">12A, D</xref>
+<xref rid="fig-13--151-250-1849-1873-">12A, D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1891-1915-">13A–B</xref>
+<xref rid="fig-14--151-250-1891-1915-">13A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1891-1915-">14 C–E</xref>
+<xref rid="fig-15--151-250-1891-1915-">14 C–E</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-16--151-250-1702-1726-">15A–B, F</xref>
+<xref rid="fig-16--151-250-1702-1726-">15A–B, F</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">17A–C</xref>
+<xref rid="fig-18--151-250-1352-1376-">17A–C</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Oiceoptoma subrufum : Růžička et al. 2004: 47</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Oiceoptoma subrufum : Růžička et al. 2004: 47</tp:taxon-name>
 </tp:nomenclature-citation>
 (misidentification).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 locality.
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Province</named-content>
+<named-content content-type="collectingRegion">Zhejiang Province</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Anji City</named-content>
+<named-content content-type="collectingCounty">Anji City</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Longwangshan Mt.</named-content>
+<named-content content-type="collectingMunicipality">Longwangshan Mt.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pinxi Creek</named-content>
+<named-content content-type="location">Pinxi Creek</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30°24′N</named-content>
+<named-content content-type="geoCoordinate">30°24′N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119°27′E</named-content>
+<named-content content-type="geoCoordinate">119°27′E</named-content>
 , alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1000– 1100 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1000– 1100 m</named-content>
 </named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Type material
 (
 30 specimens
@@ -84,515 +84,515 @@ Type material
 Holotype
 ,
 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">♂</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Anji City</named-content>
+<named-content content-type="collectingCounty">Anji City</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Longwangshan Mt.</named-content>
+<named-content content-type="collectingMunicipality">Longwangshan Mt.</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pinxi Creek</named-content>
+<named-content content-type="location">Pinxi Creek</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30°24′N</named-content>
+<named-content content-type="geoCoordinate">30°24′N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119°27′E</named-content>
+<named-content content-type="geoCoordinate">119°27′E</named-content>
 || alt. 1000~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1100 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1100 m</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">09-VI-2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">09-VI-2012</named-content>
 </named-content>
 | HU &amp; YIN leg. [p]”
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Paratypes</named-content>
 ,
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♂♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♀♀</named-content>
+<named-content content-type="specimenCount">6 ♂♂</named-content>
+<named-content content-type="specimenCount">3 ♀♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">JRUC</named-content>
+<named-content content-type="collectionCode">JRUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>same data as holotype</tp:material-citation>
+<tp:material-citation>same data as holotype</tp:material-citation>
 ”; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♀♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">3 ♀♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Anji County</named-content>
+<named-content content-type="collectingCounty">Anji County</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shenxi</named-content>
+<named-content content-type="location">Shenxi</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30° 25′ N</named-content>
+<named-content content-type="geoCoordinate">30° 25′ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119° 24′ E</named-content>
+<named-content content-type="geoCoordinate">119° 24′ E</named-content>
 | alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">400 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">400 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">07-VI-2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">07-VI-2012</named-content>
 </named-content>
 | ZHU 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jian-Qing</named-content>
+<named-content content-type="collectorName">Jian-Qing</named-content>
 leg. [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+<named-content content-type="collectionCode">EUMJ</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “中国 [= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 ] 浙江省 [= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 ] OiṘ市 [= Lin’an-shi] | MRH山 [= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. West Tianmu Shan</named-content>
+<named-content content-type="location">Mt. West Tianmu Shan</named-content>
 ] | 6~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11–V–1998</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11–V–1998</named-content>
 </named-content>
 | 李 李ù [= Li-Zhen Li] IJDz [= leg.] [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “16~20–V–20 [p] 06 [hw] | MRH山 [= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. West Tianmu Shan</named-content>
+<named-content content-type="location">Mt. West Tianmu Shan</named-content>
 ] 临Ṙ [= Lin’an-shi] [hw] | 浙江 [= 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 ] Bwx [hw] || Mt. w. Tianmu | 16~20. V, 2006 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bi Wen-xuan</named-content>
+<named-content content-type="collectorName">Bi Wen-xuan</named-content>
 leg. [hw]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">West Tianmushan</named-content>
+<named-content content-type="location">West Tianmushan</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lin’an County</named-content>
+<named-content content-type="collectingCounty">Lin’an County</named-content>
 | 11~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15–VI–2006</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15–VI–2006</named-content>
 </named-content>
 | alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">300–400 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">300–400 m</named-content>
 </named-content>
 | HU &amp; TANG leg. [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SNUC</named-content>
+<named-content content-type="collectionCode">SNUC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Zejiang Prov.</named-content>
+<named-content content-type="collectingCounty">Zejiang Prov.</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lin’an City</named-content>
+<named-content content-type="collectingMunicipality">Lin’an City</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. West Tianmu</named-content>
+<named-content content-type="location">Mt. West Tianmu</named-content>
 | alt. 300~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">500 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">500 m</named-content>
 </named-content>
 | 29–V~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3–VI–2010</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">3–VI–2010</named-content>
 </named-content>
 | Jian-Qing ZHU leg. [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">JRUC</named-content>
+<named-content content-type="collectionCode">JRUC</named-content>
 , DNA voucher JRUC-SIL-0054), “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CHINA</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">CHINA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 ,
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lin’an County</named-content>
+<named-content content-type="collectingCounty">Lin’an County</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">West</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">West</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tianmushan Nat. Res.</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Tianmushan Nat. Res.</named-content>
 </named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">250 m</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">250 m</named-content>
 NW of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Original</named-content>
+<named-content content-type="emphasis">Original</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Temple of Lion Sect</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Temple of Lion Sect</named-content>
 </named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30.3431°N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.4316°E</named-content>
+<named-content content-type="geoCoordinate">30.3431°N</named-content>
+<named-content content-type="geoCoordinate">119.4316°E</named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Hájek</named-content>
+<named-content content-type="collectorName">J. Hájek</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Růžička</named-content>
+<named-content content-type="collectorName">J. Růžička</named-content>
 leg. || 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">(WT10)</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.–6.vii.2017</named-content>
+<named-content content-type="emphasis">(WT10)</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.–6.vii.2017</named-content>
 </named-content>
 ; || 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1165 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1165 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<named-content content-type="emphasis">
 baited 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMethod">pitfall</named-content>
+<named-content content-type="collectingMethod">pitfall</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">traps #06</named-content>
+<named-content content-type="emphasis">traps #06</named-content>
 (fish meat, | ripening cheese), broad- | leaved deciduous forest | with 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhododendron</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhododendron</named-content>
 </named-content>
 [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♀♀</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">JRUC</named-content>
+<named-content content-type="collectionCode">JRUC</named-content>
 , DNA vouchers 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">JRUC-SIL-</named-content>
+<named-content content-type="collectionCode">JRUC-SIL-</named-content>
 0010, JRUC-SIL-0011), “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CHINA</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">CHINA</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
+<named-content content-type="collectingRegion">Zhejiang Prov.</named-content>
 ,
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lin’an County</named-content>
+<named-content content-type="collectingCounty">Lin’an County</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">West</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">West</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tianmushan Nat. Res.</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Tianmushan Nat. Res.</named-content>
 </named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">250 m</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">250 m</named-content>
 NW of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Original</named-content>
+<named-content content-type="emphasis">Original</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Temple of Lion Sect</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="location">Temple of Lion Sect</named-content>
 </named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">30.3431°N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.4316°E</named-content>
+<named-content content-type="geoCoordinate">30.3431°N</named-content>
+<named-content content-type="geoCoordinate">119.4316°E</named-content>
 , | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Cheng-Bin Wang</named-content>
+<named-content content-type="collectorName">Cheng-Bin Wang</named-content>
 leg. || 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">(WT10)</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.–6.vii.2017</named-content>
+<named-content content-type="emphasis">(WT10)</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.–6.vii.2017</named-content>
 </named-content>
 ; || 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1165 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1165 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<named-content content-type="emphasis">
 baited 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMethod">pitfall</named-content>
+<named-content content-type="collectingMethod">pitfall</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">traps #06</named-content>
+<named-content content-type="emphasis">traps #06</named-content>
 (fish meat; alcohol, vinegar + sugar), broad- | leaved deciduous forest | with 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhododendron</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Rhododendron</named-content>
 </named-content>
 [p]”
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">JSCC</named-content>
+<named-content content-type="collectionCode">JSCC</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 “NW. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CHINA</named-content>
+<named-content content-type="collectingCountry">CHINA</named-content>
 | TIENMUCHAN [without date and collector’s name, hw with a pencil] || 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Oiceoptoma</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Oiceoptoma</named-content>
 </named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">subrufum</named-content>
+<named-content content-type="emphasis">subrufum</named-content>
 | (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Lewis, 1888</named-content>
+<named-content content-type="bibRefCitation">Lewis, 1888</named-content>
 ) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 | 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">Jan Růžička</named-content>
+<named-content content-type="determinerName">Jan Růžička</named-content>
 det. 200[p]3[hw]”
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Male (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1A–C</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1A–C</xref>
 ). Body oval, dorso-ventrally flattened. Pronotum orange with four black spots (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
+<xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
 ). Elytra light to dark brown. Head, antennae, legs and ventral part of body black. Flight wings fully developed, functional (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">Fig. 8A</xref>
+<xref rid="fig-9--151-250-1808-1832-">Fig. 8A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Head.
 Black, lustrous surface with regular punctation (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Fig. 3D</xref>
+<xref rid="fig-4--151-250-1718-1742-">Fig. 3D</xref>
 ). Covered with short, recumbent orange setation. Clypeus anteriorly widely notched (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">Fig. 8D</xref>
+<xref rid="fig-9--151-250-1808-1832-">Fig. 8D</xref>
 ). Anterior margin of clypeus with slightly irregular row of dense, long, orange setation in dorsal view. Eye kidney-shaped in lateral view (
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">Fig. 17C</xref>
+<xref rid="fig-18--151-250-1352-1376-">Fig. 17C</xref>
 ). Head with short row of long erect setae behind eyes (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Fig. 3D</xref>
+<xref rid="fig-4--151-250-1718-1742-">Fig. 3D</xref>
 ). Frons with marked dorsal tentorial pits and a transverse, elevated crest posteriorly (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Figs. 3D</xref>
+<xref rid="fig-4--151-250-1718-1742-">Figs. 3D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">17C</xref>
+<xref rid="fig-18--151-250-1352-1376-">17C</xref>
 ). Maxilla with deeply punctuated cardo and base of stipes in ventral view, covered by long setae (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Fig. 3E</xref>
+<xref rid="fig-4--151-250-1718-1742-">Fig. 3E</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antennae
 . Medium-sized, with last four antennomeres forming a distinct club (
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1686-1710-">Figs. 7A–C</xref>
+<xref rid="fig-8--151-250-1686-1710-">Figs. 7A–C</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pronotum
 moderately transverse, widest posteriorly (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
+<xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
 ). Pronotal disc orange, medially with four black, vaguely delimited spots, arranged in symmetrical, trapezoidal pattern (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
+<xref rid="fig-5--151-250-1735-1759-">Fig. 4A</xref>
 ). Spots are regularly covered with fine, distinct punctures, bearing long, orange setation (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Fig. 4D</xref>
+<xref rid="fig-5--151-250-1735-1759-">Fig. 4D</xref>
 ). Margin rimmed only in anterior half; anteriorly with wide, shallow excision, which is medially straight; anterior angles weakly elevated. Posterior margin slightly sinuous, weakly sinuate postero-laterally (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Figs. 4A</xref>
+<xref rid="fig-5--151-250-1735-1759-">Figs. 4A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">6A</xref>
+<xref rid="fig-7--151-250-1809-1833-">6A</xref>
 ). Surface with dense punctation, punctures medium-sized, clearly separated, from disc to margin deeply impressed (
-<!--template match = figureCitation--><xref rid="fig-5--151-250-1735-1759-">Figs. 4A</xref>
+<xref rid="fig-5--151-250-1735-1759-">Figs. 4A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1839-1863-">5D</xref>
+<xref rid="fig-6--151-250-1839-1863-">5D</xref>
 ). Pronotum covered with longer, orange setation.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Scutellum
 . Irregularly triangular, widely vaulted medially. Surface with dense, distinct, homogenous punctation; covered with longer orange setation, semierect anteriorly and distinctly recumbent medially and posteriorly (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">Fig. 6A</xref>
+<xref rid="fig-7--151-250-1809-1833-">Fig. 6A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Elytra
 subparallel, at the widest point (along 2/3 of its length) wider than pronotum (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Fig. 1A</xref>
+<xref rid="fig-2--151-250-1614-1638-">Fig. 1A</xref>
 ). Humerus with distinct denticle (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Fig. 3F</xref>
+<xref rid="fig-4--151-250-1718-1742-">Fig. 3F</xref>
 ). Elytron with three distinctly elevated ridges; only first and second ridge reaching apex of elytron; external ridge shortest, reaching only two thirds of elytral length (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1A</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">6D</xref>
+<xref rid="fig-7--151-250-1809-1833-">6D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">9A</xref>
+<xref rid="fig-10--151-250-1864-1888-">9A</xref>
 ). Second ridge in last third slightly sinuous (
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">Fig. 9A</xref>
+<xref rid="fig-10--151-250-1864-1888-">Fig. 9A</xref>
 ). Third ridge posteriorly terminated at apical callus (
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">Fig. 9A</xref>
+<xref rid="fig-10--151-250-1864-1888-">Fig. 9A</xref>
 ). Ridges on both sides covered with a row of short, recumbent, black setae. Lateral margin of elytra strongly elevated only in anterior half, disappearing posteriorly. Apex of elytron regularly rounded (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1A</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">9A</xref>
+<xref rid="fig-10--151-250-1864-1888-">9A</xref>
 ). Basal part of elytra and humeri with short, recumbent, black setae (
-<!--template match = figureCitation--><xref rid="fig-4--151-250-1718-1742-">Fig. 3F</xref>
+<xref rid="fig-4--151-250-1718-1742-">Fig. 3F</xref>
 ). Surface dull, with isodiametric microsculpture (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">Figs. 6A, D</xref>
+<xref rid="fig-7--151-250-1809-1833-">Figs. 6A, D</xref>
 ); subapical surface regularly flat, without rugosities; with dense, distinct, regular punctation; punctures clearly separated by spaces 1.0–1.5 times their own diameter (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1809-1833-">Figs. 6D</xref>
+<xref rid="fig-7--151-250-1809-1833-">Figs. 6D</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">9A</xref>
+<xref rid="fig-10--151-250-1864-1888-">9A</xref>
 ). Elytra with distinct, subrectangular punctures, with bluish metallic lustre covering most of the surface in ventral view (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">Figs. 8A, C</xref>
+<xref rid="fig-9--151-250-1808-1832-">Figs. 8A, C</xref>
 ). Elytral epipleura sparsely, finely but distinctly punctured in ventral view (
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">Fig. 8A</xref>
+<xref rid="fig-9--151-250-1808-1832-">Fig. 8A</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Ventrum
 finely punctate, covered with short, recumbent, brown to black setation (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1839-1863-">Figs. 5A</xref>
+<xref rid="fig-6--151-250-1839-1863-">Figs. 5A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">10C</xref>
+<xref rid="fig-11--151-250-1842-1866-">10C</xref>
 ). Proventrite with dense punctation laterally; medially dark brown to black, laterally widely orange in ventral view (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1839-1863-">Fig. 5A</xref>
+<xref rid="fig-6--151-250-1839-1863-">Fig. 5A</xref>
 ). Mesocoxae widely separated (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">Fig. 10C</xref>
+<xref rid="fig-11--151-250-1842-1866-">Fig. 10C</xref>
 ). Abdominal ventrites with distinct impressions laterally in ventral view (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1B</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-16--151-250-1702-1726-">15A</xref>
+<xref rid="fig-16--151-250-1702-1726-">15A</xref>
 ). Ventrite 6 extremely reduced in length medially, with expanded brick-wall pattern on intersegmental membrane (
-<!--template match = figureCitation--><xref rid="fig-16--151-250-1702-1726-">Figs. 15A–B, F</xref>
+<xref rid="fig-16--151-250-1702-1726-">Figs. 15A–B, F</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Legs
 . Protarsomeres 1–4 only slightly expanded, covered with short, dense, yellow setation (
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1891-1915-">Figs. 14C–D</xref>
+<xref rid="fig-15--151-250-1891-1915-">Figs. 14C–D</xref>
 ). Pro-, / meso- and metatibia with two apical spurs of different length (
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1891-1915-">Figs. 14C–D</xref>
+<xref rid="fig-15--151-250-1891-1915-">Figs. 14C–D</xref>
 ). Metatibia almost straight, only very slightly curved in ventral view (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">Fig. 10D</xref>
+<xref rid="fig-11--151-250-1842-1866-">Fig. 10D</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Abdominal segments
 . Tergite 10 relatively short in length (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1849-1873-">Fig. 12A</xref>
+<xref rid="fig-13--151-250-1849-1873-">Fig. 12A</xref>
 ). Ventrite 9 oval, elongate, anteriorly as long as tergite 9, constricted and deeply desclerotized medially in ventral view (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1849-1873-">Fig. 12D</xref>
+<xref rid="fig-13--151-250-1849-1873-">Fig. 12D</xref>
 ). Spiculum gastrale robust, elongate in ventral view (
-<!--template match = figureCitation--><xref rid="fig-13--151-250-1849-1873-">Fig. 12D</xref>
+<xref rid="fig-13--151-250-1849-1873-">Fig. 12D</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Aedeagus
 . Median lobe stout, robust, gradually tapered to widely rounded, triangular apex (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
+<xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
 ). Internal sac heavily sclerotized, medial portion composed of a great number of very small, regular, rounded denticles; basal part containing two strips of elongate, slender denticles (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1869-1893-">Fig. 11B</xref>
+<xref rid="fig-12--151-250-1869-1893-">Fig. 11B</xref>
 ). Parameres robust, almost straight, longer than median lobe, subapically constricted with rounded apex (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
+<xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
 ). Basal portion widely oval, very narrow, markedly exceeding the width of aedeagus (
-<!--template match = figureCitation--><xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
+<xref rid="fig-12--151-250-1869-1893-">Figs. 11A–B</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Sexual dimorphism.
 Female
 . Similar to male except for the following structures: Protarsus simple, basal protarsomere elongated (
-<!--template match = figureCitation--><xref rid="fig-15--151-250-1891-1915-">Fig. 14E</xref>
+<xref rid="fig-15--151-250-1891-1915-">Fig. 14E</xref>
 ). Apex of elytron elongated to a blunt tip (
-<!--template match = figureCitation--><xref rid="fig-2--151-250-1614-1638-">Figs. 1D–E</xref>
+<xref rid="fig-2--151-250-1614-1638-">Figs. 1D–E</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-9--151-250-1808-1832-">8A</xref>
+<xref rid="fig-9--151-250-1808-1832-">8A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1864-1888-">9B</xref>
+<xref rid="fig-10--151-250-1864-1888-">9B</xref>
 ). Tergum 7 with distinct, deep, narrow, U-shaped medial emargination (
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">Fig. 17A</xref>
+<xref rid="fig-18--151-250-1352-1376-">Fig. 17A</xref>
 ). Tergum 8 subquadrate, regularly rounded posteriorly (
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1891-1915-">Figs. 13A</xref>
+<xref rid="fig-14--151-250-1891-1915-">Figs. 13A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">17A</xref>
+<xref rid="fig-18--151-250-1352-1376-">17A</xref>
 ). Ventrite 8 widely transverse (
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1891-1915-">Figs. 13B</xref>
+<xref rid="fig-14--151-250-1891-1915-">Figs. 13B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-18--151-250-1352-1376-">17B</xref>
+<xref rid="fig-18--151-250-1352-1376-">17B</xref>
 ). Tergite 9 elongate, rounded; tergite 10 pentagonal, apex posteriorly regularly rounded with dense microsetae (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">Figs. 10A–B</xref>
+<xref rid="fig-11--151-250-1842-1866-">Figs. 10A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1891-1915-">13A</xref>
+<xref rid="fig-14--151-250-1891-1915-">13A</xref>
 ). Coxite laterally constricted on outer margin subapically in ventral view; stylus inserted lateroapically, its length slightly shorter than apex of coxite (
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1842-1866-">Figs. 10A–B</xref>
+<xref rid="fig-11--151-250-1842-1866-">Figs. 10A–B</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-14--151-250-1891-1915-">13A–B</xref>
+<xref rid="fig-14--151-250-1891-1915-">13A–B</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Measurements.
 Elytra length 
 5.81–6.82 mm
@@ -632,268 +632,268 @@ holotype
 6.10 mm
 ) in females.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Variability.
 Elytra mostly dark brown, light brown in some (probably subteneral) specimens. Spots on pronotum slightly differently delimited, being less separated from surrounding surface in some specimens.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Differential diagnosis.
-<!--template match = taxonomicName--><tp:taxon-name>Oiceoptoma tangi Sommer, Růžička, Nishikawa &amp; Schneider</tp:taxon-name>
+<tp:taxon-name>Oiceoptoma tangi Sommer, Růžička, Nishikawa &amp; Schneider</tp:taxon-name>
 , 
 
-<!--template match = taxonomicNameLabel-->new species
+new species
 ,
 
 is similar and probably closely related to 
-<!--template match = taxonomicName--><tp:taxon-name>O. nigropunctatum</tp:taxon-name>
+<tp:taxon-name>O. nigropunctatum</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. subrufum</tp:taxon-name>
+<tp:taxon-name>O. subrufum</tp:taxon-name>
 . All three species share the following combination of characters: (1) orange pronotum with relatively short pubescence; (2) four dark spots on pronotal disc; (3) dark brown/black elytra with narrow epipleura; and (4) absence of patchy velvet pattern on elytral dorsal surface (see 
-<!--template match = bibRefCitation--><xref rid="ref9393">
+<xref rid="ref9393">
 Růžička 
 et al.
 (2004)
 </xref>
 for more details).
 </p>
-<!--template match = paragraph--><p>
+<p>
 The three species can be separated from each other using the character states listed in the modified key and in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 below.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 Patronymic, named after Liang Tang (
 Shanghai
 , 
 China
 ), an enthusiastic specialist of staphylinoid beetles (
-<!--template match = taxonomicName--><tp:taxon-name>Agyrtidae</tp:taxon-name>
+<tp:taxon-name>Agyrtidae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Staphylinidae</tp:taxon-name>
+<tp:taxon-name>Staphylinidae</tp:taxon-name>
 : 
-<!--template match = taxonomicName--><tp:taxon-name>Steninae</tp:taxon-name>
+<tp:taxon-name>Steninae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Scaphidiinae</tp:taxon-name>
+<tp:taxon-name>Scaphidiinae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Staphylininae</tp:taxon-name>
+<tp:taxon-name>Staphylininae</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>Omaliinae</tp:taxon-name>
+<tp:taxon-name>Omaliinae</tp:taxon-name>
 etc.), who first recognized this species was unnamed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Collecting circumstances.
 The large 
 type
 series was collected near Pinxi Creek on old large mammal carrion, together with numerous 
-<!--template match = taxonomicName--><tp:taxon-name>Necrodes littoralis ( Linnaeus, 1758 )</tp:taxon-name>
+<tp:taxon-name>Necrodes littoralis ( Linnaeus, 1758 )</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>Silphidae</tp:taxon-name>
+<tp:taxon-name>Silphidae</tp:taxon-name>
 ), 
-<!--template match = taxonomicName--><tp:taxon-name>Creophilus maxillosus ( Linnaeus, 1758 )</tp:taxon-name>
+<tp:taxon-name>Creophilus maxillosus ( Linnaeus, 1758 )</tp:taxon-name>
 (
-<!--template match = taxonomicName--><tp:taxon-name>Staphylinidae</tp:taxon-name>
+<tp:taxon-name>Staphylinidae</tp:taxon-name>
 ) and some clown beetles (
-<!--template match = taxonomicName--><tp:taxon-name>Histeridae</tp:taxon-name>
+<tp:taxon-name>Histeridae</tp:taxon-name>
 ) (
-<!--template match = figureCitation--><xref rid="fig-19--151-250-1767-1791-">Figs. 18A–C</xref>
+<xref rid="fig-19--151-250-1767-1791-">Figs. 18A–C</xref>
 ). Three specimens were also collected on West Tianmushan, 
 250 m
 above the Original Temple of Lion Sect, using fish-baited pitfall traps in a broadleaved deciduous forest with 
-<!--template match = taxonomicName--><tp:taxon-name>Rhododendron</tp:taxon-name>
+<tp:taxon-name>Rhododendron</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-20--151-250-1867-1891-">Figs. 19A–B</xref>
+<xref rid="fig-20--151-250-1867-1891-">Figs. 19A–B</xref>
 ). The specimens were collected between May and the beginning of July.
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1.
 List of characters and character states separating the three related 
-<!--template match = taxonomicName--><tp:taxon-name>Oiceoptoma</tp:taxon-name>
+<tp:taxon-name>Oiceoptoma</tp:taxon-name>
 species.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e1242">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e1242">
+<tr>
+<td>
 Characters / Species
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>O. subrufum</tp:taxon-name>
+<td>
+<tp:taxon-name>O. subrufum</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>O. nigropunctatum</tp:taxon-name>
+<td>
+<tp:taxon-name>O. nigropunctatum</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 
-<!--template match = taxonomicName--><tp:taxon-name>O. tangi</tp:taxon-name>
+<tp:taxon-name>O. tangi</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->new species
+new species
 
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Male protarsi, ventral view</td>
-<!--template match = td--><td>broadly expanded (Fig. 14G)</td>
-<!--template match = td--><td>narrowly expanded (Fig. 14F)</td>
-<!--template match = td--><td>narrowly expanded (Fig. 14C)</td>
+<tr>
+<td>Male protarsi, ventral view</td>
+<td>broadly expanded (Fig. 14G)</td>
+<td>narrowly expanded (Fig. 14F)</td>
+<td>narrowly expanded (Fig. 14C)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Spots on pronotum surface</td>
-<!--template match = td--><td>diffuse median spot, usually composed of several scattered darker spots or almost indistinct (Figs. 4B, E)</td>
-<!--template match = td--><td>four black distinct spots, arranged in a trapezoidal pattern; spots on pronotum distinctly delimited, smooth and glossy, only with sparsely distributed, minute punctures with very short setae (Figs. 4C, F)</td>
-<!--template match = td--><td>four black distinct spots, arranged in a trapezoidal pattern; spots on pronotum vaguely delimited, regularly covered with fine, distinct punctures, covered by long, orange setation (Figs. 4A, D)</td>
+<tr>
+<td>Spots on pronotum surface</td>
+<td>diffuse median spot, usually composed of several scattered darker spots or almost indistinct (Figs. 4B, E)</td>
+<td>four black distinct spots, arranged in a trapezoidal pattern; spots on pronotum distinctly delimited, smooth and glossy, only with sparsely distributed, minute punctures with very short setae (Figs. 4C, F)</td>
+<td>four black distinct spots, arranged in a trapezoidal pattern; spots on pronotum vaguely delimited, regularly covered with fine, distinct punctures, covered by long, orange setation (Figs. 4A, D)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pronotum, medial part of anterior margin in dorsal view</td>
-<!--template match = td--><td>weakly dorsally elevated (Fig. 4B)</td>
-<!--template match = td--><td>distinctly dorsally elevated (Fig. 4C)</td>
-<!--template match = td--><td>weakly dorsally elevated (Fig. 4A)</td>
+<tr>
+<td>Pronotum, medial part of anterior margin in dorsal view</td>
+<td>weakly dorsally elevated (Fig. 4B)</td>
+<td>distinctly dorsally elevated (Fig. 4C)</td>
+<td>weakly dorsally elevated (Fig. 4A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pronotum, medial part of posterior margin in dorsal view</td>
-<!--template match = td--><td>weakly sinuate (Fig. 4B)</td>
-<!--template match = td--><td>straight (Fig. 4C)</td>
-<!--template match = td--><td>distinctly sinuate (Fig. 4A)</td>
+<tr>
+<td>Pronotum, medial part of posterior margin in dorsal view</td>
+<td>weakly sinuate (Fig. 4B)</td>
+<td>straight (Fig. 4C)</td>
+<td>distinctly sinuate (Fig. 4A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Punctation of pronotum, disc latero-posteriorly, in dorsal view</td>
-<!--template match = td--><td>large punctures with longer setation (Fig. 5E)</td>
-<!--template match = td--><td>convex, small granules with minute setation (Fig. 5F)</td>
-<!--template match = td--><td>small punctures with shorter punctation (Fig. 5D)</td>
+<tr>
+<td>Punctation of pronotum, disc latero-posteriorly, in dorsal view</td>
+<td>large punctures with longer setation (Fig. 5E)</td>
+<td>convex, small granules with minute setation (Fig. 5F)</td>
+<td>small punctures with shorter punctation (Fig. 5D)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Proventrite: colouration and punctation in ventral view</td>
-<!--template match = td--><td>medially dark brown to black, laterally only narrowly orange; dense punctation laterally (Fig. 5B)</td>
-<!--template match = td--><td>completely dark brown to black; only minute, superficial punctation laterally (Fig. 5C)</td>
-<!--template match = td--><td>medially dark brown to black, laterally widely orange; dense punctation laterally (Fig. 5A)</td>
+<tr>
+<td>Proventrite: colouration and punctation in ventral view</td>
+<td>medially dark brown to black, laterally only narrowly orange; dense punctation laterally (Fig. 5B)</td>
+<td>completely dark brown to black; only minute, superficial punctation laterally (Fig. 5C)</td>
+<td>medially dark brown to black, laterally widely orange; dense punctation laterally (Fig. 5A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Punctation of scutellum, dorsal view</td>
-<!--template match = td--><td>heterogenous, more distinct medially than laterally (Fig. 6B)</td>
-<!--template match = td--><td>homogenous, weak (Fig. 6C)</td>
-<!--template match = td--><td>homogenous, distinct (Fig. 6A)</td>
+<tr>
+<td>Punctation of scutellum, dorsal view</td>
+<td>heterogenous, more distinct medially than laterally (Fig. 6B)</td>
+<td>homogenous, weak (Fig. 6C)</td>
+<td>homogenous, distinct (Fig. 6A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Punctation of elytra, dorsal view</td>
-<!--template match = td--><td>distinct, deep punctation (Fig. 6E)</td>
-<!--template match = td--><td>with very weak, superficial punctation (Fig. 6F)</td>
-<!--template match = td--><td>distinct, deep punctation (Fig. 6D)</td>
+<tr>
+<td>Punctation of elytra, dorsal view</td>
+<td>distinct, deep punctation (Fig. 6E)</td>
+<td>with very weak, superficial punctation (Fig. 6F)</td>
+<td>distinct, deep punctation (Fig. 6D)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Surface structure, subapical part of elytra in dorsal view</td>
-<!--template match = td--><td>surface with rugosities (Fig. 9C)</td>
-<!--template match = td--><td>simple surface (Fig. 9D)</td>
-<!--template match = td--><td>simple surface (Figs. 9A–B)</td>
+<tr>
+<td>Surface structure, subapical part of elytra in dorsal view</td>
+<td>surface with rugosities (Fig. 9C)</td>
+<td>simple surface (Fig. 9D)</td>
+<td>simple surface (Figs. 9A–B)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Surface structure, subapical part of elytra in ventral view</td>
-<!--template match = td--><td>area with subquadrate punctures and blue metallic lustre limited to central part of elytra, apex granulate and black (Fig. 8B)</td>
-<!--template match = td--><td>area with subquadrate punctures and blue metallic lustre limited to central part of elytra, apex granulate and black (as on Fig. 8B)</td>
-<!--template match = td--><td>area with subquadrate punctures covers most of the elytra, area with blue metallic lustre wide, covering most of ventral side, only apical part black (Fig. 8A)</td>
+<tr>
+<td>Surface structure, subapical part of elytra in ventral view</td>
+<td>area with subquadrate punctures and blue metallic lustre limited to central part of elytra, apex granulate and black (Fig. 8B)</td>
+<td>area with subquadrate punctures and blue metallic lustre limited to central part of elytra, apex granulate and black (as on Fig. 8B)</td>
+<td>area with subquadrate punctures covers most of the elytra, area with blue metallic lustre wide, covering most of ventral side, only apical part black (Fig. 8A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Apex of elytron, female</td>
-<!--template match = td--><td>short, rounded (Fig. 2D)</td>
-<!--template match = td--><td>short, rounded (Fig. 2E)</td>
-<!--template match = td--><td>elongate into blunt tip (Figs. 1D, 9B)</td>
+<tr>
+<td>Apex of elytron, female</td>
+<td>short, rounded (Fig. 2D)</td>
+<td>short, rounded (Fig. 2E)</td>
+<td>elongate into blunt tip (Figs. 1D, 9B)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Abdominal ventrites 5 and 6, female, sclerotization in ventral view</td>
-<!--template match = td--><td>very long medially, posteriorly exposing only a shorter area of brick-wall pattern (Figs. 15C–D)</td>
-<!--template match = td--><td>longer medially, posteriorly exposing only a shorter area of brick-wall pattern (Fig. 15E)</td>
-<!--template match = td--><td>very short medially, posteriorly with long area of brick-wall pattern (Figs. 15A–B, F)</td>
+<tr>
+<td>Abdominal ventrites 5 and 6, female, sclerotization in ventral view</td>
+<td>very long medially, posteriorly exposing only a shorter area of brick-wall pattern (Figs. 15C–D)</td>
+<td>longer medially, posteriorly exposing only a shorter area of brick-wall pattern (Fig. 15E)</td>
+<td>very short medially, posteriorly with long area of brick-wall pattern (Figs. 15A–B, F)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Abdominal tergite 7, female, dorsal view</td>
-<!--template match = td--><td>very wide, weak, V–shaped emargination (Fig. 16A)</td>
-<!--template match = td--><td>transverse, without emargination (Fig. 16C)</td>
-<!--template match = td--><td>deep, narrow, U-shaped emargination (Fig. 17A)</td>
+<tr>
+<td>Abdominal tergite 7, female, dorsal view</td>
+<td>very wide, weak, V–shaped emargination (Fig. 16A)</td>
+<td>transverse, without emargination (Fig. 16C)</td>
+<td>deep, narrow, U-shaped emargination (Fig. 17A)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Abdominal ventrite 7, female, posterior margin, ventral view</td>
-<!--template match = td--><td>weak emargination (Fig. 16B)</td>
-<!--template match = td--><td>transverse, without emargination (Fig. 16D)</td>
-<!--template match = td--><td>deeper emargination (Fig. 17B)</td>
+<tr>
+<td>Abdominal ventrite 7, female, posterior margin, ventral view</td>
+<td>weak emargination (Fig. 16B)</td>
+<td>transverse, without emargination (Fig. 16D)</td>
+<td>deeper emargination (Fig. 17B)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Abdominal tergite 8, female, dorsal view</td>
-<!--template match = td--><td>truncate posteriorly (Fig. 13C)</td>
-<!--template match = td--><td>regularly rounded posteriorly (Fig. 14A)</td>
-<!--template match = td--><td>regularly rounded posteriorly (Fig. 13A)</td>
+<tr>
+<td>Abdominal tergite 8, female, dorsal view</td>
+<td>truncate posteriorly (Fig. 13C)</td>
+<td>regularly rounded posteriorly (Fig. 14A)</td>
+<td>regularly rounded posteriorly (Fig. 13A)</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 ...Continued on the next page
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1.
 (Continued)
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e1533">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<p>
+<table id="d1e1533">
+<tr>
+<td>
 Characters / Species
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>O. subrufum</tp:taxon-name>
+<td>
+<tp:taxon-name>O. subrufum</tp:taxon-name>
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>O. nigropunctatum</tp:taxon-name>
+<td>
+<tp:taxon-name>O. nigropunctatum</tp:taxon-name>
 </td>
-<!--template match = td--><td>
+<td>
 
-<!--template match = taxonomicName--><tp:taxon-name>O. tangi</tp:taxon-name>
+<tp:taxon-name>O. tangi</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->new species
+new species
 
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Male genital segment, shape of spiculum gastrale in ventral view</td>
-<!--template match = td--><td>short; more regularly bent posteriorly (Figs. 12B, E)</td>
-<!--template match = td--><td>elongate; more regularly bent posteriorly (Figs. 12C, F)</td>
-<!--template match = td--><td>elongate; suddenly bent posteriorly (Figs. 12A, D)</td>
+<tr>
+<td>Male genital segment, shape of spiculum gastrale in ventral view</td>
+<td>short; more regularly bent posteriorly (Figs. 12B, E)</td>
+<td>elongate; more regularly bent posteriorly (Figs. 12C, F)</td>
+<td>elongate; suddenly bent posteriorly (Figs. 12A, D)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Male genital segment, shape of ventrite 9 in ventral view</td>
-<!--template match = td--><td>elongate; wide in anterior part (Fig. 12E)</td>
-<!--template match = td--><td>short; narrow in anterior part (Fig. 12F)</td>
-<!--template match = td--><td>short; narrow in anterior part (Fig. 12D)</td>
+<tr>
+<td>Male genital segment, shape of ventrite 9 in ventral view</td>
+<td>elongate; wide in anterior part (Fig. 12E)</td>
+<td>short; narrow in anterior part (Fig. 12F)</td>
+<td>short; narrow in anterior part (Fig. 12D)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Basal portion of aedeagus</td>
-<!--template match = td--><td>oval, robust, not exceeding the width of median lobe (Figs. 11C–D)</td>
-<!--template match = td--><td>oval, less robust, not exceeding the width of aedeagus (Fig. 11E)</td>
-<!--template match = td--><td>widely oval, very narrow, markedly exceeding the width of aedeagus (Figs. 11A–B)</td>
+<tr>
+<td>Basal portion of aedeagus</td>
+<td>oval, robust, not exceeding the width of median lobe (Figs. 11C–D)</td>
+<td>oval, less robust, not exceeding the width of aedeagus (Fig. 11E)</td>
+<td>widely oval, very narrow, markedly exceeding the width of aedeagus (Figs. 11A–B)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Median lobe of aedeagus</td>
-<!--template match = td--><td>subapically distinctly sinuous laterally, tapering to a widely rounded apex (Figs. 11C–D)</td>
-<!--template match = td--><td>gradually tapered to a slender, sharp apex (Fig. 11E)</td>
-<!--template match = td--><td>gradually tapered to widely rounded, triangular apex (Figs. 11A–B)</td>
+<tr>
+<td>Median lobe of aedeagus</td>
+<td>subapically distinctly sinuous laterally, tapering to a widely rounded apex (Figs. 11C–D)</td>
+<td>gradually tapered to a slender, sharp apex (Fig. 11E)</td>
+<td>gradually tapered to widely rounded, triangular apex (Figs. 11A–B)</td>
 </tr>
 </table>
 </p>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 So far known only from three localities (Longwangshan Mt., Shenxi, Tianmu Shan Mts.) in 
 Zhejiang Province
 , 
 China
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 20–21</xref>
+<xref rid="fig-">Figs. 20–21</xref>
 ).
 </p>
 </tp:treatment-sec>

@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Vepris africana (Hook.f.) O.Lachenaud &amp; Onana, comb. nov<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Vepris africana (Hook.f.) O.Lachenaud &amp; Onana, comb. nov<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Glycosmis (?) africana Hook.</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>Glycosmis (?) africana Hook.</tp:taxon-name>
 f., 
 
 Niger Flora
 : 256 (
-<!--template match = bibRefCitation--><xref rid="ref9546">Hooker 1849</xref>
+<xref rid="ref9546">Hooker 1849</xref>
 )
 
 .
@@ -19,80 +19,80 @@ Niger Flora
 —
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
 Type: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">São Tomé &amp; Príncipe</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">São Tomé &amp; Príncipe</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">São Tomé</named-content>
+<named-content content-type="collectingRegion">São Tomé</named-content>
 , without precise locality or date (fr.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Don s.n.</named-content>
+<named-content content-type="emphasis">Don s.n.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holo-</named-content>
+<named-content content-type="typeStatus">holo-</named-content>
 , K[
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">K000199556</named-content>
+<named-content content-type="specimenCode">K000199556</named-content>
 ]).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Teclea gossweileri I.Verd.</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>Teclea gossweileri I.Verd.</tp:taxon-name>
 , 
 
 Bulletin of Miscellaneous Information, Kew
 9: 409 (
-<!--template match = bibRefCitation--><xref rid="ref10677">Verdoorn 1926</xref>
+<xref rid="ref10677">Verdoorn 1926</xref>
 )
 
 , 
 syn. nov.
 </tp:nomenclature-citation>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Vepris gossweileri (I.Verd.) Mziray, Symbolae Botanicae Upsalienses</tp:taxon-name>
+<tp:nomenclature-citation>
+<tp:taxon-name>Vepris gossweileri (I.Verd.) Mziray, Symbolae Botanicae Upsalienses</tp:taxon-name>
 30: 72 (
-<!--template match = bibRefCitation--><xref rid="ref10285">Mziray 1992</xref>
+<xref rid="ref10285">Mziray 1992</xref>
 )
 </tp:nomenclature-citation>
 , nom. illeg. [non 
-<!--template match = taxonomicName--><tp:taxon-name>V. gossweileri I.Verd.</tp:taxon-name>
+<tp:taxon-name>V. gossweileri I.Verd.</tp:taxon-name>
 ].—
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
 Type: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Angola</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Angola</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Cuanza Norte</named-content>
+<named-content content-type="collectingRegion">Cuanza Norte</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Cabiri</named-content>
+<named-content content-type="collectingMunicipality">Cabiri</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.VII.1921</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1.VII.1921</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">male</named-content>
+<named-content content-type="specimenCount">male</named-content>
 fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Gossweiler 8328</named-content>
+<named-content content-type="emphasis">Gossweiler 8328</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holo-</named-content>
+<named-content content-type="typeStatus">holo-</named-content>
 , K[
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">K000199528</named-content>
+<named-content content-type="specimenCode">K000199528</named-content>
 , K000199529]).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 DISTRIBUTION. — This species has a very scattered distribution in NW coastal 
 Gabon
 (around Libreville), coastal 
@@ -102,19 +102,19 @@ Angola
 , and the north of 
 São Tomé
 island (
-<!--template match = figureCitation--><xref rid="fig-8--132-143-922-939-">Fig. 2</xref>
+<xref rid="fig-8--132-143-922-939-">Fig. 2</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 HABITAT. — 
 Littoral
 thickets, edge of mangroves, and forest islands in savanna, often associated with rocky outcrops (especially of limestone), 
 0-1200 m
 in elevation; often gregarious, sometimes even dominant in its habitat.
 </p>
-<!--template match = paragraph--><p>
+<p>
 PHENOLOGY. — 
 Flowers
 collected in 
@@ -131,568 +131,568 @@ November
 November.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 OTHER STUDIED MATERIAL. — 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Angola</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Angola</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Granja</named-content>
+<named-content content-type="location">Granja</named-content>
 de 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Luiz</named-content>
+<named-content content-type="collectorName">S. Luiz</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cazengo</named-content>
+<named-content content-type="location">Cazengo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.XI.1917</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21.XI.1917</named-content>
 </named-content>
 (fr.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gossweiler</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Gossweiler</named-content>
 5260
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 ); towards 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Caçaça</named-content>
+<named-content content-type="collectingMunicipality">Caçaça</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Granja</named-content>
+<named-content content-type="location">Granja</named-content>
 de 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Luiz</named-content>
+<named-content content-type="collectorName">S. Luiz</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Cazengo</named-content>
+<named-content content-type="collectorName">Cazengo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9.XI.1919</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9.XI.1919</named-content>
 </named-content>
 (fl. buds), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gossweiler</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Gossweiler</named-content>
 5636
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cassualala</named-content>
+<tp:material-citation>
+<named-content content-type="location">Cassualala</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Cuanza Norte</named-content>
+<named-content content-type="collectingRegion">Cuanza Norte</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22.V.1921</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">22.V.1921</named-content>
 </named-content>
 (male fl. buds), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gossweiler</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Gossweiler</named-content>
 8311
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">P06600613</named-content>
+<named-content content-type="specimenCode">P06600613</named-content>
 );
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Cuanza Norte</named-content>
+<tp:material-citation>
+<named-content content-type="collectingRegion">Cuanza Norte</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Castendo</named-content>
+<named-content content-type="location">Castendo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16.X.1922</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">16.X.1922</named-content>
 </named-content>
 (bisexual fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gossweiler</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Gossweiler</named-content>
 8437
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BR</named-content>
+<named-content content-type="collectionCode">BR</named-content>
 );
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Hochland von Quela</named-content>
+<tp:material-citation>
+<named-content content-type="collectorName">Hochland von Quela</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1200 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">IX.1938</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">IX.1938</named-content>
 </named-content>
 (male fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nolde</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Nolde</named-content>
 827
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 ).
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Republic of the Congo</named-content>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
+<tp:material-citation>
+<named-content content-type="collectingCountry">
+<named-content content-type="emphasis">Republic of the Congo</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bas-Kouilou</named-content>
+<named-content content-type="location">Bas-Kouilou</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.I.1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.I.1991</named-content>
 </named-content>
 (st.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Dowsett-Lemaire</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectingMunicipality">Dowsett-Lemaire</named-content>
 1496
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BR</named-content>
+<named-content content-type="collectionCode">BR</named-content>
 ); Bas-Kouilou, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.IV.1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19.IV.1991</named-content>
 </named-content>
 (male fl. buds), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Dowsett- Lemaire 1583</named-content>
+<named-content content-type="emphasis">Dowsett- Lemaire 1583</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BR</named-content>
+<named-content content-type="collectionCode">BR</named-content>
 ).
 </tp:material-citation>
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--132-143-219-236-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--132-143-219-236-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1. — Morphological differences between 
-<!--template match = taxonomicName--><tp:taxon-name>Vepris africana</tp:taxon-name>
+<tp:taxon-name>Vepris africana</tp:taxon-name>
 (Hook.f.) O.Lachenaud &amp; Onana, 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 , 
-<!--template match = taxonomicName--><tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel) O.Lachenaud</tp:taxon-name>
+<tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel) O.Lachenaud</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 and 
-<!--template match = taxonomicName--><tp:taxon-name>V. welwitschii (Hiern) Exell</tp:taxon-name>
+<tp:taxon-name>V. welwitschii (Hiern) Exell</tp:taxon-name>
 (diagnostic characters are in bold; open flowers are not known in 
-<!--template match = taxonomicName--><tp:taxon-name>V. welwitschii</tp:taxon-name>
+<tp:taxon-name>V. welwitschii</tp:taxon-name>
 ).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e548">
-<!--template match = tr--><tr>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel)</tp:taxon-name>
+<p>
+<table id="d1e548">
+<tr>
+<td>
+<tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel)</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>
+<tr>
+<td>
 
-<!--template match = taxonomicName--><tp:taxon-name>V. africana</tp:taxon-name>
+<tp:taxon-name>V. africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 
 </td>
-<!--template match = td--><td>
+<td>
 
 O.Lachenaud, 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 
 </td>
-<!--template match = td--><td>
-<!--template match = taxonomicName--><tp:taxon-name>V. welwitschii</tp:taxon-name>
+<td>
+<tp:taxon-name>V. welwitschii</tp:taxon-name>
 </td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>petiole</td>
-<!--template match = td--><td>articulate</td>
-<!--template match = td--><td>not articulate</td>
-<!--template match = td--><td>articulate</td>
+<tr>
+<td>petiole</td>
+<td>articulate</td>
+<td>not articulate</td>
+<td>articulate</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>midrib (upper side)</td>
-<!--template match = td--><td>prominent</td>
-<!--template match = td--><td>canaliculate</td>
-<!--template match = td--><td>prominent</td>
+<tr>
+<td>midrib (upper side)</td>
+<td>prominent</td>
+<td>canaliculate</td>
+<td>prominent</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>secondary leaf veins</td>
-<!--template match = td--><td>16-23 pairs</td>
-<!--template match = td--><td>9-18 pairs</td>
-<!--template match = td--><td>14-18 pairs</td>
+<tr>
+<td>secondary leaf veins</td>
+<td>16-23 pairs</td>
+<td>9-18 pairs</td>
+<td>14-18 pairs</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>tertiary leaf venation</td>
-<!--template match = td--><td>subparallel</td>
-<!--template match = td--><td>reticulate</td>
-<!--template match = td--><td>reticulate</td>
+<tr>
+<td>tertiary leaf venation</td>
+<td>subparallel</td>
+<td>reticulate</td>
+<td>reticulate</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>male inflorescences</td>
-<!--template match = td--><td>paniculate (lateral branches</td>
-<!--template match = td--><td>thyrsoid (lateral branches</td>
-<!--template match = td--><td>unknown</td>
+<tr>
+<td>male inflorescences</td>
+<td>paniculate (lateral branches</td>
+<td>thyrsoid (lateral branches</td>
+<td>unknown</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>racemose)</td>
-<!--template match = td--><td>cymose)</td>
+<tr>
+<td>racemose)</td>
+<td>cymose)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>female (or bisexual) inflorescences</td>
-<!--template match = td--><td>many-flowered</td>
-<!--template match = td--><td>7- to 8-flowered</td>
-<!--template match = td--><td>many-flowered</td>
+<tr>
+<td>female (or bisexual) inflorescences</td>
+<td>many-flowered</td>
+<td>7- to 8-flowered</td>
+<td>many-flowered</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>pedicels</td>
-<!--template match = td--><td>0-0.5 mm</td>
-<!--template match = td--><td>1-4.5 mm</td>
-<!--template match = td--><td>1-2.5 mm</td>
+<tr>
+<td>pedicels</td>
+<td>0-0.5 mm</td>
+<td>1-4.5 mm</td>
+<td>1-2.5 mm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>corolla lobes</td>
-<!--template match = td--><td>patent to reflexed</td>
-<!--template match = td--><td>erect</td>
-<!--template match = td--><td>unknown</td>
+<tr>
+<td>corolla lobes</td>
+<td>patent to reflexed</td>
+<td>erect</td>
+<td>unknown</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>stamens</td>
-<!--template match = td--><td>4, always present</td>
-<!--template match = td--><td>8, present only in male flowers</td>
-<!--template match = td--><td>unknown</td>
+<tr>
+<td>stamens</td>
+<td>4, always present</td>
+<td>8, present only in male flowers</td>
+<td>unknown</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>intrastaminal disk (in male flowers)</td>
-<!--template match = td--><td>absent</td>
-<!--template match = td--><td>present, hirsute</td>
-<!--template match = td--><td>unknown</td>
+<tr>
+<td>intrastaminal disk (in male flowers)</td>
+<td>absent</td>
+<td>present, hirsute</td>
+<td>unknown</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>pistillode of male flowers</td>
-<!--template match = td--><td>longer than broad, linear at apex</td>
-<!--template match = td--><td>broader than long, umbonate</td>
-<!--template match = td--><td>unknown</td>
+<tr>
+<td>pistillode of male flowers</td>
+<td>longer than broad, linear at apex</td>
+<td>broader than long, umbonate</td>
+<td>unknown</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>ovary</td>
-<!--template match = td--><td>1-locular</td>
-<!--template match = td--><td>4- locular</td>
-<!--template match = td--><td>2-locular (one locule</td>
+<tr>
+<td>ovary</td>
+<td>1-locular</td>
+<td>4- locular</td>
+<td>2-locular (one locule</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>aborting in fruit)</td>
+<tr>
+<td>aborting in fruit)</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>fruit colour</td>
-<!--template match = td--><td>orange</td>
-<!--template match = td--><td>orange</td>
-<!--template match = td--><td>black</td>
+<tr>
+<td>fruit colour</td>
+<td>orange</td>
+<td>orange</td>
+<td>black</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>fruit shape and size</td>
-<!--template match = td--><td>ellipsoid to globose, 6-11.5 ×</td>
-<!--template match = td--><td>broader than long, 11-14 ×</td>
-<!--template match = td--><td>ellipsoid, 5-8 × 4-6.5 mm</td>
+<tr>
+<td>fruit shape and size</td>
+<td>ellipsoid to globose, 6-11.5 ×</td>
+<td>broader than long, 11-14 ×</td>
+<td>ellipsoid, 5-8 × 4-6.5 mm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>6-7.5 mm</td>
-<!--template match = td--><td>17-19 mm</td>
+<tr>
+<td>6-7.5 mm</td>
+<td>17-19 mm</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>distribution</td>
-<!--template match = td--><td>Gabon to Angola + São Tomé</td>
-<!--template match = td--><td>Guinea to W Ivory Coast</td>
-<!--template match = td--><td>Angola</td>
+<tr>
+<td>distribution</td>
+<td>Gabon to Angola + São Tomé</td>
+<td>Guinea to W Ivory Coast</td>
+<td>Angola</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Gabon</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Gabon</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">c.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 km</named-content>
+<named-content content-type="emphasis">c.</named-content>
+<named-content content-type="locationDeviation">
+<named-content content-type="quantity">12 km</named-content>
 NE of Libreville
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Forêt de la Mondah</named-content>
+<named-content content-type="location">Forêt de la Mondah</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°33’N</named-content>
+<named-content content-type="geoCoordinate">0°33’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9°22’E</named-content>
+<named-content content-type="geoCoordinate">9°22’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.I.1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28.I.1986</named-content>
 </named-content>
 (male fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.M. &amp; B. Reitsma</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">J.M. &amp; B. Reitsma</named-content>
 1775
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">LBV</named-content>
+<named-content content-type="collectionCode">LBV</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">P06600589</named-content>
+<named-content content-type="specimenCode">P06600589</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAG</named-content>
+<named-content content-type="collectionCode">WAG</named-content>
 );
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">c.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">6 km</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">c.</named-content>
+<named-content content-type="quantity">6 km</named-content>
 NE 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Malibé</named-content>
+<named-content content-type="location">Malibé</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°35’N</named-content>
+<named-content content-type="geoCoordinate">0°35’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9°26’E</named-content>
+<named-content content-type="geoCoordinate">9°26’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.XII.1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.XII.1986</named-content>
 </named-content>
 (fr.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.M. &amp; B. Reitsma</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">J.M. &amp; B. Reitsma</named-content>
 2742
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">LBV</named-content>
+<named-content content-type="collectionCode">LBV</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAG</named-content>
+<named-content content-type="collectionCode">WAG</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">North of Libreville</named-content>
+<tp:material-citation>
+<named-content content-type="location">North of Libreville</named-content>
 on Cape Esterias road, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°35’N</named-content>
+<named-content content-type="geoCoordinate">0°35’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9°25’E</named-content>
+<named-content content-type="geoCoordinate">9°25’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.VII.1986</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14.VII.1986</named-content>
 </named-content>
 (male fl. buds), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.W. Thomas</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">D.W. Thomas</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Wilks</named-content>
+<named-content content-type="collectorName">Wilks</named-content>
 6350
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">LBV</named-content>
+<named-content content-type="collectionCode">LBV</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAG</named-content>
+<named-content content-type="collectionCode">WAG</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Rivière Maliba</named-content>
+<tp:material-citation>
+<named-content content-type="location">Rivière Maliba</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26.III.1969</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">26.III.1969</named-content>
 </named-content>
 (male fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Villiers</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Villiers</named-content>
 54
 </named-content>
 (P06600612); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Rivière Maliba</named-content>
+<named-content content-type="collectingMunicipality">Rivière Maliba</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11.VI.1969</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11.VI.1969</named-content>
 </named-content>
 (male fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Villiers</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Villiers</named-content>
 111
 </named-content>
 (P06600614); village 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Maliba</named-content>
+<named-content content-type="collectingCounty">Maliba</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.IX.1969</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23.IX.1969</named-content>
 </named-content>
 (male fl.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Villiers</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Villiers</named-content>
 337
 </named-content>
 (P06600610).
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">São Tomé</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">São Tomé</named-content>
 </named-content>
 . near 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Morro Carregado</named-content>
+<named-content content-type="collectorName">Morro Carregado</named-content>
 , N coast, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°25’N</named-content>
+<named-content content-type="geoCoordinate">0°25’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6°37’E</named-content>
+<named-content content-type="geoCoordinate">6°37’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.II.1980</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13.II.1980</named-content>
 </named-content>
 (fr.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J.J.F.E. de Wilde</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">J.J.F.E. de Wilde</named-content>
 et al. 448
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BR</named-content>
+<named-content content-type="collectionCode">BR</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">WAG</named-content>
+<named-content content-type="collectionCode">WAG</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 chemin entre 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Plancas</named-content>
+<named-content content-type="collectorName">Plancas</named-content>
 1 et 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ribeira Funda</named-content>
+<named-content content-type="collectorName">Ribeira Funda</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°22.075’N</named-content>
+<named-content content-type="geoCoordinate">0°22.075’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6°35.784’E</named-content>
+<named-content content-type="geoCoordinate">6°35.784’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25.X.2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">25.X.2019</named-content>
 </named-content>
 (st.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lachenaud</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Lachenaud</named-content>
 et al. 2745
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MO</named-content>
+<named-content content-type="collectionCode">MO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">STPH</named-content>
+<named-content content-type="collectionCode">STPH</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 côte 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nord</named-content>
+<named-content content-type="collectorName">Nord</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">c.</named-content>
+<named-content content-type="emphasis">c.</named-content>
 0,75 km à l’est de 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lagoa Azul</named-content>
+<named-content content-type="collectorName">Lagoa Azul</named-content>
 vers 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Morro Peixe</named-content>
+<named-content content-type="collectorName">Morro Peixe</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">0°24.379’N</named-content>
+<named-content content-type="geoCoordinate">0°24.379’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6°36.961’E</named-content>
+<named-content content-type="geoCoordinate">6°36.961’E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.X.2019</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28.X.2019</named-content>
 </named-content>
 (fr. imm.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lachenaud</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Lachenaud</named-content>
 et al. 2768
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BR</named-content>
+<named-content content-type="collectionCode">BR</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BRLU</named-content>
+<named-content content-type="collectionCode">BRLU</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">COI</named-content>
+<named-content content-type="collectionCode">COI</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MO</named-content>
+<named-content content-type="collectionCode">MO</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">STPH</named-content>
+<named-content content-type="collectionCode">STPH</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 without locality or date (fr.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oliveira</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Oliveira</named-content>
 1657
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BRLU</named-content>
+<named-content content-type="collectionCode">BRLU</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Morro Barro Vermelho</named-content>
+<tp:material-citation>
+<named-content content-type="location">Morro Barro Vermelho</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">250 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">250 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10.I.1997</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10.I.1997</named-content>
 </named-content>
 (st.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Oliveira F</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Oliveira F</named-content>
 33
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BRLU</named-content>
+<named-content content-type="collectionCode">BRLU</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lobata</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCounty">Lobata</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lagoa Azul</named-content>
+<named-content content-type="collectingMunicipality">Lagoa Azul</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Imbondeiros</named-content>
+<named-content content-type="location">Imbondeiros</named-content>
 , zona norte da 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Praia das Conchas</named-content>
+<named-content content-type="location">Praia das Conchas</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9.III.2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">9.III.2018</named-content>
 </named-content>
 (fl. buds), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Paiva</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="taxonomicName">Paiva</named-content>
 et al. 288
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">COI</named-content>
+<named-content content-type="collectionCode">COI</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 without locality or date (st.), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Welwitsch</named-content>
+<named-content content-type="emphasis">
+<named-content content-type="collectorName">Welwitsch</named-content>
 6762
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BM</named-content>
+<named-content content-type="collectionCode">BM</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 PRELIMINARY CONSERVATION ASSESSMENT. — 
 
 Near-threatened
 .
 
-<!--template match = taxonomicName--><tp:taxon-name>Vepris africana</tp:taxon-name>
+<tp:taxon-name>Vepris africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 is a shrub occurring in 
 Central Africa
 (
@@ -728,26 +728,26 @@ São Tomé
 and Gabon, occurs in areas where deforestation for agriculture, charcoal production, and urban expansion is strong, leading to an observed decline in the extent and quality of the habitat and number of individuals. The number of locations (eleven) is just above the limit for Vulnerable status under the conditions B2ab(iii,v), and because some of them are likely to disappear in the near future, the species is assessed as Near-threatened.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>DESCRIPTION</p>
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>DESCRIPTION</p>
+<p>
 Shrub
 </p>
-<!--template match = paragraph--><p>
+<p>
 1-5 m
 high, much branched; all parts with slight citrus smell when crushed.
 </p>
-<!--template match = subSection--><sec>
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Twigs</title>
-<!--template match = paragraph--><p>
+<sec>
+<title>Twigs</title>
+<p>
 Cylindrical, 
 2-2.5 mm
 thick, glabrous, soon covered with a pale grey bark, with scattered lenticels.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Leaves
 </p>
-<!--template match = paragraph--><p>
+<p>
 Alternate or sometimes opposite near the apex of the twigs, unifoliolate, entirely glabrous; petiole 0.4-3(-5) cm long, canaliculate above, slightly bipulvinate, articulate at apex; lamina elliptic to slightly oblanceolate, 5.5-18.5 × 
 1.7-7.4 cm
 , cuneate at base, acuminate at apex, ± coriaceous, drying olive green to grey-brown; midrib slightly convex above; secondary veins 16- 23 pairs, weak and hardly distinct from the tertiaries, hardly ascending, forming regular arches 
@@ -757,14 +757,14 @@ c.
 1 mm
 wide; glandular dots dense and rather conspicuous on lower leaf surface,2-5 per mm².
 </p>
-<!--template match = paragraph--><p>
+<p>
 Flowers
 </p>
-<!--template match = paragraph--><p>Androdioecious.</p>
+<p>Androdioecious.</p>
 </sec>
-<!--template match = subSection--><sec>
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Male inflorescences</title>
-<!--template match = paragraph--><p>
+<sec>
+<title>Male inflorescences</title>
+<p>
 Axillary on young leafy twigs, 
 3-6 cm
 long, paniculate with flowers borne in distant glomerules along divaricate lateral branches up to 
@@ -774,9 +774,9 @@ long, the axes glabrous to puberulous; bracts ovate, minute, &lt;
 long.
 </p>
 </sec>
-<!--template match = subSection--><sec>
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Male flowers</title>
-<!--template match = paragraph--><p>
+<sec>
+<title>Male flowers</title>
+<p>
 4-merous; pedicel absent or very short, 
 0-0.5 mm
 , glabrous; calyx cupular, 1-1.3 × 
@@ -800,12 +800,12 @@ c.
 long, linear with inflated base, glabrous.
 </p>
 </sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--132-143-1940-1957-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--132-143-1940-1957-" fig-type="figure" position="float"><caption>
+<p>
 FIG. 1. — 
-<!--template match = taxonomicName--><tp:taxon-name>Vepris africana</tp:taxon-name>
+<tp:taxon-name>Vepris africana</tp:taxon-name>
 (Hook.f.) O.Lachenaud &amp; Onana, 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 : 
 A
 , twig with male inflorescences in bud; 
@@ -843,9 +843,9 @@ Nolde 827
 . Drawing: Antonio Fernandez. Scale bars: A, C, 4 cm; B, D, G, 5 mm; E, F, 2 mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4767579/files/figure.png"/></fig>
-<!--template match = subSection--><sec>
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Bisexual inflorescences</title>
-<!--template match = paragraph--><p>
+<sec>
+<title>Bisexual inflorescences</title>
+<p>
 Axillary and sometimes terminal on young leafy twigs, 
 0.5- 8 cm
 long, racemose or sometimes paniculate with short ramifications &lt;
@@ -856,9 +856,9 @@ c.
 .
 </p>
 </sec>
-<!--template match = subSection--><sec>
-<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Bisexual flowers</title>
-<!--template match = paragraph--><p>
+<sec>
+<title>Bisexual flowers</title>
+<p>
 4-merous, sessile; calyx cupular, 1.2-1.5 × 
 1.5-1.8 mm
 , truncate or with minute rounded lobes, glabrous except ciliolate margin; bud ellipsoid, 
@@ -876,10 +876,10 @@ c.
 0.8 mm
 broad.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Fruits
 </p>
-<!--template match = paragraph--><p>
+<p>
 Orange, ellipsoid to subglobose, 6-12 × 
 6-8 mm
 when dry (up to 15 × 
@@ -892,35 +892,35 @@ c.
 0.2 mm
 thick; seed solitary.
 </p>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>REMARKS</p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Vepris africana</tp:taxon-name>
+<tp:treatment-sec sec-type="discussion">
+<p>REMARKS</p>
+<p>
+<tp:taxon-name>Vepris africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 is unusual for the genus in being apparently androdioecious: in both 
 types
 of flowers the anthers are present and produce normal pollen; the ovary is normally developed in bisexual flowers but reduced to a pistillode in male flowers. The species is very similar to 
-<!--template match = taxonomicName--><tp:taxon-name>V. unifoliolata (Baill.) Labat, M.Pignal &amp; O.Pascal</tp:taxon-name>
+<tp:taxon-name>V. unifoliolata (Baill.) Labat, M.Pignal &amp; O.Pascal</tp:taxon-name>
 [syn. 
-<!--template match = taxonomicName--><tp:taxon-name>V. punctata (I.Verd.) Mziray</tp:taxon-name>
+<tp:taxon-name>V. punctata (I.Verd.) Mziray</tp:taxon-name>
 ] from the 
 Comoros
 and 
 Madagascar
 , which appears to differ only in its truly dioecious flowers – the female ones lacking anthers – and glabrous calyx margin. The differences between the two taxa are rather slight, in spite of their wide geographic disjunction, and they might perhaps be treated as subspecies of a single species – in which case 
-<!--template match = taxonomicName--><tp:taxon-name>V. africana</tp:taxon-name>
+<tp:taxon-name>V. africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 is the older name.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 The distribution of 
-<!--template match = taxonomicName--><tp:taxon-name>V. africana</tp:taxon-name>
+<tp:taxon-name>V. africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 is rather unusual, but no significant differences could be found between the collections from 
 São Tomé
 (with fruits only), 
@@ -936,10 +936,10 @@ São Tomé
 , a recent volcanic island never connected to the continent, probably originates from dispersal by frugivorous birds, or possibly by marine currents since the plant often grows near the coast. There is no reason to suspect an introduction by man, since it is not a ruderal plant and not reported to be cultivated.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 The original publication of 
-<!--template match = taxonomicName--><tp:taxon-name>Teclea gossweileri ( Verdoorn 1926 )</tp:taxon-name>
+<tp:taxon-name>Teclea gossweileri ( Verdoorn 1926 )</tp:taxon-name>
 does not specify the herbarium of deposit of the type, 
 Gossweiler 8328
 . However, there appears to be only 
@@ -947,30 +947,30 @@ one specimen
 of this number in Kew (consisting of two sheets labelled Sheet I and Sheet II) which is therefore to be regarded as the 
 holotype
 . No sheet of this number was found in BM, and 
-<!--template match = bibRefCitation--><xref rid="ref9351">Exell &amp; Mendonça (1951: 271)</xref>
+<xref rid="ref9351">Exell &amp; Mendonça (1951: 271)</xref>
 report none from Portuguese herbaria, from which they studied the material for their treatment.
 </p>
-<!--template match = paragraph--><p>
+<p>
 One of the Angolan collections(
 Gossweiler4799
 )referred to this species by 
-<!--template match = bibRefCitation--><xref rid="ref9351">Exell &amp; Mendonça (1951</xref>
+<xref rid="ref9351">Exell &amp; Mendonça (1951</xref>
 , as 
-<!--template match = taxonomicName--><tp:taxon-name>Teclea gossweileri</tp:taxon-name>
+<tp:taxon-name>Teclea gossweileri</tp:taxon-name>
 ) actually represents 
-<!--template match = taxonomicName--><tp:taxon-name>Vepris welwitschii</tp:taxon-name>
+<tp:taxon-name>Vepris welwitschii</tp:taxon-name>
 ; see under that species. Differences between 
-<!--template match = taxonomicName--><tp:taxon-name>V. africana</tp:taxon-name>
+<tp:taxon-name>V. africana</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 , 
-<!--template match = taxonomicName--><tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel) O.Lachenaud</tp:taxon-name>
+<tp:taxon-name>V. laurifolia (Hutch. &amp; Dalziel) O.Lachenaud</tp:taxon-name>
 , 
-<!--template match = taxonomicNameLabel-->comb. nov.
+comb. nov.
 and 
-<!--template match = taxonomicName--><tp:taxon-name>V. welwitschii</tp:taxon-name>
+<tp:taxon-name>V. welwitschii</tp:taxon-name>
 are summarised in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>

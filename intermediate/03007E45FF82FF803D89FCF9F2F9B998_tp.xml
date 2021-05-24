@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 6–13</xref>
+<xref rid="fig-">Figs. 6–13</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1501-1525-">15–19</xref>
+<xref rid="fig-5--151-264-1501-1525-">15–19</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983: 70</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983: 70</tp:taxon-name>
 , 76. 
 Holotype
 : 
@@ -30,13 +30,13 @@ Ya’an
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus umbonatus</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Fingulus umbonatus</tp:taxon-name>
 (non 
-<!--template match = bibRefCitation--><xref rid="ref6218">Stonedahl &amp; Cassis, 1991</xref>
+<xref rid="ref6218">Stonedahl &amp; Cassis, 1991</xref>
 ): 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Liu 
 et al.
 (2011: 8
@@ -46,8 +46,8 @@ et al.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus henrytomi Yasunaga &amp; Nakatani, 2018: 165</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Fingulus henrytomi Yasunaga &amp; Nakatani, 2018: 165</tp:taxon-name>
 . 
 Holotype
 : 
@@ -68,241 +68,241 @@ subjective synonym.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus ruficeps : Stonedahl &amp; Cassis (1991: 3</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Fingulus ruficeps : Stonedahl &amp; Cassis (1991: 3</tp:taxon-name>
 , 5) (as of unknown identity), Schuh (1995: 627) (catalogue), 
 
-<!--treatment-citation--><tp:nomenclature-citation>Zheng (1995: 460)</tp:nomenclature-citation>
+<tp:nomenclature-citation>Zheng (1995: 460)</tp:nomenclature-citation>
 
 (listed, distribution), 
 
-<!--treatment-citation--><tp:nomenclature-citation>Kerzhner &amp; Josifov (1999: 49)</tp:nomenclature-citation>
+<tp:nomenclature-citation>Kerzhner &amp; Josifov (1999: 49)</tp:nomenclature-citation>
 
 (catalogue), 
 
-<!--treatment-citation--><tp:nomenclature-citation>Hua (2000: 201)</tp:nomenclature-citation>
+<tp:nomenclature-citation>Hua (2000: 201)</tp:nomenclature-citation>
 
 (listed, distribution).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 
 Type material examined. 
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
+<tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
 .
 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 , “&lt;
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sichuan</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ya’an</named-content>
+<named-content content-type="collectingRegion">Sichuan</named-content>
+<named-content content-type="location">Ya’an</named-content>
 &gt; [ch, pr] \ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">800– 900m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">800– 900m</named-content>
 </named-content>
 [pr] \ 1963.VII. [pr] 4 [hw] \ &lt;
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tianjin</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Museum of Natural History</named-content>
+<named-content content-type="collectingCountry">Tianjin</named-content>
+<named-content content-type="collectingMunicipality">Museum of Natural History</named-content>
 &gt; [ch, pr]” [with pr horizontal line between lines #3 and #4], “&lt;collector: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Xiong Jiang</named-content>
+<named-content content-type="collectorName">Xiong Jiang</named-content>
 &gt;” [pr], “D1a” [hw], “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Fingulus</named-content>
+<named-content content-type="taxonomicName">Fingulus</named-content>
 [hw] \ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">ruficeps Hsiao</named-content>
+<named-content content-type="taxonomicName">ruficeps Hsiao</named-content>
 [hw] \ et Ren [hw] \ &lt;
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 identified 19&gt; [ch, pr] 81 [hw]” [red, with pr black frame]; mounted on triangle, tarsus of left hind leg, tibia and tarsus of right hind leg lacking (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 ) (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 6–11</named-content>
+<named-content content-type="figureCitation">Figs. 6–11</named-content>
 ).
 </tp:material-citation>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional specimens examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">CHINA</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">CHINA</named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ruili Rare Plants Botanical Garden</named-content>
+<named-content content-type="collectingCounty">Ruili Rare Plants Botanical Garden</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30.vii.2006</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">30.vii.2006</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Li</named-content>
+<named-content content-type="collectorName">M. Li</named-content>
 (1 ³ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 12, 13</named-content>
+<named-content content-type="figureCitation">Figs. 12, 13</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nanjian</named-content>
+<named-content content-type="collectorName">Nanjian</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Jianshan</named-content>
+<named-content content-type="collectingMunicipality">Jianshan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pingdi Village</named-content>
+<named-content content-type="location">Pingdi Village</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1500 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1500 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.vii.2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">2.vii.2001</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hainan</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Hainan</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Jianfeng</named-content>
+<named-content content-type="collectingMunicipality">Jianfeng</named-content>
 [= Jianfengling National Natural Reserve], 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tianchi</named-content>
+<named-content content-type="location">Tianchi</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.iv.1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">18.iv.1985</named-content>
 </named-content>
 , from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Ficus heteropleura</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Ficus heteropleura</named-content>
 </named-content>
 ?, leg. [L.Y.] 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zheng</named-content>
+<named-content content-type="collectorName">Zheng</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 same locality and collector, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.iv.1985</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19.iv.1985</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lingshui</named-content>
+<tp:material-citation>
+<named-content content-type="collectingMunicipality">Lingshui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Diaoluo</named-content>
+<named-content content-type="location">Mt. Diaoluo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">900 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">900 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.vi.2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1.vi.2007</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">X. Zhang</named-content>
+<named-content content-type="collectorName">X. Zhang</named-content>
 , det. as “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Fingulus umbonatus</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Stonedahl &amp; Cassis, 1991</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Fingulus umbonatus</named-content>
+<named-content content-type="bibRefCitation">Stonedahl &amp; Cassis, 1991</named-content>
 </named-content>
 ” by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jing-Yang Xu</named-content>
+<named-content content-type="collectorName">Jing-Yang Xu</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Fujian</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Fujian</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Nanjing</named-content>
+<named-content content-type="location">Nanjing</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.iv.1965</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">21.iv.1965</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L.C. Wang</named-content>
+<named-content content-type="collectorName">L.C. Wang</named-content>
 , det. as “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Fingulus</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Fingulus</named-content>
 </named-content>
 ? 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">ruficeps</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">ruficeps</named-content>
 Hsiao &amp; Ren
 </named-content>
 ” by 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">G. Stonedahl</named-content>
+<named-content content-type="collectorName">G. Stonedahl</named-content>
 , 1992 (1 ³ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingRegion">Zhejiang</named-content>
 </named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Fengyang</named-content>
+<named-content content-type="location">Mt. Fengyang</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.vii.2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29.vii.2007</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.B. Zhu</named-content>
+<named-content content-type="collectorName">W.B. Zhu</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 same but 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.viii.2007</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1.viii.2007</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.B. Zhu</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">et al.</named-content>
+<named-content content-type="collectorName">W.B. Zhu</named-content>
+<named-content content-type="emphasis">et al.</named-content>
 (1 ³ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Readily recognized by the combination of a whitish metathoracic scent gland peritreme (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1770-1794-">Fig. 11</xref>
+<xref rid="fig-4--151-264-1770-1794-">Fig. 11</xref>
 ) and the corium possessing an extensive pale spot in its proximal third (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1770-1794-">Figs. 8, 12</xref>
+<xref rid="fig-4--151-264-1770-1794-">Figs. 8, 12</xref>
 ). A more detailed comparison with its phylogenetically most closely related congeners is provided in the Discussion below and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 . The external male genitalia are illustrated in 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1501-1525-">Figs. 15–19</xref>
+<xref rid="fig-5--151-264-1501-1525-">Figs. 15–19</xref>
 ; the distal portion of the phallus (“vesica” of authors) is characterized by its lateral wall being sclerotized around a membranous apical portion and the presence of a small, membranous flap around its middle (
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1501-1525-">Figs. 18, 19</xref>
+<xref rid="fig-5--151-264-1501-1525-">Figs. 18, 19</xref>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 
 Distribution. 
 CHINA
@@ -322,85 +322,85 @@ Zhejiang
 JAPAN
 
 : Shikoku Is., Tsushima Is. (
-<!--template match = bibRefCitation--><xref rid="ref5894">Nakatani &amp; Yasunaga 2018</xref>
+<xref rid="ref5894">Nakatani &amp; Yasunaga 2018</xref>
 , as 
-<!--template match = taxonomicName--><tp:taxon-name>F. henrytomi</tp:taxon-name>
+<tp:taxon-name>F. henrytomi</tp:taxon-name>
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-264-1770-1794-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-264-1770-1794-" fig-type="figure" position="float"><caption>
+<p>
 
 FIGURES 8–14. 
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus</tp:taxon-name>
+<tp:taxon-name>Fingulus</tp:taxon-name>
 spp.
 
 8, 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
+<tp:taxon-name>F. ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
 , holotype, dorsal view; 9, same, lateral view; 10, same, ventral view; 11, same, metathorax, most exposed (ventrolateral) view; 12, 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 , a non-type male from Ruili, Yunnan, China, dorsal view; 13, same, lateral view (arrow shows tubercle of prosternal xiphus); 14, 
-<!--template match = taxonomicName--><tp:taxon-name>F. brevirostris Ren, 1983</tp:taxon-name>
+<tp:taxon-name>F. brevirostris Ren, 1983</tp:taxon-name>
 , holotype, metathorax, most exposed (ventrolateral) view. Scales in mm. © NKUM.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4563800/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Discussion.
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus ruficeps</tp:taxon-name>
+<tp:taxon-name>Fingulus ruficeps</tp:taxon-name>
 was described based on a single female (the 
 holotype
 ) from 
 Sichuan
 , 
 China(
-<!--template match = bibRefCitation--><xref rid="ref5314">Hsiao &amp; Ren 1983</xref>
+<xref rid="ref5314">Hsiao &amp; Ren 1983</xref>
 ). Although the original description states that it is deposited in the 
 Tianjin
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Museum of Natural History</named-content>
+<tp:material-citation>
+<named-content content-type="location">Museum of Natural History</named-content>
 , it is now found in 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NKUM</named-content>
+<named-content content-type="collectionCode">NKUM</named-content>
 and it was re-examined in course of the present study (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs. 6–11</named-content>
+<named-content content-type="figureCitation">Figs. 6–11</named-content>
 ). The line illustration of the head and prothorax of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">F. ruficeps</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">F. ruficeps</named-content>
 </named-content>
 accompanying its original description (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Hsiao &amp; Ren 1983: 71</named-content>
+<named-content content-type="bibRefCitation">Hsiao &amp; Ren 1983: 71</named-content>
 , fig. 3) is inaccurate in respect of proportions of the head and the position of the postocular furrow; a photo of the head of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 is herein provided (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 6</named-content>
+<named-content content-type="figureCitation">Fig. 6</named-content>
 ). 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Additional specimens</named-content>
+<named-content content-type="typeStatus">Additional specimens</named-content>
 of both sexes were examined from 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hainan</named-content>
+<named-content content-type="collectingRegion">Hainan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Fujian</named-content>
+<named-content content-type="collectingRegion">Fujian</named-content>
 and 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Zhejiang</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Provinces</named-content>
+<named-content content-type="collectingRegion">Zhejiang</named-content>
+<named-content content-type="collectingMunicipality">Provinces</named-content>
 of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingCountry">China</named-content>
 </tp:material-citation>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-264-1501-1525-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--151-264-1501-1525-" fig-type="figure" position="float"><caption>
+<p>
 
 FIGURES 15–19. External male genitalia of 
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
+<tp:taxon-name>Fingulus ruficeps Hsiao &amp; Ren, 1983</tp:taxon-name>
 .
 
 15, posterior portion of genital capsule, dorsal view; 16–17, left paramere in two different aspects; 18, phallus, left lateral view (ejaculatory duct detached immediately proximad of secondary gonopore and remained inside of phallotheca in repose); 19, distal portion of phallus, ventral view. Scales in mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4563804/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus henrytomi</tp:taxon-name>
+<p>
+<tp:taxon-name>Fingulus henrytomi</tp:taxon-name>
 was described based on a female 
 holotype
 from 
@@ -410,87 +410,87 @@ paratype
 from Tsushima Is., 
 Japan
 (
-<!--template match = bibRefCitation--><xref rid="ref5894">Nakatani &amp; Yasunaga 2018</xref>
+<xref rid="ref5894">Nakatani &amp; Yasunaga 2018</xref>
 ). Its authors did not compare it with 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 in their original description and diagnosis, apparently due to being unaware of the latter species. A comparison of the original description and illustrations of 
-<!--template match = taxonomicName--><tp:taxon-name>F. henrytomi</tp:taxon-name>
+<tp:taxon-name>F. henrytomi</tp:taxon-name>
 with the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 6–11</xref>
+<xref rid="fig-">Figs. 6–11</xref>
 ) left no doubt that the two species are conspecific, and accordingly their subjective synonymy is proposed here.
 </p>
-<!--template match = paragraph--><p>
+<p>
 This species is morphologically similar to 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris Miyamoto, 1965</tp:taxon-name>
+<tp:taxon-name>F. collaris Miyamoto, 1965</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>F. inflatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
+<tp:taxon-name>F. inflatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
 , and 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
+<tp:taxon-name>F. umbonatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
 (all distributed in East and Southeast Asia) and potentially belongs to the monophyletic clade formed by the above three species (cf. 
-<!--template match = bibRefCitation--><xref rid="ref6218">Stonedahl &amp; Cassis 1991: 52</xref>
+<xref rid="ref6218">Stonedahl &amp; Cassis 1991: 52</xref>
 , fig. 33). Among the Asian representatives of the genus only these four species possess a pale metathoracic scent gland peritreme conspicuously contrasting with the surrounding dark areas of the thoracic pleuron and possess a weakly developed tongue-like process at the apex of the ostiolar canal (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1770-1794-">Fig. 11</xref>
+<xref rid="fig-4--151-264-1770-1794-">Fig. 11</xref>
 ) (a peritreme with a well-developed example is shown in 
-<!--template match = bibRefCitation--><xref rid="ref6218">Stonedahl &amp; Cassis 1991: 7</xref>
+<xref rid="ref6218">Stonedahl &amp; Cassis 1991: 7</xref>
 , fig. 2); they also share a similar, relatively broad habitus, a head that is paler than the general body colour, and an impunctate (
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>F. inflatus</tp:taxon-name>
+<tp:taxon-name>F. inflatus</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 ) or very insignificantly punctate (
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 ) anterior collar of the pronotum. Based on the examination of the 
 holotype
 and non-types of 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 , non-types of 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>F. inflatus</tp:taxon-name>
+<tp:taxon-name>F. inflatus</tp:taxon-name>
 , and photographs of the 
 holotype
 of 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 (deposited in BPBM) (
-<!--template match = figureCitation--><xref rid="fig-6--151-264-1599-1623-">Figs. 20–23</xref>
+<xref rid="fig-6--151-264-1599-1623-">Figs. 20–23</xref>
 ), the skeletal diagnostic characters of these four species are summarized in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ; illustrations of their external male genitalia are found in the work of 
-<!--template match = bibRefCitation--><xref rid="ref6218">Stonedahl &amp; Cassis (1991)</xref>
+<xref rid="ref6218">Stonedahl &amp; Cassis (1991)</xref>
 and the present paper (
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1501-1525-">Figs. 15–19</xref>
+<xref rid="fig-5--151-264-1501-1525-">Figs. 15–19</xref>
 ).
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-6--151-264-1599-1623-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-6--151-264-1599-1623-" fig-type="figure" position="float"><caption>
+<p>
 
 FIGURES 20–23. Holotype of 
-<!--template match = taxonomicName--><tp:taxon-name>Fingulus umbonatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
+<tp:taxon-name>Fingulus umbonatus Stonedahl &amp; Cassis, 1991</tp:taxon-name>
 .
 
 20, dorsal view; 21, lateral view (arrow shows strongly prominent tubercle of prosternal xiphus); 22, frontal view; 23, labels. Scale in mm; labels not to scale. © BPBM, courtesy of D.A. Polhemus.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4563806/files/figure.png"/></fig>
-<!--template match = paragraph--><p>
+<p>
 The voucher specimens for the records of 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 from 
 China
 (
-<!--template match = bibRefCitation--><xref rid="ref5667">
+<xref rid="ref5667">
 Liu 
 et al.
 2011: 8
 </xref>
 ) (
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 : a female from 
 Hainan
 , Lingshui, Mt. Diaoluo, 
@@ -498,7 +498,7 @@ Hainan
 , 
 1.vi.2007
 , leg. X. Zhang; 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 : a male from 
 Zhejiang
 , Mt. Fengyang, 
@@ -510,17 +510,17 @@ Yunnan
 , 
 27.iv.1957
 , leg. L.C. Zang, coll. IZAS), are all now deposited in NKUM, have been re-examined in course of the present study, and revealed that the record of 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 pertains to 
-<!--template match = taxonomicName--><tp:taxon-name>F. ruficeps</tp:taxon-name>
+<tp:taxon-name>F. ruficeps</tp:taxon-name>
 , whilst that of 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 pertains to 
-<!--template match = taxonomicName--><tp:taxon-name>F. inflatus</tp:taxon-name>
+<tp:taxon-name>F. inflatus</tp:taxon-name>
 . No specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>F. umbonatus</tp:taxon-name>
+<tp:taxon-name>F. umbonatus</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>F. collaris</tp:taxon-name>
+<tp:taxon-name>F. collaris</tp:taxon-name>
 from 
 China
 have been seen, and therefore although they likely occur in subtropical and tropical areas of southern 

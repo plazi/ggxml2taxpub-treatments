@@ -1,151 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>† Andrusovia antecessor sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-11--151-250-1932-1956-">Fig. 4</xref>
+<tp:nomenclature><tp:taxon-name>† Andrusovia antecessor sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-11--151-250-1932-1956-">Fig. 4</xref>
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 urn:lsid:zoobank.org:act: 
 528249A2-5494-4E14-BA1F-4AB37949EA0D
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia brusinai Starobogatov, 2000</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Andrusovia brusinai Starobogatov, 2000</tp:taxon-name>
 — 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref32549">
+<tp:nomenclature-citation>
+<xref rid="ref32549">
 Neubauer 
 et al
 . 2018: 54–56
 </xref>
 </tp:nomenclature-citation>
 , fig. 6F–K, M, N [non 
-<!--template match = bibRefCitation--><xref rid="ref33581">Starobogatov, 2000</xref>
+<xref rid="ref33581">Starobogatov, 2000</xref>
 ].
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">RGM 1309839</named-content>
+<named-content content-type="specimenCode">RGM 1309839</named-content>
 : 1.81 x 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.80 mm</named-content>
+<named-content content-type="quantity">1.80 mm</named-content>
 (shell height x width; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 4b, c, h</named-content>
+<named-content content-type="figureCitation">Fig. 4b, c, h</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paratypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">RGM 1309840</named-content>
+<named-content content-type="specimenCode">RGM 1309840</named-content>
 : 1.52 x 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.44 mm</named-content>
+<named-content content-type="quantity">1.44 mm</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 4a, d, g</named-content>
+<named-content content-type="figureCitation">Fig. 4a, d, g</named-content>
 )
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">LV 201509</named-content>
+<tp:material-citation>
+<named-content content-type="accessionNumber">LV 201509</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MSU</named-content>
+<named-content content-type="collectionCode">MSU</named-content>
 ): 1.54 x 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1.55 mm</named-content>
+<named-content content-type="quantity">1.55 mm</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 4e, f, i</named-content>
+<named-content content-type="figureCitation">Fig. 4e, f, i</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="typeStatus">Type</named-content>
 locality.
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Selitrennoye</named-content>
+<named-content content-type="location">Selitrennoye</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Astrakhan region</named-content>
+<named-content content-type="collectingRegion">Astrakhan region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+<named-content content-type="collectingCountry">Russia</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+<named-content content-type="tableCitation">Table 1</named-content>
 , locality 1); 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">northern Caspian Basin</named-content>
+<named-content content-type="collectingMunicipality">northern Caspian Basin</named-content>
 ; GPS coordinates: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">47°10’21.19”N</named-content>
+<named-content content-type="geoCoordinate">47°10’21.19”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">47°26’25.41”E</named-content>
+<named-content content-type="geoCoordinate">47°26’25.41”E</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">WGS84</named-content>
+<named-content content-type="specimenCode">WGS84</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Age.
 Hyrcanian, early Late Pleistocene, c. 107 ± 7 ka (
-<!--template match = bibRefCitation--><xref rid="ref34097">
+<xref rid="ref34097">
 van de Velde 
 et al
 . 2020
 </xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Other material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">36 specimens</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">36 specimens</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">RGM 1310206</named-content>
+<named-content content-type="specimenCode">RGM 1310206</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Etymology.
 Referring to the supposed position as predecessor to modern 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia</tp:taxon-name>
+<tp:taxon-name>Andrusovia</tp:taxon-name>
 . The name is a noun in apposition.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 Low trochiform, conical, comparably large 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia</tp:taxon-name>
+<tp:taxon-name>Andrusovia</tp:taxon-name>
 with up to four well rounded whorls, wide umbilicus, broadly ovoid aperture, weakly sinuate and weakly thickened peristome.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1932-1956-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-11--151-250-1932-1956-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 4.
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
+<tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 from the early Late Pleistocene of Selitrennoye, Astrakhan region, Russia (locality 1). (a, d, g) Paratype (RGM 1309840). (b, c, h) Holotype (RGM 1309839). (e, f, i) Paratype (LV 201509). Scale bars = 500 μm (a–f), 100 μm (g–i).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550158/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 
 Description (emended from 
-<!--template match = bibRefCitation--><xref rid="ref32549">
+<xref rid="ref32549">
 Neubauer 
 et al
 . 2018
@@ -155,69 +155,69 @@ et al
 Shell broad trochiform, about as high as wide, with up to 4 whorls. Rarely, specimens with slightly elevated spire occur. Protoconch high domical, about semi-circular in profile; initial part immersed; consists of 1.1 whorls, measuring 300 μm in diameter; nucleus about 90 μm wide; protoconch surface finely but strongly malleate near lower suture, rest appears eroded; P/T boundary sharp, marked by massive growth constrictions near lower suture. Teleoconch whorls highly convex, with maximum convexity in adapical half, producing slightly stepped spire. Last whorl attains 74–81% of shell height. Aperture broadly ovoid, slightly inclined, with faint concavity at contact to penultimate whorl. Peristome slightly thickened and expanded at columella and base; sinuate in lateral view, with weakly protruding central part and weak adapical indentation. Umbilicus wide, deep. Fine prosocyrt growth lines cover shell. On one specimen, traces of spiral threads occur on base.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = bibRefCitation--><xref rid="ref32549">
+<xref rid="ref32549">
 Neubauer 
 et al
 . (2018)
 </xref>
 wrongfully attributed this species to the extant 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia brusinai</tp:taxon-name>
+<tp:taxon-name>Andrusovia brusinai</tp:taxon-name>
 , which is here considered a junior synonym of 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia dybowskii</tp:taxon-name>
+<tp:taxon-name>Andrusovia dybowskii</tp:taxon-name>
 (see above). 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
+<tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 differs from that species in the larger size, the more whorls while having an equally small (compared to subfossil shells) or smaller (relative to recent shells) protoconch, the more regular coiling resulting in a perfectly conical shape, and the rounded whorls. The overall similarity (and the lack of other known species) suggests that both species are closely related; given the age, 
-<!--template match = taxonomicName--><tp:taxon-name>A. antecessor</tp:taxon-name>
+<tp:taxon-name>A. antecessor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 might be a phylogenetic predecessor of 
-<!--template match = taxonomicName--><tp:taxon-name>A. dybowskii</tp:taxon-name>
+<tp:taxon-name>A. dybowskii</tp:taxon-name>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 The smaller protoconch (and thus smaller hatching size) combined with a larger adult size of 
-<!--template match = taxonomicName--><tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
+<tp:taxon-name>Andrusovia antecessor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 compared to modern 
-<!--template match = taxonomicName--><tp:taxon-name>A. dybowskii</tp:taxon-name>
+<tp:taxon-name>A. dybowskii</tp:taxon-name>
 suggests a faster growth rate or, alternatively, a longer lifetime. Growth rates in gastropods typically correlate positively with temperature (e.g. 
-<!--template match = bibRefCitation--><xref rid="ref31352">Kevrekidis &amp; Wilke 2005</xref>
+<xref rid="ref31352">Kevrekidis &amp; Wilke 2005</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref33310">
+<xref rid="ref33310">
 Shanahan 
 et al
 . 2005
 </xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref32321">
+<xref rid="ref32321">
 McCreesh 
 et al
 . 2014
 </xref>
 ). Similarly, the time of hatching can occur earlier under warmer conditions (
-<!--template match = bibRefCitation--><xref rid="ref29851">
+<xref rid="ref29851">
 Cancino 
 et al
 . 2003
 </xref>
 ). The scenario of an increased growth rate in 
-<!--template match = taxonomicName--><tp:taxon-name>A. antecessor</tp:taxon-name>
+<tp:taxon-name>A. antecessor</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 as a function of temperature fits well to the supposed warmer climate during the Hyrcanian (
-<!--template match = bibRefCitation--><xref rid="ref34506">Yanina 2014</xref>
+<xref rid="ref34506">Yanina 2014</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref31554">
+<xref rid="ref31554">
 Krijgsman 
 et al
 . 2019
@@ -225,15 +225,15 @@ et al
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Endemic to the Caspian Sea, known only from the Late Pleistocene strata of the 
 type
 locality. Reconstructions of the paleoecology suggest a shallow (
 15–25 m
 ), lower mesohaline (5–8 psu) open lake environment (
-<!--template match = bibRefCitation--><xref rid="ref34097">
+<xref rid="ref34097">
 van de Velde 
 et al
 . 2020

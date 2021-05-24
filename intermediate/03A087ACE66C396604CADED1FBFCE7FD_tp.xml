@@ -1,239 +1,239 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Eupronoe minuta Claus, 1879<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Eupronoe minuta Claus, 1879<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Eupronoe minuta Claus, 1879: 28</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Eupronoe minuta Claus, 1879: 28</tp:taxon-name>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8692">Siegel-Causey, 1982: 275</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8692">Siegel-Causey, 1982: 275</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8899">
+<tp:nomenclature-citation>
+<xref rid="ref8899">
 Vinogradov 
 et al
 ., 1996: 448
 </xref>
 </tp:nomenclature-citation>
 (key), 449, fig. 195; 
-<!--template match = bibRefCitation--><xref rid="ref7747">Gasca, 2009</xref>
+<xref rid="ref7747">Gasca, 2009</xref>
 b: 87 (table 1); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8125">
+<tp:nomenclature-citation>
+<xref rid="ref8125">
 Gasca 
 et al
 ., 2010: 933
 </xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8038">2012: 126</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8038">2012: 126</xref>
 </tp:nomenclature-citation>
 (
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 ); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8469">Lavaniegos &amp; Hereu, 2009: 139–147</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8469">Lavaniegos &amp; Hereu, 2009: 139–147</xref>
 </tp:nomenclature-citation>
 (passim), 142 (table 1), 152 (Appendix 1); 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8364">Lavaniegos, 2014: 1–8</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8364">Lavaniegos, 2014: 1–8</xref>
 </tp:nomenclature-citation>
 (passim), 4 (table 1), 10 (table 4); 2017: 13–24 (passim), 18 (table 2).
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined
 . 5M and 21F from 8 stations. (
-<!--template match = figureCitation--><xref rid="fig-6--151-264-1943-1967-">Fig.3</xref>
+<xref rid="fig-6--151-264-1943-1967-">Fig.3</xref>
 ). 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TALUD</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">TALUD</named-content>
 I. St. 5 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">23°16’N</named-content>
+<named-content content-type="geoCoordinate">23°16’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">107°31’W</named-content>
+<named-content content-type="geoCoordinate">107°31’W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">December 12, 1989</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">December 12, 1989</named-content>
 </named-content>
 </tp:material-citation>
 , 1M, BO, surface to ca. 
 200 m
 (ICML-EMU-12768-A). 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TALUD III</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">TALUD III</named-content>
 . St. 3B (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">22°36’36”N</named-content>
+<named-content content-type="geoCoordinate">22°36’36”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">106°35’54”W</named-content>
+<named-content content-type="geoCoordinate">106°35’54”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">August 17, 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">August 17, 1991</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 1M, 1F, I-K from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">275 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">275 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="collectionCode">TD</named-content>
 ND) (ICML-EMU-12768-B); St. 10B (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">23°43’24”N</named-content>
+<named-content content-type="geoCoordinate">23°43’24”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">107°39’06”W</named-content>
+<named-content content-type="geoCoordinate">107°39’06”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">August 18, 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">August 18, 1991</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 2M, 6F, I-K from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">630 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">630 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="collectionCode">TD</named-content>
 ND) (ECO-CH-Z-10369); St. 19B (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">25°18’24”N</named-content>
+<named-content content-type="geoCoordinate">25°18’24”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">109°18’36”W</named-content>
+<named-content content-type="geoCoordinate">109°18’36”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">August 20, 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">August 20, 1991</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 6F, I-K from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">600 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">600 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1890 m</named-content>
+<named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1890 m</named-content>
 </named-content>
 ) (ICML-EMU-12768- C); St. 25A1 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">25°51’00”N</named-content>
+<named-content content-type="geoCoordinate">25°51’00”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">109°57’00”W</named-content>
+<named-content content-type="geoCoordinate">109°57’00”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">August 21, 1991</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">August 21, 1991</named-content>
 </named-content>
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
+<tp:material-citation>
 3 F, I-K from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">200 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2000 m</named-content>
+<named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2000 m</named-content>
 </named-content>
 ) (ICML- EMU-12768-D)
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TALUD IV</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">TALUD IV</named-content>
 . St. 7 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">22°00’22”N</named-content>
+<named-content content-type="geoCoordinate">22°00’22”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">106°49’18”W</named-content>
+<named-content content-type="geoCoordinate">106°49’18”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">August 23, 2000</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">August 23, 2000</named-content>
 </named-content>
 </tp:material-citation>
 , 1F, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MN</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">MN</named-content>
 from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">500 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">500 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1970 m</named-content>
+<named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1970 m</named-content>
 </named-content>
 ) (ICML-EMU-12769-A)
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TALUD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">TALUD</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 . St. 7 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">22°21’39”N</named-content>
+<named-content content-type="geoCoordinate">22°21’39”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">107°01’42”W</named-content>
+<named-content content-type="geoCoordinate">107°01’42”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">March 14, 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">March 14, 2001</named-content>
 </named-content>
 </tp:material-citation>
 , 2F, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MN</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">MN</named-content>
 from surface to 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1305 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1305 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2100 m</named-content>
+<named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2100 m</named-content>
 </named-content>
 ) (ICML-EMU-12769-B)
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TALUD VII</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">TALUD VII</named-content>
 . St. 29 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">25°18’02”N</named-content>
+<named-content content-type="geoCoordinate">25°18’02”N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">109°24’09”W</named-content>
+<named-content content-type="geoCoordinate">109°24’09”W</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">June 8, 2001</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">June 8, 2001</named-content>
 </named-content>
 </tp:material-citation>
 , 2F, 1M, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MN</named-content>
+<tp:material-citation>
+<named-content content-type="collectionCode">MN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1335 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1335 m</named-content>
 </named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TD</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2080 m</named-content>
+<named-content content-type="collectionCode">TD</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2080 m</named-content>
 </named-content>
 ) (ECO-CH-Z-10370)
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution
 . Cosmopolitan. Epipelagic in tropical and temperate areas (
-<!--template match = bibRefCitation--><xref rid="ref8899">
+<xref rid="ref8899">
 Vinogradov 
 et al
 . 1996
@@ -241,23 +241,23 @@ et al
 ). In the eastern Pacific it is known from the Gulf of 
 California
 (
-<!--template match = bibRefCitation--><xref rid="ref7455">Brusca &amp; Hendrickx 2005</xref>
+<xref rid="ref7455">Brusca &amp; Hendrickx 2005</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref7704">Garcia-Madrigal 2007</xref>
+<xref rid="ref7704">Garcia-Madrigal 2007</xref>
 ) and has been reported as ‘very common’ along the west coast of the 
 Baja California
 Peninsula (
-<!--template match = bibRefCitation--><xref rid="ref8469">Lavaniegos &amp; Hereu 2009</xref>
+<xref rid="ref8469">Lavaniegos &amp; Hereu 2009</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref8364">Lavaniegos 2014</xref>
+<xref rid="ref8364">Lavaniegos 2014</xref>
 , 
-<!--template match = bibRefCitation--><xref rid="ref8415">2017</xref>
+<xref rid="ref8415">2017</xref>
 ); its known distribution stretches south to off 
 Jalisco
 and 
 Colima
 (
-<!--template match = bibRefCitation--><xref rid="ref8038">
+<xref rid="ref8038">
 Gasca 
 et al
 . 2012
@@ -265,15 +265,15 @@ et al
 ).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks
 . According to 
-<!--template match = bibRefCitation--><xref rid="ref8692">Siegel-Causey (1982)</xref>
+<xref rid="ref8692">Siegel-Causey (1982)</xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref7567">Brusca &amp; Hendrickx (2008</xref>
+<xref rid="ref7567">Brusca &amp; Hendrickx (2008</xref>
 onwards), 
-<!--template match = taxonomicName--><tp:taxon-name>E. minuta</tp:taxon-name>
+<tp:taxon-name>E. minuta</tp:taxon-name>
 is widely distributed in the Gulf of 
 California
 , where it occurs from 
@@ -283,17 +283,17 @@ California
 in the southwestern Gulf (TALUD VI. St. 7 record). Our material, however, did not include specimens from the northern Gulf and all samples were taken south of 
 25°51’00”N
 (
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1943-1967-">Fig. 2</xref>
+<xref rid="fig-5--151-264-1943-1967-">Fig. 2</xref>
 ). This species is the smallest in the genus, with adult reaching 
 6‒8 mm
 of total length. The specimens examined herein feature especially long dactyls on pereopods III and IV. Indeed, in some specimens, particularly in some females, dactyls are up to 85% as long as propodus. This is much longer that what has been reported in the original description (
-<!--template match = bibRefCitation--><xref rid="ref7625">Claus 1879</xref>
+<xref rid="ref7625">Claus 1879</xref>
 ) and in subsequent contributions by Vinogradov 
 et al.
 (1986) and 
-<!--template match = bibRefCitation--><xref rid="ref9103">Zeidler (1998)</xref>
+<xref rid="ref9103">Zeidler (1998)</xref>
 (i.e., less than 50%). However, among our specimens some fit well with this feature (i.e., dactyls less that 50% of propodus length) and this could therefore represent a variation within 
-<!--template match = taxonomicName--><tp:taxon-name>E. minuta</tp:taxon-name>
+<tp:taxon-name>E. minuta</tp:taxon-name>
 adult population or an ontogenic variation.
 </p>
 </tp:treatment-sec>

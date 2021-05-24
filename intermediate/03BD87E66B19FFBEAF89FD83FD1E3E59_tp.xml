@@ -1,849 +1,849 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera rufodorsata ( Fairmaire, 1888 ) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
-<!--template match = figureCitation--><xref rid="fig-122--151-250-1642-1666-">Figures 26</xref>
+<tp:nomenclature><tp:taxon-name>Maladera rufodorsata ( Fairmaire, 1888 ) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
+<xref rid="fig-122--151-250-1642-1666-">Figures 26</xref>
 A–D, 99
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Homaloplia rufodorsata Fairmaire, 1888 a: 19</tp:taxon-name>
+<tp:treatment-sec sec-type="reference_group">
+<p>
+<tp:taxon-name>Homaloplia rufodorsata Fairmaire, 1888 a: 19</tp:taxon-name>
 .
 </p>
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Autoserica rufodorsata : Brenske 1902: 49</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Autoserica rufodorsata : Brenske 1902: 49</tp:taxon-name>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Maladera rufodorsata: Ahrens 2004a: 205</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Maladera rufodorsata: Ahrens 2004a: 205</tp:taxon-name>
 , 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 24</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330155">2007b: 24</xref>
 </tp:nomenclature-citation>
 ; 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref330518">Ahrens &amp; Fabrizi 2016: 138</xref>
+<tp:nomenclature-citation>
+<xref rid="ref330518">Ahrens &amp; Fabrizi 2016: 138</xref>
 </tp:nomenclature-citation>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Type material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Syntypes</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">rufodorsata</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">rufodorsata</named-content>
 </named-content>
 ): 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Homaloplia rufodorsata</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Homaloplia rufodorsata</named-content>
 Fairmaire Kiangsi
 </named-content>
 / 112/ Museum Paris 1904 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Leon Fairmaire</named-content>
+<named-content content-type="collectorName">Coll. Leon Fairmaire</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 )
 </tp:material-citation>
 , 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♀♀</named-content>
+<named-content content-type="specimenCount">3 ♀♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Homaloplia rufodorsata</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Homaloplia rufodorsata</named-content>
 Fairmaire Kiangsi
 </named-content>
 [handwritten Fairmaire]/ 112/ Museum Paris 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Léon Fairmaire</named-content>
+<named-content content-type="collectorName">Coll. Léon Fairmaire</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 with original labels, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀♀</named-content>
+<named-content content-type="specimenCount">♀♀</named-content>
 at the same pin, subsequently labelled by us), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂♂</named-content>
+<named-content content-type="specimenCount">3 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “Yunan/ Museum Paris 1906 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Léon Fairmaire</named-content>
+<named-content content-type="collectorName">Coll. Léon Fairmaire</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 with original labels, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 , at the same pin, subsequently labelled by us), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “Yunan” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 )
 </tp:material-citation>
 . 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Syntypes</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">satrapa</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">satrapa</named-content>
 </named-content>
 ): 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “Carin Asciuti Ghecù 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1400-1500 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1400-1500 m</named-content>
 </named-content>
 . 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. Fea</named-content>
+<named-content content-type="collectorName">L. Fea</named-content>
 III-IV.88/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Serica satrapa Typ. Brsk.</named-content>
+<named-content content-type="taxonomicName">Serica satrapa Typ. Brsk.</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Brenske</named-content>
+<named-content content-type="collectorName">Coll. Brenske</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “Carin Cheba 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">900-1100 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">900-1100 m</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. Fea</named-content>
+<named-content content-type="collectorName">L. Fea</named-content>
 V.XII-88/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Serica satrapa</named-content>
+<named-content content-type="taxonomicName">
+<named-content content-type="emphasis">Serica satrapa</named-content>
 Typ. Brsk.
 </named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MSNG</named-content>
+<named-content content-type="collectionCode">MSNG</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Additional material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">China</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ex.</named-content>
+<named-content content-type="specimenCount">5 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. R. I. Sc. N. B. Chine</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectorName">Coll. R. I. Sc. N. B. Chine</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 fou/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Ley</named-content>
+<named-content content-type="collectorName">R. Ley</named-content>
 coll. Le Moult vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">12 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">12 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. R. I. Sc. N. B. Chine</named-content>
+<named-content content-type="collectorName">Coll. R. I. Sc. N. B. Chine</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tchao Pin-io China Le Moult</named-content>
+<named-content content-type="location">Tchao Pin-io China Le Moult</named-content>
 vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">5 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 ) “Yünnan China” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CF</named-content>
+<named-content content-type="collectionCode">CF</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">China</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">4 ex.</named-content>
 “Tchao Pin Io Chine” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+<named-content content-type="collectionCode">ZMHB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll.R.I.Sc.N.B. Chine</named-content>
+<named-content content-type="collectorName">Coll.R.I.Sc.N.B. Chine</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 Sen/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
+<named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
 vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll.R.I.Sc. N.B. Chine</named-content>
+<named-content content-type="collectorName">Coll.R.I.Sc. N.B. Chine</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sud</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">Sud</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 Tche-Ping-Tcheou/ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
+<named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
 vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll.R.I.Sc.N.B. Chine</named-content>
+<named-content content-type="collectorName">Coll.R.I.Sc.N.B. Chine</named-content>
 / Hang-Kia-Pin alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1400 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1400 m</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ouest</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">Ouest</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
+<named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
 vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll.R.I.Sc. N.B. Chine</named-content>
+<named-content content-type="collectorName">Coll.R.I.Sc. N.B. Chine</named-content>
 / Dji-Lou-La alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1200 m</named-content>
 </named-content>
 . Nord Ouest 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
+<named-content content-type="collectorName">Coll. P. Guerry Le Moult</named-content>
 vendit” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+<named-content content-type="collectionCode">ISNB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China. Prov.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">China. Prov.</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 . Vallis flumin, Soling-ho./ Brit. Mus. 1947-67” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">China</named-content>
+<named-content content-type="collectingMunicipality">China</named-content>
 , W. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tengchong</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="location">Tengchong</named-content>
 env. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10-13.VI.1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10-13.VI.1993</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Jendek</named-content>
+<named-content content-type="collectorName">E. Jendek</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">O. Šauša</named-content>
+<named-content content-type="collectorName">O. Šauša</named-content>
 leg./ CS 75” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CPPB</named-content>
+<named-content content-type="collectionCode">CPPB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">40 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">40 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">China-Yunnan</named-content>
+<named-content content-type="collectingMunicipality">China-Yunnan</named-content>
 env. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tengchong</named-content>
+<named-content content-type="location">Tengchong</named-content>
 10.- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.6.1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">13.6.1993</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Jendek</named-content>
+<named-content content-type="collectorName">E. Jendek</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">O. Šauša</named-content>
+<named-content content-type="collectorName">O. Šauša</named-content>
 leg. [sic]” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMW</named-content>
+<named-content content-type="collectionCode">NHMW</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">12 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">12 ex.</named-content>
 “Yunan” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">22 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">22 ex.</named-content>
 “Yunan” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">50 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">50 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Chine</named-content>
+<named-content content-type="collectorName">Chine</named-content>
 Yunnan 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Rec. de Lou-Nan</named-content>
+<named-content content-type="collectingMunicipality">Rec. de Lou-Nan</named-content>
 1931” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">4 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chine Kouy-Tchéou</named-content>
+<named-content content-type="location">Chine Kouy-Tchéou</named-content>
 R.P.J. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Esquirol</named-content>
+<named-content content-type="collectorName">Esquirol</named-content>
 1918” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kouy-Tchéou R.P.J.R. Chaffanjen</named-content>
+<named-content content-type="collectorName">Kouy-Tchéou R.P.J.R. Chaffanjen</named-content>
 1903” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 ex.</named-content>
 “Museum Paris, Kouy-Tchéou, Rég. de Pin-Fa, Pére Cavalerie 1908” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">4 ex.</named-content>
 “Museum Paris, Kouy-Tchéou, Pére Cavalerie 1910” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">5 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">China, W</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectorName">China, W</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 Tengchong env. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10-13.VI.1993</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10-13.VI.1993</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Jendek</named-content>
+<named-content content-type="collectorName">E. Jendek</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">O. Šauša</named-content>
+<named-content content-type="collectorName">O. Šauša</named-content>
 leg.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+<named-content content-type="collectionCode">CP</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S China</named-content>
+<named-content content-type="collectorName">S China</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan prov.</named-content>
+<named-content content-type="collectingRegion">Yunnan prov.</named-content>
 , mts. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">20km</named-content>
+<named-content content-type="quantity">20km</named-content>
 SW 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Baoshan</named-content>
+<named-content content-type="location">Baoshan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2400m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">2400m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.-25.v.2006</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23.-25.v.2006</named-content>
 </named-content>
 leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Murzin</named-content>
+<named-content content-type="collectorName">S. Murzin</named-content>
 &amp; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">I. Shokin</named-content>
+<named-content content-type="collectorName">I. Shokin</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+<named-content content-type="collectionCode">CP</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Dongjiafen</named-content>
+<named-content content-type="collectingCounty">Dongjiafen</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Jingdong</named-content>
+<named-content content-type="collectingMunicipality">Jingdong</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.VI.1956</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.VI.1956</named-content>
 </named-content>
 , 1250m, leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">А. Schnitnikov</named-content>
+<named-content content-type="collectorName">А. Schnitnikov</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Menghun</named-content>
+<named-content content-type="location">Menghun</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xishuangbanna</named-content>
+<named-content content-type="location">Xishuangbanna</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">13.VI.</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1958, 650m</named-content>
+<named-content content-type="date">13.VI.</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1958, 650m</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zheng Leyi</named-content>
+<named-content content-type="collectorName">Zheng Leyi</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Meng’e</named-content>
+<named-content content-type="collectingMunicipality">Meng’e</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xishuangbanna</named-content>
+<named-content content-type="location">Xishuangbanna</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.V.1958</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">23.V.1958</named-content>
 </named-content>
 , 1050- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1080m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1080m</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zhang Yiran</named-content>
+<named-content content-type="collectorName">Zhang Yiran</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Hedongjie</named-content>
+<named-content content-type="collectingCounty">Hedongjie</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Jingdong</named-content>
+<named-content content-type="collectingMunicipality">Jingdong</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.IV.1957</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">29.IV.1957</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zhu Zeng</named-content>
+<named-content content-type="collectorName">Zhu Zeng</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+<named-content content-type="collectionCode">IZAS</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Menghai</named-content>
+<named-content content-type="location">Menghai</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<named-content content-type="collectingRegion">Yunnan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.IV.1982</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17.IV.1982</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Wang Sumei</named-content>
+<named-content content-type="collectorName">Wang Sumei</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zhou</named-content>
+<named-content content-type="collectorName">Zhou</named-content>
 Jingruo” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNAFU</named-content>
+<named-content content-type="collectionCode">MNAFU</named-content>
 ).
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Laos</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Laos</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ex.</named-content>
+<named-content content-type="specimenCount">2 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xim Khonang</named-content>
+<named-content content-type="location">Xim Khonang</named-content>
 20.IV.60 Laos (Bandon)” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 ) “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laos</named-content>
+<named-content content-type="location">Laos</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10-16.v.1999</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">10-16.v.1999</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Louangphrabang</named-content>
+<named-content content-type="collectingRegion">Louangphrabang</named-content>
 pr. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°33‘-4‘N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">102°14‘E</named-content>
+<named-content content-type="geoCoordinate">20°33‘-4‘N</named-content>
+<named-content content-type="geoCoordinate">102°14‘E</named-content>
 , BanSongCha (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5 km</named-content>
+<named-content content-type="quantity">5 km</named-content>
 W), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1200 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vit Kuban</named-content>
+<named-content content-type="collectorName">Vit Kuban</named-content>
 leg.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CPPB</named-content>
+<named-content content-type="collectionCode">CPPB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 ♀♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">10 ♀♀</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Laos</named-content>
+<named-content content-type="collectingMunicipality">Laos</named-content>
 N, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.iv.-16.v.1999</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">24.iv.-16.v.1999</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Louang Phrabang prov.</named-content>
+<named-content content-type="location">Louang Phrabang prov.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°33‘ N</named-content>
+<named-content content-type="geoCoordinate">20°33‘ N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">102°14‘ E</named-content>
+<named-content content-type="geoCoordinate">102°14‘ E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ban Song Cha</named-content>
+<named-content content-type="collectorName">Ban Song Cha</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">5km</named-content>
+<named-content content-type="quantity">5km</named-content>
 W), 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1200 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Holzschuch</named-content>
+<named-content content-type="collectorName">C. Holzschuch</named-content>
 leg.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CPPB</named-content>
+<named-content content-type="collectionCode">CPPB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ♂♂</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laos</named-content>
+<named-content content-type="location">Laos</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Phongsaly prov.</named-content>
+<named-content content-type="collectingRegion">Phongsaly prov.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">21°41‘ N</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">102°6-8‘ E</named-content>
+<named-content content-type="geoCoordinate">21°41‘ N</named-content>
+<named-content content-type="geoCoordinate">102°6-8‘ E</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.v.-20.vi.2003</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">28.v.-20.vi.2003</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Phongsaly</named-content>
+<named-content content-type="collectingRegion">Phongsaly</named-content>
 env., ~ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1500m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1500m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Pacholátko</named-content>
+<named-content content-type="collectorName">Pacholátko</named-content>
 leg.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CPPB</named-content>
+<named-content content-type="collectionCode">CPPB</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laos</named-content>
+<named-content content-type="location">Laos</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Xieng Khouang</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.v.1995</named-content>
+<named-content content-type="collectingRegion">Xieng Khouang</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">17.v.1995</named-content>
 </named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">8 ex.</named-content>
 “NE-Laos: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hua Phan prov.</named-content>
+<named-content content-type="collectingRegion">Hua Phan prov.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ban Saleui</named-content>
+<named-content content-type="collectingCounty">Ban Saleui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Phou Pan</named-content>
+<named-content content-type="collectingMunicipality">Phou Pan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.</named-content>
+<named-content content-type="location">Mt.</named-content>
 ) - 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12’N</named-content>
+<named-content content-type="geoCoordinate">20°12’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01’E</named-content>
+<named-content content-type="geoCoordinate">104°01’E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.iv.-15.v.2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">14.iv.-15.v.2012</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1300-1900m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1300-1900m</named-content>
 </named-content>
 ; leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Holzschuh Ankauf</named-content>
+<named-content content-type="collectorName">C. Holzschuh Ankauf</named-content>
 ZFMK Bonn 2012/13” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">2 ex.</named-content>
 “NE-Laos: 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hua Phan prov.</named-content>
+<named-content content-type="collectingRegion">Hua Phan prov.</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ban Saleui</named-content>
+<named-content content-type="collectingCounty">Ban Saleui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Phou Pan</named-content>
+<named-content content-type="collectingMunicipality">Phou Pan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.</named-content>
+<named-content content-type="location">Mt.</named-content>
 ) - 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12’N</named-content>
+<named-content content-type="geoCoordinate">20°12’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01’E</named-content>
+<named-content content-type="geoCoordinate">104°01’E</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11.iv.-15.v.2012</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">11.iv.-15.v.2012</named-content>
 </named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1300-1900m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1300-1900m</named-content>
 </named-content>
 ; leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Holzschuh Ankauf</named-content>
+<named-content content-type="collectorName">C. Holzschuh Ankauf</named-content>
 ZFMK 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bonn</named-content>
+<named-content content-type="collectorName">Bonn</named-content>
 2012” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “X-DA5011 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Laos</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hua Phan prov.</named-content>
+<named-content content-type="collectingCounty">Laos</named-content>
+<named-content content-type="collectingRegion">Hua Phan prov.</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ban Saleui</named-content>
+<named-content content-type="collectingMunicipality">Ban Saleui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phou Pan</named-content>
+<named-content content-type="location">Phou Pan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.</named-content>
+<named-content content-type="location">Mt.</named-content>
 ) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12’N</named-content>
+<named-content content-type="geoCoordinate">20°12’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01</named-content>
+<named-content content-type="geoCoordinate">104°01</named-content>
 ’ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.-30.iv.2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.-30.iv.2014</named-content>
 </named-content>
 leg. C. Holzschuh—ZFMK 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ankauf</named-content>
+<named-content content-type="collectorName">Ankauf</named-content>
 2014 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
+<named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “X-DA4851 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Laos</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hua Phan prov.</named-content>
+<named-content content-type="collectingCounty">Laos</named-content>
+<named-content content-type="collectingRegion">Hua Phan prov.</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ban Saleui</named-content>
+<named-content content-type="collectingMunicipality">Ban Saleui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phou Pan</named-content>
+<named-content content-type="location">Phou Pan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.</named-content>
+<named-content content-type="location">Mt.</named-content>
 ) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12’N</named-content>
+<named-content content-type="geoCoordinate">20°12’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01</named-content>
+<named-content content-type="geoCoordinate">104°01</named-content>
 ’ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.-30.iv.2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.-30.iv.2014</named-content>
 </named-content>
 leg. C. Holzschuh—ZFMK 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ankauf</named-content>
+<named-content content-type="collectorName">Ankauf</named-content>
 2014 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
+<named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♂</named-content>
 “X-DA4713 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Laos</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hua Phan prov.</named-content>
+<named-content content-type="collectingCounty">Laos</named-content>
+<named-content content-type="collectingRegion">Hua Phan prov.</named-content>
 ; 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ban Saleui</named-content>
+<named-content content-type="collectingMunicipality">Ban Saleui</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phou Pan</named-content>
+<named-content content-type="location">Phou Pan</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.</named-content>
+<named-content content-type="location">Mt.</named-content>
 ) 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12’N</named-content>
+<named-content content-type="geoCoordinate">20°12’N</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01</named-content>
+<named-content content-type="geoCoordinate">104°01</named-content>
 ’ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.-30.iv.2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">15.-30.iv.2014</named-content>
 </named-content>
 leg. C. Holzschuh—ZFMK 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ankauf</named-content>
+<named-content content-type="collectorName">Ankauf</named-content>
 2014 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
+<named-content content-type="taxonomicName">Maladera rufodorsata</named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+<named-content content-type="collectionCode">ZFMK</named-content>
 ).
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Myanmar</named-content>
 :
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ex.</named-content>
+<named-content content-type="specimenCount">6 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Maymyo</named-content>
+<named-content content-type="collectingMunicipality">Maymyo</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Burma</named-content>
+<named-content content-type="location">Burma</named-content>
 H.L. Andrewes/ Andrewes Bequest B.M. 1922-221/ Maymyo VI.10 H.L. Andrewes” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 ) “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Birmah Karen Mts.</named-content>
+<named-content content-type="collectingMunicipality">Birmah Karen Mts.</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Doherty</named-content>
+<named-content content-type="location">Doherty</named-content>
 / Fry Coll. 1900.100.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 ) “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Birmah Ruby Mnes.</named-content>
+<named-content content-type="collectingMunicipality">Birmah Ruby Mnes.</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Doherty</named-content>
+<named-content content-type="location">Doherty</named-content>
 / Fry Coll. 1900.100.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">10 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Hte.</named-content>
+<named-content content-type="collectingMunicipality">Hte.</named-content>
 Birmanie 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mines des Rubies</named-content>
+<named-content content-type="location">Mines des Rubies</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200-2300 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1200-2300 m</named-content>
 </named-content>
 , Doherty 1890” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+<named-content content-type="collectionCode">MNHN</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">11 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">11 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Birmah Ruby Mines</named-content>
+<named-content content-type="location">Birmah Ruby Mines</named-content>
 / Doherty/ Fry Coll. 1950.100” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Burma Myindaik</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">4500 ft.</named-content>
+<named-content content-type="location">Burma Myindaik</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">4500 ft.</named-content>
 </named-content>
 5.V.18/ India T. B. Fletcher B.M. 1943-9.” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+<named-content content-type="specimenCount">♀</named-content>
 ) “ 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Birmah Momeit</named-content>
+<named-content content-type="collectingMunicipality">Birmah Momeit</named-content>
 / 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Doherty</named-content>
+<named-content content-type="location">Doherty</named-content>
 / Fry Coll. 1905.100” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ),
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">1 ♀</named-content>
 “N. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Chin</named-content>
+<named-content content-type="collectingRegion">Chin</named-content>
 Hills Burma 94-4” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+<named-content content-type="collectionCode">BMNH</named-content>
 ).
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Thailand</named-content>
+<tp:material-citation>
+<named-content content-type="emphasis">
+<named-content content-type="collectingCountry">Thailand</named-content>
 .
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+<named-content content-type="specimenCount">1 ex.</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+<named-content content-type="specimenCount">♂</named-content>
 ) “Thai-N, 1.- 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.5.1998</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">19.5.1998</named-content>
 </named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Chiang Mai prov.</named-content>
+<named-content content-type="collectingRegion">Chiang Mai prov.</named-content>
 Ban San Pakia, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bednarik</named-content>
+<named-content content-type="collectorName">Bednarik</named-content>
 leg., 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1400 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">1400 m</named-content>
 </named-content>
 ” (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CPPB</named-content>
+<named-content content-type="collectionCode">CPPB</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Redescription.
 Length: 
 5.2 mm
@@ -853,21 +853,21 @@ Length:
 3.4 mm
 . Body short oval; bicoloured, ventral side, head, nterior pronotum, scutellum and margins of elytra black, legs, antenna, elytra and basal part of pronotum yellowish brown, dark parts sometimes with greenish shine; dorsal surface except head, tibiae, and tarsi dull, nearly glabrous.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Labroclypeus wide, weakly trapezoidal, widest at base, lateral margins strongly convex and convergent anteriorly, separated by a distinct angle from ocular canthus, slightly incised at transition to labrum; anterior angles moderately convex, slightly elevated; anterior margin slightly emarginate medially, margins moderately reflexed, anterior angles and midpoint of anterio margin tooth-like produced (see from posterior); surface weakly convex medially, coarsely densely punctate, with numerous larger punctures each bearing an erect seta. Frontoclypeal suture finely incised, weakly curved. Smooth area in front of eyes as wide as long, strongly punctate near eyes. Ocular canthus short and wide, externally convex, very finely and densely punctate, terminal seta absent. Frons dull, finely and moderately densely punctate, posterior head, beside eyes as well as on posterior quarter very densely and coarsely punctate, beside eyes with a few single erect setae, otherwise with microscopic setae in punctures only. Eyes small, ratio diameter/interocular width: 0.39. Antenna with nine antennomeres, club with three antennomeres, as long as remaining antennomeres combined and straight. 
 Mentum
 convexly elevated, anteriorly slightly flattened.
 </p>
-<!--template match = paragraph--><p>Pronotum widest at posterior third, anterior angles moderately sharp and well produced, posterior angles strongly convex, obsolete; anterior margin with fine and complete marginal line, weakly convexly produced medially; lateral margins strongly convex and convergent anteriorly and posteriorly, immediately behind anterior angles convex; surface finely and densely punctate, with microscopic setae in punctures, otherwise glabrous, anterior and lateral margins with sparse but robust setae. Colour black, in basal half more or less widely yellowish, basal and lateral margins always dark. Scutellum dark or yellowish, narrowly triangular, with fine and moderately dense punctures, with microscopic setae in punctures.</p>
-<!--template match = caption[child::paragraph]--><fig id="fig-122--151-250-1642-1666-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<p>Pronotum widest at posterior third, anterior angles moderately sharp and well produced, posterior angles strongly convex, obsolete; anterior margin with fine and complete marginal line, weakly convexly produced medially; lateral margins strongly convex and convergent anteriorly and posteriorly, immediately behind anterior angles convex; surface finely and densely punctate, with microscopic setae in punctures, otherwise glabrous, anterior and lateral margins with sparse but robust setae. Colour black, in basal half more or less widely yellowish, basal and lateral margins always dark. Scutellum dark or yellowish, narrowly triangular, with fine and moderately dense punctures, with microscopic setae in punctures.</p>
+<fig id="fig-122--151-250-1642-1666-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 26. A–D:
-<!--template match = taxonomicName--><tp:taxon-name>Maladera rufodorsata ( Fairmaire, 1888 )</tp:taxon-name>
+<tp:taxon-name>Maladera rufodorsata ( Fairmaire, 1888 )</tp:taxon-name>
 (China: Tchao Pin 
 -
 io); 
 E–H:
-<!--template match = taxonomicName--><tp:taxon-name>M. sericella ( Brenske, 1898 )</tp:taxon-name>
+<tp:taxon-name>M. sericella ( Brenske, 1898 )</tp:taxon-name>
 (India: Sikkim: Geyzing). 
 A, E:
 aedeagus, left side lateral view; 
@@ -879,24 +879,24 @@ D, H:
 habitus. Scale: 0.5 mm. Habitus not to scale.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4496374/files/figure.png"/></fig>
-<!--template match = paragraph--><p>Elytra wide, wides shortly behind middle, external apical angle widely rounded, yellowish brown, base, sutural interval, apical margin and external intervals dark, striae finely impressed, finely sparsely punctate, intervals very weakly convex or flat, sparse and fine punctures concentrated along striae, odd intervals with a few single short setae, near humerus with a single long seta, otherwise only with microscopic setae in punctures. Epipleural margin robust, ending at external apical angle of elytra; apical margin chitinous, without rim of microtrichomes (visible at ca 100x magnification).</p>
-<!--template match = paragraph--><p>Ventral face with coarse and moderately dense punctures, sparsely setose, with a few robust setae on mesosternum and metasternal disc; otherwise with microscopic setae. Mesosternum between mesocoxae 1.5 times as wide as mesofemur. Metacoxa glabrous except a few robust setae laterally. Abdominal sternites dull, finely densely punctate, with a row of robust punctures each bearing a robust seta. Ratio of length of metepisternum/metacoxa: 1/1.65. Pygidium dull, in male mostly dark, weakly convex ad moderately dense punctate, apical margin with a few single long setae, otherwise only with microscopic setae.</p>
-<!--template match = paragraph--><p>Legs moderately wide; femora finely and very sparsely punctate, with two longitudinal rows of setae. Metafemur moderately shiny, anterior margin acute, without adjacent serrated line; posterior ventral margin almost straight, distinctly widened in apical half, neither ventrally nor dorsally serrated but smooth, glabrous. Metatibia short and moderately wide, sides subparallel, basally narrowed, ratio width/length: 1/2.9; dorsal margin weakly carinate, with two groups of spines, basal one at one third, apical one at three quarters of metatibial length; lateral face strongly longitudinally convex, smooth, laterally with sparse and superficial punctures; ventral margin with three nearly equidistant robust setae; medial face smooth and glabrous, interiorly near tarsal articulation shallowly concavely emarginate. Tarsi glabrous dorsally, circular in cross section, metatarsomeres ventrally with a strongly serrated carina, subventrally with a second, smooth longitudinal carina, first metatarsomere slightly shorter than following two combined and little longer than the dorsal tibial spur. Protibia moderately long, bidentate; protarsal claws normal, symmetric.</p>
-<!--template match = paragraph--><p>
+<p>Elytra wide, wides shortly behind middle, external apical angle widely rounded, yellowish brown, base, sutural interval, apical margin and external intervals dark, striae finely impressed, finely sparsely punctate, intervals very weakly convex or flat, sparse and fine punctures concentrated along striae, odd intervals with a few single short setae, near humerus with a single long seta, otherwise only with microscopic setae in punctures. Epipleural margin robust, ending at external apical angle of elytra; apical margin chitinous, without rim of microtrichomes (visible at ca 100x magnification).</p>
+<p>Ventral face with coarse and moderately dense punctures, sparsely setose, with a few robust setae on mesosternum and metasternal disc; otherwise with microscopic setae. Mesosternum between mesocoxae 1.5 times as wide as mesofemur. Metacoxa glabrous except a few robust setae laterally. Abdominal sternites dull, finely densely punctate, with a row of robust punctures each bearing a robust seta. Ratio of length of metepisternum/metacoxa: 1/1.65. Pygidium dull, in male mostly dark, weakly convex ad moderately dense punctate, apical margin with a few single long setae, otherwise only with microscopic setae.</p>
+<p>Legs moderately wide; femora finely and very sparsely punctate, with two longitudinal rows of setae. Metafemur moderately shiny, anterior margin acute, without adjacent serrated line; posterior ventral margin almost straight, distinctly widened in apical half, neither ventrally nor dorsally serrated but smooth, glabrous. Metatibia short and moderately wide, sides subparallel, basally narrowed, ratio width/length: 1/2.9; dorsal margin weakly carinate, with two groups of spines, basal one at one third, apical one at three quarters of metatibial length; lateral face strongly longitudinally convex, smooth, laterally with sparse and superficial punctures; ventral margin with three nearly equidistant robust setae; medial face smooth and glabrous, interiorly near tarsal articulation shallowly concavely emarginate. Tarsi glabrous dorsally, circular in cross section, metatarsomeres ventrally with a strongly serrated carina, subventrally with a second, smooth longitudinal carina, first metatarsomere slightly shorter than following two combined and little longer than the dorsal tibial spur. Protibia moderately long, bidentate; protarsal claws normal, symmetric.</p>
+<p>
 Aedeagus: 
-<!--template match = figureCitation--><xref rid="fig-122--151-250-1642-1666-">Fig. 26</xref>
+<xref rid="fig-122--151-250-1642-1666-">Fig. 26</xref>
 A–C. Habitus: 
-<!--template match = figureCitation--><xref rid="fig-122--151-250-1642-1666-">Fig. 26D</xref>
+<xref rid="fig-122--151-250-1642-1666-">Fig. 26D</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 See map (
-<!--template match = figureCitation--><xref rid="fig-351--151-250-1034-1058-">Fig. 99</xref>
+<xref rid="fig-351--151-250-1034-1058-">Fig. 99</xref>
 ) and 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
 </tp:treatment-sec>

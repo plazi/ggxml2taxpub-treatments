@@ -1,204 +1,204 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pagastia ( P .) caelestomontana Makarchenko, Semenchenko et Palatov , sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Pagastia ( P .) caelestomontana Makarchenko, Semenchenko et Palatov , sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1710-1734-">Figs. 1–4</xref>
+<xref rid="fig-4--151-264-1710-1734-">Figs. 1–4</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1704-1728-">8–9</xref>
+<xref rid="fig-5--151-264-1704-1728-">8–9</xref>
 )
 </p>
-<!--template match = paragraph--><p>
+<p>
 
 urn:lsid:zoobank.org:act: 
 A9FDC949-20D5-45F4-A7DF-E5A889BF9ECD
 
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Syndiamesa</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Syndiamesa</tp:taxon-name>
 sp. 1, 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8325">Kustareva &amp; Ivanova 1980: 39</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8325">Kustareva &amp; Ivanova 1980: 39</xref>
 </tp:nomenclature-citation>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1704-1728-">Fig. 9</xref>
+<xref rid="fig-5--151-264-1704-1728-">Fig. 9</xref>
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Pagastia</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Pagastia</tp:taxon-name>
 (
 P
 .) sp. 1 
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = bibRefCitation--><xref rid="ref8565">Makarchenko &amp; Makarchenko 2000: 175</xref>
+<tp:nomenclature-citation>
+<xref rid="ref8565">Makarchenko &amp; Makarchenko 2000: 175</xref>
 </tp:nomenclature-citation>
 , 
-<!--template match = figureCitation--><xref rid="fig-">Figs. 1–9</xref>
+<xref rid="fig-">Figs. 1–9</xref>
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Holotype</named-content>
 : adult male, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Central Asia</named-content>
+<named-content content-type="location">Central Asia</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kirgizstan</named-content>
+<named-content content-type="location">Kirgizstan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chuy Region</named-content>
+<named-content content-type="location">Chuy Region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Alamudun district</named-content>
+<named-content content-type="location">Alamudun district</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kyrgyz</named-content>
+<named-content content-type="location">Kyrgyz</named-content>
 ridge of 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tien Shan mountains</named-content>
+<named-content content-type="location">Tien Shan mountains</named-content>
 , left tributary of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ala-Archa River</named-content>
+<named-content content-type="collectingMunicipality">Ala-Archa River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.5 km</named-content>
+<named-content content-type="quantity">2.5 km</named-content>
 above the cordon – the checkpoint of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ala-Archa National Park</named-content>
+<named-content content-type="collectingCounty">Ala-Archa National Park</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.V.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27.V.2016</named-content>
 </named-content>
 , alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1717 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">1717 m</named-content>
 above sea level
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N 42°37.743’</named-content>
+<named-content content-type="geoCoordinate">N 42°37.743’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E 74°29.293’</named-content>
+<named-content content-type="geoCoordinate">E 74°29.293’</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Palatov.</named-content>
+<named-content content-type="collectorName">D. Palatov.</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+<tp:material-citation>
+<named-content content-type="typeStatus">Paratypes</named-content>
 : 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 larvae</named-content>
+<named-content content-type="specimenCount">10 larvae</named-content>
 , same data as holotype, same data as 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+<named-content content-type="typeStatus">holotype</named-content>
 except 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ala-Archa River</named-content>
+<named-content content-type="collectingMunicipality">Ala-Archa River</named-content>
 at the confluence of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Karabulak River</named-content>
+<named-content content-type="location">Karabulak River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+<named-content content-type="date">
+<named-content content-type="collectingDate">
 28. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+<named-content content-type="collectionCode">V</named-content>
 .2016
 </named-content>
 </named-content>
 , alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2061 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">2061 m</named-content>
 above sea level
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N 42°36.200’</named-content>
+<named-content content-type="geoCoordinate">N 42°36.200’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E 74°28.819’</named-content>
+<named-content content-type="geoCoordinate">E 74°28.819’</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Palatov</named-content>
+<named-content content-type="collectorName">D. Palatov</named-content>
 </tp:material-citation>
 ; 
 1 adult
 male, 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 larvae</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">4 larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Kirgizstan</named-content>
+<named-content content-type="collectingCounty">Kirgizstan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Talas Region</named-content>
+<named-content content-type="collectingMunicipality">Talas Region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Talas district</named-content>
+<named-content content-type="location">Talas district</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Talas valley</named-content>
+<named-content content-type="location">Talas valley</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Otmek River</named-content>
+<named-content content-type="location">Otmek River</named-content>
 (left source), under the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Otmek</named-content>
+<named-content content-type="location">Otmek</named-content>
 pass, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+<named-content content-type="date">
+<named-content content-type="collectingDate">
 12. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+<named-content content-type="collectionCode">VI</named-content>
 .2016
 </named-content>
 </named-content>
 . alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2801 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">2801 m</named-content>
 above sea level
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N 42°19.084’</named-content>
+<named-content content-type="geoCoordinate">N 42°19.084’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E 73°05.770’</named-content>
+<named-content content-type="geoCoordinate">E 73°05.770’</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Palatov</named-content>
+<named-content content-type="collectorName">D. Palatov</named-content>
 </tp:material-citation>
 ; 
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">18 larvae</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">18 larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Kirgizstan</named-content>
+<named-content content-type="collectingCounty">Kirgizstan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Zailiyskiy Alatau</named-content>
+<named-content content-type="collectingMunicipality">Zailiyskiy Alatau</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Turgen River</named-content>
+<named-content content-type="location">Turgen River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.VIII.1984</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">20.VIII.1984</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Petrova.</named-content>
+<named-content content-type="collectorName">N. Petrova.</named-content>
 </tp:material-citation>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 larvae</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">3 larvae</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tajikistan</named-content>
+<named-content content-type="collectingCountry">Tajikistan</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Gorno-Badakhshan</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Autonomous Region</named-content>
+<named-content content-type="collectingRegion">Gorno-Badakhshan</named-content>
+<named-content content-type="collectingCounty">Autonomous Region</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Rushanskiy District</named-content>
+<named-content content-type="collectingMunicipality">Rushanskiy District</named-content>
 , spring in front of the mouth of the 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bartang River</named-content>
+<named-content content-type="location">Bartang River</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">03.VII.2016</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">03.VII.2016</named-content>
 </named-content>
 , alt. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2025 m</named-content>
+<named-content content-type="elevation">
+<named-content content-type="quantity">2025 m</named-content>
 above sea level
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N 37°55.493’</named-content>
+<named-content content-type="geoCoordinate">N 37°55.493’</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E 71°36.183’</named-content>
+<named-content content-type="geoCoordinate">E 71°36.183’</named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Palatov.</named-content>
+<named-content content-type="collectorName">D. Palatov.</named-content>
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="etymology">
+<p>
 Derivatio nominis.
 From name of Tien-Shan mountains where was collected 
 type
@@ -208,29 +208,29 @@ mountains –
 montanus
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 Adult male
 (n = 1).
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Total length 
 4.5 mm
 . Total length/wing length 1.01.
 </p>
-<!--template match = paragraph--><p>Coloration. Head, thorax (except scutellum), legs, and abdomen brown to dark brown; antennae light brown; scutellum gray; wings greyish.</p>
-<!--template match = paragraph--><p>
+<p>Coloration. Head, thorax (except scutellum), legs, and abdomen brown to dark brown; antennae light brown; scutellum gray; wings greyish.</p>
+<p>
 Head. Eyes bare and strongly extended dorsomedially. Temporal setae 29–34, including 4 coronals, 20 preoculars, 5–6 verticals, and 13 postorbitals. Clypeus with 42 setae. Antenna with 13 flagellomeres and well developed plume, these setae 840–1040 μm long; pedicel with 4 setae 38–40 μm long; terminal flagellomere with 1 subapical setae 56 μm long. AR 2.21. Palpomeres lengths (in μm): 112; 132; 200; 284; 340. Palpomere 
 3 in
 distal part with sensilla capitata (diameter 20 μm). Palpomeres 1–5 length/head width 1.21.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Thorax. Antepronotum with 4–5 dorsomedial and 12–18 ventrolateral setae. Acrostichals 15 (in middle part of mesonotum), dorsocentrals 26 (in 1–2 rows, in middle part), prealars 20–24 (in 2 groups), scutellars 
 ca
 60.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Wing. Length 
 4.44 mm
 ; width 
@@ -241,124 +241,124 @@ with 39–40 setae; R
 4+5
 with 15–16 setae. Costa extension 56 μm long. RM length/MCu length 2.83–3.2. Anal lobe well developed and protrude for- ward, rounded. Squama with 39–40 setae 100–180 μm long, in 1–2 rows. VR 0.85.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Legs. Spur of fore tibia 112 μm long; spurs of mid tibia 80 μm; of hind tibia 124 μm and 84 μm long. Hind tibial comb with 16 setae. Lengths and proportions of leg segments as in 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-239-1474-1498-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-239-1474-1498-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1.
 Lengths (in µm) and proportions of leg segments of 
-<!--template match = taxonomicName--><tp:taxon-name>Pagastia (P.) caelestomontana</tp:taxon-name>
+<tp:taxon-name>Pagastia (P.) caelestomontana</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 , male (n=1).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e542">
-<!--template match = tr--><tr>
-<!--template match = td--><td>fe</td>
-<!--template match = td--><td>ti</td>
-<!--template match = td--><td>ta1</td>
-<!--template match = td--><td>ta2</td>
-<!--template match = td--><td>ta3</td>
-<!--template match = td--><td>ta4</td>
-<!--template match = td--><td>ta5</td>
-<!--template match = td--><td>LR</td>
-<!--template match = td--><td>BV</td>
-<!--template match = td--><td>SV</td>
-<!--template match = td--><td>BR</td>
+<p>
+<table id="d1e542">
+<tr>
+<td>fe</td>
+<td>ti</td>
+<td>ta1</td>
+<td>ta2</td>
+<td>ta3</td>
+<td>ta4</td>
+<td>ta5</td>
+<td>LR</td>
+<td>BV</td>
+<td>SV</td>
+<td>BR</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P1</td>
-<!--template match = td--><td>1600</td>
-<!--template match = td--><td>1840</td>
-<!--template match = td--><td>1320</td>
-<!--template match = td--><td>760</td>
-<!--template match = td--><td>480</td>
-<!--template match = td--><td>260</td>
-<!--template match = td--><td>200</td>
-<!--template match = td--><td>0.72</td>
-<!--template match = td--><td>2.80</td>
-<!--template match = td--><td>2.61</td>
-<!--template match = td--><td>2.7</td>
+<tr>
+<td>P1</td>
+<td>1600</td>
+<td>1840</td>
+<td>1320</td>
+<td>760</td>
+<td>480</td>
+<td>260</td>
+<td>200</td>
+<td>0.72</td>
+<td>2.80</td>
+<td>2.61</td>
+<td>2.7</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P2</td>
-<!--template match = td--><td>1640</td>
-<!--template match = td--><td>1720</td>
-<!--template match = td--><td>940</td>
-<!--template match = td--><td>520</td>
-<!--template match = td--><td>340</td>
-<!--template match = td--><td>200</td>
-<!--template match = td--><td>180</td>
-<!--template match = td--><td>0.55</td>
-<!--template match = td--><td>3.47</td>
-<!--template match = td--><td>3.57</td>
-<!--template match = td--><td>3.3</td>
+<tr>
+<td>P2</td>
+<td>1640</td>
+<td>1720</td>
+<td>940</td>
+<td>520</td>
+<td>340</td>
+<td>200</td>
+<td>180</td>
+<td>0.55</td>
+<td>3.47</td>
+<td>3.57</td>
+<td>3.3</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>P3</td>
-<!--template match = td--><td>1600</td>
-<!--template match = td--><td>2180</td>
-<!--template match = td--><td>1320</td>
-<!--template match = td--><td>680</td>
-<!--template match = td--><td>440</td>
-<!--template match = td--><td>240</td>
-<!--template match = td--><td>180</td>
-<!--template match = td--><td>0.52</td>
-<!--template match = td--><td>3.31</td>
-<!--template match = td--><td>2.86</td>
-<!--template match = td--><td>3.2</td>
+<tr>
+<td>P3</td>
+<td>1600</td>
+<td>2180</td>
+<td>1320</td>
+<td>680</td>
+<td>440</td>
+<td>240</td>
+<td>180</td>
+<td>0.52</td>
+<td>3.31</td>
+<td>2.86</td>
+<td>3.2</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 Hypopygium (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1710-1734-">Figs. 2–4</xref>
+<xref rid="fig-4--151-264-1710-1734-">Figs. 2–4</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1704-1728-">8–9</xref>
+<xref rid="fig-5--151-264-1704-1728-">8–9</xref>
 ). Tergite IX with 18–24 setae on each side and with an anal point 80 μm long, apically with peg 28 μm long. Tergite IX laterally from anal point on each side with rounded small lobe (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1710-1734-">Fig. 4</xref>
+<xref rid="fig-4--151-264-1710-1734-">Fig. 4</xref>
 ). Laterosternite IX with 14–16 setae. Transverse sternapodeme trapezoidal, 312 μm long. Phallapodeme 52–56 μm long. Gonocoxite 292 μm long, basal lobe large, angular, with long setae along outer margin and with 2 setae at in- ner part (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1710-1734-">Figs. 3</xref>
+<xref rid="fig-4--151-264-1710-1734-">Figs. 3</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1704-1728-">8</xref>
+<xref rid="fig-5--151-264-1704-1728-">8</xref>
 ). Median aedeagal lobe 80–88 μm long, wedge-shaped and with toothed apex; lateral aedeagal lobe narrow, 156–164 μm long (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1710-1734-">Fig. 2</xref>
+<xref rid="fig-4--151-264-1710-1734-">Fig. 2</xref>
 ). Gonostylus 252–256 μm long, massive, with a rounded or rounded-angular protrusion basally along the outer edge, with megaseta 20 μm long. HR 1.14–1.16.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pupa
 unknown.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="reference_group">
+<p>
 Larva
 was described as 
-<!--template match = taxonomicName--><tp:taxon-name>Pagastia</tp:taxon-name>
+<tp:taxon-name>Pagastia</tp:taxon-name>
 (
 P
 .) sp. 1 by 
-<!--template match = bibRefCitation--><xref rid="ref8565">Makarchenko &amp; Makarchenko (2000)</xref>
+<xref rid="ref8565">Makarchenko &amp; Makarchenko (2000)</xref>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-4--151-264-1710-1734-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-4--151-264-1710-1734-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 1–7.
-<!--template match = taxonomicName--><tp:taxon-name>Pagastia ( P .) caelestomontana</tp:taxon-name>
+<tp:taxon-name>Pagastia ( P .) caelestomontana</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (1–4) and 
-<!--template match = taxonomicName--><tp:taxon-name>P . ( P. ) hanseni</tp:taxon-name>
+<tp:taxon-name>P . ( P. ) hanseni</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (5–7), males. 
 1, 6,
@@ -371,45 +371,45 @@ hypopygium in dorsal view;
 anal point. Bl, basal lobe of gonocoxite; LAl, lateral aedeagal lobe; MAl, median aedeagal lobe TSa, transverse sternapodeme. Scale bars for figures 1, 3, 5, 6 – 200 µm, for figures 2, 4, 7 – 50 µm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4668489/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="diagnosis">
+<p>
 Diagnosis.
 The male of this new species is most closely related to 
-<!--template match = taxonomicName--><tp:taxon-name>P. ( P .) hanseni</tp:taxon-name>
+<tp:taxon-name>P. ( P .) hanseni</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 and can be separated in the following features: antepronotum with dorsomedial and ventrolateral setae; clypeus with 42 setae; AR 2.21; Dc 26 (in 1–2 rows), Pa 20–24; basal lobe of gonocoxite large and angular, median aedeagal lobe wedge-shaped and with toothed apex, lateral aedeagal lobe 156–164 μm long, gonostylus massive and with rounded or rounded- angular protrusion basally along the outer edge. The male of 
-<!--template match = taxonomicName--><tp:taxon-name>P. ( P .) hanseni</tp:taxon-name>
+<tp:taxon-name>P. ( P .) hanseni</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 has antepronotum completely covered with setae; clypeus with 
 ca
 90 setae; AR 3.80; Dc 53–54 (in 2–4 rows), Pa 47–50; basal lobe of gonocoxite middle-sized and rounded, median aedeagal lobe wedge-shaped and with fingerlike apex, lateral aedeagal lobe 132–140 μm long; gonostylus slender, almost straight, of same thickness, sometimes slightly widened at the base, slightly curved apically. The larva of 
 P.
-<!--template match = taxonomicName--><tp:taxon-name>( P .) caelestomontana</tp:taxon-name>
+<tp:taxon-name>( P .) caelestomontana</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 differs from all known species by the presence on the head capsule dorsal and dorsolateral dark markings (
-<!--template match = bibRefCitation--><xref rid="ref8565">Makarchenko &amp; Makarchenko 2000</xref>
+<xref rid="ref8565">Makarchenko &amp; Makarchenko 2000</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-5--151-264-1704-1728-">Fig. 8–9</xref>
+<xref rid="fig-5--151-264-1704-1728-">Fig. 8–9</xref>
 ). See also key above and results of DNA barcoding.
 </p>
 </tp:treatment-sec>
-<!--template match = caption[child::paragraph]--><fig id="fig-5--151-264-1704-1728-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-5--151-264-1704-1728-" fig-type="figure" position="float"><caption>
+<p>
 FIGURES 8–11.
-<!--template match = taxonomicName--><tp:taxon-name>Pagastia ( P .) caelestomontana</tp:taxon-name>
+<tp:taxon-name>Pagastia ( P .) caelestomontana</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (8–9) and 
-<!--template match = taxonomicName--><tp:taxon-name>P . ( P. ) hanseni</tp:taxon-name>
+<tp:taxon-name>P . ( P. ) hanseni</tp:taxon-name>
 
-<!--template match = taxonomicNameLabel-->sp. nov.
+sp. nov.
 
 (10–11), males. 
 8, 10,
@@ -420,8 +420,8 @@ gonostylus;
 anal point.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4668491/files/figure.png"/></fig>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="biology_ecology">
+<p>
 Ecology.
 Larvae were collected from stones and bowlders covered with algae and moss in mountain rivers, located at an altitude of 
 1717–2801 m
@@ -434,15 +434,15 @@ ca
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Known only from the 
 type
 locality in Tien Shan and Pamir Mountains (Kirgizstan and 
 Tajikistan
 ) (
-<!--template match = figureCitation--><xref rid="fig-7--151-264-1495-1519-">Figs. 12, 15</xref>
+<xref rid="fig-7--151-264-1495-1519-">Figs. 12, 15</xref>
 ).
 </p>
 </tp:treatment-sec>

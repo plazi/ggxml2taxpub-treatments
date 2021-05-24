@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Zaranga pannosa Moore, 1884<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:nomenclature><tp:taxon-name>Zaranga pannosa Moore, 1884<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--treatment-citation--><tp:nomenclature-citation>
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga pannosa Moore, 1884: 357</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:nomenclature-citation>
+<tp:taxon-name>Zaranga pannosa Moore, 1884: 357</tp:taxon-name>
 </tp:nomenclature-citation>
 ; TL: “Umballa District” [Ambala district, 
 Haryana state
@@ -17,22 +17,22 @@ India
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga pannosa : Hampson, 1893: 147</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zaranga pannosa : Hampson, 1893: 147</tp:taxon-name>
 , fig. (moth, female); 
-<!--template match = bibRefCitation--><xref rid="ref9100">Streltzov &amp; Yakovlev, 2007</xref>
+<xref rid="ref9100">Streltzov &amp; Yakovlev, 2007</xref>
 , fig. 7 (valva), pl. 2: 1, 2 (moths).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga pannosa pannosa : Schintlmeister, 2008: 36</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zaranga pannosa pannosa : Schintlmeister, 2008: 36</tp:taxon-name>
 : figs 60 (female genitalia), 61 (male genitalia), pl. 2: 15 (moths).
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga pannosa necopinatus Schintlmeister, 2008: 36</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Zaranga pannosa necopinatus Schintlmeister, 2008: 36</tp:taxon-name>
 : fig. 62 (male genitalia), pl. 2: 15 (moth); TL: Meifiong Prov. 
 Nantou
 , 
@@ -41,15 +41,15 @@ Taiwan
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Genetic data
 (
-<!--template match = tableCitation--><xref>Tab. 1</xref>
+<xref>Tab. 1</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-250-1269-1293-">Fig. 24</xref>
+<xref rid="fig-8--151-250-1269-1293-">Fig. 24</xref>
 ). Specimen of “ 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra</tp:taxon-name>
+<tp:taxon-name>Zaranga tukuringra</tp:taxon-name>
 ” (GenBank accession: 
 LC176123
 ) from 
@@ -57,16 +57,16 @@ Yunnan
 (
 China
 ) possesses the DNA sequences highly distanced from both 
-<!--template match = taxonomicName--><tp:taxon-name>Z. koreana</tp:taxon-name>
+<tp:taxon-name>Z. koreana</tp:taxon-name>
 (4.3–4.5% p-distance) and true 
-<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+<tp:taxon-name>Z. tukuringra</tp:taxon-name>
 (5.3–5.7% p-distance), which could assume it belongs to 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa</tp:taxon-name>
 or another unknown species.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Northern 
 Pakistan
@@ -75,48 +75,48 @@ India
 , 
 Nepal
 (
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa pannosa</tp:taxon-name>
 ); 
 Taiwan
 (
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa necopinatus</tp:taxon-name>
+<tp:taxon-name>Z. pannosa necopinatus</tp:taxon-name>
 ) (
-<!--template match = bibRefCitation--><xref rid="ref8962">Schintlmeister 2008</xref>
+<xref rid="ref8962">Schintlmeister 2008</xref>
 ) (
-<!--template match = figureCitation--><xref rid="fig-10--151-250-1130-1154-">Fig. 25</xref>
+<xref rid="fig-10--151-250-1130-1154-">Fig. 25</xref>
 ).
 </p>
-<!--template match = paragraph--><p>
+<p>
 Note.
-<!--template match = bibRefCitation--><xref rid="ref8962">Schintlmeister (2008: 37)</xref>
+<xref rid="ref8962">Schintlmeister (2008: 37)</xref>
 stated that “there is a larger distribution gap in S[outh] 
 China
 and Indochina” between the 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa pannosa</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa necopinatus</tp:taxon-name>
+<tp:taxon-name>Z. pannosa necopinatus</tp:taxon-name>
 . However, the specimen of “ 
-<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007</tp:taxon-name>
+<tp:taxon-name>Zaranga tukuringra Streltzov &amp; Yakovlev, 2007</tp:taxon-name>
 ” from 
 Yunnan
 on the photo from the site “Digital Moths of 
 Japan
 ” (
-<!--template match = bibRefCitation--><xref rid="ref9357">
+<xref rid="ref9357">
 Yanagida 
 et al
 . 2017
 </xref>
 ), likely belongs to 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa</tp:taxon-name>
 . This correlates with the supposed genetic data of this species (see above). So, 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa</tp:taxon-name>
 can inhabit at least SW 
 China
 also. The figure of 
-<!--template match = taxonomicName--><tp:taxon-name>Z. pannosa</tp:taxon-name>
+<tp:taxon-name>Z. pannosa</tp:taxon-name>
 in 
-<!--template match = bibRefCitation--><xref rid="ref8187">Hampson (1893: 147)</xref>
+<xref rid="ref8187">Hampson (1893: 147)</xref>
 shows a female, not a male, as indicated under the figure.
 </p>
 </tp:treatment-sec>

@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs. 1–4</xref>
+<xref rid="fig-">Figs. 1–4</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<tp:nomenclature-citation-list>
 ? 
-<!--template match = taxonomicName--><tp:taxon-name>Richardina spongicola Alcock &amp; Anderson, 1899: 291</tp:taxon-name>
+<tp:taxon-name>Richardina spongicola Alcock &amp; Anderson, 1899: 291</tp:taxon-name>
 . (
 Type
 locality: Andaman sea)
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Richardina spongicola</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Richardina spongicola</tp:taxon-name>
 —Alcock, 1899: pl. 42, fig. 4, 4a.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Alcock, 1901: 146</tp:nomenclature-citation>
+<tp:nomenclature-citation>Alcock, 1901: 146</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Alcock, 1902: 273</tp:nomenclature-citation>
+<tp:nomenclature-citation>Alcock, 1902: 273</tp:nomenclature-citation>
 
 .—Lo Bianco, 1903: 251.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bouvier, 1905a: 983</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bouvier, 1905a: 983</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bouvier, 1905b: 749</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bouvier, 1905b: 749</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Bouvier, 1908: 888</tp:nomenclature-citation>
+<tp:nomenclature-citation>Bouvier, 1908: 888</tp:nomenclature-citation>
 
 .—A. 
 
-<!--treatment-citation--><tp:nomenclature-citation>Milne-Edwards &amp; Bouvier, 1909: 264</tp:nomenclature-citation>
+<tp:nomenclature-citation>Milne-Edwards &amp; Bouvier, 1909: 264</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Odontonoza spongicola</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Odontonoza spongicola</tp:taxon-name>
 — 
 
-<!--treatment-citation--><tp:nomenclature-citation>Holthuis, 1946: 40</tp:nomenclature-citation>
+<tp:nomenclature-citation>Holthuis, 1946: 40</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Holthuis, 1955: 144</tp:nomenclature-citation>
+<tp:nomenclature-citation>Holthuis, 1955: 144</tp:nomenclature-citation>
 
 , fig. 101b.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Wicksten, 1982: 134</tp:nomenclature-citation>
+<tp:nomenclature-citation>Wicksten, 1982: 134</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Goy, 1992: 2</tp:nomenclature-citation>
+<tp:nomenclature-citation>Goy, 1992: 2</tp:nomenclature-citation>
 
 , fig. 1c.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Holthuis, 1993: 314</tp:nomenclature-citation>
+<tp:nomenclature-citation>Holthuis, 1993: 314</tp:nomenclature-citation>
 
 , fig. 309.— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Okuno, 2003: 178</tp:nomenclature-citation>
+<tp:nomenclature-citation>Okuno, 2003: 178</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Saito &amp; Fujita, 2009: 123</tp:nomenclature-citation>
+<tp:nomenclature-citation>Saito &amp; Fujita, 2009: 123</tp:nomenclature-citation>
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Chen 
 et al
 ., 2016: 482
@@ -91,7 +91,7 @@ et al
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>
+<tp:nomenclature-citation>
 Saito 
 et al
 ., 2017: 26
@@ -99,297 +99,297 @@ et al
 
 .— 
 
-<!--treatment-citation--><tp:nomenclature-citation>Saito &amp; Fujita, 2018: 459</tp:nomenclature-citation>
+<tp:nomenclature-citation>Saito &amp; Fujita, 2018: 459</tp:nomenclature-citation>
 
 .
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+<tp:material-citation>
+<named-content content-type="collectingCountry">Indonesia</named-content>
 , southeastern 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Java</named-content>
+<named-content content-type="collectingRegion">Java</named-content>
 , SJADES 2018, stn CP 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 23, 6 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">o</named-content>
+<named-content content-type="superScript">o</named-content>
 </named-content>
 46.739’S, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 105 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">o</named-content>
+<named-content content-type="superScript">o</named-content>
 9.239’E
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 Mar 2018</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">27 Mar 2018</named-content>
 </named-content>
 , 559– 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">571 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">571 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 female</named-content>
+<named-content content-type="specimenCount">1 female</named-content>
 cl 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">4.2 mm</named-content>
+<named-content content-type="quantity">4.2 mm</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+<named-content content-type="collectionCode">MZB</named-content>
 )
 </tp:material-citation>
 .
 </p>
-<!--template match = paragraph--><p>
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">South</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sea</named-content>
+<p>
+<tp:material-citation>
+<named-content content-type="location">South</named-content>
+<named-content content-type="collectingCountry">China</named-content>
+<named-content content-type="collectingMunicipality">Sea</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Pratas</named-content>
+<named-content content-type="collectingCounty">Pratas</named-content>
 , DONGSHA 2014, stn CP4127, 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 20 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">o</named-content>
+<named-content content-type="superScript">o</named-content>
 48.032’N
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+<named-content content-type="geoCoordinate">
 116 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">o</named-content>
+<named-content content-type="superScript">o</named-content>
 7.996’E
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1 May 2014</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">1 May 2014</named-content>
 </named-content>
 , 392– 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">408 m</named-content>
+<named-content content-type="quantity">
+<named-content content-type="elevation">408 m</named-content>
 </named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 female</named-content>
+<named-content content-type="specimenCount">1 female</named-content>
 cl 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">7.8 mm</named-content>
+<named-content content-type="quantity">7.8 mm</named-content>
 (
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NTOU</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">M01910</named-content>
+<named-content content-type="collectionCode">NTOU</named-content>
+<named-content content-type="accessionNumber">M01910</named-content>
 )
 </tp:material-citation>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description.
 Body laterally compressed. Rostrum (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Figs. 2A</xref>
+<xref rid="fig-3--151-250-1583-1607-">Figs. 2A</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">3F</xref>
+<xref rid="fig-6--151-250-1885-1909-">3F</xref>
 ) 0.36 carapace length, compressed, directed straight-forward, reaching distal margin of first segment of antennular peduncle; dorsal margin armed with 11–12 teeth, including 2–3 teeth situated posterior to orbital margin; ventral margin armed with 2–3 teeth distally; ventrolateral ridge sharp, unarmed, merging into the orbital margin.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Carapace (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
+<xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
 ) swollen, ventral and posterior margin rounded; postostral median carina low, extending to epigastric region but not reaching cervical groove; orbital margin concave; antennal lobe rounded, armed with 1 large, submarginal antennal spine; hepatic spine strong; pterygostomial angle rounded, slightly exceeding antennal spine, armed with 8–9 small pterygostomial spines; cervical groove prominent, deep, posterior margin with cincture of 23–26 acute, depressed spines, medial spines smaller than lateral spines; supraorbital region bearing numerous spines and forming a short row surrounding base of rostrum, lateral spines larger than medial spines; other parts of carapace smooth.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Eyes (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
+<xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
 ) well developed; cornea shorter and narrower than peduncle, completely absence of pigment; mesial and anterodorsal surfaces of eyestalk armed with numerous acute spinules, some aligned in rows along posterior margin of cornea.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antennular peduncle (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
+<xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
 ) reaching two-thirds length of antennal scale. First (basal) segment longest, subequal to distal 2 segments combined; stylocerite small, acute, curved inwards; second segment with 1 or 2 dorsolateral and 1 ventromesial spine; third segment shortest, unarmed; flagella slender, long.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Antenna (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
+<xref rid="fig-3--151-250-1583-1607-">Figs. 2A, B</xref>
 ) with scaphocerite 2.5–2.7 times longer than board. Scaphocerite falciform; bearing 4–5 teeth on lateral margin, terminal tooth slightly overreaching tip of scaphocerite; dorsal surface with 2 distinct longitudinal carinae; mesial margin strongly convex.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Epistome (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3A</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3A</xref>
 ) anteriorly with 6 sharp, slightly curved spines; labrum trilobed and rounded on anterior margin, posterior margin bilobed and rounded; paragnath with median fissure.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Mandible (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3B, C</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3B, C</xref>
 ) stout, with robust palm composed of 3 articles, distal segment oval and densely setose, intermediate segment stout, proximal segment short; incisor and molar processes clearly separate, margin of incisor with 2 large blunt teeth, margin of molar armed with 5 small acute teeth.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Maxillule (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3D</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3D</xref>
 ) robust, endopod slender and tapering distally; coxal endite broad, with row of setae on distal margin; basial endite moderate broad, truncated distally, with row of numerous slender spines.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Maxilla (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3E</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3E</xref>
 ) with sturdy, slender endopod; coxal endite oval; basial endite oblong, both coxal and basial endites distinctly bilobed; scaphognathite well developed, anterior lobe rather large and rectangular shape, with dense long setae along inner margin, posterior lobe rounded and widened distally, inner margin with rows of setae.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Branchial formula see 
-<!--template match = tableCitation--><xref>Table 1</xref>
+<xref>Table 1</xref>
 .
 </p>
-<!--template match = caption[child::paragraph]--><fig id="fig-2--151-250-1943-1967-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-2--151-250-1943-1967-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 1.
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
+<tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
 . A, Indonesia, SJADES stn CP23, female cl 4.17 mm (MZB); B, Pratas, DONGSHA 2014, stn CP4127, female cl 7.82 mm (NTOU M01910).
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4461664/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1583-1607-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-3--151-250-1583-1607-" fig-type="figure" position="float"><caption>
+<p>
 FIGURE 2.
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
+<tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
 , Indonesia, SJADES stn CP23, female cl 4.17 mm (MZB). A, right carapace, lateral view.; B, carapace, dorsal view.; C, left abdominal somites, lateral view.; D, telson and uropods, dorsal view.; E, left first pleopod, lateral view.; F, left second pleopod, lateral view. Scale bars: 1mm.
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4461666/files/figure.png"/></fig>
-<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
-<!--template match = paragraph--><p>
+<fig id="fig-" fig-type="figure" position="float"><caption>
+<p>
 TABLE 1.
 Branchial formula of 
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
+<tp:taxon-name>Odontozona spongicola ( Alcock &amp; Anderson, 1899 )</tp:taxon-name>
 .
 </p>
 </caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
-<!--template match = paragraph--><p>
-<!--template match = table--><table id="d1e508">
-<!--template match = tr--><tr>
-<!--template match = td--><td>Maxillipeds</td>
-<!--template match = td--><td>Pereiopods</td>
+<p>
+<table id="d1e508">
+<tr>
+<td>Maxillipeds</td>
+<td>Pereiopods</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>I</td>
-<!--template match = td--><td>II</td>
-<!--template match = td--><td>III</td>
-<!--template match = td--><td>I</td>
-<!--template match = td--><td>II</td>
-<!--template match = td--><td>III</td>
-<!--template match = td--><td>IV</td>
-<!--template match = td--><td>V</td>
+<tr>
+<td>I</td>
+<td>II</td>
+<td>III</td>
+<td>I</td>
+<td>II</td>
+<td>III</td>
+<td>IV</td>
+<td>V</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Pleurobranchs</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
+<tr>
+<td>Pleurobranchs</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Arthrobranchs</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>2</td>
-<!--template match = td--><td>2</td>
-<!--template match = td--><td>2</td>
-<!--template match = td--><td>2</td>
-<!--template match = td--><td>2</td>
-<!--template match = td--><td>-</td>
+<tr>
+<td>Arthrobranchs</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Podobranch</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
+<tr>
+<td>Podobranch</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Epipods</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>-</td>
+<tr>
+<td>Epipods</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
 </tr>
-<!--template match = tr--><tr>
-<!--template match = td--><td>Exopods</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>1</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
-<!--template match = td--><td>-</td>
+<tr>
+<td>Exopods</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 </table>
 </p>
-<!--template match = paragraph--><p>
+<p>
 First maxilliped (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3F</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3F</xref>
 ) with stout endopod consisting of 2 articles, distal article tapering with long setae, proximal article subquadrate; coxal endites distinctly bilobed; basial endite very large and oval, inner margin slightly convex; exopod well developed, slender; epipod rather large and distinctly bilobed, anterior lobe moderately oval and curved, posterior lobe similar to anterior lobe.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Second maxilliped (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3G</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3G</xref>
 ) with 4-jointed robust endopod; dactylus suboval, with dense fringe of setae along distodorsal margin; propodus equal length as dactylus, with dense short setae on dorsal margin; carpus short, cuplike, with long setae on dorsal margin; merus robust and longest, about 3 times as long as propodus, with ventral margin convex; ischium, basis and coxa incompletely fused; exopod long and slender.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Third maxilliped (
-<!--template match = figureCitation--><xref rid="fig-6--151-250-1885-1909-">Figs. 3H</xref>
+<xref rid="fig-6--151-250-1885-1909-">Figs. 3H</xref>
 ) pediform, setose, with moderately robust endopod; dactylus and propodus subequal; propodus with apparently setiferous organs at distomesial angle; carpus slightly longer than propodus and with dense long setae; merus longest, about 1.5 times as long as propodus, dorsal margin with 4–5 spines, ventral margin with 4–6 spinules; ischium 0.9 time as long as merus; exopod long and slender, distally bearing few long setae.
 </p>
-<!--template match = paragraph--><p>
+<p>
 First 3 pereiopods chelate, increasing in size posteriorly. First pereiopod (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1626-1650-">Fig. 4A, B</xref>
+<xref rid="fig-7--151-250-1626-1650-">Fig. 4A, B</xref>
 ) slender, thin, overreaching scaphocerite by length of chela, with well-developed grooming apparatus; fingers elongate, with hooked crossing tips, bearing tufts of long setae distally; dactylus about 0.4 time propodal length; carpus longest, about 1.3 times as long as propodus; merus 0.8–0.9 time length of carpus; ischium 0.6–0.7 time length of merus.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Second pereiopod (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1626-1650-">Fig. 4C</xref>
+<xref rid="fig-7--151-250-1626-1650-">Fig. 4C</xref>
 ) similar to first pereiopod, but longer (1.5 times) and lacking grooming apparatus; dactylus 0.4 time length of propodus, lateral margin with a few granules and bearing tufts of long setae distally; lateral margin of propodus with a few tubercles near midlength, with distal tufts of setae; carpus longest and 1.8 times as long as propodus; merus 0.7 time length of carpus; ischium 0.6 time of meral length.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Third pereiopod (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1626-1650-">Fig. 4D, E</xref>
+<xref rid="fig-7--151-250-1626-1650-">Fig. 4D, E</xref>
 ) largest and strongest, extending beyond scaphocerite by chela and half length of carpus; fingers slightly compressed with sharp hooked crossing tips; dactylus about 0.4 time chela length, bearing tufts of long setae distally; cutting edge of dactylus crested, with small triangular tooth proximally; cutting edge of fixed finger also crested, proximal portion with 2 blunt, truncated teeth separated by deep hiatus; palm, 2.7–3.1 times longer than wide, dorsal margin slightly convex, smooth or with 4 tubercles distally, ventral margin also gently convex, with 2–4 tubercles around midlength otherwise smooth; lateral and mesial surface glabrous, without armature; carpus about half length of chela, dorsal margin with 2 or 3 acuminate, forwardly curved spines, ventral margin with 1 spine near midlength; merus more or less as long as carpus, bearing 2 curved, acute spines on dorsal margin, 3 smaller spines on ventral margin; ischium 0.6 times length of carpus, unarmed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Fourth and fifth pereiopods (
-<!--template match = figureCitation--><xref rid="fig-7--151-250-1626-1650-">Fig. 4F, G</xref>
+<xref rid="fig-7--151-250-1626-1650-">Fig. 4F, G</xref>
 ) slender and similar, dactyli distinctly biunguiculate. Fourth and fifth pereiopods overreaching scaphocerite by half carpus and one-third carpus, respectively; dactylus about 0.4 times length of propodus; propodus about half length of carpus, subdivided into 2 articles, ventral margin with row of 8–10 movable spines; carpus longest, subdivided in 3 distinct articles, sometimes with 1 movable spine on ventral margin of article, with 1 long seta and sometimes also 1 movable spine at ventrodistal angle; merus 0.8–0.9 time of carpal length; ischium about half length of merus, unarmed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Abdomen (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2C</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2C</xref>
 ) glabrous. First somite with distinct transverse carina, its margin overhanging depressed articulate part; articulate part of pleuron smooth and ventrally rounded; non-articulate part of pleuron unarmed and also ventrally rounded. Second somite with relatively low transverse carina, its margin slightly overhanging articulate part. Second to fifth pleura unarmed on lateral surfaces, ventral margin more or less rounded. Sixth somite widened posteriorly, devoid of lateral spines.
 </p>
-<!--template match = paragraph--><p>
+<p>
 First pleopod (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2E</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2E</xref>
 ) uniramous, shorter than other pleopods. Second to fifth pleopods biramous. Second pleopod (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2F</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2F</xref>
 ) with protopod slightly shorter than both rami, unarmed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Telson (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2D</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2D</xref>
 ) lancelolate, 2 times longer than board, with median groove flanked by 2 longitudinal carinae, outer margins of carinae each bearing 6–7 strong spines, distal spine overlapping rounded posterior margin of telson, inner margin of right carina with 2 smaller spines at anterior half; basal region also bearing 2 pairs of spines; lateral margin with shallow subproximal concavity, and 1 distinct medial spine. Uropods (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2D</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2D</xref>
 ) well developed and size similar to telson; exopod with outer margin bearing 8 small, acute teeth; dorsal surface with 2 unarmed longitudinal carinae, posterior margin rounded; endopod with outer margin smooth and posterior margin rounded, dorsal surface bearing 1 distinct straight longitudinal median ridge and 1 weak inner curved ridge, both ridges unarmed.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Coloration.
 Body and appendages generally whitish semitransparent. Rostrum transparent. Carapace whitish transparent, with red patch on postorbital area. Eye with cornea yellowish and posterior margin reddish. First to sixth abdominal tergites each with light red thick transverse band posteriorly, those on second and third somites largest. Mouth parts more or less reddish. Tail fan generally transparent, only with patches of light red at posterior part of lateral margins of uropods.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Indo-Pacific and known from 
 India
@@ -406,30 +406,30 @@ and off California in the East Pacific; at depths of
 and associated with hexactinellid sponges.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona spongicola</tp:taxon-name>
+<tp:taxon-name>Odontozona spongicola</tp:taxon-name>
 was previously only known by eight specimens. Other than three specimens from the 
 Philippines
 (
-<!--template match = bibRefCitation--><xref rid="ref5823">
+<xref rid="ref5823">
 Saito 
 et al
 ., 2017
 </xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref5759">Saito &amp; Fujita, 2018</xref>
+<xref rid="ref5759">Saito &amp; Fujita, 2018</xref>
 ), only one specimen has been reported from 
 India
 (
-<!--template match = bibRefCitation--><xref rid="ref4272">Alcock 1901</xref>
+<xref rid="ref4272">Alcock 1901</xref>
 ), Andaman Sea (
-<!--template match = bibRefCitation--><xref rid="ref4391">Alcock &amp; Anderson 1899</xref>
+<xref rid="ref4391">Alcock &amp; Anderson 1899</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref4272">Alcock 1901</xref>
+<xref rid="ref4272">Alcock 1901</xref>
 ), Pratas (
-<!--template match = bibRefCitation--><xref rid="ref4707">
+<xref rid="ref4707">
 Chen 
 et al
 ., 2016
@@ -437,21 +437,21 @@ et al
 ), 
 Australia
 (
-<!--template match = bibRefCitation--><xref rid="ref4999">Goy, 1992</xref>
+<xref rid="ref4999">Goy, 1992</xref>
 ) and California (
-<!--template match = bibRefCitation--><xref rid="ref5885">Wicksten 1982</xref>
+<xref rid="ref5885">Wicksten 1982</xref>
 ). The present 
 Indonesia
 and South 
 China
 Sea specimens fit well with the characteristics of 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 in the carapace swollen with posterior half behind the spinous cervical groove smooth, abdomen not sculptured, and the carpus and propodus of last two pereiopods subdivided into 2–3 distinct articles (see 
-<!--template match = bibRefCitation--><xref rid="ref4391">Alcock &amp; Anderson 1899</xref>
+<xref rid="ref4391">Alcock &amp; Anderson 1899</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref4999">Goy 1992</xref>
+<xref rid="ref4999">Goy 1992</xref>
 ; 
-<!--template match = bibRefCitation--><xref rid="ref5823">
+<xref rid="ref5823">
 Saito 
 et al
 . 2017
@@ -459,7 +459,7 @@ et al
 ). There are some discrepancies between the present material and the 
 type
 from the Andaman Sea (
-<!--template match = bibRefCitation--><xref rid="ref4391">Alcock &amp; Anderson, 1899</xref>
+<xref rid="ref4391">Alcock &amp; Anderson, 1899</xref>
 ; Alcock, 1899, 1901). The third pereiopod has the merus bearing spines and the ventral margin of the chela having 2 to 4 tubercles in the present material but these regions are all unarmed in the 
 type
 . Moreover, the ventral margins of the propodi of the last two pereiopods are spinous in the present material but also unarmed in the 
@@ -469,16 +469,16 @@ type
 has two hepatic spine but the present material has only one hepatic spine. Moreover, the spines behind the cervical groove in the 
 type
 (Alcock, 1899: pl.17-fig. 4) appear to be larger than those of the present material (
-<!--template match = figureCitation--><xref rid="fig-3--151-250-1583-1607-">Fig. 2A, B</xref>
+<xref rid="fig-3--151-250-1583-1607-">Fig. 2A, B</xref>
 ). Examination of the 
 type
 or topotypic material is necessary to determine if these spines and tubercles are indeed absent or difference in size in specimens from the Andaman Sea and 
 India
 .
 </p>
-<!--template match = paragraph--><p>
+<p>
 On the other hand, the 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 specimens from 
 Australia
 and California are similar to the present material from 
@@ -486,13 +486,13 @@ Indonesia
 and the South 
 China
 Sea in the merus of the third pereiopod and the propodi of the last two pereiopods being spinous (see 
-<!--template match = bibRefCitation--><xref rid="ref4999">Goy, 1992</xref>
+<xref rid="ref4999">Goy, 1992</xref>
 ). The specimen from the South 
 China
 Sea (NTOU 
 M01910
 ) listed in 
-<!--template match = bibRefCitation--><xref rid="ref4707">
+<xref rid="ref4707">
 Chen 
 et al
 . (2016)
@@ -502,102 +502,102 @@ China
 Sea specimen, however, is generally very similar to the SJADES specimen both in morphology and coloration. For the three 
 Philippines
 specimens of 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 reported by in 
-<!--template match = bibRefCitation--><xref rid="ref5823">
+<xref rid="ref5823">
 Saito 
 et al
 . (2017)
 </xref>
 and 
-<!--template match = bibRefCitation--><xref rid="ref5759">Saito &amp; Fujita (2018)</xref>
+<xref rid="ref5759">Saito &amp; Fujita (2018)</xref>
 , no detailed description was provided.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Besides 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 , there are eight other deep-water species in the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona</tp:taxon-name>
+<tp:taxon-name>Odontozona</tp:taxon-name>
 , viz. 
-<!--template match = taxonomicName--><tp:taxon-name>O. edwardsi ( Bouvier, 1908 )</tp:taxon-name>
+<tp:taxon-name>O. edwardsi ( Bouvier, 1908 )</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. foresti Hendrickx, 2002</tp:taxon-name>
+<tp:taxon-name>O. foresti Hendrickx, 2002</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. joegoyi Hendrick &amp; Ayon-Parente, 2014</tp:taxon-name>
+<tp:taxon-name>O. joegoyi Hendrick &amp; Ayon-Parente, 2014</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. lopheliae Goy &amp; Cardoso, 2014</tp:taxon-name>
+<tp:taxon-name>O. lopheliae Goy &amp; Cardoso, 2014</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>O. meloi Anker &amp; Tavares, 2013</tp:taxon-name>
+<tp:taxon-name>O. meloi Anker &amp; Tavares, 2013</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. minoica Dounas &amp; Koukouras, 1989</tp:taxon-name>
+<tp:taxon-name>O. minoica Dounas &amp; Koukouras, 1989</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. spinosissima Kensley, 1981</tp:taxon-name>
+<tp:taxon-name>O. spinosissima Kensley, 1981</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. striata Goy, 1981</tp:taxon-name>
+<tp:taxon-name>O. striata Goy, 1981</tp:taxon-name>
 . Among these nine species, they can be clearly subdivided into three groups. The first group has grooved and toothed abdomen, and the carapace is densely covered with many small spines (
-<!--template match = taxonomicName--><tp:taxon-name>O. spinosissima</tp:taxon-name>
+<tp:taxon-name>O. spinosissima</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. striata</tp:taxon-name>
+<tp:taxon-name>O. striata</tp:taxon-name>
 ). The abdomen of the second group is smoother, and there are fewer spines on the carapace, but has two distinct rows of circular spines behind the cervical groove (
 
-<!--template match = taxonomicName--><tp:taxon-name>O. foresti</tp:taxon-name>
+<tp:taxon-name>O. foresti</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. meloi</tp:taxon-name>
+<tp:taxon-name>O. meloi</tp:taxon-name>
 
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. minoica</tp:taxon-name>
+<tp:taxon-name>O. minoica</tp:taxon-name>
 ). The third group has a rather smooth abdomen, bears fewest spines on the carapace and has only one row of circular spines behind the cervical groove (
-<!--template match = taxonomicName--><tp:taxon-name>O. edwardsi</tp:taxon-name>
+<tp:taxon-name>O. edwardsi</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. joegoyi</tp:taxon-name>
+<tp:taxon-name>O. joegoyi</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. lopheliae</tp:taxon-name>
+<tp:taxon-name>O. lopheliae</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 ). Among the four species in the third group, 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>O. joegoyi</tp:taxon-name>
+<tp:taxon-name>O. joegoyi</tp:taxon-name>
 in bearing hepatic spines (vs. absent) and the abdomen pleura ventrally smooth (vs. spinulose). The present species mainly differs from 
-<!--template match = taxonomicName--><tp:taxon-name>O. lopheliae</tp:taxon-name>
+<tp:taxon-name>O. lopheliae</tp:taxon-name>
 in the third pereiopod, which is much more spinose in the propodus to carpus for 
 
-<!--template match = taxonomicName--><tp:taxon-name>O. lopheliae</tp:taxon-name>
+<tp:taxon-name>O. lopheliae</tp:taxon-name>
 . 
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona edwardsi</tp:taxon-name>
+<tp:taxon-name>Odontozona edwardsi</tp:taxon-name>
 
 differs from 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 in lacking the transverse grooves on the anterior three abdominal somites but bearing dorso-transverse carina on the sixth abdominal somite, and propodus of the third pereopod distinctly spinous. It may need to point out that the epistome and labrum are most similar between 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 and 
-<!--template match = taxonomicName--><tp:taxon-name>O. edwardsi</tp:taxon-name>
+<tp:taxon-name>O. edwardsi</tp:taxon-name>
 , and therefore, these two species appear to be most closely related.
 </p>
-<!--template match = paragraph--><p>
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona spongicola</tp:taxon-name>
+<p>
+<tp:taxon-name>Odontozona spongicola</tp:taxon-name>
 is the only one species of the genus reported to have association with hexactinellid sponges (
-<!--template match = bibRefCitation--><xref rid="ref5823">
+<xref rid="ref5823">
 Saito 
 et al.
 , 2017
 </xref>
 ). On the other hand, Saito and Komatsu (2009) reported two species of 
-<!--template match = taxonomicName--><tp:taxon-name>Richardina</tp:taxon-name>
+<tp:taxon-name>Richardina</tp:taxon-name>
 also associated with hexactinellid sponges. Because of this similar life style, Saito and Komatsu (2009) proposed that 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 may be necessary to transfer to the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Richardina</tp:taxon-name>
+<tp:taxon-name>Richardina</tp:taxon-name>
 . In a recent molecular phylogeny analysis on 
-<!--template match = taxonomicName--><tp:taxon-name>Stenopodidea</tp:taxon-name>
+<tp:taxon-name>Stenopodidea</tp:taxon-name>
 , 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 is also revealed to be closer to the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Richardina ( Chen et al. , 2016 )</tp:taxon-name>
+<tp:taxon-name>Richardina ( Chen et al. , 2016 )</tp:taxon-name>
 . The exact generic affinity of 
-<!--template match = taxonomicName--><tp:taxon-name>O. spongicola</tp:taxon-name>
+<tp:taxon-name>O. spongicola</tp:taxon-name>
 still awaits a full revision on the genus 
-<!--template match = taxonomicName--><tp:taxon-name>Odontozona</tp:taxon-name>
+<tp:taxon-name>Odontozona</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>

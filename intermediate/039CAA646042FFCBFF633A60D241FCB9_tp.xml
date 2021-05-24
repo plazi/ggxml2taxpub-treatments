@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tp:taxon-treatment
   PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
 <tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
-<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Neozavrelia oyabeparvulus ( Sasa, Kawai, Ueno, 1988 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:nomenclature><tp:taxon-name>Neozavrelia oyabeparvulus ( Sasa, Kawai, Ueno, 1988 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<tp:treatment-sec sec-type="description">
+<p>
 (
-<!--template match = figureCitation--><xref rid="fig-">Figs 77–87</xref>
+<xref rid="fig-">Figs 77–87</xref>
 )
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<tp:treatment-sec sec-type="reference_group">
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Tanytarsus oyabeparvulus Sasa, Kawai, Ueno, 1988: 41</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Tanytarsus oyabeparvulus Sasa, Kawai, Ueno, 1988: 41</tp:taxon-name>
 , Plate 7A. 
 Comb. nov.
 </tp:nomenclature-citation-list>
 
 
-<!--treatment-citation-group--><tp:nomenclature-citation-list>
-<!--template match = taxonomicName--><tp:taxon-name>Tanytarsus okamotoi Sasa, 1989: 41–42</tp:taxon-name>
+<tp:nomenclature-citation-list>
+<tp:taxon-name>Tanytarsus okamotoi Sasa, 1989: 41–42</tp:taxon-name>
 , 
-<!--template match = figureCitation--><xref rid="fig-8--151-264-1943-1967-">Fig. 14</xref>
+<xref rid="fig-8--151-264-1943-1967-">Fig. 14</xref>
 , Plate 7. 
 Comb. nov.
 , 
@@ -30,33 +30,33 @@ syn. nov.
 </tp:nomenclature-citation-list>
 
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="materials_examined">
+<p>
 Material examined.
-<!--template match = materialsCitation--><tp:material-citation>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 males</named-content>
+<tp:material-citation>
+<named-content content-type="specimenCount">8 males</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">RUSSIA</named-content>
+<named-content content-type="collectingCountry">RUSSIA</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">SAKHALIN OBLAST</named-content>
+<named-content content-type="collectingRegion">SAKHALIN OBLAST</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sakhalin</named-content>
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Island</named-content>
+<named-content content-type="collectingRegion">Sakhalin</named-content>
+<named-content content-type="collectingCounty">Island</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Korsakovsky District</named-content>
+<named-content content-type="collectingMunicipality">Korsakovsky District</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Vavayskoye Lake</named-content>
+<named-content content-type="location">Vavayskoye Lake</named-content>
 , 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5–15.vii.2004</named-content>
+<named-content content-type="date">
+<named-content content-type="collectingDate">5–15.vii.2004</named-content>
 </named-content>
 , leg. 
-<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Makarchenko.</named-content>
+<named-content content-type="collectorName">E. Makarchenko.</named-content>
 </tp:material-citation>
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="description">
+<p>
 Description
 . 
 Adult male
@@ -66,26 +66,26 @@ Adult male
 1.11–1.12 mm
 . Total length/wing length 1.35–1.56.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Colouration
 . Ground colour of thorax, maxillary palpomeres, scutellum, abdomen and legs yellowish brown; halters yellowish; antenna, scutal stripes, median band on distal half of mesonotum and postnotum brown.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Head
 (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1462-1486-">Figs 82–83</xref>
+<xref rid="fig-29--151-264-1462-1486-">Figs 82–83</xref>
 ). Frontal tubercles minute, 3 μm long and 4 μm wide. Temporal setae 8–10. Clypeus with 8–10 setae. Antenna with 13 flagellomeres, 570–600 μm long; ultimate flagellomere 220–225 μm. AR 0.60–0.63. Maxillary palpomeres 2–4 combined 290–325 μm long, their individual lengths (in μm): 35–45: 75–90: 75–90: 105–120. Antenna length/palp length 1.85–1.97.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Thorax
 . Acrostichals 11–16, dorsocentrals 4–6, prealar 1. Scutellum with 4 setae.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Wing
 width 
 0.29–0.33 mm
 (
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1462-1486-">Figs 84–85</xref>
+<xref rid="fig-29--151-264-1462-1486-">Figs 84–85</xref>
 ). VR 1.29–1.31. R with 16–20, R 
 1
 with 4–6, R 
@@ -106,57 +106,57 @@ with 3–11 setae, An with 8–13, Vf with 13–20 setae. Cell r
 3+4
 with setae. Brachiolum with 1 seta.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Legs
 (see 
-<!--template match = tableCitation--><xref>Table 11</xref>
+<xref>Table 11</xref>
 ). Apical curved tibial spur of fore leg 22–24 μm long. Combs of mid and hind tibiae separated; each comb bears straight or slightly curved spur, 14–22 μm (mid tibia) to 20–24 μm long (hind tibia). Basitarsus of mid leg without sensilla chaetica.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Hypopygium
 (
-<!--template match = figureCitation--><xref rid="fig-28--151-264-1832-1856-">Figs 77–79</xref>
+<xref rid="fig-28--151-264-1832-1856-">Figs 77–79</xref>
 , 
-<!--template match = figureCitation--><xref rid="fig-29--151-264-1462-1486-">86–87</xref>
+<xref rid="fig-29--151-264-1462-1486-">86–87</xref>
 ). Anal tergite with H-shaped bands which reach base of anal point, central part of tergite IX covered with microtrichia and with 5–7 lateral setae on each side, free-microtrichia areas present on the sides of anal tergite bands. The anal point (22–24 μm long and 20 μm wide in the base and 16 μm wide on the apex) broad, parallel-sided or triangular form, rounded apically, dorsally covered with 8–12 strong spinulae (6–12 μm long), microtrichia and bearing 2–3 lateral setae on each side of the anal point (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Figs. 2–3</xref>
+<xref rid="fig-4--151-264-1943-1967-">Figs. 2–3</xref>
 ). Gonocoxite 80–110 μm long, along the inner margin with 4 setae. The width of the transverse sternapodema 
 50 µm
 . Phallopodema 90 μm long. Superior volsella elongated oval-shaped (40–50 μm long, 26 μm wide), bearing 2 median setae and 1 strong inner seta on a tubercle, and 5–6 fine dorsal setae, microtrichia absent (
-<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Figs 4–5</xref>
+<xref rid="fig-4--151-264-1943-1967-">Figs 4–5</xref>
 ). Digitus 16–22 μm long, reaching the apex of the superior volsella. Stem of the median volsella straight 26 μm long, bearing slender lamelliform setae; total length of the median volsella 40 μm. Inferior volsella curved and rounded apically, 72 μm long, with 10–18 setae. Gonostylus straight, 66–70 μm long and expanded at about median 20 μm. HR 1.21–1.57.
 </p>
-<!--template match = paragraph--><p>
+<p>
 Pupa
 and 
 larva
 unknown.
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="discussion">
+<p>
 Remarks.
 According to 
-<!--template match = bibRefCitation--><xref rid="ref24563">Sasa (1989)</xref>
+<xref rid="ref24563">Sasa (1989)</xref>
 : “both species differ from each other in that spines on anal point are distributed on the entire dorsal surface in present species (they are situated only on the posterior margin of anal point in 
-<!--template match = taxonomicName--><tp:taxon-name>oyabeparvulus</tp:taxon-name>
+<tp:taxon-name>oyabeparvulus</tp:taxon-name>
 )”. In the specimens we found on Vavayskoye Lake, the length of the spines on the anal point varied from 6 to 12 μm (
-<!--template match = figureCitation--><xref rid="fig-28--151-264-1832-1856-">Figs 78–79</xref>
+<xref rid="fig-28--151-264-1832-1856-">Figs 78–79</xref>
 ). When comparing photographs of hypopygium and the morphological description of these two species of obvious morphometric distinctive features were not revealed (see 
-<!--template match = tableCitation--><xref>Table 12</xref>
+<xref>Table 12</xref>
 ) (http://www. 
 type
 . kahaku.go.jp/TypeDB/mediaDetail?cls=diptera&amp;pkey=diptera-000126&amp;lCls=m_diptera&amp;lPkey=272738&amp;detailln kIdx=0 and http://www. 
 type
 .kahaku.go.jp/TypeDB/mediaDetail?cls=diptera&amp;pkey=diptera-000146&amp;lCls=m_dipt era&amp;lPkey=272821&amp;detaillnkIdx=0). Based on the above, we believe that 
-<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia okamotoi ( Sasa, 1989 )</tp:taxon-name>
+<tp:taxon-name>Neozavrelia okamotoi ( Sasa, 1989 )</tp:taxon-name>
 is a junior synonym 
-<!--template match = taxonomicName--><tp:taxon-name>N. oyabeparvulus ( Sasa et al ., 1988 )</tp:taxon-name>
+<tp:taxon-name>N. oyabeparvulus ( Sasa et al ., 1988 )</tp:taxon-name>
 .
 </p>
 </tp:treatment-sec>
-<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
-<!--template match = paragraph--><p>
+<tp:treatment-sec sec-type="distribution">
+<p>
 Distribution.
 Japan
 (Shou River) and Russian Far East—Sakhalin 
