@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Centropomus parallelus Poey, 1860<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-22--151-250-1267-1291-">Figure 13</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus parallelus Poey, 1860: 120</tp:taxon-name>
+</tp:nomenclature-citation>
+(original description; 
+Cuba
+)
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus mexicanus Bocourt, 1868: 90</tp:taxon-name>
+</tp:nomenclature-citation>
+(original description; 
+Oaxaca
+, 
+Mexico
+)
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus constantinus</tp:taxon-name>
+Jordan
+&amp; Starks in 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref27331">
+Jordan
+&amp; Evermann, 1896: 1125
+</xref>
+</tp:nomenclature-citation>
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus heringi Fowler, 1906: 425</tp:taxon-name>
+</tp:nomenclature-citation>
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus gabbi Fowler, 1906: 423</tp:taxon-name>
+</tp:nomenclature-citation>
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus pellegrini Puyo, 1936: 213</tp:taxon-name>
+</tp:nomenclature-citation>
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">
+MCZ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">10307</named-content>
+</named-content>
+, 228 mm SL (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 13</named-content>
+), loc.: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Havana</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Cuba</named-content>
+, ex coll.: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Poey.</named-content>
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref28485">Poey (1860)</xref>
+described 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+based on 
+150 mm
+TL specimen, collected off 
+Cienfuegos
+, 
+Cuba
+. Howell-Rivero (1938) proposed that a specimen deposited in the Museum of Comparative Zoology (
+MCZ 10271
+) was the 
+holotype
+. 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+rejected the specimen as 
+holotype
+, due to discrepancies in characters of the original description. The 
+neotype
+(
+MCZ 10307
+), designated by 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+, is a 
+228 mm
+SL specimen also from 
+Cuba
+, which conforms to the original description of the species.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus parallelus</tp:taxon-name>
+differs from its congeners as follows:
+</p>
+<!--template match = paragraph--><p>
+Western Atlantic: from 
+<!--template match = taxonomicName--><tp:taxon-name>C. undecimalis</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+61–79, usually 66–75), 10–13 lower limb gill rakers on first arch (
+vs
+8–11), 13–18 gill rakers on first arch (
+vs
+11–14), the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base), pelvic fin usually reaching the anus (
+vs
+pelvic fin not reaching anus), and a less elongate and higher body, with a mean body height of 26.6% SL (
+vs
+more elongate and lower body, with a mean body height of 22.9% SL; from 
+<!--template match = taxonomicName--><tp:taxon-name>C . irae</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+79–96), 10–13 lower limb gill rakers on first arch (
+vs
+7–8), 13–18 gill rakers on first arch (
+vs
+11–13), the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base), pelvic fin usually reaching the anus (
+vs
+pelvic fin not reaching the anus), and a less elongate and higher body, with a mean body height of 26.6% SL (
+vs
+more elongate and lower body, with a mean body height of 22.3% SL); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. ensiferus</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+48–58), 10–13 lower limb gill rakers on first arch (
+vs
+10–15), 13–18 gill rakers on first arch (
+vs
+15–20), and pelvic fin usually reaching the anus (
+vs
+pelvic fin usually not reaching the anus); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+47–52), 10–13 lower limb gill rakers on first arch (
+vs
+14–16), 13–18 gill rakers on first arch (
+vs
+20–23), and anal fin with III,7 (
+vs
+III,8); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. poeyi</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+69–74), 10–13 lower limb gill rakers on first arch (
+vs
+9–12), pelvic fin usually reaching the anus (
+vs
+pelvic fin not reaching anus), and second dorsal fin with I,11 (rarely I,10) (
+vs
+I,9).
+</p>
+<!--template match = paragraph--><p>
+Eastern Pacific: from 
+<!--template match = taxonomicName--><tp:taxon-name>C. nigrescens</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+68–76), 10–13 lower limb gill rakers on first arch (
+vs
+8–9), and the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base); from 
+<!--template match = taxonomicName--><tp:taxon-name>C.viridis</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+67–75), the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base), and second dorsal fin with I,11 (rarely I,10) (
+vs
+I,9); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. armatus</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+47–59); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. robalito</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+47–59), 10–13 lower limb gill rakers on first arch (
+vs
+14–17), and 13–18 gill rakers on first arch (
+vs
+21–25); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. unionensis</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+46–52), 13–18 gill rakers on first arch (
+vs
+15–20), the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base), and second dorsal fin with I,11 (rarely I,10) (
+vs
+I,9); from 
+<!--template match = taxonomicName--><tp:taxon-name>C. medius</tp:taxon-name>
+, by having 60–88 (usually 64–70) scales on lateral line to caudal-fin base (
+vs
+53–65), 10–13 lower limb gill rakers on first arch (
+vs
+14–16), 13–18 gill rakers on first arch (
+vs
+18–23), the longest anal-fin spine usually reaching caudal-fin base when adpressed (
+vs
+longest anal-fin spine not reaching caudal-fin base), and anal fin with III,7 (
+vs
+III,8).
+</p>
+<!--template match = paragraph--><p>
+Molecular data.
+Specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>C. undecimalis</tp:taxon-name>
+forms a distinct cluster in the COI sequences analysis, with 100% bootstrap value (
+<!--template match = figureCitation--><xref rid="fig-15--151-250-1944-1968-">Figure 8</xref>
+). The genetic distance between this species and other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus</tp:taxon-name>
+ranged from 0.142 to 0.184 (
+<!--template match = tableCitation--><xref>Table 7</xref>
+). The 
+<!--template match = taxonomicName--><tp:taxon-name>C. paralleus</tp:taxon-name>
+clade is the sister group of a large clade that includes 
+<!--template match = taxonomicName--><tp:taxon-name>C. undecimalis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>C. irae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>C. nigrescens</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>C. viridis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>C. pectinatus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>C. medius</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Morphometrics and meristics data are summarized in 
+<!--template match = tableCitation--><xref>Tables 8</xref>
+, 
+<!--template match = tableCitation--><xref>9</xref>
+and 
+<!--template match = tableCitation--><xref>10</xref>
+on the basis of 
+182 specimens
+, 
+44.4–432 mm
+TL (
+201.8 mm
+average). Body high, mean body height 26.6% SL (10.0%–31.0%); body slightly elongate, head moderately elongate, mean head length 37.6% SL (29.6%–71.3%); head moderately high, mean head height 24.2% SL (18.9%–28.4%); largest specimen measured 
+357 mm
+SL. Lower jaw protractile, slightly longer than upper jaw, extending beyond tip of snout. Snout narrow and long, mean snout length 11.4% SL (7.6%–22.5%); eye relatively small, mean orbital diameter 19.1% HL. Preoperculum heavily serrated in adults; operculum smooth, without spines, bordered by a membrane that extends beyond origin of pectoral fin; 3–8 small spines in dorsal part of operculum.
+</p>
+<!--template match = paragraph--><p>Dorsal fins separated by a small gap, not connected by membrane, first dorsal fin VII–IX, second dorsal fin I,10–I,12. Pectoral fin with 13–16 rays, longest ray extending beyond origin of pelvic fin. Pelvic fin I,5, longest ray usually reaching anus. Anal fin III,7 (rarely III,6 or III,8), second spine usually longer than first spine; longest spine usually reaching caudal-fin base when adpressed. Caudal fin deeply forked. Lateral line slightly arched with ctenoid scales, extending onto caudal fin. Lateral line with 60–88 scales to caudal-fin base, usually 64–70; 64–90 scales extending onto end of caudal fin. Scale rows between lateral line and origin of second dorsal fin 8–14; scale rows between lateral line and origin of anal fin 10–15. 8–13 (usually 10–13) lower limb gill rakers on first arch; 12–18 (usually 13–18) gill rakers on first arch, excluding rudiments; 12–21 (usually 18–20) gill rakers on second arch, including rudiments.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+<!--template match = taxonomicName--><tp:taxon-name>Centropomus parallelus</tp:taxon-name>
+occurs between the southeastern portion of the Gulf of Mexico, the Antilles, and 
+Santa Catarina
+, 
+Brazil
+. The distribution of 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+is in accordance with previous records in the literature (
+<!--template match = bibRefCitation--><xref rid="ref27879">Meek &amp; Hildebrand 1925</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref26472">Cervigón 1966</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref26782">Figueiredo &amp; Menezes 1980</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref27058">Guitart 1985</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas 1986</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref26369">Carvalho-Filho 1999</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+stated that it is possible to differentiate 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+from 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+based on scale counts in lateral line, above lateral line, below lateral line, and around the caudal peduncle, and that both species are sympatric in the Atlantic. However, as shown here, these characters exhibit high overlap and large variation within species and thus are non-informative for species diagnosis. 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+also stated that the number of scales in the lateral line is the main character for separation between the two species, with 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+having 79–92 scales and 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+68–78 scales. This character is also presented in the description of their type specimens, 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+with 85 scales and 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+with 67 scales, although 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas (1986)</xref>
+noticed counting discrepancies between the original description of 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+and its 
+holotype
+(
+MCZ 10271
+). Previous studies indeed indicate a strong variation in the number of lateral line scales of 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+(
+<!--template match = bibRefCitation--><xref rid="ref27879">Meek &amp; Hildebrand 1925</xref>
+[77–90]; 
+<!--template match = bibRefCitation--><xref rid="ref26472">Cervigón 1966</xref>
+[80–86]; 
+<!--template match = bibRefCitation--><xref rid="ref26782">Figueiredo &amp; Menezes 1980</xref>
+[70–75]; 
+<!--template match = bibRefCitation--><xref rid="ref27058">Guitart 1985</xref>
+[79–89]; 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas 1986</xref>
+[79–92]; 
+<!--template match = bibRefCitation--><xref rid="ref26369">Carvalho-Filho 1999</xref>
+[79–92]); the number of lateral line scales of 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+, in turn, is only mentioned by 
+<!--template match = bibRefCitation--><xref rid="ref26369">Carvalho-Filho 1999</xref>
+[68–79] and 
+<!--template match = bibRefCitation--><xref rid="ref28867">Rivas 1986</xref>
+[68–78]. Specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+are morphologically very similar and have largely overlapping geographic distributions. The character variation found here in previously identified specimens of both species are: lateral line scales (
+66–88 in
+
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+vs
+
+64–86 in
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+); scales above lateral line (
+9–12 in
+
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+vs
+
+10–11 in
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+); scales below lateral line (
+11–14 in
+
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+vs
+
+12–15 in
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+); lower limb gill rakers on first arch (
+10–13 in
+
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+vs
+
+11–12 in
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+); gill rakers on first arch (
+13–18 in
+
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+vs
+
+15–17 in
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+). It is clear that formely proposed diagnostic characters for the genus are highly overlapping between 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+in this study and those presented by previous authors. Therefore, based on the molecular and morphological evidence retrieved here, 
+<!--template match = taxonomicName--><tp:taxon-name>C. mexicanus</tp:taxon-name>
+is herein proposed as a junior synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>C. parallelus</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

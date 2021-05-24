@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 ) comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-">Figs 46–53</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium burnupi Collinge, 1902: 17</tp:taxon-name>
+, figs 1–2.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium burnupi</tp:taxon-name>
+– 
+
+<!--treatment-citation--><tp:nomenclature-citation>Collinge 1910: 171–172</tp:nomenclature-citation>
+
+. — 
+
+<!--treatment-citation--><tp:nomenclature-citation>Connolly 1912: 224</tp:nomenclature-citation>
+
+; 
+
+<!--treatment-citation--><tp:nomenclature-citation>1939: 456</tp:nomenclature-citation>
+
+. — 
+
+<!--treatment-citation--><tp:nomenclature-citation>Hoffmann 1928: 84</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+
+Lectotype
+
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">SOUTH AFRICA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">lectotype</named-content>
+(here designated; 21/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">16 mm</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Natal</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Umlaas Lagoon</named-content>
+[now the Umlazi River]; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NHMUK 1905.4.12.33</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+
+Paralectotype
+
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">SOUTH AFRICA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 paralectotype</named-content>
+(18/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 mm</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NHMUK 1905.4.12.34</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+
+Notes on 
+type
+material
+
+The notum of the 
+lectotype
+was cut open for the present study, with all internal organs remaining. The 
+paralectotype
+was not dissected.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Other material
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">MADAGASCAR</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(10/6 [3599] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mangaoka area</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">12°15.984′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">49°06.103′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18 May 2014</named-content>
+</named-content>
+; station 160; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+mangrove of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+, many small trees in center of mangrove had been cut
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1396</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(16/9 [3150] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Madagascar</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ambaro Bay</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">13°24.769′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">48°47.341′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 May 2014</named-content>
+</named-content>
+; Station 164; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+large, very dry mangrove of mostly 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Avicennia</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN- IM-2019-1398</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(14/9 [3151] mm);same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1399</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(12/6 [3602] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1397</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(16/10 [3603] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1395</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">MOZAMBIQUE</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(13/10 [729] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mecufi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50 km</named-content>
+S of Pemba
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Cabo Delgado Province</named-content>
+[about 13° S]; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Jul. 2006</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D.G. Reid</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on base of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Ceriops</named-content>
+</named-content>
+bush in landward zone of mangrove belt, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">30 cm</named-content>
+above firm mud
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NHMUK 20060274</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-88--189-232-1785-1811-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 46.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, live animals. 
+A–B
+. Dorsal view [unnumbered], South Africa, East London. 
+C
+. Dorsal view, 16 mm long [3150], Madagascar, Ambaro Bay (MNHN- IM-2019-1398). 
+D
+. Dorsal view, 10 mm long [3599], Madagascar, near Mangaoka (MNHN- IM-2019-1396). 
+E
+. Dorsal view, 14 mm long [3151], Ambaro Bay (MNHN-IM-2019-1399). 
+F
+. Dorsal view, 22 mm long [6153], South Africa, East London (ELM W04108). 
+G
+. Ventral view, 20 mm long [6149], South Africa, East London (ELM W04107). 
+H
+. Ventral view, same as F. 
+I
+. Ventral view, same as C. 
+J
+. Ventral view, same as D.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594447/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">SOUTH AFRICA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(32/11 [6146] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">East Cape</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kwelera River estuary</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">32°54.169′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°03.954′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 Jun. 2017</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Cole</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">mud amongst plants in supratidal fringe</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">ELM W04105</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(23/9 [6154] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">ELM W04107</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(22/10 [6153] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">ELM W04106</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(20/10 [6149] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">ELM W04108</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(19/7 [6148] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">ELM W04109</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
+<!--template match = paragraph--><p>
+Color and morphology of live animals
+(
+<!--template match = figureCitation--><xref rid="fig-88--189-232-1785-1811-">Fig. 46</xref>
+) The dorsal notum of live animals can be covered with mud, in which case their color may be obscured until they are washed. The dorsal notum is brown with dark brown or black markings. The hyponotum is light blue-grey and the foot is yellow. Papillae with dorsal eyes are present. Their exact number is variable, approximately from 15 to 38 were observed in specimens from 
+South Africa
+and between 12 and 20 were observed in specimens from 
+Madagascar
+. Each papilla bears one dorsal eye. Eyes are distributed across the notum but are absent from the margin (i.e., eyes are never &lt;
+2 mm
+from the notum edge).
+</p>
+<!--template match = paragraph--><p>
+Digestive system
+(
+<!--template match = figureCitation--><xref rid="fig-15--189-232-1538-1564-">Figs 2G</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">47–48B</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-94--189-232-1891-1917-">53</xref>
+) Radulae measure up to 
+3.3 mm
+in length. Examples of radular formulae are presented in 
+<!--template match = tableCitation--><xref>Table 5</xref>
+. The intestinal loops are of 
+type
+II, with a transitional loop oriented at approximately 7 o’clock (
+<!--template match = figureCitation--><xref rid="fig-15--189-232-1538-1564-">Figs 2G</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-90--189-232-1887-1913-">48A</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-94--189-232-1891-1917-">53</xref>
+).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-89--189-232-1892-1918-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 47.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, radula, South Africa. 
+A
+. Left, lateral teeth [6153]. 
+B
+. Rachidian tooth and innermost lateral teeth, same as A. 
+C
+. Right, lateral teeth [6149]. 
+D
+. Right, outermost, lateral teeth [6148]. Abbreviation: lp = lateral protuberance. Scale bars: A = 30 μm; B = 10 μm; C–D = 20 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594449/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Reproductive system
+(
+<!--template match = figureCitation--><xref rid="fig-">Figs 49–51</xref>
+) In the posterior (female) reproductive system, the oviduct is short, wider than the deferent duct (approximately twice as wide). The length of its distal section (distal to the spermatheca) is shorter than or equal to that of its proximal section. The deferent duct is slightly longer than the oviduct, is only loosely attached to it and varies from loosely to tightly coiled (
+<!--template match = figureCitation--><xref rid="fig-91--189-232-1861-1887-">Fig. 49</xref>
+). The female pore is approximately 
+0.5 to 2 mm
+from the anus. The distal, flexible region of the penis with hooks is 
+1 to 1.5 mm
+long. Penial hooks are large, between 
+25 to 70 µm
+long (
+<!--template match = figureCitation--><xref rid="fig-93--191-234-764-790-">Fig. 51A</xref>
+), and can be seen inside the semi-transparent penis. The retractor muscle of the penis inserts on the right side at the posterior end of the visceral cavity (from the posterior end of the heart, up to the posterior end of the visceral cavity). The length of the retractor muscle varies from half the length of the penial sheath to approximately two times its length (
+<!--template match = figureCitation--><xref rid="fig-92--189-232-1885-1911-">Fig. 50B</xref>
+). The deferent duct is highly convoluted.
+</p>
+<!--template match = paragraph--><p>
+Distinctive diagnostic features
+(
+<!--template match = tableCitation--><xref>Table 4</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi</tp:taxon-name>
+is the only known species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+from the western Indian Ocean. It can be distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. nov.
+by its grey hyponotum and yellow foot, and from 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+by the presence of dorsal eyes. 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi</tp:taxon-name>
+is similar in appearance to 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+, but lacks distinctly raised dorsal papillae. Its dorsal surface can even be smooth. It is difficult to distinguish 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+from 
+<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. tigrinus</tp:taxon-name>
+due to their similar coloration and granular dorsal appearance. Although individuals of 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+tend to be shorter than those of 
+<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. tigrinus</tp:taxon-name>
+, animal sizes overlap and cannot be used for identification.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-90--189-232-1887-1913-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 48.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, digestive system, dorsal view, intestinal loops of type II, with a transitional loop oriented at 7 o’clock. 
+A
+. South Africa, lectotype (NHMUK 1905.4.12.33). 
+B
+. Madagascar [3150] (MNHN-IM-2019-1398). Abbreviations: ddg = dorsal digestive gland; i = intestine; pdg = posterior digestive gland; rg = rectal gland; st = stomach. Scale bars = 2 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594451/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Internally, the intestinal loops of 
+type
+II differentiate 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+from 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+and some specimens (with intestinal loops of 
+type
+I) of 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. The reproductive system can be used to distinguish 
+<!--template match = taxonomicName--><tp:taxon-name>P.burnupi</tp:taxon-name>
+from all other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+. The deferent duct in the posterior reproductive system is loosely attached to the oviduct in 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+, which distinguishes it from 
+<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. tigrinus</tp:taxon-name>
+(deferent duct closely attached to the oviduct). The distal region of the penis with penial hooks is also much shorter in 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+(
+1–1.2 mm
+) than in 
+<!--template match = taxonomicName--><tp:taxon-name>P. coriaceus</tp:taxon-name>
+(
+2–8 mm
+). 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi</tp:taxon-name>
+is very difficult to differentiate from 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+internally. They differ only slightly with respect to the insertion of the penial retractor muscle (near the heart in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+and in the last posterior quarter of the visceral cavity in 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+). DNA sequences are the most reliable way to distinguish 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+, which are more than 10.5% divergent based on COI sequences.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+(
+<!--template match = figureCitation--><xref rid="fig-36--189-232-1716-1742-">Fig. 10A</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Madagascar
+, 
+Mozambique
+and 
+South Africa
+(
+type
+locality and newly-collected material).
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-91--189-232-1861-1887-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 49.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, posterior reproductive system. 
+A
+. South Africa, lectotype (NHMUK 1905.4.12.33). 
+B
+. Madagascar [3603] (MNHN-IM-2019-1395). Abbreviations: dd = deferent duct; fgm = female gland mass; hd = hermaphroditic duct; hg = hermaphroditic gland; ov = oviduct; rs = receptaculum seminis; sp = spermatheca. Scale bars: A = 2 mm; B = 1 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594453/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Habitat
+(
+<!--template match = figureCitation--><xref rid="fig-86--189-232-1663-1689-">Figs 45</xref>
+A–B, 52C–D)
+</p>
+<!--template match = paragraph--><p>
+Like other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+is found on mangrove trees but, unlike other species, it may also be found on mud. Specimens in 
+Madagascar
+were found high in the intertidal on moist mud not saturated in water, and one specimen was found on a piece of wood. A specimen from 
+Mozambique
+was collected on the base of a 
+<!--template match = taxonomicName--><tp:taxon-name>Ceriops</tp:taxon-name>
+tree, 
+30 cm
+above ground. All specimens in 
+South Africa
+were on mud, in the supra-tidal zone of a salt marsh, a few meters away from the river.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium burnupi</tp:taxon-name>
+must be transferred to 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+because of the following combination of characters in the 
+lectotype
+: flattened body, rectal gland present and no penial gland. The type locality (Umlaas Lagoon, Natal, 
+South Africa
+) was visited twice by our team and several times by experts from the Natal Museum (Dai Herbert, pers. com.), but no onchidiid species were ever found. This is very likely due to the fact that the Umlaas Lagoon has been developed and natural vegetation destroyed. However, onchidiids similar to the 
+lectotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>O. burnupi</tp:taxon-name>
+were recently collected by Mary Cole and Philippe Bouchet in the estuary of the Kwelera River, East 
+Cape
+, 
+South Africa
+(approximately 
+400 km
+south of the type locality). As of today, no other live population of 
+<!--template match = taxonomicName--><tp:taxon-name>P. burnupi</tp:taxon-name>
+is known in 
+South Africa
+(assuming that there is no live population at the type locality). Note that several authors have mentioned the existence of 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium burnupi</tp:taxon-name>
+in 
+South Africa
+but exclusively based on the original
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-92--189-232-1885-1911-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 50.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, anterior, male copulatory apparatus. 
+A
+. South Africa [6148] (ELM W04109). 
+B
+. South Africa, lectotype (NHMUK 1905.4.12.33). 
+C
+. Madagascar [3150] (MNHN-IM-2019-1398). Abbreviations: dd = deferent duct; ps = penial sheath; rm = retractor muscle; v = vestibule. Scale bars: A = 1 mm; B–C = 2 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594455/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-93--191-234-764-790-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 51.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, penial hooks 
+A
+. South Africa [6148] (ELM W04109). 
+B
+. Madagascar, Ambaro Bay [3603] (MNHN-IM-2019-1395). Scale bars: A = 30 μm; B = 20 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594457/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-93--189-232-1926-1952-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 52.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, radula, Madagascar, Ambaro Bay [3603] (MNHN-IM-2019-1395). 
+A
+. Rachidian and innermost lateral teeth. 
+B
+. Lateral teeth. 
+C–D
+. Outer lateral teeth. Scale bars: A, C–D = 20 μm; B = 30 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594461/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+description, i.e., without providing new specimens or records (
+<!--template match = bibRefCitation--><xref rid="ref70239">Connolly 1912</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref70297">1939</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref70193">Collinge 1910</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref72283">Hoffmann 1928</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi</tp:taxon-name>
+is known from two localities in 
+South Africa
+, three localities in 
+Madagascar
+and one locality in 
+Mozambique
+. High genetic divergences between populations from 
+Madagascar
+and 
+Mozambique
+versus 
+South Africa
+(5.4–6.0%) as well as the fact that they are consistently recovered as reciprocally-monophyletic units (
+<!--template match = figureCitation--><xref rid="fig-">Figs 4–8</xref>
+) suggest that there could be more than one species. However, there is not enough evidence to justify the description of a new species in 
+Madagascar
+. The anatomy of populations from 
+South Africa
+and 
+Madagascar
+are similar, and little is known about intraspecific variation across its distribution. The genetic divergences between 
+Madagascar
+and East Africa (
+Mozambique
+and 
+South Africa
+) could be the result of the large geographic distance between localities. However, there are some noticeable differences between the populations in the two regions.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-94--189-232-1891-1917-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 53.
+Habitats of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex burnupi ( Collinge, 1902 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+A
+. Madagascar, near Mangaoka (station 160). 
+B–D
+. Madagascar, Ambaro Bay, vegetation and close view of the high intertidal mud (station 164). 
+E–F
+. South Africa, East Cape, Kwelera Estuary, estuarine plants in the supra-tidal fringe of salt marsh.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594463/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+The most noticeable difference between regions is animal length: individuals collected from 
+South Africa
+(up to 
+32 mm
+) are significantly larger than those from 
+Madagascar
+(up to 
+16 mm
+) and 
+Mozambique
+(
+13 mm
+). However, intermediate sizes may be found when additional populations are discovered, or this could be due to a difference in climate. The deferent duct in the posterior (female) reproductive system is slightly longer in specimens from 
+Madagascar
+than in specimens from 
+South Africa
+(even though animal size is larger in 
+South Africa
+), but this could also be the result of population structure (this trait is known to vary between individuals). In addition, the insertion of the retractor muscle is more posterior in specimens from 
+Madagascar
+than in 
+South Africa
+. Finally, Madagascan individuals were found in a different habitat (mangrove) than in 
+South Africa
+(salt marsh). Salt marshes in 
+Madagascar
+were not visited for this study and may need to be explored in the future.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

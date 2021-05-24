@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pleurota illucidella Chrétien, 1915 stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = tableCitation--><xref>Table 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1743-1767-">Figs. 9–11</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-12--151-264-1884-1908-">38</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-29--151-264-1833-1857-">55</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-33--151-250-1943-1967-">65</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-34--151-250-812-836-">66</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota illucidella Chrétien, 1915: 336</tp:taxon-name>
+</tp:nomenclature-citation>
+. Type locality: 
+Tunisia
+: 
+Gafsa
+. 
+Holotype
+♀
+(MNHNP; examined from photographs). Originally described as a species, lowered to subspecies by 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+. Here elevated again to species level based on differential features in habitus, genitalia structure and DNA barcode (
+stat. rev.)
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+(GP 5766 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24833 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lepid Phyl</named-content>
+[barcoding failed]), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tunisia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Atlas</named-content>
+mnts, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">15 km</named-content>
+NE Makhtar village
+</named-content>
+, conifer forest, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1000 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">3.V.2000</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Nupponen</named-content>
+leg. (coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NUP</named-content>
+); 1 ♂ (GP 6021 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 26140 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+(GP 5917 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 26141 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Tunisia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">13.5 km</named-content>
+ESE Maktar
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">810 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N35.8022</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E9.3386</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7.V.2018</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg. (coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TAB</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+The genitalia are illustrated and described by 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+, but the drawing of male genitalia belongs to some other species, probably to 
+<!--template match = taxonomicName--><tp:taxon-name>P. lepigrei</tp:taxon-name>
+. Only the corpus bursae with signa is illustrated for the female genitalia, but the characteristic crescent-shaped anterior signum together with the coloration of the adult, enables a plausible identification.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Externally 
+<!--template match = taxonomicName--><tp:taxon-name>P. illucidella</tp:taxon-name>
+is somewhat similar to 
+<!--template match = taxonomicName--><tp:taxon-name>P. dalilae</tp:taxon-name>
+, but the forewing is slightly darker, due to irroration of blackish brown scales. The strongly concave ventral margin of valva, and finger-shaped valval lobe in the male genitalia are distinguishing details. In the female genitalia, the shape of the proximal margin of segment 8 and anterior signum are distinctive.
+</p>
+<!--template match = paragraph--><p>
+Molecular data.
+Two specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>illucidella</tp:taxon-name>
+were sequenced successfully, resulting in 658 and 637 bp barcode sequences. The sequences are 6.29 %–10.55 % divergent from the other barcoded taxa of the 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+species group (
+<!--template match = tableCitation--><xref>Table 1</xref>
+). The nearest neighbour to 
+<!--template match = taxonomicName--><tp:taxon-name>illucidella</tp:taxon-name>
+is 
+<!--template match = taxonomicName--><tp:taxon-name>P. kullbergi</tp:taxon-name>
+with a 6.29 % divergence. The divergence between 
+<!--template match = taxonomicName--><tp:taxon-name>illucidella</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+is 8.68 %. The barcodes of 
+<!--template match = taxonomicName--><tp:taxon-name>illucidella</tp:taxon-name>
+exhibit no intraspecific variation.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Adult. Wingspan 16.6–18.0 mm. Labial palpus off-white, ventrally brown, mixed with white, 6.9 x as long as diameter of eye (1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres), 3 
+<sup>rd</sup>
+palpomere 0.27 x length of 1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres. Antenna brown. Head, thorax and tegula off-white, mixed with pale brown. Forewing off-white, mixed with pale ochre, pale grey and pale brown scales, small but distinct discal and discocellular spots formed of dark brown scales, plical streak distinct, in outer 0.5 indistinct brown longitudinal streaks, fringe line distinct; costal line white, from near base to 0.8; subcostal line brown, slightly expanded towards apex. Fringe off-white, with subapical pale grey line. Hindwing pale grey, fringe pale grey, apically white. Abdomen pale grey, slightly lustrous, each segment with a transverse row of ochre scales.
+</p>
+<!--template match = paragraph--><p>Male genitalia. Uncus triangular from ventral view, slightly longer than gnathos, covered with several long and short bristles, apex with finger-shaped protuberance. Gnathos funnel-shaped from ventral view, evenly tapered towards apex, apical half surfaced with scobination, apex rounded. Valva slightly upwardly oblique, ventral margin medially bulged; cucullus moderately narrow; valval lobe finger-shaped, distal margin lined with a few nodules with short bristles. Anterior extension of juxta straight, median plate broad; posterior lobe exceeding the base of uncus. Phallus slightly arched, parallel-sided, with one plate-shaped cornutus and a few indistinct small nodules.</p>
+<!--template match = paragraph--><p>Female genitalia. Papilla analis elongate, covered with short and long bristles. Apophysis posterioris 3.5 x as long as papilla analis and 1.9 x as long as apophysis anterioris, apophysis anterioris 1.35 x as long as segment 8. Segment 8 quadrate, lateral margin sclerotized by a narrow band, proximal margin convex, strongly sclerotized, medially broader, caudal margin indistinct, concave, lined with several bristles; ventral longitudinal sclerotization broad, ovoid. Antrum slightly shorter than segment 8, anteriorly tapered and more sclerotized. Ductus bursae membranous, as broad as antrum. Corpus bursae ovoid, very large, with one crescent-shaped signum bearing two narrow and long protuberances, and two smaller leaf-shaped posterior signa of different size.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Biology.
+Unknown. The specimens collected by the first author were netted from 
+<!--template match = taxonomicName--><tp:taxon-name>Salvia rosmarinus Spenn</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Lamiaceae</tp:taxon-name>
+) in a pine forest.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Tunisia
+.
+</p>
+<!--template match = paragraph--><p>
+Results.
+<!--template match = taxonomicName--><tp:taxon-name>P. illucidella</tp:taxon-name>
+was synonymized with 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+by 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+. Both morphology and genetics suggest it is a valid species (
+stat. rev.
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

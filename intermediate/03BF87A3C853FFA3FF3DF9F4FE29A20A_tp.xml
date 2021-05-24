@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Clathrocaspia gaillardi ( Tadjalli-Pour, 1977 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-19--151-250-1789-1813-">Figs 9</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-20--151-250-1460-1484-">10</xref>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Caspia ) gaillardi</tp:taxon-name>
+, N. Espece—Tadjalli-Pour 1977: 107, fig. 8.
+</p>
+<!--template match = paragraph--><p>
+C.
+[
+aspia
+] (
+Cl.
+[
+athrocaspia
+]) 
+<!--template match = taxonomicName--><tp:taxon-name>gaillardi ( Tadjalli-Pour, 1977 )</tp:taxon-name>
+— 
+<!--template match = bibRefCitation--><xref rid="ref33455">Sitnikova &amp; Starobogatov 1998: 1363–1364</xref>
+, fig. 1.13.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia gaillardi ( Tadjalli-Pour, 1977 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 87</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Faculté de Médecine Vétérinaire de l’Université</named-content>
+de 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Téhéran</named-content>
+; not studied. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">One</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+should be in 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+(“Un spécimen 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+a été déposé au Musée Malacologique de 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Leningrad</named-content>
+”; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Tadjalli-Pour 1977: 107</named-content>
+), but it could not be found.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+locality.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Caspian Sea</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Astara-Hachtpar</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Iran</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">0–30 m</named-content>
+</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+Other material.
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev (2006: 87)</xref>
+were unable to locate identified samples in the 
+ZIN
+collections, but we retrieved a lot in the Starobogatov collection containing 
+12 specimens
+determined as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia gaillardi</tp:taxon-name>
+”, collected in the Middle Caspian Basin off Apsheron Peninsula (
+<!--template match = tableCitation--><xref>Table 1</xref>
+, locality 13). Additional five specimens come from the South Caspian Basin off Cheleken Peninsula (locality 18, labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia subgmelini</tp:taxon-name>
+”) and six specimens derive from late Holocene deposits of the Kura delta (localities 25a and 25f, 
+RGM
+1310299–1310304).
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-19--151-250-1789-1813-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 9.
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia gaillardi ( Tadjalli-Pour, 1977 )</tp:taxon-name>
+from the Middle and South Caspian basins. (a–e) Five specimens from locality 13 (ZIN, no number). (f–i) Three specimens labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia subgmelini</tp:taxon-name>
+” from locality 18 (ZIN, no number). (j–n) Five specimens from Holocene deposits of the Kura delta (locality 25d, RGM 1310299–1310303). Scale bar = 1 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550172/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Shell comparably large, broadly conical, consisting of up to 5 low to moderately convex, slightly stepped whorls. Protoconch bulbous, ranges around 
+320–335 µm
+and consists of c. 1.2 whorls; surface strongly sculptured, with distinct wrinkles that increase in size and become more irregular towards teleoconch; final triangu-lar part of protoconch always devoid of wrinkles (
+<!--template match = figureCitation--><xref rid="fig-20--151-250-1460-1484-">Fig. 10</xref>
+a–i); additionally, spiral threads occur on first half whorl (
+<!--template match = figureCitation--><xref rid="fig-20--151-250-1460-1484-">Fig. 10e, g, h</xref>
+). Teleoconch covered with strong reticulate sculpture, with sharp ribs and subquadrangular interspaces; spirals dominate, axials faintly sigmoid. Aperture ovoid, sometimes detached, leaving slit-like umbilicus; in other cases, basal columellar margin expands beyond columella and covers umbilicus.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+The material in the Starobogatov’s collection fits well to 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+as described and illustrated by 
+<!--template match = bibRefCitation--><xref rid="ref33728">Tadjalli-Pour (1977)</xref>
+, regarding the broad conical shape with five whorls, the marked sutures, the strong sculpture and the comparably large size. Similarly, five specimens labelled in Starobogatov’s collection as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia subgmelini</tp:taxon-name>
+” (an unavailable collection name; 
+<!--template match = figureCitation--><xref rid="fig-19--151-250-1789-1813-">Fig. 9</xref>
+f–i) collected off Cheleken Peninsula fit well to 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+, and so do specimens from the Holocene deposits off the Kura delta (
+<!--template match = figureCitation--><xref rid="fig-19--151-250-1789-1813-">Fig. 9</xref>
+j–n). Some of the specimens only have a less stepped spire than is typical of 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+, but we consider this to range within intraspecific variability.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-20--151-250-1460-1484-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 10.
+Protoconch views of 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia gaillardi ( Tadjalli-Pour, 1977 )</tp:taxon-name>
+from Holocene deposits of the Kura delta. (a, g) RGM 1310299 (locality 25d). (b, h) RGM 1310300 (locality 25d). (c, f) RGM 1310304 (locality 25f). (d) RGM 1310302 (locality 25d). (e) RGM 1310301 (locality 25d). (i) RGM 1310303 (locality 25d). Scale bars = 100 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550174/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref33455">Sitnikova &amp; Starobogatov (1998)</xref>
+provided data on the female reproductive anatomy and the radula of this species. They noted that the studied morphological characters of 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>C. gmelinii</tp:taxon-name>
+are almost identical. Also 
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. (2019)
+</xref>
+listed the species as a tentative synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>C. gmelinii</tp:taxon-name>
+. However, 
+<!--template match = taxonomicName--><tp:taxon-name>C. gmelinii</tp:taxon-name>
+is much smaller and has a less stepped outline and a weaker reticulate sculpture. Specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+also show a certain similarity to 
+<!--template match = taxonomicName--><tp:taxon-name>C. pallasii</tp:taxon-name>
+, but the latter species can be distinguished by its larger, bulbous protoconch and the more slender shell. The stepped teleoconch of 
+<!--template match = taxonomicName--><tp:taxon-name>C. gaillardi</tp:taxon-name>
+and the comparably high last whorl also differentiates it from 
+<!--template match = taxonomicName--><tp:taxon-name>C. isseli</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Caspian Sea, South Basin to southern part of Middle Basin, known only from shallow waters (max. depth of 
+44 m
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

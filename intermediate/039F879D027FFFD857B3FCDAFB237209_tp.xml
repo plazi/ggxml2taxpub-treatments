@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Limnophora flavitarsis Stein<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1866-1890-">Figs 3A‒I</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora flavitarsis Stein</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17283">Becker 1908a: 99</xref>
+</tp:nomenclature-citation>
+(Canary Is.).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora (Calliophrys) flavitarsis Stein</tp:taxon-name>
+; Hennig 1960: 387; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17198">Báez 1981: 635</xref>
+</tp:nomenclature-citation>
+(Tenerife).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora flavitarsis Stein</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref18345">Pont 1986: 179</xref>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17443">Couri &amp; Pont 2017: 511</xref>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17496">Couri &amp; Pont 2020: 9</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+[
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZH</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMD</named-content>
+]: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">CANARY ISLANDS</named-content>
+</named-content>
+</tp:material-citation>
+: 
+GRAN CANARIA
+: 
+<!--template match = materialsCitation--><tp:material-citation>
+Los Lagunetas, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+1931 (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. Storå). LA GOMERA: Bco. Arure, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°06´N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°19´W</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200‒265m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4.ii.2008</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. Michelsen); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bco de Aguajilva</named-content>
+, Lomito Fragoso, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°07´N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°10´W</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">220‒250m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19‒24.i.2019</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. Michelsen)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Small, wing length 
+3.8‒4.2mm
+. 
+Male
+(
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1866-1890-">Fig. 3A</xref>
+): Arista pubescent, longest branches 1.5‒2.0 times as long as greatest width of arista. Frons at narrowest point ca. 2.3 times as wide as ocellar tubercle, frontal vitta at this point fully 6 times wider than each fronto-orbital plate. Frons dark and subshining on upper part of narrow fronto-orbital plates and on large frontal triangle reaching lower third of frons, silvery white pruinose on lower part of fronto-orbital plates and on parafacial plates. Fronto-orbital plate with 2 orbital and 4‒5 frontal setae. Frons and facial margin equally produced. Mesonotum whitish grey pruinose with shiny brownish black areas as follows: a pair of oval marks in front of the suture, a broad dark band immediately behind the suture and apical part of scutellum. Dorsocentral setae 3 behind the suture; acrostichal field with setulae arranged in 4 presutural rows increasing to 6 rows behind the suture. Vein M 
+1
+slightly curved forward in distal part. Fore leg (
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1866-1890-">Fig. 3B</xref>
+) with dusky yellow fore tibia and tarsus; tibia with a dense row of long, fine pv-setae; tarsus much longer than tibia. Mid femur with (1‒)2 subapical 
+pd
+setae, without 
+pv
+setae; mid tibia with 2 
+pd
+setae situated above and below middle. Hind femur with 2‒3 
+av
+setae on distal third; 
+pv
+setae absent. Abdominal pattern as in 
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1866-1890-">Fig. 3C</xref>
+. Sternite I with setulae. Sternite V and hypopygium very distinctive, as in 
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1866-1890-">Figs 3D‒I</xref>
+. 
+Female:
+Broad frons on upper half subshining through thin brown pruinosity; frontal triangle extended to lunule. Fore leg unremarkable except for a row of 4 short 
+pv
+setae on distal half of tibia. Ovipositor with sternite VI divided in three sclerite pieces; tergite VIII with a pair of dorsal setulae at hind margin. See 
+<!--template match = tableCitation--><xref>Table 1</xref>
+for more ovipositor characters.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+A rare species described from the Canary Islands (Stein 
+in
+<!--template match = bibRefCitation--><xref rid="ref17283">Becker 1908a</xref>
+), more specifically from Tenerife according to the labels of the 
+type
+specimens (
+<!--template match = bibRefCitation--><xref rid="ref18677">Pont &amp; Werner 2006</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref18496">Pont 2013</xref>
+). Presently also from Gran Canaria and La Gomera.—Elsewhere only reliably recorded from 
+France
+(
+Corsica
+) (
+<!--template match = bibRefCitation--><xref rid="ref18392">Pont 2004</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref17443">Couri &amp; Pont 2017</xref>
+). A.C. Pont (in litt. 
+September 18, 2020
+) has also seen specimens from 
+Italy
+(
+Sardinia
+) and 
+Morocco
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Hyalesthes portonoves Remane &amp; Hoch, 1986<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">Figs 5E</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">8G–H</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">12A– M</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Hyalesthes portonoves Remane &amp; Hoch 1986: 133–135</tp:taxon-name>
+</tp:nomenclature-citation>
+, 150–151, figs 17–20.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Hyalesthes portonoves</tp:taxon-name>
+– 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref18966">Hoch &amp; Remane 1985: 143</xref>
+</tp:nomenclature-citation>
+, 145, 425, figs 65e–76e.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
+<!--template match = paragraph--><p>
+This species differs from species of the 
+<!--template match = taxonomicName--><tp:taxon-name>H. angustulus</tp:taxon-name>
+group of the 
+Canary Islands
+(
+<!--template match = bibRefCitation--><xref rid="ref18966">Hoch &amp; Remane 1985</xref>
+) in the following characters (1) it has, far basally, on the left lateroventral side of the theca, a short spine, directed caudally, of variable size and thickness, absent in the Canarian species (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12I–M</xref>
+); (2) on the left ventral side, the long thorns are almost parallel and tips are not divergent.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Câmara de Lobos</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">17 ♂♂</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Curral das Freiras</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">610 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 Aug. 2001</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fábio Reis</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Globularia salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+. –
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Funchal</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">13 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Casa Fogo</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">200 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 Apr. 2002</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio B. Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+. –
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Machico</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pedras Brancas</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">138 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 May 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Suaeda vera</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+. –
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Santa Cruz</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">76 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Cristo Rei</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">120 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26 Apr. 1998</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dora Pombo</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">DAPC</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Aug. 2001</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio B. Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Apr. 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">DAPC</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Gaula</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">60 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Apr. 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio B. Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">D. Aguín-Pombo</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Porto Novo</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 Apr. 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio B. Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 ♂♂</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Apr. 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Dora Pombo</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Reis Magos</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29 Apr. 2003</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Urbanização Garajau</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">175 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Aug. 2001</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Énio Freitas</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">G. salicina</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Redescription</title>
+<!--template match = paragraph--><p>
+BODY MEASUREMENTS (mm). VW: males: 0.20–0.28, 0.24 ± 0.02 (n = 21); females: 0.28–0.34, 0.30 ± 0.02 (n = 13). See also 
+<!--template match = tableCitation--><xref>Table 1.</xref>
+</p>
+<!--template match = paragraph--><p>
+COLOURATION. As in 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Fig. 3F</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+HEAD. Vertex, frons, clypeus and medial ocellus as in 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+, but the vertex is usually more elongated and the margins are usually parallel (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12A–B</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+THORAX. Pronotum, mesonotum, tegula, tegmina, and legs as in 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Figs 3F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">5E</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">12B</xref>
+). MALE GENITALIA (see also 
+<!--template match = bibRefCitation--><xref rid="ref19883">Remane &amp; Hoch 1986</xref>
+). Pygofer, anal tube, anal styles and parameres as in 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12C–H</xref>
+). Body length, position, and curvature of the ventral spine, and the dorsocaudal thorns of the aedeagus as in 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+, but the thorns are almost parallel or divergent distally and sometimes the dorsal thorn medially touches the ventral spine (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12I–J</xref>
+). The thorns extend along 4/5 of the aedeagus but without overlapping distally. The dorsal thorn is oblique and straight, and is basally directed towards the ventral spine (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12I–J</xref>
+). The ventral thorn is thicker and longer than the dorsal; it is approximately 3 times as wide and thick in the middle part than it is at the base, and sometimes the ventral margin is slightly arched in the middle part; in dorsal and ventral view they cross (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12K–M</xref>
+).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-27--189-232-1778-1804-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 12.
+<!--template match = taxonomicName--><tp:taxon-name>Hyalesthes portonoves Remane &amp; Hoch, 1986</tp:taxon-name>
+. 
+A–B
+. Specimen from Porto Novo, 16 Apr. 2003, on 
+<!--template match = taxonomicName--><tp:taxon-name>Globularia salicina Lam. C</tp:taxon-name>
+, G
+. Specimen from Casa Fogo, 16 Apr. 2002, on 
+<!--template match = taxonomicName--><tp:taxon-name>G. salicina</tp:taxon-name>
+. 
+D, J–K
+. Specimens from Pedras Brancas, 14Apr. 2002, on 
+<!--template match = taxonomicName--><tp:taxon-name>Suaeda vera Forssk. ex J.F.Gmel. E</tp:taxon-name>
+–F
+. Specimen from Gaula, 29 Apr. 2003, on 
+<!--template match = taxonomicName--><tp:taxon-name>G. salicina</tp:taxon-name>
+. 
+H–I, L–M
+. Specimen from Porto Novo, 29 Apr. 2003, on 
+
+<!--template match = taxonomicName--><tp:taxon-name>G. salicina</tp:taxon-name>
+.
+
+A
+. Head (frontal view). 
+B
+. Head, pronotum and scutellum (dorsal view). 
+C–D
+. Left paramere. 
+E
+. Pygofer (ventral view). 
+F
+. Anal tube (caudal view). 
+G
+. Pygofer (left lateral view). 
+H
+. Anal tube (left lateral view). 
+I–M
+. Aedeagus (I–J, left lateral view; K–L, dorsal view; M, ventral view).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4663805/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+FEMALE GENITALIA. As shown in 
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">Fig. 8G–H</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Distribution and ecology</title>
+<!--template match = paragraph--><p>
+Endemic to the island of 
+Madeira
+. It is present from low to medium altitudes within the xerophytic shrub communities of the south of the island both in the coastal regions and in the gorges. Adults occur from April to August on 
+<!--template match = taxonomicName--><tp:taxon-name>Globularia salicina</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Suaeda vera</tp:taxon-name>
+, but they have also been collected from 
+<!--template match = taxonomicName--><tp:taxon-name>Echium</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Euphorbia</tp:taxon-name>
+species (
+<!--template match = bibRefCitation--><xref rid="ref18966">Hoch &amp; Remane 1985</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref19883">Remane &amp; Hoch 1986</xref>
+). It seems to prefer more exposed areas than 
+<!--template match = taxonomicName--><tp:taxon-name>H. madeires</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+There are intraspecific differences in the male genitalia. The ventral spine can vary in length, thickness, and curvature (
+<!--template match = figureCitation--><xref rid="fig-27--189-232-1778-1804-">Fig. 12I–J</xref>
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

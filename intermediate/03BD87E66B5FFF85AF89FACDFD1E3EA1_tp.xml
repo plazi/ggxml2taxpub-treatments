@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera infuscata (Moser, 1915)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-63--151-250-1943-1967-">Figures 12</xref>
+E–H, 92
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Autoserica infuscata Moser, 1915: 340</tp:taxon-name>
+; Nijima and Kinoshita 1927: 6.
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Aserica infuscata : Murayama 1938: 13</tp:taxon-name>
+[misidentified].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Serica infuscata : Murayama 1954: 41</tp:taxon-name>
+[misidentified].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Maladera infuscata : Nomura1959: 40</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref335003">Nomura 1974: 104</xref>
+</tp:nomenclature-citation>
+, 109, fig. 48 [misidentified]; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref335450">Sun &amp; Zhang 1982: 324</xref>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref332793">Kim &amp; Lee 1997: 122</xref>
+</tp:nomenclature-citation>
+; Kim &amp; Kim 2003: 89.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Autoserica koreana Moser, 1919: 330</tp:taxon-name>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref334745">Niijima &amp; Kinoshita 1923: 29</xref>
+</tp:nomenclature-citation>
+; syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref329675">Ahrens 2003d: 2</xref>
+</tp:nomenclature-citation>
+; 
+<!--template match = taxonomicName--><tp:taxon-name>Aserica koreana : Murayama 1938: 15</tp:taxon-name>
+[misidentified]; 
+<!--template match = taxonomicName--><tp:taxon-name>Serica koreana: Murayama 1954: 65</tp:taxon-name>
+[misidentified].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Maladera koreana: Kim and Lee 1997: 129</tp:taxon-name>
+[misidentified].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Aserica okamotoi Murayama, 1938: 18</tp:taxon-name>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Serica okamotoi: Murayama 1954: 35</tp:taxon-name>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Maladera okamotoi : Kim and Lee, 1997: 126</tp:taxon-name>
+; Kim and Kim 2003: 88, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref329675">Ahrens 2003d: 2</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+
+Type
+material examined.
+
+See 
+<!--template match = bibRefCitation--><xref rid="ref329675">Ahrens (2003d)</xref>
+.
+</p>
+<!--template match = paragraph--><p>
+Additional material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Panmundzoa</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Korea</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jiugongshan Tongshan</named-content>
+, S-Hubei, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.V.2004</named-content>
+</named-content>
+leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Wen</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Linjiang</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.VI.1955</named-content>
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+[doubtful record] “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Inner Mongolia</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mt. Daquangdingzishan</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2061m</named-content>
+</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chifeng</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2-12.vii.2009</named-content>
+</named-content>
+local coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ankauf</named-content>
+via 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Li Jingke</named-content>
+2010” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+“Tsingtau Prof. Hofmann/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Autoserica</named-content>
+infuscate 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">Mos. J. Moser</named-content>
+det 1917” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">DEIC</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kuatun</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2300 m</named-content>
+</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+27, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">40 n</named-content>
+</named-content>
+.Br. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117,40 ö</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. J. Klapperich</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.6.1938</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fukien</named-content>
+)” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CF</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kuatun</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2300 m</named-content>
+</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+27, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">40 n</named-content>
+</named-content>
+.Br. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117,40 ö</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. J. Klapperich</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30.5.1938</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fukien</named-content>
+)” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CF</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kuatun</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2300 m</named-content>
+</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+27, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">40 n</named-content>
+</named-content>
+.Br. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117,40 ö</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. J. Klapperich</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11.6.1938</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fukien</named-content>
+)” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CF</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kuatun</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2300 m</named-content>
+</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+27, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">40 n</named-content>
+</named-content>
+.Br. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117,40 ö</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">L. J. Klapperich</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">12.5.1938</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Fukien</named-content>
+)” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CF</named-content>
+).
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription.
+Length: 
+9.1 mm
+, length of elytra: 
+6.5 mm
+, width: 
+5.2 mm
+. Body oval, reddish brown, antenna yellow, labroclypeus shiny, remainder of dorsal surface dull, glabrous, except for a few small setae on the head and elytra.
+</p>
+<!--template match = paragraph--><p>
+Labroclypeus subtrapezoidal, distinctly wider than long, widest at base, straight and strongly convergent to moderately rounded anterior angles, lateral border and ocular canthus producing a distinct blunt angle, margins weakly reflexed, anteriorly very shallowly emarginate medially; surface weakly convex medially, shiny, finely punctate, distance between punctures irregular sometimes less than their diameter, with a few short, erect setae anteriorly; frontoclypeal suture feebly impressed and weakly curved medially; smooth area in front of eye approximately twice as wide as long; ocular canthus short and moderately broad, finely punctate, with a single short terminal seta. Frons with fine, moderately dense punctures, glabrous except for a few setae beside eyes. Eyes small, ratio of diameter/ interocular width: 0.57. Antenna yellow, with ten antennomeres; club with three antennomeres, as long as remaining antennomeres together. 
+Mentum
+anteriorly elevated and flattened.
+</p>
+<!--template match = paragraph--><p>Pronotum widest at base, lateral margins weakly and evenly convex and convergent anteriorly, anterior angles distinctly produced and sharp, anterior marginal line widely interrupted medially, margin weakly and convexly produced medially; surface moderately densely and finely punctate, with very minute setae in punctures only; anterior and lateral borders setose. Scutellum broad, triangular, with fine and moderately dense punctures, each bearing a single very minute seta.</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-63--151-250-1943-1967-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 12. A–D:
+<!--template match = taxonomicName--><tp:taxon-name>Maladera anhuiensis Ahrens, Fabrizi &amp; Liu</tp:taxon-name>
+, 
+<!--template match = taxonomicNameLabel-->sp. n.
+(holotype); 
+E–H:
+<!--template match = taxonomicName--><tp:taxon-name>M. infuscata (Moser, 1915)</tp:taxon-name>
+(China: Hubei: Jiugongshan); 
+I–L:
+<!--template match = taxonomicName--><tp:taxon-name>M. diversipes (Moser, 1915)</tp:taxon-name>
+(China: Hubei: Wujiashan). 
+A, E, I:
+aedeagus, left side lateral view; 
+C, G, K:
+aedeagus, right side lateral view; 
+B, F, J:
+parameres, dorsal view; 
+D, H, L:
+habitus. Scale: 0.5 mm. Habitus not to scale.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4496340/files/figure.png"/></fig>
+<!--template match = paragraph--><p>Elytra oblong, widest at middle, striae distinctly impressed, finely and densely punctate, intervals moderately convex, with fine, moderately dense punctures, penultimate lateral interval with a few fine, erect, short setae, some punctures with very minute setae; epipleural margin robust, ending at the weakly convex external apical angle of elytra, epipleura densely setose, apical border chitinous, with short microtrichomes.</p>
+<!--template match = paragraph--><p>Ventral surface dull, thorax and metacoxa with large dense punctures, sparsely setose, metacoxa glabrous except for a few long setae laterally; each abdominal sternite, in addition to generally distributed fine and moderately dense punctures, with a distinct transverse row of coarse punctures each bearing a short and robust seta, some punctures with microscopic setae, penultimate sternite apically with a shiny smooth chitinous border, which is one third as long as sternite. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/ metacoxa: 1/ 1.7. Pygidium strongly convex, finely and densely punctate, without smooth midline, punctures with microscopic setae and with a few long setae along apical margin.</p>
+<!--template match = paragraph--><p>Legs moderately broad; femora with two longitudinal rows of setae, finely and moderately densely punctate; metafemur dull, anterior margin acute, lacking an adjacent serrated line, posterior ventral margin medially straight, weakly widened in apical half and not serrate, dorsally not serrated, finely setose. Metatibia moderately broad and long, widest at apex, ratio width/ length: 1/ 3.4, dorsally sharply carinate, with two groups of spines, basal one at middle, apical one at three quarters of metatibial length, basally with a few punctures, each bearing short single spines; lateral face longitudinally convex, with sparse and fine punctures in basal half, glabrous; ventral margin serrate, with three strong spines equidistant from each other, medial face not punctate, apex interiorly near tarsal articulation shallowly concave. Tarsomeres very sparsely and finely punctate dorsally, ventrally with sparse, short setae; metatarsomeres ventrally with a strongly serrated ridge, beside which is a strong longitudinal carina, first metatarsomere a little shorter than the two following segments combined and a little longer than the upper tibial spur. Protibia short, bidentate. All claws symmetrical, feebly curved and long, with normally developed basal tooth.</p>
+<!--template match = paragraph--><p>
+Aedeagus: 
+<!--template match = figureCitation--><xref rid="fig-63--151-250-1943-1967-">Fig. 12</xref>
+E–G. Habitus: 12H.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+See map (
+<!--template match = figureCitation--><xref rid="fig-347--151-250-1939-1963-">Fig. 92</xref>
+) and 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

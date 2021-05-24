@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>† Clathrocaspia valkanovi ( Golikov &amp; Starobogatov, 1966 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+P.
+[
+yrgula
+] 
+<!--template match = taxonomicName--><tp:taxon-name>( Caspia ) baeri</tp:taxon-name>
+<!--template match = taxonomicName--><tp:taxon-name>[sic] valkanovi</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->subsp. n.
+— 
+<!--template match = bibRefCitation--><xref rid="ref30686">Golikov &amp; Starobogatov 1966: 354–355</xref>
+, fig. 1(9).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia ( Clathrocaspia ) valkanovi valkanovi (Gol. et St.)</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov 1987: 32</xref>
+</tp:nomenclature-citation>
+, 37.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia valkanovi ( Golikov et Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 88</xref>
+</tp:nomenclature-citation>
+, pl. 41, fig. N.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia valkanovi ( Golikov &amp; Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. 2019: 68–69
+</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+only (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4367</named-content>
+/1).
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+locality.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Southern</named-content>
+shore of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Crimea</named-content>
+, from phaseoline silts (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+, locality 28), probably reworked from 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Neoeuxinian</named-content>
+(Late Pleistocene) strata (compare 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">C. knipowitschii aluschtensis</named-content>
+</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+Originally this taxon was described (
+<!--template match = bibRefCitation--><xref rid="ref30686">Golikov &amp; Starobogatov 1966</xref>
+) as the Black Sea subspecies of 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia baerii</tp:taxon-name>
+, but later 
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov (1987)</xref>
+considered it a separate species and so restricted 
+<!--template match = taxonomicName--><tp:taxon-name>C. baerii</tp:taxon-name>
+to the Caspian Sea.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-34--151-250-1831-1855-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 18.
+Doubtful species. (a, b) 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia</tp:taxon-name>
+sp., labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia microcingulifera</tp:taxon-name>
+, holotype”, locality 6 (ZIN, no number). (c–f) 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia</tp:taxon-name>
+sp., labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia microcingulifera</tp:taxon-name>
+, paratype”, locality 9 (ZIN, no number). (g, h) 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia valkanovi</tp:taxon-name>
+, holotype, locality 28 (ZIN 4367/1). (i) 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia stanislavi</tp:taxon-name>
+, reconstruction of the holotype (after 
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko and Starobogatov 1987</xref>
+), locality 30a. (j, k) Paratype of 
+<!--template match = taxonomicName--><tp:taxon-name>C. stanislavi</tp:taxon-name>
+, locality 30d (NMNH NASU, IKOFZ-It-167). (l) 
+<!--template match = taxonomicName--><tp:taxon-name>C. stanislavi</tp:taxon-name>
+, locality 30a (det. T.L. Alexenko; UGSB 25237). (m) 
+<!--template match = taxonomicName--><tp:taxon-name>C. stanislavi</tp:taxon-name>
+from Holocene deposits, locality 32 (IZAN, no number). Scale bars = 1 mm (a–d, g–m), 100 μm (e, f).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550196/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Records of 
+<!--template match = taxonomicName--><tp:taxon-name>C. valkanovi</tp:taxon-name>
+are known off the southern Crimean coast as (sub)fossil shells only. The 
+holotype
+is poorly preserved and does not allow a proper assessment of identity and status. The general shape and size are indicative of the genus 
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia</tp:taxon-name>
+and traces of the reticulate sculpture can be seen under high magnification. The shell resembles closely the 
+holotype
+of the subfossil subspecies 
+<!--template match = taxonomicName--><tp:taxon-name>C. knipowitschii aluschtensis</tp:taxon-name>
+retrieved from the same deposits (
+<!--template match = figureCitation--><xref rid="fig-25--151-250-1778-1802-">Fig. 13e</xref>
+), and both might be synonyms.
+</p>
+<!--template match = paragraph--><p>
+Furthermore, we are not entirely certain as to the stratigraphic age of the stratigraphic origin of this species. The phaseoline silt is a marine Holocene unit, which may contain reworked Late Pleistocene Neoeuxinian species (
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. 2019
+</xref>
+). Given the uncertainty related to the species’ identity and age, we treat this taxon as a nomen dubium.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Endemic to the Black Sea Basin.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

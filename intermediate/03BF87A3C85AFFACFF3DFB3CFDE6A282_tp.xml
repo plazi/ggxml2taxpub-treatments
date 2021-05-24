@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Clathrocaspia logvinenkoi ( Golikov &amp; Starobogatov, 1966 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-28--151-250-826-850-">Fig. 14</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Caspia ) logvinenkoi</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. n.
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref30686">Golikov &amp; Starobogatov 1966: 354</xref>
+</tp:nomenclature-citation>
+, fig. 1(7).
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+C.
+[
+aspia
+] 
+<!--template match = taxonomicName--><tp:taxon-name>logvinenkoi ( Golikov et Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--template match = bibRefCitation--><xref rid="ref30721">Golikov &amp; Starobogatov 1972: 99</xref>
+, pl. 2, fig. 16.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+C.
+[
+aspia
+] (
+Cl.
+[
+athrocaspia
+]) 
+<!--template match = taxonomicName--><tp:taxon-name>logvinenkoi (Gol. et St.)</tp:taxon-name>
+— 
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov 1987: 36</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia logvinenkoi ( Golikov et Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 88</xref>
+</tp:nomenclature-citation>
+, pl. 41, fig. I.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia ( Clathrocaspia ) logvinenkoi ( Golikov et Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref28842">Anistratenko 2007a: 25</xref>
+</tp:nomenclature-citation>
+, fig. 2.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Clathrocaspia logvinenkoi ( Golikov &amp; Starobogatov, 1966 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. 2019: 71
+</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4489</named-content>
+/1) and one 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4490</named-content>
+/2) collected by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Mordukhay-Boltovskoj</named-content>
+in 1937.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+locality.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Delta</named-content>
+of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Don River</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+, locality 27)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Other material</named-content>
+.
+</named-content>
+Three specimens collected in 2006 from the same region as the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+locality (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAN</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2006.06.1</named-content>
+</named-content>
+– 3; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Anistratenko 2007a</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+A detailed description of the species was provided by 
+<!--template match = bibRefCitation--><xref rid="ref28842">Anistratenko (2007a)</xref>
+. The peculiar shell with broad conical shape, an occasional weak subsutural bulge and thickened peristome strongly suggest that it represents a distinct species. However, the paucity of material makes it difficult to assess whether it is only a local variety of 
+<!--template match = taxonomicName--><tp:taxon-name>C. knipowitschii</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Known only from the type locality, where only two living individuals have ever been found (
+holotype
+and 
+paratype
+). This species seems to prefer freshwater, since the salinity at the type locality fluctuates between freshwater and ca. 1‰ (
+<!--template match = bibRefCitation--><xref rid="ref33386">
+Shokhin 
+et al
+. 2006
+</xref>
+; V.V.A., unpublished data). It has never been mentioned from Holocene or any fossil deposits so far.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

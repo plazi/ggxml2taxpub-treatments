@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera pallida ( Burmeister, 1855 ) comb.n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-204--151-250-1944-1968-">Figures 47</xref>
+J–M, 112
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Serica pallida Burmeister, 1855: 167</tp:taxon-name>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref329946">Ahrens 2006b: 245</xref>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 36</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Amaladera pallida : Medvedev 1952: 144</tp:taxon-name>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Maladera ludipennis Miyake</tp:taxon-name>
+, 
+Yamaguchi
+&amp; Aoki 2002: 52, 
+syn. n.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material examined:
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">pallida</named-content>
+</named-content>
+, here designated): 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+“703 5/9/51/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Hongkong</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+). Paralectotype (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">pallida</named-content>
+</named-content>
+, here designated): 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“703 9/5/51/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">pallida</named-content>
+Br. Hongk. Dhn.
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MLUH</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">ludipennis</named-content>
+</named-content>
+): @ “Ban Lao Kram Mukdahan (light) E-Thailand 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23. Feb. 1999</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Yamaguchi</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">T. Aoki</named-content>
+leg./ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Maladera ludipennis Y. Miyake</named-content>
+, Yamaguchi et Akiyama 2002” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RIEBT</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Additional material examined</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntype</named-content>
+?; without abdomen and proper labels] (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MLUH</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+“China”
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hongkong</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+) “Mus. Westerm./ Hongkong” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMUC</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China Tsonglok</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HNHM</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ex.</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hongkong</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">China</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Reitter</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">HNHM</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Vietnam</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ex.</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tonkin Dap</named-content>
+ban/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">contracta</named-content>
+Brsk. [Handschr. Moser]” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Laos</named-content>
+:
+</named-content>
+1 @ “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Laos</named-content>
+centr., 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.IV.-1.V.1997</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">70km</named-content>
+NE 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Vientiane</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ban Phabat</named-content>
+env., 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">150m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N 18°16.1’</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">E 103°10.9’</named-content>
+E. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jendek</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">O. Šauša</named-content>
+leg./ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. P. Pacholatko</named-content>
+/ 360 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Sericini</named-content>
+: Asia spec.” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+Doubtful record: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ex.</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Bengalen</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. C. Felsche Kauf</named-content>
+20, 1918” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SMTD</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription.
+Length: 
+4.9 mm
+, length of elytra: 
+3.8 mm
+, width: 3.0 mm. Body oblong-oval, yellowish brown, dull, antenna yellow, head shiny, except some single setae on head dorsal surface nearly glabrous.
+</p>
+<!--template match = paragraph--><p>
+Labroclypeus wide and subtrapezoidal, widest at base, lateral margins convex and distinctly convergent anteriorly, anterior angles moderately rounded, anterior margin emarginate medially, strongly reflexed; lateral margin and ocular canthus produce an indistinct angle; surface flat, finely and densely punctate, with a few larger punctures each bearing an erect seta anteriorly; frontoclypeal suture indistinct, evenly curved; smooth area anterior to eye weakly convex, as wide as long; ocular canthus short and wide (1/4 of ocular diameter), finely and densely punctate, with a terminal seta. Frons completely shiny, with very dense, fine punctures, behind frontoclypeal suture and beside eyes with a few long setae in large sparse punctures. Eyes small, ratio diameter/ interocular width: 0.6. Antenna with ten antennomeres; club with three antennomeres and straight, distinctly shorter than remaining antennomeres combined. 
+Mentum
+elevated and slightly flattened anteriorly.
+</p>
+<!--template match = paragraph--><p>Pronotum transverse, widest shortly before base, lateral margins evenly convex and strongly convergent anteriorly, anterior angles distinctly produced and sharp, posterior angles strongly rounded; anterior margin straight, with complete and fine marginal line, base without marginal line; surface finely and densely punctate, with minute setae in punctures; lateral anterior and lateral margin finely setose; hypomeron carinate, not produced ventrally. Scutellum wide, triangular, with fine, dense punctures.</p>
+<!--template match = paragraph--><p>Elytra widest shortly behind middle, striae finely impressed, finely and sparsely punctate, intervals weakly convex, with fine and sparse punctures concentrated along striae, with minute setae in punctures, penultimate interval with a very few single, short setae; epipleural margin robust, ending at weakly curved external apical angle of elytra, epipleura sparsely setose; apical border of elytra membraneous, with a fine rim of microtrichomes (visible at ca 100x magnification).</p>
+<!--template match = paragraph--><p>Ventral surface dull, coarsely and densely punctate, glabrous, metasternal disc sparsely covered with fine, short setae; metacoxa with a few longer setae laterally. Abdominal sternites finely and densely punctate, glabrous, each sternite with a transverse row of punctures each bearing a fine seta. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/metacoxa: 1/1.35. Pygidium moderately convex and dull, coarsely and densely punctate, without impunctate midline, glabrous except a few short setae along apical margin.</p>
+<!--template match = paragraph--><p>Legs short and wide, shiny; femora with two longitudinal rows of setae, finely and sparsely punctate. Metafemur with anterior margin acute, without adjacent serrated line, anterior row of setae complete; posterior margin smooth, weakly widened at apex and smooth ventrally, not serrate dorsally, finely shortly setose. Metatibia short and wide, widest at middle, ratio of width/length: 1/2.7, sharply carinate dorsally, with two groups of spines, basal group at one quarter, apical group at two thirds of metatibial length, with a few robust setae basally subparallel to dorsal margin; lateral face longitudinally convex, shiny, sparsely punctate and glabrous; ventral margin finely serrate, with four equidistant, short and robust setae; medial face smooth and glabrous; apex finely serrate, moderately truncate interiorly near tarsal articulation. Tarsomeres dorsally impunctate, moderately setose ventrally; metatarsomeres with a strongly serrated ridge ventrally and a smooth subventral longitudinal carina, laterally and dorsally not carinate; first metatarsomere little shorter than following two tarsomeres combined and distinctly longer than dorsal tibial spur. Protibia short, bidentate; anterior claws symmetrical, basal tooth of both claws bluntly truncate at apex.</p>
+<!--template match = paragraph--><p>
+Aedeagus: 
+<!--template match = figureCitation--><xref rid="fig-204--151-250-1944-1968-">Fig. 47</xref>
+J–L. Habitus: 
+<!--template match = figureCitation--><xref rid="fig-204--151-250-1944-1968-">
+Fig. 
+47M
+</xref>
+.
+</p>
+<!--template match = paragraph--><p>
+Variation.
+Pronotum in male slightly wider, pygidium wider and more convex; antennal club in both sexes of same length.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+The shape of the aedeagus in this species is very similar that of 
+<!--template match = taxonomicName--><tp:taxon-name>Cephaloserica vulpecula Arrow, 1946</tp:taxon-name>
+from 
+Myanmar
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+See map (
+<!--template match = figureCitation--><xref rid="fig-357--151-250-1981-2005-">Fig. 112</xref>
+) and 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

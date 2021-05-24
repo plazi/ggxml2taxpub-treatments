@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Limnophora beckeri (Stein)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Figs 1A‒C</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Calliophrys beckeri Stein</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17283">Becker 1908a: 104</xref>
+</tp:nomenclature-citation>
+(Tenerife, La Palma); 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17783">Frey 1936: 132</xref>
+</tp:nomenclature-citation>
+(Gran Canaria, La Gomera, La Palma). 
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora (Calliophrys) beckeri (Stein)</tp:taxon-name>
+; Hennig 1960: 385; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17198">Báez 1981: 632</xref>
+</tp:nomenclature-citation>
+, pl. 2 figs 3‒6 (La Gomera, La Palma). 
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora (Melanochelia) beckeri (Stein)</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref18609">Santos Abréu 1976: 108</xref>
+</tp:nomenclature-citation>
+, fig. 15 (La Palma).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora beckeri (Stein)</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref18345">Pont 1986: 179</xref>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17496">Couri &amp; Pont 2020: 6</xref>
+</tp:nomenclature-citation>
+, 50 figs 226‒229 (male 
+syntype
+, terminalia).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+[
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZH</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMD</named-content>
+]: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">CANARY ISLANDS</named-content>
+</named-content>
+</tp:material-citation>
+: 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">GRAN CANARIA</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bco. Virgin</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Moya</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">400m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.vii.1984</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Olsen</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Skule</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Stadel</named-content>
+). TENERIFE: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Puerto de la Cruz</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7‒8.v.1947</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2‒4.ii.1949</named-content>
+</named-content>
+(H. Lind- berg); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Adeje</named-content>
+, Bco del Infierno, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.ii.1950</named-content>
+</named-content>
+(H. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lindberg</named-content>
+). LA GOMERA: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Las Toscas</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°04´N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°12´W</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">720m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19.xi.2002</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Michelsen</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">La Laja</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">480‒600m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.xi.2002</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Michelsen</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bco. Arure</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">28°06´N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°19´W</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200‒265m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4.ii.2008</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Michelsen</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Very small, wing length 
+2.4‒3.2mm
+. 
+Male:
+Arista short-pubescent, longest branches less than 1.5 times greatest width of arista. Frons nearly horizontal, broad and flat, in dorsal aspect wholly velvety black in contrast to silvery white parafacial plates. Fronto-orbital plate with 2 short orbital setae and 2 frontal setae. Frons and facial margin equally projecting. Mesonotum extensively dark brown pruinose, postpronotal lobes and notopleura silvery grey and a pair of spots near at scutellum light grey. Dorsocentral setae 3 behind suture; acrostichal field with setulae only, arranged in 2‒3 irregular rows. Mid femur with 1 subapical 
+pd
+seta, without 
+pv
+setae; mid tibia with 1 
+pd
+seta at middle. Hind femur with 1 
+av
+seta near apex, without 
+pv
+setae. Tergite VI merged with prehypopygeal sclerite. Sternite I bare. Sternite V and hypopygium as in 
+<!--template match = figureCitation--><xref rid="fig-3--151-250-1943-1967-">Figs 1A‒C</xref>
+. 
+Female:
+Similar to the male, but frons slightly convex and declining; frontal triangle matt shining, demarcated from velvety black frontal vitta. Dark brown area on mesonotum restricted to a narrow median stripe, a pair of subtriangular marks in front of the suture, a broad band immediately behind the suture and all scutellum. Ovipositor with hind marginal setae on tergite VII forming a complete row, not interrupted laterally as in other examined species. See 
+<!--template match = tableCitation--><xref>Table 1</xref>
+for more ovipositor characters.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Canary Islands: Gran Canaria, Tenerife, La Gomera, La Palma. Originally considered endemic to the Canary Islands, but Hennig (1964) recorded it from 
+Iran
+: Sistan &amp; Baluchestan province, Iranshahr county. 
+<!--template match = bibRefCitation--><xref rid="ref18715">Zhang &amp; Xue (1996)</xref>
+further reported 
+<!--template match = taxonomicName--><tp:taxon-name>L. beckeri</tp:taxon-name>
+from 
+China
+: 
+Guizhou
+, included the species in a key to Chinese 
+<!--template match = taxonomicName--><tp:taxon-name>Limnophora</tp:taxon-name>
+males, and illustrated the male terminalia (figs 10‒12). The Chinese taxon is indeed very similar to 
+<!--template match = taxonomicName--><tp:taxon-name>L. beckeri</tp:taxon-name>
+, but should be treated as a distinct species on basis of differences in the male terminalia, especially the proportions of the cerci. 
+<!--template match = bibRefCitation--><xref rid="ref18652">Stein (1918)</xref>
+recorded 
+<!--template match = taxonomicName--><tp:taxon-name>Calliophrys beckeri</tp:taxon-name>
+from 
+Taiwan
+(“Formosa”). The species involved is expectedly identical with the species found in Guizhou.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

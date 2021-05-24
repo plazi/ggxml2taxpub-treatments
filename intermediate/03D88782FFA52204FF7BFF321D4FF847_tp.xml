@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pleurota lepigrei Lucas, 1937 stat. rev.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = tableCitation--><xref>Table 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1743-1767-">Figs. 12–14</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-15--151-264-1640-1664-">39</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-29--151-264-1833-1857-">56</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-33--151-250-1943-1967-">65</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-34--151-250-812-836-">66</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota lepigrei Lucas, 1937: 233</tp:taxon-name>
+</tp:nomenclature-citation>
+. Type locality: 
+Morocco
+: Barcha. 
+Holotype
+♂ (MNHNP; examined from photographs). Originally described as a species, lowered to subspecies by 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+. Here restored to species rank based on distinctness in habitus, genitalia structure and DNA barcode (
+stat. rev.).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material studied.
+<!--template match = materialsCitation--><tp:material-citation>
+1 ♂ (GP 5512 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24634 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+(GP 5540 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">25 km</named-content>
+S Essaouira, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sidi Kaouki</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">100 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.III.2005</named-content>
+</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">O. Karsholt.</named-content>
+; 2 ♂ (GP 5312 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 23673 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+; DNA sample 23672 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+(GP 5414 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24592 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2 km</named-content>
+SE 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ourika</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">930 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N31.355</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">W7.769</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.V.2013</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+1 ♂ (GP 5309 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 23671 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2 km</named-content>
+NW Azrou
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1220 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N33.474</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">W5.247</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6.V.2013</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀</named-content>
+(DNA sample 24521 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Al Haouz Prov.</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">High Atlas</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">3 km</named-content>
+SE Ourika
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">960 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N31.353</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">W7.767</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16.IV.2015</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+13 ♂ (GP 5443 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 23732 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+; DNA sample 24523 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+(GP 5444 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24520 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ifrane Prov.</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Middle Atlas</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2.5 km</named-content>
+NW Azrou
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1215 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N33.465</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">W5.245</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17.IV.2015</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+1 ♂, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Morocco</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ifrane Prov.</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">3 km</named-content>
+NNW Azrou
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1210 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">N33.464</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">W5.245</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.V.2016</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.
+</tp:material-citation>
+; 6 ♂, same collecting data, but 
+16.V.2016
+(all coll. 
+TAB
+).
+</p>
+<!--template match = paragraph--><p>The female has been unknown until now.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Externally 
+<!--template match = taxonomicName--><tp:taxon-name>P. lepigrei</tp:taxon-name>
+can be distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>P. bicostella</tp:taxon-name>
+by the reduced dark spots on forewing. In the male genitalia, distinguishing details from 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+are the funnel-shaped gnathos, ear-shaped valval lobe (in 
+
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+,
+
+gnathos subtriangular and valval lobe crescent-shaped), longer posterior lobe and narrower cucullus. In the female genitalia, the sclerotized proximal margin of segment 8 is broadly V-shaped (slightly concave in 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+) and posterior signa are markedly bigger.
+</p>
+<!--template match = paragraph--><p>
+Molecular data.
+Altogether ten specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>lepigrei</tp:taxon-name>
+were sequenced, resulting in 658 bp, full-length barcode sequences for nine specimens, and a fragment of 631 bp for one specimen. The results revealed 2.99 %–9.58 % divergence between 
+<!--template match = taxonomicName--><tp:taxon-name>lepigrei</tp:taxon-name>
+and the other barcoded taxa of the 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+species group (
+<!--template match = tableCitation--><xref>Table 1</xref>
+). The nearest neighbour to 
+<!--template match = taxonomicName--><tp:taxon-name>lepigrei</tp:taxon-name>
+is the Tunisian 
+<!--template match = taxonomicName--><tp:taxon-name>P. dalilae</tp:taxon-name>
+, with a 2.99 % divergence. The divergence between 
+<!--template match = taxonomicName--><tp:taxon-name>lepigrei</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+is 5.56 %. The barcodes of 
+<!--template match = taxonomicName--><tp:taxon-name>lepigrei</tp:taxon-name>
+exhibit 2.66 % maximum intraspecific divergence with two different BINs, which may indicate cryptic diversity.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Adult. Wingspan 
+19.8–23.7 mm
+. Labial palpus white, sparsely mixed with pale brown, ventrally brown, mixed with white, 5.9 x as long as diameter of eye (1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres), 3 
+<sup>rd</sup>
+palpomere 0.3 x length of 1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres. Scape dorsally brown, ventrally white, flagellum slightly serrate, brown. Head, thorax and tegula off-white. Forewing pale grey, evenly dispersed with brown scales, discal spot distinct but small, blackish brown; costal line white, from base to 0.83; subcostal line brown, almost parallel-sided. Fringe pale brown, basally white. Hindwing pale grey, margin pale brown, fringe pale brownish grey, apically white.
+</p>
+<!--template match = paragraph--><p>Male genitalia. Uncus triangular from ventral view, elongate, as long as gnathos, covered with several long and short bristles, apex with stout protuberance. Gnathos funnel-shaped from ventral view, basally broad, apical third narrow, almost parallel-sided, smooth, apex rounded. Tegumen large, both anterior margins concave. Valva subconical, ventral margin evenly curved, costa slightly upwardly oblique; sacculus moderately broad and short, covered with several bristles; valval lobe well delineated, ear-shaped, covered with several bristles. Median plate of juxta strongly swollen; posterior lobe moderately narrow, extended to uncus. Phallus slightly arched, broad, well sclerotized, with a plate-shaped cornutus.</p>
+<!--template match = paragraph--><p>Female genitalia. Papilla analis narrow, elongate, covered with bristles. Apophysis posterioris 2.9 x as long as papilla analis and 1.5 x as long as apophysis anterioris, which is 1.5 x as long as segment 8. Segment 8 longitudinally rectangular, dorsolaterally reinforced by sclerotized band, proximal margin strongly sclerotized, broad, V-shaped, caudal margin slightly concave, edged with several bristles; ventral longitudinal sclerotization club-shaped. Antrum slightly longer than segment 8, parallel-sided, posteriorly slightly sclerotized with two more sclerotized patches. Ductus bursae membranous, as broad as antrum. Corpus bursae ovoid, with one large arched, medially slightly constricted signum bearing two narrow long protuberances, and two leaf-shaped posterior signa of different size.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Biology.
+Unknown.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Morocco
+, the High Atlas and Middle-Atlas Mountains, locally abundant.
+</p>
+<!--template match = paragraph--><p>
+Note.
+Synonymized with 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+by 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+. Both morphology and genetics suggest it is a valid species (
+stat. rev.
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

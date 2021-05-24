@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Plectranthias mcgroutheri n. sp.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-">Figures 34–35</xref>
+; 
+<!--template match = tableCitation--><xref>Tables 1–17</xref>
+, 
+<!--template match = tableCitation--><xref>26–27</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="vernacular_names">
+<!--template match = paragraph--><p>Common name: McGrouther’s Perchlet</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias wheeleri</tp:taxon-name>
+[non 
+<!--template match = bibRefCitation--><xref rid="ref74071">Randall 1980</xref>
+].— 
+
+<!--treatment-citation--><tp:nomenclature-citation>Allen 1985: 2508</tp:nomenclature-citation>
+
+(checklist, 
+Western Australia
+).— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Paxton 
+et al.
+1989: 507
+</tp:nomenclature-citation>
+
+(checklist, North West Shelf, 
+Australia
+).— 
+
+<!--treatment-citation--><tp:nomenclature-citation>Baldwin &amp; Johnson 1993: 244</tp:nomenclature-citation>
+
+(list of comparative specimens).— 
+
+<!--treatment-citation--><tp:nomenclature-citation>Hutchins 2001: 30</tp:nomenclature-citation>
+
+(checklist).— 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Allen 
+et al.
+2006: 991
+</tp:nomenclature-citation>
+
+(checklist). — 
+
+<!--treatment-citation--><tp:nomenclature-citation>Parenti &amp; Randall 2020: 30</tp:nomenclature-citation>
+
+(checklist; in part).
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+I.22828-010, 74. 0 mm SL, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Australia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">North West Shelf</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">190 km</named-content>
+northwest of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Port Hedland</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°01′S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">117°12′E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200–202 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Engel</named-content>
+trawl, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. McGrouther</named-content>
+&amp; J. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Paxton</named-content>
+aboard 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RV</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Soela</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14 Apr 1982</named-content>
+</named-content>
+.
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">I22828</named-content>
+-034
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">76 mm</named-content>
+SL (cleared and stained), collected with holotype
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AMS</named-content>
+I.22828-035, 5: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">49.9–68.6 mm</named-content>
+SL, collected with holotype
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-20</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">59.2 mm</named-content>
+SL
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-21</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">2</named-content>
+: 32.6–42.0 mm SL
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-22</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">2</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">24.1–31.6 mm</named-content>
+SL, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+, west of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Exmouth Gulf</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">21°59.17′S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">113°49.20′E</named-content>
+to 21°59.79′S, 113°49.14′E, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">165–166 m</named-content>
+</named-content>
+, beam trawl
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">FRV</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Southern Surveyor</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Dec 2005</named-content>
+</named-content>
+(SS1005/153)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NMV</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="accessionNumber">A 29687</named-content>
+-009
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">63.4 mm</named-content>
+SL, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Australia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Western Australia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mermaid</named-content>
+L24 transect, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17°29.23′S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120°27.63′E</named-content>
+to 17°29.72′S 120°28.07′E, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">184–187 m</named-content>
+</named-content>
+, beam trawl, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M.F. Gomon</named-content>
+aboard
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RV</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Southern Surveyor</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 June 2007</named-content>
+</named-content>
+</tp:material-citation>
+; 
+WAM
+P.35175- 001, 
+55.3 mm
+SL, collected with 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-20</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-21</named-content>
+and
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CSIRO</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">H 6378-22</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+The following combination of characters distinguishes 
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+from congeners: segmented dorsal rays 16; third dorsal spine longest; pectoral rays 14, with all but uppermost branched in adults; lateral line complete, consisting of 27–30 tubed scales; no scales on maxilla, mandibles or lower part of snout; lower part of preopercle with two enlarged antrorse serrations; head length 41.9–44.7 % SL; snout length 7.1–9.2 % SL.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Dorsal rays X,16, all segmented rays branched; anal rays III,7, all segmented rays branched; pectoral rays 14/14, all rays unbranched; pelvic fin I,5, all segmented rays branched; upper procurrent caudal-fin rays 7 (6–7); lower procurrent caudal-fin rays 7 (5–7); principal caudal-fin rays 9+8; branched caudal fin rays?+? (8+7); total caudal-fin rays 31 (29–31); lateral line complete with 28/30 (27–30) scales; scales above lateral line to origin of dorsal fin 3/3 (3–4); scales above lateral line to base of fifth dorsal spine 2/2 (2–4); scales below lateral line to origin of anal fin 11/11 (11–12); diagonal rows of scales on cheek 9 (7–9), including 1 (1–2) over preopercular canal; predorsal scales 24 (21–28), extending to middle to anterior nostrils; circumpeduncular scales 14 (13–15); gill rakers 5+10 (5–6+10–13=15–19), the upper 4 (4–5) and lower 3 (2–5) rudiments; pseudobranchial filaments 18 (15–20); branchiostegal rays 7.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-81--151-250-1857-1881-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 34.
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias mcgroutheri</tp:taxon-name>
+, A) AMS I.22828-010, 74.0 mm SL, preserved holotype, North West Shelf, Australia; B) AMS I.22828-010, holotype, radiograph; C) NMV A 29687-009, 63.4 mm SL, freshly dead paratype, 190 km west of Broome, Western Australia. Photos by (A) A.C. Gill, (C) M.F. Gomon; radiograph by A. Hay and S.E. Reader.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471995/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 26.
+Morphometric values for 
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias mcgroutheri</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->n. sp.
+expressed as percentrages of SL. * indicates where a measurement could not be made, owing to damage.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e574">
+<!--template match = tr--><tr>
+<!--template match = td--><td>Holotype AMS I.22828-010</td>
+<!--template match = td--><td>Paratypes</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Size class (mm SL)</td>
+<!--template match = td--><td>20.0–29.9</td>
+<!--template match = td--><td>30.0–39.9</td>
+<!--template match = td--><td>40.0-49.9</td>
+<!--template match = td--><td>50.0-59.9</td>
+<!--template match = td--><td>60.0-69.9</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>n: SL (mm)</td>
+<!--template match = td--><td>74.0</td>
+<!--template match = td--><td>1: 24.1</td>
+<!--template match = td--><td>2: 31.6–32.6</td>
+<!--template match = td--><td>2: 42.0–49.9</td>
+<!--template match = td--><td>2: 55.3–59.2</td>
+<!--template match = td--><td>5: 60.6–68.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Greatest body depth</td>
+<!--template match = td--><td>37.2</td>
+<!--template match = td--><td>32.0</td>
+<!--template match = td--><td>32.3–33.4</td>
+<!--template match = td--><td>35.7–39.5</td>
+<!--template match = td--><td>36.8–40.7</td>
+<!--template match = td--><td>36.2–38.1</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Body depth at anal-fin origin</td>
+<!--template match = td--><td>34.9</td>
+<!--template match = td--><td>29.5</td>
+<!--template match = td--><td>29.7–30.1</td>
+<!--template match = td--><td>32.9–33.1</td>
+<!--template match = td--><td>32.9–33.6</td>
+<!--template match = td--><td>32.5–35.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Body width</td>
+<!--template match = td--><td>20.8</td>
+<!--template match = td--><td>13.7</td>
+<!--template match = td--><td>14.6–17.8</td>
+<!--template match = td--><td>18.6–19.2</td>
+<!--template match = td--><td>17.9–18.8</td>
+<!--template match = td--><td>18.1–20.8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Head length</td>
+<!--template match = td--><td>43.2</td>
+<!--template match = td--><td>41.9</td>
+<!--template match = td--><td>42.6–43.0</td>
+<!--template match = td--><td>44.3–44.5</td>
+<!--template match = td--><td>41.9–44.7</td>
+<!--template match = td--><td>42.4–44.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Snout length</td>
+<!--template match = td--><td>8.2</td>
+<!--template match = td--><td>7.1</td>
+<!--template match = td--><td>8.2–9.2</td>
+<!--template match = td--><td>7.1–7.6</td>
+<!--template match = td--><td>7.8–8.8</td>
+<!--template match = td--><td>7.3–8.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Orbit diameter</td>
+<!--template match = td--><td>12.3</td>
+<!--template match = td--><td>13.3</td>
+<!--template match = td--><td>13.3–13.8</td>
+<!--template match = td--><td>14.2–14.3</td>
+<!--template match = td--><td>12.8–14.5</td>
+<!--template match = td--><td>12.4–13.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Bony interorbital width</td>
+<!--template match = td--><td>4.6</td>
+<!--template match = td--><td>2.9</td>
+<!--template match = td--><td>2.8–4.0</td>
+<!--template match = td--><td>3.8</td>
+<!--template match = td--><td>3.6–4.6</td>
+<!--template match = td--><td>4.6–5.0</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Upper jaw length</td>
+<!--template match = td--><td>19.3</td>
+<!--template match = td--><td>17.4</td>
+<!--template match = td--><td>18.0–19.0</td>
+<!--template match = td--><td>19.0–19.6</td>
+<!--template match = td--><td>18.6–20.1</td>
+<!--template match = td--><td>19.4–21.0</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Maxilla width</td>
+<!--template match = td--><td>5.7</td>
+<!--template match = td--><td>5.4</td>
+<!--template match = td--><td>6.0–6.1</td>
+<!--template match = td--><td>6.0–6.2</td>
+<!--template match = td--><td>5.8–5.9</td>
+<!--template match = td--><td>5.7–6.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Caudal peduncle length</td>
+<!--template match = td--><td>20.7</td>
+<!--template match = td--><td>19.1</td>
+<!--template match = td--><td>20.6–21.8</td>
+<!--template match = td--><td>18.1–20.4</td>
+<!--template match = td--><td>17.2–19.4</td>
+<!--template match = td--><td>18.2–19.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Caudal peduncle depth</td>
+<!--template match = td--><td>13.2</td>
+<!--template match = td--><td>12.9</td>
+<!--template match = td--><td>12.3–13.8</td>
+<!--template match = td--><td>13.1–13.2</td>
+<!--template match = td--><td>13.7</td>
+<!--template match = td--><td>12.4–13.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Predorsal length</td>
+<!--template match = td--><td>39.6</td>
+<!--template match = td--><td>41.1</td>
+<!--template match = td--><td>38.6–42.0</td>
+<!--template match = td--><td>38.7–42.1</td>
+<!--template match = td--><td>40.0–40.2</td>
+<!--template match = td--><td>39.4–40.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Preanal length</td>
+<!--template match = td--><td>71.8</td>
+<!--template match = td--><td>67.2</td>
+<!--template match = td--><td>67.5–70.9</td>
+<!--template match = td--><td>69.3–71.4</td>
+<!--template match = td--><td>69.8–75.0</td>
+<!--template match = td--><td>67.7–72.8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Prepelvic length</td>
+<!--template match = td--><td>40.5</td>
+<!--template match = td--><td>35.3</td>
+<!--template match = td--><td>36.1–37.1</td>
+<!--template match = td--><td>37.0–37.4</td>
+<!--template match = td--><td>37.8–39.4</td>
+<!--template match = td--><td>36.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Dorsal fin base length</td>
+<!--template match = td--><td>50.7</td>
+<!--template match = td--><td>48.5</td>
+<!--template match = td--><td>47.2–49.7</td>
+<!--template match = td--><td>51.2–52.5</td>
+<!--template match = td--><td>52.4–52.7</td>
+<!--template match = td--><td>51.2–54.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First dorsal spine</td>
+<!--template match = td--><td>5.5</td>
+<!--template match = td--><td>6.2</td>
+<!--template match = td--><td>6.6–7.1</td>
+<!--template match = td--><td>7.1</td>
+<!--template match = td--><td>5.8–7.4</td>
+<!--template match = td--><td>5.5–7.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Third dorsal spine</td>
+<!--template match = td--><td>19.9</td>
+<!--template match = td--><td>17.4</td>
+<!--template match = td--><td>16.1–19.3</td>
+<!--template match = td--><td>21.0</td>
+<!--template match = td--><td>21.2–24.8</td>
+<!--template match = td--><td>20.7–24.0</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Fourth dorsal spine</td>
+<!--template match = td--><td>17.7</td>
+<!--template match = td--><td>18.3</td>
+<!--template match = td--><td>18.7</td>
+<!--template match = td--><td>18.8–19.0</td>
+<!--template match = td--><td>19.7–20.9</td>
+<!--template match = td--><td>18.1–21.3</td>
+</tr>
+</table>
+</p>
+<!--template match = paragraph--><p>
+......continued on the next page
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>TABLE 26. (Continued)</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e1102">
+<!--template match = tr--><tr>
+<!--template match = td--><td>Holotype AMS I.22828-010</td>
+<!--template match = td--><td>Paratypes</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Fifth dorsal spine</td>
+<!--template match = td--><td>15.9</td>
+<!--template match = td--><td>17.0</td>
+<!--template match = td--><td>16.3–17.4</td>
+<!--template match = td--><td>17.6–17.8</td>
+<!--template match = td--><td>18.1–18.4</td>
+<!--template match = td--><td>15.4–19.0</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>10th dorsal spine</td>
+<!--template match = td--><td>8.4</td>
+<!--template match = td--><td>7.9</td>
+<!--template match = td--><td>8.6</td>
+<!--template match = td--><td>8.6</td>
+<!--template match = td--><td>8.9–10.3</td>
+<!--template match = td--><td>8.5–9.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First segmented dorsal ray</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>13.7</td>
+<!--template match = td--><td>13.3–15.6</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>15.9–17.0</td>
+<!--template match = td--><td>*</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Longest segmented dorsal ray (number)</td>
+<!--template match = td--><td>18.6 (9)</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>19.3 (5)</td>
+<!--template match = td--><td>18.2 (9)</td>
+<!--template match = td--><td>19.0 (5)</td>
+<!--template match = td--><td>17.2 (6)</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Anal fin base length</td>
+<!--template match = td--><td>14.7</td>
+<!--template match = td--><td>15.8</td>
+<!--template match = td--><td>13.3–15.5</td>
+<!--template match = td--><td>14.5–15.8</td>
+<!--template match = td--><td>14.6–16.0</td>
+<!--template match = td--><td>14.7–17.2</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First anal spine</td>
+<!--template match = td--><td>9.2</td>
+<!--template match = td--><td>9.1</td>
+<!--template match = td--><td>9.5–9.8</td>
+<!--template match = td--><td>9.2–10.2</td>
+<!--template match = td--><td>10.8–11.0</td>
+<!--template match = td--><td>8.5–10.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Second anal spine</td>
+<!--template match = td--><td>19.1</td>
+<!--template match = td--><td>19.9</td>
+<!--template match = td--><td>20.6–20.9</td>
+<!--template match = td--><td>20.8–21.7</td>
+<!--template match = td--><td>21.6–23.0</td>
+<!--template match = td--><td>18.3–22.8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Third anal spine</td>
+<!--template match = td--><td>14.1</td>
+<!--template match = td--><td>17.0</td>
+<!--template match = td--><td>14.9–16.3</td>
+<!--template match = td--><td>16.6–16.7</td>
+<!--template match = td--><td>17.4–18.3</td>
+<!--template match = td--><td>14.8–17.2</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First segmented anal ray</td>
+<!--template match = td--><td>17.8</td>
+<!--template match = td--><td>20.7</td>
+<!--template match = td--><td>19.9</td>
+<!--template match = td--><td>20.0–20.4</td>
+<!--template match = td--><td>20.4–21.2</td>
+<!--template match = td--><td>18.6–22.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Longest segmented anal ray (number)</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>22.4 (3)</td>
+<!--template match = td--><td>21.2 (2)</td>
+<!--template match = td--><td>22.1–23.0 (2–3)</td>
+<!--template match = td--><td>21.8–24.1 (2)</td>
+<!--template match = td--><td>23.1–24.3 (2–3)</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Caudal fin length</td>
+<!--template match = td--><td>28.8</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>26.0–30.0</td>
+<!--template match = td--><td>32.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Caudal concavity</td>
+<!--template match = td--><td>5.5</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>1.0–2.5</td>
+<!--template match = td--><td>7.8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Longest pectoral-fin ray (number)</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>*</td>
+<!--template match = td--><td>35.3–36.1 (9)</td>
+<!--template match = td--><td>35.5 (8)</td>
+<!--template match = td--><td>32.9–35.8 (7–9)</td>
+<!--template match = td--><td>37.0 (8)</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Pelvic fin spine</td>
+<!--template match = td--><td>13.8</td>
+<!--template match = td--><td>15.8</td>
+<!--template match = td--><td>17.1–17.2</td>
+<!--template match = td--><td>16.0–17.6</td>
+<!--template match = td--><td>16.1–16.6</td>
+<!--template match = td--><td>15.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Pelvic fin length</td>
+<!--template match = td--><td>22.8</td>
+<!--template match = td--><td>24.5</td>
+<!--template match = td--><td>22.8–23.0</td>
+<!--template match = td--><td>24.2–25.0</td>
+<!--template match = td--><td>25.5–25.7</td>
+<!--template match = td--><td>25.1</td>
+</tr>
+</table>
+</p>
+<!--template match = paragraph--><p>
+Vertebrae 10+16; supraneurals 3; predorsal formula 0/0+0/2/1+1; dorsal pterygiophores in interneural spaces 9–13 1/1/1+1/1+1/1+1 (1/1/1+1/1+1/1 or 1/1/1+1/1+1/1+1); no trisegmental pterygiophores associated with dorsal fin; terminal dorsal pterygiophore in interneural space 18 (17–18); no trisegmental pterygiophores associated with anal fin; terminal anal pterygiophore in interhaemal space 5 (4–5); ribs present on vertebrae 3 through 10; epineurals present on vertebrae 1 through 13 (12–13); parhypural and hypurals autogenous; well-developed hypurapophysis on parhypural; epurals 3; single uroneural (posterior uroneural absent); ventral tip of cleithrum with well-developed posteroventral process; proximal tip of first anal-fin pterygiophore near distal tips of parapophyses on vertebra 10 (
+<!--template match = figureCitation--><xref rid="fig-81--151-250-1857-1881-">Figure 34B</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Dorsal-fin spines with fleshy tabs on their distal tips, the tab on third spine longest and pennant-like; third dorsal spine longest (fourth spine slightly longer in 
+24.1 mm
+SL 
+paratype
+); dorsal fin incised before first segmented-fin ray (tenth spine 52.1–64.9 % length of first segmented ray); second anal-fin spine longest and stoutest; anal fin pointed, second or third segmented ray longest; caudal fin emarginate; lower 8 pectoral fin rays thickened, with membranes between thickened rays incised; eighth (seventh to ninth counting from dorsal-most) pectoral ray longest, reaching vertical through middle of anal-fin base; pelvic fins short, not reaching anus, second segmented ray longest.
+</p>
+<!--template match = paragraph--><p>
+Morphometric data are summarised in 
+<!--template match = tableCitation--><xref>Table 26</xref>
+.
+</p>
+<!--template match = paragraph--><p>Mouth large, reaching or almost reaching vertical through posterior margin of orbit; maxilla expanded posteriorly, with long, low, lateral ridge running parallel to dorsal margin, small splint-like supramaxilla present; mouth terminal; upper jaw with pair of fixed outer canines at front, a band of depressible teeth 5–6 rows at symphysis, reducing to 3–4 rows wide posteriorly, the outer row slightly enlarged, and inner teeth in band across front of jaw enlarged and caniniform; lower jaw with 5 rows of teeth at front of jaw, reducing to a single row posteriorly, the teeth in band near symphysis slightly curved, with 1-2 enlarged in outer row on middle of jaw; vomer with 2–3 rows of small conical teeth arranged in a chevron; palatine with a band of 2–3 rows of small conical teeth; ectopterygoid and mesopterygoid edentate; tongue edentate, slender with rounded tip.</p>
+<!--template match = paragraph--><p>Opercle with 3 flat spines, middle spine longest; preopercle with 10–27 serrations on posterior border, those nearest the angle largest, with an additional 2 enlarged antrorse serrations on ventral border; interopercle with 1–8 usually strong serrations; subopercle with 1–7 usually strong serrations. Anterior nostril positioned at middle of snout, tubular with small flap on posterior rim; posterior nostril at anterior border of orbit, with slightly raised rim, sometimes with small flap anteriorly.</p>
+<!--template match = paragraph--><p>Scales ctenoid with peripheral cteni; lateral line broadly arched over pectoral fin following body contour to caudal-fin base; no scales on chin, branchiostegal membranes, maxilla or snout; no auxiliary scales on head or body; soft dorsal and anal fins with low scaly sheaths basally, with some small scales extending on to fin membranes; caudal fin with scaly basal sheath, with small scales extending on to basal third to half of fin membranes; pectoral fins with basal sheath and small scales extending on to fin membranes.</p>
+<!--template match = paragraph--><p>
+Colour in life (based on colour photos of 
+63.4 mm
+SL 
+paratype
+when freshly dead (
+<!--template match = figureCitation--><xref rid="fig-81--151-250-1857-1881-">Figure 34C</xref>
+) and of 
+59.2 mm
+SL 
+paratype
+after five years frozen): head and body tan to pale pink; snout, nape and dorsal part of head red to orange-red; posterior part of preopercle and adjacent part of operculum mauve to dusky purple; area behind and narrowly below eye mauve to dusky purple; pectoral base and ventral contour of breast pale pink to dusky purple; lower part of abdomen pale tan or pale pink to white; small dusky purple spot over anus; red to orange-red roughly wedgeshaped blotch extending from beneath anterior half of dorsal base to mid-side; second roughly wedge-shaped, broad red to orange blotch extending from between bases of about seventh dorsal spine and seventh segmented dorsal ray to anterior third of anal-fin base; caudal peduncle and posterior part of body behind red wedge pale pink to reddish tan; a column of three to five small, equally spaced bright yellow to red spots on posterior part of caudal peduncle, just anterior to caudal base, with an additional small yellow to red spot about midway along caudal peduncle, just above ventral border, and several additional yellow to red spots over posterior few lateral-line scales; 
+59.2 mm
+SL 
+paratype
+with additional bright yellow spots scattered over head and body; pectoral fins bright yellow, with orangered spot over upper half of basal part of fin; remaining fins bright yellow, reddish orange distally.
+</p>
+<!--template match = paragraph--><p>Colour in preservative: Pale tan, sometimes with dusky grey markings on nape; wedge-shaped blotches beneath dorsal-fin base may be indistinctly present, dusky grey; tips of fleshy tabs on dorsal-fin spines dusky brown.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Habitat and distribution.
+Known only from the 
+holotype
+and six 
+paratypes
+trawled in 
+
+200–202 m
+
+, 
+190 km
+northwest of 
+Port Hedland
+, 
+Western Australia
+, a 
+paratype
+trawled in 
+
+184–187 m
+
+, 
+190 km
+west of 
+Broome
+, 
+Western Australia
+, and six 
+paratypes
+trawled in 
+
+166 m
+
+, west of 
+Exmouth Gulf
+, 
+Western Australia
+(
+<!--template match = figureCitation--><xref rid="fig-85--151-250-1152-1176-">Figure 35</xref>
+). 
+Specimens
+of 
+<!--template match = taxonomicName--><tp:taxon-name>P. lasti</tp:taxon-name>
+were also collected in the first-mentioned trawl. 
+No
+other details on habitat are available.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-85--151-250-1152-1176-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 35.
+Distribution records for 
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+(open circles; arrow indicates type locality), Australian specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>P. retrofasciatus</tp:taxon-name>
+(closed circles) and 
+<!--template match = taxonomicName--><tp:taxon-name>P. moretonensis</tp:taxon-name>
+(triangle).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4471997/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 27.
+Comparison of selected morphometric characters of 
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+. Values are expressed as percentage SL; data for 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+are from 
+<!--template match = bibRefCitation--><xref rid="ref74170">Randall (1996)</xref>
+and 
+<!--template match = bibRefCitation--><xref rid="ref75652">
+Wada 
+et al.
+(2018)
+</xref>
+, respectively.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e1711">
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>n: SL (mm)</td>
+<!--template match = td--><td>13: 24.1–74.0</td>
+<!--template match = td--><td>1: 66.0</td>
+<!--template match = td--><td>3: 58.2–65.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Greatest body depth</td>
+<!--template match = td--><td>32.0–40.7</td>
+<!--template match = td--><td>40.7</td>
+<!--template match = td--><td>33.5–34.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Body width</td>
+<!--template match = td--><td>13.7–20.8</td>
+<!--template match = td--><td>21.7</td>
+<!--template match = td--><td>17.2–17.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Head length</td>
+<!--template match = td--><td>41.9–44.7</td>
+<!--template match = td--><td>45.5</td>
+<!--template match = td--><td>42.5–43.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Snout length</td>
+<!--template match = td--><td>7.1–9.2</td>
+<!--template match = td--><td>9.6</td>
+<!--template match = td--><td>10.3–10.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Orbit diameter</td>
+<!--template match = td--><td>12.3–14.5</td>
+<!--template match = td--><td>13.6</td>
+<!--template match = td--><td>11.7–12.3</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Upper jaw length</td>
+<!--template match = td--><td>17.4–21.0</td>
+<!--template match = td--><td>21.4</td>
+<!--template match = td--><td>20.1–20.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Caudal peduncle depth</td>
+<!--template match = td--><td>12.3–13.8</td>
+<!--template match = td--><td>13.5</td>
+<!--template match = td--><td>11.7–12.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Predorsal length</td>
+<!--template match = td--><td>38.6–42.0</td>
+<!--template match = td--><td>43.4</td>
+<!--template match = td--><td>40.2–40.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Preanal length</td>
+<!--template match = td--><td>67.2–75.0</td>
+<!--template match = td--><td>66.4</td>
+<!--template match = td--><td>71.6–73.5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First dorsal spine</td>
+<!--template match = td--><td>5.5–7.4</td>
+<!--template match = td--><td>7.6</td>
+<!--template match = td--><td>6.5–7.4</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>First anal spine</td>
+<!--template match = td--><td>8.5–11.0</td>
+<!--template match = td--><td>13.6</td>
+<!--template match = td--><td>10.0–10.3</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Second anal spine</td>
+<!--template match = td--><td>18.3–23.0</td>
+<!--template match = td--><td>24.3</td>
+<!--template match = td--><td>19.4–19.8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Pelvic fin length</td>
+<!--template match = td--><td>22.8–26.1</td>
+<!--template match = td--><td>26.7</td>
+<!--template match = td--><td>22.7–23.7</td>
+</tr>
+</table>
+</p>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Comparisons.
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias mcgroutheri</tp:taxon-name>
+is similar to 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi Randall, 1996</tp:taxon-name>
+from the Visayan Sea, 
+Philippines
+, and keys to that species using 
+<!--template match = bibRefCitation--><xref rid="ref74170">Randall’s (1996)</xref>
+key. It is also close to 
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa Wada, Senou &amp; Motomura, 2018</tp:taxon-name>
+from the Tokara Islands, Ryukyu Islands, 
+Japan
+. The three species are unique within the genus in having the following combination of characters: segmented dorsal rays 16 (
+15–16 in
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+); third dorsal spine longest; pectoral rays 14, most rays branched; lateral line complete, consisting of 27–30 tubed scales; no scales on maxilla, mandibles or lower part of snout; and lower part of preopercle with two enlarged antrorse serrations. Comparisons between the three species are difficult as 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+remains known only from the 
+66 mm
+SL 
+holotype
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+is known only from the 
+58.2 mm
+SL 
+holotype
+and two 
+paratypes
+(
+62.3–65.7 mm
+SL). However, the three species appear to differ substantially in various morphometric details (
+<!--template match = tableCitation--><xref>Table 27</xref>
+). In addition to those characters, 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+appears to have a longer dorsal-fin base than the other two species. 
+<!--template match = bibRefCitation--><xref rid="ref74170">Randall’s (1996)</xref>
+value of 33.5 % SL for the dorsal-fin base of 
+<!--template match = taxonomicName--><tp:taxon-name>P. knappi</tp:taxon-name>
+is obviously in error. His figure 2 of the 
+holotype
+indicates a value of ca 58.5 % SL, which is substantially higher than recorded for 
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+(47.2–54.5 % SL) or 
+<!--template match = taxonomicName--><tp:taxon-name>P. maekawa</tp:taxon-name>
+(49.4–51.2 % SL).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Comparison of mitochondrial COI barcode DNA sequences with available sequences for other 
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias</tp:taxon-name>
+provided a closest match with 
+<!--template match = taxonomicName--><tp:taxon-name>P. retrofasciatus</tp:taxon-name>
+(5% uncorrected difference). The two species have similar live colorations, particularly in having wedge-shaped red markings extending from the dorsal-fin base. They are distinguished by pectoral ray counts (
+14 in
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+versus 
+13 in
+<!--template match = taxonomicName--><tp:taxon-name>P. retrofasciatus</tp:taxon-name>
+) and lower jaw dentition (inner row of teeth not enlarged versus enlarged).
+</p>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref69472">Allen (1985)</xref>
+and subsequent authors have identified the AMS 
+type
+specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+as 
+<!--template match = taxonomicName--><tp:taxon-name>P. wheeleri</tp:taxon-name>
+. The two species are distinguished by their pectoral ray counts (
+14 in
+<!--template match = taxonomicName--><tp:taxon-name>P. mcgroutheri</tp:taxon-name>
+versus 
+13 in
+<!--template match = taxonomicName--><tp:taxon-name>P. wheeleri</tp:taxon-name>
+), and live coloration (see 
+<!--template match = bibRefCitation--><xref rid="ref75652">
+Wada 
+et al.
+, 2018
+</xref>
+: fig. 5).
+</p>
+<!--template match = paragraph--><p>
+Remarks.
+The specific epithet is for our friend and colleague Mark McGrouther, former collections manager at AMS, who collected the 
+holotype
+and six of the 
+paratypes
+, in recognition of his contribution to Australian ichthyology and support given to all the authors over an extended timeframe.
+</p>
+<!--template match = paragraph--><p>
+A moderate-sized 
+<!--template match = taxonomicName--><tp:taxon-name>Plectranthias</tp:taxon-name>
+species, largest specimen 
+76 mm
+SL. 
+<!--template match = bibRefCitation--><xref rid="ref69472">Allen’s (1985)</xref>
+identification of the AMS 
+types
+of this species forms the sole basis for records of 
+<!--template match = taxonomicName--><tp:taxon-name>P. wheeleri</tp:taxon-name>
+from 
+Australia
+. The latter species therefore should be removed from Australian faunal lists. Although the record of 
+<!--template match = taxonomicName--><tp:taxon-name>P. wheeleri in Allen &amp; Swainston (1988)</tp:taxon-name>
+and subsequent editions pertains to this species, the accompanying illustration appears to be based on true 
+<!--template match = taxonomicName--><tp:taxon-name>P. wheeleri</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

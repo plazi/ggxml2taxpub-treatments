@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera rotunda (Arrow, 1946) comb.n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-334--151-250-1473-1497-">Figures 80</xref>
+E–H, 130
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Cephaloserica rotunda Arrow, 1946b: 16</tp:taxon-name>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntypes</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+ca. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200 m</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Washaung</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">20 km</named-content>
+East of Myitkyina
+</named-content>
+14.VII.34 Malaise/ N. E. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+R Malaise B. M. 1945-71/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Cotype</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Cephaloserica rotunda Arr.</named-content>
+co-type” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“N. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">East</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sadon</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+</named-content>
+28.6.-5.7. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Malaise</named-content>
+/ N. E. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+R Malaise B. M. 1945-71/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Cotype</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Cephaloserica rotunda Arr.</named-content>
+co-type” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">BMNH</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+ca. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">200 m</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Washaung</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">20 km</named-content>
+East of Myitkyina
+</named-content>
+14.VII.34 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Malaise</named-content>
+/ Cephaloserica rotunda type 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Arrow</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Typus</named-content>
+/ 3733 E91” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHRS</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. East</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sadon</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200 m</named-content>
+</named-content>
+28.6.-5.7. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Malaise</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Cephaloserica rotunda</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicNameLabel">n. sp.</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Arrow</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">rotunda Arrow</named-content>
+/ 3735 E91” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHRS</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Burma</named-content>
+1934 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Myitkyina</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">175m</named-content>
+</named-content>
+.
+</named-content>
+15- 30/7 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Malaise</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypus</named-content>
+/ 3734 E91” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHRS</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Additional material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Jinggu</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+24.IV. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1955</named-content>
+</named-content>
+</named-content>
+, 930m, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vuschik</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Liuku</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+13.VI. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1981</named-content>
+</named-content>
+</named-content>
+, 900m, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Liao Subai</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Jinggu</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+22.IV. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1955</named-content>
+</named-content>
+</named-content>
+, 930m, leg. Krischnovsknja” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ex.</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+) “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Birmania S. S. S. Monti Cariani Bihtan</named-content>
+5-1937 R. Perego” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MSNM</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 ♂♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. R.I. Sc. N. B. Birmanie</named-content>
+/ Birmanie 1911/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Ley</named-content>
+coll. Le Moult vendit” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Burma</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Myanmar</named-content>
+) SW 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Shan State</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Taunggyi</named-content>
+J. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Rejsek</named-content>
+1.- 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.6.1997</named-content>
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Laos</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Vientiane</named-content>
+I.60 Laos (Baudon)/ 416 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Sericini</named-content>
+Asia spec.” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMB</named-content>
+)
+</tp:material-citation>
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Thailand</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. R.I.Sc.N.B. Thailand</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Siam N. Xieng-Sen</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.II.1932</named-content>
+</named-content>
+Prince Leopold” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ISNB</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Chiang Mai</named-content>
+N. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Thailand</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">V 1985</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Koyama</named-content>
+leg.” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription.
+Length: 
+8.8 mm
+, length of elytra: 
+6.4 mm
+, width: 
+5.8 mm
+. Body oval, dark brown, antenna yellowish, surface dull, labroclypeus shiny, except a few short setae on head and sides of elytra, glabrous.
+</p>
+<!--template match = paragraph--><p>
+Labroclypeus wide and subtrapezoidal, widest at base, lateral margins weakly convex and strongly convergent anteriorly, anterior angles blunt; anterior margin weakly emarginate medially; margins moderately but angled and midpoint of median anterior emargination tooth-like reflexed; lateral margin and ocular canthus produce an indistinct angle; surface flat, coarsely, densely punctate, with a transverse row of erect setae behind anterior margin; frontoclypeal suture finely incised, angled medially; smooth area anterior to eye convex, three times as wide as long; ocular canthus short and narrow (1/3 of ocular diameter), finely densely punctate, terminal setae absent. Frons dull, with dense, fine punctures, with a few single short setae beside eyes. Eyes moderately large, ratio diameter/ interocular width: 0.69. Antenna with ten antennomeres; club with three antennomeres and straight, little longer than remaining antennomeres combined. 
+Mentum
+elevated and slightly flattened anteriorly.
+</p>
+<!--template match = paragraph--><p>Pronotum trapezoidal, widest at base, lateral margins evenly convex, strongly convergent anteriorly, anterior angles distinctly produced and sharp, posterior angles moderately convex; anterior margin weakly convex, with fine complete marginal line, base without marginal line; surface finely and densely punctate, with minute setae in punctures; anterior and lateral margin finely sparsely setose; hypomeron carinate, not produced ventrally. Scutellum wide, triangular, with fine and dense punctures.</p>
+<!--template match = paragraph--><p>Elytra convex, widest at posterior third, striae finely impressed, finely and densely punctate, intervals flat, with fine, moderately dense punctures, odd intervals with a few single short setae, otherwise with minute setae in punctures only; epipleural margin robust, ending at convex external apical angle of elytra, epipleura sparsely setose; apical border of elytra membraneous, with a fine rim of microtrichomes (visible at ca 100x magnification).</p>
+<!--template match = paragraph--><p>Ventral surface dull, finely and densely punctate, with dense and fine, adpressed setae, metasternal disc sparsely covered with longer setae; metacoxa with a few longer setae laterally. Abdominal sternites finely and densely punctate, glabrous, each sternite with a transverse row of punctures each bearing a fine seta. Mesosternum between mesocoxae 1.5 times as wide as mesofemur. Ratio of length of metepisternum/metacoxa: 1/1.38. Pygidium weakly convex, dull, finely and densely punctate, without smooth midline, with a few setae along apical margin.</p>
+<!--template match = paragraph--><p>Legs moderately short and wide; femora shiny, with two longitudinal rows of setae, finely and sparsely punctate. Anterior margin of metafemur acute, with adjacent continuously serrated line; posterior ventral margin smooth, strongly widened at apex, dorsal posterior margin smooth, neither serrate, finely setose. Metatibia long and moderately wide, widest at middle, ratio of width/length: 1/2.2, sharply carinate dorsally, with two groups of spines, basal group at middle, apical group at three quarters of metatibial length, in basal half a few short single spines; lateral face longitudinally convex, finely densely punctate on sides, impunctate along midline, punctures with minute setae; ventral margin finely serrate, with six robust equidistant setae; medial face smooth and glabrous; apex finely serrate, shallowly emarginate interiorly near tarsal articulation. Tarsomeres dorsally impunctate, glabrous, neither laterally nor dorsally carinate, moderately setose ventrally; metatarsomeres glabrous and with a strongly serrated ridge ventrally and a smooth subventral longitudinal carina; first metatarsomere slightly longer than following tarsomere and as long as dorsal tibial spur. Protibia moderately long, bidentate; anterior claws symmetrical, basal tooth of both claws bluntly truncate at apex.</p>
+<!--template match = paragraph--><p>
+Aedeagus: 
+<!--template match = figureCitation--><xref rid="fig-334--151-250-1473-1497-">Fig. 80</xref>
+E–G. Habitus: 
+<!--template match = figureCitation--><xref rid="fig-334--151-250-1473-1497-">Fig. 80H</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+See map (
+<!--template match = figureCitation--><xref rid="fig-366--151-250-1942-1966-">Fig. 130</xref>
+) and 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

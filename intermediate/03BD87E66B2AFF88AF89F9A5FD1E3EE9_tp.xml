@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera ovatula ( Fairmaire, 1891 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-76--151-250-1909-1933-">Figures 15</xref>
+G–K, 92
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Serica ovatula Fairmaire, 1891: 195</tp:taxon-name>
+</tp:nomenclature-citation>
+. [
+Type
+locality: Moupin]; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref334675">Murayama 1954: 61</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Aserica ovatula : Murayama 1938: 14</tp:taxon-name>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Autoserica ovatula : Brenske 1897: 403</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref334784">Niijima &amp; Kinoshita 1927: 5</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Maladera ovatula : Kim &amp; Lee, 1997: 128</tp:taxon-name>
+; Kim &amp; Kim 2003: 92; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref329946">Ahrens 2006b: 245</xref>
+</tp:nomenclature-citation>
+, 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 19</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntype</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“Musuem Paris 1906 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Coll. Leon Fairmaire</named-content>
+/ Chang Yang/ Type/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Serica ovatula</named-content>
+Fairm. Tchang Yang
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Additional material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Wolong</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sichuan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.VII.1983</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">2200-2600m</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Zhang Xuezhong</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">VI.1990</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lijiang</named-content>
+leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bocak</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23.-24. JUN 1993</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Yulong mts.</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27.00N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100.12E</named-content>
+Bolm lgt. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">3200m</named-content>
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan prov.</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Daju</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50km</named-content>
+N Lijiang
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27.12N</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100.19E</named-content>
+21.- 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.6.1993</named-content>
+</named-content>
+lgt. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Becvar</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China-Shaanxi Lueyang</named-content>
+4.6.- 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">6.6.2004</named-content>
+</named-content>
+leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Kucera</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan prov.</named-content>
+; Daju- 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50km</named-content>
+N Lijinag
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27.21N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100.19E</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Becvar</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.-27.vi.1993</named-content>
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China—Shaanxi Lueang</named-content>
+env. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">15 km</named-content>
+NW 26.5.-31.5. lgt. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Kučera</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">China-Shaanxi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Daba Shan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shou Man</named-content>
+vill., 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">32°14’N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">108°34’E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25.v.-14.vi.2000</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1000m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Siniaev</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Plutenko</named-content>
+leg.” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 ♀♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Yunnan</named-content>
+27.-28.VI. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Daju</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50 km</named-content>
+M 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lijiang</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">27°21’N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">100°19’E</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Jendek</named-content>
+leg. 1992” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMW</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription.
+Length: 
+6.6–8.5 mm
+, length of elytra: 
+4.8–6.6 mm
+, width: 
+4.1–4.8 mm
+. Body oblong-oval, reddish brown, antenna yellowish, surface dull, labroclypeus shiny, except a few short setae on sides of elytra, glabrous.
+</p>
+<!--template match = paragraph--><p>
+Labroclypeus wide and subtrapezoidal, widest at base, lateral margins nearly straight and convergent anteriorly, anterior angles strongly rounded, anterior margin weakly emarginate medially; margins moderately reflexed; lateral margin and ocular canthus produce an indistinct angle; surface flat, with an indistinct longitudinal elevation behind anterior margin, finely, densely punctate, with a few erect setae; frontoclypeal suture distinctly incised, angled medially; smooth area anterior to eye convex, twice as wide as long; ocular canthus short and narrow (1/3 of ocular diameter), finely densely punctate, with a terminal seta. Frons dull, with moderately dense, fine punctures, with a few single setae beside eyes. Eyes small, ratio diameter/ interocular width: 0.47. Antenna with ten antennomeres; club with three antennomeres and straight, little shorter or as long as remaining antennomeres combined. 
+Mentum
+elevated and slightly flattened anteriorly.
+</p>
+<!--template match = paragraph--><p>Pronotum transverse, widest at base, lateral margins in basal half nearly straight and weakly convergent anteriorly, in anterior half moderately evenly convex and moderately convergent anteriorly, anterior angles distinctly produced and sharp, posterior angles blunt, moderately rounded at tip; anterior margin weakly convex, with fine complete marginal line, base without marginal line; surface moderately finely and densely punctate, with minute setae in punctures; anterior and lateral margin finely setose; hypomeron carinate, not produced ventrally. Scutellum wide, triangular, with fine, moderately dense punctures.</p>
+<!--template match = paragraph--><p>Elytra widest at posterior third, striae finely impressed, finely and densely punctate, intervals slightly convex, with fine, moderately dense punctures being except on second interval partly concentrated along striae, with minute setae in punctures and penultimate interval with a few short setae, otherwise glabrous; epipleural margin robust, ending at nearly blunt external apical angle of elytra, epipleura sparsely setose; apical border of elytra membraneous, with a fine rim of microtrichomes (visible at ca 100x magnification).</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-76--151-250-1909-1933-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 15. A–F:
+<!--template match = taxonomicName--><tp:taxon-name>Maladera formosae ( Brenske, 1898 )</tp:taxon-name>
+(Taiwan: Amping); 
+G–K:
+<!--template match = taxonomicName--><tp:taxon-name>M. ovatula ( Fairmaire, 1891 )</tp:taxon-name>
+(China: Sichuan: Wolong); 
+L–P:
+<!--template match = taxonomicName--><tp:taxon-name>M. hongkongica ( Brenske, 1898 )</tp:taxon-name>
+(China: Guangdong: Dinghu). 
+A, G, L:
+aedeagus, left side lateral view; 
+E, J, O:
+aedeagus, right side lateral view; 
+B, H, M:
+aedeagus, dorsal view; 
+C, D, I, N:
+aedeagus, dorsal view; 
+F, K, P:
+habitus. Scale: 0.5 mm. Habitus not to scale.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4496346/files/figure.png"/></fig>
+<!--template match = paragraph--><p>Ventral surface dull, finely and densely punctate, with dense and fine, adpressed setae, metasternal disc sparsely covered with longer setae; metacoxa with a few longer setae laterally. Abdominal sternites finely and densely punctate, glabrous, each sternite with a transverse row of punctures each bearing a fine seta. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/metacoxa: 1/1.5. Pygidium moderately convex, dull, finely and sparsely punctate, without smooth midline, with a few setae along apical margin.</p>
+<!--template match = paragraph--><p>Legs short and wide; femora dull, with two longitudinal rows of setae, finely and sparsely punctate. Anterior margin of metafemur acute, without adjacent serrated line, anterior row of setae completely reduced; posterior ventral margin smooth, moderately widened at ventral apex, dorsal posterior margin smooth, neither serrate, glabrous. Metatibia short and wide, widest at middle, ratio of width/length: 1/3.2, sharply carinate dorsally, with two groups of spines, basal group shortly before middle, apical group at three quarters of metatibial length, in basal half with a few short single spines close to dorsal margin; lateral face longitudinally convex, with a fine punctures beside dorsal and ventral margin, glabrous; ventral margin finely serrate, with fiveequidistant robust setae; medial face smooth and glabrous; apex finely serrate, shallowly emarginate interiorly near tarsal articulation. Tarsomeres dorsally impunctate, glabrous, neither laterally nor dorsally carinate, moderately setose ventrally; metatarsomeres with a strongly serrated ridge ventrally and a smooth subventral longitudinal carina; first metatarsomere little shorter than following two tarsomeres combined and as long as dorsal tibial spur. Protibia moderately long, bidentate; anterior claws symmetrical, basal tooth of both claws bluntly truncate at apex.</p>
+<!--template match = paragraph--><p>
+Aedeagus: 
+<!--template match = figureCitation--><xref rid="fig-76--151-250-1909-1933-">Fig. 15</xref>
+G–J. Habitus: 
+<!--template match = figureCitation--><xref rid="fig-76--151-250-1909-1933-">Fig. 15K</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+We could not locate 
+syntype
+specimens labelled “Moupin”. The only female 
+syntype
+found was the one mentioned here from Chang Yang. As this specimen bears the original handwriting of Fairmaire, as well as a “type” label, we suspect that the type locality was errorneously lisited in the original publication.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+See map (
+<!--template match = figureCitation--><xref rid="fig-347--151-250-1939-1963-">Fig. 92</xref>
+) and 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

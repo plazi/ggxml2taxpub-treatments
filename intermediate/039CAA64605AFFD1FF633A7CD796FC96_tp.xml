@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Neozavrelia fengchengensis Wang, Wang, 1996<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Figs 1–8</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia fengchengensis Wang, Wang, 1996: 121</tp:taxon-name>
+, 
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 1</xref>
+; Guo &amp; Wang 2005: 189; 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Makarchenko 
+et al
+. 2005: 414
+</tp:nomenclature-citation>
+
+; 
+
+<!--treatment-citation--><tp:nomenclature-citation>
+Orel
+2016: 193
+</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">RUSSIA</named-content>
+, PRIMORYE TERRITORY, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Olginsky district</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Milogradovka River</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 km</named-content>
+above of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Listvennoe Village</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.vi.1998</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">22 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Partisan district</named-content>
+, basin of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Partizanskaya</named-content>
+River near of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lozovy Klyuch Village</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.iv.2004</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vshivkova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">27 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ussuriysk district</named-content>
+, basin of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Razdolnaya River</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Krounovka River</named-content>
+above the hunting base, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21.vii.2004</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Arephina</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 male</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">KHABAROVSK</named-content>
+TERRITORY, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Khor River</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Potopilikha</named-content>
+channel, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">3 km</named-content>
+from 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Georgievka Village</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">14.vii.2005</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">AMUR REGION</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bureya River</named-content>
+below of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kulikovka Village</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22.viii.2004</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 males</named-content>
+, basin of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Zeya River</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tu River</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10.ix.2007</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">25 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CHITA REGION</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Chornaya River</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">500 m</named-content>
+</named-content>
+below the bridge of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Khabarovsk-Chita</named-content>
+highway, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26.vii.2005</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Nercha River</named-content>
+above the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Znamenka Village</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.vii.2005</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Tiunova</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description. Adult male
+(n=7). Total length 
+2.3–2.6 mm
+; wing length 
+1.6–1.7 mm
+. Total length/wing length 1.08–1.27.
+</p>
+<!--template match = paragraph--><p>
+Colouration
+. Ground colour of thorax, scutellum, maxillary palpomeres and abdomen brown; halters yellowish; antenna, scutal stripes, median band on distal half of mesonotum and postnotum, legs dark brown.
+</p>
+<!--template match = paragraph--><p>
+Head
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Figs 1–3</xref>
+). Frontal tubercles very small, about 2 μm in diameter (
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 1</xref>
+). Temporal setae 8–13. Clypeus with 16–21 setae. Antenna with 10 flagellomeres, 806–845 μm long; ultimate flagellomere 312–390 μm (
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 3</xref>
+). AR 0.82–0.88. Maxillary palpomeres 2–4 combined 380–410 μm long, their individual lengths (in μm): 40–50: 75–85: 100: 165–175 (
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 2</xref>
+). Antenna length/palp length 2.06–2.19.
+</p>
+<!--template match = paragraph--><p>
+Thorax
+. Acrostichals 10–13, dorsocentrals 6–8, prealars 1. Scutellum with 7–8 setae.
+</p>
+<!--template match = paragraph--><p>
+Wing
+width 
+0.49–0.51 mm
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Fig. 4</xref>
+). VR 1.13–1.21. R with 5–9 setae, R 
+1
+without setae, R 
+4+5
+with 2–3 apical setae, M 
+1+2
+with 18–27 setae, M, Cu 
+1
+, An without setae. Cell r 
+2+3
+, r 
+4+5
+, m 
+1+2
+with setae. Brachiolum with 1 seta.
+</p>
+<!--template match = paragraph--><p>
+3+4
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-4--151-264-1943-1967-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 1–8.
+The male of 
+<!--template match = taxonomicName--><tp:taxon-name>Neozavrelia fengchengensis Wang, Wang.</tp:taxon-name>
+1—frontal tubercles; 2—maxilar palp and clypeus; 3—antenna; 4—apical part of wing; 5, 6—total view of hypopygium; 7, 8—lateral view of hypopygium. Scale bar 50 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4569582/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Legs
+(see 
+<!--template match = tableCitation--><xref>Table 1</xref>
+). Apical curved tibial spur of fore leg 30 μm long. Combs of mid and hind tibiae separated; each comb bears straight or slightly curved spur, 24–30 μm (mid tibia) to 41–51 μm long (hind tibia). Basitarsus of mid leg with 2–5 sensilla chaetica.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 1
+. Lengths (in µm) and proportion of legs of 
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang, Wang, 1996</tp:taxon-name>
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e525">
+<!--template match = tr--><tr>
+<!--template match = td--><td>P</td>
+<!--template match = td--><td>f</td>
+<!--template match = td--><td>t</td>
+<!--template match = td--><td>ta1</td>
+<!--template match = td--><td>ta2</td>
+<!--template match = td--><td>ta3</td>
+<!--template match = td--><td>ta4</td>
+<!--template match = td--><td>ta5</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P1</td>
+<!--template match = td--><td>650–689</td>
+<!--template match = td--><td>455–481</td>
+<!--template match = td--><td>611–637</td>
+<!--template match = td--><td>351–364</td>
+<!--template match = td--><td>260–273</td>
+<!--template match = td--><td>195–208</td>
+<!--template match = td--><td>117–130</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P2</td>
+<!--template match = td--><td>715–728</td>
+<!--template match = td--><td>520–559</td>
+<!--template match = td--><td>234–260</td>
+<!--template match = td--><td>143</td>
+<!--template match = td--><td>117</td>
+<!--template match = td--><td>91</td>
+<!--template match = td--><td>78</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P3</td>
+<!--template match = td--><td>780–793</td>
+<!--template match = td--><td>676–715</td>
+<!--template match = td--><td>325–377</td>
+<!--template match = td--><td>221–241</td>
+<!--template match = td--><td>208</td>
+<!--template match = td--><td>143</td>
+<!--template match = td--><td>104</td>
+</tr>
+</table>
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>TABLE 1. (Continued)</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e650">
+<!--template match = tr--><tr>
+<!--template match = td--><td>P</td>
+<!--template match = td--><td>LR</td>
+<!--template match = td--><td>SV</td>
+<!--template match = td--><td>BV</td>
+<!--template match = td--><td>BR</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P1</td>
+<!--template match = td--><td>
+1.32–1.34
+</td>
+<!--template match = td--><td>1.81–1.85</td>
+<!--template match = td--><td>1.81–1.90</td>
+<!--template match = td--><td>2.14</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P2</td>
+<!--template match = td--><td>0.45–0.48</td>
+<!--template match = td--><td>4.95–5.28</td>
+<!--template match = td--><td>3.42–3.61</td>
+<!--template match = td--><td>2.50</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>P3</td>
+<!--template match = td--><td>0.48–0.53</td>
+<!--template match = td--><td>3.97–4.48</td>
+<!--template match = td--><td>2.69–2.78</td>
+<!--template match = td--><td>3.75</td>
+</tr>
+</table>
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 2.
+Comparative morphological characteristics of the males of 
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang, Wang</tp:taxon-name>
+from different regions of East Asia
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e746">
+<!--template match = tr--><tr>
+<!--template match = td--><td>Characters</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang, Wang</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang, Wang</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang</tp:taxon-name>
+,
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+(from 
+<!--template match = bibRefCitation--><xref rid="ref24948">Wang, Wang 1996</xref>
+, n=2)
+</td>
+<!--template match = td--><td>
+(from 
+<!--template match = bibRefCitation--><xref rid="ref23980">Gilka 2012</xref>
+, n=2)
+</td>
+<!--template match = td--><td>Wang (our data, n=3)</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Chine</td>
+<!--template match = td--><td>Southern Korea</td>
+<!--template match = td--><td>Russian Far East</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Total length, mm</td>
+<!--template match = td--><td>2.95–3.25</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>2.3–2.6</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Wing length, mm</td>
+<!--template match = td--><td>1.78</td>
+<!--template match = td--><td>1.30–1.35</td>
+<!--template match = td--><td>1.6–1.7</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Frontal tubercles length,</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>ø 2</td>
+<!--template match = td--><td>ø 2</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>µm</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Palpomere lengths, µm</td>
+<!--template match = td--><td>30: 75–90: 90: 128–130</td>
+<!--template match = td--><td>75–83: 75–83 third and fourth</td>
+<!--template match = td--><td>40–50: 75–85: 100:</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>palpomeres</td>
+<!--template match = td--><td>165–175</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Ultimate flagellomere,</td>
+<!--template match = td--><td>400–430</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>312–390</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>μm</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>AR</td>
+<!--template match = td--><td>1.0</td>
+<!--template match = td--><td>0.75</td>
+<!--template match = td--><td>0.82–0.88</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Ac</td>
+<!--template match = td--><td>11</td>
+<!--template match = td--><td>11–13</td>
+<!--template match = td--><td>10–13</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Dc</td>
+<!--template match = td--><td>7–8</td>
+<!--template match = td--><td>6–7</td>
+<!--template match = td--><td>6–8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Scts</td>
+<!--template match = td--><td>6–8</td>
+<!--template match = td--><td>6–8</td>
+<!--template match = td--><td>7–8</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>R</td>
+<!--template match = td--><td>6–12</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>5–9</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>R1</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>0</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>R4+5</td>
+<!--template match = td--><td>2</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>2–3</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>M1+2</td>
+<!--template match = td--><td>13–21</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>18––27</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>LR1</td>
+<!--template match = td--><td>1.2</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>1.32–1.34</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Anal point length, µm</td>
+<!--template match = td--><td>38–40</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>30–32</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Digitus length, µm</td>
+<!--template match = td--><td>36–40</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>20</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Stem of median volsella</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>28–32</td>
+<!--template match = td--><td>26–30</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>length, µm</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Gonocoxite length, µm</td>
+<!--template match = td--><td>148–150</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>120–130</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Gonostylus length, µm</td>
+<!--template match = td--><td>113–115</td>
+<!--template match = td--><td>80–85</td>
+<!--template match = td--><td>90–100</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>HR</td>
+<!--template match = td--><td>1.30</td>
+<!--template match = td--><td>-</td>
+<!--template match = td--><td>1.20–1.44</td>
+</tr>
+</table>
+</p>
+<!--template match = paragraph--><p>
+Hypopygium
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1943-1967-">Figs 5–8</xref>
+). Anal tergite with posterolateral lobes 12 μm long; anterior margin triangular-shaped. The anal point narrow, parallel-sided, expanded medially, dorsally cover with several small spinulae and bearing 16–18 lateral setae on each side of anal point, 30–32 μm long and 10 μm wide on dorsal view. Gonocoxite 120–130 μm long, along the inner margin with 4–6 setae. The width of the transverse sternapodema 
+46 µm
+. Superior volsella oval-shaped (32–34 μm long, 20 μm wide), bearing 2–3 strong apical and 6–8 fine dorsal setae, microtrichia present. Digitus 20 μm long and base of digitus triangular, 20 μm long. Stem of median volsella 26–30 μm long, bearing slender lamelliform setae; total length of median volsella 60 μm. Inferior volsella foot-shaped apically in lateral view, 84–90 μm long, with 15–18 setae. Gonostylus 90–100 μm long and expanded at about median. HR 1.20–1.44.
+</p>
+<!--template match = paragraph--><p>
+Pupa
+and 
+larva
+unknown.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+When comparing males from different regions of 
+East Asia
+, slight morphological differences were revealed (see 
+<!--template match = tableCitation--><xref>Table 2</xref>
+). Chinese specimens turned out to be slightly larger than the Far Eastern and South Korean ones. In Far Eastern males, the 4th segment of the maxillary palp is much longer than the 3rd, whereas in Chinese and South Korean males, the 3rd and 4th segments are the same length. The AR value ranges from 0.75 (Southern 
+Korea
+) to 1 (
+Chine
+).
+</p>
+<!--template match = paragraph--><p>
+The male of 
+<!--template match = taxonomicName--><tp:taxon-name>N. fengchengensis Wang, Wang</tp:taxon-name>
+differs from all known species in the following combination of characters: the number of setae on the veins of the wings (R with 5–9 setae, R 
+1
+without setae, R 
+4+5
+with 2–3 apical setae, M 
+1+2
+with 18–27 setae, M 
+3+4
+, Cu 
+1
+, An without setae), anal point narrow and expanded medially, digitus protrudes beyond the edge of the superior volsella and is located on a separate lobe, superior volsella dorsally covered with microtrichia, inferior volsella foot-shaped laterally.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Chine
+, 
+South Korea
+, Russian Far East (Primorye and Khabarovsk Territory, Amur Region) and East Siberia (Chita Region).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

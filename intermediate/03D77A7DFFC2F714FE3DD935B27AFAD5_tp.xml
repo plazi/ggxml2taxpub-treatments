@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Tachycixius chaoensis ( China, 1938 ) comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Figs 3E</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">5F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-13--189-232-1918-1944-">6B, D</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">8E–F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">10A– M</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Cixius chaoensis</tp:taxon-name>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938: 51–52</xref>
+</tp:nomenclature-citation>
+, fig. 22 (description, illustrations, records).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Cixius chaoensis</tp:taxon-name>
+– 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref19421">Lindberg 1961: 55</xref>
+</tp:nomenclature-citation>
+(records).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Tachycixius chaoensis</tp:taxon-name>
+differs from species of the same genus in the form of aedeagus: (1) the velum has a narrow, hump-shaped expansion at the base, and the apical part is arched and thinner than at base; the apex forks into a straight spine-like dorsal projection and a larger scythe-shaped ventral expansion sharply bent to the left; (2) on each side, the basal part of the aedeagus has two small and thin spines strongly curved inward. There are four endemic species of 
+<!--template match = taxonomicName--><tp:taxon-name>Tachycixius</tp:taxon-name>
+in the 
+Canary Islands
+grouped in the 
+<!--template match = taxonomicName--><tp:taxon-name>T. canariensis</tp:taxon-name>
+group (
+<!--template match = bibRefCitation--><xref rid="ref19004">Holzinger 2000</xref>
+). 
+<!--template match = taxonomicName--><tp:taxon-name>Tachycixius chaoensis</tp:taxon-name>
+differs from them in: (1) the vellum which has a hump-shaped expansion and the apex is bifurcated, not blunt; (2) the movable spines are of similar size and are on each side of the theca, and strongly curved inward; they are also smaller and thinner than in the Canarian species; (3) the medioventral expansion of the theca has a wave-crested shape, and the proximal end is concave and ends in a solid, thin and inwardly curved ventral spine.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+
+Lectotype
+
+(here designated) (
+<!--template match = figureCitation--><xref rid="fig-13--189-232-1918-1944-">Fig. 6B, D</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Desertas Islands</named-content>
+, Ilhéu Chão
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♂</named-content>
+(glued on a card with 1 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">st</named-content>
+left tibia and tarsi glued separately (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 6B, D</named-content>
+) and abdomen dissected (in a separated dissection slide), bearing seven labels); a black rectangular label (handwritten) reading “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Cixius</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">châoensis</named-content>
+/TYPE China/
+</named-content>
+[printed] det. W.E.China.1937 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">”</named-content>
+; a white round label with red printed circle, in the center of this with black printed letters written “Type”; a small rectangular label printed “♂”; three black typed printed labels reading “Madeira./Wollaston./B.M.1855-7.”; “N.Dezerta/Ilheo Châo”; “DISSECTIONS/IN SLIDE/ COLLECTION.”; a rectangular label with QR symbol and reading “NHMUK 010748310”; NHMUK 010748310.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+
+Paralectotypes
+
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Desertas Islands</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ilhéu Chão</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+; “Habitat: Northern Dezerta, (Ilheo Chão)”, each labelled “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+”; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NHMUK</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Other material
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">MADEIRA ISLANDS</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Machico</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ponta de São Lourenço</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">50 m</named-content>
+a.s.l.
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 May 2001</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sara Machado</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+on 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Suaeda vera</named-content>
+</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">UMACI</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Redescription</title>
+<!--template match = paragraph--><p>
+BODY MEASUREMENTS (mm). See 
+<!--template match = tableCitation--><xref>Table 1.</xref>
+</p>
+<!--template match = paragraph--><p>
+COLOURATION. Males overall colouration light brown, females darker (
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Fig. 3E</xref>
+). Vertex brown with two paler oval spots at the level of anterior margin of eyes; areolar carina dark brown. Frons and medial ocellus yellowish-brown in males and darker in females. Postclypeus yellowish medially with outer margins darker. Anteclypeus brown, slightly lighter medially; in females, the clypeus is darker. Genae, lora and 2 
+<sup>nd</sup>
+antennal segment dark brown. Lateral ocelli golden brown. Eyes blackish brown. Pronotum amber yellow, often light brown medially behind vertex and at posterior angles. Mesonotum brown or dark brown, in some specimens the carinae and posterior margin lighter. Tegula pale brown to light brown. Tegmina translucent, whitish; longitudinal veins pale (
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1777-1803-">Figs 3E</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">5F</xref>
+). Some specimens have a darker obliquus strip at ⅓ of the base. Stigma is whitish to dark brown. Wing markings in males reduced and the strips lighter or unnoticeable; legs light brown to brown with varying degrees of shade. Colouration of the abdomen in males and females as in 
+
+<!--template match = taxonomicName--><tp:taxon-name>C. madeirensis</tp:taxon-name>
+.
+
+</p>
+<!--template match = paragraph--><p>
+HEAD. Vertex anteriorly tongue-shaped and concave, and posteriorly trapeze-shaped (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10B</xref>
+); medially short, about ¾ times as long as wide at the level of anterior eyes margin. Medial carina of the frons smooth, reaching the posterior margin of postclypeus (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10A</xref>
+). Epistomal suture parabola-shaped, the height of the crest-wave about ⅓ of its width at the base. Lateral pits between the vertex and forehead shallow. Medial ocellus reduced or obsolete.
+</p>
+<!--template match = paragraph--><p>
+THORAX. Pronotum and carinae as in 
+<!--template match = taxonomicName--><tp:taxon-name>C. madeirensis</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10B</xref>
+). Lateral carinae of mesonotum 2 times more separated distally than basally; length of medial carina about ⅔ of the mesonotum length; the distal area between lateral carinae slightly concave. Tegmina short, narrowing to its distal end; 2.5 times as long as wide in its widest part (
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1776-1802-">Fig. 5F</xref>
+); in females the tegmina are slightly shorter than the abdomen length; bristles along veins sporadic. Metatibia with 3 small lateral spines; 1 
+<sup>st</sup>
+spine located near tibiofemoral joints; the other two spines separated from each other by about ¼ of the tibia length. First metatarsus with 6 spines distally.
+</p>
+<!--template match = paragraph--><p>
+MALE GENITALIA. Pygofer lobes form an elongated parabola (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10H</xref>
+). Anal tube asymmetric ventrocaudally, with the caudal margin slightly concave laterally (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10E</xref>
+); lateral distal lobes thumblike with apex roundish; they bend ventrally with the distal part wider than at the base. Anal style globular, pear-shaped as the cactus fruit (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10F</xref>
+). Paramere tongue-shaped distally; lamella higher than wide at the base with ventral margin convex and proximal margin slightly oblique (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10G</xref>
+). Right ventral margin of the aedeagus base with two cranially curved lateroventral spines (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10J–K</xref>
+); the largest, of variable length, is on the anterior margin, and the thinnest is in the center (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10J</xref>
+); the anterior margin of the aedeagus base is semi-arched and has a row of small spines, variable in number. The aedeagus base has distally two small hooked spines directed toward each other (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10J–K</xref>
+). Velum hump-shaped with ventrodistal margin curved inwards; apex bifurcated, the largest portion scythe- shaped, bent sharply to the right; dorsally the shortest spine is directed to the apex of the inferior process (
+<!--template match = figureCitation--><xref rid="fig-21--189-232-1848-1874-">Fig. 10J–M</xref>
+).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-21--189-232-1848-1874-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 10.
+<!--template match = taxonomicName--><tp:taxon-name>Tachycixius chaoensis</tp:taxon-name>
+(
+<!--template match = bibRefCitation--><xref rid="ref18564">China, 1938</xref>
+). Specimens from Ponta de São Lourenço, 11 May 2001, on 
+<!--template match = taxonomicName--><tp:taxon-name>Suaeda vera Forssk. ex J.F.Gmel. A .</tp:taxon-name>
+Head (frontal view). 
+B
+. Head, pronotum, and scutellum (dorsal view). 
+C–F
+. Anal tube (dorsal, ventral, caudal and left lateral view). 
+G
+. Left paramere. 
+H
+. Pygofer (left lateral view). 
+I
+. Right forewing. 
+J–M
+. Aedeagus (J–K, left and right lateral view; L–M, dorsal and ventral view).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4663799/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+FEMALE GENITALIA. Caudal margin of the seventh sternite concave (
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">Fig. 8F</xref>
+). Gonoplac wider distally, about 4.5 times as long as wide, with thin, small scattered setae, mainly on the ventral margin. Gonoplac ensiform, slightly curved upwards up to the dorsal margin of the anal style, touching it behind (
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1812-1838-">Fig. 8E</xref>
+). Lateral margins of the IX tergite distinctly incurved caudally, leaving in the middle a thin channel deeply excavated.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Distribution and habitat</title>
+<!--template match = paragraph--><p>
+Restricted to the semi-arid coastal habitats, on the peninsula of the extreme eastern end of Madeira Island. It was only known on the rocky table-like islet of the Ilhéu Chão (
+<!--template match = bibRefCitation--><xref rid="ref18564">
+China
+1938
+</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref19421">Lindberg 1961</xref>
+). It is probably monophagous on the halophyte 
+<!--template match = taxonomicName--><tp:taxon-name>Suaeda vera</tp:taxon-name>
+. As in our case, Wollaston collected specimens of this species in May (
+11 May 1959
+) (
+<!--template match = bibRefCitation--><xref rid="ref19421">Lindberg 1961</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+In this study, 
+<!--template match = taxonomicName--><tp:taxon-name>Cixius chaoensis</tp:taxon-name>
+is transferred to 
+<!--template match = taxonomicName--><tp:taxon-name>Tachycixius</tp:taxon-name>
+, due mainly by the presence of tubercles on the apical margin between veins; hindwings without the protrusion at the end of Cu2; two lateroventral spines on the left margin of the aedeagus basal-directed and the absence of a medial keel.
+</p>
+<!--template match = paragraph--><p>
+The aedeagus is like that represented by 
+China
+, except for the ventral process of the apex which is more curved to the right, and the distal margin of the parameter which is more rounded. Most of the specimens examined do not show the three wing bands reported by 
+<!--template match = bibRefCitation--><xref rid="ref18564">
+China
+(1938)
+</xref>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref18564">
+China
+(1938)
+</xref>
+did not designate a 
+holotype
+. However, he described both male and female and mentioned: “Habitat: Northern Dezerta, (Ilheo Chão); 
+6 ♂♂
+, 
+2 ♀♀
+(WOLLASTON Coll.)”. The collection of Wollaston is in the Natural History Museum of London. The curator of 
+<!--template match = taxonomicName--><tp:taxon-name>Hemiptera</tp:taxon-name>
+of this museum, M.D. Webb, found the 
+8 specimens
+of the type series which consist of a male labelled “type” and 7 (
+5 males
+and 
+2 females
+) each labelled “ 
+paratype
+”. The specimen labelled “type” is designated here as 
+lectotype
+. The specimen was studied by photo (NHMUK).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

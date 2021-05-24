@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Uvarovistia iraka ( Uvarov, 1934 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Pholidoptera iraka Uvarov, 1934: 59</tp:taxon-name>
+</tp:nomenclature-citation>
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-10--151-264-1701-1725-">Figures 12, 17</xref>
+, 29, 34; 
+<!--template match = tableCitation--><xref>Table 5</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks:
+For description see 
+<!--template match = bibRefCitation--><xref rid="ref13022">Uvarov (1934)</xref>
+and data presented in this study. 
+<!--template match = taxonomicName--><tp:taxon-name>U. iraka</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>U. bakhtiara</tp:taxon-name>
+are two most similar species in the 
+
+Satunini
+Group
+
+. These two species are similar, also can be distinguished from other two species in the group, by asymmetrical apical arms of titillators, relatively stronger tooth of male cerci, and large and furrowed/modified female subgenital plate. The medial transverse sulcus of female subgenital plate and tooth of male cercus located distad of the middle are two main characters distinguishing this species from 
+<!--template match = taxonomicName--><tp:taxon-name>U. bakhtiara</tp:taxon-name>
+. For further evaluations see Discussion below.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-11--151-264-1324-1348-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 25–29.
+Female subgenital plate (ventral and lateral view) in 
+<!--template match = taxonomicName--><tp:taxon-name>Uvarovistia</tp:taxon-name>
+. 25— 
+<!--template match = taxonomicName--><tp:taxon-name>U. zebra</tp:taxon-name>
+, 26— 
+<!--template match = taxonomicName--><tp:taxon-name>U. satunini</tp:taxon-name>
+, 27— 
+<!--template match = taxonomicName--><tp:taxon-name>U. munzurensis</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp.n.
+, 28— 
+<!--template match = taxonomicName--><tp:taxon-name>U. bakhtiara</tp:taxon-name>
+, 29— 
+<!--template match = taxonomicName--><tp:taxon-name>U. iraka</tp:taxon-name>
+(Figures 28 and 29 from 
+<!--template match = bibRefCitation--><xref rid="ref13022">Uvarov, 1934</xref>
+)
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671967/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-11--151-264-1396-1420-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 30–33.
+Ovipositor in 
+<!--template match = taxonomicName--><tp:taxon-name>Uvarovistia</tp:taxon-name>
+. 30— 
+<!--template match = taxonomicName--><tp:taxon-name>U. zebra</tp:taxon-name>
+, 31— 
+<!--template match = taxonomicName--><tp:taxon-name>U. satunini</tp:taxon-name>
+, 32— 
+<!--template match = taxonomicName--><tp:taxon-name>U. munzurensis</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp.n.
+, 33—(for 
+<!--template match = taxonomicName--><tp:taxon-name>U. bakhtiara</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>U. iraka</tp:taxon-name>
+see the photos in OSF2, 
+<!--template match = bibRefCitation--><xref rid="ref10215">
+Cigliano 
+et al.
+(2020))
+</xref>
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4685938/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1921-1945-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 34.
+Distribution of 
+<!--template match = taxonomicName--><tp:taxon-name>Uvarovistia</tp:taxon-name>
+prepared from all earlier and present records (a), and the habitat suitability maps of 
+<!--template match = taxonomicName--><tp:taxon-name>U. munzurensis</tp:taxon-name>
+(b) and 
+<!--template match = taxonomicName--><tp:taxon-name>U. satunini</tp:taxon-name>
+(c) produced by SDM analyses per species (the colour scales along the b and c indicates habitat suitability and its probability).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4671969/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+information and distribution:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Distribution</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">IRAQ</named-content>
+— 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">KURDISTAN</named-content>
+— 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Between Sulaymaniah</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Penjwin</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28.5.1932</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">10 males</named-content>
+(including the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 females</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.P. Uvarov</named-content>
+); WEST 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">PERSIA</named-content>
+— 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Luristan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">river Abbasan</named-content>
+to r. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kahi-Bamu</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.5.1914</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 female</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">river Abbasan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15.5.1914</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1female</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">river Abbasan</named-content>
+to 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sheikh Nazwad</named-content>
+, 16.5.I914, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 females</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P. Nesterov</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Gotvend</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 male</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 female</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Escalera</named-content>
+) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Museo Nacional de Ciencias Naturales</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Madrid</named-content>
+) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Uvarov 1934</named-content>
+)
+</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Uvarovistia zebra (Uvarov, 1916)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Olynthoscelis zebra Uvarov, 1916a: 10</tp:taxon-name>
+</tp:nomenclature-citation>
+(
+<!--template match = figureCitation--><xref rid="fig-7--151-250-1274-1298-">Figures 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-8--151-250-1384-1408-">2</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1217-1241-">3</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-10--151-264-1629-1653-">6</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-10--151-264-1701-1725-">9, 13, 18, 22</xref>
+, 25, 
+<!--template match = figureCitation--><xref rid="fig-11--151-264-1396-1420-">30</xref>
+, 34; 
+<!--template match = tableCitation--><xref>Tables 1-5</xref>
+)
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+: For description see 
+<!--template match = bibRefCitation--><xref rid="ref12940">Uvarov (1916a</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref13022">1934</xref>
+) and 
+<!--template match = bibRefCitation--><xref rid="ref13055">Ünal (2012)</xref>
+in addition to data presented in this study. 
+<!--template match = taxonomicName--><tp:taxon-name>U. zebra</tp:taxon-name>
+can be well distinguished from other four species of the genus by long process of male anal tergum, strong and basal-ward located long tooth of male cerci, female subgenital plate with tapered lobes. Since morphological and also genetic differences between this and other two species, 
+<!--template match = taxonomicName--><tp:taxon-name>U. satunini</tp:taxon-name>
+and 
+
+<!--template match = taxonomicName--><tp:taxon-name>U. munzurensis</tp:taxon-name>
+,
+
+are great, we considered this species in a separate species group, the 
+
+Zebra
+Group
+
+. For further evaluations see discussion below.
+</p>
+<!--template match = paragraph--><p>
+Material examined:
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">TURKEY</named-content>
+— 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hakkari</named-content>
+, road from 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Şemdinli</named-content>
+to 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Derecik</named-content>
+6th km, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1250 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">22.07.1978</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 female</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Salman</named-content>
+) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AUZM</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hakkari</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Şemdinli</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Güzelkonak</named-content>
+köyü, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.07.1976</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 male</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">S. Salman</named-content>
+), (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AUZM</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hakkari</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Beytüşebap</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Oymakaya Köyü</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1402 m</named-content>
+</named-content>
+, N: 37 42 730, E: 43 30 089, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11.07.2009</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 males</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 females</named-content>
+(leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E.M. Korkmaz</named-content>
+) (in alcohol) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">AUZM</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Type information and distribution:
+IRAK-KURDISTAN 
+—
+Balkcha, 
+9.7.1914
+and Zengizer, 
+12.7.1914
+, 
+2 males
+, 
+3 females
+(
+syntypes
+) (leg. P. Nesterov) (Museo Caucase, Tbilisi) 
+
+(
+<!--template match = bibRefCitation--><xref rid="ref12940">Uvarov 1916a</xref>
+)
+
+; Road from Sulaimaniah to Penjwin, a few miles from the Gotvend (leg. B.P. Uvarov) 
+
+(
+<!--template match = bibRefCitation--><xref rid="ref13022">Uvarov 1934</xref>
+);
+
+TURKEY-Hakkari, Beytüşebbab, 
+2500 m
+, 
+30.8.1951
+, 
+4 female
+(leg. C. Kosswig); Beytüşebbab, Karadağ, Kɪrkbulak Yaylasɪ, 
+2600-3000 m
+, 
+5.8.1953
+, 
+15 males
+, 
+10 females
+(leg. T. Karabağ); Beytüşebbab, Karadağ, 
+2800 m
+, 
+5.8.1954
+, 
+8 males
+, 
+3 females
+; Van, Çatak, Kavuşşahap Dağɪ, 
+2300 m
+, 
+25.7.1954
+, 
+1 male
+, 
+1 female
+(leg. P.H. Davis) 
+
+(
+<!--template match = bibRefCitation--><xref rid="ref11307">Karabağ 1958</xref>
+)
+
+; Diyarbakɪr, Kulp, Ağaçlɪ Beldesi, 
+17.6.1996
+1 male
+(leg. C. Özbay); Hakkari, Şemdinli, Güzel Konak Köyü, 
+18.7.1976
+, 
+1 male
+; Şemdinli, Derecik karayolu 6th km, 
+1250 m
+, 
+22.7.1978
+, 
+1 female
+(leg. S. Salman) (AUZM); Beytüşebbab, Karadağ, Kɪrkbulak Yaylasɪ, 
+2600-3000 m
+, 
+5.8.1953
+, 
+2 males
+, 
+2 females
+(leg. T. Karabağ); 8.1982, 
+1 males
+, 
+1 females
+(A. Demirsoy) (Hacettepe Üniversitesi Biyoloji Müzesi, Ankara; HUBM) 
+(Ç
+ɪ 
+plak 1999);
+Hakkari, Çemdinli, 
+25.6.1965
+, 
+1 male
+, 
+1 female
+(Abant іzzet Baysal Üniver- sitesi Entomoloji Müzesi, Bolu; AÍBÜEM) (Karabağ 
+et al.
+1971) 
+
+(
+<!--template match = bibRefCitation--><xref rid="ref13055">Ünal 2012</xref>
+)
+
+; Hakkari, Kato Dağɪ, Süvarihalil Geçidi, 
+2300–2455 m
+, 
+6.9.2013
+, 
+1 male
+, 
+1 female
+, in alcohol, 
+2450–2560 m
+, 
+7.9.2013
+, 
+1 female
+, in alcohol (leg. M. Ünal &amp; A. Erden) (AІBÜEM) 
+
+(
+<!--template match = bibRefCitation--><xref rid="ref13102">Ünal 2018</xref>
+). 
+<!--template match = bibRefCitation--><xref rid="ref10749">Garai (2010)</xref>
+
+reported this species from Iran (
+IRAN
+—160. 
+Zanjan
+/2001, 
+7 males
+, 
+8 females
+). However, we think this record needs confirmation as this locality is near to Caspian Sea.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

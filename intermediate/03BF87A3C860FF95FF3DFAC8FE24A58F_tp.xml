@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Clathrocaspia stanislavi ( Alexenko &amp; Starobogatov, 1987 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-34--151-250-1831-1855-">Fig. 18</xref>
+i– m
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia gmelinii stanislavi Alexenko et Starobogatov</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->subsp. n.
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov 1987: 33</xref>
+</tp:nomenclature-citation>
+, fig. 1.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Caspia stanislavi Alexenko et Starobogatov, 1987</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 88</xref>
+</tp:nomenclature-citation>
+, pl. 41, fig. H.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">44 paratypes</named-content>
+should be in the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+collection; despite major effort, none of the specimens could be located in this institution. One 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+, being a subadult specimen with partially destroyed aperture, was retrieved in the collection of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NMNH</named-content>
+NASU (IKOFZ-It-167).
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+Type locality.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Dnieper river</named-content>
+near 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kherson</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kherson region</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Ukraine</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="tableCitation">Table 1</named-content>
+, locality 30a). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">The</named-content>
+only retrieved 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+was collected from the Dnieper delta (locality 30d)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Other material</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">One</named-content>
+specimen from the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+locality, collected in 1982 by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">T.L. Alexenko</named-content>
+and determined by her in cooperation with 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ya.I. Starobogatov</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UGSB 25237</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">One</named-content>
+specimen from the late 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Holocene</named-content>
+deposits of near 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Kiliya</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Odessa region</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Ukraine</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAN</named-content>
+unnumbered, locality 32)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+<!--template match = bibRefCitation--><xref rid="ref28750">Alexenko &amp; Starobogatov (1987)</xref>
+considered this species similar to the Caspian 
+<!--template match = taxonomicName--><tp:taxon-name>C. gmelinii</tp:taxon-name>
+, from which it is said to differ only in the more inflated whorls, the weaker sculpture and a slightly smaller shell. In combination with the measurements provided with the original description, 
+<!--template match = taxonomicName--><tp:taxon-name>C. stanislavi</tp:taxon-name>
+rather resembles the 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>C. makarovi</tp:taxon-name>
+, which is present considered a synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>C. knipowitschii</tp:taxon-name>
+. Thus, 
+<!--template match = taxonomicName--><tp:taxon-name>C. stanislavi</tp:taxon-name>
+is very likely too a synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>C. knipowitschii</tp:taxon-name>
+, but a final decision requires investigation of the type material, foremost the 
+holotype
+, and/or a genetic study once fresh material becomes available (
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. 2019
+</xref>
+). The species is treated as a taxon inquirendum.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Endemic to the Black Sea Basin, known today only from the delta of the Dnieper River in the vicinity of Stanislav village and Dnieper-Bug liman (
+Ukraine
+). One shell was retrieved from late Holocene deposits of the Danube Delta.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

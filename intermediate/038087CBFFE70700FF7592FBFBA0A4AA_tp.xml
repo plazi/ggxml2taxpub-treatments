@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name><object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="vernacular_names">
+<!--template match = paragraph--><p>
+Hawaiian Name: 
+Hunelele ‘elilau
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-">Figs. 3–95</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-159--151-250-1472-1496-">97</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria Walsingham, 1907: 717</tp:taxon-name>
+</tp:nomenclature-citation>
+. 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref103182">Zimmerman 1978a: 644–718</xref>
+</tp:nomenclature-citation>
+, figs. 427–481; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref101228">
+Johns 
+et al
+. 2016: 66–67
+</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="multiple">
+<!--template match = paragraph--><p>Synonymy</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="synonymic_list">
+<!--template match = paragraph--><p>
+Subgenus 
+<!--template match = taxonomicName--><tp:taxon-name>Eophilodoria Zimmerman, 1978: 659</tp:taxon-name>
+, fig. 432. 
+Type
+species: 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria succedanea Walsingham, 1907</tp:taxon-name>
+.
+</p>
+<!--template match = paragraph--><p>
+Subgenus 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria Zimmerman, 1978: 659</tp:taxon-name>
+, figs. 433–434. 
+Type
+species: 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria marginiestrigata ( Walsingham, 1907 )</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Original description
+: “Antennae a little longer than the forewings, simple, without pecten. Labial Palpi long, curved, drooping, divergent, smooth; terminal joint almost as long as the median. Maxillary Palpi obsolete. Haustellum well-developed. Ocelli present. Head and thorax smooth. Forewings narrow, elongate, lanceolate: neuration 12 veins all separate; 2, 5 and 6 weak; 7 to costa. Hindwings narrow, lanceolate, acute; cilia 3 1/2: neuration 7 veins (3 and 4 coincident); 2 and (3 +4) stalked; cell open between 4 and 5; 5 and 6 stalked out of 7; 8 short. Abdomen slender. Legs, hind tibiae smooth.
+</p>
+<!--template match = paragraph--><p>
+This genus is closely allied to 
+<!--template match = taxonomicName--><tp:taxon-name>Gracilaria , Hw.</tp:taxon-name>
+, but differs in the absence of the maxillary palpi.” (
+<!--template match = bibRefCitation--><xref rid="ref102986">Walsingham 1907: 717</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="type_taxon">
+<!--template match = paragraph--><p>
+
+Type
+species
+
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria succedanea Walsingham, 1907</tp:taxon-name>
+by original description.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Systematic history.
+The systematic history of the genus was reviewed by 
+<!--template match = bibRefCitation--><xref rid="ref101228">
+Johns 
+et al.
+(2016)
+</xref>
+. In summary, the genus was placed originally in the 
+<!--template match = taxonomicName--><tp:taxon-name>Tineidae</tp:taxon-name>
+by 
+<!--template match = bibRefCitation--><xref rid="ref102986">Walsingham (1907)</xref>
+, and incorrectly assigned to the 
+<!--template match = taxonomicName--><tp:taxon-name>Glyphipterygidae</tp:taxon-name>
+by 
+<!--template match = bibRefCitation--><xref rid="ref102044">Meyrick (1912a)</xref>
+. Walsingham characterized the genus from others as lacking a maxillary palpus. Genera he thought were closely related, 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillaria</tp:taxon-name>
+and 
+
+<!--template match = taxonomicName--><tp:taxon-name>Elachista</tp:taxon-name>
+,
+
+have a maxillary palpus and/or blackish forewing. 
+<!--template match = bibRefCitation--><xref rid="ref102309">Swezey (1910b</xref>
+, 1913bc, 1915, 1920, 1928, 1940 &amp; 1946) and 
+<!--template match = bibRefCitation--><xref rid="ref102144">Meyrick (1928)</xref>
+similarly assigned species within 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+with a developed maxillary palpus to other genera, i.e. 
+<!--template match = taxonomicName--><tp:taxon-name>Parectopa</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillaria</tp:taxon-name>
+. 
+<!--template match = bibRefCitation--><xref rid="ref102144">Meyrick (1928)</xref>
+placed some 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species described by Walsingham as 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillaria</tp:taxon-name>
+in the 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillariidae</tp:taxon-name>
+. 
+<!--template match = bibRefCitation--><xref rid="ref103182">Zimmerman (1978a)</xref>
+taxonomically reviewed Hawaiian 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillariidae</tp:taxon-name>
+and placed some species assigned to other genera in 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+. Zimmerman also divided the genus into two subgenera, 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria ( Eophilodoria )</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria ( Philodoria )</tp:taxon-name>
+based on the length of the maxillary palpus. Recently, 
+<!--template match = bibRefCitation--><xref rid="ref101228">
+Johns 
+et al
+. (2016)
+</xref>
+synonymized the subgenus 
+<!--template match = taxonomicName--><tp:taxon-name>Eophilodoria Zimmerman 1978</tp:taxon-name>
+with the genus 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria Walsingham, 1907</tp:taxon-name>
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+has been treated as a genus of the 
+<!--template match = taxonomicName--><tp:taxon-name>Parectopa</tp:taxon-name>
+group, subfamily 
+<!--template match = taxonomicName--><tp:taxon-name>Gracillariinae</tp:taxon-name>
+(
+<!--template match = bibRefCitation--><xref rid="ref101891">
+Kumata 
+et al
+. 1988
+</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref100519">Davis &amp; Robinson 1998</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref100598">De Prins &amp; De Prins 2005</xref>
+). Recently, 
+<!--template match = bibRefCitation--><xref rid="ref101523">
+Kawahara 
+et al
+. (2017)
+</xref>
+placed 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+in the subfamily 
+<!--template match = taxonomicName--><tp:taxon-name>Ornixolinae Kuznetzov &amp; Baryshnikova, 2001</tp:taxon-name>
+based on a phylogeny that utilized 22 genes and 94 gracillariid species. 
+<!--template match = bibRefCitation--><xref rid="ref101297">
+Johns 
+et al.
+(2018)
+</xref>
+published the first molecular phylogeny of 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+utilizing 507 loci and 33 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species. They estimated the origin of the genus to the now partially sunken Hawaiian islands of Laysan or Lisianski, approximately 21 Ma, and hypothesized that the ancestral moth was likely associated with host plants in the families 
+<!--template match = taxonomicName--><tp:taxon-name>Ebenaceae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Malvaceae</tp:taxon-name>
+or 
+<!--template match = taxonomicName--><tp:taxon-name>Primulaceae</tp:taxon-name>
+. While the study of 
+<!--template match = bibRefCitation--><xref rid="ref101297">
+Johns 
+et al.
+(2018)
+</xref>
+was a major breakthrough in understanding the evolutionary patterns of 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+, many of the species included in that study did not have formally assigned names and species boundaries were never formally examined. Two species of 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+were described by 
+<!--template match = bibRefCitation--><xref rid="ref101709">
+Kobayashi 
+et al.
+(2018)
+</xref>
+but many more remained undecribed until the present revision.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Adults
+. The association of this genus to 
+<!--template match = taxonomicName--><tp:taxon-name>Ornixolinae</tp:taxon-name>
+is substantiated by the presence of three autapomorphies for the subfamily: 1) the presence of moderately long, four-segmented maxillary palpi; 2) forewing with three branches of the medial vein and two branches of the cubital vein (
+<!--template match = figureCitation--><xref rid="fig-70--151-250-1601-1625-">Fig. 38</xref>
+); and 3) an ostium bursae opening at the seventh sternum in female (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40E, F</xref>
+). However, 17 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species possess very reduced four-segmented maxillary palpi, of which the apical two segments are very small and indistinct (
+<!--template match = figureCitation--><xref rid="fig-65--151-250-848-872-">Figs. 34A,D</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-69--151-250-1589-1613-">37A, B</xref>
+) or nearly absent (
+<!--template match = figureCitation--><xref rid="fig-65--151-250-848-872-">Figs. 34B, C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-66--151-250-1651-1675-">35</xref>
+).
+</p>
+<!--template match = paragraph--><p>Diagnostic features of the genus include: forewing with lustrous and metallic apical portion; hindwing with small frenular costal bristles; in the male, a dorsal flap extending tergum VIII; in the female, terminus of ductus bursae tubular and sclerotized; corpus bursae with a pair of lateral signa that are either a pair of spines or series of small spines; inception of ductus seminalis at the posterior part of corpus bursae. Larvae and pupae were not examined in the present study and therefore do not include a diagnosis for them..</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription: Adult
+(
+<!--template match = figureCitation--><xref rid="fig-">Figs. 3–6</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">34–40</xref>
+). Head and frons smooth. Haustellum well-developed. Ocelli and chaetocemata absent (despite 
+<!--template match = bibRefCitation--><xref rid="ref102986">Walsingham’s [1907]</xref>
+claim that ocelli are present, 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+lack ocelli). Maxillary palpus developed, 4-segmented (
+<!--template match = figureCitation--><xref rid="fig-65--151-250-848-872-">Figs. 34E, F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-68--151-250-1570-1594-">36</xref>
+) or reduced 2-segmented and obscure small 3rd and 4th segments (
+<!--template match = figureCitation--><xref rid="fig-65--151-250-848-872-">Fig. 34A, D</xref>
+), sometimes greatly reduced, vestigial, obsolete (
+<!--template match = figureCitation--><xref rid="fig-65--151-250-848-872-">Figs. 34B, C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-66--151-250-1651-1675-">35</xref>
+). Labial palpus developed, upcurved, 3-segmented. Antenna about 1.0–1.5 length of forewing. Thorax smooth. Legs slender, smooth. Basal color of forewing dark lustrous and metallic, fuscous or brown. Forewing pattern (
+<!--template match = figureCitation--><xref rid="fig-11--151-250-1821-1845-">Fig. 3</xref>
+) consisting of orange ocherous patches with white bands or spots (
+<!--template match = figureCitation--><xref rid="fig-11--151-250-1821-1845-">Fig. 3A, B</xref>
+) or oblique white to brown streaks (
+
+cs 
+1–3
+
+and 
+
+ds 
+1–3
+
+) (
+<!--template match = figureCitation--><xref rid="fig-11--151-250-1821-1845-">Fig. 3C, D</xref>
+). Hindwing a little shorter in length than forewing.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-11--151-250-1821-1845-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 3.
+Nomenclature adopted in this study for the characterization of the four major 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+forewing pattern types (A-D). After 
+<!--template match = bibRefCitation--><xref rid="ref101709">
+Kobayashi 
+et al.
+(2018)
+</xref>
+. 
+A
+tf and tp present, 
+B
+wp present at the middle, tf absent and tp obscure, 
+C
+cs 
+1~3
+and three ds present, 
+D
+cp and dp present and cs and ds indistinct. a, b, c: white line on costal cilia, as: apical spot, bb 
+(1–3)
+: bronze color band, bp: basal patch, bl 
+(1–2)
+: basal line, cl: costal line, cs 
+(1–3)
+: costal streak, cp: costal patch, ds 
+(1–3)
+: dorsal streak, dp 
+(1–3)
+: dorsal patch, op: orange patch, mp: median patch, tf: transverse fascia, tp: transverse patch, us: uplight spot, w: white color band, (1–5) ws: white spot.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4681819/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-12--151-250-1861-1885-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 4.
+Forewing pattern of 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species that have a reduced maxillary palpus (Forewing pattern type A and B of Fig. 3). Numbers at the bottom right of each moth image refer to the corresponding species below the image. Additional species that have similar forewing pattern are listed below each moth wing morph type, but not illustrated. 
+A
+Species with forewing pattern type A, those with orange tp are numbered 1–12. 
+B
+Forewing pattern type B those with ws and obscure tp are numbered 13–19. Arrows indicate diagnostic characters of species. These are: bp or base (1, 3, 9, 10), tf (5, 8), ws (13–15).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4681821/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-13--151-250-1667-1691-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 5.
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species with forewing pattern type C. These species have white streaks and a developed maxillary palpus. Numbers at the bottom right of each moth image refer to the corresponding species below the image. Additional species that have similar forewing pattern are listed below each moth wing morph type, but not illustrated. Arrows indicate diagnostic characters: cs (25, 28), ds 
+1
+(29), lemon-yellow streak (36).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4681823/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Wing venation (
+<!--template match = figureCitation--><xref rid="fig-70--151-250-1601-1625-">Figs. 38</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-113--151-250-1437-1461-">62H</xref>
+). Forewing lanceolate, with thirteen veins (
+<!--template match = figureCitation--><xref rid="fig-70--151-250-1601-1625-">Fig. 38A</xref>
+). Sc along costal fold, ending at one-third of costa; R1 from base to ending at the middle of costa; branched R2 at two-third of the wing; R3, R4 and R5 from end of cell to costa; M1, M2, M3 and CuA1 from end of cell to tornus; CuA2 rather week, at about two-thirds of the wing; CuP weak, from base and reaching dorsal area; A1+2 from base to beyond midde of dorsum. Hindwing lanceolate, with eight veins (
+<!--template match = figureCitation--><xref rid="fig-70--151-250-1601-1625-">Fig. 38B</xref>
+); Sc along anterior margin, ending at one-fourth of costa with about four small frenulums; R1 weak, along anterior margin, ending at near the middle of the wing; RS from base to reaching apex; branched M1 and M2; CuA from base to ending at the middle of dorsum; branched M3; CuP from base to ending at one-fourth of dorsum.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-14--151-250-1193-1217-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 6.
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species with forewing pattern type D. These species have a brown patch and developed maxillary palpus. Numbers to the bottom right of each moth image refer to the corresponding species below the image. Additional species that have similar forewing pattern are listed below each moth wing morph type, but not illustrated. Arrows indicate diagnostic characters: cs 
+1–3
+(46).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4681825/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Abdomen. Tergum smooth without spiniform setae. Male 8th abdominal segment (
+<!--template match = figureCitation--><xref rid="fig-74--151-250-1665-1689-">Fig. 39</xref>
+) with one or two pairs of coremata; a dorsal flap extending tergum VIII, elongate, triangular, covered with slender, round and flat scales (
+<!--template match = figureCitation--><xref rid="fig-74--151-250-1665-1689-">Fig. 39</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">40D</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Male genitalia
+(
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40A–C</xref>
+) Uncus absent. Tegumen as long as valva in length (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40B</xref>
+). Tuba analis membranous with weakly sclerotized subscaphium; gnathos V-shaped transverse band, terminal margin weakly joining subscaphium and anterior process connecting ventral base of tegumen (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40B</xref>
+). Valva elongate, at the middle, tapering along costal margin (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40C</xref>
+), some species have broad valva with a process; small spines at the apex, surrounded by a set of long setae; a set of short median sized spines arranged on the basal region. Vinculum U-shaped; saccus developed. Phallus tubular, slender; vesica with cornuti; coecum developed (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40A</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Female genitalia
+(
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40E–H</xref>
+) Apophyses anteriores and apophyses posteriores slender. Ostium bursae broad, opening at the middle of 7th abdominal segment (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40E</xref>
+); antrum cup-shaped with a pair of lateral lobes; lamella antevaginalis semicircular and sometimes sclerotized; ductus bursae slender, tubular, posterior section very slender and membranous, curved inside of body and median section weakly sclerotized and flattened (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40E, F</xref>
+); anterior section tubular sclerotized, terminus of ductus bursae biforked in ventral view and flanked pairs of sclerotized wrinkles reaching anterior end of corpus bursae; inception of ductus seminalis on the posterior part of ductus bursae; corpus bursae pyriform; signa both lateral, a pair of spines or many series of small spines (
+<!--template match = figureCitation--><xref rid="fig-75--151-250-1791-1815-">Fig. 40G, H</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+United States
+: Hawaiian Islands (Nihoa, Kauai, Oahu, Molokai, Lanai, Maui and 
+Hawaii
+[Big Island]).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Host plants.
+<!--template match = taxonomicName--><tp:taxon-name>Asteraceae</tp:taxon-name>
+, Ebanaceae, 
+<!--template match = taxonomicName--><tp:taxon-name>Malvaceae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Myrtaceae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Primulaceae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Urticaceae</tp:taxon-name>
+.
+</p>
+<!--template match = paragraph--><p>
+Biology.
+(
+<!--template match = figureCitation--><xref rid="fig-">Figs. 79–95</xref>
+). 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+larvae mine leaves of Hawaiian endemic plants in at least 20 genera and 52 species. Of these, 16 plant species are herbaceous. The larva forms a slender linear or serpentine mine on the adaxial side of the host leaf, and gradually expands its mine as it feeds and the mine later becomes the form of a blotch. Larvae of nearly all 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species are presumed specialists on one plant genus (for example, 16 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species were recorded from one plant species), except for 
+<!--template match = taxonomicName--><tp:taxon-name>P . neraudicola</tp:taxon-name>
+<!--template match = taxonomicName--><tp:taxon-name>P . sciallactis</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P . splendida</tp:taxon-name>
+, that utilize two genera in one plant family. 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria marginestrigata</tp:taxon-name>
+is unusual in that it utilizes five genera in two plant families. Twenty-seven species are known to create a cocoon outside of the mine, usually pupating on the surface of the leaf. Three species, 
+<!--template match = taxonomicName--><tp:taxon-name>P . dubautiella</tp:taxon-name>
+,
+<!--template match = taxonomicName--><tp:taxon-name>P . marginestrigata</tp:taxon-name>
+, and 
+<!--template match = taxonomicName--><tp:taxon-name>P . wilkesiella</tp:taxon-name>
+pupate within larval mines (
+<!--template match = figureCitation--><xref rid="fig-150--151-250-1491-1515-">Fig. 88A</xref>
+; Swezey 1913: 279; 
+<!--template match = bibRefCitation--><xref rid="ref103182">Zimmerman 1978a: 685</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Natural enemies.
+(
+<!--template match = tableCitation--><xref>Table 3</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">Figs. 98–110</xref>
+). Natural enemies, other than parasitoids, are not well known. Eighteen parasitoid species from four families have been recorded from 14 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species (
+<!--template match = bibRefCitation--><xref rid="ref103100">Yoshimoto 1965</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref103182">Zimmerman 1978a</xref>
+), these are: 
+<!--template match = taxonomicName--><tp:taxon-name>Bethylidae</tp:taxon-name>
+: 
+<!--template match = taxonomicName--><tp:taxon-name>Sierola planiceps</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>S . philodoriae</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>S . pulchra</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Sierola</tp:taxon-name>
+sp.; 
+<!--template match = taxonomicName--><tp:taxon-name>Braconidae</tp:taxon-name>
+: 
+<!--template match = taxonomicName--><tp:taxon-name>Mirax</tp:taxon-name>
+sp., 
+<!--template match = taxonomicName--><tp:taxon-name>Pholetesor bedelliae</tp:taxon-name>
+; 
+<!--template match = taxonomicName--><tp:taxon-name>Eulophidae</tp:taxon-name>
+: 
+<!--template match = taxonomicName--><tp:taxon-name>Cirrospilus</tp:taxon-name>
+sp., 
+<!--template match = taxonomicName--><tp:taxon-name>Closterocerus</tp:taxon-name>
+sp., 
+<!--template match = taxonomicName--><tp:taxon-name>Diglyphus begini</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Diglyphus</tp:taxon-name>
+sp., 
+<!--template match = taxonomicName--><tp:taxon-name>Euderus metallicus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Neochrysocharis formosus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Pauahiana maculatipennis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. metallica</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Pnigalio externa</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Sympiesis vagans</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>Zagrammosoma flavolineatum</tp:taxon-name>
+; 
+<!--template match = taxonomicName--><tp:taxon-name>Pteromalidae</tp:taxon-name>
+: 
+<!--template match = taxonomicName--><tp:taxon-name>Lyrcus tortricidis</tp:taxon-name>
+. We reared and examined 98 parasitoid wasps that emerged from 15 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+A total of 51 species are described or redescribed in the present study (See 
+<!--template match = tableCitation--><xref>Table 4</xref>
+and discussion). In addition, some potentially unnamed species have been reported, for example, a “ 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria ( Philodoria )</tp:taxon-name>
+species” on Maui associated with 
+<!--template match = taxonomicName--><tp:taxon-name>Clermontia</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Campanulaceae</tp:taxon-name>
+) (
+<!--template match = bibRefCitation--><xref rid="ref103182">Zimmerman 1978a</xref>
+), and two unidentified “ 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria ( Eophilodoria )</tp:taxon-name>
+species” on the island of 
+Hawaii
+(Big Island) associated with 
+<!--template match = taxonomicName--><tp:taxon-name>Myoporum</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Scrophulariaceae</tp:taxon-name>
+) (Mines by 
+<!--template match = bibRefCitation--><xref rid="ref102790">Swezey 1954:136</xref>
+) and 
+<!--template match = taxonomicName--><tp:taxon-name>Pisonia</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Nyctaginaceae</tp:taxon-name>
+) (See 
+<!--template match = bibRefCitation--><xref rid="ref102790">Swezey 1954:167</xref>
+) respectively. We observed small minelike markings on 
+<!--template match = taxonomicName--><tp:taxon-name>Pisonia</tp:taxon-name>
+on Maui and Oahu, and window-like leaf mines in 
+<!--template match = taxonomicName--><tp:taxon-name>Clermontia</tp:taxon-name>
+on East and West Maui, but these mines contained no larvae and it is unclear whether these are made by 
+
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+.
+
+We also could not observe 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+leaf mines on 
+<!--template match = taxonomicName--><tp:taxon-name>Myoporum</tp:taxon-name>
+, despite there being records of 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+on this plant. 
+<!--template match = taxonomicName--><tp:taxon-name>Myoporum</tp:taxon-name>
+leaves from Maui and 
+Hawaii
+(Big Island) had leaf mines, but those were made by agromyzid flies.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
+<!--template match = paragraph--><p>
+Etymology:
+According to 
+<!--template match = bibRefCitation--><xref rid="ref102986">Walsingham (1907)</xref>
+, the scientific name “ 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+” has the meaning “bounteousness.” It remains unknown what aspect of the moths this word refers to. We present a Hawaiian common name because there are many Hawaiian names for endemic plants and animals, yet this group of moths lacks one. Early Western entomologists in 
+Hawaii
+did not record Hawaiian names of the many living plants and animals nor did they often take advantage of native guides in their entomological explorations. Roughly translated, 
+hunelele
+means "tiny flier" (
+hune
++ 
+lele
+) which reflects the microlepidopteran nature of these moths. The second part 
+ʻelilau
+means "leaf excavator" and alludes to the leaf mining habits of the larval form. We encourage anyone who works with 
+<!--template match = taxonomicName--><tp:taxon-name>Philodoria</tp:taxon-name>
+species to use this name when referring to the genus in the vernacular.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

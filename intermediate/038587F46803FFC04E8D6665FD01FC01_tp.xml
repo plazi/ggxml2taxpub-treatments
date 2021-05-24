@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Agathocles normalis (Distant, 1901) , comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-8--151-264-1811-1835-">Figs 9</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1779-1803-">14, 19, 21</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">106–124</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-39--151-250-1769-1793-">139</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Surenus normalis Distant, 1901a: 107</tp:taxon-name>
+</tp:nomenclature-citation>
+(original description). 
+Lectotype
+(here designated) (see 
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1943-1967-">Figs 1–2</xref>
+): 
+♀
+, 
+Myanmar
+: 
+Carin Cheba
+(MCSN).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Surenus normalis : Distant (1902)</tp:taxon-name>
+: 117
+</tp:nomenclature-citation>
+(description repeated, figures of dorsal habitus and thorax and abdomen in ventral view); 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref28911">Bergroth (1908)</xref>
+: 154
+</tp:nomenclature-citation>
+(catalogue); 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31156">Kirkaldy (1909)</xref>
+: 195
+</tp:nomenclature-citation>
+(world catalogue); 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref32198">
+Memon 
+et al.
+(2011)
+</xref>
+: 1153
+</tp:nomenclature-citation>
+(figure of dorsal habitus).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Surenus cf. normalis : Arnold &amp; Arnold (2017)</tp:taxon-name>
+: 13
+</tp:nomenclature-citation>
+(record).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+locality.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Myanmar</named-content>
+: ‘ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Carin Chebà’</named-content>
+[= Karen Hills, ca. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">19°13′N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">96°35′W</named-content>
+— 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. Poggi, pers. comm. in 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Jendek (2003)</named-content>
+]
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Type material.
+Lectotype
+(here designated) (see 
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Figs 110–112</xref>
+): 
+♀
+, 
+Myanmar
+: ‘Carin Chebà / 
+900–1100 m
+/ L.Fea [p] 
+V
+.XII 88 [hw, white label with black submarginal frame] // Typus [p in red, white label with red submarginal frame] // 
+<!--template match = taxonomicName--><tp:taxon-name>Surenus</tp:taxon-name>
+/ normalis / Dist. [hw, white label] // 
+<!--template match = taxonomicName--><tp:taxon-name>Surenus</tp:taxon-name>
+/ normalis / Typus! Dist. [hw, orange label] // normalis / Dist. [hw, white label]’ (
+MCSN
+). We provided the specimen with the following label: ‘ 
+LECTOTYPUS
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>SURENUS</tp:taxon-name>
+/ 
+NORMALIS
+/ Distant, 1901 / des. Salini &amp; Kment 2020 [p, red label]’.
+</p>
+<!--template match = paragraph--><p>
+
+Additional
+material examined.
+
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">LAOS</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Houa Phan Province</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ban Saluey</named-content>
+→ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Phou Pane Mt.</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°12</named-content>
+–13.5′N 103°59.5′– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">104°01′E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1340–1870 m</named-content>
+a.s.l.
+</named-content>
+, primary mountain forest, individual collecting, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">1.–24.vi.2012</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Vít Kubáň</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lao</named-content>
+collectors lgt., 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">P. Kment</named-content>
+det. (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NMPC</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription
+(male). 
+Colouration
+(
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Figs 108–111</xref>
+). Body black, except clavus, corium, acetabula, genital capsule posteroventrally, antennomeres I–III, and legs blackish brown; labium and distiflagellum (IV) pale brown. Apices of humeri, apex of scutellum, propleuron sublaterally, lateral margin of abdominal ventrite II, antero- and posterolateral angles of connexival segments III to VII, and exocorium with small to very small, yellowish ochraceous callosities. Peritremal surface and small round fields surrounding abdominal trichobothria black. Membrane dark brown, translucent. Remaining parts of genital capsule yellowish.
+</p>
+<!--template match = paragraph--><p>
+Integument and vestiture.
+Body shining, clavus, corium and evaporatorium matt. Body above covered with dense, coarse, black punctures, including apex of scutellum; only endocorium with punctures distinctly smaller and sparser than on exocorium; disc of pronotum (posteromedially) and scutellum (anteriorly) with prominent transverse wrinkles (
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Fig. 108</xref>
+); head underside and thoracic sterna with dense, coarse punctures; surface of abdominal sternites smooth with fine punctures. Body mostly glabrous (see generic description).
+</p>
+<!--template match = paragraph--><p>
+
+Structure.
+Head
+
+(
+<!--template match = figureCitation--><xref rid="fig-8--151-264-1811-1835-">Fig. 9</xref>
+). Head slightly shorter than wide (length: width ratio 0.88). Mandibular plates with lateral margins distinctly sinuate in front of eyes above the small antenniferous tubercle, parallel-sided about their midlength, and regularly rounded anteriorly; mandibular plates not meeting anteriorly, apex of clypeus free, inner margins of apical incisure parallel. Antennomeres from shortest to longest: I &lt;IIa &lt;IV &lt;IIb &lt;III. Scape (I) reaching about apex of head, basipedicellite (IIa) distinctly (1.54×) longer than scape and shorter than IIb (length of IIa: IIb ratio: 1: 1.70). Labiomeres from shortest to longest (n = 1): I = IV (
+1.47 mm
+) &lt;III (
+2.11 mm
+) &lt;II (
+2.30 mm
+). Labium reaching between metacoxae.
+</p>
+<!--template match = paragraph--><p>
+Pronotum
+(
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Figs 108, 110</xref>
+). Lateral tooth on anterolateral angles small, directed laterad (
+<!--template match = figureCitation--><xref rid="fig-8--151-264-1811-1835-">Fig. 9</xref>
+). Lateral pronotal margin anteriorly only minutely crenulate. Humeri rectangular, slightly surpassing laterad over base of corium. Posterior margin slightly concave.
+</p>
+<!--template match = paragraph--><p>
+Scutellum
+(
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Figs 108, 110</xref>
+). Disc of scutellum convex in prefrenal portion, only its postfrenal portion flat; apex narrowly rounded.
+</p>
+<!--template match = paragraph--><p>
+Hemelytra
+. Costal margin of corium only slightly insinuated basally (
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Fig. 108</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Thorax
+. Ostiole large, oval, opening posteriad; median furrow deep, reaching nearly apex of peritreme (
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1779-1803-">Fig. 19</xref>
+). Metasternum medium wide.
+</p>
+<!--template match = paragraph--><p>
+Male genitalia
+. Genital capsule (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Figs 113–116</xref>
+) nearly quadrangular in dorsal/ventral view, longer than wide. Ventral rim deeply incised medially (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Fig. 115</xref>
+); ventral rim infolding wide, medially with crescent-shaped depression (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Figs 113–114</xref>
+). Superior processes of dorsal rim present, small, subtriangular (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Figs 113–114, 117</xref>
+), trapezoid, laterally constricted about midlength (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Fig. 113</xref>
+). Parameral socket open (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-896-920-">Fig. 114</xref>
+). Paramere (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-1924-1948-">Figs 118–124</xref>
+) with basal process with a foliaceous, roughly semicircular lobe positioned rather vertically, bearing row of many long setae (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-1924-1948-">Figs 118, 121–122, 124</xref>
+); apical process hook-shaped, apically obtuse (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-1924-1948-">Figs 118, 122, 124</xref>
+); mesal angle of stem without additional projection (
+<!--template match = figureCitation--><xref rid="fig-31--151-264-1924-1948-">Figs 118, 122, 124</xref>
+). Phallus (
+<!--template match = figureCitation--><xref rid="fig-28--151-264-1763-1787-">Figs 106–107</xref>
+) with pair of dorsal conjunctival processes transversely placed and ending in sclerotised processes, median penial plates (mpp) fused basally, outer margins broadly and thickly sclerotized, encircling short, curved aedeagus (ad).
+</p>
+<!--template match = paragraph--><p>
+Female genitalia
+. Unknown.
+</p>
+<!--template match = paragraph--><p>
+Measurements
+(mm). See 
+<!--template match = tableCitation--><xref>Table 2</xref>
+. 
+<!--template match = bibRefCitation--><xref rid="ref29459">Distant (1901a)</xref>
+give the length of female 
+holotype
+as 20.0 mm.
+</p>
+<!--template match = paragraph--><p>
+Variation.
+The 
+lectotype
+female differs from the examined male by presence of small yellowish callosities also on corium (
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Fig. 110</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Differential diagnosis.
+See key and 
+<!--template match = tableCitation--><xref>Table 3</xref>
+. This species could be recognized by combination of apically narrowly free clypeus, scape about reaching apex of head, and blackish-brown colouration with less conspicuous whitish spot with concolorous punctures at the apex of scutellum.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+(
+<!--template match = figureCitation--><xref rid="fig-39--151-250-1769-1793-">Fig. 139</xref>
+). 
+Laos
+(new record), 
+Myanmar
+(
+<!--template match = bibRefCitation--><xref rid="ref29459">Distant 1901a</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref29587">1902</xref>
+). The record from 
+India
+: 
+West Bengal
+: Darjiling (
+<!--template match = bibRefCitation--><xref rid="ref28681">Arnold &amp; Arnold 2017</xref>
+) requires confirmation.
+</p>
+<!--template match = paragraph--><p>
+Nomenclature.
+<!--template match = bibRefCitation--><xref rid="ref29459">Distant (1901a)</xref>
+did not indicate the number and sex of the specimen(s) he studied, though a single measurement given suggests only one specimen. The ventral illustration of abdomen in 
+<!--template match = bibRefCitation--><xref rid="ref29587">Distant (1902)</xref>
+clearly shows a female. According to Maria Tavano (pers. comm.), there is only a single female labelled as ‘typus’ in the collection of the Museum of Natural History in Genoa, most probably the only specimen Distant studied. According to the Recommendation 73F of the 
+<!--template match = bibRefCitation--><xref rid="ref31005">ICZN (1999)</xref>
+we designate here the single type specimen present in MCSN (
+<!--template match = figureCitation--><xref rid="fig-30--151-264-1652-1676-">Figs 110–112</xref>
+) as 
+lectotype
+to fix the identity of the species.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

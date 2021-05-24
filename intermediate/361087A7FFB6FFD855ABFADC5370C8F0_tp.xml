@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-117--151-250-1881-1905-">Figs 74</xref>
+a–c, 75a–d, 76a–h, 77, 
+<!--template match = tableCitation--><xref>Table 5</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Esperella dendyi Row, 1911: 332</tp:taxon-name>
+, fig. 15.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata Hentschel, 1911: 307</tp:taxon-name>
+, fig. 11; 
+
+<!--treatment-citation--><tp:nomenclature-citation>Lévi 1963: 11</tp:nomenclature-citation>
+
+, Pl. IB, text-fig. 4.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+?
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata var. minor Hentschel, 1911: 310</tp:taxon-name>
+, fig. 12.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata var. aruensis Hentschel, 1912: 340</tp:taxon-name>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+
+? 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) sulcata</tp:taxon-name>
+
+; 
+
+<!--treatment-citation--><tp:nomenclature-citation>Burton 1959: 238</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) aruensis</tp:taxon-name>
+; Hajdu 1995: 101.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi</tp:taxon-name>
+; Hajdu 1995: 101.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) minor</tp:taxon-name>
+; Hajdu, 1995: 104.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SMF983</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Mycale sulcata</named-content>
+var. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">aruensi</named-content>
+s
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Aru Islands</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">N of Penembulai</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">8 m</named-content>
+</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Merton Expedition</named-content>
+, stat. 10, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 April 1908</named-content>
+</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">BMNH 1936.3</named-content>
+.4.587, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Mycale sulcata</named-content>
+</named-content>
+, Murray collection stat. 24, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Gulf</named-content>
+of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Aden</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">11.895°N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">51.22°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">73– 220 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 October 1933</named-content>
+</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+07964, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Nusa Tenggara</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sumba, NE</named-content>
+coast, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">E of Melolo</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">9.9167°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120.75°E</named-content>
+, gently sloping reef flat, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1–4 m</named-content>
+</named-content>
+</tp:material-citation>
+, snorkeling, coll. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+, Indonesian-Dutch Snellius
+</tp:material-citation>
+II
+Expedition stat. 052, field nr. 052/ 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">II/03</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 September 1984</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+08935, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SE 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SW Salayar, reef 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">N of Pulau Bahuluang</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6.45°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">120.43°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">10–15 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+SCUBA
+, coll. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+, Indonesian-Dutch Snellius
+</tp:material-citation>
+II
+Expedition stat. 169, field nr. IOP-E 169/ 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IV/03</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 September 1984</named-content>
+</named-content>
+(yellow)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Por.P.</named-content>
+11920 (slide only), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SE 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Take Bone Rate</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">S of Pulau Tarupa Kecil</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">6.535°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">121.15°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">59 m</named-content>
+</named-content>
+</tp:material-citation>
+, coll. Indonesian-Dutch Snellius 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">II</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Expedition</named-content>
+stat. 4.232, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16 October 1984</named-content>
+</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+11124, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Seychelles</named-content>
+, Mahé, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">N of Aride Island</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4.2°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">55.6833°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">40 m</named-content>
+</named-content>
+</tp:material-citation>
+, rectangular dredge, coll. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Netherlands</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Indian Ocean Expedition</named-content>
+stat. 715, field nr. IOP-E 715/12A, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 December 1992</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+11447a, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Mahé</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">N of Aride Island</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4.2°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">55.6833°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">40 m</named-content>
+</named-content>
+</tp:material-citation>
+, rectangular dredge, coll. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">W.M. van Soest</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Netherlands</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Indian Ocean Expedition</named-content>
+stat. 715, field nr. IOP-E 715/12, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 December 1992</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+15216, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SW 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Spermonde Archipelago</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lae-lae</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">5.134°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.338°E</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.W. Hoeksema</named-content>
+, field nr. 240503, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24 May 1997</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMA</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Por.P.</named-content>
+27690–27693 (thick sections and spicule mounts, slides only), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">South Africa</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Port Elizabeth region</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. van Schie</named-content>
+, field nr. UPE 96–133–134, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">March 1996</named-content>
+</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+2180, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Bali</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sanur</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bangsai Point</named-content>
+, slowly declining reef slope, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">8.6706°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">115.2644°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">6 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SCUBA</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N.J. de Voogd</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bali-Lombok Strait Expedition</named-content>
+2001 stat.06, field nr. BAL06/020401/024, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 April 2001</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Por.</named-content>
+2582, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Singapore</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Pulau Hantu Besar, W</named-content>
+side, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">1.2264°N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">103.7463°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">6 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SCUBA</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N.J. de Voogd</named-content>
+, field nr. SIN.19/020406/144, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2 April 2006</named-content>
+</named-content>
+(orange)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+5226, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">North Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Manado</named-content>
+, Tua 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">South Negen</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">1.625°N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">124.7056°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">12 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+SCUBA
+, coll. 
+N.J. de Voogd
+, field nr. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MD08</named-content>
+/150501/051, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15 May 2001</named-content>
+</named-content>
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+5837, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SW 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Spermonde Archipelago</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Karanrang</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4.8556°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.3769°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">12 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SCUBA</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N.J. de Voogd</named-content>
+, field nr. UPG011/200810/037, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20 August 2008</named-content>
+</named-content>
+(yellow)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+11767, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SW 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Spermonde Archipelago</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Karanrang</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4.8556°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.3769°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">10 m</named-content>
+</named-content>
+</tp:material-citation>
+, SCUBA, coll. N.J. de Voogd, field nr. CEL094, 
+27 April 2018
+(orange); 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RMNH</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Por.</named-content>
+11768, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Indonesia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, SW 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Spermonde Archipelago</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Karanrang</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">4.8556°S</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">119.3769°E</named-content>
+, depth 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">12 m</named-content>
+</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SCUBA</named-content>
+, coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N.J. de Voogd</named-content>
+, field nr. CEL116, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27 April 2018</named-content>
+</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description
+(
+<!--template match = figureCitation--><xref rid="fig-117--151-250-1881-1905-">Figs 74</xref>
+a–c, 76a). Massively encrusting sponge growing among corals, with coarsely grooved irregular surface, often encrusted with sediment (
+<!--template match = figureCitation--><xref rid="fig-117--151-250-1881-1905-">Fig. 74a</xref>
+). The grooves meander over the surface (
+<!--template match = figureCitation--><xref rid="fig-117--151-250-1881-1905-">Fig. 74b</xref>
+) forming characteristic polygonal ‘islands’ of thick surface flakes. Oscules in life large (
+1–2 cm
+in diameter) and composite, but they may contract in preservation. Small openings are found in the grooves (
+<!--template match = figureCitation--><xref rid="fig-117--151-250-1881-1905-">Fig. 74c</xref>
+). Size may be considerable, up 
+12 cm
+in lateral expansion, up to 
+10 cm
+in thickness, but much smaller thinly encrusting specimens are also found. Color in life bright orange, in preservation becoming shades of brown, the surface regions darker brown, the inner and lower parts of specimens lighter brown or beige. Consistency rather soft and compressible, coarsely fibrous.
+</p>
+<!--template match = paragraph--><p>
+Skeleton
+(
+<!--template match = figureCitation--><xref rid="fig-118--151-250-1555-1579-">Figs 75</xref>
+a–d). Plumoreticulate skeleton of thick spicule tracts (
+<!--template match = figureCitation--><xref rid="fig-118--151-250-1555-1579-">Fig. 75a</xref>
+), deep in the choanosome being 
+300–400 µm
+in diameter, gradually subdividing towards the surface into thinner tracts, ending up subectosomally into tracts of 
+50 µm
+or less which carry the surface crust. The ectosomal skeleton (
+<!--template match = figureCitation--><xref rid="fig-118--151-250-1555-1579-">Fig. 75b</xref>
+) is a thick (
+100 µm
+), dense layer of tangentially arranged individual megascleres. Inbetween the intercrossing megascleres there is a dense mass of trichodragmas and individual raphides. In the subectosomal region numerous rosettes of anisochelae I are found (
+<!--template match = figureCitation--><xref rid="fig-118--151-250-1555-1579-">Fig. 75</xref>
+c–d), in a large size variation, 
+60–210 µm
+in diameter; the smaller rosettes appear to be of small anisochelae I (
+<!--template match = figureCitation--><xref rid="fig-118--151-250-1555-1579-">Fig. 75d</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Spicules
+(
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Figs 76</xref>
+b–h). Mycalostyles, three categories of anisochelae, a single category of sigmas, trichodragmas.
+</p>
+<!--template match = paragraph--><p>
+Mycalostyles (
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Fig. 76b,b</xref>
+<!--template match = figureCitation--><xref rid="fig-6--151-250-1177-1201-">1</xref>
+), robust, straight, elongately fusiform with barely developed heads, in a large size variation, possibly regionally determined, 318– 
+484.6
+–781 x 3– 
+10.4
+– 
+16 µm
+.
+</p>
+<!--template match = paragraph--><p>
+Anisochelae I (
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Fig. 76c</xref>
+), mostly arranged in globular rosettes, robust, strongly curved, free part of the shaft about 40% of total spicule length, with short rounded upper alae and squarish lower alae, in a large size range, 48– 
+62.9
+– 
+75 µm
+.
+</p>
+<!--template match = paragraph--><p>
+Anisochelae II (
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Fig. 76d</xref>
+), of normal shape, with well-developed upper and lower alae, free part of the shaft about 25%, 16– 
+22.3
+– 
+30 µm
+.
+</p>
+<!--template match = paragraph--><p>
+Anisochelae III (
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Fig. 76e</xref>
+), dominated by well-developed upper alae, lower alae complicated, irregularly divided (not clearly visible in light microscopy, only properly observed with SEM), with basal spur, 11– 
+13.9
+– 
+18 µm
+. In one of our specimens no anisochelae III were found, in most specimens they were rare or moderately rare.
+</p>
+<!--template match = paragraph--><p>
+Sigmas (
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Fig. 76f</xref>
+), predominantly thin, symmetrical, occasionally with slightly incurved endings, frequency variable in various specimens, size usually 13– 
+21.8
+– 
+34 µm
+, but a few—possibly foreign—larger sigmas have been found, 
+48–60 µm
+.
+</p>
+<!--template match = paragraph--><p>
+Trichodragmas, very common, especially the larger sizes; in many specimens there are distinctly larger trichodragmata (I, 
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">
+Fig. 
+76g
+</xref>
+), 61– 
+84.9
+–144 x 5– 
+10.7
+– 
+16 µm
+, and smaller (II, 
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1436-1460-">Figs 76h</xref>
+), 12– 
+22.3
+–35 x 
+5–7 µm
+. In two of our specimens, trichodragmas II were rare or absent.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution and ecology
+(
+<!--template match = figureCitation--><xref rid="fig-119--151-250-1972-1996-">Fig. 77</xref>
+). 
+Indonesia
+, 
+Singapore
+, 
+Seychelles
+, Red Sea, West 
+Australia
+, Gulf of Aden, 
+Maldives
+, 
+South Africa
+, possibly 
+South Korea
+, from shallow water reefs down to 
+59–73 m
+, possibly deeper down to 
+
+220 m
+.
+
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-117--151-250-1881-1905-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 74
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+, habitus 
+in situ
+(photos N.J. de Voogd), a, RMNH Por. 11767, SW Sulawesi, Indonesia, b, RMNH Por. 5226, North Sulawesi, Indonesia, c, ditto, detail of surface.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4451116/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-118--151-250-1555-1579-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 75
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+, RMNH Por. 2582 from Singapore, light microscopic images of the skeleton, a, cross section of choanosomal skeleton, b, tangential ectosomal skeleton, c, rosette of anisochela I and crowded trichodragmas, d, small rosettes.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4451118/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+. We follow Hajdu (1995) in considering 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata Hentschel, 1911</tp:taxon-name>
+synonymous with 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+. Hajdu examined 
+type
+material of Row and found that the differences on paper between the two descriptions were non-existent, e.g. Row’s material did contain sigmas and two sizes of trichodragmas. As Hajdu (1995) (p. 101) pointed out, the publication date of 
+<!--template match = taxonomicName--><tp:taxon-name>Esperella dendyi Row, 1911</tp:taxon-name>
+was printed to be 
+November 30, 1911
+, whereas Hentschel’s publication of 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata</tp:taxon-name>
+bears no print information other than the year 1911. According to the ICZN (art. 21.3.2), the printed date of the latter is then determined to be 
+December 31, 1911
+. Accordingly, if both are the same species as assumed here, the name 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+has priority. Hajdu (1995) listed specimens of this species from 
+Korea
+, which need further examination.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-119--151-250-1436-1460-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 76
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+, ZMA Por. 15216, from SW Sulawesi, Indonesia, a, preserved habitus (scale bar = 1 cm), b–h, SEM images of spicules, b, mycalostyle, b1, details of mycalostyle, c, anisochela I, d, anisochela II, e, anisochela III, e1, ditto enlarged to visualize indented lower alae, f, sigma I, g, large trichodragma, h, smaller trichodragmas.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4451120/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-119--151-250-1972-1996-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 77
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) dendyi ( Row, 1911 )</tp:taxon-name>
+, approximate distribution of specimens studied (black squares) and literature records (grey dots). Squares and dots may represent several close collecting localities.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4451122/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata var. minor Hentschel, 1911</tp:taxon-name>
+was listed as 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale minor</tp:taxon-name>
+in Hajdu (1995: 104), but he did not study it and he did not comment on it. 
+<!--template match = bibRefCitation--><xref rid="ref132351">Hentschel (1911: 311)</xref>
+stated it was a reduced form (hence the varietal name 
+<!--template match = taxonomicName--><tp:taxon-name>minor</tp:taxon-name>
+), but he also suggested a similarity with his 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale parasitica var. arenosa</tp:taxon-name>
+considered now a junior synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Grapelia) australis</tp:taxon-name>
+(cf. above). The specimen was dried and thus could have been macerated and lost part of its spicule complement. In the absence of further information we consider it a member of the present species, but it needs to be further studied.
+</p>
+<!--template match = paragraph--><p>
+We examined a microscopic slide of 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata var. aruensis Hentschel, 1912</tp:taxon-name>
+from the Aru Islands, raised to species status by Hajdu (1995) without discussion. We found that it conformed to the typical variety from 
+Western Australia
+. Differences between the two noted by 
+<!--template match = bibRefCitation--><xref rid="ref132412">Hentschel (1912)</xref>
+were clearly the result of a difference in frequency of occurrence of anisochelae II and III and sigmas. These were observed in both ‘varieties’, thus removing their differences.
+</p>
+<!--template match = paragraph--><p>
+One of our specimens (RMNH Por. 5226), appeared to have two distinct rosette sizes (
+140–180 µm
+vs. 
+60–70 µm
+), the smaller of which contained smaller than usual anisochelae I (less than 
+45 µm
+). Other features of the specimen did not differ from the characters of 
+<!--template match = taxonomicName--><tp:taxon-name>M. (M.) dendyi</tp:taxon-name>
+, so we refrained from attaching taxonomic significance to this.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref128701">Burton’s (1959)</xref>
+material from the Indian Ocean of this species (as 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale sulcata</tp:taxon-name>
+) consists of several fragments with thick surface crust and irregular skeleton, similar to the 
+Sulawesi
+specimen ZMA Por. 15216 (cf. 
+<!--template match = figureCitation--><xref rid="fig-101--151-250-1687-1711-">Fig. 63a</xref>
+), but it contained large sigmas up to 
+86 µm
+. That sigma size exceeds those of all our specimens, so it is uncertain whether Burton’s material could be conspecific with 
+<!--template match = taxonomicName--><tp:taxon-name>M. (M.) dendyi</tp:taxon-name>
+. Hajdu (1995) proposed part of the sample to be a separate species, his 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale)</tp:taxon-name>
+sp. 4. Proper redescription of the sample is necessary.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) myriasclera Lévi &amp; Lévi, 1983</tp:taxon-name>
+shares the shape of the anisochelae I with the present species, but differs clearly in lacking anisochelae III and sigmas (cf. below).
+</p>
+<!--template match = paragraph--><p>
+Outside our target region, 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) novaezealandiae Dendy, 1924</tp:taxon-name>
+(see also 
+<!--template match = bibRefCitation--><xref rid="ref128151">Bergquist &amp; Fromont 1988</xref>
+), possesses a similar spicule complement, including curved anisochelae I. Thanks to Eduardo Hajdu’s thesis work, we were able to examine a spicule suspension made from the 
+type
+specimen BMNH 1923.10.1.102, which revealed two size categories of mycalostyles (972– 
+
+1116 x 
+23–30
+
+µm and 511–678 x 
+10–23 µm
+), and anisochelae I 
+81–92 µm
+, clearly larger than those of the present species, confirming that the species differs from 
+<!--template match = taxonomicName--><tp:taxon-name>M. (M.) dendyi</tp:taxon-name>
+. See for further details also below.
+</p>
+<!--template match = paragraph--><p>
+The shape of anisochelae I of this species reminds rather strongly of those found in 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Grapelia) burtoni Hajdu, 1995</tp:taxon-name>
+, a deviating 
+<!--template match = taxonomicName--><tp:taxon-name>Grapelia</tp:taxon-name>
+because of the absence of unguiferous upper alae. In combination with the peculiar anisochelae III in the present species showing strongly indented lower alae, it would seem possible that 
+<!--template match = taxonomicName--><tp:taxon-name>M. dendyi</tp:taxon-name>
+is also a 
+<!--template match = taxonomicName--><tp:taxon-name>Grapelia</tp:taxon-name>
+, and not a member of the subgenus 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale</tp:taxon-name>
+. That would then also apply to Antarctic 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale) tridens Hentschel, 1914</tp:taxon-name>
+, which is even more 
+<!--template match = taxonomicName--><tp:taxon-name>Grapelia</tp:taxon-name>
+-like as its upper alae are pointed and could be termed ‘unguiferate’ (cf. 
+<!--template match = bibRefCitation--><xref rid="ref132458">Hentschel 1914</xref>
+: pl. V fig. 6; Ríos 2006: fig. 191). Elsewhere, several other 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale (Mycale)</tp:taxon-name>
+species have such strongly curved anisochelae I, further complicating eventual close affiliations between subgenera 
+<!--template match = taxonomicName--><tp:taxon-name>Mycale</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Grapelia</tp:taxon-name>
+. We will have to await molecular support.
+</p>
+<!--template match = paragraph--><p>
+We compared spicule size data from Indo-West Pacific and Western Indian Ocean specimens assigned to this species (cf. 
+<!--template match = tableCitation--><xref>Table 5</xref>
+), but no clear differences were found.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

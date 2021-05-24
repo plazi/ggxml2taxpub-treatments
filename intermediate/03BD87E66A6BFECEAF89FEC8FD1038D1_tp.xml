@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Maladera chinensis (Moser, 1915) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-264--151-250-1909-1933-">Figures 62</xref>
+J–M, 121
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Serica chinensis Moser, 1915c: 144</tp:taxon-name>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Nipponoserica chinensis : Nomura 1973: 139</tp:taxon-name>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref329946">Ahrens 2006b: 240</xref>
+</tp:nomenclature-citation>
+, 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref330155">2007b: 28</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Syntypes</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tsingtau</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">Serica chinensis</named-content>
+Type Mos./ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Typus</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tsingtau</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">S. chinensis Moser</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZMHB</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Additional material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+, 17.-22.VI. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Shaanxi prov.</named-content>
+1991 Hue Shan peak env. 100Km E of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Xian</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Z. Kejval</named-content>
+lgt.” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">China-Shaanxi Hunyuan</named-content>
+16.7.- 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.7.2000</named-content>
+</named-content>
+leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">E. Kucera</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CP</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZFMK</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Xiangshan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Beijing</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27.VII.1964</named-content>
+</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+),
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+“ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">North</named-content>
+hill, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Xiaowutai</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hebei</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">18.VIII.1964</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1200-1600m</named-content>
+</named-content>
+, leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Han Yinheng</named-content>
+” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IZAS</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Redescription.
+Length: 
+6.6 mm
+, length of elytra: 
+4.6 mm
+, width: 4.0 mm. Body oblong, dark reddish brown, dull, legs brown, antenna yellow, glabrous.
+</p>
+<!--template match = paragraph--><p>
+Labroclypeus wide, trapezoidal, lateral margins convex and strongly convergent, producing an indistinct angle with ocular canthus; anterior angles strongly rounded; anterior margin weakly emarginate medially, margins weakly reflexed; surface weakly shiny, flat, finely and densely punctate, with a few erect setae; frontoclypeal suture indistinct, curved; ocular canthus short and narrow (1/3 of ocular width), finely and densely punctate, with a short terminal seta. Frons dull, with fine, dense punctures and a few erect setae beside eyes. Antenna with ten antennomeres, club with three antennomeres, little shorter than remaining antennomeres combined. Eyes very small, ratio diameter/ interocular width: 0.38. 
+Mentum
+convexly elevated and flattened anteriorly.
+</p>
+<!--template match = paragraph--><p>Pronotum widest at base, lateral margins weakly convex and convergent anteriorly; anterior angles sharp and distinctly produced, posterior angles blunt; anterior margin weakly convex, marginal line widely interrupted medially; basal margin without marginal line; surface coarsely and densely punctate, punctures with microscopic setae only, lateral and anterior margins sparsely setose. Hypomeron carinate but not produced ventrally. Scutellum wide, triangular, punctation as on pronotum.</p>
+<!--template match = paragraph--><p>Elytra narrow, widest in posterior third, striae distinctly impressed, finely punctate, intervals weakly convex, finely and densely punctate, punctures concentrated along striae, with minute setae in punctures, otherwise glabrous; epipleural margin robust, ending at strongly rounded external apical angle of elytra, sparsely setose; apex of elytra with a fine membraneous rim of short microtrichomes.</p>
+<!--template match = paragraph--><p>Ventral face coarsely and densely punctate, only metasternal plate and lateral metacoxa with a few long or robust setae. Mesosternum between mesocoxae as wide as mesofemur. Ratio of length of metepisternum/ metacoxa: 1/ 1.45. Abdominal sternites finely and moderately densely punctate, each with a row of coarse punctures bearing each a robust seta. Pygidium moderately convex, coarsely and densely punctate, with a few long setae in apical half.</p>
+<!--template match = paragraph--><p>Legs moderately long and narrow, shiny; femora finely and sparsely punctate, with two longitudinal rows of setae. Metafemur with anterior margin acute, without adjacent serrated line; posterior ventral margin almost straight, weakly widened and serrated in apical half, dorsal posterior margin completely finely serrated, sparsely setose. Metatibia moderately long and wide, ratio width/ length: 1/ 3.4, sharply carinate dorsally, with two groups of spines, basal one at one third, apical one at three quarter of metatibial length, basally with a few short setae in line; lateral face longitudinally convex, finely and moderately densely punctate; apex concavely emarginate interiorly near tarsal articulation. Tarsomeres impunctate dorsally, with moderately dense, fine setae ventrally; metatarsomeres ventrally with a strongly serrated carina, subventrally with a second, smooth longitudinal carina; first metatarsomere slightly shorter than following two tarsomeres combined and little longer than dorsal tibial spur. Protibia moderately long, bidentate; anterior claws symmetric, interior tarsal claws sharply pointed.</p>
+<!--template match = paragraph--><p>
+Aedeagus: 
+<!--template match = figureCitation--><xref rid="fig-264--151-250-1909-1933-">Fig. 62</xref>
+J–L. Habitus: 
+62M.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+See map (
+<!--template match = figureCitation--><xref rid="fig-362--151-250-1008-1032-">Fig. 121</xref>
+) and 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

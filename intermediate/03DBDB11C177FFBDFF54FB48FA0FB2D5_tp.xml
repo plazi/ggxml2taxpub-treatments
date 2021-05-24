@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Macrosaldula graziae sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Figs. 2–6</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">9–11</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula archangelskii Kiritshenko (1964: 241)</tp:taxon-name>
+</tp:nomenclature-citation>
+. Nomen nudum.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula cf. scotica : Vinokurov (2014a: 168)</tp:taxon-name>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8208">Vinokurov (2014b: 995–996)</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula scotica</tp:taxon-name>
+(misidentification): 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8446">Vinokurov &amp; Kment (2015)</xref>
+: 371
+</tp:nomenclature-citation>
+(variability, distribution).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+: Male. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">UZBEKISTAN</named-content>
+:
+</named-content>
+‘КаРЖантау, КЗЫл-су, Обухова, 7VII.39 // Saldula 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicNameLabel">n. sp.</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">Kiritshenko</named-content>
+det.’ [= Karzhantau, Kzyl-su (tributary of 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Chirchik R.</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7.viii.1939</named-content>
+</named-content>
+, Obukhova lgt.] (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZISP</named-content>
+).
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratype</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">TAJIKISTAN</named-content>
+:
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Khodzhent</named-content>
+[= Khudzhand, former Leninabad], 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">20.vi.1919</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">A. Arkhangelskiy</named-content>
+lgt. (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZISP</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+Additional material examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">UZBEKISTAN</named-content>
+:
+</named-content>
+‘USSR, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Uzbekistan</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bolshoi Chingan</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Prope Tashkent</named-content>
+, 6. / 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Majer</named-content>
+leg. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">VI.1981</named-content>
+</named-content>
+’ [= Bolshoy Chimgan Mt., 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">41°29′40″N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">70°03′28″E</named-content>
+], 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♂</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">P. Kment</named-content>
+det. (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MMBC</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
+<!--template match = paragraph--><p>
+Etymology.
+We name this species in honor of Professor Jocelia Grazia, an eminent Brazilian specialist in Pentatomoidea systematics, on the occasion of her 75th anniversary.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+is recognized by the moderately shiny dorsum, unicolorous hemelytra; long erect setae on frons and pronotum, setae on scutellum, clavus and corium shorter; lateral margin of pronotum almost straight in male and slightly convex in female and also by the structure of the male genital segment (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Figs. 4–6</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">9–11</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+
+Description. 
+Male
+
+(
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 2</xref>
+). Medium-sized, macropterous, elongate-oval, body 2.4× as long as width of hemelytra at middle. Body length 5.5 mm, width at middle of hemelytra 2.3 mm. For remaining measurements, see 
+<!--template match = tableCitation--><xref>Table 2</xref>
+.
+</p>
+<!--template match = paragraph--><p>Head dull shiny; eyes large, brown, with narrow yellow stripe along posterior margin; frons with long erect setae; yellow pre-ocellar spots trapezoidal and oblique to mesal margins of eyes. Ocelli brown, distance between ocelli almost 3 times smaller than diameter of one ocellus; vertex scabrous, narrowly shiny around ocelli. Mandibular and maxillary plates whitish-yellow; anteclypeus yellow; labrum black with yellow spot in middle; labium extending to mesocoxae, labiomere I black, labiomeres II–IV brownish-black. Head ventrally with dense silvery setae. Antennae black; antennomere I with individual erect black bristles and sparse semi-erect black setae, mesal surface with wide yellow stripe; antennomeres II–IV with dense silvery and rare erect setae as long as the antennomere thickness.</p>
+<!--template match = paragraph--><p>Pronotum shiny, with almost straight lateral margin, rather dense adpressed short whitish setae and sparse long black erect setae. Callus low, separated from basal part by distinct furrow. Thoracic venter glossy, prothorax on each side with recumbent long, silvery setae, acetabula black.</p>
+<!--template match = paragraph--><p>Scutellum, clavus and corium with black setae: short recumbent ones and longer (twice shorter than pronotal) erect ones. Clavus and corium without pale spots. Clavus black, dark brown at apex. Corium on basal half and lateral part black, median part dark brown. Membrane dark brown with black veins.</p>
+<!--template match = paragraph--><p>Legs. Profemora black, yellow with some black spots on posterior side; meso- and metafemora black, anteriorly with narrow yellow strip. Protibia yellow, dorsally with brown stripe. Meso- and metatibiae with long black, erect bristles, yellowish brown, with yellow ring subapically, apex narrowly black; base of tibia with narrow dark brown strip. Erect setae on metatibia shorter than stout black setae. Tarsomeres I and III dark brown, tarsomere II yellow.</p>
+<!--template match = paragraph--><p>
+Abdomen black, covered by short silvery setae. Pegs on male grasping plate long and sparse (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 6</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Genitalia. Parandria wide (
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">Fig. 9</xref>
+). Body of paramere curved, processus hamatus thickened on basal half (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 4</xref>
+). Base of penis filum coiled almost twice (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 5</xref>
+). Medial endosomal sclerite elongate in dorsal view (
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">Fig. 10</xref>
+), medial and apicolateral endosomal sclerites in lateral view as on 
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">Fig. 9</xref>
+.
+</p>
+<!--template match = paragraph--><p>
+Female
+(
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 3</xref>
+). As in male, except for the following differences: body wide-oval, 2.2× as long as width of hemelytra at middle. Body length 6.5 mm, wide 2.9 mm, for remaining measurements, see 
+<!--template match = tableCitation--><xref>Table 2</xref>
+. Body black and shining. Lateral margin of pronotum slightly convex. Yellow stripe on antennomere I narrow. Mandibular and maxillary plates brownish yellow, laterally darkened. Anteclypeus brownish yellow, black on basal half. Protibiae brownish yellow, meso- and metatibiae brown. Abdominal segments dark brown, narrowly yellow along lateral margin, with dense silvery setae.
+</p>
+<!--template match = paragraph--><p>
+Variation.
+The two specimens from Bolshoy Chimgan fit well in the description of 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, but the black setae on scutellum, clavus and corium are as long as those on pronotum; the male also slightly differs in the shape of the parandria. For measurements, see 
+<!--template match = tableCitation--><xref>Table 2</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-4--151-239-1160-1184-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 2.
+Measurements of 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+(in mm). Antennomeres III and IV are missing in both type specimens.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e469">
+<!--template match = tr--><tr>
+<!--template match = td--><td>Measurement (mm)</td>
+<!--template match = td--><td>Male</td>
+<!--template match = td--><td>Male</td>
+<!--template match = td--><td>Female</td>
+<!--template match = td--><td>Female</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>(holotype, Uzbekistan: Karzhantau)</td>
+<!--template match = td--><td>(Uzbekistan: B. Chingan)</td>
+<!--template match = td--><td>(paratype, Tajikistan: Khodzhent)</td>
+<!--template match = td--><td>(Uzbekistan: B. Chingan)</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Body length</td>
+<!--template match = td--><td>5.50</td>
+<!--template match = td--><td>4.90</td>
+<!--template match = td--><td>6.30</td>
+<!--template match = td--><td>6.31</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Body width at middle of hemelytra</td>
+<!--template match = td--><td>2.30</td>
+<!--template match = td--><td>2.25</td>
+<!--template match = td--><td>2.95</td>
+<!--template match = td--><td>2.74</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of head</td>
+<!--template match = td--><td>1.31</td>
+<!--template match = td--><td>1.19</td>
+<!--template match = td--><td>1.37</td>
+<!--template match = td--><td>1.31</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of vertex at level of ocelli</td>
+<!--template match = td--><td>0.54</td>
+<!--template match = td--><td>0.49</td>
+<!--template match = td--><td>0.57</td>
+<!--template match = td--><td>0.54</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of frons in narrowest place</td>
+<!--template match = td--><td>0.37</td>
+<!--template match = td--><td>0.37</td>
+<!--template match = td--><td>0.43</td>
+<!--template match = td--><td>0.42</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of ocellus</td>
+<!--template match = td--><td>0.09</td>
+<!--template match = td--><td>0.08</td>
+<!--template match = td--><td>0.09</td>
+<!--template match = td--><td>0.10</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Distance between ocelli</td>
+<!--template match = td--><td>0.03</td>
+<!--template match = td--><td>0.04</td>
+<!--template match = td--><td>0.03</td>
+<!--template match = td--><td>0.04</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of pronotum</td>
+<!--template match = td--><td>0.67</td>
+<!--template match = td--><td>0.64</td>
+<!--template match = td--><td>0.71</td>
+<!--template match = td--><td>0.77</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of pronotum collar</td>
+<!--template match = td--><td>0.79</td>
+<!--template match = td--><td>0.72</td>
+<!--template match = td--><td>0.90</td>
+<!--template match = td--><td>0.79</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Width of pronotum at base</td>
+<!--template match = td--><td>1.80</td>
+<!--template match = td--><td>1.73</td>
+<!--template match = td--><td>2.15</td>
+<!--template match = td--><td>1.95</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of antennomere I</td>
+<!--template match = td--><td>0.50</td>
+<!--template match = td--><td>0.49</td>
+<!--template match = td--><td>0.53</td>
+<!--template match = td--><td>0.49</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of antennomere II</td>
+<!--template match = td--><td>1.20</td>
+<!--template match = td--><td>1.11</td>
+<!--template match = td--><td>1.43</td>
+<!--template match = td--><td>1.23</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of antennomere III</td>
+<!--template match = td--><td>–</td>
+<!--template match = td--><td>0.72</td>
+<!--template match = td--><td>–</td>
+<!--template match = td--><td>0.94</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of antennomere IV</td>
+<!--template match = td--><td>–</td>
+<!--template match = td--><td>0.67</td>
+<!--template match = td--><td>–</td>
+<!--template match = td--><td>0.79</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of metatibia</td>
+<!--template match = td--><td>3.00</td>
+<!--template match = td--><td>2.57</td>
+<!--template match = td--><td>3.12</td>
+<!--template match = td--><td>3.15</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>Length of metatarsus</td>
+<!--template match = td--><td>0.92</td>
+<!--template match = td--><td>0.94</td>
+<!--template match = td--><td>1.00</td>
+<!--template match = td--><td>0.94</td>
+</tr>
+</table>
+</p>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Differential diagnosis.
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+is similar to the group of east Palaearctic species with completely dark coloured hemelytra—the South Far Eastern 
+<!--template match = taxonomicName--><tp:taxon-name>M. koreana</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>M. violacea</tp:taxon-name>
+, the South Siberian 
+<!--template match = taxonomicName--><tp:taxon-name>M. simulans</tp:taxon-name>
+, and the Siberian-Nearctic 
+<!--template match = taxonomicName--><tp:taxon-name>M. rivularia</tp:taxon-name>
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula koreana</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>M. violacea</tp:taxon-name>
+share the shiny dorsum with 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, while 
+<!--template match = taxonomicName--><tp:taxon-name>M. rivularia</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>M. simulans</tp:taxon-name>
+have the dorsum matt. Externally, these four species differ by the very short dorsal setae (
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1832-1856-">Figs. 18–22</xref>
+), while 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+has long erect setae on the dorsum.
+</p>
+<!--template match = paragraph--><p>
+However, the resemblance to 
+<!--template match = taxonomicName--><tp:taxon-name>M. koreana</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>M. rivularia</tp:taxon-name>
+is only superficial, 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+does not belong to the ‘aberrant group of species 
+sensu
+<!--template match = bibRefCitation--><xref rid="ref7241">Cobben (1985)</xref>
+’, having a different structure of the medial endosomal sclerite.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Of the Central Asian species of the genus, 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+is similar to 
+<!--template match = taxonomicName--><tp:taxon-name>M. tadzhika ( Kiritshenko, 1912 )</tp:taxon-name>
+by the presence of long erect setae on the dorsum of the body, but the latter species differs in the smaller body size, the presence of light spots on the corium, and the structure of the male genitalia (see 
+<!--template match = figureCitation--><xref rid="fig-">Figs. 34–47</xref>
+). The extremely dark individuals of the Central Asian 
+<!--template match = taxonomicName--><tp:taxon-name>M. jakowleffi</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1832-1856-">Fig. 22</xref>
+) can be confused with 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula jakowleffi</tp:taxon-name>
+has the same long erect setae on the head and pronotum, but differs from the new species by the following features: matt hemelytra with short erect setae on corium, processus hamatus of paramere attenuating evenly to the apex (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 7</xref>
+), and pegs on male grasping plate dense (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Fig. 8</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="multiple">
+<!--template match = paragraph--><p>
+A modification of the key by 
+<!--template match = bibRefCitation--><xref rid="ref8126">Vinokurov (2014a</xref>
+, b) is given below.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+West Tian-Shan Mts. in 
+Uzbekistan
+and 
+Tajikistan
+.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-5--151-264-1928-1952-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 1–8.
+1— 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula miyamotoi Cobben, 1985</tp:taxon-name>
+(♀). 2–8— 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+: 2—male; 3—female; 4—paramere; 5—aedeagus; 6—male grasping plate. 7, 8— 
+<!--template match = taxonomicName--><tp:taxon-name>M. jakowleffii (Reuter, 1891)</tp:taxon-name>
+: 7—paramere, 8—male grasping plate.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4691812/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-6--151-266-1157-1181-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES. 9–17.
+9–11— 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula graziae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+: 9—parandria; 10, 11—medial endosomal sclerite in various positions (als—apicolateral sclerites, ms—medial sclerites; after 
+<!--template match = bibRefCitation--><xref rid="ref7880">Polhemus 1985</xref>
+); 12–17— 
+<!--template match = taxonomicName--><tp:taxon-name>M. scotica (Curtis, 1835)</tp:taxon-name>
+: 12–15—eunomy of hemelytral pattern, 16—paramere, 17—parandria.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4691816/files/figure.png"/></fig>
+<!--template match = subSection--><sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="multiple">
+<!--template match = paragraph--><p>
+
+Modified key to the 
+<!--template match = taxonomicName--><tp:taxon-name>Macrosaldula</tp:taxon-name>
+of 
+Russia
+and adjacent countries to accommodate 
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+</p>
+<!--template match = paragraph--><p>
+(modified from 
+<!--template match = bibRefCitation--><xref rid="ref8126">Vinokurov 2014a</xref>
+, b)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="key">
+<!--template match = paragraph--><p>
+17 (18) Erect setae on metatibia longer than stout black setae. Pale spots situated on middle and at apex of endocorium, less frequently, at base; exocorium usually dark, with small pale spots at apex; in very pale specimens, corium with pale stripe along lateral margin (
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">Figs. 12–15</xref>
+). Paramere and parandrium (
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">Figs. 16, 17</xref>
+). Body length 4.9–6.8 mm........................................................................................... 
+<!--template match = taxonomicName--><tp:taxon-name>M. scotica (Curtis, 1835)</tp:taxon-name>
+</p>
+<!--template match = paragraph--><p>18 (17) Erect setae on metatibia shorter than or as long as stout black setae; other characters not as above.</p>
+<!--template match = paragraph--><p>
+18a (18b) Exocorium with wide whitish yellow spots on basal half and at apex (
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1890-1914-">Figs. 32–35</xref>
+). Paramere and parandrium (
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1890-1914-">Figs. 36–41</xref>
+). Body length: 5.0–5.7 mm........................................... 
+<!--template match = taxonomicName--><tp:taxon-name>M. tadzhika ( Kiritshenko, 1912 )</tp:taxon-name>
+.
+</p>
+<!--template match = paragraph--><p>
+18b (18a) Corium uniformly black (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Figs. 2, 3</xref>
+). Paramere and parandrium as in 
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1928-1952-">Figs. 4</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-6--151-266-1157-1181-">9</xref>
+. Body length: 4.9–6.3 mm............................................................................................ 
+
+<!--template match = taxonomicName--><tp:taxon-name>M. graziae</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+</p>
+</tp:treatment-sec>
+</sec>
+</tp:taxon-treatment>

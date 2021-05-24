@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Linycus exhortator exhortator (Fabricius, 1787)<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-250-1939-1963-">Figs 1-A–C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">2</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-8--151-250-1917-1941-">3-H</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-9--151-250-1302-1326-">4-A</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-10--151-250-1340-1364-">5</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Ichneumon exhortator Fabricius, 1787: 264</tp:taxon-name>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Ophion exhortator : Fabricius, 1793: 154</tp:taxon-name>
+.
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Hoplismenus dimidiatus Gravenhorst, 1829: 421</tp:taxon-name>
+, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8069">Heinrich, 1962: 780</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Platylabus latior Pic, 1902: 58</tp:taxon-name>
+, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref7941">
+Hilpert 
+et al
+. 1993: 185
+</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Platylabus tricolor Berthoumieu, 1904: 14</tp:taxon-name>
+, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref7691">Diller &amp; Horstmann, 1997: 65</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Platylabus exhortator : Roman, 1912: 153</tp:taxon-name>
+.
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Platylabus exhortator var. meridionalis Seyrig, 1927: 205</tp:taxon-name>
+, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8702">Selfa, 1995: 437</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Platylabus balearicus Hedwig, 1939: 15–16</tp:taxon-name>
+, syn. by 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8671">Riedel, 2008: 159</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Ectopius exhortator : Uchida, 1956: 73</tp:taxon-name>
+.
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Linycus exhortator : Perkins, 1959: 67</tp:taxon-name>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8919">Tereshkin, 2009: 1455–1457</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Linycus exhortator exhortator : Heinrich, 1962: 780</tp:taxon-name>
+</tp:nomenclature-citation>
+; 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref9003">Townes, Momoi &amp; Townes, 1965: 514</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+Specimens examined.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">JAPAN</named-content>
+: [
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hokkaidô</named-content>
+]
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43°06’21 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°52’31 E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bekanbeushi</named-content>
+marsh, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Akkeshi Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+12–31. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2003
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+1–31. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2003
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Matsumoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OMNH</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43°06’18 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°53’51 E</named-content>
+, Bekan- beushi marsh, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Akkeshi Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+2. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2003
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Matsumoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OMNH</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43°05’49 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°51’41 E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Bekanbeushi</named-content>
+marsh, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Akkeshi Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+12. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2003
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Matsumoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OMNH</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+[
+<!--template match = figureCitation--><xref rid="fig-4--151-250-1939-1963-">Fig. 1-C</xref>
+], 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43°04’07 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">144°54’14 E</named-content>
+, Bekan- beushi marsh, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Akkeshi Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+1–31. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2003
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Matsumoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OMNH</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">44.461 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">142.368 E</named-content>
+, Mina- mibifuka 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Station</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bifuka Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+11. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2017
+</named-content>
+</named-content>
+, M. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shizuki</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kyushu Univ. Exp. Forest</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ashoro Town</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+24–26. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1980
+</named-content>
+</named-content>
+, K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Maetô</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NIAES</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Masike</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+24. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1964
+</named-content>
+</named-content>
+, K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kusigemati</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">43°00’ N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">141°24’ E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Hitsujigaoka</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sapporo City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+23–30. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2003
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 2-H</named-content>
+])
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+23–30. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 2008
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+7–14. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2008
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+22–29. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 2010
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+13–14. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2010
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+18–25. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2011
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+)
+</tp:material-citation>
+, 
+1♀
+(
+3–6. VIII. 2011
+, YPT in potato field), 
+1♀
+(
+17–18. VIII. 2011
+, YPT in potato field), 
+1♂
+(
+8. X. 2011
+[
+<!--template match = figureCitation--><xref rid="fig-10--151-250-1340-1364-">Fig. 5</xref>
+]), 
+1♂
+(
+1. XI. 2011
+), 
+1♀
+(
+19–20. VII. 2012
+, YPT in potato field), 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+31. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. – 1. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2012
+</named-content>
+</named-content>
+, YPT in lettuce field [
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NKHU0042</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Figs 1-A</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">2-A–G</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">3-H</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">4-A</named-content>
+])
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Konishi</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Maruyama</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Sapporo City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+12. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1980
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Maetô</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NIAES</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sapporo</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+25. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1965
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+8. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IX</named-content>
+. 1967
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kusigemati</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hokkaido</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Univ. Exp. Forest</named-content>
+, Toma- komai 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+18–20. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1980
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Takemoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NIAES</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Touya</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+7. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1967
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+9. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1967
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kusigemati</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">42.7794 N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">141.5863 E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Mamachi-gawa</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Izumisawa</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Chitose City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+12–27. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2014
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">N. Kuhara</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">[Honshû]</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Aomori Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Towada</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+24. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 1966
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+25. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 1966
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kusigemati</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Sakaimatsu</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Aomori</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13. IX. 1993</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Ichita</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Iwate Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Hayachine</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+27. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. – 5. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1989
+</named-content>
+</named-content>
+)
+</tp:material-citation>
+, 
+3♂
+(
+19–25. VII. 1989
+), 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Sharkey</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Makihara</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NIAES</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ibaraki Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Narui</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Tôyama</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ushiku City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">27. IV. 2009</named-content>
+</named-content>
+, H. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yoshitake</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">T</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kurihara</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Toyama Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Kamimomose</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Togamura</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Nanto City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+28. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. – 4. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2009
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Watanabe</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">KPMNH</named-content>
+[KPM-NK 55267]). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Hyôgo Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sasayama</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+29. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1962
+</named-content>
+</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MHNAH</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Shikoku</named-content>
+]
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ehime Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Ishitegawa Dam</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Matsuyama</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+16. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1977
+</named-content>
+</named-content>
+, N. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Takaki</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Tokushima Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Ôkawara</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Sanagouchi-son</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+4–8. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 2016
+</named-content>
+</named-content>
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NKHU0041</named-content>
+])
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+4–7. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VIII</named-content>
+. 2016
+</named-content>
+</named-content>
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">NKHU0040</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 1-B</named-content>
+])
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MT</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">K. Ôhara</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">EUMJ</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kyûshû</named-content>
+]
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Fukuoka Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♂</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mt. Fukuchiyama</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kitakyûshû City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+16. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VII</named-content>
+. 1969
+</named-content>
+</named-content>
+, H. Maki- hara (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SEHU</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Mt. Tachibana</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Fukuoka</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+8. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">VI</named-content>
+. 1981
+</named-content>
+</named-content>
+, K. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Konishi</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">NIAES</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Saga Pref.</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+</tp:material-citation>
+, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ideno</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mitsuse Vill.</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+17. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">V</named-content>
+. 1998
+</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">R</named-content>
+. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Matsumoto</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">OMNH</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description based on Japanese specimens.
+Female.
+Body length 6.5–9.0 mm.
+</p>
+<!--template match = paragraph--><p>
+Coloration.
+Body ground color black and covered with short pale brown setae. Flagellum with white semiannulus on flagellomeres 6–9. Rarely with reddish-brown part on legs and/or basal part of metasoma. Wing veins dark brown. Metasomal T5–T7 with apical white markings.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-4--151-250-1939-1963-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 1.
+Habitus of Japanese 
+<!--template match = taxonomicName--><tp:taxon-name>Linycus</tp:taxon-name>
+spp. A. 
+<!--template match = taxonomicName--><tp:taxon-name>L. exhortator (Fabricius)</tp:taxon-name>
+, female from Hitsujigaoka [NKHU0042], B. ditto, female from Hitsujigaoka [NKHU0040], C. ditto, male, from Bekanbeushi, D. 
+<!--template match = taxonomicName--><tp:taxon-name>L. kyoheii</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, holotype (female). Scale bars = 1.0 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4629385/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-5--151-250-1892-1916-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 2.
+<!--template match = taxonomicName--><tp:taxon-name>Linycus exhortator</tp:taxon-name>
+from Japan. A–G, I: female from Hitsujigaoka [NKHU0042], H: male from Hitsujigaoka. A. head in frontal view, B. head in dorsal view, C. head in profile, D. mesosoma in dorsal view, E. mesosoma in profile, F. metasoma, in dorsal view G. metasoma in profile, H. metasomal sternites, I. 4 
+<sup>th</sup>
+tarsomere of mid leg. Scale bars = 0.5 mm for A–H, 0.1 mm for I.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4629387/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Head.
+Vertex and dorsal part of gena granulated and punctate; supra-clypeal area finely granulated with dense punctures and reticulate rugose; clypeus granulated and densely punctate (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Figs 2-A–C</xref>
+). Occipital carina meeting hypostomal carina just above base of mandible. HW/HL = 1.9–2.2; OW/HW = 0.6–0.7; OOL/POL = 0.9–1.0. SCW/ SCH = 1.6–1.7; CLW/CLH = 1.5–1.6. MBL/BMW = 1.9–2.2; MSL/BMW = 1.0–1.4. MP5/BMW = 1.4–1.5.
+</p>
+<!--template match = paragraph--><p>
+Antenna.
+Flagellum about as long as body length, with 31–33 flagellomeres; apical flagellomere conical; FL1 4.5–5.4 × as long as apical width and 1.4–1.5 × as long as FL2.
+</p>
+<!--template match = paragraph--><p>
+Mesosoma.
+Pronotum shallowly punctate on upper half and longitudinally rugose on lower part; mesoscutum dull, granulated and densely punctate, and median part reticulate punctate; dorsal and posterior surface of scutellum rather sparsely punctate; postscutellum polished, with sparse longitudinal rugae; mesopleuron densely punctate and reticulate rugose; metapleuron covered with strong oblique rugae; surface of propoduem roughly rugose (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Figs 2-D, E</xref>
+). Dorsal surface of scutellum strongly convex (
+<!--template match = figureCitation--><xref rid="fig-8--151-250-1917-1941-">Fig. 3-H</xref>
+). Lateral carina of scutellum reaching posterior end (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Fig. 2-D</xref>
+). MSSL/MSSW = 0.9–1.0; ARL/ARW = 0.4–0.8; ARW/PSD = 0.3–0.6; PSI = 1.2–1.8.
+</p>
+<!--template match = paragraph--><p>
+Legs.
+Surface of legs coriaceous, except coxae finely punctate. Hind tibia 0.4 × as long as fore wing.
+</p>
+<!--template match = paragraph--><p>
+Wings
+(
+<!--template match = figureCitation--><xref rid="fig-9--151-250-1302-1326-">Fig. 4-A</xref>
+). Fore wing 5.0– 
+7.5 mm
+long; areolet pentagonal, 1.0–1.1 × as long as 3rs-m, 0.5–0.6 × as high as 2m-cu; 1/M:2/M = 1.0:0.9–1.0. Cu-a opposite Rs&amp;M; ramulus slightly to moderately developed. Hind wing with cu-a 0.2 × as long as first abscissa of Cu1; a basal hamulus, 7–9 distal hamuli on R1 vein.
+</p>
+<!--template match = paragraph--><p>
+Metasoma.
+Surface of petiole almost polished; postpetiole and lateral area of petiole weakly rugose; basal half of T2 roughly punctate except gastrocoelus and area between them strongly rugose; apical half of T2, whole of T3 densely punctate and coriaceous, T4–T5 coriaceous (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Figs 2-F, G</xref>
+). Petiole in dorsal view almost parallel sided in basal half; postpetiole slightly widened; dorsomedian carina complete; median and lateral field of postpetiole clearly separated by dorsomedian carina. Posterior margins of T5–T7 concave (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Fig. 2-F</xref>
+). S2–S4 laterally sclerotized and middle part weakly sclerotized, S5 entirely sclerotized. S2–S4 with laterosternites, S5 without laterosternite (same as males, 
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Fig. 2-H</xref>
+). T1 L/W = 1.8–1.9; T2 L/W = 0.8–1.1. THI = 1.5–1.9.
+</p>
+<!--template match = paragraph--><p>
+Male.
+Body length 7.0– 
+8.5 mm
+. As in female except for the following characters: FL1 3.5–3.8; apical margin of S8 slightly protruding at middle (
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Fig. 2-H</xref>
+); paramere of genitalia black, apex narrowed, apical 2/3 covered with short setae; aedeagus evenly curved toward venter, apex narrowed (
+<!--template match = figureCitation--><xref rid="fig-10--151-250-1340-1364-">Fig. 5</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis
+: This species can be easily distinguished from other species of the genus by combination of: head, mesoscutum and scutellum always entirely black; scutellum strongly convex; areolet pentagonal; basal half of T2 roughly rugose.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+: 
+Japan
+(
+Hokkaidô
+, Honshû, Shikoku, Kyûshû); Holarctic Region.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+: This species comprises three subspecies, 
+
+L. e. 
+<!--template match = taxonomicName--><tp:taxon-name>exhortator</tp:taxon-name>
+
+from Palearctic Region, 
+L. e. thoracius
+(Cresson) from Nearctic Region, and 
+L. e. montanus
+Heinrich from Nearctic Region. They are distinguished by differences of the body colorations. Japanese specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>L. exhortator</tp:taxon-name>
+are different from both European and Nearctic population by the mostly black coloration. We also examined a specimen from Sakhalin, recorded by Uchida (1956). This specimen was mostly black, with completely reddish-brown propodeum, T1, mid and hind coxae. In addition to the coloration, according to the description of 
+<!--template match = bibRefCitation--><xref rid="ref8919">Tereshkin (2009)</xref>
+, FL1 is 3.7 × as long as apical width in 
+<!--template match = taxonomicName--><tp:taxon-name>L. exhortator</tp:taxon-name>
+, whereas in Japanese specimens it is 4.5–5.4 ×. This difference may be due to measurement error. It is necessary to examine more specimens from the eastern Palearctic region to consider variations of coloration and measurements of FL1. As discussed below, here we treat Japanese specimens as Palearctic nominotypical subspecies. Some of the Japanese specimens have reddish-brown part on legs or basal part of metasoma as shown in 
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1892-1916-">Fig. 2-C</xref>
+. We examined DNA barcodes and concluded that they are intra-specific variations (
+<!--template match = tableCitation--><xref>TABLE 1</xref>
+). DNA barcode of three Japanese specimens are available on BOLD dataset [DS-LINJP]. Some specimens from Sapporo, 
+Japan
+were collected in agricultural fields, such as lettuce or potato fields. In these fields, they might be potential natural enemy of the pests on vegetables.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

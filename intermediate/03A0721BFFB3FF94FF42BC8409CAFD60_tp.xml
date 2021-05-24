@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name><object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-4--151-264-1576-1600-">Figs 1–4</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">9–14</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1372-1396-">20, 21</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga pannosa : Schintlmeister, 1989: 209</tp:taxon-name>
+</tp:nomenclature-citation>
+, abb. 1: 1, 2 (moths); 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref8633">
+Park 
+et al
+. 1999: 189
+</xref>
+</tp:nomenclature-citation>
+(also figure of the male genitalia), pl.
+</tp:nomenclature-citation-list>
+15: figs 98a, 98b (moths); nec 
+<!--template match = bibRefCitation--><xref rid="ref8601">Moore, 1884</xref>
+.
+
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga citrinaria : Wu &amp; Fang, 2003: 105</tp:taxon-name>
+, fig. 30 (male genitalia), pl. I: 10 (moth); nec 
+<!--template match = bibRefCitation--><xref rid="ref8044">Gaede, 1933</xref>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra : Schintlmeister, 2008: 37</tp:taxon-name>
+, figs 66, 67 (male and female genitalia), pl. 2: 16 (moths); nec Streltzov &amp; Yakovlev, 2007.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+. ♂, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Korea</named-content>
+</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">[</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeonnam</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Gurye-gun</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Jirisan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35°17’31”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°29’39”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">660m</named-content>
+a.s.l.
+</named-content>
+16.05.201 3, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Nang-Hee Kim</named-content>
+legit.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+Paratypes
+: 8♂♂, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3♀♀</named-content>
+: 1♂ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">[</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeonnam</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Gurye-gun</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Jirisan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35°18’21”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°30’45”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">1074m</named-content>
+a.s.l.
+</named-content>
+03.05.201 1, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sei-Woong Choi</named-content>
+legit
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">[</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeonnam</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Gurye-gun</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Jirisan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35°17’31”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°29’39”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">660m</named-content>
+a.s.l.
+</named-content>
+16.05.201 3, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jeong-Seop An</named-content>
+legit
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+[Gyungnam] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Hamyang-gun</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt. Jirisan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">35°21’18”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">127°38’08”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">760m</named-content>
+a.s.l.
+</named-content>
+7.06.201 2, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jin Lee</named-content>
+legit
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+2♂ [
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Seogwipo</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.Hallasan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">33°19’57”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">126°36’25”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">499m</named-content>
+a.s.l.
+</named-content>
+6.09.201 3 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sei-Woong Choi</named-content>
+legit
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+2♂ [
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.Hallasan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">33°23’06”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">126°37’15”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">744m</named-content>
+a.s.l.
+</named-content>
+6.09.201 3, 5.06.201 4, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sei-Woong Choi</named-content>
+legit
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+2♂ [
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.Hallasan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">33°23’31”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">126°29’12”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">966m</named-content>
+a.s.l.
+</named-content>
+6.09.201 3, 5.06.201 4, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sei-Woong Choi</named-content>
+legit
+</tp:material-citation>
+; 1♂, 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+[
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Jeju</named-content>
+] 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Seogwipo</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mt.Hallasan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">33°22’11”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">126°37’32”E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">636 m</named-content>
+a.s.l.
+</named-content>
+8.09.201 7, 6.09.201 3, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sei-Woong Choi</named-content>
+legit
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+Similar to 
+<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+. Wing venation as in the latter (see 
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1464-1488-">Figs 7 &amp; 8</xref>
+), but distinguishable in the hindwing by the longer common stalk of veins Rs and M1 outward of the discal cell, which in males, is noticeably longer than the distance between the fore and hind branch off points of discal cell, and in females, similar to this distance. In the male genitalia, the socii with heel-shaped protrusion on the ventral margin, medial harpe of the valva strongly pulled to the apex and placed more distal (median axis crosses the valva at the 1/3 of the length of the latter along the costa), phallus with the long club-shaped latero-basal processes of aedeagus, and the large cornutus on vesica are distinguishing. In the female genitalia, the lamella postvaginalis with extended quadrangular lateroposterior sides, the lamella antevaginalis wider, and the thick, conic lateroposterior processes of the 8 
+<sup>th</sup>
+abdominal sternum are distinguishing.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Male
+. Wingspan: holotype— 
+60 mm
+, paratypes— 
+52–56 mm
+. Head and thorax with dense, brownish gray, and white hair-like scales, containing yellow sales on the metathorax. Eyes lack setae, proboscis reduced, labial palpi short, densely covered by long, hair-like setae. Antennae brownish gray with pale yellow several last segments, bipectinate to top, pectines long and similar length up to near the middle, then evenly shortening to the top. Forewings relatively narrow, outer margin unevenly emarginated with the largest incision between veins M 
+3
+and CuA1; ground color brownish gray with a mostly indistinct wing pattern and maculation; discal spot distinct, strokelike; basal area with barely visible, blackish sinuous basal and antemedial lines; postmedial and subterminal lines serrated but almost dissolved and usually vaguely traceable against the ground color of the wing; dark postmedial line, if distinguishable, not shaded by light from the outside; the costal margin with five pale yellowish spots, one larger at the deviation of vein Rs1 and four smaller ones in the apical area; three reddish brown areas present, apical broad zone outward the discal vein between the Rs and M veins and subterminal line, brushstroke between M 
+3
+, CuA1, and subterminal line, and inner zone behind the discal cell between the basal line and postmedial line; a pair of black oblique strokes underlines the reddish-brown areas between the veins M 
+2
+–M 
+3
+and M 
+3
+–CuA1; fringe blackish gray, darker than the ground color of the wing. Hindwings white with darkening along costal and anal areas; postmedial line white, hardly visible in the medial area of the wing. Frenulum and retinaculum are lacking.
+</p>
+<!--template match = paragraph--><p>
+Wing venation
+(
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1464-1488-">Fig 9</xref>
+). Forewing with the common notodontid structure of wing venation consists of C, Sc, R 
+1
+, four branches of Rs, three M, and two CuA veins, and 1A+2A; areoles absent; R 
+1
+derived from discal cell near the top of discal cell; Rs3 directed to the wing apex. Hindwing vein C not traced; Sc+R 
+1
+connected with the discal cell by short weak R 
+1
+, Rs and M1 forced; length of the common stalk of these veins outward of the discal cell usually much longer than the distance between the fore and hind branch off points of discal vein; vein M 
+2
+thin, M 
+3
+and CuA1 from discal cell separated; plica instead of reduced CuP distinct, not reached the base of the wing; A1+2A close parallel to the anal margin of the wing; 3A close to A1+2A, up to 1/3 of the length of the anal margin of the wing.
+</p>
+<!--template match = paragraph--><p>
+Male genitalia
+(
+<!--template match = figureCitation--><xref rid="fig-6--151-264-1688-1712-">Figs 11–14</xref>
+). Uncus claw-like, strong, broad and flattened laterally, with a bulbous process ventrally; ventral margin of the uncus between the tip of the apex and the base of the bulbous process almost straight. Socii thick, curved more than a right angle, ventral margin of socius with sharp protrude bend. Valva elongated, apex of the costal edge (cucullus) broad, serrated ventrally and distally, distal teeth harder and protruding beyond the distal margin of the valva; apex of ventral edge lobe-like dilated and serrated similar to the cucullus; medial harpe with an isosceles triangle shape with the apex pulled to the tip, median axis of the harpe cross the valva at the 1/3 of the length of the valva along the costa. Two large setosed areas medial of the valva associated with weak, narrow transtilla. Juxta short, broad, and V-shaped. Aedeagus shorter than the valva, slightly broadened posteriorly, anteriorly with a pair of long club-shaped latero-basal processes; cornutus on the vesica tooth-like, small, at the base less than half of the aedeagus width.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-4--151-264-1576-1600-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 1–6.
+Moths of 
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga</tp:taxon-name>
+. 1–4— 
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga koreana</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+: 1—Jirisan, male, holotype; 2—Jirisan, female, paratype; 3—Hallasan, male, paratype; 2—Hallasan, female, paratype. 5, 6— 
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga tukuringra</tp:taxon-name>
+: 5—male, Urusha; 6—female, Zeyskii Reserve. Scale-bar 10 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4529750/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Female
+. Somewhat larger: wingspan 
+68–72 mm
+. Similar to male, but the antennae pectines approximately twice shorter; wings somewhat wider, pattern similar to the male but colors dimmer; hindwing medially light-gray with a distinct light postmedial line. Unlike the male, in the fore wing venation the thin and short 3A present; in the hindwing length of the common stalk of the veins Rs and M 
+1
+outward of the discal cell with a similar distance between the fore and hind branch off points of discal vein, anal area of the wing much broader, 1A+2A going distant from the anal margin of the wing, 3A twice as long as in the male (
+<!--template match = figureCitation--><xref rid="fig-5--151-264-1464-1488-">Fig. 10</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Female genitalia
+(
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1372-1396-">Figs 20, 21</xref>
+). Papillae anales rounded, soft; apophyses anteriores lacking; apophyses posteriores thin and long. Lamella postvaginalis M-shaped, with latero-posterior sides relatively quadrangular and extended; width of the lamella antevaginalis similar to the width of latero-anterior sides of the lamella postvaginalis; latero-posterior processes of 8 
+<sup>th</sup>
+abdominal sternum thick, conic. Ductus bursae short and broad, smoothly turns to the oval volume corpus bursae. Corpus bursae ventrally with signum in the form of a scobinate area without distinct edges.
+</p>
+<!--template match = paragraph--><p>
+Genetic data
+(
+<!--template match = tableCitation--><xref>Tab. 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-8--151-250-1269-1293-">Fig. 24</xref>
+). Barcode of 
+<!--template match = taxonomicName--><tp:taxon-name>Z. koreana</tp:taxon-name>
+differs from 
+<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+on 1.9–2.4% p-distance and from 
+<!--template match = taxonomicName--><tp:taxon-name>Zaranga</tp:taxon-name>
+sp. from 
+Yunnan
+on 4.3–4.5% p-distance. Intraspecific barcode ranges up to 0.2% (three samples from 
+Jeju-do
+island).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Korea
+(central and southern, Cheju), 
+China
+(north up to 
+Shanxi
+), North 
+Vietnam
+, 
+Myanmar
+(
+<!--template match = bibRefCitation--><xref rid="ref8962">Schintlmeister 2008</xref>
+) (
+<!--template match = figureCitation--><xref rid="fig-10--151-250-1130-1154-">Fig. 25</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Larval hostplants.
+Leaves of 
+<!--template match = taxonomicName--><tp:taxon-name>Cornus controversa Hemsl. Ex Prain.</tp:taxon-name>
+(
+<!--template match = taxonomicName--><tp:taxon-name>Cornaceae</tp:taxon-name>
+) in central 
+Korea
+(
+<!--template match = bibRefCitation--><xref rid="ref8241">Heo 2012</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Note.
+In Chinese specimens, the photos of the male and female genitalia in 
+<!--template match = bibRefCitation--><xref rid="ref8926">Schintlmeister (1989</xref>
+: figs 66 and 67), and the drawing of the male genitalia in 
+<!--template match = bibRefCitation--><xref rid="ref9313">Wu &amp; Fang (2003</xref>
+: fig. 30), generally conform to the Korean ones. On the other hand, some minute distinctions could be traced: in the male genitalia, the uncus appears to be somewhat narrower; the ventral process of the uncus is more protruded; on the cucullus, the distal tooth is stronger and protrudes beyond the valva; the pulled top of the harpe is longer; the latero-basal processes of the aedeagus are much shorter, but longer and narrower than in 
+<!--template match = taxonomicName--><tp:taxon-name>Z. tukuringra</tp:taxon-name>
+. In the female genitalia, the lamella postvaginalis appears wider and the latero-posterior processes of the 8 
+<sup>th</sup>
+abdominal sternum are more massive. Possibly, Chinese populations of 
+<!--template match = taxonomicName--><tp:taxon-name>Z. koreana</tp:taxon-name>
+form a separate subspecies.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 ) comb. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-">Figs 36–45</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium applanatum Simroth, 1920: 294</tp:taxon-name>
+, pl. 20, figs 40–42.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+
+Holotype
+
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+(15/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 mm</named-content>
+), by monotypy; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Aru Inseln</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Strand von Manumbai</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kobroor</named-content>
+[Manumbai Beach, Kobroor Island, Aru Islands, Moluccas, Indonesia]; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Mar. 1908</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">H. Merton</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 104630</named-content>
+.
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+
+Notes on 
+type
+material
+
+The notum of the 
+holotype
+was cut open for the present study to check internal characters; all organs remain in the specimen.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Other material
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Ambon</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(15/12 [2736] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Pulau Haruku</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">03°36.520′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°25.068′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11 Feb. 2014</named-content>
+</named-content>
+; station 127; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+dead log high on beach above rocky 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Sonneratia</named-content>
+</named-content>
+mangrove
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00100</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">4 specs</named-content>
+(22/15 [2754], 18/14 [2755], 18/14 [2757] and 15/12 [2750] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Passo</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">03°37.080′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°16.068′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13 Feb. 2014</named-content>
+</named-content>
+; station 129; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">logs on rocky beach with coral rubble</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00101</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Seram</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specs</named-content>
+(24/20 [2877] and 17/11 [2880] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Piru</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">03°04.072′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°11.362′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Feb. 2014</named-content>
+</named-content>
+; station 136; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+beach of palms and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Acrostichum</named-content>
+</named-content>
+ferns behind 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Sonneratia</named-content>
+</named-content>
+mangrove
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00090</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Kei Islands</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 specs</named-content>
+(21/14 [2892], 17/11 [3563], 16/10 [2893], 16/10 [2895], 13/6 [2894] and 12/9 [2900] mm); Un; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°38.273′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">132°45.738′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">23 Feb. 2014</named-content>
+</named-content>
+; station 137; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Bruguiera</named-content>
+</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+mangrove with coral rubble and thin layer of mud
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00102</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(15/9 [2904] mm); Un; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°38.273′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">132°45.738′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">25 Feb. 2015</named-content>
+</named-content>
+; station 140; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">back of mangrove with rocks, mud, dead logs, and leaf litter</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00103</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(5/4 [2925] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Fiditan</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°35.957′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">132°45.112′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Feb. 2014</named-content>
+</named-content>
+; station 144; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+rocks with mat of algae behind dense 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+mangrove
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00104</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(17/11 [2160] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Bahoi</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">01°43.355′ N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">125°01.232′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 Mar. 2013</named-content>
+</named-content>
+; station 85; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">sand, rocks and pieces of wood outside a mangrove</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00083</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">MAURITIUS</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(7/4 [3604] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Pointe Maurice</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°15.447′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">57°47.670′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">8 Jun. 2014</named-content>
+</named-content>
+; station 174; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+mangrove with very dark mud, slug under piece of wood
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1392</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(9/7 [3152] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Mahebourg</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">20°25.059′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">57°42.680′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 Jun. 2014</named-content>
+</named-content>
+; station 176; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">mangrove with dark brown mud, slugs on rotting petiole of palm frond</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1393</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(7/5 [3442] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2019-1394</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-78--189-232-1751-1777-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 36.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, live animals. 
+A
+. Dorsal view, 16 mm long [2893], Indonesia, Kei Islands (UMIZ 00102). 
+B
+. Dorsal view, 16 mm long [2895], Indonesia, Kei Islands (UMIZ 00102). 
+C
+. Dorsal view, 15 mm long [2904], Indonesia, Kei Islands (UMIZ 00103). 
+D
+. Dorsal view, 16 mm long [3563], Indonesia, Kei Islands (UMIZ 00102). 
+E
+. Dorsal view, 18 mm long [2757], Indonesia, Ambon (UMIZ 00101). 
+F
+. Dorsal view, 5 mm long [2925], Indonesia, Kei Islands (UMIZ 00104). 
+G
+. Ventral view, same as E. 
+H
+. Ventral view, 12 mm long [2900], Indonesia, Kei Islands (UMIZ 00102). 
+I
+. Dorsal view, 9 mm long [3152], Mauritius (MNHN-IM-2019-1393). 
+J
+. Same as I. 
+K
+. Ventral view, same as I.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594426/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">PAPUA NEW GUINEA</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Madang</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(14/11 [5437] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">South Dumduman Island</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°00.2′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°47.6′E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9 Nov.2012</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+expedition 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Papua Niugini</named-content>
+leg.; station PM12; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">limestone rocky intertidal</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-12493</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(16/16 [5424] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hargun Island</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°01.6′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°47.9′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15, 20 Nov.</named-content>
+</named-content>
+2012; MNHN expedition Papua Niugini leg.; station PM24; night tide; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-14043</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(13/11 [5450] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-14051</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(18/15 [5420] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-13765</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(13/11 [5457] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Wonad Island</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°08.1′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°49.3′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">27 Nov. 2012</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">9 Dec. 2012</named-content>
+</named-content>
+; MNHN expedition Papua Niugini leg.; station PM41; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">sandy beach and intertidal rocks</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-15867</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(13/10 [5462] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Tab Island</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">05°10.2′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">145°50.4′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">28 Nov. 2012</named-content>
+</named-content>
+; MNHN expedition Papua Niugini leg.; station PM42; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">night tide, sandy beach and intertidal rocks</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-15908</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">New Ireland</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(7/4 [6094] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Povalval</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">E coast of New Ireland</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">02°41′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">150°57′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">11–13 Jun. 2014</named-content>
+</named-content>
+; MNHN expedition Kavieng 2014 leg.; station KM05; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">mixed hard platform and seagrass bed at outlet of rivulet</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-53534</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(8/6 [6096] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Cape Jesehke</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Manne Island</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">02°43.1′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">150°37.8′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">15, 26 Jun.</named-content>
+</named-content>
+2014; MNHN expedition Kavieng 2014 leg.; station KM32; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+mangrove
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-54161</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(10/7 [6097] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-54163</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(8/6 [6098] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN- IM-2013-54164</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">VANUATU</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(12/11 [5491] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Santo Rose Point</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">15°34.9′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">167°02.4′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10 Sep. 2006</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MNHN</named-content>
+expedition Santo 2006 leg.; station VM02; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">intertidal, coral sand</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-62402</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(9/8 [5493] mm); same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">MNHN-IM-2013-62404</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-79--189-232-1880-1906-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 37.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, radula, Indonesia, Ambon. 
+A
+. Rachidian and innermost lateral teeth [2754] (UMIZ 00101). 
+B
+. lateral teeth with rachidian teeth, same as A. 
+C
+. Lateral teeth [2755] (UMIZ 00101). 
+D
+. Outermost lateral teeth, same as A. Scale bars: A, D = 30 μm; B = 50 μm; C = 100 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594428/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
+<!--template match = paragraph--><p>
+Color and morphology of live animals
+(
+<!--template match = figureCitation--><xref rid="fig-78--189-232-1751-1777-">Fig. 36</xref>
+)
+</p>
+<!--template match = paragraph--><p>Live animals are not covered with mud and their natural color can be seen without washing. The notum is bumpy with prominent, distinctly-raised papillae (with or without dorsal eyes). Live animals may become nearly hemispherical when disturbed. The dorsal color is variable although it is typically brown with yellow longitudinal (irregular) lines. Slugs with an entirely dark brown notum or a light beige notum also occur. The hyponotum is light grey and almost translucent in small specimens. The margin of the hyponotum is frequently translucent with the brown color of the notum showing through. The foot is light yellow.</p>
+<!--template match = paragraph--><p>
+Papillae with dorsal eyes are present. Their exact number is difficult to determine, as they are often retracted, but ranges approximately from 4 to 26, except in the case of very small specimens, in which as few as 2 dorsal eyes have been observed. Each papilla bears one dorsal eye. Dorsal eyes may be distributed across the notum or only present in the middle but are always absent on the margin (i.e., eyes are never &lt;
+2 mm
+from the notum edge).
+</p>
+<!--template match = paragraph--><p>
+Digestive system
+(
+<!--template match = figureCitation--><xref rid="fig-14--189-232-1714-1740-">Figs 1C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">37–40</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Radulae measure up to 
+4.3 mm
+in length. Examples of radular formulae are presented in 
+<!--template match = tableCitation--><xref>Table 5</xref>
+. Due to the high genetic divergence (in COI sequences) between populations of 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+, radulae are figured from 
+Indonesia
+, 
+Mauritius
+and 
+Papua New Guinea
+(
+<!--template match = figureCitation--><xref rid="fig-">Figs 37–39</xref>
+). Intestinal loops are of 
+type
+I, with a transitional loop oriented between 1 and 2 o’clock (
+<!--template match = figureCitation--><xref rid="fig-14--189-232-1714-1740-">Figs 1C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-82--188-231-1716-1742-">40</xref>
+A–C).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-80--188-231-1885-1911-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 38.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, radula, Mauritius. 
+A
+. Left, outermost, lateral teeth [3604] (MNHN-IM-2019-1392). 
+B
+. Rachidian tooth and innermost lateral teeth, same as A. 
+C
+. Rachidian tooth and left, innermost lateral teeth [3152] (MNHN-IM-2019-1393). 
+D
+. Right, lateral teeth [3442] (MNHN-IM-2019-1394). Scale bars: A = 10 μm; B–D = 20 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594430/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Reproductive system
+(
+<!--template match = figureCitation--><xref rid="fig-">Figs 41–44</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+In the posterior part of the reproductive system, the oviduct is wider than the deferent duct (up to twice as wide). Its distal section (distal to the spermatheca) is slightly longer than its proximal section (up to two or three times as wide) or equal to it in length. The deferent duct is longer than the oviduct, loosely attached to it, and varies from slightly convoluted with a few loose loops to tightly coiled with U-shaped loops (
+<!--template match = figureCitation--><xref rid="fig-83--190-233-1855-1881-">Fig. 41</xref>
+). The position of the female pore varies from being adjacent to the anus to 
+4 mm
+away from it in large specimens. The flexible, distal region of the penis with hooks measures approximately 
+1.5 to 3 mm
+in length. In eastern 
+Indonesia
+, the distal region is 
+2 to 3 mm
+long, while in 
+Mauritius
+and 
+Papua New Guinea
+it is approximately 
+1.5 to 2 mm
+long. The penial hooks are large and can be seen inside the semi-transparent penis. They are usually 
+45 to 90 µm
+long (
+<!--template match = figureCitation--><xref rid="fig-85--191-234-698-724-">Figs 43</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-85--189-232-1926-1952-">44A</xref>
+), but between 
+20 to 60 µm
+in smaller specimens from 
+Mauritius
+(
+<!--template match = figureCitation--><xref rid="fig-85--189-232-1926-1952-">Fig. 44</xref>
+B–C). The insertion of the penial retractor muscle varies. It inserts at the posterior end of the visceral cavity in specimens from eastern 
+Indonesia
+, except in a few specimens in which it inserts approximately ¾ down the length of the visceral cavity. It inserts approximately halfway to ¾ down the length of the visceral cavity in specimens from 
+Papua New Guinea
+(and near the posterior end of the visceral cavity in one specimen). In 
+Mauritius
+, it inserts at the posterior end of the visceral cavity in the largest specimen, and by the heart halfway down the visceral cavity in a smaller specimen. The length of the retractor muscle varies from much shorter than the penial sheath (
+<sup>1</sup>
+/ 
+5
+to 
+<sup>1</sup>
+/ 
+3
+of its length) to as long as the penial sheath. The deferent duct is not particularly long and is only loosely convoluted (
+<!--template match = figureCitation--><xref rid="fig-84--189-232-1856-1882-">Fig. 42</xref>
+). It may even be nearly straight in immature specimens (
+<!--template match = figureCitation--><xref rid="fig-84--189-232-1856-1882-">Fig. 42C</xref>
+).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-81--189-232-1822-1848-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 39.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, radula, Papua New Guinea. 
+A
+. Rachidian and innermost lateral teeth [5450] (MNHN-IM-2013-14051). 
+B
+. Outer lateral teeth, same as A. 
+C
+. Inner lateral teeth, same as A. 
+D
+. Rachidian and innermost lateral teeth [5424] (MNHN-IM-2013-14043). Scale bars: A = 20 μm; B, D = 30 μm; C = 50 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594432/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Distinctive diagnostic features
+(
+<!--template match = tableCitation--><xref>Table 4</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Externally, 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+can be easily distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. aptei</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. nov.
+by the light yellow color of its foot. The presence of prominent dorsal papillae helps to distinguish 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+from other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+, except 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+, which is characterized by similar prominent dorsal papillae. The dorsal coloration of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+is much more variable than in other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+, and this variation prevents reliable separation from 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. However, the dorsal notum of 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+is frequently marked by bright yellowish-green markings or bands, which were very rarely observed in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. Individuals of 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+also reach a smaller maximum size than individuals of 
+<!--template match = taxonomicName--><tp:taxon-name>P. martensi</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+, two species that are sympatric in eastern 
+Indonesia
+, between the Halmahera Sea and the Banda Sea. However, animal sizes overlap between species and cannot be reliably used for identification.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-82--188-231-1716-1742-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 40.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, digestive system, intestinal loops of type I. 
+A
+. Dorsal view, type I with a transitional loop oriented at 2 o’clock, Kei, Indonesia [2892] (UMIZ 00102). 
+B
+. Dorsal view, type I with a transitional loop oriented at 2 o’clock, Mauritius [3152] (MNHN- IM-2019-1393). 
+C
+. Dorsal view, type I with a transitional loop oriented at 1 o’clock, Papua New Guinea [5420] (MNHN-IM-2013-13765). 
+D
+. Stomach, ventral view, same as C. Abbreviations: ddg = dorsal digestive gland; e = esophagus; i = intestine; oldg = opening of the lateral lobe of the digestive gland; pdg = posterior digestive gland; rg = rectal gland; st = stomach; st1 = stomach chamber 1; st2 = stomach chamber 2; st3 = stomach chamber 3; st4 = stomach chamber 4. Scale bars: A, D = 3 mm; B = 2 mm; C = 4 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594434/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Internally, the intestinal loops of 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+(
+type
+I) distinguish it from all other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+. The only other species with intestinal loops of 
+type
+I is 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. However, the orientation of the transitional loop can be used to reliably distinguish 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+(between 1 and 2 o’clock) from 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+(between 3 and 8 o’clock). 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+can also be distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+based on reproductive anatomy. The deferent duct in the posterior reproductive system is more closely attached to the oviduct, longer and more highly coiled in 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+than in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. The distal region of the oviduct (distal to the spermatheca) is also longer in 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+than in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. Finally, the distal region of the penis with hooks is longer in 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+(up to 
+3 mm
+) than in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+(up to 
+1 mm
+). The insertion of the retractor muscle varies greatly within 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+(it may insert at the posterior end of the visceral cavity or near the heart), so this character does not help to reliably distinguish it from 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-83--190-233-1855-1881-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 41.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, posterior reproductive system. 
+A
+. Kei, Indonesia [2892] (UMIZ 00102). 
+B
+. Mauritius [3152] (MNHN-IM-2019-1393). 
+C
+. Papua New Guinea [5420] (MNHN-IM-2013-13765). Abbreviations: dd = deferent duct; fgm = female gland mass; hd = hermaphroditic duct; hg = hermaphroditic gland; ov = oviduct; rs = receptaculum seminis; sp = spermatheca. Scale bars: A, C = 2 mm; B = 1 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594437/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+(
+<!--template match = figureCitation--><xref rid="fig-36--189-232-1716-1742-">Fig. 10A</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Indonesia
+: 
+Ambon
+, Aru Islands (
+type
+locality), Kei Islands. 
+Mauritius
+. 
+Papua New Guinea
+: 
+Madang
+and 
+New Ireland
+. 
+Vanuatu
+. All records are new, except for the 
+type
+locality.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Habitat
+(
+<!--template match = figureCitation--><xref rid="fig-86--189-232-1663-1689-">Fig. 45</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+is primarily found in the high intertidal, including on limestone, on rocks covered with a thin layer of algae. In the Kei Islands, individuals were found on rocks at the upper margin of the intertidal near a mangrove. In 
+Ambon
+, individuals were found on logs very high in the intertidal, including at one locality that was not near any mangrove. In mangroves, individuals were typically
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-84--189-232-1856-1882-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig.42.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth,1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb.nov.
+,anterior reproductive system,male copulatory apparatus. 
+A
+. Kei, Indonesia [2892] (UMIZ 00102). 
+B
+. Mauritius [3152] (MNHN-IM-2019-1393). 
+C
+. Mauritius [3604] (MNHN-IM-2019-1392). 
+D
+. Papua New Guinea [5420] (MNHN-IM-2013-13765). Abbreviations: dd = deferent duct; ps = penial sheath; rm = retractor muscle; v = vestibule. Scale bars: A = 2 mm; B, D = 1 mm; C = 0.5 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594439/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-85--191-234-698-724-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 43.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, penial hooks. Indonesia, Ambon [2757] (UMIZ 00101). Scale bars: A = 50 μm; B = 60 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594441/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+collected on dead logs or tree trunks. In 
+Mauritius
+, it was found in mangroves, on pieces of wood and wet petioles of palm leaves. 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+is not found directly on mud.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium applanatum</tp:taxon-name>
+was originally described from the Aru Islands. Fresh material was collected from the Kei Islands, very close to Aru. The 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium applanatum</tp:taxon-name>
+is small (15/ 
+12 mm
+) but its flattened shape, the presence of a rectal gland and no accessory penial gland all indicate that it is a 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+slug. The prominent papillae on its dorsal notum and its digestive system of type I are compatible with the species described here as well as 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+. However, the retractor muscle of the 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>O. applanatum</tp:taxon-name>
+is very long and inserts near the posterior end of the visceral cavity, which is only compatible with the species described here (in 
+<!--template match = taxonomicName--><tp:taxon-name>P. luteus</tp:taxon-name>
+, the retractor muscle inserts near the heart). Therefore, 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus</tp:taxon-name>
+is applied to the species described here from the Kei Islands and 
+Ambon
+.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-85--189-232-1926-1952-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 44.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, penial hooks. 
+A
+. Papua New Guinea [5424] (MNHN-IM-2013-14043). 
+B–C
+. Mauritius [3152] (MNHN-IM-2019-1393). Scale bars: A = 30 μm; B = 10 μm; C = 60 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594443/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-86--189-232-1663-1689-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 45.
+Habitats of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex applanatus ( Simroth, 1920 )</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->comb. nov.
+, Indonesia (A–C), Papua New Guinea (D–E) and Mauritius (F). 
+A
+. Ambon, log behind a rocky mangrove in the very high intertidal, shaded by trees (station 127). 
+B
+. Kei Islands, rocks with algae at the edge of the mangrove (station 137). 
+C
+. Kei Islands, Un, rocks in the high intertidal behind a mangrove, surrounded by dry vegetation, algae growing on the rocks (station 137). 
+D
+. Madang, Hargun Island, night tide (station PM24). 
+E
+. New Ireland, Povalval, east coast of New Ireland, mixed hard platform and seagrass bed at outlet of rivulet (station KM05). 
+F
+. Mahebourg, close up of rotting petiole of palm frond at margin of mangrove where juvenile onchidiids were found.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594445/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref72283">Hoffmann (1928: 84–85)</xref>
+and 
+<!--template match = bibRefCitation--><xref rid="ref72690">Labbé (1934: 225–226)</xref>
+considered that 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium applanatum</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium tabularis Tapparone-Canefri, 1883</tp:taxon-name>
+were both junior synonyms of 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium planatum Quoy &amp; Gaimard, 1825</tp:taxon-name>
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium planatum</tp:taxon-name>
+, originally described from 
+Guam
+, may not even refer to an onchidiid based on the brief written description. Two pieces of a notum were located recently at the MNHN which are part of the 
+type
+series of 
+<!--template match = taxonomicName--><tp:taxon-name>O. planatum</tp:taxon-name>
+(MNHN-IM-2000-33706). However, these are so poorly preserved that it is not possible to determine whether they were part of an onchidiid slug. 
+<!--template match = bibRefCitation--><xref rid="ref75045">Tapparone-Canefri’s (1883)</xref>
+description of 
+<!--template match = taxonomicName--><tp:taxon-name>O. tabularis</tp:taxon-name>
+from Wokam, Aru Islands, does not mention the internal anatomy, and the 
+type
+specimens could not be located. As a result, both 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium planatum</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium tabularis</tp:taxon-name>
+are considered here nomina dubia. 
+<!--template match = bibRefCitation--><xref rid="ref72690">Labbé’s (1934: 225–226)</xref>
+specimens identified as 
+<!--template match = taxonomicName--><tp:taxon-name>O. planatum</tp:taxon-name>
+from 
+Guam
+, 
+New Caledonia
+and 
+Mauritius
+(as île de 
+France
+) cannot belong to 
+<!--template match = taxonomicName--><tp:taxon-name>P. applanatus</tp:taxon-name>
+or any other species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+due to the presence of a penial gland.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Ulskia schorygini ( Logvinenko &amp; Starobogatov, 1969 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-29--151-250-1899-1923-">Fig. 15</xref>
+a–d, f– i
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Ulskia ) schorygini Logv. et Star.</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. n.
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379</xref>
+</tp:nomenclature-citation>
+, fig. 36711).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula schorygini Logvinenko et Starobogatov, 1968</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 103</xref>
+</tp:nomenclature-citation>
+, pl. 45, fig. E.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type material.
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN 4357</named-content>
+/1) and five 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratypes</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZIN #9</named-content>
+). 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Further</named-content>
+88 probable 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratypes</named-content>
+are listed in 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+systematic catalogue (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+##2–8, 10–18), collected by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">B.M. Logvinenko</named-content>
+in various parts of the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Middle</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+##2–8) and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">South</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+##10–18) 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Caspian Sea</named-content>
+between 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">26/06/1956</named-content>
+and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">06/08/1957</named-content>
+</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-29--151-250-1899-1923-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 15.
+(a, b, f–i) 
+<!--template match = taxonomicName--><tp:taxon-name>Ulskia schorygini ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
+: (a, b) Holotype (ZIN 4357/1); (f, g) Paratype (ZIN #9); (h, i) Paratype (ZIN #9). (c, d) 
+<!--template match = taxonomicName--><tp:taxon-name>U. cf. schorygini</tp:taxon-name>
+, specimen labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia turrita</tp:taxon-name>
+, paratype 2” (ZIN, no number). (e, j). 
+<!--template match = taxonomicName--><tp:taxon-name>Caspiella</tp:taxon-name>
+? sp., specimen labelled as “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia turrita</tp:taxon-name>
+, holotype” (ZIN, no number). All material from the South Caspian Basin off Apsheron Peninsula (locality 15). Scale bar = 1 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4550188/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Type locality.
+Caspian Sea off Apsheron Peninsula (
+<!--template match = tableCitation--><xref>Table 1</xref>
+, locality 15). The five 
+paratypes
+studied herein come from the same locality; the other 88 probable 
+paratypes
+derive from 16 different samples collected offshore Apsheron Peninsula, Kura delta and Cheleken Peninsula as well as in the northern part of the Middle Caspian Basin.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Other material</named-content>
+.
+</named-content>
+One specimen from the Caspian Sea off Apsheron Peninsula (locality 15), labelled as “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">paratype</named-content>
+” of “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia turrita</named-content>
+</named-content>
+”, an unavailable collection name coined by Starobogatov (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+, no number)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Small (up to 
+2.09 mm
+in height, 
+1.21 mm
+in width), slender shell with up to 4.5 low-convex, sometimes weakly stepped whorls. Protoconch unknown. Last whorl typically more bulgy than previous whorls. Aperture slender ovoid, poorly inclined, leaving wide umbilicus.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+The 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>U. schorygini</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-29--151-250-1899-1923-">Fig. 15a, b</xref>
+) shows a certain similarity to the 
+lectotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>U. ulskii</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-31--151-250-1760-1784-">Fig. 16a</xref>
+), but it has a more elongated shell, a relatively lower and slightly projecting last whorl, a wide umbilicus and weakly convex whorls. These features are found—with some variability—also in the 
+paratypes
+and distinguish the species from 
+<!--template match = taxonomicName--><tp:taxon-name>U. ulskii</tp:taxon-name>
+. However, that species is known for its highly variable shell, and 
+<!--template match = taxonomicName--><tp:taxon-name>U. schorygini</tp:taxon-name>
+might just be another morphological variety. Until there is clear evidence (genetic or morphological) that the two species cannot be separated, 
+<!--template match = taxonomicName--><tp:taxon-name>U. schorygini</tp:taxon-name>
+is maintained as a valid species.
+</p>
+<!--template match = paragraph--><p>
+The ZIN collection of Starobogatov contains material from the Caspian Sea off Apsheron Peninsula (localities 14 and 15) labelled with the unavailable collection “ 
+<!--template match = taxonomicName--><tp:taxon-name>Caspia turrita</tp:taxon-name>
+”, including a “ 
+holotype
+” and 18 “ 
+paratypes
+”. The “ 
+holotype
+” is not 
+<!--template match = taxonomicName--><tp:taxon-name>Caspiinae</tp:taxon-name>
+but a juvenile individual of a 
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgulinae</tp:taxon-name>
+, perhaps a species of 
+<!--template match = taxonomicName--><tp:taxon-name>Caspiella</tp:taxon-name>
+(
+<!--template match = figureCitation--><xref rid="fig-29--151-250-1899-1923-">Fig. 15e, j</xref>
+), while some “ 
+paratypes
+” are real 
+<!--template match = taxonomicName--><tp:taxon-name>Ulskia</tp:taxon-name>
+. At least one “ 
+paratype
+” (
+<!--template match = figureCitation--><xref rid="fig-29--151-250-1899-1923-">Fig. 15c, d</xref>
+) resembles 
+<!--template match = taxonomicName--><tp:taxon-name>U. schorygini</tp:taxon-name>
+(which was collected from the same locality) concerning the conical shell and wide umbilicus and is tentatively referred to that species.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Middle and South basins of the Caspian Sea, from depths of 
+
+45– 
+170 m
+
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Alcecoris periscopus McAtee and Malloch, 1924<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-22--151-264-1925-1949-">Figs. 5D</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-24--151-264-1912-1936-">7C</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-39--151-264-1918-1942-">22D</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Alcecoris periscopus McAtee and Malloch, 1924: 81</tp:taxon-name>
+(as new species); Schuh 1995: 5 (catalogue), 2002–2013 (online catalogue).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis
+. Small species, length 
+2.5 mm
+. Head, antennae and pronotum reddish brown. Mesoscutum dark brown. Scutellum basally orange brown with apex white. Corium with a brown patch above middle of clavus, another near the apex of the costa, and a large orange-brown spot near inner angle; cuneus black, basally with small white spots; membrane fuscous. Legs orange brown, femora basally white. Head vertical, rounded, with triangular projections laterally below the eyes. Segment I of antenna with two stout triangular spines dorsally and ventrally, both spines triangular and apically pointed. Eyes rounded. Pronotum slightly raised above hemelytra, shiny, smooth, lateral margins convex, anterolateral angles flat, posterior margin rounded, anterior part with a prominent neck. Mesoscutum exposed, sloping; scutellum finely punctuate with apex pointed. Hemelytra strongly punctuate, with short bristle-like setae arising from punctures; cuneal fracture indistinct; membrane with a single large cell. Legs with all femur cylindrical, tibiae elongate, and tarsi two segmented, with second segment longest. Detailed measurements in 
+<!--template match = tableCitation--><xref>Table 1</xref>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDIA</named-content>
+: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1♀</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Meghalaya</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Ri-Bhoi</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ICAR</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">RCNEH</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Barapani</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1031m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+25 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">°</named-content>
+41’N
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">
+91 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="superScript">°</named-content>
+55’E
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">24.ix.2013</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Yeshwanth H.M.</named-content>
+leg., ex: tree bark with lichens
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+. 
+India
+: 
+Meghalaya
+(north 
+India
+) and 
+Singapore
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+. This is a new country record. Previously known only from 
+Singapore
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Biology
+. Collected on bark with lichens and mosses.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

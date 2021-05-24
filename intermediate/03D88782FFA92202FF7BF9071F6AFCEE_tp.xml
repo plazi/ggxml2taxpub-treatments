@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pleurota bicostella ( Clerck, 1759 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = tableCitation--><xref>Table 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-3--151-264-1906-1930-">Figs. 1–2</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-7--151-264-1828-1852-">33–34</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-28--151-264-1833-1857-">51</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-33--151-250-1943-1967-">65</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Phalaena bicostella Clerck, 1759</tp:taxon-name>
+: pl. 3, fig. 15. Type locality: Scandinavia? 
+Lectotype
+(NHMUK, not examined) designated by 
+<!--template match = bibRefCitation--><xref rid="ref17305">Robinson &amp; Nielsen (1983)</xref>
+, who did not indicate the sex.
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota bicostella</tp:taxon-name>
+ab. 
+adscriptella
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref17214">Krulikowsky, 1908: 18</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material studied.
+<!--template match = materialsCitation--><tp:material-citation>
+2 ♂ (DNA sample 00060 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Lepid. Phyl</named-content>
+; DNA sample 00061 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lepid. Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Finland</named-content>
+, PPp: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Kiiminki</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">29.VI.2006</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Mutanen</named-content>
+leg. (coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MUT</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+34 ♂ (GP 5310 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; GP 5881 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; DNA sample 23700 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♀</named-content>
+(GP 5477 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; GP 5672 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; GP 5945 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; GP 6026 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Finland</named-content>
+, EH: 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Hartola</named-content>
+682:344, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">4.VII.2014</named-content>
+</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">26.VI.2018</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg. (coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TAB</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+1 ♂ (GP 5569 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24663 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Russia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Buryatia</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">53°13’N</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">109°19’E</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Barguzin valley</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1000 m</named-content>
+</named-content>
+, Ust-Barguzin-Yambui rd. taiga, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">13.VII.1996</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Jalava</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Kullberg</named-content>
+(coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZH</named-content>
+)
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+1 ♂ (slide 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Sihvonen</named-content>
+2786), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Finland</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Kerimäki</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Riitasensuo</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.VII.1997</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">P. Sihvonen</named-content>
+leg. (coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SIH</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-3--151-264-1906-1930-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 1–8.
+Adults and labels of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+spp. 
+1–2.
+<!--template match = taxonomicName--><tp:taxon-name>P. bicostella (Clerck)</tp:taxon-name>
+. 1. ♂. 2. ♀. 
+3.
+<!--template match = taxonomicName--><tp:taxon-name>P. andalusica Back, ♂.</tp:taxon-name>
+4–5.
+<!--template match = taxonomicName--><tp:taxon-name>P. asiatica Back.</tp:taxon-name>
+4. ♂ holotype. 5. ♀ paratype. 
+6–8.
+<!--template match = taxonomicName--><tp:taxon-name>P. aragonella Chrétien.</tp:taxon-name>
+6. ♂ holotype. 7. ♂. 8. ♀.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595503/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-4--151-264-1743-1767-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 9–16.
+Adults and labels of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+spp. 
+9–11.
+<!--template match = taxonomicName--><tp:taxon-name>P. illucidella Chrétien.</tp:taxon-name>
+9. ♀ holotype. 10. ♂. 11. ♀. 
+12–14.
+<!--template match = taxonomicName--><tp:taxon-name>P. lepigrei Lucas.</tp:taxon-name>
+12. ♂ holotype. 13. ♂. 14. ♂. 
+15.
+<!--template match = taxonomicName--><tp:taxon-name>P. ericella (Duponchel)</tp:taxon-name>
+, ♂. 
+16.
+<!--template match = taxonomicName--><tp:taxon-name>P. phaeolepida</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, ♂ holotype.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595505/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota bicostella</tp:taxon-name>
+is a relatively large species (wingspan 
+20–24 mm
+) compared to most congeners. It is characterized by pale grey forewing mixed with white scales and distinct black discal and discocellular spots. In a rare aberration, 
+<!--template match = taxonomicName--><tp:taxon-name>P. bicostella</tp:taxon-name>
+ab. 
+adscriptella
+Krulikowski, 1908, the forewing is darker, brownish grey without white irroration (
+<!--template match = bibRefCitation--><xref rid="ref17451">
+Tokár 
+et al
+. 2005
+</xref>
+). The moderately broad posterior lobe of juxta compared to related species and the crescent-shaped valval lobe in the male genitalia, and small posterior signa in the female genitalia are diagnostic.
+</p>
+<!--template match = paragraph--><p>
+Molecular data.
+Altogether one 657 bp and 22 full-length (658 bp) sequences of 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+were available for genetic analysis. The results revealed 5.56 %–10.06 % divergences between 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+and the other barcoded taxa of the 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+species group (
+<!--template match = tableCitation--><xref>Table 1</xref>
+). The nearest neighbour to 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+is a Moroccan species 
+<!--template match = taxonomicName--><tp:taxon-name>P. lepigrei Lucas, 1937</tp:taxon-name>
+, with a 5.56 % divergence. The barcodes of 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+exhibit 1.08 % intraspecific variation.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-5--151-264-1870-1894-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 17–24.
+Adults and labels of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+spp. 
+17–18.
+<!--template match = taxonomicName--><tp:taxon-name>P. agadirensis</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+17. ♂ holotype. 18. ♀ paratype. 
+19–20.
+<!--template match = taxonomicName--><tp:taxon-name>P. aprilella</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+19. ♂ paratype. 20. ♀ holotype. 
+21–22.
+<!--template match = taxonomicName--><tp:taxon-name>P. dalilae</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+21. ♂ paratype. 22. ♀ holotype. 
+23–24.
+<!--template match = taxonomicName--><tp:taxon-name>P. karsholti</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+23. ♂ paratype. 24. ♀ holotype.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595509/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Adult. Wingspan 
+19.6–24.1 mm
+. Labial palpus off-white, ventrally and laterally brown, 6.5 x as long as diameter of eye (1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres), 3 
+<sup>rd</sup>
+palpomere 0.3 x length of 1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres. Scape of antenna off-white, flagellum brown. Head, thorax and tegula off-white to pale grey. Forewing pale grey, with scattered brown scales, discal, plical and discocellular spots distinct, blackish brown, fringe line with a few blackish brown flecks; costal line white, moderately broad, from base to 5/6; subcostal line brown, basally slightly narrower. Costal fringe brown, dorsal fringe pale brown, basally white. Hindwing pale brownish grey, margin pale brown, fringe pale brown. Abdomen pale grey, slightly lustrous, each segment with a transverse row of ochre scales.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-6--151-264-1931-1955-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 25–32.
+Adults and labels of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+spp. 
+25–26.
+<!--template match = taxonomicName--><tp:taxon-name>P. kullbergi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+25. ♂ paratype. 26. ♀ paratype. 
+27.
+<!--template match = taxonomicName--><tp:taxon-name>P. monochroma</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, ♂ holotype. 
+28.
+<!--template match = taxonomicName--><tp:taxon-name>P. murina</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, ♂ holotype. 
+29.
+<!--template match = taxonomicName--><tp:taxon-name>P. paragallicella</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+, ♂ holotype. 
+30.
+<!--template match = taxonomicName--><tp:taxon-name>P. gallicella Huemer &amp; Luquet, ♂.</tp:taxon-name>
+31–32
+. 
+<!--template match = taxonomicName--><tp:taxon-name>P. hastiformis Walsingham.</tp:taxon-name>
+31. ♂. 32. ♀.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595511/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-7--151-264-1828-1852-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 33–34.
+Male genitalia of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota bicostella</tp:taxon-name>
+. 33a. Genitalia, GP 5310 J. Tabell. 33b. Phallus, caecum intact. 34a. Vesica in dorsal view, caecum removed, slide Sihvonen 2786. 34b. Vesica in lateral view, caecum removed, slide Sihvonen 2786.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595513/files/figure.png"/></fig>
+<!--template match = paragraph--><p>Male genitalia. Uncus triangular from ventral view, as long as gnathos, lined with several long and short bristles, apex with parallel-sided stout protuberance. Gnathos subtriangular from ventral view, broad, surface of apical third covered with scobination. Valva slightly upwardly oblique from ventral view, ventral margin medially slightly bulged, costa almost horizontal; cucullus thimble-shaped; sacculus covered with several bristles; valval lobe well delineated, short, crescent-shaped, covered with several bristles, outer margin lined with small nodules. Juxta tuning-fork-shaped, robust; posterior lobe moderately broad, reaching base of uncus; phallus slightly arched, broad, with one plate-shaped cornutus surrounded by a patch of small spines. Vesica complex, containing small dorsal diverticulum, large ventro-basal diverticulum, ductus ejaculatorius making two distinct curves before opening laterally, large portion of surface covered with microtrichia.</p>
+<!--template match = paragraph--><p>Female genitalia. Papilla analis ovoid, covered with short and long bristles. Apophysis posterioris 2.8 x as long as papilla analis and 1.7 x as long as apophysis anterioris, which is 1.25 x as long as segment 8. Segment 8 quadrate, dorsolaterally reinforced by sclerotized band, distal half covered with several bristles, proximal margin broad, convex, caudal margin concave; ventral longitudinal sclerotization ovoid. Antrum longer than segment 8, moderately broad, partly sclerotized, posterior fourth membranous, anteriorly slightly tapered, with two crescentshaped opposite patches of different size and two narrow plates with several strongly sclerotized nodules. Ductus bursae moderately broad, membranous. Corpus bursae large, ovoid, with one arched broad signum bearing two narrow, long thorn-like protuberances, and two minute posterior signa.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Biology.
+The larva feeds on the leaves of 
+<!--template match = taxonomicName--><tp:taxon-name>Calluna</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>Erica</tp:taxon-name>
+in a silken web (
+<!--template match = bibRefCitation--><xref rid="ref17451">
+Tokár 
+et al
+. 2005
+</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Widely distributed in the western Palearctic region.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks
+: We illustrate the everted vesica of 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+, possibly for the first time in genus 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+. The complex structure is indicative that the vesica potentially contains diagnostic characters that may bring additional resolution to the morphology-based taxonomy in the genus.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

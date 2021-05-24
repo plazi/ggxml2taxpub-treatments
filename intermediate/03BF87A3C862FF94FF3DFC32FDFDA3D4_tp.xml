@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Laevicaspia derzhavini ( Logvinenko &amp; Starobogatov, 1969 ) comb. n.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-36--151-250-1483-1507-">Fig. 19</xref>
+f– h
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula ( Ulskia ) derzhavini Logv. et Star.</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969: 379</xref>
+</tp:nomenclature-citation>
+, fig. 367(9).
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Pyrgula derzhavini Logvinenko et Starobogatov, 1968</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref31309">Kantor &amp; Sysoev 2006: 99</xref>
+</tp:nomenclature-citation>
+, pl. 45, fig. J.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+? 
+<!--template match = taxonomicName--><tp:taxon-name>Ulskia derzhavini ( Logvinenko &amp; Starobogatov, 1969 )</tp:taxon-name>
+— 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref34307">
+Wesselingh 
+et al
+. 2019: 73
+</xref>
+</tp:nomenclature-citation>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Type</named-content>
+material.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Kantor &amp; Sysoev (2006: 99)</named-content>
+stated that in 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+no identified material of this species is found. We detected a lot in the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">ZIN</named-content>
+collection of Starobogatov with six specimens and determined as “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Caspia derzhavini</named-content>
+</named-content>
+”. Since this material is a single lot that was labelled by Starobogatov himself it is very likely the 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">type</named-content>
+material
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+
+Type
+locality.
+
+Caspian Sea, probably near Cheleken Peninsula (
+<!--template match = tableCitation--><xref>Table 1</xref>
+, locality 21).
+</p>
+<!--template match = paragraph--><p>
+Other material.
+None.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+The shells of this species have a very slender elongate shape, and the protoconch ornamentation differs largely of that found in 
+<!--template match = taxonomicName--><tp:taxon-name>Caspiinae</tp:taxon-name>
+, showing irregular spiral threads on a smooth surface. Shape and protoconch features strongly remind of 
+<!--template match = taxonomicName--><tp:taxon-name>Laevicaspia ( Neubauer et al . 2018 )</tp:taxon-name>
+. The small size and the short shell with only about five whorls suggest 
+<!--template match = taxonomicName--><tp:taxon-name>L. derzhavini</tp:taxon-name>
+is a juvenile 
+<!--template match = taxonomicName--><tp:taxon-name>Laevicaspia</tp:taxon-name>
+, and it might well be a synonym of a previously described 
+<!--template match = taxonomicName--><tp:taxon-name>Laevicaspia</tp:taxon-name>
+species. This problem cannot be properly solved from the material available for the species, which is why we consider 
+<!--template match = taxonomicName--><tp:taxon-name>L. derzhavini</tp:taxon-name>
+as a nomen dubium.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Middle and South Caspian Sea, 
+45–81 m
+(
+<!--template match = bibRefCitation--><xref rid="ref32049">Logvinenko &amp; Starobogatov 1969</xref>
+). 
+<!--template match = bibRefCitation--><xref rid="ref33795">Tarasov (1996b)</xref>
+mentioned the species from 
+
+311– 
+870 m
+
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Munidopsis polita ( Smith, 1883 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Anoplonotus politus Smith, 1883: 50</tp:taxon-name>
+</tp:nomenclature-citation>
+, Pl. 2, 
+<!--template match = figureCitation--><xref rid="fig-5--151-250-1362-1386-">Fig. 1</xref>
+; P 
+<!--template match = figureCitation--><xref rid="fig-15--151-250-1918-1942-">3. 3</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-">Figs. 1–5a</xref>
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material examined.
+None.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Western Atlantic— 
+USA
+(
+Massachusetts
+, 
+Virginia
+, Florida), Gulf of Mexico, 
+Nicaragua
+, Lesser Antilles (
+Guadeloupe
+), 
+Colombia
+, 
+Brazil
+(
+São Paulo
+, Santa Catarina) (
+<!--template match = bibRefCitation--><xref rid="ref35466">Melo-Filho 2006</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref35540">2008</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Remarks.
+The absence of specimens collected by us is probably due to our sampling effort in shallow waters. This species is collected between 129 and 
+860 m
+depth (
+<!--template match = bibRefCitation--><xref rid="ref35466">Melo-Filho 2006</xref>
+). We found 
+one specimen
+deposited in the MZUSP collection obtained during the N.Oc. “Prof. W. Besnard” (MZUSP 13252, st. 6693, 
+26°41ʹS
+/ 
+046°27ʹW
+, 
+430 m
+) in 
+19.i.1998
+, and it extends significantly the southern limits of this species towards the area of occurrence of 
+<!--template match = taxonomicName--><tp:taxon-name>M. polita ( Melo-Filho 2006 )</tp:taxon-name>
+. Eventhough the author informed the occurrence in 
+São Paulo
+, the coordinates furnished for this specimen (
+<!--template match = tableCitation--><xref>Table 1</xref>
+, p. 3) seem to belong to the waters of Santa Catarina state, in 
+Brazil
+.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

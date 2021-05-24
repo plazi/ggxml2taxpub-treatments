@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Pleurota andalusica Back, 1973 stat. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = tableCitation--><xref>Table 1</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-3--151-264-1906-1930-">Figs. 3</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-9--151-264-1788-1812-">35</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-28--151-264-1833-1857-">52</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-33--151-250-1943-1967-">65</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota bicostella andalusica Back, 1973: 103–105</tp:taxon-name>
+</tp:nomenclature-citation>
+, pls. H (♂ genitalia), 
+Bb
+1 (
+♀
+genitalia). Type locality: 
+Spain
+: 
+Granada
+, Diezma. 
+Holotype
+♂ (ZSM; not found). Here raised from subspecies to species, based on congruent differences in habitus, genitalia structure, and DNA barcodes (
+stat. nov.).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Material studied.
+<!--template match = materialsCitation--><tp:material-citation>
+4 ♂ (GP 5625 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 24568 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">7 ♀</named-content>
+(GP 5478 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 23569 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+; GP 5775 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Granada</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Sierra Nevada</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">1490 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">4 km</named-content>
+SW G̹ejár-Sierra, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">2.VII.2015</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg.;
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+4 ♂, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♀</named-content>
+(GP 5879 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+; DNA sample 24570 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+; DNA sample 24571 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), same collecting data, but 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">9.VII.2015</named-content>
+</named-content>
+;
+</tp:material-citation>
+<!--template match = materialsCitation--><tp:material-citation>
+2 ♂ (GP 5711 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+, DNA sample 25599 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+; DNA sample 25600 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Lepid Phyl</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Aragon</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Huesca</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="locationDeviation">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">4.5 km</named-content>
+E Castejón de Monegros
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">540 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">5.VII.2016</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">J. Tabell</named-content>
+leg. (all coll. 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">TAB</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+According to 
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+, the taxon can be distinguished from 
+
+P. b. 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+
+by its smaller size, longer labial palp and more contrasted and brightly coloured forewing, in the male genitalia by longer and differently shaped gnathos and longer posterior lobe of juxta, and in the female genitalia by longer ventral longitudinal sclerotization and longer apophysis posterioris. Judging from these characters, combined with the shape of valval lobe in the male genitalia and barcoding information, the systematic position of 
+<!--template match = taxonomicName--><tp:taxon-name>andalusica</tp:taxon-name>
+is not in the 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+group but in the 
+<!--template match = taxonomicName--><tp:taxon-name>P . aristella</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->s.l.
+species group (see 
+<!--template match = bibRefCitation--><xref rid="ref17137">
+Kaila 
+et al
+. 2019
+</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Molecular data.
+Six specimens of 
+<!--template match = taxonomicName--><tp:taxon-name>andalusica</tp:taxon-name>
+were sequenced, resulting in 658 bp, full-length barcode sequences for all specimens. The results revealed 7.74 %–10.94 % divergence between 
+<!--template match = taxonomicName--><tp:taxon-name>andalusica</tp:taxon-name>
+and the other barcoded taxa of the 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+species group (
+<!--template match = tableCitation--><xref>Table 1</xref>
+). The nearest neighbour to 
+<!--template match = taxonomicName--><tp:taxon-name>andalusica</tp:taxon-name>
+is a Moroccan species 
+<!--template match = taxonomicName--><tp:taxon-name>P. ochreopalpella Tabell, 2019</tp:taxon-name>
+, which belongs to the 
+<!--template match = taxonomicName--><tp:taxon-name>aristella</tp:taxon-name>
+species group (
+<!--template match = bibRefCitation--><xref rid="ref17137">
+Kaila 
+et al.
+2019
+</xref>
+), with a 4.26 % divergence. The divergence between 
+<!--template match = taxonomicName--><tp:taxon-name>andalusica</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>bicostella</tp:taxon-name>
+is 8.95 % (
+<!--template match = tableCitation--><xref>Table 1</xref>
+). There exists a 1.24 % barcode gap between the populations of Sierra Nevada and Sierra de los Monegros, which may indicate cryptic diversity. The intraspecific variation within these clusters is 0.46 % (n=4) and 0.15 % (n=2), respectively.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Adult. Wingspan 
+13.9–21.2 mm
+. Labial palpus long, off-white, mixed with brown, ventrally brown, mixed with white, 8 x as long as diameter of eye (1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres), 3 
+<sup>rd</sup>
+palpomere 0.3 x length of 1 
+<sup>st</sup>
+and 2 
+<sup>nd</sup>
+palpomeres. Scape off-white, flagellum smooth, brown, slightly serrate. Head and thorax white, tegula mixed with pale brown. Forewing white, dispersed with brown and blackish brown scales, discal spot distinct, blackish brown, hind margin with several blackish brown scales forming a fringe line; costal line white, narrow, from near base to 0.75; subcostal line brown, broad, basally slightly narrower. Costal fringe brown, dorsal fringe pale brown, apically off-white. Hindwing brownish grey, margin brown, fringe concolorous. Abdomen grey, slightly lustrous, each segment with a transverse row of ochre scales.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-9--151-264-1788-1812-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURES 35–36.
+Male genitalia of 
+<!--template match = taxonomicName--><tp:taxon-name>Pleurota</tp:taxon-name>
+spp. 35. 
+<!--template match = taxonomicName--><tp:taxon-name>P. andalusica Back, GP</tp:taxon-name>
+5625 J. Tabell. 36. 
+<!--template match = taxonomicName--><tp:taxon-name>P. aragonella Chrétien, GP</tp:taxon-name>
+5575 J. Tabell.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4595517/files/figure.png"/></fig>
+<!--template match = paragraph--><p>Male genitalia. Uncus triangular from ventral view, markedly shorter than gnathos, covered with several long bristles, apex with parallel-sided stout protuberance. Gnathos elongate, funnel-shaped from ventral view, with extensive scobination, evenly tapered towards apex, apex stout. Valva elongate, upwardly oblique, ventral margin medially bulged, costa straight, oblique; cucullus narrow; sacculus broad, covered with several bristles; valval lobe well delineated, club-shaped, distally covered with several bristles. Juxta tuning-fork-shaped; posterior lobe moderately narrow, long, exceeding the base of uncus. Phallus slightly arched, with one plate-shaped cornutus and two patches of small spines, at apex and around cornutus.</p>
+<!--template match = paragraph--><p>Female genitalia. Papilla analis ovoid, covered with short and long bristles. Apophysis posterioris 4.7 x as long as papilla analis and 1.4 x as long as apophysis anterioris, which is 1.4 x as long as segment 8. Segment 8 longitudinally rectangular, dorsolaterally reinforced by sclerotized band, distally covered with a few short bristles, proximal margin deeply U-shaped; ventral longitudinal sclerotization narrow and long.Antrum as long as segment 8, posterior third membranous, anterior part slightly sclerotized, with two crescent-shaped opposite patches of different size. Ductus bursae short. Corpus bursae ovoid, with one arched robust signum bearing two long moderately broad thorn-like protuberances, and two narrow leaf-shaped posterior signa of different size.</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="biology_ecology">
+<!--template match = paragraph--><p>
+Biology.
+Unknown.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution.
+Spain
+, Sierra Nevada (Granada) and Sierra de los Monegros (
+Aragon
+), locally abundant.
+</p>
+<!--template match = paragraph--><p>
+Note.
+<!--template match = bibRefCitation--><xref rid="ref16879">Back (1973)</xref>
+stated that the 
+type
+material was in ZSM, but it has not been found there despite searching efforts (Ulf Buchsbaum and Axel Hausmann, pers. comm.).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

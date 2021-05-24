@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Synemosyna nicaraguaensis Cutler, 1993<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-6--189-232-1923-1949-">Figs 3C, F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1923-1949-">4C, F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">5C–F</xref>
+, 
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1845-1871-">9A– D</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna nicaraguaensis Cutler, 1993: 2</tp:taxon-name>
+</tp:nomenclature-citation>
+, figs 1–2.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Type deposit</title>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+in 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MEL</named-content>
+(examined).
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-9--189-232-1923-1949-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 5.
+Genitalia of 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna spp. A</tp:taxon-name>
+–B
+. 
+<!--template match = taxonomicName--><tp:taxon-name>S. myrmeciaeformis ( Taczanowski, 1871 )</tp:taxon-name>
+. 
+A
+. Epigyne. 
+B
+. Spermatheca and copulatory duct. 
+C–F
+. 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis Cutler, 1993</tp:taxon-name>
+. 
+C
+. Epigyne. 
+D
+. Spermatheca and copulatory duct. 
+E
+. Palp, retrolateral view. 
+F
+. Idem, ventral view.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745131/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Diagnosis</title>
+<!--template match = paragraph--><p>
+Bulb small (60% of cymbium length) (
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">Fig. 5F</xref>
+); tibial apophysis bifurcate, ventral lobe larger; epigyne with complete, sclerotized transverse hood with strongly procurved anterior margin; female spermathecae large (width of each 35–45% of maximum width of epigyne between sclerotized rims), pear-shaped, and accessory glands as long as spermatheca diameter (
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">Fig. 5D</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+
+Holotype
+
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">NICARAGUA</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Río San Juan</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">El Castillo</named-content>
+[El Castillo de Concepción, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">11°01′ N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">84°25′ W</named-content>
+]; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">30 Jul. 1989</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">F. Reinboldt</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MEL</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+Other material
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">BOLIVIA</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Santa Cruz</named-content>
+Dept
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">25 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">37 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">La Guardia</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17.883º S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">63.317º W</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">Sep. 2015</named-content>
+</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">Aug. 2017</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Perger</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CBF</named-content>
+</tp:material-citation>
+• • 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IBSI-Ara 0724</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 ♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Buena Vista</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17.465º S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">63.696º W</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">21 Jan. 2016</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Perger</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IBSI-Ara 0725</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CBF</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Santa María La Antigua</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">17.3719° S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">63.6563° W</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">10–11 Apr. 2018</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Perger</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CBF</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">La Paz</named-content>
+Dept
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">6 ♀♀</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Villa Teresa</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">16.201º S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">67.829º W</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Jan. 2018</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Perger</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">IBSI-Ara 1023</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 ♂♂</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">8 ♀♀</named-content>
+; same collection data as for preceding; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">16–18 Jan. 2018</named-content>
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">R. Perger</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">CBF</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Comparisons</title>
+<!--template match = paragraph--><p>
+The bifurcated tibial apophysis is only shared with 
+<!--template match = taxonomicName--><tp:taxon-name>S. maddisoni Cutler, 1985</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>S. paraensis Galiano, 1967</tp:taxon-name>
+. However, both species can be separated from 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+by a larger bulb (65% of cymbium length in 
+<!--template match = taxonomicName--><tp:taxon-name>S. maddisoni</tp:taxon-name>
+and 80% in 
+<!--template match = taxonomicName--><tp:taxon-name>S . paraensis</tp:taxon-name>
+) and the different size and shape of the lobes of the retrolateral tibial apophysis (cf. 
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">Fig. 5F</xref>
+with 
+<!--template match = bibRefCitation--><xref rid="ref9474">
+Chamé-Vázquez 
+et al.
+2020
+</xref>
+: figs 14–15). The female habitus (
+<!--template match = figureCitation--><xref rid="fig-7--189-232-1923-1949-">Fig. 4C</xref>
+) and the almost round spermathecae (
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">Fig. 5D</xref>
+) are shared with the female of 
+
+<!--template match = taxonomicName--><tp:taxon-name>S. maddisoni</tp:taxon-name>
+.
+
+Females of 
+<!--template match = taxonomicName--><tp:taxon-name>S. maddisoni</tp:taxon-name>
+can be distinguished from those of 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+by an epigyne with a U-shaped flap, which is wide and short in 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+(compare 
+<!--template match = figureCitation--><xref rid="fig-9--189-232-1923-1949-">Fig. 5C</xref>
+with 
+<!--template match = bibRefCitation--><xref rid="ref9474">
+Chamé-Vázquez 
+et al.
+2020
+</xref>
+: fig. 11).
+</p>
+<!--template match = paragraph--><p>
+The habitus of females of 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+resembles that of 
+<!--template match = taxonomicName--><tp:taxon-name>S. hentzi Peckham &amp; Peckham, 1892</tp:taxon-name>
+(
+<!--template match = bibRefCitation--><xref rid="ref10681">Peckham &amp; Peckham 1892</xref>
+: pl. 7 fig. 2). 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna hentzi</tp:taxon-name>
+was described very briefly based on a single female that was collected in Chapada dos Guimarães, close to Cuiabá, 
+Mato Grosso state
+, 
+Brazil
+, and maintained in the Herbert H. Smith collection (
+<!--template match = bibRefCitation--><xref rid="ref10681">Peckham &amp; Peckham 1892</xref>
+), but the 
+type
+specimen appears to be lost (
+<!--template match = bibRefCitation--><xref rid="ref9949">Galiano 1971</xref>
+). No description or illustration of the genitalia was provided, and no further specimens of this species were recorded in subsequent works. Considering the original description (
+<!--template match = bibRefCitation--><xref rid="ref10681">Peckham &amp; Peckham 1892</xref>
+), 
+<!--template match = taxonomicName--><tp:taxon-name>S. hentzi</tp:taxon-name>
+differs from 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+by a broader, less elongated carapace, 2 times longer than wide (
+2.5 in
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+), with the lateral borders parallel (with a slightly narrower constriction in 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+) and without a dorsal constriction (present in 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+), the AER only slightly curved (strongly in 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+), and the 
+ALE
+and 
+AME
+touching each other (separated in 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+).
+</p>
+<!--template match = paragraph[descendant::heading][preceding-sibling::paragraph[descendant::heading]]]--><p><bold>
+Description
+</bold></p>
+<!--template match = paragraph--><p>
+Male
+(IBSI-Ara 0724)
+</p>
+<!--template match = paragraph--><p>Total BL: 4.60. Carapace length 2.05; width: 0.81. Integument smooth, shiny, with simple, separate white setae, denser and longer on cephalic area (particularly around AME), posterior constriction of thoracic area, and on transverse area of anterior part of abdomen. Carapace slender and elongated, cephalic portion slightly longer than wide, followed by slightly narrower constriction, slight impression behind cephalic area (resembling anterior pronotal margin); dense white scales posterolateral of cephalic area, thoracic part about as long as cephalic part, of same width, globose, posteriorly constricted, constriction concave in lateral view. Row of AME and ALE recurved, AME touching each other, separated from ALE, ALE at anterior edges of cephalic area, rectangle of ALE and PE 1.5 times as wide as long. Chelicerae with 2 promarginal and 5 retromarginal teeth. Sternum dark brown. Coxae and trochanters translucent whitish; legs relatively long, 4312; femora stout, remaining segments slender, femora I–III translucent yellowish, I and III somewhat darker distally, IV proximally and distally as in anterior part of abdomen, central half translucent yellowish; tibia I simple, with moderately long setae.</p>
+<!--template match = paragraph--><p>Abdomen length: 2.50; width: 0.70, proximal half broadening in distal direction in dorsal view, proximal and distal half of abdomen separated by concave constriction, distal part of abdomen acuminate oval. Dorsal scutum almost extending along the whole length of abdomen, rectangular proximally, merging into disc-shaped, heavily sclerotized plate on distal half of anterior abdominal part, proximal part of plate surrounded by band of short white setae; scutum narrowing at level of abdominal constriction and widening again on distal half of abdomen, terminating shortly before abdominal apex; epigastric scutum folded over dorsolateral border of anterior part of abdomen, covering somewhat lateral sides of scutum.</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-11--190-233-1843-1869-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 6. A–D
+. Color variants and potential model ants for 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna aurantiaca ( Mello-Leitão, 1917 )</tp:taxon-name>
+. 
+A
+. Orange female, Santiago de Chiquitos, Santa Cruz Dept. 
+B
+. Reddish brown female, Cotoca, Santa Cruz Dept. 
+C
+. Reddish brown male, Bermejo, Santa Cruz Dept. 
+D
+. Dark brown male, Arambulo, Tarija Dept. 
+E
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Pseudomyrmex simplex (Smith, 1877)</tp:taxon-name>
+. 
+F
+. 
+<!--template match = taxonomicName--><tp:taxon-name>P. filiformis (Fabricius, 1804)</tp:taxon-name>
+. 
+G
+. 
+<!--template match = taxonomicName--><tp:taxon-name>P . elongatus (Mayr, 1870)</tp:taxon-name>
+. 
+H
+. 
+<!--template match = taxonomicName--><tp:taxon-name>P. gracilis (Fabricius, 1804)</tp:taxon-name>
+.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745135/files/figure.png"/></fig>
+<!--template match = paragraph--><p>Bulb about 60% of the cymbium length, ovoid, narrowing proximally, tibial apophysis bifurcate, ventral tooth larger; embolus thin, arising from the basal side of the bulb, without complete circular revolution, angular, surrounding bulb prolaterally towards the apical cymbial groove.</p>
+<!--template match = paragraph[descendant::heading][preceding-sibling::paragraph[descendant::heading]]]--><p><bold>
+Variation
+</bold></p>
+<!--template match = paragraph--><p>
+Four different color morphs were observed in males (
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1845-1871-">Fig. 9B–D</xref>
+, 
+<!--template match = tableCitation--><xref>Table 1</xref>
+), with no apparent ontogenetic change in body color. The forms included orange-reddish, completely light brown or dark brown forms (all locations), and variants with dark orange carapace and black abdomen (La Guardia and Villa Teresa). In a sample of 
+51 females
+, 92% were orange with a pair of black spots on the posterior half of the abdomen (
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1845-1871-">Fig. 9A</xref>
+), and 8% dark brown. Orange males with dark spots on their abdomen were not observed. The comparably even distribution of color forms among males, the high number of orange females, and the lack of orange forms with black abdominal spots in males indicate sex-specific polychromatism.
+</p>
+<!--template match = paragraph--><p>
+Geographical and ecoregion distribution
+(
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1954-1980-">Fig. 7</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna nicaraguaensis</tp:taxon-name>
+is known from 
+Nicaragua
+(
+type
+location) and 
+Bolivia
+(present study). In 
+Bolivia
+, it was collected in the following forest 
+types
+: Bolivian Yungas forest (Villa Teresa), Sub-Andean Southwest Amazon moist forest (Buena Vista), and Sub-Andean subhumid semi-deciduous Chiquitano forest (La Guardia, Santa María la 
+Antigua
+).
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-12--189-232-1954-1980-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 7.
+Ecoregion distribution of 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna spp.</tp:taxon-name>
+Orange circle = 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis Cutler, 1993</tp:taxon-name>
+; red star = 
+<!--template match = taxonomicName--><tp:taxon-name>S. myrmeciaeformis ( Taczanowski, 1871 )</tp:taxon-name>
+; blue diamond = 
+<!--template match = taxonomicName--><tp:taxon-name>S. aurantiaca ( Mello-Leitão, 1917 )</tp:taxon-name>
+.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4745141/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-13--191-260-265-291-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Table 1.
+Co-occurrence pattern of Bolivian 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna Hentz, 1846 species</tp:taxon-name>
+and potential model species of 
+<!--template match = taxonomicName--><tp:taxon-name>Pseudomyrmex Lund, 1831</tp:taxon-name>
+(only localities with a sample size higher than n = 12 were considered): 
+<!--template match = taxonomicName--><tp:taxon-name>S. aurantiaca ( Mello-Leitão, 1917 )</tp:taxon-name>
+(I) 2.5–5.5 mm (orange-reddish); (II) 4.6–6.4 mm (light brown); (III) 5.8–7.0 mm (dark brown/blackish); 
+<!--template match = taxonomicName--><tp:taxon-name>S. myrmeciaeformis ( Taczanowski, 1871 )</tp:taxon-name>
+(I) 3.1–6.7 mm (orange); (II) 6.0–8.0 mm (dark brown or orange with black cephalic part); 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis Cutler, 1993</tp:taxon-name>
+(I) male 2.65–5.85 mm (orange-reddish); (II) male 3.45–5.85 mm (brownish); (III) male 3.84–5.05 mm (orange carapace and blackish abdomen); (IV) female 3.45–5.2 mm (orange). Abbreviations: A = Arambulo; C = Cotoca; L = La Guardia; S = Santa María La Antigua; V = Villa Tunari; VT = Villa Teresa. Please note that orange and brown forms of 
+<!--template match = taxonomicName--><tp:taxon-name>Pseudomyrmex triplarinus (Weddell, 1850)</tp:taxon-name>
+were observed. Body length of 
+<!--template match = taxonomicName--><tp:taxon-name>Pseudomyrmex spp.</tp:taxon-name>
+: 
+<!--template match = taxonomicName--><tp:taxon-name>P. simplex (Smith, 1877) BL</tp:taxon-name>
+3.7–4.5 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P . cf. pallidus (Smith, 1855) BL</tp:taxon-name>
+3.3-3.95 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P. triplarinus (Weddell, 1850)</tp:taxon-name>
+(BL 4.8–6.7 mm); 
+<!--template match = taxonomicName--><tp:taxon-name>P. sericeus (Mayr, 1870) BL</tp:taxon-name>
+4.4– 5.05 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P. elongatus (Mayr, 1870) BL</tp:taxon-name>
+2.9–3.8 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P. phyllophilus (Smith, 1858) BL</tp:taxon-name>
+4.9–5.1 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P . cf. filiformis (Fabricius, 1804) BL</tp:taxon-name>
+4.6–5.2 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P. peruvianus (Wheeler, 1925)</tp:taxon-name>
+(BL 3.0–3.5 mm); 
+<!--template match = taxonomicName--><tp:taxon-name>P. gracilis (Fabricius, 1804) BL</tp:taxon-name>
+6.7–11.0 mm; 
+<!--template match = taxonomicName--><tp:taxon-name>P. tenuis (Fabricius, 1804) BL</tp:taxon-name>
+5.3–7.0 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e1082">
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>S. aurantiaca</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>S. myrmeciaeformis</tp:taxon-name>
+</td>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+Potential ant model
+</td>
+<!--template match = td--><td>
+I
+</td>
+<!--template match = td--><td>
+II
+</td>
+<!--template match = td--><td>
+III
+</td>
+<!--template match = td--><td>
+I
+</td>
+<!--template match = td--><td>
+II
+</td>
+<!--template match = td--><td>
+I
+</td>
+<!--template match = td--><td>
+II
+</td>
+<!--template match = td--><td>
+III
+</td>
+<!--template match = td--><td>
+IV
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+Orange forms
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. simplex (Smith, 1877)</tp:taxon-name>
+</td>
+<!--template match = td--><td>A, C</td>
+<!--template match = td--><td>VT, R, V</td>
+<!--template match = td--><td>L, VT, S</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. cf. pallidus (Smith, 1855)</tp:taxon-name>
+</td>
+<!--template match = td--><td>L, VT, S</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. triplarinus (Weddell, 1850)</tp:taxon-name>
+</td>
+<!--template match = td--><td>L, S</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+Brownish forms
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. sericeus (Mayr, 1870)</tp:taxon-name>
+</td>
+<!--template match = td--><td>L, VT, S</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. elongatus (Mayr, 1870)</tp:taxon-name>
+</td>
+<!--template match = td--><td>A, C</td>
+<!--template match = td--><td>L, VT, S</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. phyllophilus (Smith, 1858)</tp:taxon-name>
+</td>
+<!--template match = td--><td>A, C</td>
+<!--template match = td--><td>L</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. cf. filiformis (Fabricius, 1804)</tp:taxon-name>
+</td>
+<!--template match = td--><td>A, C</td>
+<!--template match = td--><td>L, VT</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. peruvianus (Wheeler, 1925)</tp:taxon-name>
+</td>
+<!--template match = td--><td>VT</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. triplarinus (Weddell, 1850)</tp:taxon-name>
+</td>
+<!--template match = td--><td>VT</td>
+<!--template match = td--><td>VT</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. gracilis (Fabricius, 1804)</tp:taxon-name>
+</td>
+<!--template match = td--><td>A, C</td>
+<!--template match = td--><td>VT</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+Orange body/black head
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>P. tenuis (Fabricius, 1804)</tp:taxon-name>
+</td>
+<!--template match = td--><td>R, V</td>
+</tr>
+</table>
+</p>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+The localities in 
+Nicaragua
+and 
+Bolivia
+are more than 
+3500 km
+apart, which is remarkable for such a small arthropod, and would suggest a certain degree of reproductive isolation between both populations. However, the epigyne (examined from drawings by 
+<!--template match = bibRefCitation--><xref rid="ref9669">Cutler 1993</xref>
+) and external morphology (examined from photographs of the 
+type
+) are similar in the 
+type
+specimen of 
+<!--template match = taxonomicName--><tp:taxon-name>S. nicaraguaensis</tp:taxon-name>
+and the Bolivian material. Another species with a wide distributional range, 
+<!--template match = taxonomicName--><tp:taxon-name>S. americana</tp:taxon-name>
+, occurs from 
+Mexico
+to 
+Venezuela
+(
+<!--template match = bibRefCitation--><xref rid="ref9598">Cutler 1981b</xref>
+). The other two Bolivian species of 
+<!--template match = taxonomicName--><tp:taxon-name>Synemosyna</tp:taxon-name>
+have also comparably wide distribution ranges (
+<!--template match = figureCitation--><xref rid="fig-12--189-232-1954-1980-">Fig. 7</xref>
+). The widest collection locations of 
+<!--template match = taxonomicName--><tp:taxon-name>S. aurantiaca</tp:taxon-name>
+are about 
+2200 km
+apart, and of 
+<!--template match = taxonomicName--><tp:taxon-name>S . myrmeciaeformis</tp:taxon-name>
+about 
+3100 km
+. Molecular studies are needed to test whether the low grade of morphological differentiation in these species represents a high gene flow.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

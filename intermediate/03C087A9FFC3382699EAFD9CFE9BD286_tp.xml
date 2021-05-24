@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Liobagrus huaiheensis sp. nov.<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+(
+<!--template match = figureCitation--><xref rid="fig-2--151-250-1235-1259-">Fig. 1</xref>
+; 
+<!--template match = tableCitation--><xref>Table 1</xref>
+)
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus styani</tp:taxon-name>
+: Department of biology, 
+<!--treatment-citation--><tp:nomenclature-citation>
+<!--template match = bibRefCitation--><xref rid="ref4517">Xinxiang Normal University, 1984: 164–166</xref>
+</tp:nomenclature-citation>
+(Xinyang and Linru, 
+Henan
+, 
+China
+).
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Holotype</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">SAULS</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">2012001, 122.1 mm</named-content>
+SL; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Shihe River</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">32°13’27”N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">114°24’10”E</named-content>
+), 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Luoshan County</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Xinyang City</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Henan Province</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">China</named-content>
+; collected by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Z.G Chen</named-content>
+in 2020.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Paratypes</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAULS 1904001–1904003</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">115.5</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">122.6 mm</named-content>
+SL
+</tp:material-citation>
+; 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAULS 2012002–2012006</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">89.8–116.5 mm</named-content>
+SL; collected by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Z.G Chen</named-content>
+in 2019–2020, other information same as 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+</tp:material-citation>
+;
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Non-type specimens</named-content>
+.
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SAULS 1904005–1904010</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">85.3–109.8 mm</named-content>
+SL, same locality as holotype, collected by 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Z.G Chen</named-content>
+in 2019, other information same as 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Diagnosis.
+A member of the group defined by the presence of a serrated posterior edge of the pectoral-fin spine. It can be distinguished from all other species of this group by having a combination of following characteristics: upper jaw longer than lower one (vs. shorter or equal in 
+<!--template match = taxonomicName--><tp:taxon-name>L. marginatus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. nigricauda</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. kingi</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. chenghaiensis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. andersoni</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. obesus</tp:taxon-name>
+), more anal-fin rays (15–17 vs. 
+11–14 in
+<!--template match = taxonomicName--><tp:taxon-name>L. marginatus</tp:taxon-name>
+, 
+9–12 in
+<!--template match = taxonomicName--><tp:taxon-name>L. kingi</tp:taxon-name>
+, 
+10–12 in
+<!--template match = taxonomicName--><tp:taxon-name>L. chenghaiensis</tp:taxon-name>
+and 
+13–14 in
+<!--template match = taxonomicName--><tp:taxon-name>L. mediadiposalis</tp:taxon-name>
+), fewer post-Weberian vertebrae (35–37 vs. more than 
+37 in
+<!--template match = taxonomicName--><tp:taxon-name>L. andersoni</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. mediadiposalis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. obesus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. somjinensis</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. hyeongsanensis</tp:taxon-name>
+), fewer serrations on posterior edge of pectoral-fin spine (2–3 vs. 
+4–6 in
+<!--template match = taxonomicName--><tp:taxon-name>L. mediadiposalis</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. somjinensis</tp:taxon-name>
+), caudal-fin rounded (vs. sub-truncate in 
+<!--template match = taxonomicName--><tp:taxon-name>L. marginatus</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. chenghaiensis</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. andersoni</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. mediadiposalis</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. somjinensis</tp:taxon-name>
+), anus positioned closer to pelvicfin insertion than to anal-fin origin (vs. positioned closer to anal-fin origin than to pelvic-fin insertion in 
+<!--template match = taxonomicName--><tp:taxon-name>L. kingi</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>L. andersoni</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. obesus</tp:taxon-name>
+), presence of a marked incision at confluence between adipose-fin and caudal-fin (vs. absence in 
+<!--template match = taxonomicName--><tp:taxon-name>L. nigricauda</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>L. hyeongsanensis</tp:taxon-name>
+) (
+<!--template match = tableCitation--><xref>Table 2</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description.
+Morphometric and meristic data of 
+holotype
+and 
+paratypes
+are shown in 
+<!--template match = tableCitation--><xref>Table 1</xref>
+. Body elongate, anteriorly terete, and posteriorly evenly compressed to tail. Scales absent. Lateral line short with 4–7 pores. Head depressed and broad when viewed dorsally. Snout broadly rounded when dorsal view. Anterior nostril tubular, rim with fleshy flap forming short tube; posterior nostril porelike, rim posteriorly confluent with base of nasal barbel. Eye small, dorsolateral, and subcutaneous. Mouth sub-terminal; upper jaw slightly longer than lower. Lips thickened. Premaxillary and mandibular toothpads curved, with small and setiform teeth. Palatal teeth absent. Four pairs of barbels, maxillary barbels long, extending beyond pectoral-fin insertion, or to posteriormost margin of preoperculum; nasal barbels short, not extending to gill membrane margin; inner mandibular barbels approximately half of outer mandibular-barbel length, extending to gill membrane margin at isthmus but not to pectoral-fin insertion; outer mental barbels longest, reaching middle of pectoral-fin. Dorsal-fin with II, 6–7 rays, origin closer to snout tip than to adipose-fin origin; distal margin convex; tip of adpressed fins reaching pelvic-fin insertion. Dorsal-fin spine covered by thick skin, straight, with a smooth anterior and posterior margin, about as long as pectoral-fin spine. Adipose-fin low, with its base longer than anal-fin base, confluent with caudal-fin to form a marked incision at confluence. Pectoral fin with I, 6–7 rays, vertical through edge of operculum, partially covered by opercular membrane. Pectoral-fin spine long and sharp, with 2–3 prominent serrations on posterior edge. Pelvic fin with I, 5 rays; short, with adpressed tip not reaching anal-fin origin. Anal-fin with 15–17 rays; distal margin rounded; tip of adpressed fins reaching beyond posterior edge of adipose-fin. Anus positioned closer to pelvic-fin insertion than to anal-fin origin. Caudal-fin rounded, with 50–55 rays. Vertebral with 35–37 post-Weberian elements. Gill rakers 6–8.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-2--151-250-1235-1259-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 1.
+Lateral (upper), ventral (middle) and dorsal (lower) of 
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus huaiheensis , SAULS</tp:taxon-name>
+2012001, holotype, 122.1 mm SL.China: Henan Province: Luoshan County: Shihe.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4673991/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-2--151-250-1960-1984-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 2.
+Dorsal view of the pectoral-fin spine from the right side of 
+
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus huaiheensis</tp:taxon-name>
+.
+
+Dissected species catalogued number: SAUC20001.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4673993/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Coloration.
+Body generally brownish yellow, with irregular yellowish blotches, fading to light yellow on ventrally. All barbels yellowish. Dorsal, adipose and caudal-fin brownish yellow; pectoral, pelvic and anal-fin yellowish. All fins with narrow, yellowish distal margins (
+<!--template match = figureCitation--><xref rid="fig-3--151-250-879-903-">Fig. 3</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-879-903-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 3.
+Lateral view of 
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus huaiheensis</tp:taxon-name>
+in life individual, SAULS 2012003, 122.6 mm SL, China: Henan Province: Luoshan County: Shihe River.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4673995/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution and ecology
+. 
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus huaiheensis</tp:taxon-name>
+is known from the Shihe River, a tributary of the Huaihe River, Luoshan County, 
+Henan Province
+(
+<!--template match = figureCitation--><xref rid="fig-3--151-250-1999-2023-">Fig. 4</xref>
+). 
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus huaiheensis</tp:taxon-name>
+is nocturnal and benthic, mainly prey on aquatic insects and crustacea. It inhabits the bottom of running waters with large pebbly substrates.
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-3--151-250-1999-2023-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 4.
+Distribution of Chinese species of 
+<!--template match = taxonomicName--><tp:taxon-name>Liobagrus</tp:taxon-name>
+with a serrated posterior edge of the pectoral-fin spine.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4673997/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="etymology">
+<!--template match = paragraph--><p>
+Etymology.
+The species is named after the Huaihe River, its 
+type
+locality is a tributary of the Huaihe River. An adjective.
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

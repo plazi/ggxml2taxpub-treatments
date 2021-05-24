@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Troglocharinus vinyasi ( Escolà, 1971 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus vinyasi Escolà, 1971: 32</tp:taxon-name>
+</p>
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus ( Troglocharinus ) vinyasi (Escolà)</tp:taxon-name>
+: 
+
+<!--treatment-citation--><tp:nomenclature-citation>Fresneda, 1998: 64</tp:nomenclature-citation>
+
+</tp:nomenclature-citation-list>
+
+<!--template match = paragraph--><p>
+
+Lectotype
+designation of 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus vinyasi Escolà, 1971</tp:taxon-name>
+.
+
+Holotype
+and 
+syntypes
+were not designated at the species description (
+<!--template match = bibRefCitation--><xref rid="ref17428">Escola, 1971</xref>
+); therefore the specimens used in this study are considered 
+syntypes
+(
+<!--template match = bibRefCitation--><xref rid="ref18205">ICZN, 1999</xref>
+: 72.1.1). Furthermore the type series of 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus vinyasi</tp:taxon-name>
+includes specimens of two different species, which requires the designation of a unique 
+lectotype
+to avoid taxonomic misinterpretations.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Type series
+. 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">Lectotype</named-content>
+</named-content>
+(by present designation) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="figureCitation">Fig. 70</named-content>
+): “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Av. del Mort</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Peramola</named-content>
+/ 25-X-70 ϐ / 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">C. Ribera</named-content>
+leg.”, “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Speonomus</named-content>
+</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">vinyasi</named-content>
+</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicNameLabel">n sp.</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="determinerName">O. Escolá</named-content>
+det.”, “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Paratipo</named-content>
+” [invalid label], “ϐ2”, “78-1084 / 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+”, “ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">LECTOTY-PUS</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Speonomus</named-content>
+</named-content>
+/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">vinyasi</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Escolà, 1971</named-content>
+</named-content>
+/ Fresneda, Rizzo, / Comas &amp; Ribera des. 2020” (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+), aedeagus mounted on a transparent card in the same pin.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+
+Paralectotypes
+
+: 
+1 ♀
+: “Av. del Mort 
+♀
+/ Peramola 1-XI-69 / M.D.Romero-E. Roca leg.”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+/ O. Escolá det.”, “ 
+Paratypus
+” [invalid label], “78-1091 / 
+MZB
+” (
+MZB
+). 1 ϐ: “Av. del Mort / Peramola /1- XI-69 / E. Roca-C. Ribera leg.”, “org. cop. ϐ”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+/ O. Escolá det.”, “Tipo” [invalid label], “ϐ1”, “78-1083 / 
+MZB
+” (
+MZB
+). 3 ϐϐ: “Av. del Mort / Peramola / 25-X-70 ϐ / C. Ribera leg.”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+/ O. Escolá det.”, “Paratipo” [invalid label], “ϐ3 [ϐ4-ϐ5]” “78-1085 / 
+MZB
+-78-1086 / 
+MZB
+- 78-1087 / 
+MZB
+” (
+MZB
+). 
+4 ♀♀
+: “Av. del Mort / Peramola / 25-X- 
+70 ♀
+/ C. Ribera leg.”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+♀
+/ O. Escolá det.”, “Paratipo” [invalid label], “78-1088 / 
+MZB
+- 78-1089 / 
+MZB
+- 78-1090 / 
+MZB
+” (
+MZB
+). 1 ϐ: “Av. Pau Esteve [= Pou del Dring] / Peramola (Oliana) / 18-I-70 / M. Ubach- ϐ1 / O. Escolá leg.”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+/ O. Escolá det.”, “Paratipo” [invalid label], “ϐ1”, “78-1092 / 
+MZB
+” (
+MZB
+). 1 ϐ: “Av. Pau Esteve / (= Pou del Dring) / Peramola ϐ / 18-I-70 / O. Escolá leg.”, “ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus</tp:taxon-name>
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>vinyasi</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->n. sp.
+
+/ O. Escolá det.”, “Paratipo” [invalid label], “78-1093 / 
+MZB
+” (
+MZB
+). 
+1 ♀
+: “Av. de la Roca / del Corb / Peramola / 29-XI-70 / X. Bellés, / J. Comas leg.”, “Paratipo” [invalid label] (
+CJC
+). All the specimens with 
+paralectotype
+label: “ 
+PARALECTOTYPUS
+/ 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus vinyasi</tp:taxon-name>
+/ 
+<!--template match = bibRefCitation--><xref rid="ref17428">Escolà, 1971</xref>
+Fresneda, Rizzo, / Comas &amp; Ribera des. 2020”. To these specimens should be added all the 
+paralectotypes
+of 
+<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+that are designated as 
+paratypes
+of 
+<!--template match = taxonomicName--><tp:taxon-name>T. fadriquei</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+(see list under 
+<!--template match = taxonomicName--><tp:taxon-name>T. fadriquei</tp:taxon-name>
+
+<!--template match = taxonomicNameLabel-->sp. nov.
+
+above),
+</p>
+<!--template match = paragraph--><p>
+Additional studied material:
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">Spain</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Lleida</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Peramola</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCounty">Avenc de la Roca del Corb</named-content>
+, 31 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">T 4659411</named-content>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">356378, 866 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19-3-2017</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Fadrique</named-content>
+leg., 1 ϐ (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">IBE</named-content>
+, specimen used for DNA extraction and sequencing, voucher number IBE-AN790)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+
+Type locality (
+lectotypus
+).
+
+<!--template match = materialsCitation--><tp:material-citation>
+Peramola, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Avenc del Mort</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Escolà 1971</named-content>
+)
+</tp:material-citation>
+.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="diagnosis">
+<!--template match = paragraph--><p>
+Differential diagnosis.
+Bathyscioid species of 
+<!--template match = taxonomicName--><tp:taxon-name>Troglocharinus</tp:taxon-name>
+with well-developed mesoventral keel, with hook-like vertex; first male protarsomere narrower than apex of tibia, as long as 2nd–4th tarsomeres. Median lobe of aedeagus very large, regularly curved in lateral view, apex elongated and sinuate. Endophallus with very large NCs; NFVM deeply notched, larger branch directed towards apex; PF2 triangular. Spiculum of the female urite viii short, wide and with truncated apex. Lobes of the spermatheca ony slightly wider than median region, which is strongly bended.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Description of the species.
+Habitus as in 
+<!--template match = figureCitation--><xref rid="fig-32--151-250-1180-1204-">Fig. 70</xref>
+. Body length 3.2 mm. Body shape oval, wide. Body surface finely punctated on pronotum, with transverse striolas on elytra. With fine, yellowish, recumbent inconspicuous pubescence.
+</p>
+<!--template match = paragraph--><p>
+Antennomere length as in 
+<!--template match = tableCitation--><xref>Table 3</xref>
+. Pronotum transverse, lateral margins regularly arched, slightly narrower than elytra, with maximum width at base (maximum width = 1.6 x length = 0.8 mm.).
+</p>
+<!--template match = paragraph--><p>Elytra elongated, strongly tapering towards apex, maximum width on anterior half.</p>
+<!--template match = paragraph--><p>Mesoventral keel well developed, with hook-like vertex.</p>
+<!--template match = paragraph--><p>
+Legs long, especially posterior legs. Mesotibia weakly arched, first protrarsomere (
+<!--template match = figureCitation--><xref rid="fig-18--151-264-1918-1942-">Fig. 11</xref>
+) narrower than apex of tibiae, as long as 2nd–4th together.
+</p>
+<!--template match = paragraph--><p>
+Median lobe of aedeagus with strongly sinuous margins in dorsal view (
+<!--template match = figureCitation--><xref rid="fig-22--151-264-1951-1975-">Fig. 24</xref>
+), with apex apparently notched; regularly curved in lateral view (
+<!--template match = figureCitation--><xref rid="fig-20--151-264-1699-1723-">Fig. 19</xref>
+); apex elongated and sinuate.
+</p>
+<!--template match = paragraph--><p>Lateral stylus of the tegmen slightly sinuate, somewhat shorter than median lobe and with three long, setae on apex, two inserted laterally, one curved and other sinuate; third seta shorter, thin and straight, inserted on the opposed side. Membranous lamina long, elongated, with a long and dense tuff of setae (“penicillum”) inserted in the apical region, including the membranous lamina.</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+TABLE 3.
+Length of the antennomeres. All values in mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""/></fig>
+<!--template match = paragraph--><p>
+<!--template match = table--><table id="d1e687">
+<!--template match = tr--><tr>
+<!--template match = td--><td>Species</td>
+<!--template match = td--><td>
+Antennomeres
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>I</td>
+<!--template match = td--><td>II</td>
+<!--template match = td--><td>III</td>
+<!--template match = td--><td>IV</td>
+<!--template match = td--><td>V</td>
+<!--template match = td--><td>VI</td>
+<!--template match = td--><td>VII</td>
+<!--template match = td--><td>VIII</td>
+<!--template match = td--><td>IX</td>
+<!--template match = td--><td>X</td>
+<!--template match = td--><td>
+XI
+</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. sendrai</tp:taxon-name>
+
+sp. no 
+v.
+
+ϐ
+</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.26</td>
+<!--template match = td--><td>0.31</td>
+<!--template match = td--><td>0.29</td>
+<!--template match = td--><td>0.29</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.18</td>
+<!--template match = td--><td>0.25</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. sendrai</tp:taxon-name>
+
+sp. no 
+v.
+
+♀
+</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.25</td>
+<!--template match = td--><td>0.23</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.15</td>
+<!--template match = td--><td>0.17</td>
+<!--template match = td--><td>0.15</td>
+<!--template match = td--><td>0.23</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. fadriquei</tp:taxon-name>
+
+sp. no 
+v.
+
+ϐ
+</td>
+<!--template match = td--><td>0.27</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.27</td>
+<!--template match = td--><td>0.32</td>
+<!--template match = td--><td>0.29</td>
+<!--template match = td--><td>0.33</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.23</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.25</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. fadriquei</tp:taxon-name>
+
+sp. no 
+v.
+
+♀
+</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.26</td>
+<!--template match = td--><td>0.30</td>
+<!--template match = td--><td>0.25</td>
+<!--template match = td--><td>0.27</td>
+<!--template match = td--><td>0.15</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.18</td>
+<!--template match = td--><td>0.24</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+ϐ
+</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.17</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.21</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.11</td>
+<!--template match = td--><td>0.13</td>
+<!--template match = td--><td>0.13</td>
+<!--template match = td--><td>0.22</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. mengeli</tp:taxon-name>
+♀
+</td>
+<!--template match = td--><td>0.23</td>
+<!--template match = td--><td>0.21</td>
+<!--template match = td--><td>0.17</td>
+<!--template match = td--><td>0.18</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.12</td>
+<!--template match = td--><td>0.14</td>
+<!--template match = td--><td>0.12</td>
+<!--template match = td--><td>0.20</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+ϐ
+</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.23</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.24</td>
+<!--template match = td--><td>0.13</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.17</td>
+<!--template match = td--><td>0.23</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. mercedesi</tp:taxon-name>
+♀
+</td>
+<!--template match = td--><td>0.21</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.19</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.12</td>
+<!--template match = td--><td>0.15</td>
+<!--template match = td--><td>0.14</td>
+<!--template match = td--><td>0.22</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+ϐ
+</td>
+<!--template match = td--><td>0.27</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.25</td>
+<!--template match = td--><td>0.30</td>
+<!--template match = td--><td>0.27</td>
+<!--template match = td--><td>0.30</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.21</td>
+<!--template match = td--><td>0.20</td>
+<!--template match = td--><td>0.24</td>
+</tr>
+<!--template match = tr--><tr>
+<!--template match = td--><td>
+<!--template match = taxonomicName--><tp:taxon-name>T. vinyasi</tp:taxon-name>
+♀
+</td>
+<!--template match = td--><td>0.26</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.28</td>
+<!--template match = td--><td>0.16</td>
+<!--template match = td--><td>0.22</td>
+<!--template match = td--><td>0.18</td>
+<!--template match = td--><td>0.20</td>
+</tr>
+</table>
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-32--151-250-1180-1204-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+FIGURE 70.
+Lectotypus of 
+<!--template match = taxonomicName--><tp:taxon-name>Speonomus vinyasi</tp:taxon-name>
+.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4505974/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Intersal sac of the aedeagus (
+<!--template match = figureCitation--><xref rid="fig-22--151-264-1951-1975-">Fig. 24</xref>
+) with very large NCs; NFVM deeply notched, larger branch directed towards apex; PF2 triangular.
+</p>
+<!--template match = paragraph--><p>
+Female.
+Protarsi not dilated, filiform; antennae shorter. Spiculum of the urite viii short, wide and with truncated apex (
+<!--template match = figureCitation--><xref rid="fig-29--151-264-1784-1808-">Fig. 62</xref>
+). Lobes of the spermatheca ony slightly wider than median region, which is strongly bended (
+<!--template match = figureCitation--><xref rid="fig-28--151-264-1907-1931-">Fig. 57</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+(
+<!--template match = figureCitation--><xref rid="fig-33--151-250-1993-2017-">Fig. 71</xref>
+). Known from several caves in Serra de l’Arcosa, right margin of the river Segre, in the surrounding area of Peramola, Lleida (
+<!--template match = bibRefCitation--><xref rid="ref17428">Escolà 1971</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref17452">1973</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref17480">1980</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref17507">1986</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref17690">Español 1976</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref16828">Bellés 1978a</xref>
+, 
+<!--template match = bibRefCitation--><xref rid="ref17009">1987</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref17158">Bellés &amp; Escolà 1979</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref17124">Bellés &amp; Déliot 1983</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref17908">Fresneda 1998</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref18493">Perreau 2000</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref18428">Löbl &amp; Smetana 2004</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref18846">
+Salgado 
+et al
+. 2008
+</xref>
+; 
+<!--template match = bibRefCitation--><xref rid="ref18026">Fresneda &amp; Salgado 2017</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Lleida
+:
+</p>
+<!--template match = paragraph--><p>
+1.
+<!--template match = materialsCitation--><tp:material-citation>
+Peramola, Avenc Viladrich, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="elevation">940 m</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">7-3-1971</named-content>
+</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Bellés</named-content>
+&amp; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Comas</named-content>
+leg. (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectionCode">MZB</named-content>
+) (
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="bibRefCitation">Fresneda &amp; Salgado 2017</named-content>
+)
+</tp:material-citation>
+.
+</p>
+<!--template match = paragraph--><p>
+2.
+Peramola, Pou del Dring (
+<!--template match = bibRefCitation--><xref rid="ref17428">Escolà, 1971</xref>
+) (Avenc de Pau Esteve, 
+<!--template match = bibRefCitation--><xref rid="ref17452">Escolà 1973</xref>
+); 
+18-1-1970
+, 2 exx. (
+<!--template match = bibRefCitation--><xref rid="ref17480">Escolà 1980</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+3.
+Peramola, Avenc de la Roca del Corb (
+<!--template match = bibRefCitation--><xref rid="ref17428">Escolà 1971</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+4.
+Peramola, Avenc del Mort (
+<!--template match = bibRefCitation--><xref rid="ref17428">Escolà 1971</xref>
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>

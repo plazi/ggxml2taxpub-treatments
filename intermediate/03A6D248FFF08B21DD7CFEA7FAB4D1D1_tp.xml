@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?><!--template match = treatment-->
+<!DOCTYPE tp:taxon-treatment
+  PUBLIC "-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN" "https://raw.githubusercontent.com/plazi/TaxPub/TaxPubJATS-blue/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!--subSubSection[@type = 'nomenclature']--><tp:nomenclature><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )<object-id/></tp:taxon-name><xref/></tp:nomenclature>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+<!--template match = figureCitation--><xref rid="fig-">Figs 64–69</xref>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="reference_group">
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium amboinae Plate, 1893: 177–179</tp:taxon-name>
+, pl. 7, fig. 8, pl. 11, fig. 66.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Oncis coeca Plate, 1893: 199–200</tp:taxon-name>
+, pl. 7, fig. 9.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Oncis lata</tp:taxon-name>
+– von 
+
+<!--treatment-citation--><tp:nomenclature-citation>Martens 1897: 128</tp:nomenclature-citation>
+
+[non 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis lata Plate, 1893</tp:taxon-name>
+].
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Oncis coeca</tp:taxon-name>
+– 
+
+<!--treatment-citation--><tp:nomenclature-citation>Stantschinsky 1907: 395</tp:nomenclature-citation>
+
+. — 
+
+<!--treatment-citation--><tp:nomenclature-citation>Hoffmann 1928: 86–87</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Oncis amboinae</tp:taxon-name>
+– 
+
+<!--treatment-citation--><tp:nomenclature-citation>Hoffmann 1928: 86–87</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+
+<!--treatment-citation-group--><tp:nomenclature-citation-list>
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+– 
+
+<!--treatment-citation--><tp:nomenclature-citation>Dayrat 2009: 5</tp:nomenclature-citation>
+
+.
+</tp:nomenclature-citation-list>
+
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Material examined</title>
+<!--template match = paragraph--><p>
+
+Lectotype
+
+(here designated)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">lectotype</named-content>
+(28/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">18 mm</named-content>
+); Amboina [Ambon]; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">von Martens</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 11621a</named-content>
+.
+</tp:material-citation>
+</p>
+<!--template match = paragraph--><p>
+
+Paralectotypes
+
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">9 paralectotypes</named-content>
+(
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">
+29/20 to 18/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 mm</named-content>
+</named-content>
+</named-content>
+); same collection data as for lectotype; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 11621b</named-content>
+</tp:material-citation>
+.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-108--189-232-1809-1835-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 63.
+Habitats of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex aptei Goulding &amp; Dayrat</tp:taxon-name>
+<!--template match = taxonomicNameLabel-->sp. nov.
+A
+. India, Andaman Islands, mangrove creek, open, lots of dead logs and trees (station 58). 
+B
+. India, Andaman Islands, ditches by road to the mangroves with high trees (station 57). 
+C
+. Peninsular Malaysia, Matang, large, old 
+<!--template match = taxonomicName--><tp:taxon-name>Rhizophora</tp:taxon-name>
+forest, hard mud and open space (station 256). 
+D
+. Peninsular Malaysia, Matang, large, old 
+<!--template match = taxonomicName--><tp:taxon-name>Rhizophora</tp:taxon-name>
+forest, hard mud and open space between trees (station 29).
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594481/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+
+Holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis coeca</tp:taxon-name>
+
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="typeStatus">holotype</named-content>
+(27/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">16 mm</named-content>
+) by monotypy; Amboina [Ambon]; expedition 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">Gazelle</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 27446</named-content>
+.
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph--><p>
+Notes on type material
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium amboinae</tp:taxon-name>
+. The notum of the 
+lectotype
+was cut open for the present study to examine the internal anatomy; no internal organs were removed. Three 
+paralectotypes
+(29/20, 28/21 and 27/ 
+23 mm
+) are completely empty with no internal organs. Two 
+paralectotypes
+(25/17 and 24/ 
+15 mm
+) were previously dissected, with their internal organs remaining except for the male parts. Four 
+paralectotypes
+(24/14, 23/20, 20/15 and 18/ 
+12 mm
+) are still unopened.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Oncis coeca</tp:taxon-name>
+. Parts of the posterior (female) reproductive system and of the digestive system are still present in the 
+holotype
+, although they were previously dissected into pieces, likely by Plate himself. Of the male reproductive parts, only the deferent duct remains.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="materials_examined">
+<!--template match = paragraph--><p>
+Other material
+</p>
+<!--template match = paragraph--><p>
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingCountry">INDONESIA</named-content>
+– 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Seram</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">1 spec.</named-content>
+(38/28 [2883] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="location">Piru</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">03°04.072′ S</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°11.362′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">19 Feb. 2014</named-content>
+</named-content>
+; station 136; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+beach of palms and 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Acrostichum</named-content>
+</named-content>
+ferns behind 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Sonneratia</named-content>
+</named-content>
+mangrove
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00105</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Halmahera</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">2 specs</named-content>
+(32/14 [5043] and 32/22 [5843] mm); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Buli</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">00°55.367′ N</named-content>
+, 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="geoCoordinate">128°20.647′ E</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="date">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingDate">17 Mar. 2015</named-content>
+</named-content>
+; station 213; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectedFrom">
+tall and old 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="taxonomicName">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">Rhizophora</named-content>
+</named-content>
+forest, high intertidal
+</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">UMIZ 00106</named-content>
+</tp:material-citation>
+. – 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="emphasis">
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingRegion">Sulawesi</named-content>
+</named-content>
+• 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">5 specs</named-content>
+(30/25, 20/20, 20/15, 18/15 and 15/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">15 mm</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectingMunicipality">Luwu</named-content>
+; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="collectorName">M. Weber</named-content>
+leg.; 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">ZMB/Moll 46314</named-content>
+</tp:material-citation>
+• 
+<!--template match = materialsCitation--><tp:material-citation>
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCount">3 specs</named-content>
+(25/20, 22/17 [#1] and 15/ 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="quantity">12 mm</named-content>
+); 
+<!--template match = materialsCitation//*[not(self::* = paragraph)]--><named-content content-type="specimenCode">SMF 333602/3</named-content>
+.
+</tp:material-citation>
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-109--189-232-1892-1918-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 64.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )</tp:taxon-name>
+, live and preserved animals, Indonesia. 
+A
+. Dorsal view, 38 mm long [2883], Seram (UMIZ 00105). 
+B
+. Ventral view, same as A. 
+C
+. Dorsal view, 32 mm long [5043], Halmahera (UMIZ 00106). 
+D
+. Ventral view, same as C. 
+E
+. Dorsal view, preserved specimen, 32 mm long [5843], Halmahera (UMIZ 00106). 
+F
+. Ventral view, same as E.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594483/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Description</title>
+<!--template match = paragraph--><p>
+Color and morphology of live animals
+(
+<!--template match = figureCitation--><xref rid="fig-109--189-232-1892-1918-">Fig. 64</xref>
+) Live animals are usually not covered with mud, and their natural color is usually mostly visible without washing. The dorsal notum varies from light brown to dark brown, almost black. The hyponotum varies from grey to dark blue, almost black. The foot is yellowish-grey to dark grey (almost black). Dorsal papillae are short (&lt;
+1 mm
+) and do not bear eyes. Large, thorny papillae are absent.
+</p>
+<!--template match = paragraph--><p>
+Digestive system
+(
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1680-1706-">Figs 3</xref>
+C–E, 65–66, 67A) Radulae measure up to 
+5.2 mm
+long. Examples of radular formulae are presented in 
+<!--template match = tableCitation--><xref>Table 5</xref>
+. The intestinal loops are of 
+type
+III, with a transitional loop oriented between 1 and 6 o’clock (
+<!--template match = figureCitation--><xref rid="fig-16--189-232-1680-1706-">Figs 3</xref>
+C–E, 66A–B). The intestinal loops of the 
+lectotype
+(
+<!--template match = figureCitation--><xref rid="fig-112--189-232-1697-1723-">Fig. 67A</xref>
+) are indistinguishable from those observed in a specimen from 
+Sulawesi
+(
+<!--template match = figureCitation--><xref rid="fig-111--189-232-1820-1846-">Fig. 66B</xref>
+).
+</p>
+<!--template match = paragraph--><p>
+Reproductive system
+(
+<!--template match = figureCitation--><xref rid="fig-112--189-232-1697-1723-">Figs 67</xref>
+B–68) In the posterior part of the reproductive system, the oviduct is slightly wider than the deferent duct. Its distal section (distal to the spermatheca) is slightly shorter than its proximal section (or of the same length). The deferent duct is much longer than the oviduct, not attached to it, and highly coiled with long loops. The distal, flexible region of the penis is from 
+1 to 2.5 mm
+long and bears no hooks. The posterior retractor muscle of the penis inserts within the anterior half of the visceral cavity (and near the nervous system in specimens from Halmahera). The retractor muscle varies from approximately half the length of the penial sheath to as long as the penial sheath. The deferent duct is highly convoluted, with many loops around the penis. The deferent duct is twice as wide distally as proximally.
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-110--189-232-1926-1952-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 65.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )</tp:taxon-name>
+, radula, Indonesia, Seram [2883]. 
+A
+. Rachidian and innermost lateral teeth. 
+B
+. Lateral teeth with rachidian teeth. 
+C
+. Lateral teeth. 
+D
+. Outermost lateral teeth. Abbreviation: lp = lateral protuberance. Scale bars: A, D = 20 μm; B = 30 μm; C = 100 μm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594485/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+Distinctive diagnostic features
+(
+<!--template match = tableCitation--><xref>Table 4</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Externally, the lack of dorsal eyes is shared by both 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+. However, the lack of dorsal eyes should be used with caution for identification because dorsal eyes often are retracted (and thus hard to see). 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+can be distinguished from 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+by the presence of smaller dorsal papillae (the papillae of 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+are larger and thorny). Internally, intestinal loops of 
+type
+III are found in only two species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+, 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+. Both species, however, can be distinguished by the deferent duct in the anterior reproductive system, which seems to be slightly more convoluted in 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+than in 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+, although this should probably be evaluated with additional individuals. Based on the available data, however, 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. latus</tp:taxon-name>
+do not overlap geographically (
+<!--template match = figureCitation--><xref rid="fig-36--189-232-1716-1742-">Fig. 10</xref>
+).
+</p>
+</tp:treatment-sec>
+<!--template match = caption[child::paragraph]--><fig id="fig-111--189-232-1820-1846-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 66.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )</tp:taxon-name>
+, digestive system, dorsal view, intestinal loops of type III. 
+A
+. Transitional loop oriented at 2 o’clock, Seram, Indonesia [2883] (UMIZ 00105). 
+B
+. Transitional loop oriented at 6 o’clock, Sulawesi, Indonesia [#1] (SMF 333602). Abbreviations: ddg = dorsal digestive gland; i = intestine; pdg = posterior digestive gland; rg = rectal gland; st = stomach. Scale bars: A = 4 mm; B = 3 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594489/files/figure.png"/></fig>
+<!--template match = caption[child::paragraph]--><fig id="fig-112--189-232-1697-1723-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 67.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )</tp:taxon-name>
+, digestive and reproductive systems, lectotype, Ambon, Indonesia (ZMB/Moll 11621a). 
+A
+. Digestive system, dorsal view, type III,with a transitional loop oriented at 1 o’clock. 
+B
+. Posterior reproductive system. 
+C
+. Anterior, male copulatory apparatus. Abbreviations: dd = deferent duct; ddg = dorsal digestive gland; fgm = female gland mass; hd = hermaphroditic duct; hg = hermaphroditic gland; i = intestine; ov = oviduct; pdg = posterior digestive gland; ps = penial sheath; rg = rectal gland; rm = retractor muscle; rs = receptaculum seminis; sp = spermatheca; st = stomach; v = vestibule. Scale bars: A = 4 mm; B = 3 mm; C = 2 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594491/files/figure.png"/></fig>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="distribution">
+<!--template match = paragraph--><p>
+Distribution
+(
+<!--template match = figureCitation--><xref rid="fig-36--189-232-1716-1742-">Fig. 10C</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+Indonesia
+: 
+Ambon
+(
+type
+locality of both 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. coecus</tp:taxon-name>
+), Halmahera (new record) and Seram (new record).
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="description">
+<!--template match = paragraph--><p>
+Habitat
+(
+<!--template match = figureCitation--><xref rid="fig-114--191-234-1926-1952-">Fig. 69</xref>
+)
+</p>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+is found on dead logs or tree trunks but not directly on mud, within a mangrove forest or in the higher intertidal adjacent to mangrove trees. It is not found on rocky shores.
+</p>
+</tp:treatment-sec>
+<!--template match = subSubSection[ancestor::treatment]--><tp:treatment-sec sec-type="discussion">
+<!--template match = paragraph[descendant::heading]--><!--template match = heading--><title>Remarks</title>
+<!--template match = paragraph--><p>
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium amboinae</tp:taxon-name>
+needs to be transferred to the genus 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+due to the following combination of characters of the 
+lectotype
+: flattened body, male pore slightly to the right of the midline between the ocular tentacles and no accessory penial gland. 
+<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 178)</xref>
+also indicated that there is a rectal gland in the original description, and it is clearly present in the 
+lectotype
+(as in all 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+slugs). The absence of dorsal eyes and a short penis with no hooks mentioned by 
+<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 177)</xref>
+were confirmed by our examination of the 
+lectotype
+. The hyponotum color was described as black with a white margin (
+1 to 1.5 mm
+wide), which is exactly what was observed in one of our live specimens. However, 
+<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 178)</xref>
+described an intestine of type II in 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium amboinae</tp:taxon-name>
+, while the intestine of the 
+lectotype
+(and of all newly-collected individuals) is clearly of type III (
+<!--template match = figureCitation--><xref rid="fig-112--189-232-1697-1723-">Fig. 67A</xref>
+).
+</p>
+<!--template match = caption[child::paragraph]--><fig id="fig-113--191-234-1855-1881-" fig-type="figure" position="float"><caption>
+<!--template match = paragraph--><p>
+Fig. 68.
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae ( Plate, 1893 )</tp:taxon-name>
+, reproductive system, Seram, Indonesia [2883] (UMIZ 00105). 
+A
+. Posterior reproductive system. 
+B
+. Anterior, male copulatory apparatus. Abbreviations: dd = deferent duct; fgm = female gland mass; hd = hermaphroditic duct; hg = hermaphroditic gland; ov = oviduct; ps = penial sheath; rm = retractor muscle; rs = receptaculum seminis; sp = spermatheca; v = vestibule. Scale bars: A = 4 mm; B = 2 mm.
+</p>
+</caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://zenodo.org/record/4594493/files/figure.png"/></fig>
+<!--template match = paragraph--><p>
+The 
+holotype
+of 
+<!--template match = taxonomicName--><tp:taxon-name>P. coecus</tp:taxon-name>
+(by monotypy) is characterized by a combination of traits diagnostic of species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+: a flattened body, a male opening slightly to the right of the midline between the ocular tentacles, a rectal gland and no accessory penial gland. In the original description, 
+<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893:199– 200)</xref>
+indicated a grayish-yellow sole and a black-blue hyponotum with a white margin, and also the absence of dorsal eyes. The only species in 
+Ambon
+which lacks dorsal eyes is 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+. 
+<!--template match = bibRefCitation--><xref rid="ref72283">Hoffmann (1928: 86–87)</xref>
+transferred 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidium amboinae</tp:taxon-name>
+to 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis</tp:taxon-name>
+(i.e., 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+) and considered 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis coeca</tp:taxon-name>
+(i.e., 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex coecus</tp:taxon-name>
+) to be a synonym of 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis amboinae</tp:taxon-name>
+(i.e., 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+). 
+<!--template match = bibRefCitation--><xref rid="ref72690">Labbé (1934: 234–235)</xref>
+agreed with Hoffmann even though he did not examine any new material. The deferent duct in the penial apparatus and in the posterior part of the reproductive system is extremely convoluted, exactly like in 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+. The pieces of the intestine of the 
+holotype
+were put together and are of type III, although 
+<!--template match = bibRefCitation--><xref rid="ref73697">Plate (1893: 200)</xref>
+described a digestive system of type II. There is no anatomical difference between the name-bearing types of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex coecus</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+, both of which were described from 
+Ambon
+, 
+Indonesia
+. We did not find 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+during our mangrove survey in 
+Ambon
+but we found it on the nearby island of Seram, where it seems to be rare. 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+was also rare in Halmahera. It may still be present in 
+Ambon
+, but most likely as a rare species.
+</p>
+<!--template match = paragraph--><p>
+Two lots previously identified as 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis lata</tp:taxon-name>
+from 
+Sulawesi
+are re-identified here as 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+(ZMB/Moll 46314, SMF 333602/3). The original label for ZMB/Moll 46314 indicates that the specimens were collected in Luwu by M. Weber, which means that they are very likely the specimens which von 
+<!--template match = bibRefCitation--><xref rid="ref73284">Martens (1897: 128)</xref>
+identified as 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis lata</tp:taxon-name>
+. Von Martens indicated that he examined 
+10 specimens
+. Five of those are in 
+Berlin
+(ZMB/Moll 46314) and three of them are in Frankfurt-am-Main (SMF 333602/3), which were originally part of the Heidelberg collections. The specimens examined here all lack dorsal eyes, a character shared by both 
+<!--template match = taxonomicName--><tp:taxon-name>P. lata</tp:taxon-name>
+and 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+, but they also lack the large, thorny papillae that are diagnostic of 
+<!--template match = taxonomicName--><tp:taxon-name>P. lata</tp:taxon-name>
+, suggesting that they belong to 
+<!--template match = taxonomicName--><tp:taxon-name>P. amboinae</tp:taxon-name>
+.
+</p>
+<!--template match = paragraph--><p>
+<!--template match = bibRefCitation--><xref rid="ref72690">Labbé (1934: 234–235)</xref>
+described a specimen (14/ 
+11 mm
+) from 
+New Zealand
+which he identified as 
+<!--template match = taxonomicName--><tp:taxon-name>Oncis amboinae</tp:taxon-name>
+. However, if Labbé’s description is accurate, this specimen cannot be part of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex amboinae</tp:taxon-name>
+or any species of 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+because 
+<!--template match = bibRefCitation--><xref rid="ref72690">Labbé (1934: 235)</xref>
+indicated that a group of dorsal eyes was present in the middle of the notum (in 
+<!--template match = taxonomicName--><tp:taxon-name>Platevindex</tp:taxon-name>
+, dorsal eyes are always single). It is unclear which species Labbé examined, as 
+<!--template match = taxonomicName--><tp:taxon-name>Onchidella</tp:taxon-name>
+is the only onchidiid genus documented so far in 
+New Zealand
+. The combination of traits mentioned in the brief description (dorsal eyes, no accessory penial gland and no penial hooks), suggests it could be a 
+<!--template match = taxonomicName--><tp:taxon-name>Wallaconchis</tp:taxon-name>
+slug, although that is incompatible with intestinal loops of 
+type
+II. Besides, 
+<!--template match = taxonomicName--><tp:taxon-name>Wallaconchis</tp:taxon-name>
+is not known south of 
+New Caledonia
+. Most likely, as often with Labbé’s work, the locality or the description, or even both, are erroneous (
+<!--template match = bibRefCitation--><xref rid="ref71234">
+Dayrat 
+et al.
+2020
+</xref>
+).
+</p>
+</tp:treatment-sec>
+</tp:taxon-treatment>
