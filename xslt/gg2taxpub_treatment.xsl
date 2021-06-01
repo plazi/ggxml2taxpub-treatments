@@ -17,6 +17,7 @@
         <xsl:apply-templates select="//treatment"/>
     </xsl:template>
     
+    
 
     <xsl:template match="subSection"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = subSection</xsl:comment></xsl:if>
         <sec>
@@ -42,10 +43,6 @@
             <xsl:apply-templates select="paragraph[bibRef] | bibRef"/>
         </ref-list>
     </xsl:template>
-
-
-
-    
 
     <xsl:template match="heading"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = heading</xsl:comment></xsl:if>
         <title>
@@ -272,6 +269,7 @@
 <!-- TAXPUB -->
     <xsl:template match="treatment"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = treatment</xsl:comment></xsl:if>
         <tp:taxon-treatment>
+            <xsl:call-template name="treatment-metadata"/>
             <xsl:apply-templates/>
         </tp:taxon-treatment>
     </xsl:template>
@@ -368,5 +366,11 @@ Include GG normalized attributes for 2nd pass
    <xsl:template match="superScript">
        <sup><xsl:apply-templates/></sup>
    </xsl:template>
+    
+    <xsl:template name="treatment-metadata">
+        <tp:treatment-meta>
+            <mixed-citation><xsl:value-of select="/document/@docAuthor"/><xsl:text>&#160;</xsl:text><xsl:value-of select="/document/@docTitle"/></mixed-citation>
+        </tp:treatment-meta>
+    </xsl:template>
    
 </xsl:stylesheet>
