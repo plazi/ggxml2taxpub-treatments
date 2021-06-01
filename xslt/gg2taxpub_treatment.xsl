@@ -376,7 +376,7 @@ Include GG normalized attributes for 2nd pass
     
     <xsl:template name="references_sec">
         <ref-list>
-            <xsl:for-each select="//bibRefCitation[@refId != preceding::bibRefCitation[@refId]]">
+            <xsl:for-each select="//bibRefCitation[not(@refId = preceding::bibRefCitation/@refId)]">
                 <xsl:sort select="@author"/>
                 <xsl:message><xsl:value-of select="@refId"/></xsl:message>
                 <ref>
