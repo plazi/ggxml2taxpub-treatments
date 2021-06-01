@@ -265,10 +265,10 @@ Not
 <tp:treatment-sec sec-type="materials_examined">
 <p>
 <tp:material-citation>
-<named-content content-type="emphasis">
-<named-content content-type="typeStatus">Type</named-content>
+
+<named-content content-type="named-content">Type</named-content>
 locality:
-</named-content>
+
 <named-content content-type="collectingCountry">Guatemala</named-content>
 </tp:material-citation>
 .
@@ -284,9 +284,9 @@ Revised material: (
 <tp:material-citation>
 <named-content content-type="collectingCountry">MEXICO</named-content>
 . 
-<named-content content-type="emphasis">
-<named-content content-type="collectingRegion">Chiapas</named-content>
-</named-content>
+
+<named-content content-type="named-content">Chiapas</named-content>
+
 : 
 <named-content content-type="location">Arriaga</named-content>
 (
@@ -530,7 +530,7 @@ sp. nov
 
 , 
 
-<tp:taxon-name>P. jalisco</tp:taxon-name>
+P. jalisco
 ,
 
 and 
@@ -569,7 +569,7 @@ sp. nov.
 
 and 
 
-<tp:taxon-name>P. jalisco</tp:taxon-name>
+P. jalisco
 ,
 
 are subequal (

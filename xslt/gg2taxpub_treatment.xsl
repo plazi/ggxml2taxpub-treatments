@@ -6,7 +6,9 @@
     -//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables with MathML3 v1.1 20151215//EN
     -->
         
-    <xsl:param name="commentsOn">yes</xsl:param>
+    <xsl:import href="strip.xsl"/>
+    <xsl:param name="commentsOn">no</xsl:param>
+    <xsl:param name="strippedSource"><xsl:call-template name="strip"/></xsl:param>
     
     <xsl:output encoding="UTF-8"
         doctype-public="-//TaxPub//DTD Taxonomic Treatment Publishing DTD v1.0 20180101//EN"
@@ -14,9 +16,12 @@
 
     
     <xsl:template match="/">
-        <xsl:apply-templates select="//treatment"/>
+        <xsl:apply-templates select="$strippedSource/document"/>
     </xsl:template>
     
+    <xsl:template match="document"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = /</xsl:comment></xsl:if>
+            <xsl:apply-templates select="treatment"/>
+    </xsl:template>
     
 
     <xsl:template match="subSection"><xsl:if test="$commentsOn = 'yes'"><xsl:comment>template match = subSection</xsl:comment></xsl:if>
