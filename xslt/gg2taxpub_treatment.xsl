@@ -271,6 +271,7 @@
         <tp:taxon-treatment>
             <xsl:call-template name="treatment-metadata"/>
             <xsl:apply-templates/>
+            <xsl:call-template name="references_sec"/>
         </tp:taxon-treatment>
     </xsl:template>
     
@@ -371,6 +372,20 @@ Include GG normalized attributes for 2nd pass
         <tp:treatment-meta>
             <mixed-citation><xsl:value-of select="/document/@docAuthor"/><xsl:text>&#160;</xsl:text><xsl:value-of select="/document/@docTitle"/></mixed-citation>
         </tp:treatment-meta>
+    </xsl:template>
+    
+    <xsl:template name="references_sec">
+        <ref-list>
+            <xsl:for-each select="//bibRefCitation[@refId != preceding::bibRefCitation[@refId]]">
+                <xsl:sort select="@author"/>
+                <xsl:message><xsl:value-of select="@refId"/></xsl:message>
+                <ref>
+                    <xsl:attribute name="id"><xsl:value-of select="@refId"/></xsl:attribute>
+                    <mixed-citation><xsl:value-of select="@refString"/></mixed-citation>
+                </ref>
+            </xsl:for-each>
+        </ref-list>
+
     </xsl:template>
    
 </xsl:stylesheet>
