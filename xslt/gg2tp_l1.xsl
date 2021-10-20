@@ -13,7 +13,7 @@
 
     <xsl:template match="subSubSection[@type = 'nomenclature']">
         <tp:nomenclature>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select=".//heading"/>
         </tp:nomenclature>
     </xsl:template>
 
@@ -24,7 +24,7 @@
     </xsl:template>
 
     <xsl:template match="subSubSection">
-        <tp:treatment-sec>
+        <tp:treatment-sec type="{@type}">
             <xsl:apply-templates/>
         </tp:treatment-sec>
     </xsl:template>
