@@ -6,9 +6,9 @@
         <xsl:apply-templates select="//treatment"/>
     </xsl:template>
     <xsl:template match="//treatment">
-        <tp:treatment>
+        <tp:taxon-treatment>
             <xsl:apply-templates/>
-        </tp:treatment>
+        </tp:taxon-treatment>
     </xsl:template>
 
     <xsl:template match="subSubSection[@type = 'nomenclature']">
@@ -24,7 +24,7 @@
     </xsl:template>
 
     <xsl:template match="subSubSection">
-        <tp:treatment-sec type="{@type}">
+        <tp:treatment-sec sec-type="{@type}">
             <xsl:apply-templates/>
         </tp:treatment-sec>
     </xsl:template>

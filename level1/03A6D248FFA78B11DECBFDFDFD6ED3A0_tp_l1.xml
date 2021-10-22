@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tp:treatment xmlns:tp="http://www.plazi.org/taxpub">
+<!DOCTYPE tp:taxon-treatment SYSTEM "../../TaxPub/tax-treatment-NS0-v1.dtd">
+<tp:taxon-treatment xmlns:tp="http://www.plazi.org/taxpub">
    <tp:nomenclature>
       <tp:taxon-name>
 Platevindex tigrinus
@@ -7,14 +8,14 @@ Platevindex tigrinus
 Stoliczka, 1869
 )
 </tp:taxon-name>
-comb. nov.
+<tp:taxon-status>comb. nov.</tp:taxon-status>
 </tp:nomenclature>
-   <tp:treatment-sec type="description">
+   <tp:treatment-sec sec-type="description">
       <p>
 Figs 26–30
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="reference_group">
+   <tp:treatment-sec sec-type="reference_group">
       <p>
          <tp:taxon-name>
 Onchidium tigrinum
@@ -95,7 +96,7 @@ Acrostichum
 </tp:taxon-name>
 ferns and mounds of mud (station 206).
 </p>
-   <tp:treatment-sec type="materials_examined">
+   <tp:treatment-sec sec-type="materials_examined">
       <p>
 Material examined
 </p>
@@ -128,7 +129,7 @@ BNHS 18-1066
 
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="discussion">
+   <tp:treatment-sec sec-type="discussion">
       <p>
 
 Notes on 
@@ -198,7 +199,7 @@ Onchidium tigrinum
 remains unambiguous (see Remarks below).
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="materials_examined">
+   <tp:treatment-sec sec-type="materials_examined">
       <p>
 Other material
 </p>
@@ -541,7 +542,7 @@ ZRC.MOL.10474
 .
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="description">
+   <tp:treatment-sec sec-type="description">
       <p>
 Description
 </p>
@@ -766,7 +767,7 @@ H
 I
 . Ventral view, same as A.
 </p>
-   <tp:treatment-sec type="distribution">
+   <tp:treatment-sec sec-type="distribution">
       <p>
 Distribution
 (
@@ -810,7 +811,7 @@ type
 locality.
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="description">
+   <tp:treatment-sec sec-type="description">
       <p>
 Habitat
 (
@@ -830,7 +831,7 @@ India
 .
 </p>
    </tp:treatment-sec>
-   <tp:treatment-sec type="discussion">
+   <tp:treatment-sec sec-type="discussion">
       <p>
 Remarks
 </p>
@@ -1386,4 +1387,4 @@ Platevindex tigrinus
 is present in low abundance, whether it varies in abundance seasonally, or is simply absent.
 </p>
    </tp:treatment-sec>
-</tp:treatment>
+</tp:taxon-treatment>
