@@ -1,0 +1,342 @@
+<document id="35289DCDCA476428C6A0F67818138B98" ID-DOI="http://doi.org/10.5281/zenodo.4773601" ID-GBIF-Dataset="1f68120f-f2ce-465f-a4a7-d1dae86a80f9" ID-GBIF-Taxon="182237326" ID-ISSN="2118-9773" ID-Zenodo-Dep="4773601" ID-ZooBank="1D46CAAC-A8AE-46DC-BFF8-AB88B4DCC173" _generate="added" checkinTime="1621350216957" checkinUser="felipe" docAuthor="Asadi-Farfar, Maryam, Karimpour, Younes, Lotfalizadeh, Hossein &amp; Buhl, Peter Neerup" docDate="2021" docId="038B87ECFC06FFDCD20BF8BDFDA21082" docLanguage="en" docName="ejt-750_29-51.pdf" docOrigin="European Journal of Taxonomy 750" docSource="http://dx.doi.org/10.5852/ejt.2021.750.1359" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Platygaster rugosiceps Buhl 1994" docType="key" docVersion="5" lastPageId="12" lastPageNumber="41" masterDocId="FFB2FF94FC0DFFD0D031FF90FFC81120" masterDocTitle="Four new species and new records of Platygastrinae (Hymenoptera: Platygastridae) from Iran" masterLastPageNumber="51" masterPageNumber="29" pageId="11" pageNumber="40" updateTime="1632024460012" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="DB84E20CAD770A3150DC4515D57D4819" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DBCC59A2CF9F7B80B049A195E93FE0BD">
+<mods:title id="6337F0D3C42D7B8B02DA3DC3A04D93BC">Four new species and new records of Platygastrinae (Hymenoptera: Platygastridae) from Iran</mods:title>
+</mods:titleInfo>
+<mods:name id="5A8885648A779745D397F3AA04D4EBB8" type="personal">
+<mods:role id="9A60758FFD88112FA602DF50AB03583A">
+<mods:roleTerm id="166F1005194FCA134313B785A304AEB8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2B425413B6F5DD914C21E0D2A98C744F">Asadi-Farfar, Maryam</mods:namePart>
+<mods:nameIdentifier id="141AF573F86182E40968DA7595C582E5" type="LSID">C1A134C0-1861-4E7C-8C5B-18F57082EF9A</mods:nameIdentifier>
+<mods:affiliation id="9E1933544E7B0C845EFF7AC7F8F3E438">Department of Plant Protection, Faculty of Agriculture, Urmia University, Urmia, Iran. Plant Protection Research Department, East Azarbaijan Agricultural and Natural Resources Research &amp; Education Center, AREEO, Tabriz, Iran. Zoological Museum, Department of Entomology, University of Copenhagen, Universitet sparken 15, DK- 2100 Copenhagen, Denmark. &amp; Asadi. ent.</mods:affiliation>
+</mods:name>
+<mods:name id="A1D6A6F5A76B8C04ADF31DEDDD2825DB" type="personal">
+<mods:role id="DBE216E670F7C20686AC44CC994F46DA">
+<mods:roleTerm id="11891674E928B386AB1919E4591BF844">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8CB4195408B14A239AB9E4E22C8E581F">Karimpour, Younes</mods:namePart>
+<mods:nameIdentifier id="6778F6579722FB4CE46353D85A0C0C95" type="LSID">E7B0992C-BBFA-444A-A694-D3F54FDA10B0</mods:nameIdentifier>
+<mods:affiliation id="62581F511B1E81D4EDCD9FD79DA97EFC">Department of Plant Protection, Faculty of Agriculture, Urmia University, Urmia, Iran. Plant Protection Research Department, East Azarbaijan Agricultural and Natural Resources Research &amp; Education Center, AREEO, Tabriz, Iran. Zoological Museum, Department of Entomology, University of Copenhagen, Universitet sparken 15, DK- 2100 Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="87C056FECDA82842FBCE889017F5F05F" type="email">y.karimpour@urmia.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="2B4FAD2F98AD2EF5E224ADA44BC385BB" type="personal">
+<mods:role id="96C84855E5F63A1D3064739F6C58BBAE">
+<mods:roleTerm id="6F3FE2F635F1AB5C338267EF1BF04F87">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E2C9E61D82721D61C66E06907DE30E58">Lotfalizadeh, Hossein</mods:namePart>
+<mods:nameIdentifier id="310CE5DB294D20EB62CFA09FE79F239C" type="LSID">D7C681F3-C2E3-4FC1-BC4A-B0A6160B56CC</mods:nameIdentifier>
+<mods:nameIdentifier id="220FF62C337AA42DFA645B01EFE7FA27" type="email">hlotfalizadeh@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="8A21015AF2C33516718D86FAECB984BC" type="personal">
+<mods:role id="38DB607A080698D6E008CCB216DDE2B5">
+<mods:roleTerm id="8AF1830C7B95E3B095DBF13D4CF32EF5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BA48E51CC86A75BCB5F58E7E4C1D5892">Buhl, Peter Neerup</mods:namePart>
+<mods:nameIdentifier id="A9310B5CD963E748CF021F23CB5BBDE8" type="LSID">394066D3-5642-4CCE-857B-0972C4D92327</mods:nameIdentifier>
+<mods:nameIdentifier id="91BB2BE7780F102EAF3AC11222A6A8D9" type="email">pnbuhl@hotmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="A992D6851315EE71515B5BE63F3CFB6C">text</mods:typeOfResource>
+<mods:relatedItem id="039DA061C2274BD5A7CA1D48F3F8F51B" type="host">
+<mods:titleInfo id="635A4A73F3717D31BC21554BB0CADE97">
+<mods:title id="862E52D757CB9FA3045734DC953F28BC">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="43D0693E7F7D379485747C32BA63E60D">
+<mods:date id="5E56255E1B80FA7B984F7AB1EB9532A8">2021</mods:date>
+<mods:detail id="5DBE16685458FB53FDE1D2F79ACD58FD" type="pubDate">
+<mods:number id="EEB19CF20F5E5E07CF231E802777678A">2021-05-14</mods:number>
+</mods:detail>
+<mods:detail id="3F33F130E323F96C9B63488497B9B624" type="volume">
+<mods:number id="FE713AEDEADF376FF7D2522BBDA8CA10">750</mods:number>
+</mods:detail>
+<mods:extent id="BD839B2C464CC0C6AB423CBC2CF3307E" unit="page">
+<mods:start id="D77EF90325CA450F2CC28EC40E459535">29</mods:start>
+<mods:end id="ED93A66E969DE9983C8D86F2215BE126">51</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="6F82CBB5CC71A0B77B61067FBD29F327">
+<mods:url id="93309BEE9C40CA86AB6A12B9B496FAD3">http://dx.doi.org/10.5852/ejt.2021.750.1359</mods:url>
+</mods:location>
+<mods:classification id="5C9C04B752B42F882B5252093C03D73E">journal article</mods:classification>
+<mods:identifier id="A35F968F29206DD19356058D69612382" type="DOI">https://doi.org/10.5852/ejt.2021.750.1359</mods:identifier>
+<mods:identifier id="5B113B6A2AA2960CB656678B41782DDE" type="GBIF-Dataset">1f68120f-f2ce-465f-a4a7-d1dae86a80f9</mods:identifier>
+<mods:identifier id="2E0676D4C93DB15BF48E047729696B9D" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="095BE254243D712FC630B1F03FF02223" type="Zenodo-Dep">4770523</mods:identifier>
+<mods:identifier id="412446D066514158991A7C8EA683EE9A" type="ZooBank">1D46CAAC-A8AE-46DC-BFF8-AB88B4DCC173</mods:identifier>
+</mods:mods>
+<treatment id="038B87ECFC06FFDCD20BF8BDFDA21082" ID-DOI="http://doi.org/10.5281/zenodo.4773601" ID-GBIF-Taxon="182237326" ID-Zenodo-Dep="4773601" LSID="urn:lsid:plazi:treatment:038B87ECFC06FFDCD20BF8BDFDA21082" httpUri="http://treatment.plazi.org/id/038B87ECFC06FFDCD20BF8BDFDA21082" lastPageId="12" lastPageNumber="41" pageId="11" pageNumber="40">
+<subSubSection id="C3386571FC06FFDBD20BF8BDFC311668" box="[570,1017,1837,1864]" pageId="11" pageNumber="40" type="nomenclature">
+<paragraph id="8B9D36FAFC06FFDBD20BF8BDFC311668" blockId="11.[570,1017,1837,1864]" box="[570,1017,1837,1864]" pageId="11" pageNumber="40">
+<heading id="D0D58196FC06FFDBD20BF8BDFC311668" box="[570,1017,1837,1864]" centered="true" fontSize="11" level="2" pageId="11" pageNumber="40" reason="2">
+<taxonomicName id="4C224D79FC06FFDBD20BF8BDFC311668" authority="Buhl, 1994" authorityName="Buhl" authorityYear="1994" box="[570,1017,1837,1864]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="40" phylum="Arthropoda" rank="species" species="rugosiceps">
+<emphasis id="B956EAE8FC06FFDBD20BF8BDFCA71667" bold="true" box="[570,879,1837,1864]" pageId="11" pageNumber="40">
+<emphasis id="B956EAE8FC06FFDBD20BF8BDFD091668" bold="true" box="[570,705,1837,1864]" italics="true" pageId="11" pageNumber="40">Platygaster</emphasis>
+cf. 
+<emphasis id="B956EAE8FC06FFDBD2DFF8BDFCA71667" bold="true" box="[750,879,1837,1863]" italics="true" pageId="11" pageNumber="40">rugosiceps</emphasis>
+</emphasis>
+<bibRefCitation id="EFB34B0BFC06FFDBD346F8BEFC311668" author="Buhl P. N." box="[887,1017,1838,1864]" pageId="11" pageNumber="40" pagination="13 - 20" refId="ref9206" refString="Buhl P. N. 1994. A remarkable new species of Platygaster Latreille, 1809 from Denmark (Hymenoptera, Platygastridae). Entomofauna, Zeitschrift fur Entomologie 15: 13 - 20." type="journal article" year="1994">Buhl, 1994</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC06FFDBD08CF8E3FD8116C9" pageId="11" pageNumber="40" type="materials_examined">
+<paragraph id="8B9D36FAFC06FFDBD08CF8E3FE6216AD" blockId="11.[189,426,1907,1933]" box="[189,426,1907,1933]" pageId="11" pageNumber="40">
+<heading id="D0D58196FC06FFDBD08CF8E3FE6216AD" bold="true" box="[189,426,1907,1933]" fontSize="11" level="3" pageId="11" pageNumber="40" reason="3">
+<emphasis id="B956EAE8FC06FFDBD08CF8E3FE6216AD" bold="true" box="[189,426,1907,1933]" pageId="11" pageNumber="40">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC06FFDBD08CF837FD8116C9" blockId="11.[189,1399,1957,2025]" pageId="11" pageNumber="40">
+<materialsCitation id="3B4A3CA7FC06FFDBD08CF837FD8E16C9" ID-GBIF-Occurrence="3114127317" collectingDate="2017-05-26" collectingMethod="sweep net" collectionCode="HMIM" collectorName="M. Asadi" country="Iran" elevation="1365" latitude="38.583332" location="Yam" municipality="Marand" pageId="11" pageNumber="40" specimenCount="1" specimenCount-male="1" stateProvince="East Azarbaijan Province">
+<collectingCountry id="F335766AFC06FFDBD08CF837FECD16E1" box="[189,261,1959,1985]" name="Iran" pageId="11" pageNumber="40">IRAN</collectingCountry>
+• 
+<specimenCount id="9D24FD73FC06FFDBD12FF837FE8516E1" box="[286,333,1959,1985]" pageId="11" pageNumber="40" type="male">1 ♂</specimenCount>
+; 
+<collectingRegion id="49E6F818FC06FFDBD168F837FD4C16E1" box="[345,644,1959,1985]" country="Iran" name="Azarbayjan-e Sharqi" pageId="11" pageNumber="40">East Azarbaijan Province</collectingRegion>
+, 
+<collectingMunicipality id="6BF9AC80FC06FFDBD2A1F837FD2616E1" box="[656,750,1959,1985]" pageId="11" pageNumber="40">Marand</collectingMunicipality>
+, 
+<location id="8EFD6021FC06FFDBD2C8F837FCFB16E1" LSID="urn:lsid:plazi:treatment:038B87ECFC06FFDCD20BF8BDFDA21082:8EFD6021FC06FFDBD2C8F837FCFB16E1" box="[761,819,1959,1985]" country="Iran" latitude="38.583332" municipality="Marand" name="Yam" pageId="11" pageNumber="40" stateProvince="East Azarbaijan Province">Yam</location>
+; 
+<geoCoordinate id="EE16503DFC06FFDBD30FF835FC6216E1" box="[830,938,1957,1985]" degrees="38" direction="north" minutes="35" orientation="latitude" pageId="11" pageNumber="40" precision="925" value="38.583332">38°35′ N</geoCoordinate>
+, 
+<geoCoordinate id="EE16503DFC06FFDBD387F835FBD716E1" box="[950,1055,1957,1985]" pageId="11" pageNumber="40">45°77′ E</geoCoordinate>
+; 
+<elevation id="000FD1C9FC06FFDBD41DF836FB0C16E1" box="[1068,1220,1958,1985]" metricMagnitude="3" metricUnit="m" metricValue="1.365" pageId="11" pageNumber="40" unit="m" value="1365.0">
+<quantity id="4CDA9B1FFC06FFDBD41DF836FB4D16E1" box="[1068,1157,1958,1985]" metricMagnitude="3" metricUnit="m" metricValue="1.365" pageId="11" pageNumber="40" unit="m" value="1365.0">1365 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="FF9C103AFC06FFDBD4E3F836FABA16E1" box="[1234,1394,1958,1985]" pageId="11" pageNumber="40" value="2017-05-26">
+<collectingDate id="EFD8E9D2FC06FFDBD4E3F836FABA16E1" box="[1234,1394,1958,1985]" pageId="11" pageNumber="40" value="2017-05-26">26 May 2017</collectingDate>
+</date>
+; 
+<collectorName id="26D7532CFC06FFDBD08CF85FFEE016C8" box="[189,296,1998,2025]" pageId="11" pageNumber="40">M. Asadi</collectorName>
+leg.; 
+<collectingMethod id="52634EEDFC06FFDBD15AF85FFE2A16C9" box="[363,482,1999,2025]" pageId="11" pageNumber="40">sweep net</collectingMethod>
+; 
+<collectionCode id="ED33AE3FFC06FFDBD1DEF85FFD8E16C9" box="[495,582,1999,2025]" pageId="11" pageNumber="40">HMIM</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC01FFDCD08CFE98FABF1637" pageId="12" pageNumber="41" type="distribution">
+<subSubSection id="C3386571FC01FFDCD08CFE98FDA21082" pageId="12" pageNumber="41" type="distribution">
+<paragraph id="8B9D36FAFC01FFDCD08CFE98FE9E1002" blockId="12.[189,342,264,290]" box="[189,342,264,290]" pageId="12" pageNumber="41">
+<heading id="D0D58196FC01FFDCD08CFE98FE9E1002" bold="true" box="[189,342,264,290]" fontSize="11" level="3" pageId="12" pageNumber="41" reason="3">
+<emphasis id="B956EAE8FC01FFDCD08CFE98FE9E1002" bold="true" box="[189,342,264,290]" pageId="12" pageNumber="41">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD08CFEAAFDA21082" blockId="12.[188,1399,314,418]" pageId="12" pageNumber="41">
+<collectingCountry id="F335766AFC01FFDCD08CFEAAFEDB1074" box="[189,275,314,340]" name="Austria" pageId="12" pageNumber="41">Austria</collectingCountry>
+(male only) (
+<bibRefCitation id="EFB34B0BFC01FFDCD19EFEAAFDE71074" author="Buhl P. N." box="[431,559,314,340]" pageId="12" pageNumber="41" pagination="13 - 20" refId="ref9206" refString="Buhl P. N. 1994. A remarkable new species of Platygaster Latreille, 1809 from Denmark (Hymenoptera, Platygastridae). Entomofauna, Zeitschrift fur Entomologie 15: 13 - 20." type="journal article" year="1994">Buhl 1994</bibRefCitation>
+); 
+<collectingCountry id="F335766AFC01FFDCD272FEAAFD681074" box="[579,672,314,340]" name="Sweden" pageId="12" pageNumber="41">Sweden</collectingCountry>
+(female described) (
+<bibRefCitation id="EFB34B0BFC01FFDCD3BEFEAAFBC71074" author="Buhl P. N." box="[911,1039,314,340]" pageId="12" pageNumber="41" pagination="295 - 334" refId="ref9276" refString="Buhl P. N. 1998. On some new or little-known NW European species of Platygastridae (Hymenoptera, Proctotrupoidea). Fragmenta Entomologica 30: 295 - 334." type="journal article" year="1998">Buhl 1998</bibRefCitation>
+); 
+<collectingCountry id="F335766AFC01FFDCD412FEAAFBAE1074" box="[1059,1126,314,340]" name="Spain" pageId="12" pageNumber="41">Spain</collectingCountry>
+(Buhl &amp; Nieves-Adrey 2000); 
+<collectingCountry id="F335766AFC01FFDCD125FEF1FEA6105B" box="[276,366,353,379]" name="Finland" pageId="12" pageNumber="41">Finland</collectingCountry>
+(
+<bibRefCitation id="EFB34B0BFC01FFDCD1B0FEF1FD64105B" author="Buhl P. N. &amp; Koponen M." box="[385,684,353,379]" pageId="12" pageNumber="41" pagination="98 - 104" refId="ref9853" refString="Buhl P. N. &amp; Koponen M. 2003 a. New records of Platygastridae (Hymenoptera: Platygastroidea) from Finland. Entomologica Fennica 14 (2): 98 - 104. https: // doi. org / 10.33338 / ef. 84175" type="journal article" year="2003">Buhl &amp; Koponen 2003a</bibRefCitation>
+); Fennoscandia and 
+<collectingCountry id="F335766AFC01FFDCD396FEF1FBDC105B" box="[935,1044,353,379]" name="Denmark" pageId="12" pageNumber="41">Denmark</collectingCountry>
+(
+<bibRefCitation id="EFB34B0BFC01FFDCD416FEF1FB62105B" author="Buhl P. N." box="[1063,1194,353,379]" pageId="12" pageNumber="41" pagination="17 - 52" refId="ref9307" refString="Buhl P. N. 1999. A synopsis of the Platygastridae of Fennoscandia and Denmark (Hymenoptera, Platygastroidea). Entomofauna, Zeitschrift fur Entomologie 20: 17 - 52." type="journal article" year="1999">Buhl 1999</bibRefCitation>
+, 
+<bibRefCitation id="EFB34B0BFC01FFDCD48BFEF1FACF105C" author="Buhl P. N." box="[1210,1287,353,380]" pageId="12" pageNumber="41" pagination="127 - 167" refId="ref9464" refString="Buhl P. N. 2006 a. Key to Platygaster (Hymenoptera, Platygastridae) from Denmark, with descriptions of new species. Steenstrupia 29: 127 - 167." type="journal article" year="2006">2006a</bibRefCitation>
+); Korean Peninsula (
+<bibRefCitation id="EFB34B0BFC01FFDCD10EFE17FDD71082" author="Buhl P. N. &amp; Choi J. Y." box="[319,543,391,418]" pageId="12" pageNumber="41" pagination="121 - 137" refId="ref9690" refString="Buhl P. N. &amp; Choi J. Y. 2006. Taxonomic review of the family Platygastridae (Hymenoptera: Platygastroidea) from the Korean Peninsula. Journal of Asia-Pacific Entomology 9 (2): 121 - 137. https: // doi. org / 10.1016 / S 1226 - 8615 (08) 60283 - 6" type="journal article" year="2006">Buhl &amp; Choi 2006</bibRefCitation>
+); 
+<collectingCountry id="F335766AFC01FFDCD202FE18FDAE1082" box="[563,614,392,418]" name="Iran" pageId="12" pageNumber="41">Iran</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<treatment id="038B87ECFC01FFDCD08CFE5EFABF1637" ID-DOI="http://doi.org/10.5281/zenodo.4773607" ID-GBIF-Taxon="182237319" ID-Zenodo-Dep="4773607" LSID="urn:lsid:plazi:treatment:038B87ECFC06FFDCD20BF8BDFDA21082" httpUri="http://treatment.plazi.org/id/038B87ECFC06FFDCD20BF8BDFDA21082" pageId="12" pageNumber="41">
+<subSubSection id="C3386571FC01FFDCD08CFE5EFD7510CA" box="[189,701,461,490]" pageId="12" pageNumber="41" type="nomenclature">
+<paragraph id="8B9D36FAFC01FFDCD08CFE5EFD7510CA" blockId="12.[189,701,461,490]" box="[189,701,461,490]" pageId="12" pageNumber="41">
+<emphasis id="B956EAE8FC01FFDCD08CFE5EFD7510CA" bold="true" box="[189,701,461,490]" italics="true" pageId="12" pageNumber="41">
+Key to species of 
+<taxonomicName id="4C224D79FC01FFDCD1AEFE5DFDFB10CA" authorityName="Latreille" authorityYear="1809" box="[415,563,461,490]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="genus">Platygaster</taxonomicName>
+from 
+<collectingCountry id="F335766AFC01FFDCD2B3FE5EFD7510CA" box="[642,701,462,490]" name="Iran" pageId="12" pageNumber="41">Iran</collectingCountry>
+</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC01FFDCD08CFD95FABF1637" pageId="12" pageNumber="41" type="key">
+<key id="FFB361CBFC01FFDCD08CFD95FABF1637" pageId="12" pageNumber="41">
+<keyStep id="30D62E5FFC01FFDCD08CFD95FABF1365" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFD95FABF133F" blockId="12.[189,1399,517,582]" box="[189,1399,517,543]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFD95FABF133F" box="[189,1399,517,543]" pageId="12" pageNumber="41">1. Mesoscutum with notauli .................................................................................................................. 2</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FDBCFABF1365" blockId="12.[189,1399,517,582]" box="[193,1399,555,582]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FDBCFABF1365" box="[193,1399,555,582]" pageId="12" pageNumber="41">– Mesoscutum without notauli ............................................................................................................. 9</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFDE0FABF1391" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFDE0FABF13AA" blockId="12.[189,1399,624,689]" box="[189,1399,624,650]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFDE0FABF13AA" box="[189,1399,624,650]" pageId="12" pageNumber="41">2. Notauli complete or almost complete ............................................................................................... 3</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FD07FABF1391" blockId="12.[189,1399,624,689]" box="[193,1399,662,689]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FD07FABF1391" box="[193,1399,662,689]" pageId="12" pageNumber="41">– Notauli incomplete ............................................................................................................................ 7</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFD4BFABF123C" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFD4BFABF13D5" blockId="12.[189,1399,731,796]" box="[189,1399,731,757]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFD4BFABF13D5" box="[189,1399,731,757]" pageId="12" pageNumber="41">3. T2 hardly striate ................................................................................................................................ 4</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FC92FABF123C" blockId="12.[189,1399,731,796]" box="[193,1399,769,796]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FC92FABF123C" box="[193,1399,769,796]" pageId="12" pageNumber="41">– T2 striate ........................................................................................................................................... 5</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFCD6FABF128D" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFCD6FABF12A7" blockId="12.[189,1399,838,941]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFCD6FABF12A7" pageId="12" pageNumber="41">
+4. Occiput with oblique striation, medially almost longitudinal ............................................................ ................................................................................. 
+<taxonomicName id="4C224D79FC01FFDCD379FCFCFADC12A6" authority="Buhl &amp; Asadi" authorityName="Buhl &amp; Asadi" authorityYear="2021" box="[840,1300,876,903]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="lotfalizadehi" status="sp. nov.">
+<emphasis id="B956EAE8FC01FFDCD379FCFCFBA412A7" bold="true" box="[840,1132,876,903]" italics="true" pageId="12" pageNumber="41">Platygaster lotfalizadehi</emphasis>
+Buhl &amp; Asadi
+</taxonomicName>
+<taxonomicNameLabel id="A2655793FC01FFDCD52DFCFDFABF12A7" box="[1308,1399,877,903]" pageId="12" pageNumber="41" rank="species">sp. nov.</taxonomicNameLabel>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FC03FABF128D" blockId="12.[189,1399,838,941]" box="[193,1399,914,941]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FC03FABF128D" box="[193,1399,914,941]" pageId="12" pageNumber="41">
+– Occiput without oblique striation ................................................ 
+<taxonomicName id="4C224D79FC01FFDCD3ECFC02FABF128D" authority="Buhl, 2009" authorityName="Buhl" authorityYear="2009" box="[989,1399,914,941]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="breviscapa">
+<emphasis id="B956EAE8FC01FFDCD3ECFC02FB25128D" bold="true" box="[989,1261,914,941]" italics="true" pageId="12" pageNumber="41">Platygaster breviscapa</emphasis>
+Buhl, 2009
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFC47FABF1538" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFC47FABF12D2" blockId="12.[189,1399,983,1049]" box="[189,1399,983,1010]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFC47FABF12D2" box="[189,1399,983,1010]" pageId="12" pageNumber="41">
+5. Sternite 2 with a hump between hind coxae .................... 
+<emphasis id="B956EAE8FC01FFDCD3B6FC47FBE512D1" bold="true" box="[903,1069,983,1010]" pageId="12" pageNumber="41">
+<taxonomicName id="4C224D79FC01FFDCD3B6FC47FBC612D2" authorityName="Latreille" authorityYear="1809" box="[903,1038,983,1010]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="genus">
+<emphasis id="B956EAE8FC01FFDCD3B6FC47FBC612D2" bold="true" box="[903,1038,983,1010]" italics="true" pageId="12" pageNumber="41">Platygaster</emphasis>
+</taxonomicName>
+cf
+</emphasis>
+. 
+<emphasis id="B956EAE8FC01FFDCD40AFC47FB6012D2" bold="true" box="[1083,1192,983,1010]" italics="true" pageId="12" pageNumber="41">gladiator</emphasis>
+Zetterstedt, 1838
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FC6FFABF1538" blockId="12.[189,1399,983,1049]" box="[193,1399,1022,1049]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FC6FFABF1538" box="[193,1399,1022,1049]" pageId="12" pageNumber="41">– Sternite 2 without a hump between hind coxae ................................................................................ 6</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFBD3FABF15F0" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFBD3FABF15A3" blockId="12.[189,1399,1091,1233]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFBD3FABF15A3" pageId="12" pageNumber="41">
+6. Frons smooth; sternite 1 and base of sternite 2 without dense greyish pubescence ........................... .................................................................................................... 
+<taxonomicName id="4C224D79FC01FFDCD3FFFBF9FABF15A3" authority="Walker, 1836" authorityName="Walker" authorityYear="1836" box="[974,1399,1129,1156]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="dryope">
+<emphasis id="B956EAE8FC01FFDCD3FFFBF9FB1B15A4" bold="true" box="[974,1235,1129,1156]" pageId="12" pageNumber="41">
+<emphasis id="B956EAE8FC01FFDCD3FFFBF9FB9D15A4" bold="true" box="[974,1109,1129,1156]" italics="true" pageId="12" pageNumber="41">Platygaster</emphasis>
+cf. 
+<emphasis id="B956EAE8FC01FFDCD4B3FBF9FB1B15A4" bold="true" box="[1154,1235,1129,1156]" italics="true" pageId="12" pageNumber="41">dryope</emphasis>
+</emphasis>
+Walker, 1836
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FB00FABF15F0" blockId="12.[189,1399,1091,1233]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FB00FABF15F0" pageId="12" pageNumber="41">
+– Frons except upper lateral parts strongly transversely striate; first sternite and base of second sternite with dense greyish pubescence ............................................... 
+<taxonomicName id="4C224D79FC01FFDCD389FB26FABF15F0" authority="Buhl, 1994" authorityName="Buhl" authorityYear="1994" box="[952,1399,1206,1233]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="rugosiceps">
+<emphasis id="B956EAE8FC01FFDCD389FB26FB9615F0" bold="true" box="[952,1118,1206,1233]" pageId="12" pageNumber="41">
+<emphasis id="B956EAE8FC01FFDCD389FB26FBF715F1" bold="true" box="[952,1087,1206,1233]" italics="true" pageId="12" pageNumber="41">Platygaster</emphasis>
+cf
+</emphasis>
+. 
+<emphasis id="B956EAE8FC01FFDCD45DFB26FB2515F0" bold="true" box="[1132,1261,1206,1232]" italics="true" pageId="12" pageNumber="41">rugosiceps</emphasis>
+<bibRefCitation id="EFB34B0BFC01FFDCD4C5FB26FABF15F0" author="Buhl P. N." box="[1268,1399,1206,1232]" pageId="12" pageNumber="41" pagination="13 - 20" refId="ref9206" refString="Buhl P. N. 1994. A remarkable new species of Platygaster Latreille, 1809 from Denmark (Hymenoptera, Platygastridae). Entomofauna, Zeitschrift fur Entomologie 15: 13 - 20." type="journal article" year="1994">Buhl, 1994</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFB6BFABF141B" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFB6BFABF1435" blockId="12.[189,1399,1274,1340]" box="[189,1399,1274,1301]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFB6BFABF1435" box="[189,1399,1274,1301]" pageId="12" pageNumber="41">
+7. Notauli very short; T2 without striae ................................................ 
+<taxonomicName id="4C224D79FC01FFDCD434FB6AFABF1435" authority="Walker, 1836" authorityName="Walker" authorityYear="1836" box="[1029,1399,1274,1301]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="nisus">
+<emphasis id="B956EAE8FC01FFDCD434FB6AFB1C1435" bold="true" box="[1029,1236,1274,1301]" italics="true" pageId="12" pageNumber="41">Platygaster nisus</emphasis>
+Walker, 1836
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FAB2FABF141B" blockId="12.[189,1399,1274,1340]" box="[193,1399,1313,1340]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FAB2FABF141B" box="[193,1399,1313,1340]" pageId="12" pageNumber="41">– Notauli indicated in about posterior half; T2 with striation .............................................................. 8</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CFAF6FABF1761" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CFAF6FABF14ED" blockId="12.[189,1399,1382,1601]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CFAF6FABF14ED" pageId="12" pageNumber="41">
+8. T1 with about ten rather uniform, fine longitudinal carinae, with a transverse depression around midlength. T2 striate to 0.5 of length, medially slightly shorter ............................................................... ............................................................................... 
+<taxonomicName id="4C224D79FC01FFDCD308FA22FADC14ED" authority="Buhl &amp; Asadi" authorityName="Buhl &amp; Asadi" authorityYear="2021" box="[825,1300,1458,1485]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="azarbaijanica" status="sp. nov.">
+<emphasis id="B956EAE8FC01FFDCD308FA22FBA514ED" bold="true" box="[825,1133,1458,1485]" italics="true" pageId="12" pageNumber="41">Platygaster azarbaijanica</emphasis>
+Buhl &amp; Asadi
+</taxonomicName>
+<taxonomicNameLabel id="A2655793FC01FFDCD52DFA23FABF14ED" box="[1308,1399,1459,1485]" pageId="12" pageNumber="41" rank="species">sp. nov.</taxonomicNameLabel>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0FA4AFABF1761" blockId="12.[189,1399,1382,1601]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0FA4AFABF1761" pageId="12" pageNumber="41">
+– T1 with about six somewhat uneven, rather weak longitudinal carinae and a few even weaker additional ones. T2 weakly striate from basal foveae to 0.65 length of tergite, medially with four short striae to 0.15 of length ..................................... 
+<taxonomicName id="4C224D79FC01FFDCD364F9B6FADD1760" authority="Asadi &amp; Buhl" authorityName="Asadi-Farfar &amp; Karimpour &amp; Lotfalizadeh &amp; Buhl" authorityYear="2021" box="[853,1301,1574,1601]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="karimpouri" status="sp. nov.">
+<emphasis id="B956EAE8FC01FFDCD364F9B6FBA41761" bold="true" box="[853,1132,1574,1601]" italics="true" pageId="12" pageNumber="41">Platygaster karimpouri</emphasis>
+Asadi &amp; Buhl
+</taxonomicName>
+<taxonomicNameLabel id="A2655793FC01FFDCD52DF9B7FABF1761" box="[1308,1399,1575,1601]" pageId="12" pageNumber="41" rank="species">sp. nov.</taxonomicNameLabel>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CF9FBFABE178B" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CF9FBFABF17A5" blockId="12.[189,1399,1642,1708]" box="[189,1399,1642,1669]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CF9FBFABF17A5" box="[189,1399,1642,1669]" pageId="12" pageNumber="41">
+9. Base of T2 covered with dense, silvery setae ................................... 
+<taxonomicName id="4C224D79FC01FFDCD437F9FAFABF17A5" authority="Buhl, 2007" authorityName="Buhl" authorityYear="2007" box="[1030,1399,1642,1669]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="harteni">
+<emphasis id="B956EAE8FC01FFDCD437F9FAFB2517A5" bold="true" box="[1030,1261,1642,1669]" italics="true" pageId="12" pageNumber="41">Platygaster harteni</emphasis>
+Buhl, 2007
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0F902FABE178B" blockId="12.[189,1399,1642,1708]" box="[193,1398,1681,1708]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0F902FABE178B" box="[193,1398,1681,1708]" pageId="12" pageNumber="41">– Base of T2 without dense setae ....................................................................................................... 10</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30D62E5FFC01FFDCD08CF946FABF1637" pageId="12" pageNumber="41">
+<paragraph id="8B9D36FAFC01FFDCD08CF946FABF17D0" blockId="12.[189,1399,1749,1815]" box="[189,1399,1749,1777]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD08CF946FABF17D0" box="[189,1399,1749,1777]" pageId="12" pageNumber="41">
+10. T2 striate in basal fovea to hardly one-third of length ...................... 
+<taxonomicName id="4C224D79FC01FFDCD432F945FABF17D0" authority="Buhl, 2007" authorityName="Buhl" authorityYear="2007" box="[1027,1399,1749,1776]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="arabica">
+<emphasis id="B956EAE8FC01FFDCD432F945FB2417D0" bold="true" box="[1027,1260,1749,1776]" italics="true" pageId="12" pageNumber="41">Platygaster arabica</emphasis>
+Buhl, 2007
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8B9D36FAFC01FFDCD0F0F96DFABF1637" blockId="12.[189,1399,1749,1815]" box="[193,1399,1788,1815]" pageId="12" pageNumber="41">
+<keyLead id="30D395CFFC01FFDCD0F0F96DFABF1637" box="[193,1399,1788,1815]" pageId="12" pageNumber="41">
+– T2 very faintly striate in basal foveae to 0.4–0.5 of length ............ 
+<taxonomicName id="4C224D79FC01FFDCD3C9F96CFABF1637" authority="Buhl, 2007" authorityName="Buhl" authorityYear="2007" box="[1016,1399,1788,1815]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="41" phylum="Arthropoda" rank="species" species="papei">
+<emphasis id="B956EAE8FC01FFDCD3C9F96CFB251636" bold="true" box="[1016,1261,1788,1815]" pageId="12" pageNumber="41">
+<emphasis id="B956EAE8FC01FFDCD3C9F96CFBB71637" bold="true" box="[1016,1151,1788,1815]" italics="true" pageId="12" pageNumber="41">Platygaster</emphasis>
+cf. 
+<emphasis id="B956EAE8FC01FFDCD49DF96CFB251636" bold="true" box="[1196,1261,1788,1814]" italics="true" pageId="12" pageNumber="41">papei</emphasis>
+</emphasis>
+Buhl, 2007
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+</key>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

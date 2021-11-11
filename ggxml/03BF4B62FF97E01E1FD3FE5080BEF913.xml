@@ -1,0 +1,1135 @@
+<document id="0C88BF286FE864CE6E6922F1A7C2E01F" ID-DOI="http://doi.org/10.5281/zenodo.5076218" ID-GBIF-Dataset="de9c0c06-0e7d-44a6-a582-d41a346233f6" ID-ISSN="2118-9773" ID-Zenodo-Dep="5076218" ID-ZooBank="01BBC12C-E715-4393-A9F6-6EA85CB1289F" _generate="added" checkinTime="1625579995989" checkinUser="felipe" docAuthor="Wesener, Thomas &amp; Sagorny, Christina" docDate="2021" docId="03BF4B62FF97E01E1FD3FE5080BEF913" docLanguage="en" docName="ejt-758_1-48.pdf" docOrigin="European Journal of Taxonomy 758 (1)" docSource="http://dx.doi.org/10.5852/ejt.2021.758.1423" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.11:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="11" docTitle="Zoosphaerium undetermined" docType="treatment" docVersion="4" lastPageId="42" lastPageNumber="42" masterDocId="FF86331AFFBEE0341E06FFFB8261FFB5" masterDocTitle="Seven new giant pill-millipede species and numerous new records of the genus Zoosphaerium from Madagascar (Diplopoda, Sphaerotheriida, Arthrosphaeridae)" masterLastPageNumber="48" masterPageNumber="1" pageId="41" pageNumber="42" updateTime="1625593526472" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="1C18CA22DEC7749E638E62DE448CD3E3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="089B91AA077381A4DC4352A95EEB7899">
+<mods:title id="4E0C1FA0F014236C46837E116B50D1AD">Seven new giant pill-millipede species and numerous new records of the genus Zoosphaerium from Madagascar (Diplopoda, Sphaerotheriida, Arthrosphaeridae)</mods:title>
+</mods:titleInfo>
+<mods:name id="564F00A4A4774CE9F6DDF4EEEC37714A" type="personal">
+<mods:role id="C92B8CAF145E602EC72D4B0B49AF46E1">
+<mods:roleTerm id="5DA14C29D503D64197DD6DEF7AF4AE50">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EC83CD3611764167D0E54154E81353DD">Wesener, Thomas</mods:namePart>
+<mods:nameIdentifier id="0FFEE5CC54CEB5F1B04158C0B9DF936D" type="LSID">86DEA7CD-988C-43EC-B9D6-C51000595B47</mods:nameIdentifier>
+<mods:affiliation id="AB851A61CFC7F22B0CD4F181B2D8201E">Zoological Research Museum Alexander Koenig (ZFMK), Leibniz Institute for Animal Biodiversity, Section Myriapoda, Adenauerallee 160, D- 53113 Bonn, Germany.</mods:affiliation>
+<mods:nameIdentifier id="53CD69EB79CBC672D683F2BF5EA24542" type="email">t.wesener@leibniz-zfmk.de</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7AC3F68E73CE9414686797E31C7FEEDB" type="personal">
+<mods:role id="88B05A5ED2FDFA4B1A031365602822EE">
+<mods:roleTerm id="29F3FD45CA4B2A1C31FFA84A671457B1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E1852780F78AE76B2255D83B6414296B">Sagorny, Christina</mods:namePart>
+<mods:nameIdentifier id="B12D9E3F4A98B85DA7D8D51B2EB21645" type="LSID">9C89C1B7-897A-426E-8FD4-C747DF004C85</mods:nameIdentifier>
+<mods:affiliation id="3E9CC6A3BAF996129023D24F393D9D13">Zoological Research Museum Alexander Koenig (ZFMK), Leibniz Institute for Animal Biodiversity, Section Myriapoda, Adenauerallee 160, D- 53113 Bonn, Germany. &amp; University of Bonn, Institute of Evolutionary Biology and Ecology, D- 53121 Bonn, Germany.</mods:affiliation>
+<mods:nameIdentifier id="41DB5B30ABB3C5C5CAC4ADB8DF270D9F" type="email">csagorny@evolution.uni-bonn.de</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="DDAE4D458C3FA09F566848B5A16E4C92">text</mods:typeOfResource>
+<mods:relatedItem id="7F730C3FC5462DB40B9A33E3730FF419" type="host">
+<mods:titleInfo id="D78D27DBC05730B1C53920C2D51FD5DA">
+<mods:title id="3D64E2B1462E6B52EE84EA2CE6D16924">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="BD94E921028067D9F9D78D796E5AD78A">
+<mods:date id="8842440C792B5131B86D10185066E1E1">2021</mods:date>
+<mods:detail id="95CC1C8E2901FDDCAEEC5725B138D496" type="pubDate">
+<mods:number id="7B2DE7FF14BD14B83B8433E0AD909AAD">2021-07-06</mods:number>
+</mods:detail>
+<mods:detail id="81D8918B35A1E5749D658E3860840DB4" type="volume">
+<mods:number id="28728DACDB4CDD3CA1B8413698D2B428">758</mods:number>
+</mods:detail>
+<mods:detail id="DE9021FD3070C1EAAF70FA478E5DB038" type="issue">
+<mods:number id="527106CF84BF036BBE9FE652A1615712">1</mods:number>
+</mods:detail>
+<mods:extent id="F4E2D55B3377BB2C71466DD1231DC6BA" unit="page">
+<mods:start id="94B23535375B6E3010A7A8A1F95AE9D1">1</mods:start>
+<mods:end id="47EBD5DBCBDA3D4DBF67F3A9F7321B45">48</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="05BEBE198431F81CF7F40DF1906D86D7">
+<mods:url id="EDCB710C89F2F15C21D6931DC74BFC19">http://dx.doi.org/10.5852/ejt.2021.758.1423</mods:url>
+</mods:location>
+<mods:classification id="63B69E17B4F6CD4D0745F7B0F6401FA7">journal article</mods:classification>
+<mods:identifier id="08B95D9361727A94157FEFCC69C89D09" type="DOI">https://doi.org/10.5852/ejt.2021.758.1423</mods:identifier>
+<mods:identifier id="C91DAE3ED86B6DDDFE58E4208E593CD7" type="GBIF-Dataset">de9c0c06-0e7d-44a6-a582-d41a346233f6</mods:identifier>
+<mods:identifier id="E54DCDE63C7D07C7AC93FDB5ED399211" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A688566DED7FEC10546AA99E238CA36" type="Zenodo-Dep">5075824</mods:identifier>
+<mods:identifier id="268D8E97D9A4C3088DC2CA16AB02C6F5" type="ZooBank">01BBC12C-E715-4393-A9F6-6EA85CB1289F</mods:identifier>
+</mods:mods>
+<treatment id="03BF4B62FF97E01E1FD3FE5080BEF913" ID-DOI="http://doi.org/10.5281/zenodo.5076218" ID-Zenodo-Dep="5076218" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913" httpUri="http://treatment.plazi.org/id/03BF4B62FF97E01E1FD3FE5080BEF913" lastPageId="42" lastPageNumber="42" pageId="41" pageNumber="42">
+<subSubSection id="C30CA9FFFF97E01D1FD3FE50863EFE73" box="[469,1119,426,454]" pageId="41" pageNumber="42" type="nomenclature">
+<paragraph id="8BA9FA74FF97E01D1FD3FE50863EFE73" blockId="41.[469,1119,426,454]" box="[469,1119,426,454]" pageId="41" pageNumber="42">
+<heading id="D0E14D18FF97E01D1FD3FE50863EFE73" box="[469,1119,426,454]" centered="true" fontSize="11" level="2" pageId="41" pageNumber="42" reason="2">
+Unidentifiable 
+<taxonomicName id="4C1681F7FF97E01D1C82FE51810FFE70" authority="Pocock, 1895" box="[644,878,426,453]" class="Diplopoda" family="Arthrosphaeridae" genus="Zoosphaerium" kingdom="Animalia" order="Sphaerotheriida" pageId="41" pageNumber="42" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="B9622666FF97E01D1C82FE51810FFE70" bold="true" box="[644,878,426,453]" pageId="41" pageNumber="42">
+<emphasis id="B9622666FF97E01D1C82FE518155FE70" bold="true" box="[644,820,426,453]" italics="true" pageId="41" pageNumber="42">Zoosphaerium</emphasis>
+spp.
+</emphasis>
+</taxonomicName>
+(mainly immatures)
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C30CA9FFFF97E01E1EBBFE0880BEF913" lastPageId="42" lastPageNumber="43" pageId="41" pageNumber="42" type="materials_examined">
+<paragraph id="8BA9FA74FF97E01D1EBBFE0883CBFDB8" blockId="41.[189,426,499,525]" box="[189,426,499,525]" pageId="41" pageNumber="42">
+<heading id="D0E14D18FF97E01D1EBBFE0883CBFDB8" bold="true" box="[189,426,499,525]" fontSize="11" level="3" pageId="41" pageNumber="42" reason="3">
+<emphasis id="B9622666FF97E01D1EBBFE0883CBFDB8" bold="true" box="[189,426,499,525]" pageId="41" pageNumber="42">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BA9FA74FF97E01E1EBBFDD980BEF913" blockId="41.[187,1400,545,1981]" lastBlockId="42.[186,1401,265,1703]" lastPageId="42" lastPageNumber="43" pageId="41" pageNumber="42">
+<materialsCitation id="3B7EF029FF97E01D1EBBFDD9803EFD36" collectingDate="1993-11-10" collectingDateMax="1993-11-16" collectingDateMin="1993-11-10" collectionCode="NHMD" collectorName="J. Coddington &amp; N. Scharff &amp; S. Larcher &amp; C. Griswold &amp; R. Andriamasimanana" country="Madagascar" elevation="700" latitude="-14.433333" location="Marojejy Res." longLatPrecision="1288" longitude="49.75" pageId="41" pageNumber="42" specimenCount="1" stateProvince="Antsiranana">
+<collectingCountry id="F301BAE4FF97E01D1EBBFDD983EFFD89" box="[189,398,546,572]" name="Madagascar" pageId="41" pageNumber="42">MADAGASCAR</collectingCountry>
+– 
+<emphasis id="B9622666FF97E01D1FB5FDD9802EFD89" bold="true" box="[435,591,546,572]" pageId="41" pageNumber="42">
+<collectingRegion id="49D23496FF97E01D1FB5FDD9802EFD89" box="[435,591,546,572]" country="Madagascar" name="Antsiranana" pageId="41" pageNumber="42">Antsiranana</collectingRegion>
+</emphasis>
+• 
+<specimenCount id="9D1031FDFF97E01D1C77FDD980AAFD88" box="[625,715,546,573]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF97E01D1CDDFDD981E8FD88" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1CDDFDD981E8FD88" box="[731,905,546,573]" country="Madagascar" latitude="-14.433333" longLatPrecision="1288" longitude="49.75" name="Marojejy Res." pageId="41" pageNumber="42" stateProvince="Antsiranana">Marojejy Res.</location>
+; 
+<locationDeviation id="9A1BE356FF97E01D1D9FFDD98696FD89" box="[921,1271,546,573]" location="Manantenina" pageId="41" pageNumber="42">
+<quantity id="4CEE5791FF97E01D1D9FFDD981B9FD89" box="[921,984,546,572]" metricMagnitude="3" metricUnit="m" metricValue="4.0" pageId="41" pageNumber="42" unit="km" value="4.0">4 km</quantity>
+NNW of Manantenina
+</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1B00FDDA8710FD89" box="[1286,1393,545,573]" degrees="14" direction="south" minutes="26" orientation="latitude" pageId="41" pageNumber="42" precision="925" value="-14.433333">14°26′ S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1EBBFDBF834DFDD5" box="[189,300,580,608]" degrees="49" direction="east" minutes="45" orientation="longitude" pageId="41" pageNumber="42" precision="925" value="49.75">49°45′ E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1F77FDBD83A5FDD5" box="[369,452,582,608]" metricMagnitude="2" metricUnit="m" metricValue="7.0" pageId="41" pageNumber="42" unit="m" value="700.0">
+<elevation id="003B1D47FF97E01D1F77FDBD83A5FDD5" box="[369,452,582,608]" metricMagnitude="2" metricUnit="m" metricValue="7.0" pageId="41" pageNumber="42" unit="m" value="700.0">700 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF97E01D1FD0FDBE80D0FDD5" box="[470,689,581,608]" pageId="41" pageNumber="42" value="1993-11-10" valueMax="1993-11-16" valueMin="1993-11-10">
+<collectingDate id="EFEC255CFF97E01D1FD0FDBE80D0FDD5" box="[470,689,581,608]" pageId="41" pageNumber="42" value="1993-11-10" valueMax="1993-11-16" valueMin="1993-11-10">10–16 Nov. 1993</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1CC5FDBD8110FDEA" box="[707,881,581,608]" pageId="41" pageNumber="42">J. Coddington</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1D84FDBD8665FDEA" box="[898,1028,581,608]" pageId="41" pageNumber="42">N. Scharff</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1A13FDBD86F6FDEA" box="[1045,1175,581,608]" pageId="41" pageNumber="42">S. Larcher</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1AAFFDBD875FFDEA" box="[1193,1342,581,608]" pageId="41" pageNumber="42">C. Griswold</collectorName>
+and 
+<collectorName id="26E39FA2FF97E01D1EBBFD9283A3FD36" box="[189,450,617,643]" pageId="41" pageNumber="42">R. Andriamasimanana</collectorName>
+leg.; 
+<collectionCode id="ED0762B1FF97E01D1C03FD92803EFD36" box="[517,607,617,643]" pageId="41" pageNumber="42">NHMD</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1C7FFD928707FD13" collectingDate="1993-11-23" collectingDateMax="1993-11-28" collectingDateMin="1993-11-23" collectionCode="NHMD" collectorName="J. Coddington &amp; N. Scharff &amp; S. Larcher &amp; C. Griswold &amp; R. Andriamasimanana" country="Madagascar" elevation="1100" latitude="-12.533334" location="Montagne d'Ambre" longLatPrecision="1293" longitude="49.166668" pageId="41" pageNumber="42" specimenCount="1" specimenCount-female="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1C7FFD9280C7FD36" box="[633,678,617,643]" pageId="41" pageNumber="42" type="female">1 ♀</specimenCount>
+; 
+<location id="8EC9ACAFFF97E01D1CB3FD9281C3FD36" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1CB3FD9281C3FD36" box="[693,930,617,643]" country="Madagascar" latitude="-12.533334" longLatPrecision="1293" longitude="49.166668" name="Montagne d'Ambre" pageId="41" pageNumber="42" stateProvince="Antsiranana">Montagne dʼAmbre</location>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1DA8FD9C8675FD36" box="[942,1044,615,643]" degrees="12" direction="south" minutes="32" orientation="latitude" pageId="41" pageNumber="42" precision="925" value="-12.533334">12°32′ S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1A24FD9C86EDFD36" box="[1058,1164,615,643]" degrees="49" direction="east" minutes="10" orientation="longitude" pageId="41" pageNumber="42" precision="925" value="49.166668">49°10′ E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1AC3FD928741FD36" box="[1221,1312,617,643]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="41" pageNumber="42" unit="m" value="1100.0">
+<elevation id="003B1D47FF97E01D1AC3FD928741FD36" box="[1221,1312,617,643]" metricMagnitude="3" metricUnit="m" metricValue="1.1" pageId="41" pageNumber="42" unit="m" value="1100.0">1100 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF97E01D1B2BFD928358FD13" pageId="41" pageNumber="42" value="1993-11-23" valueMax="1993-11-28" valueMin="1993-11-23">
+<collectingDate id="EFEC255CFF97E01D1B2BFD928358FD13" pageId="41" pageNumber="42" value="1993-11-23" valueMax="1993-11-28" valueMin="1993-11-23">23–28 Nov. 1993</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1F43FD77838DFD13" box="[325,492,652,678]" pageId="41" pageNumber="42">J. Coddington</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1FF0FD778010FD13" box="[502,625,652,678]" pageId="41" pageNumber="42">N. Scharff</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1C7AFD778096FD13" box="[636,759,652,678]" pageId="41" pageNumber="42">S. Larcher</collectorName>
+, 
+<collectorName id="26E39FA2FF97E01D1D04FD7781F1FD13" box="[770,912,652,678]" pageId="41" pageNumber="42">C. Griswold</collectorName>
+and 
+<collectorName id="26E39FA2FF97E01D1DCEFD7786ADFD13" box="[968,1228,652,678]" pageId="41" pageNumber="42">R. Andriamasimanana</collectorName>
+leg.; 
+<collectionCode id="ED0762B1FF97E01D1B0AFD778707FD13" box="[1292,1382,652,678]" collectionName="NHMD" pageId="41" pageNumber="42">NHMD</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1EBBFD548126FD7F" box="[189,839,687,714]" collectingDate="1993-11-23" collectingDateMax="1993-11-28" collectingDateMin="1993-11-23" collectionCode="NHMD" collectorName="J. Coddington &amp; N. Scharff &amp; S. Larcher &amp; C. Griswold &amp; R. Andriamasimanana" country="Madagascar" elevation="1100" latitude="-12.533334" location="Montagne d'Ambre" longLatPrecision="1293" longitude="49.166668" pageId="41" pageNumber="42" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1EBBFD548372FD7F" box="[189,275,687,714]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; same collection data as for preceding; 
+<collectionCode id="ED0762B1FF97E01D1CEBFD4B8126FD7F" box="[749,839,688,714]" collectionName="NHMD" pageId="41" pageNumber="42">NHMD</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1D65FD54816AFCA5" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-08" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="284" latitude="-12.8461" location="Ankarana Reserve" longLatPrecision="541" longitude="49.15" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 908" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1D65FD5481DCFD7F" box="[867,957,687,714]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; N 
+<location id="8EC9ACAFFF97E01D1DE1FD5486A2FD7F" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1DE1FD5486A2FD7F" box="[999,1219,687,714]" country="Madagascar" latitude="-12.8461" longLatPrecision="541" longitude="49.15" name="Ankarana Reserve" pageId="41" pageNumber="42" stateProvince="Antsiranana">Ankarana Reserve</location>
+, 
+<location id="8EC9ACAFFF97E01D1AD7FD54837BFD59" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1AD7FD54837BFD59" country="Madagascar" latitude="-12.8461" longLatPrecision="541" longitude="49.15" name="base of tsingy summit" pageId="41" pageNumber="42" stateProvince="Antsiranana">base of tsingy summit</location>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1F22FD2983C6FD59" box="[292,423,722,748]" degrees="12.8461" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8461">12.8461° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1FB4FD29807BFD58" box="[434,538,722,749]" degrees="49.15" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="555" value="49.15">49.15° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C49FD2980FAFD58" box="[591,667,722,749]" metricMagnitude="2" metricUnit="m" metricValue="2.84" pageId="41" pageNumber="42" unit="m" value="284.0">
+<elevation id="003B1D47FF97E01D1C49FD2980FAFD58" box="[591,667,722,749]" metricMagnitude="2" metricUnit="m" metricValue="2.84" pageId="41" pageNumber="42" unit="m" value="284.0">284 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1CA0FD298651FD59" box="[678,1072,722,749]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1A3CFD2986A2FD59" box="[1082,1219,722,749]" pageId="41" pageNumber="42" value="2007-04-08">
+<collectingDate id="EFEC255CFF97E01D1A3CFD2986A2FD59" box="[1082,1219,722,749]" pageId="41" pageNumber="42" value="2007-04-08">8 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1AC8FD288719FD59" box="[1230,1400,722,749]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2038; 
+<specimenCode id="DBB0520FFF97E01D1FE3FD0D816AFCA5" box="[485,779,758,784]" pageId="41" pageNumber="42">FMNH-INS 000 103 908</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1D24FD0D80BEFCE3" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-08" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="294" latitude="-12.8465" location="Ankarana Reserve" longLatPrecision="7" longitude="49.1503" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 909" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1D24FD0D8117FCA5" box="[802,886,758,784]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; N 
+<location id="8EC9ACAFFF97E01D1D9AFD0E8617FCA5" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1D9AFD0E8617FCA5" box="[924,1142,757,784]" country="Madagascar" latitude="-12.8465" longLatPrecision="7" longitude="49.1503" name="Ankarana Reserve" pageId="41" pageNumber="42" stateProvince="Antsiranana">Ankarana Reserve</location>
+, 
+<location id="8EC9ACAFFF97E01D1A87FD0E876BFCBA" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1A87FD0E876BFCBA" box="[1153,1290,757,783]" country="Madagascar" latitude="-12.8465" longLatPrecision="7" longitude="49.1503" name="local tsingy" pageId="41" pageNumber="42" stateProvince="Antsiranana">local tsingy</location>
+, summit; 
+<geoCoordinate id="EE229CB3FF97E01D1EBAFCE38321FC86" box="[188,320,792,819]" degrees="12.8465" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8465">12.8465° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1F4AFCE383B2FC86" box="[332,467,792,819]" degrees="49.1503" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.1503">49.1503° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C0FFCE28037FC86" box="[521,598,793,819]" metricMagnitude="2" metricUnit="m" metricValue="2.94" pageId="41" pageNumber="42" unit="m" value="294.0">
+<elevation id="003B1D47FF97E01D1C0FFCE28037FC86" box="[521,598,793,819]" metricMagnitude="2" metricUnit="m" metricValue="2.94" pageId="41" pageNumber="42" unit="m" value="294.0">294 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1C67FCE28191FC86" box="[609,1008,793,819]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1DFCFCE286E7FC86" box="[1018,1158,793,819]" pageId="41" pageNumber="42" value="2007-04-08">
+<collectingDate id="EFEC255CFF97E01D1DFCFCE286E7FC86" box="[1018,1158,793,819]" pageId="41" pageNumber="42" value="2007-04-08">8 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1A97FCE2875DFC86" box="[1169,1340,793,819]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2037; 
+<specimenCode id="DBB0520FFF97E01D1FB4FCC780BEFCE3" box="[434,735,828,854]" pageId="41" pageNumber="42">FMNH-INS 000 103 909</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1CFCFCC7804FFC29" collectedFrom="dry deciduous forest on lava" collectingDate="2007-04-14" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="331" latitude="-12.8329" location="roadside" longLatPrecision="7" longitude="49.2286" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 904" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1CFCFCC78130FCE3" box="[762,849,828,854]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1D58FCC78609FCE3" box="[862,1128,828,854]" pageId="41" pageNumber="42">NE Ankarana Reserve</locationDeviation>
+, 
+<location id="8EC9ACAFFF97E01D1A70FCC786BCFCE3" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1A70FCC786BCFCE3" box="[1142,1245,828,854]" country="Madagascar" latitude="-12.8329" longLatPrecision="7" longitude="49.2286" name="roadside" pageId="41" pageNumber="42" stateProvince="Antsiranana">roadside</location>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1AECFCC78711FCE3" box="[1258,1392,828,854]" degrees="12.8329" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8329">12.8329° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1EB8FCA48327FCCF" box="[190,326,863,890]" degrees="49.2286" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.2286">49.2286° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1F79FCA483ACFCCF" box="[383,461,863,890]" metricMagnitude="2" metricUnit="m" metricValue="3.31" pageId="41" pageNumber="42" unit="m" value="331.0">
+<elevation id="003B1D47FF97E01D1F79FCA483ACFCCF" box="[383,461,863,890]" metricMagnitude="2" metricUnit="m" metricValue="3.31" pageId="41" pageNumber="42" unit="m" value="331.0">331 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1FDCFCA4814AFCCC" box="[474,811,863,890]" pageId="41" pageNumber="42">dry deciduous forest on lava</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1D31FCA481B5FCCC" box="[823,980,863,889]" pageId="41" pageNumber="42" value="2007-04-14">
+<collectingDate id="EFEC255CFF97E01D1D31FCA481B5FCCC" box="[823,980,863,889]" pageId="41" pageNumber="42" value="2007-04-14">14 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1DE6FC9B86ECFCCC" box="[992,1165,863,890]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI- 2066; 
+<specimenCode id="DBB0520FFF97E01D1F01FC79804FFC29" box="[263,558,898,924]" pageId="41" pageNumber="42">FMNH-INS 000 103 904</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1C41FC7980B3FC56" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-14" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="294" latitude="-12.8609" location="Ankarana Reserve" longLatPrecision="7" longitude="49.2267" pageId="41" pageNumber="42" specimenCode="MBI-2068, FMNH-INS 000 103 911" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1C41FC7980FEFC28" box="[583,671,898,925]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1CADFC7881FCFC28" box="[683,925,898,925]" pageId="41" pageNumber="42">E Ankarana Reserve</locationDeviation>
+, 
+<locationDeviation id="9A1BE356FF97E01D1DAFFC798713FC29" box="[937,1394,898,925]" pageId="41" pageNumber="42">
+talus and rocks below 
+<quantity id="4CEE5791FF97E01D1AA8FC798688FC28" box="[1198,1257,898,925]" metricMagnitude="1" metricUnit="m" metricValue="2.0" pageId="41" pageNumber="42" unit="m" value="20.0">20 m</quantity>
+tsingy cliff
+</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1EBBFC5E8321FC75" box="[189,320,933,960]" degrees="12.8609" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8609">12.8609° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1F4DFC5E83B0FC75" box="[331,465,933,960]" degrees="49.2267" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.2267">49.2267° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C00FC5D8030FC75" box="[518,593,934,960]" metricMagnitude="2" metricUnit="m" metricValue="2.94" pageId="41" pageNumber="42" unit="m" value="294.0">
+<elevation id="003B1D47FF97E01D1C00FC5D8030FC75" box="[518,593,934,960]" metricMagnitude="2" metricUnit="m" metricValue="2.94" pageId="41" pageNumber="42" unit="m" value="294.0">294 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1C5AFC5E8186FC0A" box="[604,999,933,960]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1DF6FC5D86E8FC75" box="[1008,1161,934,960]" pageId="41" pageNumber="42" value="2007-04-14">
+<collectingDate id="EFEC255CFF97E01D1DF6FC5D86E8FC75" box="[1008,1161,934,960]" pageId="41" pageNumber="42" value="2007-04-14">14 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1A95FC5D875FFC0A" box="[1171,1342,933,960]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF97E01D1F27FC3283C0FC56" box="[289,417,969,995]" collectionCode="MBI-" pageId="41" pageNumber="42">MBI-2068</specimenCode>
+; 
+<specimenCode id="DBB0520FFF97E01D1FAAFC3280B3FC56" box="[428,722,969,995]" pageId="41" pageNumber="42">FMNH-INS 000 103 911</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1CECFC328173FB9C" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-14" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="315" latitude="-12.8738" location="local limestone summit" longLatPrecision="7" longitude="49.2249" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 920" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1CECFC32815FFC56" box="[746,830,969,995]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1D4CFC328631FC56" box="[842,1104,969,995]" pageId="41" pageNumber="42">NE Ankarana Reserve</locationDeviation>
+, 
+<location id="8EC9ACAFFF97E01D1A5AFC328710FC56" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1A5AFC328710FC56" box="[1116,1393,969,995]" country="Madagascar" latitude="-12.8738" longLatPrecision="7" longitude="49.2249" name="local limestone summit" pageId="41" pageNumber="42" stateProvince="Antsiranana">local limestone summit</location>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1EBBFC178322FBB3" box="[189,323,1004,1030]" degrees="12.8738" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8738">12.8738° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1F54FC1783BAFBB3" box="[338,475,1004,1030]" degrees="49.2249" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.2249">49.2249° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C11FC178007FBB3" box="[535,614,1004,1031]" metricMagnitude="2" metricUnit="m" metricValue="3.15" pageId="41" pageNumber="42" unit="m" value="315.0">
+<elevation id="003B1D47FF97E01D1C11FC178007FBB3" box="[535,614,1004,1031]" metricMagnitude="2" metricUnit="m" metricValue="3.15" pageId="41" pageNumber="42" unit="m" value="315.0">315 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1C72FC17866CFBB3" box="[628,1037,1004,1030]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1A1DFC1786DBFBB3" box="[1051,1210,1004,1030]" pageId="41" pageNumber="42" value="2007-04-14">
+<collectingDate id="EFEC255CFF97E01D1A1DFC1786DBFBB3" box="[1051,1210,1004,1030]" pageId="41" pageNumber="42" value="2007-04-14">14 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1ACEFC178717FBB3" box="[1224,1398,1004,1030]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2064; 
+<specimenCode id="DBB0520FFF97E01D1FEDFBF48173FB9C" box="[491,786,1039,1065]" pageId="41" pageNumber="42">FMNH-INS 000 103 920</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1D2DFBF48643FBC5" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-14" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="266" latitude="-12.8617" location="Ankarana Reserve" longLatPrecision="7" longitude="49.2266" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 922" specimenCount="4" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1D2DFBF481E5FB9F" box="[811,900,1039,1066]" pageId="41" pageNumber="42">4 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1D96FBEB86F6FB9F" box="[912,1175,1039,1066]" pageId="41" pageNumber="42">NE Ankarana Reserve</locationDeviation>
+, 
+<locationDeviation id="9A1BE356FF97E01D1AA5FBF483F2FBF9" pageId="41" pageNumber="42">talus below tsingy visible from road</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1FA5FBC9804AFBF9" box="[419,555,1074,1100]" degrees="12.8617" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.8617">12.8617° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1C3AFBC980A9FBF8" box="[572,712,1074,1101]" degrees="49.2266" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.2266">49.2266° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1D0EFBC9813BFBF8" box="[776,858,1074,1101]" metricMagnitude="2" metricUnit="m" metricValue="2.66" pageId="41" pageNumber="42" unit="m" value="266.0">
+<elevation id="003B1D47FF97E01D1D0EFBC9813BFBF8" box="[776,858,1074,1101]" metricMagnitude="2" metricUnit="m" metricValue="2.66" pageId="41" pageNumber="42" unit="m" value="266.0">266 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1D6CFBC9876DFBF9" box="[874,1292,1074,1101]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1B1AFBC9829AFBC5" pageId="41" pageNumber="42" value="2007-04-14">
+<collectingDate id="EFEC255CFF97E01D1B1AFBC9829AFBC5" pageId="41" pageNumber="42" value="2007-04-14">14 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1F0FFBAD83D6FBDA" box="[265,439,1109,1136]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2062; 
+<specimenCode id="DBB0520FFF97E01D1CF3FBAD8643FBC5" box="[757,1058,1110,1136]" pageId="41" pageNumber="42">FMNH-INS 000 103 922</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1A39FBAD8705FB03" collectedFrom="litter-loam pockets in limestone brocks, dry deciduous forest on limestone" collectingDate="2007-04-23" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="36" latitude="-12.6833" location="Analamerana" longLatPrecision="7" longitude="49.5333" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 929" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1A39FBAD86F7FBC5" box="[1087,1174,1110,1136]" pageId="41" pageNumber="42" type="generic">2 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1AA2FBAD8334FB26" pageId="41" pageNumber="42">NE Analamerana, near summit</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1F66FB828385FB26" box="[352,484,1145,1171]" degrees="12.6833" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.6833">12.6833° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1FF7FB838018FB26" box="[497,633,1144,1171]" degrees="49.5333" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.5333">49.5333° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1CB7FB82808EFB26" box="[689,751,1145,1171]" metricMagnitude="1" metricUnit="m" metricValue="3.6" pageId="41" pageNumber="42" unit="m" value="36.0">
+<elevation id="003B1D47FF97E01D1CB7FB82808EFB26" box="[689,751,1145,1171]" metricMagnitude="1" metricUnit="m" metricValue="3.6" pageId="41" pageNumber="42" unit="m" value="36.0">36 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1CFAFB8283C2FB03" pageId="41" pageNumber="42">litter-loam pockets in limestone brocks, dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1FA9FB67802AFB03" box="[431,587,1180,1206]" pageId="41" pageNumber="42" value="2007-04-23">
+<collectingDate id="EFEC255CFF97E01D1FA9FB67802AFB03" box="[431,587,1180,1206]" pageId="41" pageNumber="42" value="2007-04-23">23 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1C5EFB678164FB03" box="[600,773,1180,1206]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2072; 
+<specimenCode id="DBB0520FFF97E01D1A3DFB678705FB03" box="[1083,1380,1180,1206]" pageId="41" pageNumber="42">FMNH-INS 000 103 929</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1EBBFB448382FA95" collectedFrom="limestone outcrop, dry deciduous forest on limestone" collectingDate="2007-04-25" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="160" latitude="-12.6833" location="Analamerana" longLatPrecision="7" longitude="49.5333" pageId="41" pageNumber="42" specimenCode="MBI-2086, FMNH-INS 000 103 921" specimenCount="3" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1EBBFB44837AFB6F" box="[189,283,1215,1242]" pageId="41" pageNumber="42">3 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1F2BFB3B839FFB6C" box="[301,510,1215,1242]" pageId="41" pageNumber="42">NE Analamerana</locationDeviation>
+, 
+<quantity id="4CEE5791FF97E01D1C16FB44803EFB6F" box="[528,607,1215,1242]" metricMagnitude="2" metricUnit="m" metricValue="1.6" pageId="41" pageNumber="42" unit="m" value="160.0">
+<elevation id="003B1D47FF97E01D1C16FB44803EFB6F" box="[528,607,1215,1242]" metricMagnitude="2" metricUnit="m" metricValue="1.6" pageId="41" pageNumber="42" unit="m" value="160.0">160 m</elevation>
+</quantity>
+downslope E from summit; 
+<geoCoordinate id="EE229CB3FF97E01D1DCFFB448632FB6C" box="[969,1107,1215,1241]" degrees="12.6833" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.6833">12.6833° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1A60FB448692FB6F" box="[1126,1267,1215,1242]" degrees="49.5333" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.5333">49.5333° E</geoCoordinate>
+; 
+<collectedFrom id="380AB989FF97E01D1B02FB4480A8FB49" pageId="41" pageNumber="42">limestone outcrop, dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1CDEFB19811DFB49" box="[728,892,1250,1277]" pageId="41" pageNumber="42" value="2007-04-25">
+<collectingDate id="EFEC255CFF97E01D1CDEFB19811DFB49" box="[728,892,1250,1277]" pageId="41" pageNumber="42" value="2007-04-25">25 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1D8DFB18865AFB49" box="[907,1083,1250,1277]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF97E01D1AF4FB198713FB49" box="[1266,1394,1250,1276]" collectionCode="MBI-" pageId="41" pageNumber="42">MBI-2086</specimenCode>
+; 
+<specimenCode id="DBB0520FFF97E01D1EBBFAFD8382FA95" box="[189,483,1286,1312]" pageId="41" pageNumber="42">FMNH-INS 000 103 921</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1FFDFAFD8146FAD3" collectingDate="2007-04-26" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" latitude="-12.6833" location="Analamerana" longLatPrecision="7" longitude="49.5333" municipality="Analamerana" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 903" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1FFDFAFD8031FA95" box="[507,592,1286,1312]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; NE 
+<collectingMunicipality id="6BCD600EFF97E01D1C8EFAFE8146FAAA" box="[648,807,1285,1311]" pageId="41" pageNumber="42">Analamerana</collectingMunicipality>
+, 
+<locationDeviation id="9A1BE356FF97E01D1D34FAFD8329FAF6" pageId="41" pageNumber="42">
+on W bank of Antafiamantsina River, at waterfall, 3 
+<superScript id="7C63573CFF97E01D1ECAFAD382BBFA83" attach="left" box="[204,218,1320,1334]" fontSize="6" pageId="41" pageNumber="42">rd</superScript>
+rapid up
+</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1F52FAD283BBFAF6" box="[340,474,1321,1347]" degrees="12.6833" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.6833">12.6833° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1FEEFAD38011FAF6" box="[488,624,1320,1347]" degrees="49.5333" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.5333">49.5333° E</geoCoordinate>
+; dry deciduous forest on limestone; 
+<date id="FFA8DCB4FF97E01D1A19FAD286DCFAF6" box="[1055,1213,1321,1347]" pageId="41" pageNumber="42" value="2007-04-26">
+<collectingDate id="EFEC255CFF97E01D1A19FAD286DCFAF6" box="[1055,1213,1321,1347]" pageId="41" pageNumber="42" value="2007-04-26">26 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1ACCFAD28716FAF6" box="[1226,1399,1321,1347]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2099; 
+<specimenCode id="DBB0520FFF97E01D1FF0FAB78146FAD3" box="[502,807,1356,1382]" pageId="41" pageNumber="42">FMNH-INS 000 103 903</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1D40FAB78647FA19" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-04-26" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="180" latitude="-12.6833" location="Analamerana" longLatPrecision="7" longitude="49.5333" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 917" specimenCount="7" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1D40FAB781C3FAD3" box="[838,930,1356,1382]" pageId="41" pageNumber="42">7 specs</specimenCount>
+; NE 
+<location id="8EC9ACAFFF97E01D1DE6FAB7861EFAD3" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1DE6FAB7861EFAD3" box="[992,1151,1356,1382]" country="Madagascar" latitude="-12.6833" longLatPrecision="7" longitude="49.5333" name="Analamerana" pageId="41" pageNumber="42" stateProvince="Antsiranana">Analamerana</location>
+, 
+<locationDeviation id="9A1BE356FF97E01D1A88FAB78056FA3C" pageId="41" pageNumber="42">
+small tsingy 
+<quantity id="4CEE5791FF97E01D1B2CFAB78719FAD3" box="[1322,1400,1356,1382]" metricMagnitude="2" metricUnit="m" metricValue="1.8" pageId="41" pageNumber="42" unit="m" value="180.0">180 m</quantity>
+above river, ca 30 minute walk
+</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1C43FA9480ADFA3C" box="[581,716,1391,1417]" degrees="12.6833" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-12.6833">12.6833° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1CDAFA948104FA3F" box="[732,869,1391,1418]" degrees="49.5333" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.5333">49.5333° E</geoCoordinate>
+; 
+<collectedFrom id="380AB989FF97E01D1D72FA948771FA3C" box="[884,1296,1391,1418]" pageId="41" pageNumber="42">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1B18FA94829AFA19" pageId="41" pageNumber="42" value="2007-04-26">
+<collectingDate id="EFEC255CFF97E01D1B18FA94829AFA19" pageId="41" pageNumber="42" value="2007-04-26">26 Apr. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1F0FFA6883D9FA19" box="[265,440,1426,1453]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2094; 
+<specimenCode id="DBB0520FFF97E01D1CF1FA698647FA19" box="[759,1062,1426,1452]" pageId="41" pageNumber="42">FMNH-INS 000 103 917</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1A42FA69869BFA46" collectedFrom="spring-bottle tree stand, dry deciduous forest on limestone" collectingDate="2007-05-04" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="11" latitude="-11.9698" location="Pointe du Phoque" longLatPrecision="7" longitude="49.2845" municipality="Cap d'Ambre" pageId="41" pageNumber="42" specimenCode="MBI-2108, FMNH-INS 000 103 910" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1A42FA6986FEFA18" box="[1092,1183,1426,1453]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; N 
+<collectingMunicipality id="6BCD600EFF97E01D1ACAFA698713FA19" box="[1228,1394,1426,1452]" pageId="41" pageNumber="42">Cap d’Ambre</collectingMunicipality>
+, 
+<location id="8EC9ACAFFF97E01D1EB9FA4E83F5FA7A" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF97E01D1EB9FA4E83F5FA7A" box="[191,404,1461,1487]" country="Madagascar" latitude="-11.9698" longLatPrecision="7" longitude="49.2845" municipality="Cap d'Ambre" name="Pointe du Phoque" pageId="41" pageNumber="42" stateProvince="Antsiranana">Pointe du Phoque</location>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1FA7FA4E8044FA65" box="[417,549,1461,1488]" degrees="11.9698" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-11.9698">11.9698° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1C35FA4E80DAFA65" box="[563,699,1461,1488]" degrees="49.2845" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.2845">49.2845° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1CF0FA4D8155FA65" box="[758,820,1462,1488]" metricMagnitude="1" metricUnit="m" metricValue="1.1" pageId="41" pageNumber="42" unit="m" value="11.0">
+<elevation id="003B1D47FF97E01D1CF0FA4D8155FA65" box="[758,820,1462,1488]" metricMagnitude="1" metricUnit="m" metricValue="1.1" pageId="41" pageNumber="42" unit="m" value="11.0">11 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1D44FA4E8352FA46" pageId="41" pageNumber="42">spring-bottle tree stand, dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1F46FA2283B4FA46" box="[320,469,1497,1523]" pageId="41" pageNumber="42" value="2007-05-04">
+<collectingDate id="EFEC255CFF97E01D1F46FA2283B4FA46" box="[320,469,1497,1523]" pageId="41" pageNumber="42" value="2007-05-04">4 May 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1FE5FA2280F0FA46" box="[483,657,1497,1523]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF97E01D1D46FA2281A1FA46" box="[832,960,1497,1523]" collectionCode="MBI-" pageId="41" pageNumber="42">MBI-2108</specimenCode>
+; 
+<specimenCode id="DBB0520FFF97E01D1DCBFA22869BFA46" box="[973,1274,1497,1523]" pageId="41" pageNumber="42">FMNH-INS 000 103 910</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1B11FA228705F98C" collectedFrom="partially cut rainforest on granite" collectingDate="2007-07-29" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="270" latitude="-14.6805" longLatPrecision="7" longitude="50.0325" municipality="Mahadera" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 906" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1B11FA228713FA46" box="[1303,1394,1497,1523]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1EB9FA07815BF9A3" box="[191,826,1532,1558]" pageId="41" pageNumber="42">NW of Antalaha, S of Mahadera, Mt. Ambohodrapaka</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1D40FA0781A8F9A3" box="[838,969,1532,1559]" degrees="14.6805" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.6805">14.6805° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1DD0FA07863DF9A3" box="[982,1116,1532,1559]" degrees="50.0325" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="50.0325">50.0325° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1A92FA078681F9A3" box="[1172,1248,1532,1558]" metricMagnitude="2" metricUnit="m" metricValue="2.7" pageId="41" pageNumber="42" unit="m" value="270.0">
+<elevation id="003B1D47FF97E01D1A92FA078681F9A3" box="[1172,1248,1532,1558]" metricMagnitude="2" metricUnit="m" metricValue="2.7" pageId="41" pageNumber="42" unit="m" value="270.0">270 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1AEAFA0783CFF98C" pageId="41" pageNumber="42">partially cut rainforest on granite</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1FBCF9E4802FF98C" box="[442,590,1567,1593]" pageId="41" pageNumber="42" value="2007-07-29">
+<collectingDate id="EFEC255CFF97E01D1FBCF9E4802FF98C" box="[442,590,1567,1593]" pageId="41" pageNumber="42" value="2007-07-29">29 Jul. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1C5DF9DB8166F98C" box="[603,775,1567,1594]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2403; 
+<specimenCode id="DBB0520FFF97E01D1A3AF9E48705F98C" box="[1084,1380,1567,1593]" pageId="41" pageNumber="42">FMNH-INS 000 103 906</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1EBBF9B98762F9E9" box="[189,1283,1602,1629]" collectedFrom="partially cut rainforest on granite" collectingDate="2007-07-29" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="270" latitude="-14.6805" location="Mt. Ambohodrapaka" longLatPrecision="7" longitude="50.0325" municipality="Mahadera" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 907" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1EBBF9B98377F9E8" box="[189,278,1602,1629]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; same collection data as for preceding; coll. no. MBI-2404; 
+<specimenCode id="DBB0520FFF97E01D1DDDF9B98762F9E9" box="[987,1283,1602,1628]" pageId="41" pageNumber="42">FMNH-INS 000 103 907</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1B1BF9B98704F916" collectedFrom="partially cut rainforest on granite" collectingDate="2007-07-29" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="369" latitude="-14.6836" location="Mt Ambohodrapaka" longLatPrecision="53" longitude="50.031" municipality="Mahadera" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 924" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1B1BF9B98713F9E8" box="[1309,1394,1602,1629]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1EBBF99D815AF9CA" box="[189,827,1637,1664]" pageId="41" pageNumber="42">NW of Antalaha, S of Mahadera, Mt Ambohodrapaka</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1D4EF99E81ACF935" box="[840,973,1637,1664]" degrees="14.6836" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.6836">14.6836° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1DDDF99E8635F935" box="[987,1108,1637,1664]" degrees="50.031" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="55" value="50.031">50.031° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1A88F99E86BDF935" box="[1166,1244,1637,1664]" metricMagnitude="2" metricUnit="m" metricValue="3.69" pageId="41" pageNumber="42" unit="m" value="369.0">
+<elevation id="003B1D47FF97E01D1A88F99E86BDF935" box="[1166,1244,1637,1664]" metricMagnitude="2" metricUnit="m" metricValue="3.69" pageId="41" pageNumber="42" unit="m" value="369.0">369 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1AEFF99E83D1F916" pageId="41" pageNumber="42">partially cut rainforest on granite</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1FBAF9728031F916" box="[444,592,1673,1699]" pageId="41" pageNumber="42" value="2007-07-29">
+<collectingDate id="EFEC255CFF97E01D1FBAF9728031F916" box="[444,592,1673,1699]" pageId="41" pageNumber="42" value="2007-07-29">29 Jul. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1C5AF9728169F916" box="[604,776,1673,1699]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2417; 
+<specimenCode id="DBB0520FFF97E01D1A3BF9728704F916" box="[1085,1381,1673,1699]" pageId="41" pageNumber="42">FMNH-INS 000 103 924</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1EBBF9578010F95F" collectingDate="2007-07-30" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="1790" latitude="-14.4123" location="Antalaha" longLatPrecision="7" longitude="50.1755" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 905" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1EBBF9578371F973" box="[189,272,1708,1734]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1F1CF95783BBF973" box="[282,474,1708,1734]" pageId="41" pageNumber="42">NW of Antalaha</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1FE2F957800DF973" box="[484,620,1708,1734]" degrees="14. 4123" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.4123">14. 4123° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1C71F957809CF973" box="[631,765,1708,1735]" degrees="50.1755" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="50.1755">50.1755° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1D34F95781EDF973" box="[818,908,1708,1734]" metricMagnitude="3" metricUnit="m" metricValue="1.7899999999999998" pageId="41" pageNumber="42" unit="m" value="1790.0">
+<elevation id="003B1D47FF97E01D1D34F95781EDF973" box="[818,908,1708,1734]" metricMagnitude="3" metricUnit="m" metricValue="1.7899999999999998" pageId="41" pageNumber="42" unit="m" value="1790.0">1790 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF97E01D1D90F9578647F973" box="[918,1062,1708,1734]" pageId="41" pageNumber="42" value="2007-07-30">
+<collectingDate id="EFEC255CFF97E01D1D90F9578647F973" box="[918,1062,1708,1734]" pageId="41" pageNumber="42" value="2007-07-30">30 Jul. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1A37F95786BAF973" box="[1073,1243,1708,1734]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2439; 
+<specimenCode id="DBB0520FFF97E01D1F41F9348010F95F" box="[327,625,1743,1770]" pageId="41" pageNumber="42">FMNH-INS 000 103 905</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1C8AF9348013F885" collectedFrom="rainforest, on quartzite" collectingDate="2007-07-30" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="499" latitude="-14.6873" location="Mt Ambohodrapaka" longLatPrecision="7" longitude="50.0301" municipality="Mahadera" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 915" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1C8AF9348084F95F" box="[652,741,1743,1770]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1CF4F92B8711F95C" box="[754,1392,1743,1770]" pageId="41" pageNumber="42">NW of Antalaha, S of Mahadera, Mt Ambohodrapaka</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1EB8F9098322F8B9" box="[190,323,1778,1804]" degrees="14.6873" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.6873">14.6873° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1F56F90983B9F8B8" box="[336,472,1778,1805]" degrees="50.0301" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="50.0301">50.0301° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C17F909803EF8B8" box="[529,607,1778,1805]" metricMagnitude="2" metricUnit="m" metricValue="4.99" pageId="41" pageNumber="42" unit="m" value="499.0">
+<elevation id="003B1D47FF97E01D1C17F909803EF8B8" box="[529,607,1778,1805]" metricMagnitude="2" metricUnit="m" metricValue="4.99" pageId="41" pageNumber="42" unit="m" value="499.0">499 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1C6AF909811BF8B9" box="[620,890,1778,1805]" pageId="41" pageNumber="42">rainforest, on quartzite</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1D81F909867AF8B9" box="[903,1051,1778,1804]" pageId="41" pageNumber="42" value="2007-07-30">
+<collectingDate id="EFEC255CFF97E01D1D81F909867AF8B9" box="[903,1051,1778,1804]" pageId="41" pageNumber="42" value="2007-07-30">30 Jul. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1A2EF90886B4F8B9" box="[1064,1237,1778,1805]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2430; 
+<specimenCode id="DBB0520FFF97E01D1F4FF8ED8013F885" box="[329,626,1813,1840]" pageId="41" pageNumber="42">FMNH-INS 000 103 915</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1C8AF8ED83F1F8C3" collectingDate="2007-07-30" collectionCode="FMNH-" collectorName="Ken Emberton" country="Madagascar" elevation="545" latitude="-14.6872" location="Mt. Ambohodrapaka" longLatPrecision="7" longitude="50.0293" municipality="Mahadera" pageId="41" pageNumber="42" specimenCode="FMNH- INS 000 103 918" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1C8AF8ED8083F885" box="[652,738,1814,1840]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1CE8F8ED8713F89A" box="[750,1394,1813,1840]" pageId="41" pageNumber="42">NW of Antalaha, S of Mahadera, Mt. Ambohodrapaka</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1EB8F8C28324F8E6" box="[190,325,1849,1875]" degrees="14.6872" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.6872">14.6872° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1F53F8C383BEF8E6" box="[341,479,1848,1875]" degrees="50.0293" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="50.0293">50.0293° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1C18F8C3800FF8E6" box="[542,622,1848,1875]" metricMagnitude="2" metricUnit="m" metricValue="5.45" pageId="41" pageNumber="42" unit="m" value="545.0">
+<elevation id="003B1D47FF97E01D1C18F8C3800FF8E6" box="[542,622,1848,1875]" metricMagnitude="2" metricUnit="m" metricValue="5.45" pageId="41" pageNumber="42" unit="m" value="545.0">545 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF97E01D1C78F8C28176F8E6" box="[638,791,1849,1875]" pageId="41" pageNumber="42" value="2007-07-30">
+<collectingDate id="EFEC255CFF97E01D1C78F8C28176F8E6" box="[638,791,1849,1875]" pageId="41" pageNumber="42" value="2007-07-30">30 Jul. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1D20F8C281B7F8E6" box="[806,982,1849,1875]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2434; 
+<specimenCode id="DBB0520FFF97E01D1B1EF8C283F1F8C3" pageId="41" pageNumber="42">FMNH- INS 000 103 918</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01D1FA9F8A78057F809" collectedFrom="rainforest on quartzite" collectingDate="2007-08-10" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="487" latitude="-14.8157" location="Mt Ambodivohitra" longLatPrecision="7" longitude="49.9634" municipality="Andranofotsy" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 913" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1FA9F8A78069F8C3" box="[431,520,1884,1910]" pageId="41" pageNumber="42" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1C11F8A786BBF8C3" box="[535,1242,1884,1910]" pageId="41" pageNumber="42">NW of Antalaha, SW of Andranofotsy, Mt Ambodivohitra</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF97E01D1AEFF8A78710F8C3" box="[1257,1393,1884,1911]" degrees="14.8157" direction="south" orientation="latitude" pageId="41" pageNumber="42" precision="5" value="-14.8157">14.8157° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF97E01D1EBBF8848328F82F" box="[189,329,1919,1946]" degrees="49.9634" direction="east" orientation="longitude" pageId="41" pageNumber="42" precision="5" value="49.9634">49.9634° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF97E01D1F8DF88483BDF82F" box="[395,476,1919,1946]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="41" pageNumber="42" unit="m" value="487.0">
+<elevation id="003B1D47FF97E01D1F8DF88483BDF82F" box="[395,476,1919,1946]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="41" pageNumber="42" unit="m" value="487.0">487 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF97E01D1FEBF884809CF82C" box="[493,765,1919,1946]" pageId="41" pageNumber="42">rainforest on quartzite</collectedFrom>
+; 
+<date id="FFA8DCB4FF97E01D1D08F88481D8F82C" box="[782,953,1919,1945]" pageId="41" pageNumber="42" value="2007-08-10">
+<collectingDate id="EFEC255CFF97E01D1D08F88481D8F82C" box="[782,953,1919,1945]" pageId="41" pageNumber="42" value="2007-08-10">10 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF97E01D1DCCF87B861AF82C" box="[970,1147,1919,1946]" pageId="41" pageNumber="42">Ken Emberton</collectorName>
+leg.; coll. no. MBI- 2459; 
+<specimenCode id="DBB0520FFF97E01D1F0FF8598057F809" box="[265,566,1954,1980]" pageId="41" pageNumber="42">FMNH-INS 000 103 913</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF97E01E1C54F8598004FEF3" collectedFrom="rainforest on quartzite" collectingDate="2007-08-10" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="487" lastPageId="42" lastPageNumber="43" latitude="-14.8157" location="Mt Ambodivohitra" longLatPrecision="7" longitude="49.9634" municipality="Andranofotsy" pageId="41" pageNumber="42" specimenCode="FMNH-INS 000 103 919" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF97E01D1C54F85980CDF808" box="[594,684,1954,1981]" pageId="41" pageNumber="42">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF97E01D1CBCF8588713F809" box="[698,1394,1954,1981]" pageId="41" pageNumber="42">NW of Antalaha, SW of Andranofotsy, Mt Ambodivohitra</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1EBBFEF28320FE96" box="[189,321,265,292]" degrees="14.8157" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-14.8157">14.8157° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1F48FEF283B7FE96" box="[334,470,265,291]" degrees="49.9634" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="49.9634">49.9634° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1C08FEF2803DFE96" box="[526,604,265,291]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="42" pageNumber="43" unit="m" value="487.0">
+<elevation id="003B1D47FF94E01E1C08FEF2803DFE96" box="[526,604,265,291]" metricMagnitude="2" metricUnit="m" metricValue="4.87" pageId="42" pageNumber="43" unit="m" value="487.0">487 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1C6EFEF2810FFE96" box="[616,878,265,291]" pageId="42" pageNumber="43">rainforest on quartzite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1D7DFEF2867CFE96" box="[891,1053,265,291]" pageId="42" pageNumber="43" value="2007-08-10">
+<collectingDate id="EFEC255CFF94E01E1D7DFEF2867CFE96" box="[891,1053,265,291]" pageId="42" pageNumber="43" value="2007-08-10">10 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1A2FFEF286B4FE96" box="[1065,1237,265,291]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2459; 
+<specimenCode id="DBB0520FFF94E01E1F40FED78004FEF3" box="[326,613,300,326]" pageId="42" pageNumber="43">FMNH-INS 000 103 919</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1C7FFED78646FE38" collectedFrom="rainforest, pandanus, palms, sphagnum on quartzite" collectingDate="2007-08-11" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="575" latitude="-14.8166" location="Mt Ambodivohitra" longLatPrecision="7" longitude="49.9622" municipality="Andranofotsy" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 912" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1C7FFED780AEFEF2" box="[633,719,300,327]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1CDEFED68713FEF3" box="[728,1394,300,327]" pageId="42" pageNumber="43">NW of Antalaha, SW of Andranofotsy, Mt Ambodivohitra</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1EBCFEB48325FEDC" box="[186,324,335,361]" degrees="14.8166" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-14.8166">14.8166° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1F50FEB48383FEDF" box="[342,482,335,362]" degrees="49.9622" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="49.9622">49.9622° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1C23FEB48016FEDF" box="[549,631,335,362]" metricMagnitude="2" metricUnit="m" metricValue="5.75" pageId="42" pageNumber="43" unit="m" value="575.0">
+<elevation id="003B1D47FF94E01E1C23FEB48016FEDF" box="[549,631,335,362]" metricMagnitude="2" metricUnit="m" metricValue="5.75" pageId="42" pageNumber="43" unit="m" value="575.0">575 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1C8FFEB48763FEDC" box="[649,1282,335,362]" pageId="42" pageNumber="43">rainforest, pandanus, palms, sphagnum on quartzite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1B15FEB4829AFE38" pageId="42" pageNumber="43" value="2007-08-11">
+<collectingDate id="EFEC255CFF94E01E1B15FEB4829AFE38" pageId="42" pageNumber="43" value="2007-08-11">11 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F0CFE8883D9FE39" box="[266,440,370,397]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2472; 
+<specimenCode id="DBB0520FFF94E01E1CFEFE888646FE38" box="[760,1063,371,397]" pageId="42" pageNumber="43">FMNH-INS 000 103 912</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A43FE888646FE66" collectingDate="2007-08-15" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="82" latitude="-14.8434" location="Antsahanoro" longLatPrecision="7" longitude="50.1372" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 916" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1A43FE8886FDFE38" box="[1093,1180,371,397]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1AADFE8880D8FE05" pageId="42" pageNumber="43">NW of Antalaha, S of Antsahanoro, riverside hill rainforest</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1CCEFE6D812EFE05" box="[712,847,406,432]" degrees="14.8434" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-14.8434">14.8434° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1D59FE6D8188FE05" box="[863,1001,406,433]" degrees="50.1372" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="50.1372">50.1372° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1A2EFE6D8608FE05" box="[1064,1129,406,432]" metricMagnitude="1" metricUnit="m" metricValue="8.2" pageId="42" pageNumber="43" unit="m" value="82.0">
+<elevation id="003B1D47FF94E01E1A2EFE6D8608FE05" box="[1064,1129,406,432]" metricMagnitude="1" metricUnit="m" metricValue="8.2" pageId="42" pageNumber="43" unit="m" value="82.0">82 m</elevation>
+</quantity>
+; on quartzite; 
+<date id="FFA8DCB4FF94E01E1B1FFE6D829AFE66" pageId="42" pageNumber="43" value="2007-08-15">
+<collectingDate id="EFEC255CFF94E01E1B1FFE6D829AFE66" pageId="42" pageNumber="43" value="2007-08-15">15 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F0CFE4283D9FE66" box="[266,440,441,467]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2498; 
+<specimenCode id="DBB0520FFF94E01E1CFEFE428646FE66" box="[760,1063,441,467]" pageId="42" pageNumber="43">FMNH-INS 000 103 916</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A43FE42866FFDAC" collectedFrom="riverside hill rainforest on quartzite" collectingDate="2007-08-15" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="131" latitude="-14.8445" location="Antsahanoro" longLatPrecision="7" longitude="50.1359" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 934" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1A43FE4286FDFE66" box="[1093,1180,441,467]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1AADFE4283F5FE43" pageId="42" pageNumber="43">NW of Antalaha, S of Antsahanoro</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FA4FE278048FE43" box="[418,553,476,503]" degrees="14.8445" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-14.8445">14.8445° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C3EFE2780A3FE42" box="[568,706,476,503]" degrees="50.1359" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="50.1359">50.1359° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D06FE27812EFE42" box="[768,847,476,503]" metricMagnitude="2" metricUnit="m" metricValue="1.31" pageId="42" pageNumber="43" unit="m" value="131.0">
+<elevation id="003B1D47FF94E01E1D06FE27812EFE42" box="[768,847,476,503]" metricMagnitude="2" metricUnit="m" metricValue="1.31" pageId="42" pageNumber="43" unit="m" value="131.0">131 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1D58FE27876AFE43" box="[862,1291,476,503]" pageId="42" pageNumber="43">riverside hill rainforest on quartzite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1B1FFE27829AFDAC" pageId="42" pageNumber="43" value="2007-08-15">
+<collectingDate id="EFEC255CFF94E01E1B1FFE27829AFDAC" pageId="42" pageNumber="43" value="2007-08-15">15 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F01FDFB83D2FDAC" box="[263,435,511,538]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2512; 
+<specimenCode id="DBB0520FFF94E01E1CE0FE04866FFDAC" box="[742,1038,511,537]" pageId="42" pageNumber="43">FMNH-INS 000 103 934</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A20FE048181FDD5" collectedFrom="viny rainforest on basalt talus" collectingDate="2007-08-26" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="320" latitude="-13.2141" location="Mt Bobanora" longLatPrecision="7" longitude="49.7574" pageId="42" pageNumber="43" specimenCode="MBI-2550, FMNH-INS 000 103 914" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1A20FE04861EFDAF" box="[1062,1151,511,538]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1A8DFDFB874BFDAC" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1A8DFDFB874BFDAC" box="[1163,1322,511,538]" country="Madagascar" latitude="-13.2141" longLatPrecision="7" longitude="49.7574" name="Mt Bobanora" pageId="42" pageNumber="43" stateProvince="Antsiranana">Mt Bobanora</location>
+, about 
+<locationDeviation id="9A1BE356FF94E01E1EBBFDD883DBFD89" box="[189,442,546,573]" location="Vohemar" pageId="42" pageNumber="43">
+<quantity id="4CEE5791FF94E01E1EBBFDD88367FD89" box="[189,262,546,573]" metricMagnitude="4" metricUnit="m" metricValue="4.0" pageId="42" pageNumber="43" unit="km" value="40.0">40 km</quantity>
+W of Vohemar
+</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FC3FDD88029FD88" box="[453,584,547,573]" degrees="13.2141" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-13.2141">13.2141° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C53FDD980BAFD88" box="[597,731,546,573]" degrees="49.7574" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="49.7574">49.7574° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D14FDD8813EFD88" box="[786,863,547,573]" metricMagnitude="2" metricUnit="m" metricValue="3.2" pageId="42" pageNumber="43" unit="m" value="320.0">
+<elevation id="003B1D47FF94E01E1D14FDD8813EFD88" box="[786,863,547,573]" metricMagnitude="2" metricUnit="m" metricValue="3.2" pageId="42" pageNumber="43" unit="m" value="320.0">320 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1D6CFDD986A7FD89" box="[874,1222,546,573]" pageId="42" pageNumber="43">viny rainforest on basalt talus</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1AD7FDD98713FD88" box="[1233,1394,546,573]" pageId="42" pageNumber="43" value="2007-08-26">
+<collectingDate id="EFEC255CFF94E01E1AD7FDD98713FD88" box="[1233,1394,546,573]" pageId="42" pageNumber="43" value="2007-08-26">26 Aug. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1EBAFDBD830AFDD5" box="[188,363,582,608]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF94E01E1C26FDBD80C1FDD4" box="[544,672,582,609]" collectionCode="MBI-" pageId="42" pageNumber="43">MBI-2550</specimenCode>
+; 
+<specimenCode id="DBB0520FFF94E01E1CA9FDBD8181FDD5" box="[687,992,582,608]" pageId="42" pageNumber="43">FMNH-INS 000 103 914</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1DF9FDBD863CFD13" collectedFrom="rainforest on metamorphic boulders" collectingDate="2007-10-17" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="897" latitude="-14.0366" location="Manongorivo Reserve" longLatPrecision="7" longitude="48.2882" municipality="Manongorivo Reserve" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 933" specimenCount="1" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1DF9FDBD8636FDD5" box="[1023,1111,582,608]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<collectingMunicipality id="6BCD600EFF94E01E1A60FDBD8710FDD5" box="[1126,1393,582,608]" pageId="42" pageNumber="43">Manongorivo Reserve</collectingMunicipality>
+, 
+<locationDeviation id="9A1BE356FF94E01E1EBBFD928388FD36" box="[189,489,617,643]" pageId="42" pageNumber="43">slope high above Berato</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FFFFD9280E0FD36" box="[505,641,617,643]" degrees="14.0366" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-14.0366">14.0366° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C94FD92817CFD36" box="[658,797,617,643]" degrees="48.2882" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="48.2882">48.2882° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D5BFD9281CEFD36" box="[861,943,617,643]" metricMagnitude="2" metricUnit="m" metricValue="8.97" pageId="42" pageNumber="43" unit="m" value="897.0">
+<elevation id="003B1D47FF94E01E1D5BFD9281CEFD36" box="[861,943,617,643]" metricMagnitude="2" metricUnit="m" metricValue="8.97" pageId="42" pageNumber="43" unit="m" value="897.0">897 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1DB9FD928713FD36" box="[959,1394,617,643]" pageId="42" pageNumber="43">rainforest on metamorphic boulders</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1EBBFD778337FD13" box="[189,342,652,678]" pageId="42" pageNumber="43" value="2007-10-17">
+<collectingDate id="EFEC255CFF94E01E1EBBFD778337FD13" box="[189,342,652,678]" pageId="42" pageNumber="43" value="2007-10-17">17 Oct. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F67FD76806DFD13" box="[353,524,652,679]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2611; 
+<specimenCode id="DBB0520FFF94E01E1D3FFD77863CFD13" box="[825,1117,652,678]" pageId="42" pageNumber="43">FMNH-INS 000 103 933</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A72FD778704FD58" collectedFrom="rainforest on granite" collectingDate="2007-10-20" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="321" latitude="-13.9846" location="Monongorivo River junction with small tributary" longLatPrecision="7" longitude="48.2891" municipality="Manongorivo Reserve" pageId="42" pageNumber="43" specimenCode="MBI-2619, FMNH-INS 000 103 941" specimenCount="2" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1A72FD7786ADFD12" box="[1140,1228,652,679]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<collectingMunicipality id="6BCD600EFF94E01E1AD1FD77837CFD7F" pageId="42" pageNumber="43">Manongorivo Reserve</collectingMunicipality>
+, 
+<location id="8EC9ACAFFF94E01E1F36FD5481F7FD7C" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1F36FD5481F7FD7C" box="[304,918,687,713]" country="Madagascar" latitude="-13.9846" longLatPrecision="7" longitude="48.2891" municipality="Manongorivo Reserve" name="Monongorivo River junction with small tributary" pageId="42" pageNumber="43" stateProvince="Antsiranana">Monongorivo River junction with small tributary</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1DAFFD548655FD7C" box="[937,1076,687,713]" degrees="13.9846" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-13.9846">13.9846° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1A4EFD5486B7FD7F" box="[1096,1238,687,714]" degrees="48.2891" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="48.2891">48.2891° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1B1AFD548711FD7F" box="[1308,1392,687,714]" metricMagnitude="2" metricUnit="m" metricValue="3.21" pageId="42" pageNumber="43" unit="m" value="321.0">
+<elevation id="003B1D47FF94E01E1B1AFD548711FD7F" box="[1308,1392,687,714]" metricMagnitude="2" metricUnit="m" metricValue="3.21" pageId="42" pageNumber="43" unit="m" value="321.0">321 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1EBBFD2983CFFD59" box="[189,430,722,749]" pageId="42" pageNumber="43">rainforest on granite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1FBFFD288035FD58" box="[441,596,723,749]" pageId="42" pageNumber="43" value="2007-10-20">
+<collectingDate id="EFEC255CFF94E01E1FBFFD288035FD58" box="[441,596,723,749]" pageId="42" pageNumber="43" value="2007-10-20">20 Oct. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1C66FD28816DFD59" box="[608,780,722,749]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF94E01E1DB5FD298652FD59" box="[947,1075,722,748]" collectionCode="MBI-" pageId="42" pageNumber="43">MBI-2619</specimenCode>
+; 
+<specimenCode id="DBB0520FFF94E01E1A38FD288704FD58" box="[1086,1381,723,749]" pageId="42" pageNumber="43">FMNH-INS 000 103 941</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1EBBFD0D8397FCE3" collectedFrom="rainforest on granite" collectingDate="2007-10-20" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="281" latitude="-13.9818" location="Monongorivo River" longLatPrecision="7" longitude="48.2858" municipality="Manongorivo Reserve" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 943" specimenCount="5" stateProvince="Antsiranana">
+<specimenCount id="9D1031FDFF94E01E1EBBFD0D837CFCA5" box="[189,285,758,785]" pageId="42" pageNumber="43">5 specs</specimenCount>
+; 
+<collectingMunicipality id="6BCD600EFF94E01E1F36FD0D805FFCA5" box="[304,574,758,784]" pageId="42" pageNumber="43">Manongorivo Reserve</collectingMunicipality>
+, 
+<locationDeviation id="9A1BE356FF94E01E1C57FD0D81ACFCA5" box="[593,973,758,784]" pageId="42" pageNumber="43">riverside flat area below cliffs</locationDeviation>
+, 
+<location id="8EC9ACAFFF94E01E1DD9FD0D86B2FCA5" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1DD9FD0D86B2FCA5" box="[991,1235,758,784]" country="Madagascar" latitude="-13.9818" longLatPrecision="7" longitude="48.2858" municipality="Manongorivo Reserve" name="Monongorivo River" pageId="42" pageNumber="43" stateProvince="Antsiranana">Monongorivo River</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1AE0FD0D8710FCA5" box="[1254,1393,758,784]" degrees="13.9818" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-13.9818">13.9818° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1EBBFCE28326FC86" box="[189,327,793,820]" degrees="48.2858" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="48.2858">48.2858° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1F85FCE283B2FC86" box="[387,467,793,819]" metricMagnitude="2" metricUnit="m" metricValue="2.81" pageId="42" pageNumber="43" unit="m" value="281.0">
+<elevation id="003B1D47FF94E01E1F85FCE283B2FC86" box="[387,467,793,819]" metricMagnitude="2" metricUnit="m" metricValue="2.81" pageId="42" pageNumber="43" unit="m" value="281.0">281 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1FE7FCE280B6FC86" box="[481,727,793,819]" pageId="42" pageNumber="43">rainforest on granite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1CE3FCE281E4FC86" box="[741,901,793,819]" pageId="42" pageNumber="43" value="2007-10-20">
+<collectingDate id="EFEC255CFF94E01E1CE3FCE281E4FC86" box="[741,901,793,819]" pageId="42" pageNumber="43" value="2007-10-20">20 Oct. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1D95FCE28623FC86" box="[915,1090,793,819]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2620; 
+<specimenCode id="DBB0520FFF94E01E1EB9FCC78397FCE3" box="[191,502,828,854]" pageId="42" pageNumber="43">FMNH-INS 000 103 943</specimenCode>
+</materialsCitation>
+. – 
+<materialsCitation id="3B7EF029FF94E01E1C1DFCC781F8FC29" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-09-25" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="142" latitude="-16.469" location="Namoroka Reserve" longLatPrecision="55" longitude="45.3647" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 936" specimenCount="1" stateProvince="Mahajanga">
+<emphasis id="B9622666FF94E01E1C1DFCC780CBFCE3" bold="true" box="[539,682,828,854]" pageId="42" pageNumber="43">
+<collectingRegion id="49D23496FF94E01E1C1DFCC780CBFCE3" box="[539,682,828,854]" country="Madagascar" name="Mahajanga" pageId="42" pageNumber="43">Mahajanga</collectingRegion>
+</emphasis>
+• 
+<specimenCount id="9D1031FDFF94E01E1CCDFCC78142FCE2" box="[715,803,828,855]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1D35FCC7867AFCE2" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1D35FCC7867AFCE2" box="[819,1051,828,855]" country="Madagascar" latitude="-16.469" longLatPrecision="55" longitude="45.3647" name="Namoroka Reserve" pageId="42" pageNumber="43" stateProvince="Mahajanga">Namoroka Reserve</location>
+, 
+<locationDeviation id="9A1BE356FF94E01E1A2CFCC7834AFCCC" pageId="42" pageNumber="43">southern valley on NE side of tsingy</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1F3FFCA483D3FCCC" box="[313,434,863,889]" degrees="16.469" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="55" value="-16.469">16.469° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1FC4FCA4802DFCCF" box="[450,588,863,890]" degrees="45.3647" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="45.3647">45.3647° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1C8CFCA480BBFCCF" box="[650,730,863,890]" metricMagnitude="2" metricUnit="m" metricValue="1.42" pageId="42" pageNumber="43" unit="m" value="142.0">
+<elevation id="003B1D47FF94E01E1C8CFCA480BBFCCF" box="[650,730,863,890]" metricMagnitude="2" metricUnit="m" metricValue="1.42" pageId="42" pageNumber="43" unit="m" value="142.0">142 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1CEFFCA486E4FCCC" box="[745,1157,863,890]" pageId="42" pageNumber="43">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1A92FCA48756FCCC" box="[1172,1335,863,890]" pageId="42" pageNumber="43" value="2007-09-25">
+<collectingDate id="EFEC255CFF94E01E1A92FCA48756FCCC" box="[1172,1335,863,890]" pageId="42" pageNumber="43" value="2007-09-25">25 Sep. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1B40FC9B8350FC29" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2567; 
+<specimenCode id="DBB0520FFF94E01E1C6BFC7881F8FC29" box="[621,921,898,925]" pageId="42" pageNumber="43">FMNH-INS 000 103 936</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1DB0FC78866EFC56" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-09-27" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="132" latitude="-16.4674" location="Namoroka Reserve" longLatPrecision="7" longitude="45.3806" pageId="42" pageNumber="43" specimenCode="MBI-2574, FMNH-INS 000 103 928" specimenCount="2" stateProvince="Mahajanga">
+<specimenCount id="9D1031FDFF94E01E1DB0FC788671FC28" box="[950,1040,899,925]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1A18FC798765FC28" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1A18FC798765FC28" box="[1054,1284,898,925]" country="Madagascar" latitude="-16.4674" longLatPrecision="7" longitude="45.3806" name="Namoroka Reserve" pageId="42" pageNumber="43" stateProvince="Mahajanga">Namoroka Reserve</location>
+, 
+<locationDeviation id="9A1BE356FF94E01E1B17FC7983A7FC75" pageId="42" pageNumber="43">southern isolated tsingy canyon</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FD7FC5D8035FC75" box="[465,596,934,960]" degrees="16.4674" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-16.4674">16.4674° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C66FC5D8086FC75" box="[608,743,934,961]" degrees="45.3806" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="45.3806">45.3806° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D1BFC5D811EFC75" box="[797,895,934,960]" metricMagnitude="2" metricUnit="m" metricValue="1.316736" pageId="42" pageNumber="43" unit="ft" value="432.0">
+<elevation id="003B1D47FF94E01E1D1BFC5D811EFC75" box="[797,895,934,960]" metricMagnitude="2" metricUnit="m" metricValue="1.316736" pageId="42" pageNumber="43" unit="ft" value="432.0">432 feet</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1D8CFC5D8776FC75" box="[906,1303,934,960]" pageId="42" pageNumber="43">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1B27FC5D829BFC56" pageId="42" pageNumber="43" value="2007-09-27">
+<collectingDate id="EFEC255CFF94E01E1B27FC5D829BFC56" pageId="42" pageNumber="43" value="2007-09-27">27 Sep. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F00FC3283D2FC56" box="[262,435,969,995]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF94E01E1C5AFC3280BAFC51" box="[604,731,969,996]" collectionCode="MBI-" pageId="42" pageNumber="43">MBI-2574</specimenCode>
+; 
+<specimenCode id="DBB0520FFF94E01E1CE1FC32866EFC56" box="[743,1039,969,995]" pageId="42" pageNumber="43">FMNH-INS 000 103 928</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A2FFC328665FB9C" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-09-27" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="435" latitude="-16.4871" location="Namaroka Reserve" longLatPrecision="7" longitude="45.3371" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 927" specimenCount="2" stateProvince="Mahajanga">
+<specimenCount id="9D1031FDFF94E01E1A2FFC3286E3FC56" box="[1065,1154,969,995]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1A88FC328710FC56" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1A88FC328710FC56" box="[1166,1393,969,995]" country="Madagascar" latitude="-16.4871" longLatPrecision="7" longitude="45.3371" name="Namaroka Reserve" pageId="42" pageNumber="43" stateProvince="Mahajanga">Namaroka Reserve</location>
+, 
+<location id="8EC9ACAFFF94E01E1EBBFC1783B7FBB3" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1EBBFC1783B7FBB3" box="[189,470,1004,1030]" country="Madagascar" latitude="-16.4871" longLatPrecision="7" longitude="45.3371" name="southern isolated tsingy" pageId="42" pageNumber="43" stateProvince="Mahajanga">southern isolated tsingy</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FE7FC178004FBB3" box="[481,613,1004,1030]" degrees="16.4871" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-16.4871">16.4871° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C77FC178096FBB2" box="[625,759,1004,1031]" degrees="45.3371" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="45.3371">45.3371° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D28FC17811AFBB2" box="[814,891,1004,1031]" metricMagnitude="2" metricUnit="m" metricValue="4.35" pageId="42" pageNumber="43" unit="m" value="435.0">
+<elevation id="003B1D47FF94E01E1D28FC17811AFBB2" box="[814,891,1004,1031]" metricMagnitude="2" metricUnit="m" metricValue="4.35" pageId="42" pageNumber="43" unit="m" value="435.0">435 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1D80FC178774FBB3" box="[902,1301,1004,1031]" pageId="42" pageNumber="43">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1B19FC17829BFB9C" pageId="42" pageNumber="43" value="2007-09-27">
+<collectingDate id="EFEC255CFF94E01E1B19FC17829BFB9C" pageId="42" pageNumber="43" value="2007-09-27">27 Sep. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F03FBEB83D1FB9C" box="[261,432,1039,1066]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2572; 
+<specimenCode id="DBB0520FFF94E01E1CD9FBF48665FB9C" box="[735,1028,1039,1065]" pageId="42" pageNumber="43">FMNH-INS 000 103 927</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A1DFBF486E4FBC5" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-09-29" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="115" latitude="-16.4565" location="low tsingy baobobs" longLatPrecision="7" longitude="45.4011" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 923" specimenCount="9" stateProvince="Mahajanga">
+<specimenCount id="9D1031FDFF94E01E1A1DFBF4860EFB9F" box="[1051,1135,1039,1066]" pageId="42" pageNumber="43" type="generic">9 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1A7CFBF48294FBF9" pageId="42" pageNumber="43">S Namaroka National Park</locationDeviation>
+, 
+<location id="8EC9ACAFFF94E01E1F03FBC98397FBF9" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1F03FBC98397FBF9" box="[261,502,1074,1100]" country="Madagascar" latitude="-16.4565" longLatPrecision="7" longitude="45.4011" name="low tsingy baobobs" pageId="42" pageNumber="43" stateProvince="Mahajanga">low tsingy baobobs</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1C00FBC980EEFBF8" box="[518,655,1074,1101]" degrees="16.4565" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-16.4565">16.4565° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1CA6FBC9814AFBF8" box="[672,811,1074,1101]" degrees="45.4011" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="45.4011">45.4011° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D6AFBC981DCFBF8" box="[876,957,1074,1101]" metricMagnitude="2" metricUnit="m" metricValue="1.15" pageId="42" pageNumber="43" unit="m" value="115.0">
+<elevation id="003B1D47FF94E01E1D6AFBC981DCFBF8" box="[876,957,1074,1101]" metricMagnitude="2" metricUnit="m" metricValue="1.15" pageId="42" pageNumber="43" unit="m" value="115.0">115 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1DC8FBC98710FBF9" box="[974,1393,1074,1101]" pageId="42" pageNumber="43">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1EBBFBAD833FFBC5" box="[189,350,1110,1136]" pageId="42" pageNumber="43" value="2007-09-29">
+<collectingDate id="EFEC255CFF94E01E1EBBFBAD833FFBC5" box="[189,350,1110,1136]" pageId="42" pageNumber="43" value="2007-09-29">29 Sep. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F6AFBAD807BFBC5" box="[364,538,1110,1136]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2578; 
+<specimenCode id="DBB0520FFF94E01E1D5EFBAD86E4FBC5" box="[856,1157,1110,1136]" pageId="42" pageNumber="43">FMNH-INS 000 103 923</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1AA4FBAD8764FB03" collectedFrom="dry deciduous forest on limestone" collectingDate="2007-10-08" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="30" latitude="-15.0643" location="Anjajavy" longLatPrecision="7" longitude="47.2373" municipality="Anjajavy" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 104 000" specimenCount="1" stateProvince="Mahajanga">
+<specimenCount id="9D1031FDFF94E01E1AA4FBAD8698FBC5" box="[1186,1273,1110,1136]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<collectingMunicipality id="6BCD600EFF94E01E1B03FBAD8713FBC5" box="[1285,1394,1110,1136]" pageId="42" pageNumber="43">Anjajavy</collectingMunicipality>
+, 
+<locationDeviation id="9A1BE356FF94E01E1EB9FB8280B9FB26" box="[191,728,1145,1171]" pageId="42" pageNumber="43">isolated steep limestone hill near Antsangabe</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1CE3FB82810BFB26" box="[741,874,1145,1172]" degrees="15.0643" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-15.0643">15.0643° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1D7EFB828661FB26" box="[888,1024,1145,1171]" degrees="47.2373" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="47.2373">47.2373° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1A3CFB82861BFB26" box="[1082,1146,1145,1171]" metricMagnitude="1" metricUnit="m" metricValue="3.0" pageId="42" pageNumber="43" unit="m" value="30.0">
+<elevation id="003B1D47FF94E01E1A3CFB82861BFB26" box="[1082,1146,1145,1171]" metricMagnitude="1" metricUnit="m" metricValue="3.0" pageId="42" pageNumber="43" unit="m" value="30.0">30 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1A81FB828338FB03" pageId="42" pageNumber="43">dry deciduous forest on limestone</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1F62FB678390FB03" box="[356,497,1180,1206]" pageId="42" pageNumber="43" value="2007-10-08">
+<collectingDate id="EFEC255CFF94E01E1F62FB678390FB03" box="[356,497,1180,1206]" pageId="42" pageNumber="43" value="2007-10-08">8 Oct. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1FFBFB6680C8FB03" box="[509,681,1180,1207]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2592; 
+<specimenCode id="DBB0520FFF94E01E1DDBFB678764FB03" box="[989,1285,1180,1206]" pageId="42" pageNumber="43">FMNH-INS 000 104 000</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1B18FB678712FB48" collectingDate="2007-10-11" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="22" latitude="-15.026" location="Anjajavi" longLatPrecision="55" longitude="47.2712" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 940" specimenCount="1" stateProvince="Mahajanga">
+<specimenCount id="9D1031FDFF94E01E1B18FB678712FB02" box="[1310,1395,1180,1207]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1EBBFB448344FB6C" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1EBBFB448344FB6C" box="[189,293,1215,1241]" country="Madagascar" latitude="-15.026" longLatPrecision="55" longitude="47.2712" name="Anjajavi" pageId="42" pageNumber="43" stateProvince="Mahajanga">Anjajavi</location>
+, 
+<locationDeviation id="9A1BE356FF94E01E1F32FB44817FFB6C" box="[308,798,1215,1242]" pageId="42" pageNumber="43">side of long tsingy hill near dry mudflat</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1D2AFB4481C4FB6C" box="[812,933,1215,1242]" degrees="15.026" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="55" value="-15.026">15.026° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1DB3FB44865EFB6F" box="[949,1087,1215,1242]" degrees="47.2712" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="47.2712">47.2712° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1A7BFB4486DEFB6F" box="[1149,1215,1215,1242]" metricMagnitude="1" metricUnit="m" metricValue="2.2" pageId="42" pageNumber="43" unit="m" value="22.0">
+<elevation id="003B1D47FF94E01E1A7BFB4486DEFB6F" box="[1149,1215,1215,1242]" metricMagnitude="1" metricUnit="m" metricValue="2.2" pageId="42" pageNumber="43" unit="m" value="22.0">22 m</elevation>
+</quantity>
+; dry deciduous forest on limestone; 
+<date id="FFA8DCB4FF94E01E1FB7FB18802FFB48" box="[433,590,1251,1277]" pageId="42" pageNumber="43" value="2007-10-11">
+<collectingDate id="EFEC255CFF94E01E1FB7FB18802FFB48" box="[433,590,1251,1277]" pageId="42" pageNumber="43" value="2007-10-11">11 Oct. 2007</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1C5AFB188168FB49" box="[604,777,1250,1277]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2595; 
+<specimenCode id="DBB0520FFF94E01E1A45FB188712FB48" box="[1091,1395,1251,1277]" pageId="42" pageNumber="43">FMNH-INS 000 103 940</specimenCode>
+</materialsCitation>
+. – 
+<materialsCitation id="3B7EF029FF94E01E1ED2FAFE865CFAF6" collectingDate="2008-05-19" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="589" latitude="-18.6907" location="Andriantanely Massif" longLatPrecision="7" longitude="48.8063" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 932" specimenCount="1" stateProvince="Toamasina">
+<emphasis id="B9622666FF94E01E1ED2FAFE833DFAAA" bold="true" box="[212,348,1285,1311]" pageId="42" pageNumber="43">
+<collectingRegion id="49D23496FF94E01E1ED2FAFE833DFAAA" box="[212,348,1285,1311]" country="Madagascar" name="Toamasina" pageId="42" pageNumber="43">Toamasina</collectingRegion>
+</emphasis>
+• 
+<specimenCount id="9D1031FDFF94E01E1F71FAFD83ACFA95" box="[375,461,1286,1312]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1FDEFAFD80BDFA95" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1FDEFAFD80BDFA95" box="[472,732,1286,1312]" country="Madagascar" latitude="-18.6907" longLatPrecision="7" longitude="48.8063" name="Andriantanely Massif" pageId="42" pageNumber="43" stateProvince="Toamasina">Andriantanely Massif</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1CEEFAFD810FFA95" box="[744,878,1286,1312]" degrees="18.6907" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-18.6907">18.6907° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1D7AFAFD8665FA95" box="[892,1028,1286,1312]" degrees="48.8063" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="48.8063">48.8063° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1A39FAFD86ECFA95" box="[1087,1165,1286,1313]" metricMagnitude="2" metricUnit="m" metricValue="5.89" pageId="42" pageNumber="43" unit="m" value="589.0">
+<elevation id="003B1D47FF94E01E1A39FAFD86ECFA95" box="[1087,1165,1286,1313]" metricMagnitude="2" metricUnit="m" metricValue="5.89" pageId="42" pageNumber="43" unit="m" value="589.0">589 m</elevation>
+</quantity>
+; rainforest; 
+<date id="FFA8DCB4FF94E01E1B1DFAFD829DFAF6" pageId="42" pageNumber="43" value="2008-05-19">
+<collectingDate id="EFEC255CFF94E01E1B1DFAFD829DFAF6" pageId="42" pageNumber="43" value="2008-05-19">19 May 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F0BFAD283DCFAF6" box="[269,445,1321,1347]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2665; 
+<specimenCode id="DBB0520FFF94E01E1D0EFAD2865CFAF6" box="[776,1085,1321,1347]" pageId="42" pageNumber="43">FMNH-INS 000 103 932</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A59FAD2864DFA3C" collectedFrom="in rainforest, on granite" collectingDate="2008-05-22" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="301" latitude="-18.6997" location="Andriantantely Massif" longLatPrecision="52" longitude="48.806" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 930" specimenCount="1" stateProvince="Toamasina">
+<specimenCount id="9D1031FDFF94E01E1A59FAD286D8FAF6" box="[1119,1209,1321,1347]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1ACEFAD28371FAD3" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1ACEFAD28371FAD3" country="Madagascar" latitude="-18.6997" longLatPrecision="52" longitude="48.806" name="Andriantantely Massif" pageId="42" pageNumber="43" stateProvince="Toamasina">Andriantantely Massif</location>
+, 
+<location id="8EC9ACAFFF94E01E1F26FAB7807AFAD3" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1F26FAB7807AFAD3" box="[288,539,1356,1382]" country="Madagascar" latitude="-18.6997" longLatPrecision="52" longitude="48.806" name="streamside cliff base" pageId="42" pageNumber="43" stateProvince="Toamasina">streamside cliff base</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1C2DFAB780D5FAD3" box="[555,692,1356,1382]" degrees="18.6997" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-18.6997">18.6997° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1CC3FAB78123FAD2" box="[709,834,1356,1383]" degrees="48.806" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="55" value="48.806">48.806° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D84FAB781B5FAD2" box="[898,980,1356,1383]" metricMagnitude="2" metricUnit="m" metricValue="3.01" pageId="42" pageNumber="43" unit="m" value="301.0">
+<elevation id="003B1D47FF94E01E1D84FAB781B5FAD2" box="[898,980,1356,1383]" metricMagnitude="2" metricUnit="m" metricValue="3.01" pageId="42" pageNumber="43" unit="m" value="301.0">301 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1DE2FAB78769FAD3" box="[996,1288,1356,1383]" pageId="42" pageNumber="43">in rainforest, on granite</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1B1EFAB7829AFA3C" pageId="42" pageNumber="43" value="2008-05-22">
+<collectingDate id="EFEC255CFF94E01E1B1EFAB7829AFA3C" pageId="42" pageNumber="43" value="2008-05-22">22 May 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1F0CFA8B83D8FA3C" box="[266,441,1391,1418]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2693; 
+<specimenCode id="DBB0520FFF94E01E1CFAFA94864DFA3C" box="[764,1068,1391,1417]" pageId="42" pageNumber="43">FMNH-INS 000 103 930</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1A4DFA9480F6FA65" collectingDate="2008-11-23" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="430" latitude="-15.2302" location="Makira Reserve" longLatPrecision="7" longitude="49.5975" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 939" specimenCount="1" stateProvince="Toamasina">
+<specimenCount id="9D1031FDFF94E01E1A4DFA9486C2FA3F" box="[1099,1187,1391,1418]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1AB4FA948713FA3F" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1AB4FA948713FA3F" box="[1202,1394,1391,1418]" country="Madagascar" latitude="-15.2302" longLatPrecision="7" longitude="49.5975" name="Makira Reserve" pageId="42" pageNumber="43" stateProvince="Toamasina">Makira Reserve</location>
+, 
+<locationDeviation id="9A1BE356FF94E01E1EBBFA6883E9FA19" box="[189,392,1426,1453]" location="Andaparaty" pageId="42" pageNumber="43">W of Andaparaty</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1F97FA698075FA18" box="[401,532,1426,1453]" degrees="15.2302" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-15.2302">15.2302° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C26FA6980C7FA18" box="[544,678,1426,1453]" degrees="49.5975" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="49.5975">49.5975° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1CDDFA688146FA18" box="[731,807,1427,1453]" metricMagnitude="2" metricUnit="m" metricValue="4.3" pageId="42" pageNumber="43" unit="m" value="430.0">
+<elevation id="003B1D47FF94E01E1CDDFA688146FA18" box="[731,807,1427,1453]" metricMagnitude="2" metricUnit="m" metricValue="4.3" pageId="42" pageNumber="43" unit="m" value="430.0">430 m</elevation>
+</quantity>
+; rainforest; 
+<date id="FFA8DCB4FF94E01E1DB6FA68862EFA18" box="[944,1103,1427,1453]" pageId="42" pageNumber="43" value="2008-11-23">
+<collectingDate id="EFEC255CFF94E01E1DB6FA68862EFA18" box="[944,1103,1427,1453]" pageId="42" pageNumber="43" value="2008-11-23">23 Nov. 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1A5CFA688765FA19" box="[1114,1284,1426,1453]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-3152; 
+<specimenCode id="DBB0520FFF94E01E1F77FA4D80F6FA65" box="[369,663,1462,1488]" pageId="42" pageNumber="43">FMNH-INS 000 103 939</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1CA8FA4D8686FA46" collectingDate="2008-12-02" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="23" latitude="-16.6028" location="Manona" longLatPrecision="7" longitude="49.8037" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 937" specimenCount="2" stateProvince="Toamasina">
+<specimenCount id="9D1031FDFF94E01E1CA8FA4D8167FA65" box="[686,774,1462,1488]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1D14FA4D862EFA65" box="[786,1103,1462,1488]" pageId="42" pageNumber="43">N of Manona littoral forest</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1A5FFA4D86BCFA65" box="[1113,1245,1462,1488]" degrees="16.6028" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-16.6028">16.6028° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1AEFFA4D8711FA65" box="[1257,1392,1462,1488]" degrees="49.8037" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="49.8037">49.8037° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1EEFFA228349FA46" box="[233,296,1497,1523]" metricMagnitude="1" metricUnit="m" metricValue="2.3" pageId="42" pageNumber="43" unit="m" value="23.0">
+<elevation id="003B1D47FF94E01E1EEFFA228349FA46" box="[233,296,1497,1523]" metricMagnitude="1" metricUnit="m" metricValue="2.3" pageId="42" pageNumber="43" unit="m" value="23.0">23 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF94E01E1F33FA2283A9FA46" box="[309,456,1497,1523]" pageId="42" pageNumber="43" value="2008-12-02">
+<collectingDate id="EFEC255CFF94E01E1F33FA2283A9FA46" box="[309,456,1497,1523]" pageId="42" pageNumber="43" value="2008-12-02">2 Dec. 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1FD3FA2280E3FA46" box="[469,642,1497,1523]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-3158; 
+<specimenCode id="DBB0520FFF94E01E1DBFFA228686FA46" box="[953,1255,1497,1523]" pageId="42" pageNumber="43">FMNH-INS 000 103 937</specimenCode>
+</materialsCitation>
+. – 
+<materialsCitation id="3B7EF029FF94E01E1B0DFA228080F98C" collectedFrom="rainforest" collectingDate="2008-08-18" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="347" latitude="-24.154" location="Toliara" longLatPrecision="55" longitude="47.1821" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 938" specimenCount="2" stateProvince="Toliara">
+<emphasis id="B9622666FF94E01E1B0DFA228704FA46" bold="true" box="[1291,1381,1497,1523]" pageId="42" pageNumber="43">
+<collectingRegion id="49D23496FF94E01E1B0DFA228704FA46" box="[1291,1381,1497,1523]" country="Madagascar" name="Toliara" pageId="42" pageNumber="43">Toliara</collectingRegion>
+</emphasis>
+• 
+<specimenCount id="9D1031FDFF94E01E1EBBFA078377F9A2" box="[189,278,1532,1559]" pageId="42" pageNumber="43">2 specs</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1F27FA0683DFF9A3" box="[289,446,1532,1559]" pageId="42" pageNumber="43">W of Ehasity</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1FCCFA07805EF9A3" box="[458,575,1532,1559]" degrees="24.154" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="55" value="-24.154">24.154° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1C4AFA0780B2F9A2" box="[588,723,1532,1559]" degrees="47.1821" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="47.1821">47.1821° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D0DFA078139F9A2" box="[779,856,1532,1559]" metricMagnitude="2" metricUnit="m" metricValue="3.47" pageId="42" pageNumber="43" unit="m" value="347.0">
+<elevation id="003B1D47FF94E01E1D0DFA078139F9A2" box="[779,856,1532,1559]" metricMagnitude="2" metricUnit="m" metricValue="3.47" pageId="42" pageNumber="43" unit="m" value="347.0">347 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1D62FA0781B9F9A3" box="[868,984,1532,1558]" pageId="42" pageNumber="43">rainforest</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1DE5FA0786E4F9A3" box="[995,1157,1532,1558]" pageId="42" pageNumber="43" value="2008-08-18">
+<collectingDate id="EFEC255CFF94E01E1DE5FA0786E4F9A3" box="[995,1157,1532,1558]" pageId="42" pageNumber="43" value="2008-08-18">18 Aug. 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1A97FA06875DF9A3" box="[1169,1340,1532,1559]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2966; 
+<specimenCode id="DBB0520FFF94E01E1FB2F9E48080F98C" box="[436,737,1567,1593]" pageId="42" pageNumber="43">FMNH-INS 000 103 938</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1CF8F9E48702F9E8" collectedFrom="rainforest" collectingDate="2008-08-31" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="457" latitude="-24.5607" location="Mount Ivohibe" longLatPrecision="7" longitude="47.2065" pageId="42" pageNumber="43" specimenCode="FMNH-INS 000 103 931" specimenCount="1" stateProvince="Toliara">
+<specimenCount id="9D1031FDFF94E01E1CF8F9E48134F98F" box="[766,853,1567,1594]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<location id="8EC9ACAFFF94E01E1D65F9DB8676F98C" LSID="urn:lsid:plazi:treatment:03BF4B62FF97E01E1FD3FE5080BEF913:8EC9ACAFFF94E01E1D65F9DB8676F98C" box="[867,1047,1567,1594]" country="Madagascar" latitude="-24.5607" longLatPrecision="7" longitude="47.2065" name="Mount Ivohibe" pageId="42" pageNumber="43" stateProvince="Toliara">Mount Ivohibe</location>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1A23F9E486CAF98C" box="[1061,1195,1567,1594]" degrees="24.5607" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-24.5607">24.5607° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1ABCF9E48722F98F" box="[1210,1347,1567,1594]" degrees="47.2065" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="5" value="47.2065">47.2065° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1EBBF9B9836DF9E8" box="[189,268,1602,1629]" metricMagnitude="2" metricUnit="m" metricValue="4.57" pageId="42" pageNumber="43" unit="m" value="457.0">
+<elevation id="003B1D47FF94E01E1EBBF9B9836DF9E8" box="[189,268,1602,1629]" metricMagnitude="2" metricUnit="m" metricValue="4.57" pageId="42" pageNumber="43" unit="m" value="457.0">457 m</elevation>
+</quantity>
+; 
+<collectedFrom id="380AB989FF94E01E1F1CF9B983EFF9E9" box="[282,398,1602,1628]" pageId="42" pageNumber="43">rainforest</collectedFrom>
+; 
+<date id="FFA8DCB4FF94E01E1F9DF9B88021F9E8" box="[411,576,1603,1629]" pageId="42" pageNumber="43" value="2008-08-31">
+<collectingDate id="EFEC255CFF94E01E1F9DF9B88021F9E8" box="[411,576,1603,1629]" pageId="42" pageNumber="43" value="2008-08-31">31 Aug. 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1C48F9B8809DF9E9" box="[590,764,1602,1629]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. MBI-2900; 
+<specimenCode id="DBB0520FFF94E01E1A31F9B88702F9E8" box="[1079,1379,1603,1629]" pageId="42" pageNumber="43">FMNH-INS 000 103 931</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7EF029FF94E01E1EB9F99D80BAF913" collectingDate="2008-09-18" collectionCode="FMNH-INS" collectorName="Ken Emberton" country="Madagascar" elevation="479" latitude="-24.1514" location="Ehasity" longLatPrecision="50" longitude="47.178" pageId="42" pageNumber="43" specimenCode="MBI-2964, FMNH-INS 000 103 942" specimenCount="1" stateProvince="Toliara">
+<specimenCount id="9D1031FDFF94E01E1EB9F99D8375F935" box="[191,276,1638,1664]" pageId="42" pageNumber="43" type="generic">1 spec.</specimenCount>
+; 
+<locationDeviation id="9A1BE356FF94E01E1F26F99D8059F935" box="[288,568,1638,1664]" pageId="42" pageNumber="43">W of Ehasity rainforest</locationDeviation>
+; 
+<geoCoordinate id="EE229CB3FF94E01E1C42F99D80A8F935" box="[580,713,1638,1665]" degrees="24.1514" direction="south" orientation="latitude" pageId="42" pageNumber="43" precision="5" value="-24.1514">24.1514° S</geoCoordinate>
+, 
+<geoCoordinate id="EE229CB3FF94E01E1CD1F99D8131F935" box="[727,848,1638,1664]" degrees="47.178" direction="east" orientation="longitude" pageId="42" pageNumber="43" precision="55" value="47.178">47.178° E</geoCoordinate>
+; alt. 
+<quantity id="4CEE5791FF94E01E1D8CF99D81B9F935" box="[906,984,1638,1664]" metricMagnitude="2" metricUnit="m" metricValue="4.79" pageId="42" pageNumber="43" unit="m" value="479.0">
+<elevation id="003B1D47FF94E01E1D8CF99D81B9F935" box="[906,984,1638,1664]" metricMagnitude="2" metricUnit="m" metricValue="4.79" pageId="42" pageNumber="43" unit="m" value="479.0">479 m</elevation>
+</quantity>
+; 
+<date id="FFA8DCB4FF94E01E1DE3F99D86E2F935" box="[997,1155,1638,1664]" pageId="42" pageNumber="43" value="2008-09-18">
+<collectingDate id="EFEC255CFF94E01E1DE3F99D86E2F935" box="[997,1155,1638,1664]" pageId="42" pageNumber="43" value="2008-09-18">18 Sep. 2008</collectingDate>
+</date>
+; 
+<collectorName id="26E39FA2FF94E01E1A96F99D875CF935" box="[1168,1341,1638,1664]" pageId="42" pageNumber="43">Ken Emberton</collectorName>
+leg.; coll. no. 
+<specimenCode id="DBB0520FFF94E01E1F22F97783C5F913" box="[292,420,1676,1702]" collectionCode="MBI-" pageId="42" pageNumber="43">MBI-2964</specimenCode>
+; 
+<specimenCode id="DBB0520FFF94E01E1FB6F97780BAF913" box="[432,731,1676,1702]" pageId="42" pageNumber="43">FMNH-INS 000 103 942</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

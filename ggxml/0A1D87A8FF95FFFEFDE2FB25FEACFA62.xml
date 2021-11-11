@@ -1,0 +1,114 @@
+<document id="5503B58718B8626FABBA93FDC0B5ED24" ID-DOI="http://doi.org/10.5281/zenodo.5576694" ID-GBIF-Dataset="ad810ed8-176c-4016-980e-5aff5cef4931" ID-GBIF-Taxon="189137168" ID-ISSN="2118-9773" ID-Zenodo-Dep="5576694" ID-ZooBank="6384213C-8966-4349-A695-225C5CA0BC2F" _generate="added" checkinTime="1632918686576" checkinUser="felipe" docAuthor="Kime, Richard Desmond &amp; Enghoff, Henrik" docDate="2021" docId="0A1D87A8FF95FFFEFDE2FB25FEACFA62" docLanguage="en" docName="ejt-769_1-244.pdf" docOrigin="European Journal of Taxonomy 769" docSource="http://dx.doi.org/10.5852/ejt.2021.769.1497" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Troglodicus tridentifer Gulicka 1967" docType="treatment" docVersion="9" lastPageNumber="42" masterDocId="F624FFD0FFBCFFD7FFC6FFDCFFADFFBB" masterDocTitle="Atlas of European millipedes 3: Order Chordeumatida (Class Diplopoda)" masterLastPageNumber="244" masterPageNumber="1" pageId="41" pageNumber="42" updateTime="1634914224560" updateUser="valdenar" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="99C67F76E203E929EA0025133C1DB69C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="754FB223089B85D16677E2FFC2B227E1">
+<mods:title id="F174A71854084266ED5403BA788C3E8A">Atlas of European millipedes 3: Order Chordeumatida (Class Diplopoda)</mods:title>
+</mods:titleInfo>
+<mods:name id="7662AFE062D20959373AA500955758BD" type="personal">
+<mods:role id="CA68D0839F4D485502C63E8DBA7F3B9D">
+<mods:roleTerm id="8C1D45856E1613206BC6E55F1FA8E32D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="040D6C05E479A357B2542372D78DC883">Kime, Richard Desmond</mods:namePart>
+<mods:nameIdentifier id="C18C96B3716B4C09E19F20027CA7994B" type="LSID">847CC68F-00BF-4DAB-8E53-B7A3384D66C1</mods:nameIdentifier>
+<mods:affiliation id="E3AE7A3FE8DF759EFD236C6335F764F4">La Fontaine, La-Chapelle-Montmoreau, 24300 Nontron, France.</mods:affiliation>
+<mods:nameIdentifier id="6F77414EB89E62295E3F30086663518D" type="email">deskime2@aol.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="A862CF0AF72809CC71B0D582BF2A6A91" type="personal">
+<mods:role id="2EA997E6308C8FD161A81419A7B8BA92">
+<mods:roleTerm id="8443E5BA69A6F7C8DCB868DB4BB1A55A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D724743A0864669A1672E9C0FF30ADE9">Enghoff, Henrik</mods:namePart>
+<mods:nameIdentifier id="F13560E454FB706A9ECD1A5D6F746E70" type="LSID">FB09A817-000D-43C3-BCC4-2BC1E5373635</mods:nameIdentifier>
+<mods:affiliation id="8D05868202F703503F887DC2D7F33F5B">Natural History Museum of Denmark, University of Copenhagen, Universitetsparken 25, 2100 Copenhagen Ø, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="91544207DC15DECB6182306898FFDA3C" type="email">henghoff@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="9623BFA8DAA4C6C687968D1ACE71FF8C">text</mods:typeOfResource>
+<mods:relatedItem id="2DFD0A4A8060B5221E44FC0F0B213411" type="host">
+<mods:titleInfo id="48B016B8922AC86FBC3226FD4086C2D1">
+<mods:title id="700AC77EBB6CC6F19F7E1790A67D9711">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="D4CAF9030762C2DFF599805977819541">
+<mods:date id="E29491DFE4D5CF54BEB860B82F6D7DE9">2021</mods:date>
+<mods:detail id="FCF32FC9B842C70537BA7009ECFAB6C3" type="pubDate">
+<mods:number id="78EC89BFED805553CA3C8CF35AA59FCB">2021-09-22</mods:number>
+</mods:detail>
+<mods:detail id="28BE0E5B5A39F5A1E57B6734584D0F24" type="volume">
+<mods:number id="0CB7AD5C13141799DDE8A1DDFA1FCA0E">769</mods:number>
+</mods:detail>
+<mods:extent id="293E6525FCFB28CCAB12EBF518ACBFBD" unit="page">
+<mods:start id="E5086D675483D38B2D261F35B47B91B9">1</mods:start>
+<mods:end id="90D8FE787E54F69E759A1E2464A8D2B0">244</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="8E013F178CD9287BCCB1CE701466632D">
+<mods:url id="5C967660E8119C1B58513AEF822CDCD0">http://dx.doi.org/10.5852/ejt.2021.769.1497</mods:url>
+</mods:location>
+<mods:classification id="4D92FD6EFE9B31C38CAC03B5B70C4B0D">journal article</mods:classification>
+<mods:identifier id="A1AD2C21755875BC21938905C5B08F3E" type="DOI">https://doi.org/10.5852/ejt.2021.769.1497</mods:identifier>
+<mods:identifier id="2156A95FC60731E180C640DCC302EB52" type="GBIF-Dataset">ad810ed8-176c-4016-980e-5aff5cef4931</mods:identifier>
+<mods:identifier id="FA190BE76D84901791ADD0DD25D22F84" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="E7D67CA5A7E01C1BD718FFE3898512DC" type="Zenodo-Dep">5536353</mods:identifier>
+<mods:identifier id="1E408E907D0F09B571FC94F829621091" type="ZooBank">6384213C-8966-4349-A695-225C5CA0BC2F</mods:identifier>
+</mods:mods>
+<treatment id="0A1D87A8FF95FFFEFDE2FB25FEACFA62" ID-DOI="http://doi.org/10.5281/zenodo.5576694" ID-GBIF-Taxon="189137168" ID-Zenodo-Dep="5576694" LSID="urn:lsid:plazi:treatment:0A1D87A8FF95FFFEFDE2FB25FEACFA62" httpUri="http://treatment.plazi.org/id/0A1D87A8FF95FFFEFDE2FB25FEACFA62" lastPageNumber="42" pageId="41" pageNumber="42">
+<subSubSection id="CAAE6535FF95FFFEFDE2FB25FBBDFAA8" box="[548,1040,1272,1300]" pageId="41" pageNumber="42" type="nomenclature">
+<paragraph id="820B36BEFF95FFFEFDE2FB25FBBDFAA8" blockId="41.[548,1040,1272,1300]" box="[548,1040,1272,1300]" pageId="41" pageNumber="42">
+75. 
+<taxonomicName id="45B44D3DFF95FFFEFD96FB24FBBDFAA8" authority="Gulicka, 1967" authorityName="Gulicka" authorityYear="1967" box="[592,1040,1272,1299]" class="Diplopoda" family="Anthroleucosomatidae" genus="Troglodicus" kingdom="Animalia" order="Chordeumatida" pageId="41" pageNumber="42" phylum="Arthropoda" rank="species" species="tridentifer">
+<emphasis id="B0C0EAACFF95FFFEFD96FB24FCCCFAA8" bold="true" box="[592,865,1272,1299]" italics="true" pageId="41" pageNumber="42">Troglodicus tridentifer</emphasis>
+Gulička, 1967
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FF95FFFEFF7BFAEFFAC8F9D7" pageId="41" pageNumber="42" type="distribution">
+<subSubSection id="CAAE6535FF95FFFEFF7BFAEFFF40FACD" box="[189,342,1331,1398]" pageId="41" pageNumber="42" type="distribution">
+<paragraph id="820B36BEFF95FFFEFF7BFAEFFEFBFAF6" blockId="41.[189,342,1331,1398]" box="[189,342,1331,1357]" pageId="41" pageNumber="42">
+<heading id="D94381D2FF95FFFEFF7BFAEFFEFBFAF6" bold="true" box="[189,342,1331,1357]" fontSize="11" level="3" pageId="41" pageNumber="42" reason="3">
+<emphasis id="B0C0EAACFF95FFFEFF7BFAEFFEFBFAF6" bold="true" box="[189,342,1331,1357]" pageId="41" pageNumber="42">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="820B36BEFF95FFFEFF7BFA80FF40FACD" blockId="41.[189,342,1331,1398]" box="[189,237,1372,1398]" pageId="41" pageNumber="42">
+<caption id="D6CB6636FF95FFFEFF7BFA80FF44FACD" box="[189,233,1372,1398]" inLine="true" pageId="41" pageNumber="42" startId="41.[189,233,1372,1398]" targetBox="[235,767,820,1326]" targetPageId="173">BG</caption>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FF95FFFEFF7BFA4BFEACFA62" box="[189,285,1431,1497]" pageId="41" pageNumber="42" type="description">
+<paragraph id="820B36BEFF95FFFEFF7BFA4BFEB0FA0A" blockId="41.[189,285,1431,1497]" box="[189,285,1431,1457]" pageId="41" pageNumber="42">
+<heading id="D94381D2FF95FFFEFF7BFA4BFEB0FA0A" bold="true" box="[189,285,1431,1457]" fontSize="11" level="3" pageId="41" pageNumber="42" reason="3">
+<emphasis id="B0C0EAACFF95FFFEFF7BFA4BFEB0FA0A" bold="true" box="[189,285,1431,1457]" pageId="41" pageNumber="42">Habitat</emphasis>
+</heading>
+</paragraph>
+<paragraph id="820B36BEFF95FFFEFF7BFA63FEACFA62" blockId="41.[189,285,1431,1497]" box="[189,257,1471,1497]" pageId="41" pageNumber="42">Cave.</paragraph>
+</subSubSection>
+<treatment id="0A1D87A8FF95FFFEFD80FA26FAC8F9D7" ID-DOI="http://doi.org/10.5281/zenodo.5539804" ID-GBIF-Taxon="189137096" ID-Zenodo-Dep="5539804" LSID="urn:lsid:plazi:treatment:0A1D87A8FF95FFFEFDE2FB25FEACFA62" httpUri="http://treatment.plazi.org/id/0A1D87A8FF95FFFEFDE2FB25FEACFA62" pageId="41" pageNumber="42">
+<subSubSection id="CAAE6535FF95FFFEFD80FA26FC40F9AF" box="[582,1005,1530,1556]" pageId="41" pageNumber="42" type="nomenclature">
+<paragraph id="820B36BEFF95FFFEFD80FA26FC40F9AF" blockId="41.[582,1005,1530,1556]" box="[582,1005,1530,1556]" pageId="41" pageNumber="42">
+Family 
+<taxonomicName id="45B44D3DFF95FFFEFD67FA26FC40F9AF" authority="Verhoeff, 1899" authorityName="Verhoeff" authorityYear="1899" box="[673,1005,1530,1556]" class="Diplopoda" family="Attemsiidae" kingdom="Animalia" order="Chordeumatida" pageId="41" pageNumber="42" phylum="Arthropoda" rank="family">
+<emphasis id="B0C0EAACFF95FFFEFD67FA26FC9AF9AF" bold="true" box="[673,823,1530,1556]" pageId="41" pageNumber="42">Attemsiidae</emphasis>
+Verhoeff, 1899
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FF95FFFEFF7BF9E9FAC8F9D7" pageId="41" pageNumber="42" type="description">
+<paragraph id="820B36BEFF95FFFEFF7BF9E9FAC8F9D7" blockId="41.[189,1399,1589,1645]" pageId="41" pageNumber="42">
+<bibRefCitation id="E6254B4FFF95FFFEFF7BF9E9FEC8F9F4" author="Gruber J." box="[189,357,1589,1615]" pageId="41" pageNumber="42" pagination="512 - 541" refId="ref36115" refString="Gruber J. 2009. Diplopoda (Doppelfusser). In: Rabitsch W. &amp; Essl F. (eds) Endemiten - Kostbarkeiten in Osterreichs Pflanzen- und Tierwelt: 512 - 541. Naturwissenschaftlicher Verein fur Karnten und Umweltbundesamt GmbH, Klagenfurt und Wien." type="book chapter" year="2009">Gruber (2009)</bibRefCitation>
+provided habitat information on many species of this family which is endemic to a small area covering 
+<collectingCountry id="FAA3762EFF95FFFEFEA7F98EFE17F9D7" box="[353,442,1618,1644]" name="Austria" pageId="41" pageNumber="42">Austria</collectingCountry>
+, S 
+<collectingCountry id="FAA3762EFF95FFFEFE18F98EFDE1F9D7" box="[478,588,1618,1644]" name="Germany" pageId="41" pageNumber="42">Germany</collectingCountry>
+, 
+<collectingCountry id="FAA3762EFF95FFFEFD9EF98EFD6FF9D7" box="[600,706,1618,1644]" name="Slovenia" pageId="41" pageNumber="42">Slovenia</collectingCountry>
+, N 
+<collectingCountry id="FAA3762EFF95FFFEFD2CF98EFCEEF9D7" box="[746,835,1618,1644]" name="Croatia" pageId="41" pageNumber="42">Croatia</collectingCountry>
+, NE 
+<collectingCountry id="FAA3762EFF95FFFEFCBBF98EFC1EF9D7" box="[893,947,1618,1644]" name="Italy" pageId="41" pageNumber="42">Italy</collectingCountry>
+and 
+<collectingCountry id="FAA3762EFF95FFFEFC2AF98EFBFBF9D7" box="[1004,1110,1618,1644]" name="Slovakia" pageId="41" pageNumber="42">Slovakia</collectingCountry>
+. It contains 25 species.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

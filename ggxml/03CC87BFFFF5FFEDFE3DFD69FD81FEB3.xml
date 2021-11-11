@@ -1,0 +1,770 @@
+<document id="DBA8AC32B4CD6FD829E6035D3CA3A9AC" ID-DOI="http://doi.org/10.5281/zenodo.5607590" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550904" ID-ISSN="2118-9773" ID-Zenodo-Dep="5607590" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" LSID="urn:lsid:zoobank.org:act:86D671DC-3110-45AE-A379-2543EA8DEDD0" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFFF5FFEDFE3DFD69FD81FEB3" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Paratirolites quadratus Korn &amp; Ghaderi 2016" docType="treatment" docVersion="5" lastPageId="58" lastPageNumber="61" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="56" pageNumber="57" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7FD0608AB27DED9A6A20D9D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B1045998C4F528F3086EC76A9318D">
+<mods:title id="13FDA20519E160216EA5DF154705E399">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A65CD96D38113705D47E040E" type="personal">
+<mods:role id="51692204BF62DAC5FD76B5D5DE6FF597">
+<mods:roleTerm id="BD2BD8394B3548EC632009F7B4B41510">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4DA33431717753B5236750B1">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812DE8FCB6FB36870A51B78DD4" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F11F78A2F4BF877D812DEF0A">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F4886DA3D54F780F9DB4CDA7B" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A728702386917D769FE9AF622F579" type="personal">
+<mods:role id="6C3D2CE051E2529389BD3DA9A26AE44F">
+<mods:roleTerm id="A932971289C6D39C7FB6C113CE3C46D4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F6DE0118E08E2FEE47ACCAA">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB621E0C78F9EEBF796B25EF" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399609A1E297B104E942D9B1C">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BCEBFA175F1205CF7D0D8728" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD82F384C2E81183779CCB427" type="personal">
+<mods:role id="EBC7D4EE9247FDBA41844ABADB6EBE39">
+<mods:roleTerm id="79F914924036A1B0F4B463E3F3232654">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45119EB9F8A7B66FEC47714C">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD628DFE5D79F5A90E8C405F8" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD61C7BA85789FCE9925C55F">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F24168703353FCBEA0566FA" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E04AE04793081451FE109A47B" type="personal">
+<mods:role id="FAE14BA8E77BD37549911D8F304DF444">
+<mods:roleTerm id="F5BB0DB92842FFD759718AD37AE04B16">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C034AD7DB4C0A2700690BC171">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C6933F0CDCDF49ABA951117504E" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D38233528BFFFD95592014CF">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9DA3E3237543A35521D4B82" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253C64B55EE5DFEFE7FD87422" type="personal">
+<mods:role id="0763F0449FDE2FB3F2C57C1488076B0C">
+<mods:roleTerm id="BB48773F38E52B340AA43107B650CCC5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9CCA33496EC5293EB1DB89F">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E7B936C61AF8BA71327CB9FC" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA761305B5EE0FAC149979092A">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9FA1BF65571C6AA6AA05372" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC525EE75EF0D9935ECA474AD" type="personal">
+<mods:role id="8B8CD05C299A9B915EF851E1B857E64C">
+<mods:roleTerm id="ACB6128A21C04B804818ACBCC8454A77">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E784A886DBF3F9CA2FE098FB6">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281C8B87C90AD2BB2AEB089F6" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAAEB1446B1C56FC6300B7BBC">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B5FA781E1E730A1939B154C7" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510FB84642B1AD2BC8221A818E">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A305C4F84FC0734F6091C3AEC" type="host">
+<mods:titleInfo id="5E868733C63237ACB965319F677A30DF">
+<mods:title id="C420E4A067833B059F0AD8681E9FDB91">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BFE8700AE126DAF4688385F5">
+<mods:date id="1DE35E379E45B7CD0EA87EB14B5F7FC1">2021</mods:date>
+<mods:detail id="2E547940F06D7C5DF360F88C4BB4E337" type="pubDate">
+<mods:number id="A7A9FB1096761F74F8E35FA88FC3C166">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14EE9C042487313D6F6818D7" type="volume">
+<mods:number id="9C7A681476064DD79637569FF62E2324">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D38BB202D05181BF29BE18BE0" unit="page">
+<mods:start id="B9141DB8E5778EA6802E064E88CF4EDF">1</mods:start>
+<mods:end id="F9CBE60BDEFED50C402BDDF8A4F3957E">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E5D8C05DED73B8DA14A677B">journal article</mods:classification>
+<mods:identifier id="8AB9541377F99410E8AD7E2200350BDE" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E109B90A70E7C1C851AB7E59" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F88914D6BF422D1E23DBA94785" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48DA74D8887A212DE9155611" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEDDE7F65B5971DB7BED17B9" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFFF5FFEDFE3DFD69FD81FEB3" ID-DOI="http://doi.org/10.5281/zenodo.5607590" ID-GBIF-Taxon="189550904" ID-Zenodo-Dep="5607590" LSID="urn:lsid:zoobank.org:act:86D671DC-3110-45AE-A379-2543EA8DEDD0" httpUri="http://treatment.plazi.org/id/03CC87BFFFF5FFEDFE3DFD69FD81FEB3" lastPageId="58" lastPageNumber="61" pageId="56" pageNumber="57">
+<subSubSection id="C37F6522FFF5FFEFFE3DFD69FB36FD03" box="[436,1152,685,712]" pageId="56" pageNumber="57" type="nomenclature">
+<paragraph id="8BDA36A9FFF5FFEFFE3DFD69FB36FD03" blockId="56.[436,1152,685,747]" box="[436,1152,685,712]" pageId="56" pageNumber="57">
+<taxonomicName id="4C654D2AFFF5FFEFFE3DFD69FC24FD03" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[436,914,685,712]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="56" pageNumber="57" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF5FFEFFE3DFD69FD7DFD0C" bold="true" box="[436,715,685,712]" italics="true" pageId="56" pageNumber="57">Paratirolites quadratus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFF5FFEFFC31FD6AFB36FD03" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[952,1152,685,712]" pageId="56" pageNumber="57" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF5FFEFFC75FD6AFB81FD03" box="[1020,1079,685,711]" italics="true" pageId="56" pageNumber="57">et al.</emphasis>
+, 2016
+</bibRefCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF5FFEFFD17FD15FC23FD2F" box="[670,917,721,747]" pageId="56" pageNumber="57" type="description">
+<paragraph id="8BDA36A9FFF5FFEFFD17FD15FC23FD2F" blockId="56.[436,1152,685,747]" box="[670,917,721,747]" pageId="56" pageNumber="57">
+<figureCitation id="135E2A2CFFF5FFEFFD17FD15FC92FD2F" box="[670,804,721,747]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="57.[189,232,1928,1954]" captionStartId-1="58.[191,234,1547,1573]" captionTargetBox-0="[465,1157,1072,1892]" captionTargetBox-1="[369,1246,453,1505]" captionTargetId-0="figure-128@57.[428,1160,1066,1895]" captionTargetId-1="figure-137@58.[332,1256,439,1507]" captionTargetPageId-0="57" captionTargetPageId-1="58" captionText-0="Fig. 38. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29932, section E, float. B. Suture line, specimen MB.C.29932, at 13.5 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." captionText-1="Fig. 39. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29933, section E, float. B. Suture line, specimen MB.C.29933, at 29.0 mm ww, 17.0 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi-0="http://doi.org/10.5281/zenodo.5604815" figureDoi-1="http://doi.org/10.5281/zenodo.5604817" httpUri-0="https://zenodo.org/record/5604815/files/figure.png" httpUri-1="https://zenodo.org/record/5604817/files/figure.png" pageId="56" pageNumber="57">Figs 38–39</figureCitation>
+; 
+<tableCitation id="C6E70312FFF5FFEFFCB9FD15FC23FD2F" box="[816,917,721,747]" captionStart="Table 18" captionStartId="57.[189,258,265,291]" captionText="Table 18. Conch dimensions (partly estimated) and ratios of selected specimens of Paratirolites quadratus Korn &amp; Ghaderi in Korn et al. (2016) from Baghuk Mountain." pageId="56" pageNumber="57">Table 18</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF5FFEFFF34FCD7FBE1FCEA" box="[189,1111,787,814]" pageId="56" pageNumber="57" type="reference_group">
+<paragraph id="8BDA36A9FFF5FFEFFF34FCD7FBE1FCEA" blockId="56.[189,1111,787,814]" box="[189,1111,787,814]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB751187FFF5FFEFFF34FCD7FBE1FCEA" box="[189,1111,787,814]" pageId="56" pageNumber="57">
+<taxonomicName id="4C654D2AFFF5FFEFFF34FCD7FD21FCE9" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,663,787,813]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="56" pageNumber="57" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF5FFEFFF34FCD7FE66FCE9" box="[189,464,787,813]" italics="true" pageId="56" pageNumber="57">Paratirolites quadratus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<treatmentCitation id="0AC410B8FFF5FFEFFD34FCD7FC75FCE9" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[701,963,787,813]" page="866" pageId="56" pageNumber="57" year="2016">
+<bibRefCitation id="EFF44B58FFF5FFEFFD34FCD7FC75FCE9" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[701,963,787,813]" pageId="56" pageNumber="57" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF5FFEFFC88FCD0FC8AFCE9" box="[769,828,787,813]" italics="true" pageId="56" pageNumber="57">et al.</emphasis>
+, 2016: 866
+</bibRefCitation>
+</treatmentCitation>
+, text-fig. 25.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF5FFEFFF34FC90FEB5FB8B" pageId="56" pageNumber="57" type="diagnosis">
+<paragraph id="8BDA36A9FFF5FFEFFF34FC90FE80FCAA" blockId="56.[189,310,852,878]" box="[189,310,852,878]" pageId="56" pageNumber="57">
+<heading id="D09281C5FFF5FFEFFF34FC90FE80FCAA" bold="true" box="[189,310,852,878]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B911EABBFFF5FFEFFF34FC90FE80FCAA" bold="true" box="[189,310,852,878]" pageId="56" pageNumber="57">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF34FC40FEB5FB8B" blockId="56.[189,1399,900,1103]" pageId="56" pageNumber="57">
+<taxonomicName id="4C654D2AFFF5FFEFFF34FC40FEE4FC5A" box="[189,338,900,926]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="56" pageNumber="57" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFF5FFEFFF34FC40FEE4FC5A" box="[189,338,900,926]" italics="true" pageId="56" pageNumber="57">Paratirolites</emphasis>
+</taxonomicName>
+with conch reaching 
+<quantity id="4C9D9B4CFFF5FFEFFDC7FC40FD17FC5A" box="[590,673,900,926]" metricMagnitude="-2" metricUnit="m" metricValue="9.0" pageId="56" pageNumber="57" unit="mm" value="90.0">90 mm</quantity>
+dm. Subadult stage with trapezoidal, weakly depressed whorl profile (ww/wh =1.35–1.60) and broadly rounded venter; about 11–13 ribs ending in spiny ventrolateral nodes. Adult stage with weakly trapezoidal to nearly quadrate and weakly depressed whorl profile (ww/wh =1.00–1.20), weakly concave venter and angular ventrolateral shoulder; coarse and shallow ribs on flanks. Prongs of external lobe multiply serrated; altogether about 14–17 notches of E, A and L lobes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF5FFEFFF34FBB3FECDFA54" pageId="56" pageNumber="57" type="materials_examined">
+<paragraph id="8BDA36A9FFF5FFEFFF34FBB3FE1CFB55" blockId="56.[189,426,1143,1169]" box="[189,426,1143,1169]" pageId="56" pageNumber="57">
+<heading id="D09281C5FFF5FFEFFF34FBB3FE1CFB55" bold="true" box="[189,426,1143,1169]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B911EABBFFF5FFEFFF34FBB3FE1CFB55" bold="true" box="[189,426,1143,1169]" pageId="56" pageNumber="57">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF63FB62FC1EFACC" blockId="56.[189,1399,1190,1288]" pageId="56" pageNumber="57">
+<materialsCitation id="3B0D3CF4FFF5FFEFFF63FB62FC1EFACC" ID-GBIF-Occurrence="3395073380" collectionCode="MB" collectorName="Ali Bashi N" country="Iran" elevation="2" location="Ali Bashi N section" pageId="56" pageNumber="57" specimenCode="MB.C.25296" specimenCount="1" stateProvince="East Azerbaijan" typeStatus="holotype">
+<emphasis id="B911EABBFFF5FFEFFF63FB62FEEAFB04" bold="true" box="[234,348,1190,1216]" pageId="56" pageNumber="57">
+<typeStatus id="54DE880BFFF5FFEFFF63FB62FEEAFB04" box="[234,348,1190,1216]" pageId="56" pageNumber="57">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FFF5FFEFFF34FB0EFEB3FB20" box="[189,261,1226,1252]" name="Iran" pageId="56" pageNumber="57">IRAN</collectingCountry>
+• 
+<specimenCount id="9D63FD20FFF5FFEFFEA8FB0EFE1DFB20" box="[289,427,1226,1252]" pageId="56" pageNumber="57" type="generic">1 specimen</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFF5FFEFFE31FB0EFDC0FB20" box="[440,630,1226,1252]" country="Iran" name="Azarbayjan-e Sharqi" pageId="56" pageNumber="57">East Azerbaijan</collectingRegion>
+, 
+<location id="8EBA6072FFF5FFEFFD08FB0EFCC6FB20" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF5FFEFFD08FB0EFCC6FB20" box="[641,880,1226,1252]" country="Iran" name="Ali Bashi N section" pageId="56" pageNumber="57" stateProvince="East Azerbaijan">Ali Bashi N section</location>
+; 
+<taxonomicName id="4C654D2AFFF5FFEFFCF7FB0EFB2FFB20" authority="Limestone" authorityName="Limestone" box="[894,1177,1226,1252]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="56" pageNumber="57" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFF5FFEFFCF7FB0EFBA5FB20" box="[894,1043,1226,1252]" italics="true" pageId="56" pageNumber="57">Paratirolites</emphasis>
+Limestone
+</taxonomicName>
+, 
+<quantity id="4C9D9B4CFFF5FFEFFB2FFB0EFB4FFB20" box="[1190,1273,1226,1252]" metricMagnitude="0" metricUnit="m" metricValue="1.7" pageId="56" pageNumber="57" unit="m" value="1.7">1.70 m</quantity>
+below the top; illustrated by 
+<bibRefCitation id="EFF44B58FFF5FFEFFE1CFB2AFDD7FAC3" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[405,609,1261,1288]" pageId="56" pageNumber="57" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF5FFEFFE5EFB2AFDA4FAC3" box="[471,530,1261,1287]" italics="true" pageId="56" pageNumber="57">et al.</emphasis>
+(2016
+</bibRefCitation>
+: text-fig. 25); 
+<specimenCode id="DBC39ED2FFF5FFEFFC8EFB29FC12FACC" box="[775,932,1261,1288]" pageId="56" pageNumber="57">MB.C.25296</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF63FAEBFE57FA8D" blockId="56.[188,1399,1327,1425]" box="[234,481,1327,1353]" pageId="56" pageNumber="57">
+<emphasis id="B911EABBFFF5FFEFFF63FAEBFE57FA8D" bold="true" box="[234,481,1327,1353]" pageId="56" pageNumber="57">Additional material</emphasis>
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF34FA97FECDFA54" blockId="56.[188,1399,1327,1425]" pageId="56" pageNumber="57">
+<materialsCitation id="3B0D3CF4FFF5FFEFFF34FA97FEC0FA54" ID-GBIF-Occurrence="3395073457" collectionCode="MB" collectorName="Baghuk Mountain C &amp; Hambast Formation" country="Iran" location="Baghuk Mountain C section" pageId="56" pageNumber="57" specimenCode="MB.C.29331, MB.C.29332, MB.C.29333" specimenCount="3" stateProvince="Esfahan Province">
+<collectingCountry id="F3727639FFF5FFEFFF34FA97FEB3FAA9" box="[189,261,1363,1389]" name="Iran" pageId="56" pageNumber="57">IRAN</collectingCountry>
+• 
+<specimenCount id="9D63FD20FFF5FFEFFE92FA97FE18FAA9" box="[283,430,1363,1389]" pageId="56" pageNumber="57" type="generic">3 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFF5FFEFFE31FA97FD3EFAA9" box="[440,648,1363,1389]" country="Iran" name="Esfahan" pageId="56" pageNumber="57">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFF5FFEFFD1BFA97FC6AFAA9" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF5FFEFFD1BFA97FC6AFAA9" box="[658,988,1363,1389]" country="Iran" name="Baghuk Mountain C section" pageId="56" pageNumber="57" stateProvince="Esfahan Province">Baghuk Mountain C section</location>
+; 
+<geologicalTimeScale id="F945B602FFF5FFEFFC6EFA97FB65FAA9" box="[999,1235,1363,1389]" pageId="56" pageNumber="57">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFF5FFEFFB54FA97FAC1FAA9" box="[1245,1399,1363,1389]" pageId="56" pageNumber="57">MB.C.29331</specimenCode>
+to 
+<specimenCode id="DBC39ED2FFF5FFEFFF53FAB2FEC0FA54" box="[218,374,1398,1424]" pageId="56" pageNumber="57">MB.C.29333</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF5FFEEFF34FA7CFCDCFCB7" lastPageId="57" lastPageNumber="58" pageId="56" pageNumber="57" type="description">
+<paragraph id="8BDA36A9FFF5FFEFFF34FA7CFEF8FA16" blockId="56.[189,334,1464,1490]" box="[189,334,1464,1490]" pageId="56" pageNumber="57">
+<heading id="D09281C5FFF5FFEFFF34FA7CFEF8FA16" bold="true" box="[189,334,1464,1490]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B911EABBFFF5FFEFFF34FA7CFEF8FA16" bold="true" box="[189,334,1464,1490]" pageId="56" pageNumber="57">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF34FA23FA88F912" blockId="56.[188,1400,1511,1751]" pageId="56" pageNumber="57">
+Specimen MB.C.29932 is a nicely preserved specimen of 
+<quantity id="4C9D9B4CFFF5FFEFFCE7FA23FC77F9C6" box="[878,961,1511,1538]" metricMagnitude="-2" metricUnit="m" metricValue="7.2" pageId="56" pageNumber="57" unit="mm" value="72.0">72 mm</quantity>
+conch diameter (
+<figureCitation id="135E2A2CFFF5FFEFFB06FA23FB48F9C5" box="[1167,1278,1511,1537]" captionStart="Fig" captionStartId="57.[189,232,1928,1954]" captionTargetBox="[465,1157,1072,1892]" captionTargetId="figure-128@57.[428,1160,1066,1895]" captionTargetPageId="57" captionText="Fig. 38. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29932, section E, float. B. Suture line, specimen MB.C.29932, at 13.5 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604815" httpUri="https://zenodo.org/record/5604815/files/figure.png" pageId="56" pageNumber="57">Fig. 38A</figureCitation>
+). It shows weak septal crowding at 
+<quantity id="4C9D9B4CFFF5FFEFFE56F9CFFD87F9E1" box="[479,561,1547,1573]" metricMagnitude="-2" metricUnit="m" metricValue="4.8" pageId="56" pageNumber="57" unit="mm" value="48.0">48 mm</quantity>
+diameter and thus half of the last volution belongs to the body chamber. The whorl profile shape changes from trapezoidal with convex flanks of the subadult stage to parallelsided at the beginning of the body chamber; at the same time the shape of the venter changes from weakly convex to nearly totally flattened. The sculpture of the subadult stage possesses 13 conical ventrolateral nods per volution; they originate from rounded radial ribs. On the body chamber the nodes are weaker and become radially elongated, they are connected with low, rounded dorsolateral ribs.
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEFFF34F93AFC7BF89B" blockId="56.[189,1398,1790,1887]" pageId="56" pageNumber="57">
+The suture line of specimen MB.C.29932 shows an asymmetric external lobe with weakly concave flanks, of which both prongs are trifid. Also on the venter follows the very narrow, weakly inflated ventrolateral saddle and the asymmetric adventive lobe (
+<figureCitation id="135E2A2CFFF5FFEFFCDDF881FC76F89B" box="[852,960,1861,1887]" captionStart="Fig" captionStartId="57.[189,232,1928,1954]" captionTargetBox="[465,1157,1072,1892]" captionTargetId="figure-128@57.[428,1160,1066,1895]" captionTargetPageId="57" captionText="Fig. 38. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29932, section E, float. B. Suture line, specimen MB.C.29932, at 13.5 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604815" httpUri="https://zenodo.org/record/5604815/files/figure.png" pageId="56" pageNumber="57">Fig. 38B</figureCitation>
+).
+</paragraph>
+<paragraph id="8BDA36A9FFF5FFEEFF34F843FCDCFCB7" blockId="56.[189,1399,1927,2025]" lastBlockId="57.[189,1399,751,883]" lastPageId="57" lastPageNumber="58" pageId="56" pageNumber="57">
+Specimen MB.C.29933 is a larger specimen with 
+<quantity id="4C9D9B4CFFF5FFEFFC81F843FCDCF866" box="[776,874,1927,1954]" metricMagnitude="-1" metricUnit="m" metricValue="1.01" pageId="56" pageNumber="57" unit="mm" value="101.0">101 mm</quantity>
+conch diameter (
+<figureCitation id="135E2A2CFFF5FFEFFBBEF843FB10F865" box="[1079,1190,1927,1953]" captionStart="Fig" captionStartId="58.[191,234,1547,1573]" captionTargetBox="[369,1246,453,1505]" captionTargetId="figure-137@58.[332,1256,439,1507]" captionTargetPageId="58" captionText="Fig. 39. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29933, section E, float. B. Suture line, specimen MB.C.29933, at 29.0 mm ww, 17.0 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604817" httpUri="https://zenodo.org/record/5604817/files/figure.png" pageId="56" pageNumber="57">Fig. 39A</figureCitation>
+). It shows similar conch and sculpture characteristics but differs from the preceding specimen in the coarser ventrolateral nods and the larger phragmocone (
+<quantity id="4C9D9B4CFFF5FFEFFDD6F80AFD00F82D" box="[607,694,1998,2025]" metricMagnitude="-2" metricUnit="m" metricValue="6.2" pageId="56" pageNumber="57" unit="mm" value="62.0">62 mm</quantity>
+dm). Its suture line has a parallel-sided external lobe with parallel-sided trifid prongs. The ventrolateral saddle is very narrow and the adventive lobe shows strong serration by small notches, which climb up the ventral flank to more than half of the lobe depth. The lateral saddle is weakly inflated and lower than the ventrolateral saddle and the lateral lobe is nearly parallel-sided and possesses five small notches (
+<figureCitation id="135E2A2CFFF4FFEEFD78FC9DFCEBFCB7" box="[753,861,857,883]" captionStart="Fig" captionStartId="58.[191,234,1547,1573]" captionTargetBox="[369,1246,453,1505]" captionTargetId="figure-137@58.[332,1256,439,1507]" captionTargetPageId="58" captionText="Fig. 39. Paratirolites quadratus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29933, section E, float. B. Suture line, specimen MB.C.29933, at 29.0 mm ww, 17.0 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604817" httpUri="https://zenodo.org/record/5604817/files/figure.png" pageId="57" pageNumber="58">Fig. 39B</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<caption id="DF1A6621FFF4FFEEFF34FECDFBAFFE82" pageId="57" pageNumber="58" startId="57.[189,258,265,291]">
+<paragraph id="8BDA36A9FFF4FFEEFF34FECDFBAFFE82" blockId="57.[189,1399,265,327]" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFF34FECDFE83FEE7" bold="true" box="[189,309,265,291]" pageId="57" pageNumber="58">Table 18.</emphasis>
+Conch dimensions (partly estimated) and ratios of selected specimens of 
+<taxonomicName id="4C654D2AFFF4FFEEFB6BFECDFE4DFE82" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="57" pageNumber="58" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF4FFEEFB6BFECDFE82FE82" italics="true" pageId="57" pageNumber="58">Paratirolites quadratus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFF4FFEEFDA8FEE9FD43FE83" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[545,757,300,327]" pageId="57" pageNumber="58" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF4FFEEFDECFEE9FD29FE82" box="[613,671,300,326]" italics="true" pageId="57" pageNumber="58">et al.</emphasis>
+(2016)
+</bibRefCitation>
+from Baghuk Mountain.
+</paragraph>
+</caption>
+<paragraph id="8BDA36A9FFF4FFEEFF6CFEBDFAD4FD54" pageId="57" pageNumber="58">
+<table id="F965C409FFF40028FF5CFEBDFAD5FD55" box="[213,1379,377,657]" colsContinueFrom="55.[214,1378,377,1225]" colsContinueIn="60.[214,1378,377,606]" gridcols="11" gridrows="6" pageId="57" pageNumber="58">
+<tr id="355534EBFFF40028FF5CFEBDFAD5FE57" box="[213,1379,377,403]" gridrow="0" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFEBDFED9FE57" box="[213,367,377,403]" gridcol="0" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFF6CFEBDFEE8FE57" bold="true" box="[229,350,377,403]" pageId="57" pageNumber="58">Specimen</emphasis>
+</th>
+<th id="76845D97FFF40028FE11FEBDFE6CFE57" box="[408,474,377,403]" gridcol="1" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFE2DFEBDFE7BFE57" bold="true" box="[420,461,377,403]" pageId="57" pageNumber="58">dm</emphasis>
+</th>
+<th id="76845D97FFF40028FE74FEBDFD86FE57" box="[509,560,377,403]" gridcol="2" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFD8BFEBDFD9AFE57" bold="true" box="[514,556,377,403]" pageId="57" pageNumber="58">ww</emphasis>
+</th>
+<th id="76845D97FFF40028FDDFFEBDFD3FFE57" box="[598,649,377,403]" gridcol="3" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFDD5FEBDFD37FE57" bold="true" box="[604,641,377,403]" pageId="57" pageNumber="58">wh</emphasis>
+</th>
+<th id="76845D97FFF40028FD27FEBDFD57FE57" box="[686,737,377,403]" gridcol="4" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFD3DFEBDFD6FFE57" bold="true" box="[692,729,377,403]" pageId="57" pageNumber="58">uw</emphasis>
+</th>
+<th id="76845D97FFF40028FC8FFEBDFC8FFE57" box="[774,825,377,403]" gridcol="5" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFC99FEBDFC99FE57" bold="true" box="[784,815,377,403]" pageId="57" pageNumber="58">ah</emphasis>
+</th>
+<th id="76845D97FFF40028FCD5FEBDFC01FE57" box="[860,951,377,403]" gridcol="6" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFCD5FEBDFC01FE57" bold="true" box="[860,951,377,403]" pageId="57" pageNumber="58">ww/dm</emphasis>
+</th>
+<th id="76845D97FFF40028FC53FEBDFB84FE57" box="[986,1074,377,403]" gridcol="7" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFC53FEBDFB84FE57" bold="true" box="[986,1074,377,403]" pageId="57" pageNumber="58">ww/wh</emphasis>
+</th>
+<th id="76845D97FFF40028FBDAFEBDFB1FFE57" box="[1107,1193,377,403]" gridcol="8" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFBDAFEBDFB1FFE57" bold="true" box="[1107,1193,377,403]" pageId="57" pageNumber="58">uw/dm</emphasis>
+</th>
+<th id="76845D97FFF40028FB41FEBDFAB8FE57" box="[1224,1294,377,403]" gridcol="9" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFB41FEBDFAB8FE57" bold="true" box="[1224,1294,377,403]" pageId="57" pageNumber="58">WER</emphasis>
+</th>
+<th id="76845D97FFF40028FAA6FEBDFAD5FE57" box="[1327,1379,377,403]" gridcol="10" gridrow="0" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFAA6FEBDFAD5FE57" bold="true" box="[1327,1379,377,403]" pageId="57" pageNumber="58">IZR</emphasis>
+</th>
+</tr>
+<tr id="355534EBFFF40028FF5CFE6FFAD5FE02" box="[213,1379,427,454]" gridrow="1" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFE6FFED9FE02" box="[213,367,427,454]" gridcol="0" gridrow="1" pageId="57" pageNumber="58">MB.C.29933</th>
+<td id="76845D97FFF40028FE11FE6FFE6CFE02" box="[408,474,427,454]" gridcol="1" gridrow="1" pageId="57" pageNumber="58">101.0</td>
+<td id="76845D97FFF40028FE74FE6FFD86FE02" box="[509,560,427,454]" gridcol="2" gridrow="1" pageId="57" pageNumber="58">26.8</td>
+<td id="76845D97FFF40028FDDFFE6FFD3FFE02" box="[598,649,427,454]" gridcol="3" gridrow="1" pageId="57" pageNumber="58">32.6</td>
+<td id="76845D97FFF40028FD27FE6FFD57FE02" box="[686,737,427,454]" gridcol="4" gridrow="1" pageId="57" pageNumber="58">43.3</td>
+<td id="76845D97FFF40028FC8FFE6FFC8FFE02" box="[774,825,427,454]" gridcol="5" gridrow="1" pageId="57" pageNumber="58">31.5</td>
+<td id="76845D97FFF40028FCD5FE6FFC01FE02" box="[860,951,427,454]" gridcol="6" gridrow="1" pageId="57" pageNumber="58">0.27</td>
+<td id="76845D97FFF40028FC53FE6FFB84FE02" box="[986,1074,427,454]" gridcol="7" gridrow="1" pageId="57" pageNumber="58">0.82</td>
+<td id="76845D97FFF40028FBDAFE6FFB1FFE02" box="[1107,1193,427,454]" gridcol="8" gridrow="1" pageId="57" pageNumber="58">0.43</td>
+<td id="76845D97FFF40028FB41FE6FFAB8FE02" box="[1224,1294,427,454]" gridcol="9" gridrow="1" pageId="57" pageNumber="58">2.11</td>
+<td id="76845D97FFF40028FAA6FE6FFAD5FE02" box="[1327,1379,427,454]" gridcol="10" gridrow="1" pageId="57" pageNumber="58">0.03</td>
+</tr>
+<tr id="355534EBFFF40028FF5CFE1AFAD5FE3D" box="[213,1379,478,505]" gridrow="2" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFE1AFED9FE3D" box="[213,367,478,505]" gridcol="0" gridrow="2" pageId="57" pageNumber="58">MB.C.29933</th>
+<td id="76845D97FFF40028FE11FE1AFE6CFE3D" box="[408,474,478,505]" gridcol="1" gridrow="2" pageId="57" pageNumber="58">70.4</td>
+<td id="76845D97FFF40028FE74FE1AFD86FE3D" box="[509,560,478,505]" gridcol="2" gridrow="2" pageId="57" pageNumber="58">28.5</td>
+<td id="76845D97FFF40028FDDFFE1AFD3FFE3D" box="[598,649,478,505]" gridcol="3" gridrow="2" pageId="57" pageNumber="58">24.4</td>
+<td id="76845D97FFF40028FD27FE1AFD57FE3D" box="[686,737,478,505]" gridcol="4" gridrow="2" pageId="57" pageNumber="58">28.2</td>
+<td id="76845D97FFF40028FC8FFE1AFC8FFE3D" box="[774,825,478,505]" gridcol="5" gridrow="2" pageId="57" pageNumber="58">–</td>
+<td id="76845D97FFF40028FCD5FE1AFC01FE3D" box="[860,951,478,505]" gridcol="6" gridrow="2" pageId="57" pageNumber="58">0.40</td>
+<td id="76845D97FFF40028FC53FE1AFB84FE3D" box="[986,1074,478,505]" gridcol="7" gridrow="2" pageId="57" pageNumber="58">1.17</td>
+<td id="76845D97FFF40028FBDAFE1AFB1FFE3D" box="[1107,1193,478,505]" gridcol="8" gridrow="2" pageId="57" pageNumber="58">0.40</td>
+<td id="76845D97FFF40028FB41FE1AFAB8FE3D" box="[1224,1294,478,505]" gridcol="9" gridrow="2" pageId="57" pageNumber="58">–</td>
+<td id="76845D97FFF40028FAA6FE1AFAD5FE3D" box="[1327,1379,478,505]" gridcol="10" gridrow="2" pageId="57" pageNumber="58">–</td>
+</tr>
+<tr id="355534EBFFF40028FF5CFDD5FAD5FDE8" box="[213,1379,529,556]" gridrow="3" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFDD5FED9FDE8" box="[213,367,529,556]" gridcol="0" gridrow="3" pageId="57" pageNumber="58">MB.C.29932</th>
+<td id="76845D97FFF40028FE11FDD5FE6CFDE8" box="[408,474,529,556]" gridcol="1" gridrow="3" pageId="57" pageNumber="58">71.5</td>
+<td id="76845D97FFF40028FE74FDD5FD86FDE8" box="[509,560,529,556]" gridcol="2" gridrow="3" pageId="57" pageNumber="58">23.6</td>
+<td id="76845D97FFF40028FDDFFDD5FD3FFDE8" box="[598,649,529,556]" gridcol="3" gridrow="3" pageId="57" pageNumber="58">25.4</td>
+<td id="76845D97FFF40028FD27FDD5FD57FDE8" box="[686,737,529,556]" gridcol="4" gridrow="3" pageId="57" pageNumber="58">30.4</td>
+<td id="76845D97FFF40028FC8FFDD5FC8FFDE8" box="[774,825,529,556]" gridcol="5" gridrow="3" pageId="57" pageNumber="58">23.9</td>
+<td id="76845D97FFF40028FCD5FDD5FC01FDE8" box="[860,951,529,556]" gridcol="6" gridrow="3" pageId="57" pageNumber="58">0.33</td>
+<td id="76845D97FFF40028FC53FDD5FB84FDE8" box="[986,1074,529,556]" gridcol="7" gridrow="3" pageId="57" pageNumber="58">0.93</td>
+<td id="76845D97FFF40028FBDAFDD5FB1FFDE8" box="[1107,1193,529,556]" gridcol="8" gridrow="3" pageId="57" pageNumber="58">0.43</td>
+<td id="76845D97FFF40028FB41FDD5FAB8FDE8" box="[1224,1294,529,556]" gridcol="9" gridrow="3" pageId="57" pageNumber="58">2.26</td>
+<td id="76845D97FFF40028FAA6FDD5FAD5FDE8" box="[1327,1379,529,556]" gridcol="10" gridrow="3" pageId="57" pageNumber="58">0.06</td>
+</tr>
+<tr id="355534EBFFF40028FF5CFD87FAD5FD9A" box="[213,1379,579,606]" gridrow="4" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFD87FED9FD9A" box="[213,367,579,606]" gridcol="0" gridrow="4" pageId="57" pageNumber="58">MB.C.29932</th>
+<td id="76845D97FFF40028FE11FD87FE6CFD9A" box="[408,474,579,606]" gridcol="1" gridrow="4" pageId="57" pageNumber="58">47.9</td>
+<td id="76845D97FFF40028FE74FD87FD86FD9A" box="[509,560,579,606]" gridcol="2" gridrow="4" pageId="57" pageNumber="58">26.3</td>
+<td id="76845D97FFF40028FDDFFD87FD3FFD9A" box="[598,649,579,606]" gridcol="3" gridrow="4" pageId="57" pageNumber="58">15.7</td>
+<td id="76845D97FFF40028FD27FD87FD57FD9A" box="[686,737,579,606]" gridcol="4" gridrow="4" pageId="57" pageNumber="58">20.5</td>
+<td id="76845D97FFF40028FC8FFD87FC8FFD9A" box="[774,825,579,606]" gridcol="5" gridrow="4" pageId="57" pageNumber="58">–</td>
+<td id="76845D97FFF40028FCD5FD87FC01FD9A" box="[860,951,579,606]" gridcol="6" gridrow="4" pageId="57" pageNumber="58">0.55</td>
+<td id="76845D97FFF40028FC53FD87FB84FD9A" box="[986,1074,579,606]" gridcol="7" gridrow="4" pageId="57" pageNumber="58">1.68</td>
+<td id="76845D97FFF40028FBDAFD87FB1FFD9A" box="[1107,1193,579,606]" gridcol="8" gridrow="4" pageId="57" pageNumber="58">0.43</td>
+<td id="76845D97FFF40028FB41FD87FAB8FD9A" box="[1224,1294,579,606]" gridcol="9" gridrow="4" pageId="57" pageNumber="58">–</td>
+<td id="76845D97FFF40028FAA6FD87FAD5FD9A" box="[1327,1379,579,606]" gridcol="10" gridrow="4" pageId="57" pageNumber="58">–</td>
+</tr>
+<tr id="355534EBFFF40028FF5CFDB2FAD5FD55" box="[213,1379,630,657]" gridrow="5" pageId="57" pageNumber="58">
+<th id="76845D97FFF40028FF5CFDB2FED9FD55" box="[213,367,630,657]" gridcol="0" gridrow="5" pageId="57" pageNumber="58">MB.C.29931</th>
+<td id="76845D97FFF40028FE11FDB2FE6CFD55" box="[408,474,630,657]" gridcol="1" gridrow="5" pageId="57" pageNumber="58">61.1</td>
+<td id="76845D97FFF40028FE74FDB2FD86FD55" box="[509,560,630,657]" gridcol="2" gridrow="5" pageId="57" pageNumber="58">21.5</td>
+<td id="76845D97FFF40028FDDFFDB2FD3FFD55" box="[598,649,630,657]" gridcol="3" gridrow="5" pageId="57" pageNumber="58">19.6</td>
+<td id="76845D97FFF40028FD27FDB2FD57FD55" box="[686,737,630,657]" gridcol="4" gridrow="5" pageId="57" pageNumber="58">26.4</td>
+<td id="76845D97FFF40028FC8FFDB2FC8FFD55" box="[774,825,630,657]" gridcol="5" gridrow="5" pageId="57" pageNumber="58">18.4</td>
+<td id="76845D97FFF40028FCD5FDB2FC01FD55" box="[860,951,630,657]" gridcol="6" gridrow="5" pageId="57" pageNumber="58">0.35</td>
+<td id="76845D97FFF40028FC53FDB2FB84FD55" box="[986,1074,630,657]" gridcol="7" gridrow="5" pageId="57" pageNumber="58">1.10</td>
+<td id="76845D97FFF40028FBDAFDB2FB1FFD55" box="[1107,1193,630,657]" gridcol="8" gridrow="5" pageId="57" pageNumber="58">0.43</td>
+<td id="76845D97FFF40028FB41FDB2FAB8FD55" box="[1224,1294,630,657]" gridcol="9" gridrow="5" pageId="57" pageNumber="58">2.05</td>
+<td id="76845D97FFF40028FAA6FDB2FAD5FD55" box="[1327,1379,630,657]" gridcol="10" gridrow="5" pageId="57" pageNumber="58">0.06</td>
+</tr>
+</table>
+</paragraph>
+<subSubSection id="C37F6522FFF4FFEDFF34FC5EFCCBF92D" lastPageId="58" lastPageNumber="59" pageId="57" pageNumber="58" type="discussion">
+<subSubSection id="C37F6522FFF4FFEEFF34FC5EFB1AFBC2" pageId="57" pageNumber="58" type="discussion">
+<paragraph id="8BDA36A9FFF4FFEEFF34FC5EFE99FC70" blockId="57.[189,303,922,948]" box="[189,303,922,948]" pageId="57" pageNumber="58">
+<heading id="D09281C5FFF4FFEEFF34FC5EFE99FC70" bold="true" box="[189,303,922,948]" fontSize="11" level="3" pageId="57" pageNumber="58" reason="3">
+<emphasis id="B911EABBFFF4FFEEFF34FC5EFE99FC70" bold="true" box="[189,303,922,948]" pageId="57" pageNumber="58">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF4FFEEFF34FC0DFB1AFBC2" blockId="57.[189,1398,969,1031]" pageId="57" pageNumber="58">
+<taxonomicName id="4C654D2AFFF4FFEEFF34FC0DFE66FC27" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,464,969,995]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="57" pageNumber="58" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF4FFEEFF34FC0DFE66FC27" box="[189,464,969,995]" italics="true" pageId="57" pageNumber="58">Paratirolites quadratus</emphasis>
+</taxonomicName>
+differs from the other species of 
+<taxonomicName id="4C654D2AFFF4FFEEFCDEFC0DFC5AFC27" box="[855,1004,969,995]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="57" pageNumber="58" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFF4FFEEFCDEFC0DFC5AFC27" box="[855,1004,969,995]" italics="true" pageId="57" pageNumber="58">Paratirolites</emphasis>
+</taxonomicName>
+in the slightly trapezoidal, nearly quadrate whorl profile in the adult conch and the very long, spiny ventrolateral nodes.
+</paragraph>
+</subSubSection>
+<caption id="DF1A6621FFF4FFEEFF34F84CFD6DF82D" ID-DOI="http://doi.org/10.5281/zenodo.5604815" ID-Zenodo-Dep="5604815" httpUri="https://zenodo.org/record/5604815/files/figure.png" pageId="57" pageNumber="58" startId="57.[189,232,1928,1954]" targetBox="[465,1157,1072,1892]" targetPageId="57">
+<paragraph id="8BDA36A9FFF4FFEEFF34F84CFD6DF82D" blockId="57.[188,1399,1928,2025]" pageId="57" pageNumber="58">
+<emphasis id="B911EABBFFF4FFEEFF34F84CFE94F866" bold="true" box="[189,290,1928,1954]" pageId="57" pageNumber="58">Fig. 38.</emphasis>
+<taxonomicName id="4C654D2AFFF4FFEEFEBBF84CFC32F866" authority="Korn &amp; Ghaderi, 2016" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[306,900,1928,1955]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="57" pageNumber="58" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF4FFEEFEBBF84CFDFBF866" box="[306,589,1928,1954]" italics="true" pageId="57" pageNumber="58">Paratirolites quadratus</emphasis>
+<bibRefCitation id="EFF44B58FFF4FFEEFDD4F84DFC32F866" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[605,900,1928,1955]" pageId="57" pageNumber="58" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">Korn &amp; Ghaderi, 2016</bibRefCitation>
+</taxonomicName>
+. 
+<emphasis id="B911EABBFFF4FFEEFC11F84CFC1BF866" bold="true" box="[920,941,1928,1954]" pageId="57" pageNumber="58">A</emphasis>
+. Lateral and dorsal view, specimen MB.C.29932, section E, float. 
+<emphasis id="B911EABBFFF4FFEEFDA9F868FD82F802" bold="true" box="[544,564,1964,1990]" pageId="57" pageNumber="58">B</emphasis>
+. Suture line, specimen MB.C.29932, at 13.5 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm.
+</paragraph>
+</caption>
+<subSubSection id="C37F6522FFF7FFEDFF34FECCFD81FEB3" pageId="58" pageNumber="59" type="description">
+<paragraph id="8BDA36A9FFF7FFEDFF34FECCFE02FEE7" blockId="58.[189,436,264,291]" box="[189,436,264,291]" pageId="58" pageNumber="59">
+<heading id="D09281C5FFF7FFEDFF34FECCFE02FEE7" bold="true" box="[189,436,264,291]" fontSize="11" level="3" pageId="58" pageNumber="59" reason="3">
+<emphasis id="B911EABBFFF7FFEDFF34FECCFE02FEE7" bold="true" box="[189,436,264,291]" pageId="58" pageNumber="59">Stratigraphic range</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF7FFEDFF34FEFDFD81FEB3" blockId="58.[189,1399,312,376]" pageId="58" pageNumber="59">
+At Baghuk Mountain only known from float from the upper part of the Hambast Formation; 
+<taxonomicName id="4C654D2AFFF7FFEDFB55FEFDFEE5FEBC" authority="Zone" authorityName="Zone" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="58" pageNumber="59" phylum="Mollusca" rank="species" species="dieneri">
+<emphasis id="B911EABBFFF7FFEDFB55FEFDFEA6FEB3" italics="true" pageId="58" pageNumber="59">Stoyanowites dieneri</emphasis>
+Zone
+</taxonomicName>
+in the 
+<collectingRegion id="49A1F84BFFF7FFEDFE2DFE99FD82FEB3" box="[420,564,349,375]" country="Azerbaijan" name="Culfa" pageId="58" pageNumber="59">Julfa region</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+<caption id="DF1A6621FFF7FFEDFF36F9CFFC08F9A8" ID-DOI="http://doi.org/10.5281/zenodo.5604817" ID-Zenodo-Dep="5604817" httpUri="https://zenodo.org/record/5604817/files/figure.png" pageId="58" pageNumber="59" startId="58.[191,234,1547,1573]" targetBox="[369,1246,453,1505]" targetPageId="58">
+<paragraph id="8BDA36A9FFF7FFEDFF36F9CFFC08F9A8" blockId="58.[189,1399,1547,1644]" pageId="58" pageNumber="59">
+<emphasis id="B911EABBFFF7FFEDFF36F9CFFE92F9E1" bold="true" box="[191,292,1547,1573]" pageId="58" pageNumber="59">Fig. 39.</emphasis>
+<taxonomicName id="4C654D2AFFF7FFEDFEBBF9CFFC32F9E1" authority="Korn &amp; Ghaderi, 2016" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[306,900,1547,1574]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="58" pageNumber="59" phylum="Mollusca" rank="species" species="quadratus">
+<emphasis id="B911EABBFFF7FFEDFEBBF9CFFDFBF9E1" box="[306,589,1547,1573]" italics="true" pageId="58" pageNumber="59">Paratirolites quadratus</emphasis>
+<bibRefCitation id="EFF44B58FFF7FFEDFDD4F9C8FC32F9E1" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[605,900,1547,1574]" pageId="58" pageNumber="59" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">Korn &amp; Ghaderi, 2016</bibRefCitation>
+</taxonomicName>
+. 
+<emphasis id="B911EABBFFF7FFEDFC11F9CFFC1BF9E1" bold="true" box="[920,941,1547,1573]" pageId="58" pageNumber="59">A</emphasis>
+. Lateral and dorsal view, specimen MB.C.29933, section E, float. 
+<emphasis id="B911EABBFFF7FFEDFDA4F9EAFDF7F98C" bold="true" box="[557,577,1582,1608]" pageId="58" pageNumber="59">B</emphasis>
+. Suture line, specimen MB.C.29933, at 29.0 mm ww, 17.0 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm.
+</paragraph>
+</caption>
+<treatment id="03CC87BFFFF7FFEBFE58F96EFEBDF93A" ID-DOI="http://doi.org/10.5281/zenodo.5607595" ID-GBIF-Taxon="189550903" ID-Zenodo-Dep="5607595" LSID="urn:lsid:zoobank.org:act:86D671DC-3110-45AE-A379-2543EA8DEDD0" httpUri="http://treatment.plazi.org/id/03CC87BFFFF5FFEDFE3DFD69FD81FEB3" lastPageId="60" lastPageNumber="61" pageId="58" pageNumber="59">
+<subSubSection id="C37F6522FFF7FFEDFE58F96EFBD5F900" box="[465,1123,1706,1733]" pageId="58" pageNumber="59" type="nomenclature">
+<paragraph id="8BDA36A9FFF7FFEDFE58F96EFBD5F900" blockId="58.[465,1123,1706,1769]" box="[465,1123,1706,1733]" pageId="58" pageNumber="59">
+<taxonomicName id="4C654D2AFFF7FFEDFE58F96EFCC3F900" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[465,885,1706,1733]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="58" pageNumber="59" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF7FFEDFE58F96EFD18F900" bold="true" box="[465,686,1706,1733]" italics="true" pageId="58" pageNumber="59">Paratirolites serus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFF7FFEDFC12F96FFBD5F900" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[923,1123,1706,1733]" pageId="58" pageNumber="59" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF7FFEDFC57F96FFBAFF900" box="[990,1049,1706,1732]" italics="true" pageId="58" pageNumber="59">et al.</emphasis>
+, 2016
+</bibRefCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF7FFEDFD3FF90BFCCBF92D" box="[694,893,1743,1769]" pageId="58" pageNumber="59" type="description">
+<paragraph id="8BDA36A9FFF7FFEDFD3FF90BFCCBF92D" blockId="58.[465,1123,1706,1769]" box="[694,893,1743,1769]" pageId="58" pageNumber="59">
+<figureCitation id="135E2A2CFFF7FFEDFD3FF90BFCBBF92D" box="[694,781,1743,1769]" captionStart="Fig" captionStartId="59.[189,232,1856,1882]" captionTargetBox="[191,1398,936,1807]" captionTargetId="figure-231@59.[189,1398,922,1826]" captionTargetPageId="59" captionText="Fig. 40. Paratirolites serus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29936, section E, float. B. Lateral and dorsal view, specimen MB.C.29934, section C, -0.60 m. C. Lateral and dorsal view, specimen MB.C.29937, section F, -0.75 m. D. Suture line, specimen MB.C.29934, at 16.0 mm ww, 10.3 mm wh. E. Whorl profile proportions. Abbreviations: see Material and methods. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604819" httpUri="https://zenodo.org/record/5604819/files/figure.png" pageId="58" pageNumber="59">Fig. 40</figureCitation>
+; 
+<tableCitation id="C6E70312FFF7FFEDFC91F90BFCCBF92D" box="[792,893,1743,1769]" captionStart="Table 19" captionStartId="60.[189,258,265,291]" captionText="Table 19. Conch dimensions (partly estimated) and ratios of selected specimens of Paratirolites serus Korn &amp; Ghaderi in Korn et al. (2016) from Baghuk Mountain." pageId="58" pageNumber="59">Table 19</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF7FFEDFF34F8D6FBA8F8E8" box="[189,1054,1810,1836]" pageId="58" pageNumber="59" type="reference_group">
+<paragraph id="8BDA36A9FFF7FFEDFF34F8D6FBA8F8E8" blockId="58.[189,1054,1810,1836]" box="[189,1054,1810,1836]" pageId="58" pageNumber="59">
+<treatmentCitationGroup id="AB751187FFF7FFEDFF34F8D6FBA8F8E8" box="[189,1054,1810,1836]" pageId="58" pageNumber="59">
+<taxonomicName id="4C654D2AFFF7FFEDFF34F8D6FDE8F8E8" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,606,1810,1836]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="58" pageNumber="59" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF7FFEDFF34F8D6FE21F8E8" box="[189,407,1810,1836]" italics="true" pageId="58" pageNumber="59">Paratirolites serus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<treatmentCitation id="0AC410B8FFF7FFEDFD0DF8D6FC3CF8E8" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[644,906,1810,1836]" page="868" pageId="58" pageNumber="59" year="2016">
+<bibRefCitation id="EFF44B58FFF7FFEDFD0DF8D6FC3CF8E8" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[644,906,1810,1836]" pageId="58" pageNumber="59" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF7FFEDFD41F8D7FCB5F8E8" box="[712,771,1810,1836]" italics="true" pageId="58" pageNumber="59">et al.</emphasis>
+, 2016: 868
+</bibRefCitation>
+</treatmentCitation>
+, text-fig. 27.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF7FFECFF34F890FAC2FE80" lastPageId="59" lastPageNumber="60" pageId="58" pageNumber="59" type="diagnosis">
+<paragraph id="8BDA36A9FFF7FFEDFF34F890FE80F8AA" blockId="58.[189,310,1876,1902]" box="[189,310,1876,1902]" pageId="58" pageNumber="59">
+<heading id="D09281C5FFF7FFEDFF34F890FE80F8AA" bold="true" box="[189,310,1876,1902]" fontSize="11" level="3" pageId="58" pageNumber="59" reason="3">
+<emphasis id="B911EABBFFF7FFEDFF34F890FE80F8AA" bold="true" box="[189,310,1876,1902]" pageId="58" pageNumber="59">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF7FFECFF34F841FAC2FE80" blockId="58.[189,1399,1925,2025]" lastBlockId="59.[189,1398,265,325]" lastPageId="59" lastPageNumber="60" pageId="58" pageNumber="59">
+<taxonomicName id="4C654D2AFFF7FFEDFF34F841FEE4F85B" box="[189,338,1925,1951]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="58" pageNumber="59" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFF7FFEDFF34F841FEE4F85B" box="[189,338,1925,1951]" italics="true" pageId="58" pageNumber="59">Paratirolites</emphasis>
+</taxonomicName>
+with conch reaching 
+<quantity id="4C9D9B4CFFF7FFEDFDEBF841FD0CF85B" box="[610,698,1925,1951]" metricMagnitude="-2" metricUnit="m" metricValue="8.0" pageId="58" pageNumber="59" unit="mm" value="80.0">80 mm</quantity>
+dm. Subadult stage with weakly to strongly trapezoidal, depressed whorl profile (ww/wh =1.40–1.80) and broadly rounded venter; 12–14 coarse conical ventrolateral nodes. Adult stage with circular or slightly trapezoidal, weakly to moderately depressed whorl profile (ww/wh =1.20–1.60), flattened venter and subangular to angular ventrolateral shoulder; numerous ribs on the flank. Prongs of external lobe simple; altogether 6–9 notches of E, A and L lobes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF6FFECFF34FEAEFEE8FD7E" pageId="59" pageNumber="60" type="materials_examined">
+<paragraph id="8BDA36A9FFF6FFECFF34FEAEFE1CFE40" blockId="59.[189,426,362,388]" box="[189,426,362,388]" pageId="59" pageNumber="60">
+<heading id="D09281C5FFF6FFECFF34FEAEFE1CFE40" bold="true" box="[189,426,362,388]" fontSize="11" level="3" pageId="59" pageNumber="60" reason="3">
+<emphasis id="B911EABBFFF6FFECFF34FEAEFE1CFE40" bold="true" box="[189,426,362,388]" pageId="59" pageNumber="60">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF6FFECFF63FE53FC5FFE30" blockId="59.[189,1398,407,500]" pageId="59" pageNumber="60">
+<materialsCitation id="3B0D3CF4FFF6FFECFF63FE53FC5FFE30" ID-GBIF-Occurrence="3395073484" collectionCode="MB" collectorName="Ali Bashi N &amp; Korn &amp; Ghaderi" country="Iran" elevation="7" location="Ali Bashi N section" pageId="59" pageNumber="60" specimenCode="MB.C.25300" specimenCount="1" stateProvince="East Azerbaijan" typeStatus="holotype">
+<emphasis id="B911EABBFFF6FFECFF63FE53FEEAFE75" bold="true" box="[234,348,407,433]" pageId="59" pageNumber="60">
+<typeStatus id="54DE880BFFF6FFECFF63FE53FEEAFE75" box="[234,348,407,433]" pageId="59" pageNumber="60">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FFF6FFECFF34FE7CFEB3FE16" box="[189,261,440,466]" name="Iran" pageId="59" pageNumber="60">IRAN</collectingCountry>
+• 
+<collectingRegion id="49A1F84BFFF6FFECFE94FE7CFE6EFE16" box="[285,472,440,466]" country="Iran" name="Azarbayjan-e Sharqi" pageId="59" pageNumber="60">East Azerbaijan</collectingRegion>
+, 
+<location id="8EBA6072FFF6FFECFE6BFE7CFD7DFE16" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF6FFECFE6BFE7CFD7DFE16" box="[482,715,440,466]" country="Iran" name="Ali Bashi N section" pageId="59" pageNumber="60" stateProvince="East Azerbaijan">Ali Bashi N section</location>
+; 
+<taxonomicName id="4C654D2AFFF6FFECFD5CFE7CFC47FE16" authority="Limestone" authorityName="Limestone" box="[725,1009,440,466]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="59" pageNumber="60" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFF6FFECFD5CFE7CFCDCFE16" box="[725,874,440,466]" italics="true" pageId="59" pageNumber="60">Paratirolites</emphasis>
+Limestone
+</taxonomicName>
+, 
+<quantity id="4C9D9B4CFFF6FFECFC75FE7CFBFBFE16" box="[1020,1101,440,467]" metricMagnitude="-1" metricUnit="m" metricValue="6.5" pageId="59" pageNumber="60" unit="m" value="0.65">0.65 m</quantity>
+below the top; illustrated by Korn &amp; Ghaderi in 
+<bibRefCitation id="EFF44B58FFF6FFECFE4EFE1EFD23FE37" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[455,661,473,500]" pageId="59" pageNumber="60" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF6FFECFD82FE1EFDF0FE37" box="[523,582,473,499]" italics="true" pageId="59" pageNumber="60">et al.</emphasis>
+(2016
+</bibRefCitation>
+: text-fig. 27a); 
+<specimenCode id="DBC39ED2FFF6FFECFCC1FE1DFC53FE30" box="[840,997,473,500]" pageId="59" pageNumber="60">MB.C.25300</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BDA36A9FFF6FFECFF63FDDEFE57FDF0" blockId="59.[187,1398,538,698]" box="[234,481,538,564]" pageId="59" pageNumber="60">
+<emphasis id="B911EABBFFF6FFECFF63FDDEFE57FDF0" bold="true" box="[234,481,538,564]" pageId="59" pageNumber="60">Additional material</emphasis>
+</paragraph>
+<paragraph id="8BDA36A9FFF6FFECFF34FDF8FEE8FD7E" blockId="59.[187,1398,538,698]" pageId="59" pageNumber="60">
+<materialsCitation id="3B0D3CF4FFF6FFECFF34FDF8FAD0FD92" ID-GBIF-Occurrence="3395073493" box="[189,1382,572,599]" collectionCode="MB" collectorName="Baghuk Mountain C &amp; Hambast Formation" country="Iran" location="Baghuk Mountain C section" pageId="59" pageNumber="60" specimenCode="MB.C.29934" specimenCount="1" stateProvince="Esfahan Province">
+<collectingCountry id="F3727639FFF6FFECFF34FDF8FEB3FD92" box="[189,261,572,598]" name="Iran" pageId="59" pageNumber="60">IRAN</collectingCountry>
+• 
+<specimenCount id="9D63FD20FFF6FFECFE93FDF8FE14FD92" box="[282,418,572,598]" pageId="59" pageNumber="60" type="generic">1 specimen</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFF6FFECFE22FDF8FDCCFD92" box="[427,634,572,598]" country="Iran" name="Esfahan" pageId="59" pageNumber="60">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFF6FFECFD0CFDF8FC7BFD92" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF6FFECFD0CFDF8FC7BFD92" box="[645,973,572,598]" country="Iran" name="Baghuk Mountain C section" pageId="59" pageNumber="60" stateProvince="Esfahan Province">Baghuk Mountain C section</location>
+; 
+<geologicalTimeScale id="F945B602FFF6FFECFC5EFDF8FB75FD92" box="[983,1219,572,598]" pageId="59" pageNumber="60">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFF6FFECFB44FDF8FAD0FD92" box="[1229,1382,572,598]" pageId="59" pageNumber="60">MB.C.29934</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFF6FFECFF32FD99FECEFD5D" ID-GBIF-Occurrence="3395073498" collectionCode="MB" collectorName="Baghuk Mountain E &amp; Hambast Formation" country="Iran" location="Baghuk Mountain E section" pageId="59" pageNumber="60" specimenCode="MB.C.29935, MB.C.29936" specimenCount="2" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFF6FFECFF32FD99FEEEFDB3" box="[187,344,605,631]" pageId="59" pageNumber="60" type="generic">2 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFF6FFECFEE5FD99FDF3FDB3" box="[364,581,605,631]" country="Iran" name="Esfahan" pageId="59" pageNumber="60">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFF6FFECFDD0FD99FC08FDB3" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF6FFECFDD0FD99FC08FDB3" box="[601,958,605,632]" country="Iran" name="Baghuk Mountain E section" pageId="59" pageNumber="60" stateProvince="Esfahan Province">Baghuk Mountain E section</location>
+; 
+<geologicalTimeScale id="F945B602FFF6FFECFC5BFD99FB7EFDB3" box="[978,1224,605,631]" pageId="59" pageNumber="60">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFF6FFECFB55FD99FAC3FDBC" box="[1244,1397,605,632]" pageId="59" pageNumber="60">MB.C.29935</specimenCode>
+to 
+<specimenCode id="DBC39ED2FFF6FFECFF56FDBBFECEFD5D" box="[223,376,639,665]" pageId="59" pageNumber="60">MB.C.29936</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFF6FFECFE10FDBBFEECFD7E" ID-GBIF-Occurrence="3395073463" collectionCode="MB" collectorName="Baghuk Mountain F &amp; Hambast Formation" country="Iran" location="Baghuk Mountain F section" pageId="59" pageNumber="60" specimenCode="MB.C.29937" specimenCount="1" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFF6FFECFE10FDBBFD90FD5D" box="[409,550,639,665]" pageId="59" pageNumber="60" type="generic">1 specimen</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFF6FFECFDBCFDBBFCBCFD5D" box="[565,778,639,665]" country="Iran" name="Esfahan" pageId="59" pageNumber="60">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFF6FFECFC93FDBBFBC7FD5D" LSID="urn:lsid:plazi:treatment:03CC87BFFFF5FFEDFE3DFD69FD81FEB3:8EBA6072FFF6FFECFC93FDBBFBC7FD5D" box="[794,1137,639,665]" country="Iran" name="Baghuk Mountain F section" pageId="59" pageNumber="60" stateProvince="Esfahan Province">Baghuk Mountain F section</location>
+; 
+<geologicalTimeScale id="F945B602FFF6FFECFB09FDBBFAC4FD5D" box="[1152,1394,639,665]" pageId="59" pageNumber="60">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFF6FFECFF34FD64FEECFD7E" box="[189,346,672,698]" pageId="59" pageNumber="60">MB.C.29937</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF6FFEBFF34FD1BFCA1FACD" lastPageId="60" lastPageNumber="61" pageId="59" pageNumber="60" type="description">
+<paragraph id="8BDA36A9FFF6FFECFF34FD1BFEF8FD3D" blockId="59.[189,334,735,761]" box="[189,334,735,761]" pageId="59" pageNumber="60">
+<heading id="D09281C5FFF6FFECFF34FD1BFEF8FD3D" bold="true" box="[189,334,735,761]" fontSize="11" level="3" pageId="59" pageNumber="60" reason="3">
+<emphasis id="B911EABBFFF6FFECFF34FD1BFEF8FD3D" bold="true" box="[189,334,735,761]" pageId="59" pageNumber="60">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF6FFEBFF34FCC8FCCDFC8D" blockId="59.[189,1399,780,874]" lastBlockId="60.[189,1399,709,841]" lastPageId="60" lastPageNumber="61" pageId="59" pageNumber="60">
+Specimen MB.C.29936 has 
+<quantity id="4C9D9B4CFFF6FFECFD80FCC8FDEAFCE3" box="[521,604,780,807]" metricMagnitude="-2" metricUnit="m" metricValue="6.2" pageId="59" pageNumber="60" unit="mm" value="62.0">62 mm</quantity>
+conch diameter and is the largest available specimen (
+<figureCitation id="135E2A2CFFF6FFECFB68FCC8FAE6FCE2" box="[1249,1360,780,806]" captionStart="Fig" captionStartId="59.[189,232,1856,1882]" captionTargetBox="[191,1398,936,1807]" captionTargetId="figure-231@59.[189,1398,922,1826]" captionTargetPageId="59" captionText="Fig. 40. Paratirolites serus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29936, section E, float. B. Lateral and dorsal view, specimen MB.C.29934, section C, -0.60 m. C. Lateral and dorsal view, specimen MB.C.29937, section F, -0.75 m. D. Suture line, specimen MB.C.29934, at 16.0 mm ww, 10.3 mm wh. E. Whorl profile proportions. Abbreviations: see Material and methods. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604819" httpUri="https://zenodo.org/record/5604819/files/figure.png" pageId="59" pageNumber="60">Fig. 40A</figureCitation>
+). It is corroded but still rather well preserved and allows the study of three whorls. A little more than half a volution belongs to the body chamber. The weakly depressed whorl profile (ww/wh = 1.05) of the body chamber is trapezoidal with weakly diverging flanks and the flattened venter is separated from the flanks by a subangular ventrolateral shoulder. The sculpture changes, on the last portion of the phragmocone, from a subadult stage with 14 coarse ventrolateral nodes per volution to the adult stage with numerous weak radial ribs with weak ventrolateral nodes on the flank.
+</paragraph>
+<caption id="DF1A6621FFF6FFECFF34F884FE7BF82C" ID-DOI="http://doi.org/10.5281/zenodo.5604819" ID-Zenodo-Dep="5604819" httpUri="https://zenodo.org/record/5604819/files/figure.png" pageId="59" pageNumber="60" startId="59.[189,232,1856,1882]" targetBox="[191,1398,936,1807]" targetPageId="59">
+<paragraph id="8BDA36A9FFF6FFECFF34F884FE7BF82C" blockId="59.[189,1399,1856,2024]" pageId="59" pageNumber="60">
+<emphasis id="B911EABBFFF6FFECFF34F884FEACF89E" bold="true" box="[189,282,1856,1882]" pageId="59" pageNumber="60">Fig. 40.</emphasis>
+<taxonomicName id="4C654D2AFFF6FFECFEA8F884FCB9F89E" authority="Korn &amp; Ghaderi, 2016" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[289,783,1856,1883]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="59" pageNumber="60" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF6FFECFEA8F884FE4DF89E" box="[289,507,1856,1882]" italics="true" pageId="59" pageNumber="60">Paratirolites serus</emphasis>
+<bibRefCitation id="EFF44B58FFF6FFECFD8BF885FCB9F89E" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[514,783,1856,1883]" pageId="59" pageNumber="60" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">Korn &amp; Ghaderi, 2016</bibRefCitation>
+</taxonomicName>
+. 
+<emphasis id="B911EABBFFF6FFECFC92F884FC86F89E" bold="true" box="[795,816,1856,1882]" pageId="59" pageNumber="60">A</emphasis>
+. Lateral and dorsal view, specimen MB.C.29936, section E, float. 
+<emphasis id="B911EABBFFF6FFECFE0EF8A0FE2DF8BA" bold="true" box="[391,411,1892,1918]" pageId="59" pageNumber="60">B</emphasis>
+. Lateral and dorsal view, specimen MB.C.29934, section C, -0.60 m. 
+<emphasis id="B911EABBFFF6FFECFB72F8A7FAA6F8B9" bold="true" box="[1275,1296,1891,1917]" pageId="59" pageNumber="60">C</emphasis>
+. Lateral and dorsal view, specimen MB.C.29937, section F, -0.75 m. 
+<emphasis id="B911EABBFFF6FFECFC29F843FC03F865" bold="true" box="[928,949,1927,1953]" pageId="59" pageNumber="60">D</emphasis>
+. Suture line, specimen MB.C.29934, at 16.0 mm ww, 10.3 mm wh. 
+<emphasis id="B911EABBFFF6FFECFDA3F86EFD8BF800" bold="true" box="[554,573,1962,1988]" pageId="59" pageNumber="60">E</emphasis>
+. Whorl profile proportions. Abbreviations: see Material and methods. Scale bar units= 1 mm.
+</paragraph>
+</caption>
+<caption id="DF1A6621FFF1FFEBFF34FECDFC2DFE82" pageId="60" pageNumber="61" startId="60.[189,258,265,291]">
+<paragraph id="8BDA36A9FFF1FFEBFF34FECDFC2DFE82" blockId="60.[189,1400,265,327]" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFF34FECDFE99FEE7" bold="true" box="[189,303,265,291]" pageId="60" pageNumber="61">Table 19.</emphasis>
+Conch dimensions (partly estimated) and ratios of selected specimens of 
+<taxonomicName id="4C654D2AFFF1FFEBFB15FECDFEC8FE82" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF1FFEBFB15FECDFACEFEE7" box="[1180,1400,265,291]" italics="true" pageId="60" pageNumber="61">Paratirolites serus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFF1FFEBFE2DFEE9FDC0FE83" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[420,630,300,327]" pageId="60" pageNumber="61" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFF1FFEBFE6FFEE9FD97FE82" box="[486,545,300,326]" italics="true" pageId="60" pageNumber="61">et al.</emphasis>
+(2016)
+</bibRefCitation>
+from Baghuk Mountain.
+</paragraph>
+</caption>
+<paragraph id="8BDA36A9FFF1FFEBFF6FFEBDFAD4FD99" pageId="60" pageNumber="61">
+<table id="F965C409FFF10028FF5FFEBDFAD4FD9A" box="[214,1378,377,606]" colsContinueFrom="57.[213,1379,377,657]" colsContinueIn="64.[221,1376,353,860]" gridcols="11" gridrows="5" pageId="60" pageNumber="61">
+<tr id="355534EBFFF10028FF5FFEBDFAD4FE57" box="[214,1378,377,403]" gridrow="0" pageId="60" pageNumber="61">
+<th id="76845D97FFF10028FF5FFEBDFEC6FE57" box="[214,368,377,403]" gridcol="0" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFF6FFEBDFEE9FE57" bold="true" box="[230,351,377,403]" pageId="60" pageNumber="61">Specimen</emphasis>
+</th>
+<th id="76845D97FFF10028FE15FEBDFE79FE57" box="[412,463,377,403]" gridcol="1" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFE28FEBDFE7CFE57" bold="true" box="[417,458,377,403]" pageId="60" pageNumber="61">dm</emphasis>
+</th>
+<th id="76845D97FFF10028FE7FFEBDFD9FFE57" box="[502,553,377,403]" gridcol="2" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFE73FEBDFD92FE57" bold="true" box="[506,548,377,403]" pageId="60" pageNumber="61">ww</emphasis>
+</th>
+<th id="76845D97FFF10028FDD9FEBDFD35FE57" box="[592,643,377,403]" gridcol="3" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFDDEFEBDFDCAFE57" bold="true" box="[599,636,377,403]" pageId="60" pageNumber="61">wh</emphasis>
+</th>
+<th id="76845D97FFF10028FD20FEBDFD6AFE57" box="[681,732,377,403]" gridcol="4" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFD39FEBDFD63FE57" bold="true" box="[688,725,377,403]" pageId="60" pageNumber="61">uw</emphasis>
+</th>
+<th id="76845D97FFF10028FC8AFEBDFC80FE57" box="[771,822,377,403]" gridcol="5" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFC84FEBDFC9AFE57" bold="true" box="[781,812,377,403]" pageId="60" pageNumber="61">ah</emphasis>
+</th>
+<th id="76845D97FFF10028FCD3FEBDFC00FE57" box="[858,950,377,403]" gridcol="6" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFCD3FEBDFC00FE57" bold="true" box="[858,950,377,403]" pageId="60" pageNumber="61">ww/dm</emphasis>
+</th>
+<th id="76845D97FFF10028FC51FEBDFB86FE57" box="[984,1072,377,403]" gridcol="7" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFC51FEBDFB86FE57" bold="true" box="[984,1072,377,403]" pageId="60" pageNumber="61">ww/wh</emphasis>
+</th>
+<th id="76845D97FFF10028FBD8FEBDFB1EFE57" box="[1105,1192,377,403]" gridcol="8" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFBD8FEBDFB1EFE57" bold="true" box="[1105,1192,377,403]" pageId="60" pageNumber="61">uw/dm</emphasis>
+</th>
+<th id="76845D97FFF10028FB4FFEBDFABAFE57" box="[1222,1292,377,403]" gridcol="9" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFB4FFEBDFABAFE57" bold="true" box="[1222,1292,377,403]" pageId="60" pageNumber="61">WER</emphasis>
+</th>
+<th id="76845D97FFF10028FAA7FEBDFAD4FE57" box="[1326,1378,377,403]" gridcol="10" gridrow="0" pageId="60" pageNumber="61">
+<emphasis id="B911EABBFFF1FFEBFAA7FEBDFAD4FE57" bold="true" box="[1326,1378,377,403]" pageId="60" pageNumber="61">IZR</emphasis>
+</th>
+</tr>
+<tr id="355534EBFFF10028FF5FFE6FFAD4FE02" box="[214,1378,427,454]" gridrow="1" pageId="60" pageNumber="61">
+<th id="76845D97FFF10028FF5FFE6FFEC6FE02" box="[214,368,427,454]" gridcol="0" gridrow="1" pageId="60" pageNumber="61">MB.C.29936</th>
+<td id="76845D97FFF10028FE15FE6FFE79FE02" box="[412,463,427,454]" gridcol="1" gridrow="1" pageId="60" pageNumber="61">61.8</td>
+<td id="76845D97FFF10028FE7FFE6FFD9FFE02" box="[502,553,427,454]" gridcol="2" gridrow="1" pageId="60" pageNumber="61">21.3</td>
+<td id="76845D97FFF10028FDD9FE6FFD35FE02" box="[592,643,427,454]" gridcol="3" gridrow="1" pageId="60" pageNumber="61">20.5</td>
+<td id="76845D97FFF10028FD20FE6FFD6AFE02" box="[681,732,427,454]" gridcol="4" gridrow="1" pageId="60" pageNumber="61">26.2</td>
+<td id="76845D97FFF10028FC8AFE6FFC80FE02" box="[771,822,427,454]" gridcol="5" gridrow="1" pageId="60" pageNumber="61">19.7</td>
+<td id="76845D97FFF10028FCD3FE6FFC00FE02" box="[858,950,427,454]" gridcol="6" gridrow="1" pageId="60" pageNumber="61">0.34</td>
+<td id="76845D97FFF10028FC51FE6FFB86FE02" box="[984,1072,427,454]" gridcol="7" gridrow="1" pageId="60" pageNumber="61">1.04</td>
+<td id="76845D97FFF10028FBD8FE6FFB1EFE02" box="[1105,1192,427,454]" gridcol="8" gridrow="1" pageId="60" pageNumber="61">0.42</td>
+<td id="76845D97FFF10028FB4FFE6FFABAFE02" box="[1222,1292,427,454]" gridcol="9" gridrow="1" pageId="60" pageNumber="61">2.15</td>
+<td id="76845D97FFF10028FAA7FE6FFAD4FE02" box="[1326,1378,427,454]" gridcol="10" gridrow="1" pageId="60" pageNumber="61">0.04</td>
+</tr>
+<tr id="355534EBFFF10028FF5FFE1AFAD4FE3D" box="[214,1378,478,505]" gridrow="2" pageId="60" pageNumber="61">
+<th id="76845D97FFF10028FF5FFE1AFEC6FE3D" box="[214,368,478,505]" gridcol="0" gridrow="2" pageId="60" pageNumber="61">MB.C.29934</th>
+<td id="76845D97FFF10028FE15FE1AFE79FE3D" box="[412,463,478,505]" gridcol="1" gridrow="2" pageId="60" pageNumber="61">46.7</td>
+<td id="76845D97FFF10028FE7FFE1AFD9FFE3D" box="[502,553,478,505]" gridcol="2" gridrow="2" pageId="60" pageNumber="61">16.9</td>
+<td id="76845D97FFF10028FDD9FE1AFD35FE3D" box="[592,643,478,505]" gridcol="3" gridrow="2" pageId="60" pageNumber="61">16.2</td>
+<td id="76845D97FFF10028FD20FE1AFD6AFE3D" box="[681,732,478,505]" gridcol="4" gridrow="2" pageId="60" pageNumber="61">20.2</td>
+<td id="76845D97FFF10028FC8AFE1AFC80FE3D" box="[771,822,478,505]" gridcol="5" gridrow="2" pageId="60" pageNumber="61">15.2</td>
+<td id="76845D97FFF10028FCD3FE1AFC00FE3D" box="[858,950,478,505]" gridcol="6" gridrow="2" pageId="60" pageNumber="61">0.36</td>
+<td id="76845D97FFF10028FC51FE1AFB86FE3D" box="[984,1072,478,505]" gridcol="7" gridrow="2" pageId="60" pageNumber="61">1.04</td>
+<td id="76845D97FFF10028FBD8FE1AFB1EFE3D" box="[1105,1192,478,505]" gridcol="8" gridrow="2" pageId="60" pageNumber="61">0.43</td>
+<td id="76845D97FFF10028FB4FFE1AFABAFE3D" box="[1222,1292,478,505]" gridcol="9" gridrow="2" pageId="60" pageNumber="61">2.20</td>
+<td id="76845D97FFF10028FAA7FE1AFAD4FE3D" box="[1326,1378,478,505]" gridcol="10" gridrow="2" pageId="60" pageNumber="61">0.06</td>
+</tr>
+<tr id="355534EBFFF10028FF5FFDD5FAD4FDE8" box="[214,1378,529,556]" gridrow="3" pageId="60" pageNumber="61">
+<th id="76845D97FFF10028FF5FFDD5FEC6FDE8" box="[214,368,529,556]" gridcol="0" gridrow="3" pageId="60" pageNumber="61">MB.C.29937</th>
+<td id="76845D97FFF10028FE15FDD5FE79FDE8" box="[412,463,529,556]" gridcol="1" gridrow="3" pageId="60" pageNumber="61">37.8</td>
+<td id="76845D97FFF10028FE7FFDD5FD9FFDE8" box="[502,553,529,556]" gridcol="2" gridrow="3" pageId="60" pageNumber="61">16.9</td>
+<td id="76845D97FFF10028FDD9FDD5FD35FDE8" box="[592,643,529,556]" gridcol="3" gridrow="3" pageId="60" pageNumber="61">12.8</td>
+<td id="76845D97FFF10028FD20FDD5FD6AFDE8" box="[681,732,529,556]" gridcol="4" gridrow="3" pageId="60" pageNumber="61">15.7</td>
+<td id="76845D97FFF10028FC8AFDD5FC80FDE8" box="[771,822,529,556]" gridcol="5" gridrow="3" pageId="60" pageNumber="61">12.0</td>
+<td id="76845D97FFF10028FCD3FDD5FC00FDE8" box="[858,950,529,556]" gridcol="6" gridrow="3" pageId="60" pageNumber="61">0.45</td>
+<td id="76845D97FFF10028FC51FDD5FB86FDE8" box="[984,1072,529,556]" gridcol="7" gridrow="3" pageId="60" pageNumber="61">1.32</td>
+<td id="76845D97FFF10028FBD8FDD5FB1EFDE8" box="[1105,1192,529,556]" gridcol="8" gridrow="3" pageId="60" pageNumber="61">0.42</td>
+<td id="76845D97FFF10028FB4FFDD5FABAFDE8" box="[1222,1292,529,556]" gridcol="9" gridrow="3" pageId="60" pageNumber="61">2.15</td>
+<td id="76845D97FFF10028FAA7FDD5FAD4FDE8" box="[1326,1378,529,556]" gridcol="10" gridrow="3" pageId="60" pageNumber="61">0.06</td>
+</tr>
+<tr id="355534EBFFF10028FF5FFD87FAD4FD9A" box="[214,1378,579,606]" gridrow="4" pageId="60" pageNumber="61">
+<th id="76845D97FFF10028FF5FFD87FEC6FD9A" box="[214,368,579,606]" gridcol="0" gridrow="4" pageId="60" pageNumber="61">MB.C.29935</th>
+<td id="76845D97FFF10028FE15FD87FE79FD9A" box="[412,463,579,606]" gridcol="1" gridrow="4" pageId="60" pageNumber="61">36.7</td>
+<td id="76845D97FFF10028FE7FFD87FD9FFD9A" box="[502,553,579,606]" gridcol="2" gridrow="4" pageId="60" pageNumber="61">14.7</td>
+<td id="76845D97FFF10028FDD9FD87FD35FD9A" box="[592,643,579,606]" gridcol="3" gridrow="4" pageId="60" pageNumber="61">13.6</td>
+<td id="76845D97FFF10028FD20FD87FD6AFD9A" box="[681,732,579,606]" gridcol="4" gridrow="4" pageId="60" pageNumber="61">15.0</td>
+<td id="76845D97FFF10028FC8AFD87FC80FD9A" box="[771,822,579,606]" gridcol="5" gridrow="4" pageId="60" pageNumber="61">12.7</td>
+<td id="76845D97FFF10028FCD3FD87FC00FD9A" box="[858,950,579,606]" gridcol="6" gridrow="4" pageId="60" pageNumber="61">0.40</td>
+<td id="76845D97FFF10028FC51FD87FB86FD9A" box="[984,1072,579,606]" gridcol="7" gridrow="4" pageId="60" pageNumber="61">1.08</td>
+<td id="76845D97FFF10028FBD8FD87FB1EFD9A" box="[1105,1192,579,606]" gridcol="8" gridrow="4" pageId="60" pageNumber="61">0.41</td>
+<td id="76845D97FFF10028FB4FFD87FABAFD9A" box="[1222,1292,579,606]" gridcol="9" gridrow="4" pageId="60" pageNumber="61">2.34</td>
+<td id="76845D97FFF10028FAA7FD87FAD4FD9A" box="[1326,1378,579,606]" gridcol="10" gridrow="4" pageId="60" pageNumber="61">0.07</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="8BDA36A9FFF1FFEBFF34FCB4FDFCFB99" blockId="60.[189,1399,880,1117]" pageId="60" pageNumber="61">
+Specimen MB.C.29934 is a smaller individual with 
+<quantity id="4C9D9B4CFFF1FFEBFC96FCB4FCC4FC4F" box="[799,882,880,907]" metricMagnitude="-2" metricUnit="m" metricValue="4.8" pageId="60" pageNumber="61" unit="mm" value="48.0">48 mm</quantity>
+conch diameter and is better preserved than the preceding one with half a volution of the body chamber preserved (
+<figureCitation id="135E2A2CFFF1FFEBFB91FC57FB31FC6A" box="[1048,1159,915,942]" captionStart="Fig" captionStartId="59.[189,232,1856,1882]" captionTargetBox="[191,1398,936,1807]" captionTargetId="figure-231@59.[189,1398,922,1826]" captionTargetPageId="59" captionText="Fig. 40. Paratirolites serus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29936, section E, float. B. Lateral and dorsal view, specimen MB.C.29934, section C, -0.60 m. C. Lateral and dorsal view, specimen MB.C.29937, section F, -0.75 m. D. Suture line, specimen MB.C.29934, at 16.0 mm ww, 10.3 mm wh. E. Whorl profile proportions. Abbreviations: see Material and methods. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604819" httpUri="https://zenodo.org/record/5604819/files/figure.png" pageId="60" pageNumber="61">Fig. 40B</figureCitation>
+). It shows a weakly trapezoidal, weakly depressed body chamber whorl profile (ww/wh=1.05) with rounded ventrolateral shoulder and a broadly rounded venter, while the phragmocone has a more depressed whorl profile (ww/ wh= 1.40). The sculpture in the subadult stage has twelve coarse ventrolateral nodes, which become weaker and radially elongated on the body chamber, where they finally disappear and instead shallow radial dorsolateral ribs take place.
+</paragraph>
+<paragraph id="8BDA36A9FFF1FFEBFF34FB41FCA1FACD" blockId="60.[189,1399,1157,1289]" pageId="60" pageNumber="61">
+The suture line of specimen MB.C.29934 has an external lobe with nearly parallel flanks and unserrated, narrow lanceolate prongs. The ventrolateral saddle is weakly asymmetric and the adventive lobe is strongly asymmetric with a steep ventral flank, four little notches and an oblique dorsal side. The lateral lobe possesses only three small notches (
+<figureCitation id="135E2A2CFFF1FFEBFD14FB2AFCBDFACD" box="[669,779,1262,1289]" captionStart="Fig" captionStartId="59.[189,232,1856,1882]" captionTargetBox="[191,1398,936,1807]" captionTargetId="figure-231@59.[189,1398,922,1826]" captionTargetPageId="59" captionText="Fig. 40. Paratirolites serus Korn &amp; Ghaderi, 2016. A. Lateral and dorsal view, specimen MB.C.29936, section E, float. B. Lateral and dorsal view, specimen MB.C.29934, section C, -0.60 m. C. Lateral and dorsal view, specimen MB.C.29937, section F, -0.75 m. D. Suture line, specimen MB.C.29934, at 16.0 mm ww, 10.3 mm wh. E. Whorl profile proportions. Abbreviations: see Material and methods. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604819" httpUri="https://zenodo.org/record/5604819/files/figure.png" pageId="60" pageNumber="61">Fig. 40D</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF1FFEBFF34FAF4FCD2F9AE" pageId="60" pageNumber="61" type="discussion">
+<paragraph id="8BDA36A9FFF1FFEBFF34FAF4FE99FA8E" blockId="60.[189,303,1328,1354]" box="[189,303,1328,1354]" pageId="60" pageNumber="61">
+<heading id="D09281C5FFF1FFEBFF34FAF4FE99FA8E" bold="true" box="[189,303,1328,1354]" fontSize="11" level="3" pageId="60" pageNumber="61" reason="3">
+<emphasis id="B911EABBFFF1FFEBFF34FAF4FE99FA8E" bold="true" box="[189,303,1328,1354]" pageId="60" pageNumber="61">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF1FFEBFF34FA9AFDB6FA7B" blockId="60.[189,1398,1374,1471]" pageId="60" pageNumber="61">
+<taxonomicName id="4C654D2AFFF1FFEBFF34FA9AFE2BFABC" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,413,1374,1400]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF1FFEBFF34FA9AFE2BFABC" box="[189,413,1374,1400]" italics="true" pageId="60" pageNumber="61">Paratirolites serus</emphasis>
+</taxonomicName>
+is the stratigraphically youngest species of the genus in the Baghuk Mountain sections. It differs from the other by its small conch size and the simple suture line with unsubdivided prongs of the external lobe.
+</paragraph>
+<paragraph id="8BDA36A9FFF1FFEBFF34FA22FCD2F9AE" blockId="60.[189,1399,1510,1642]" pageId="60" pageNumber="61">
+Subadult specimens of 
+<taxonomicName id="4C654D2AFFF1FFEBFE57FA23FD88F9C4" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[478,574,1511,1536]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF1FFEBFE57FA23FD88F9C4" box="[478,574,1511,1536]" italics="true" pageId="60" pageNumber="61">P. serus</emphasis>
+</taxonomicName>
+resemble some stratigraphically older species such as 
+<taxonomicName id="4C654D2AFFF1FFEBFB61FA23FAF6F9C4" box="[1256,1344,1510,1536]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="kittli">
+<emphasis id="B911EABBFFF1FFEBFB61FA23FAF6F9C4" box="[1256,1344,1510,1536]" italics="true" pageId="60" pageNumber="61">P. kittli</emphasis>
+</taxonomicName>
+and particularly 
+<taxonomicName id="4C654D2AFFF1FFEBFEC7F9CEFE6EF9E7" authorityName="Shevyrev" authorityYear="1965" box="[334,472,1545,1571]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="vediensis">
+<emphasis id="B911EABBFFF1FFEBFEC7F9CEFE6EF9E7" box="[334,472,1545,1571]" italics="true" pageId="60" pageNumber="61">P. vediensis</emphasis>
+</taxonomicName>
+. 
+<taxonomicName id="4C654D2AFFF1FFEBFE60F9CDFD73F9E7" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[489,709,1545,1571]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="serus">
+<emphasis id="B911EABBFFF1FFEBFE60F9CDFD73F9E7" box="[489,709,1545,1571]" italics="true" pageId="60" pageNumber="61">Paratirolites serus</emphasis>
+</taxonomicName>
+differs from these in the smaller conch diameter (
+<quantity id="4C9D9B4CFFF1FFEBFAA8F9CEFAC1F9E0" box="[1313,1399,1546,1572]" metricMagnitude="-2" metricUnit="m" metricValue="4.0" pageId="60" pageNumber="61" unit="mm" value="40.0">40 mm</quantity>
+maximum phragmocone diameter in contrast to 
+<quantity id="4C9D9B4CFFF1FFEBFD77F9E9FCC9F983" box="[766,895,1581,1607]" metricMagnitude="-2" metricUnit="m" metricValue="7.5" metricValueMax="8.0" metricValueMin="7.0" pageId="60" pageNumber="61" unit="mm" value="75.0" valueMax="80.0" valueMin="70.0">70–80 mm</quantity>
+in 
+<taxonomicName id="4C654D2AFFF1FFEBFC21F9E9FC4BF983" box="[936,1021,1581,1607]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="kittli">
+<emphasis id="B911EABBFFF1FFEBFC21F9E9FC4BF983" box="[936,1021,1581,1607]" italics="true" pageId="60" pageNumber="61">P. kittli</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="4C654D2AFFF1FFEBFBB0F9E9FB74F983" authorityName="Shevyrev" authorityYear="1965" box="[1081,1218,1581,1607]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="vediensis">
+<emphasis id="B911EABBFFF1FFEBFBB0F9E9FB74F983" box="[1081,1218,1581,1607]" italics="true" pageId="60" pageNumber="61">P. vediensis</emphasis>
+</taxonomicName>
+) and a simpler suture line with unsubdivided prongs of the external lobe.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFF1FFEBFF34F955FEBDF93A" pageId="60" pageNumber="61" type="description">
+<paragraph id="8BDA36A9FFF1FFEBFF34F955FE02F96F" blockId="60.[189,436,1681,1707]" box="[189,436,1681,1707]" pageId="60" pageNumber="61">
+<heading id="D09281C5FFF1FFEBFF34F955FE02F96F" bold="true" box="[189,436,1681,1707]" fontSize="11" level="3" pageId="60" pageNumber="61" reason="3">
+<emphasis id="B911EABBFFF1FFEBFF34F955FE02F96F" bold="true" box="[189,436,1681,1707]" pageId="60" pageNumber="61">Stratigraphic range</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFF1FFEBFF34F904FEBDF93A" blockId="60.[189,1398,1728,1790]" pageId="60" pageNumber="61">
+Upper part of the Hambast Formation; 0.75 to 
+<quantity id="4C9D9B4CFFF1FFEBFD51F904FC9EF91E" box="[728,808,1728,1754]" metricMagnitude="-1" metricUnit="m" metricValue="6.0" pageId="60" pageNumber="61" unit="m" value="0.6">0.60 m</quantity>
+below the extinction horizon (
+<taxonomicName id="4C654D2AFFF1FFEBFB05F904FF48F93A" authority="Zone" authorityName="Zone" class="Cephalopoda" family="Dzhulfitidae" genus="Abichites" kingdom="Animalia" order="Ammonoidea" pageId="60" pageNumber="61" phylum="Mollusca" rank="species" species="stoyanowi">
+<emphasis id="B911EABBFFF1FFEBFB05F904FAC0F91E" box="[1164,1398,1728,1754]" italics="true" pageId="60" pageNumber="61">Abichites stoyanowi</emphasis>
+Zone
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

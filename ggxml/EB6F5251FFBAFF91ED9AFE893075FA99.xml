@@ -1,0 +1,394 @@
+<document id="19472B97CCCA2482E81104318A65E58B" ID-DOI="http://doi.org/10.5281/zenodo.5093687" ID-GBIF-Dataset="604af154-8d8e-4fa4-8492-44181607a659" ID-ISSN="2118-9773" ID-Zenodo-Dep="5093687" ID-ZooBank="7CA6D8AC-2312-47F9-8C17-528B94E4C8A7" _generate="added" checkinTime="1625861168867" checkinUser="felipe" docAuthor="Gil, Marta &amp; Ramil, Fran" docDate="2021" docId="EB6F5251FFBAFF91ED9AFE893075FA99" docLanguage="en" docName="ejt-758_49-96.pdf" docOrigin="European Journal of Taxonomy 758" docSource="http://dx.doi.org/10.5852/ejt.2021.758.1425" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Zygophylax undetermined" docType="treatment" docVersion="5" lastPageId="10" lastPageNumber="59" masterDocId="17562A29FFB2FF9BEF24FFE6336CFFF9" masterDocTitle="Hydroids (Cnidaria, Hydrozoa) from the Vema and Valdivia seamounts (SE Atlantic)" masterLastPageNumber="96" masterPageNumber="49" pageId="8" pageNumber="57" updateTime="1634698810554" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="1BF8F7459B943100519817D5B1161110" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="60226E51ADD181439E3BBA3EC786DC82">
+<mods:title id="3AE886116C9B1E0464CDB5199BA07947">Hydroids (Cnidaria, Hydrozoa) from the Vema and Valdivia seamounts (SE Atlantic)</mods:title>
+</mods:titleInfo>
+<mods:name id="B78CA30E9EE23BCE17E62B48030FD109" type="personal">
+<mods:role id="18A430AEE39192FA71D08F62391D3981">
+<mods:roleTerm id="B2D76A2EAE4F124E7134D4B2658F3990">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F41D2E10B32BC920D1EA8CC939896052">Gil, Marta</mods:namePart>
+<mods:nameIdentifier id="04B3D5421BC4C3C7CD8A8CD04104B854" type="LSID">FFF187EB-84CE-4A54-9A01-4E4326B5CD26</mods:nameIdentifier>
+<mods:affiliation id="EA32F46D626FF62BDE4CCD01075388CC">Vigo - Centro de Investigación Mariña, Facultade de Ciencias do Mar, Universidade de Vigo, Spain. &amp; Instituto Español de Oceanografía, Centro Oceanográfico de Vigo, Spain.</mods:affiliation>
+<mods:nameIdentifier id="4D8A937948F080A38B4DFA13BA96F436" type="email">martag@uvigo.es</mods:nameIdentifier>
+</mods:name>
+<mods:name id="9C4DF79B1F0361C69D8F31738D2B6B43" type="personal">
+<mods:role id="C802F7423C4E506B8A4101131E3DED90">
+<mods:roleTerm id="0804617A9877BA3AD2940446E98A89EE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A6E403134522EBECE895BE8E1DA8B8EE">Ramil, Fran</mods:namePart>
+<mods:nameIdentifier id="64ADF377C120156C91C564253B6EE926" type="LSID">67BAF0B6-E4D5-4A2D-8C03-D2D40D522196</mods:nameIdentifier>
+<mods:affiliation id="D45576A417926F1B58A9053F39B401C9">Vigo - Centro de Investigación Mariña, Facultade de Ciencias do Mar, Universidade de Vigo, Spain.</mods:affiliation>
+<mods:nameIdentifier id="8BBA85C745DBCF1DA914F72D2E5360E4" type="email">framil@uvigo.es</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="34D82E886B6AEFB6D8296C6A8C9DA369">text</mods:typeOfResource>
+<mods:relatedItem id="895E10060ED94EE0EF7B55644A050E23" type="host">
+<mods:titleInfo id="BBBD5ED7F8D5CCC054259619DC2A5E23">
+<mods:title id="0507C7C21A714EEB037530B9740DC399">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="785A87B4649C5BADA60C2D8D859EE478">
+<mods:date id="93DCDA2A8E9F3B9FA37302F707641474">2021</mods:date>
+<mods:detail id="EDF6AD236C433E89B8988BF5AA82A464" type="pubDate">
+<mods:number id="D669B531C2D2CC87FE17BC627F226998">2021-07-07</mods:number>
+</mods:detail>
+<mods:detail id="4195583A603C7DCC69976D6674A75CCF" type="volume">
+<mods:number id="B0FBCC7FA72CD1764F4EF64398F61528">758</mods:number>
+</mods:detail>
+<mods:extent id="ACDF7B8ED17439096D7ECC8A2F3B0899" unit="page">
+<mods:start id="CFBFCE1CD048EFA50BC9891D14F6DE5B">49</mods:start>
+<mods:end id="36E3E9CFE9AB9329C46FF09636D1442D">96</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="71B8E0B8007ECB6E1FCB60E38E0D8F7A">
+<mods:url id="E3B17644E07E1A7DA6A0372DB5C342F7">http://dx.doi.org/10.5852/ejt.2021.758.1425</mods:url>
+</mods:location>
+<mods:classification id="863A9CC9FB03BE0037133DB79383C308">journal article</mods:classification>
+<mods:identifier id="D31FDC528029D865E85A31CE51D43457" type="DOI">https://doi.org/10.5852/ejt.2021.758.1425</mods:identifier>
+<mods:identifier id="1FB17F38046B31E664346C2C42527BA1" type="GBIF-Dataset">604af154-8d8e-4fa4-8492-44181607a659</mods:identifier>
+<mods:identifier id="35121D4CADC5D694B1CF361C5FD19DDA" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="19DA2003425B33105D0DE1C103CCA907" type="Zenodo-Dep">5088125</mods:identifier>
+<mods:identifier id="EBFEA0DE66BEB1B477E74D1BC22C5F6B" type="ZooBank">7CA6D8AC-2312-47F9-8C17-528B94E4C8A7</mods:identifier>
+</mods:mods>
+<treatment id="EB6F5251FFBAFF91ED9AFE893075FA99" ID-DOI="http://doi.org/10.5281/zenodo.5093687" ID-Zenodo-Dep="5093687" LSID="urn:lsid:plazi:treatment:EB6F5251FFBAFF91ED9AFE893075FA99" httpUri="http://treatment.plazi.org/id/EB6F5251FFBAFF91ED9AFE893075FA99" lastPageId="10" lastPageNumber="59" pageId="8" pageNumber="57">
+<subSubSection id="2BDCB0CCFFBAFF93ED9AFE893019FE73" box="[702,885,367,394]" pageId="8" pageNumber="57" type="nomenclature">
+<paragraph id="6379E347FFBAFF93ED9AFE893019FE73" blockId="8.[681,907,367,430]" box="[702,885,367,394]" pageId="8" pageNumber="57">
+<heading id="3831542BFFBAFF93ED9AFE893019FE73" box="[702,885,367,394]" centered="true" fontSize="11" level="2" pageId="8" pageNumber="57" reason="2">
+<taxonomicName id="A4C698C4FFBAFF93ED9AFE893019FE73" authority="GIL &amp;  RAMIL" box="[702,885,367,394]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="undetermined">
+<emphasis id="51B23F55FFBAFF93ED9AFE893020FE73" bold="true" box="[702,844,367,394]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+sp.
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFBAFF93ED8DFE7230E7FE57" box="[681,907,404,430]" pageId="8" pageNumber="57" type="description">
+<paragraph id="6379E347FFBAFF93ED8DFE7230E7FE57" blockId="8.[681,907,367,430]" box="[681,907,404,430]" pageId="8" pageNumber="57">
+<figureCitation id="FBFDFFC2FFBAFF93ED8DFE723044FE57" box="[681,808,404,430]" captionStart="Fig" captionStartId="9.[189,232,1890,1916]" captionTargetBox="[235,1333,268,1845]" captionTargetId="figure-78@9.[227,1361,254,1858]" captionTargetPageId="9" captionText="Fig. 3. A–C. Zygophylax sp. A. Colony. B. Distal part of colony with hydrocladia. C. Part of hydrocladia with two hydrothecae. — D–E. Stegopoma giganteum Ramil &amp; Vervoort, 1992. D. Hydrotheca on pedicel. E. Gonotheca. — F. Campanulina denticulata Clarke, 1907, part of colony ramified with hydrothecae. — G–H. Campanularia africana Stechow, 1923, detail of hydrotheca, lateral view." figureDoi="http://doi.org/10.5281/zenodo.5088135" httpUri="https://zenodo.org/record/5088135/files/figure.png" pageId="8" pageNumber="57">Fig. 3A–C</figureCitation>
+; 
+<tableCitation id="2E44D6FCFFBAFF93EC10FE7230E7FE57" box="[820,907,404,430]" captionStart="Table 2" captionStartId="10.[189,258,265,291]" captionTargetPageId="10" captionText="Table 2. Measurements of Zygophylax sp., in µm." httpUri="http://table.plazi.org/id/37B9B3CFFFB8FF91EF99FEEF306AFEDA" pageId="8" pageNumber="57" tableUuid="37B9B3CFFFB8FF91EF99FEEF306AFEDA">Table 2</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFBAFF93EF99FE31372AFE08" box="[189,1094,470,497]" pageId="8" pageNumber="57" type="reference_group">
+<paragraph id="6379E347FFBAFF93EF99FE31372AFE08" blockId="8.[189,1094,470,497]" box="[189,1094,470,497]" pageId="8" pageNumber="57">
+<treatmentCitationGroup id="43D6C469FFBAFF93EF99FE31372AFE08" box="[189,1094,470,497]" pageId="8" pageNumber="57">
+<taxonomicName id="A4C698C4FFBAFF93EF99FE31322AFE08" authorityName="Quelch" authorityYear="1885" box="[189,326,471,497]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="genus">
+<emphasis id="51B23F55FFBAFF93EF99FE31322AFE08" box="[189,326,471,497]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+</taxonomicName>
+? 
+<taxonomicName id="A4C698C4FFBAFF93EE46FE3132A2FE08" authorityName="Billard" authorityYear="1905" box="[354,462,471,497]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFBAFF93EE46FE3132A2FE08" box="[354,462,471,497]" italics="true" pageId="8" pageNumber="57">biarmata</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="E267C556FFBAFF93EECEFE313192FE08" author="Millard N. A. H." box="[490,766,470,497]" page="176" pageId="8" pageNumber="57" year="1958">
+<bibRefCitation id="07579EB6FFBAFF93EECEFE313192FE08" author="Millard N. A. H." box="[490,766,470,497]" pageId="8" pageNumber="57" pagination="165 - 226" refId="ref23599" refString="Millard N. A. H. 1958. Hydrozoa from the coasts of Natal and Portuguese East Africa. Part I. Calyptoblastea. Annals of the South African Museum 44 (5): 165 - 226." type="journal article" year="1958">Millard 1958: 176–177</bibRefCitation>
+</treatmentCitation>
+, fig. 4a; 1975: 193, fig. 63c.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFBAFF93EF99FDFF327EFD0C" pageId="8" pageNumber="57" type="materials_examined">
+<paragraph id="6379E347FFBAFF93EF99FDFF32C6FDCA" blockId="8.[189,426,537,563]" box="[189,426,537,563]" pageId="8" pageNumber="57">
+<heading id="3831542BFFBAFF93EF99FDFF32C6FDCA" bold="true" box="[189,426,537,563]" fontSize="11" level="3" pageId="8" pageNumber="57" reason="3">
+<emphasis id="51B23F55FFBAFF93EF99FDFF32C6FDCA" bold="true" box="[189,426,537,563]" pageId="8" pageNumber="57">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99FDAF327EFD0C" blockId="8.[186,1399,585,757]" pageId="8" pageNumber="57">
+<materialsCitation id="D3AEE91AFFBAFF93EF99FDAF3263FD0C" collectingDate="2015-02-07" collectingMethod="growing on ghost fishing net" collectionCode="R" elevation="886" latitude="-24.793888" location="SOUTH ATLANTIC OCEAN" longLatPrecision="21" longitude="6.4238887" pageId="8" pageNumber="57" specimenCode="SEAFO-2015-40192, SEAFO-2015-40282, SEAFO-2015-40432, SEAFO-2015-40492, SEAFO-2015-40767, SEAFO-2015-40811, SEAFO-2015-40827" specimenCount="29">
+<location id="6619B59CFFBAFF93EF99FDAF314DFD9A" LSID="urn:lsid:plazi:treatment:EB6F5251FFBAFF91ED9AFE893075FA99:6619B59CFFBAFF93EF99FDAF314DFD9A" box="[189,545,585,611]" latitude="-24.793888" longLatPrecision="21" longitude="6.4238887" name="SOUTH ATLANTIC OCEAN" pageId="8" pageNumber="57">SOUTH ATLANTIC OCEAN</location>
+• 
+<specimenCount id="75C028CEFFBAFF93ED1FFDAF31A9FD9A" box="[571,709,585,611]" pageId="8" pageNumber="57">29 colonies</specimenCount>
+, 
+<quantity id="A43E4EA2FFBAFF93EDF4FDAF303CFD9A" box="[720,848,585,611]" metricMagnitude="-2" metricUnit="m" metricValue="3.85" metricValueMax="6.1" metricValueMin="1.6" pageId="8" pageNumber="57" unit="mm" value="38.5" valueMax="61.0" valueMin="16.0">16–61 mm</quantity>
+high (1 
+<collectingMethod id="BA879B50FFBAFF93EC97FDAF3664FD9A" box="[947,1288,585,611]" pageId="8" pageNumber="57">growing on ghost fishing net</collectingMethod>
+), without coppiniae; Valdivia Seamount, stn BT12; 24°49′01″–24°47′38″ S, 6°24′40″–6°25′26″ E; 887– 
+<elevation id="E8EB0474FFBAFF93EA0DFD8B326EFD52" metricMagnitude="2" metricUnit="m" metricValue="8.86" pageId="8" pageNumber="57" unit="m" value="886.0">
+<quantity id="A43E4EA2FFBAFF93EA0DFD8B361BFD71" box="[1321,1399,621,648]" metricMagnitude="2" metricUnit="m" metricValue="8.86" pageId="8" pageNumber="57" unit="m" value="886.0">886 m</quantity>
+depth
+</elevation>
+; 
+<date id="1778C587FFBAFF93EE2FFD7432F8FD55" box="[267,404,657,684]" pageId="8" pageNumber="57" value="2015-02-07">
+<collectingDate id="073C3C6FFFBAFF93EE2FFD7432F8FD55" box="[267,404,657,684]" pageId="8" pageNumber="57" value="2015-02-07">7 Feb. 2015</collectingDate>
+</date>
+;SEAFO-2015 leg.; 
+<specimenCode id="33604B3CFFBAFF93ED53FD773003FD55" box="[631,879,657,684]" pageId="8" pageNumber="57">SEAFO-2015-40192</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93EC53FD773703FD55" box="[887,1135,657,684]" pageId="8" pageNumber="57">SEAFO-2015-40282</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93EB5CFD773603FD55" box="[1144,1391,657,684]" pageId="8" pageNumber="57">SEAFO-2015-40432</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93EF9EFD5032DEFD28" box="[186,434,694,721]" pageId="8" pageNumber="57">SEAFO-2015-40492</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93EE99FD5031D8FD28" box="[445,692,694,721]" pageId="8" pageNumber="57">SEAFO-2015-40767</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93ED9BFD5030DAFD28" box="[703,950,694,721]" pageId="8" pageNumber="57">SEAFO-2015-40811</specimenCode>
+, 
+<specimenCode id="33604B3CFFBAFF93ECE5FD5037D4FD28" box="[961,1208,694,721]" pageId="8" pageNumber="57">SEAFO-2015-40827</specimenCode>
+, LZM-UV slide R. 580
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFBAFF93EF99FCFA3207FA0A" pageId="8" pageNumber="57" type="description">
+<paragraph id="6379E347FFBAFF93EF99FCFA3222FCCF" blockId="8.[189,334,796,822]" box="[189,334,796,822]" pageId="8" pageNumber="57">
+<heading id="3831542BFFBAFF93EF99FCFA3222FCCF" bold="true" box="[189,334,796,822]" fontSize="11" level="3" pageId="8" pageNumber="57" reason="3">
+<emphasis id="51B23F55FFBAFF93EF99FCFA3222FCCF" bold="true" box="[189,334,796,822]" pageId="8" pageNumber="57">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99FCAA361DFBB9" blockId="8.[188,1401,844,1089]" pageId="8" pageNumber="57">
+Colonies branched, stems erect, with a main primary tube surrounded by many secondary tubes, grading to monosiphonic distally. Lateral hydrocladia, originating from the primary tube, monosiphonic, forming an angle of 45° in all directions around the stem, always with an axillary hydrotheca. Some branches are occasionally branched once (secondary hydrocladia). The existence of internodes in both the stem and branches was not observed. Main stem and branches with the same structure and provided with alternately disposed hydrothecal apophyses, slightly directed to the ‘frontal’ side of the colony (
+<figureCitation id="FBFDFFC2FFBAFF93EFE2FBC0324EFBB9" box="[198,290,1062,1088]" captionStart="Fig" captionStartId="9.[189,232,1890,1916]" captionTargetBox="[235,1333,268,1845]" captionTargetId="figure-78@9.[227,1361,254,1858]" captionTargetPageId="9" captionText="Fig. 3. A–C. Zygophylax sp. A. Colony. B. Distal part of colony with hydrocladia. C. Part of hydrocladia with two hydrothecae. — D–E. Stegopoma giganteum Ramil &amp; Vervoort, 1992. D. Hydrotheca on pedicel. E. Gonotheca. — F. Campanulina denticulata Clarke, 1907, part of colony ramified with hydrothecae. — G–H. Campanularia africana Stechow, 1923, detail of hydrotheca, lateral view." figureDoi="http://doi.org/10.5281/zenodo.5088135" httpUri="https://zenodo.org/record/5088135/files/figure.png" pageId="8" pageNumber="57">Fig. 3B</figureCitation>
+). Some isolated apophyses and hydrothecae were also observed arising from secondary tubes.
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99FB8F3052FAA4" blockId="8.[186,1400,1129,1373]" pageId="8" pageNumber="57">
+Hydrothecae slightly shifted frontally, long, tubular, with the adcauline wall convex and the abcauline wall almost straight; basal part tapering below into a short pedicel, separated from hydrotheca by a slightly oblique, thin diaphragm; rim smooth, circular and slightly everted; renovations of the hydrothecal rim common and usually multiple; diaphragm occasionally renovated as well. Nematothecae inserting on small apophyses, usually one on each side of hydrotheca, but when lost, only a circular depression, corresponding to their origin, could be observed; tubular, with short, spherical pedicel; rim smooth, circular, slightly everted; renovations absent (
+<figureCitation id="FBFDFFC2FFBAFF93EDF0FAA4305DFAA4" box="[724,817,1346,1373]" captionStart="Fig" captionStartId="9.[189,232,1890,1916]" captionTargetBox="[235,1333,268,1845]" captionTargetId="figure-78@9.[227,1361,254,1858]" captionTargetPageId="9" captionText="Fig. 3. A–C. Zygophylax sp. A. Colony. B. Distal part of colony with hydrocladia. C. Part of hydrocladia with two hydrothecae. — D–E. Stegopoma giganteum Ramil &amp; Vervoort, 1992. D. Hydrotheca on pedicel. E. Gonotheca. — F. Campanulina denticulata Clarke, 1907, part of colony ramified with hydrothecae. — G–H. Campanularia africana Stechow, 1923, detail of hydrotheca, lateral view." figureDoi="http://doi.org/10.5281/zenodo.5088135" httpUri="https://zenodo.org/record/5088135/files/figure.png" pageId="8" pageNumber="57">Fig. 3C</figureCitation>
+).
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99FA633227FA66" blockId="8.[189,331,1413,1439]" box="[189,331,1413,1439]" pageId="8" pageNumber="57">
+<heading id="3831542BFFBAFF93EF99FA633227FA66" bold="true" box="[189,331,1413,1439]" fontSize="11" level="3" pageId="8" pageNumber="57" reason="3">
+<emphasis id="51B23F55FFBAFF93EF99FA633227FA66" bold="true" box="[189,331,1413,1439]" pageId="8" pageNumber="57">Variabillity</emphasis>
+</heading>
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99FA533207FA0A" blockId="8.[189,1398,1461,1523]" pageId="8" pageNumber="57">In one colony we found one hydrocladium that was polysiphonic at its basal part and distally monosiphonic.</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFBAFF91EF99F9FA373CFB35" lastPageId="10" lastPageNumber="59" pageId="8" pageNumber="57" type="discussion">
+<paragraph id="6379E347FFBAFF93EF99F9FA3243F9CF" blockId="8.[189,303,1564,1590]" box="[189,303,1564,1590]" pageId="8" pageNumber="57">
+<heading id="3831542BFFBAFF93EF99F9FA3243F9CF" bold="true" box="[189,303,1564,1590]" fontSize="11" level="3" pageId="8" pageNumber="57" reason="3">
+<emphasis id="51B23F55FFBAFF93EF99F9FA3243F9CF" bold="true" box="[189,303,1564,1590]" pageId="8" pageNumber="57">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99F9AD361BF957" blockId="8.[189,1399,1611,1710]" pageId="8" pageNumber="57">
+Our material clearly resembles 
+<taxonomicName id="A4C698C4FFBAFF93ED0BF9AD30BDF99F" authority="Billard, 1905" authorityName="Billard" authorityYear="1905" box="[559,977,1611,1638]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFBAFF93ED0BF9AD3040F99C" box="[559,812,1611,1637]" italics="true" pageId="8" pageNumber="57">Zygophylax biarmata</emphasis>
+Billard, 1905
+</taxonomicName>
+, but the hydrothecae are larger and, in addition, the arrangement of branches in all directions around the stem makes it easy to differentiate between species, as 
+<taxonomicName id="A4C698C4FFBAFF93EE83F972315EF957" authorityName="Billard" authorityYear="1905" box="[423,562,1684,1710]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFBAFF93EE83F972315EF957" box="[423,562,1684,1710]" italics="true" pageId="8" pageNumber="57">Z. biarmata</emphasis>
+</taxonomicName>
+presents branches that are arranged in the same plane as the main stem.
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99F9303700F8A7" blockId="8.[188,1399,1750,1886]" pageId="8" pageNumber="57">
+Among all species of 
+<taxonomicName id="A4C698C4FFBAFF93EE9CF930312DF909" authorityName="Quelch" authorityYear="1885" box="[440,577,1750,1776]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="genus">
+<emphasis id="51B23F55FFBAFF93EE9CF930312DF909" box="[440,577,1750,1776]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+</taxonomicName>
+reported from West Africa, only one, 
+<taxonomicName id="A4C698C4FFBAFF93ECDCF931361DF909" authority="Vervoort, 2006" authorityName="Vervoort" authorityYear="2006" box="[1016,1393,1750,1777]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="parabiarmata">
+<emphasis id="51B23F55FFBAFF93ECDCF93137D5F909" box="[1016,1209,1750,1776]" italics="true" pageId="8" pageNumber="57">Z. parabiarmata</emphasis>
+<bibRefCitation id="07579EB6FFBAFF93EB9BF931361DF909" author="Vervoort W." box="[1215,1393,1750,1777]" pageId="8" pageNumber="57" pagination="181 - 318" refId="ref26183" refString="Vervoort W. 2006. Leptolida (Cnidaria: Hydrozoa) collected during the CANCAP and Mauritania- II expeditions of the National Museum of Natural History, Leiden, The Netherlands [Anthoathecata, various families of Leptothecata and addenda]. Zoologische Mededelingen, Leiden 80 (1): 181 - 318." type="journal article" year="2006">Vervoort, 2006</bibRefCitation>
+</taxonomicName>
+, shows the lateral branches arranged in several planes, but in this case hydrothecae are arranged in different planes as well, whereas in 
+<taxonomicName id="A4C698C4FFBAFF93ED7EF8F93067F8C0" box="[602,779,1823,1849]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="undetermined">
+<emphasis id="51B23F55FFBAFF93ED7EF8F9318FF8C0" box="[602,739,1823,1849]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+sp.
+</taxonomicName>
+hydrothecae are almost in the same plane. Moreover, in 
+<taxonomicName id="A4C698C4FFBAFF93EFFFF8A532E1F8A7" box="[219,397,1859,1886]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="undetermined">
+<emphasis id="51B23F55FFBAFF93EFFFF8A53208F8A4" box="[219,356,1859,1885]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+sp.
+</taxonomicName>
+hydrothecae are longer and narrower than in 
+<taxonomicName id="A4C698C4FFBAFF93EC87F8A23709F8A4" authorityName="Vervoort" authorityYear="2006" box="[931,1125,1859,1885]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="parabiarmata">
+<emphasis id="51B23F55FFBAFF93EC87F8A23709F8A4" box="[931,1125,1859,1885]" italics="true" pageId="8" pageNumber="57">Z. parabiarmata</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="6379E347FFBAFF93EF99F860361BF811" blockId="8.[189,1399,1925,2025]" pageId="8" pageNumber="57">
+Nevertheless, the material studied here agrees with that described by 
+<bibRefCitation id="07579EB6FFBAFF93ECF3F8603717F859" author="Millard N. A. H." box="[983,1147,1925,1952]" pageId="8" pageNumber="57" pagination="165 - 226" refId="ref23599" refString="Millard N. A. H. 1958. Hydrozoa from the coasts of Natal and Portuguese East Africa. Part I. Calyptoblastea. Annals of the South African Museum 44 (5): 165 - 226." type="journal article" year="1958">Millard (1958</bibRefCitation>
+, 1975) as 
+<taxonomicName id="A4C698C4FFBAFF93EBC8F8603619F859" authorityName="Quelch" authorityYear="1885" box="[1260,1397,1926,1952]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="genus">
+<emphasis id="51B23F55FFBAFF93EBC8F8603619F859" box="[1260,1397,1926,1952]" italics="true" pageId="8" pageNumber="57">Zygophylax</emphasis>
+</taxonomicName>
+? 
+<taxonomicName id="A4C698C4FFBAFF93EFF7F84C3253F83D" authorityName="Billard" authorityYear="1905" box="[211,319,1962,1988]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFBAFF93EFF7F84C3253F83D" box="[211,319,1962,1988]" italics="true" pageId="8" pageNumber="57">biarmata</emphasis>
+</taxonomicName>
+(not 
+<taxonomicName id="A4C698C4FFBAFF93EEA4F84D31DDF83C" authority="Billard, 1905" authorityName="Billard" authorityYear="1905" box="[384,689,1962,1989]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="8" pageNumber="57" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFBAFF93EEA4F84D3160F83D" box="[384,524,1962,1988]" italics="true" pageId="8" pageNumber="57">Z. biarmata</emphasis>
+Billard, 1905
+</taxonomicName>
+, see 
+<bibRefCitation id="07579EB6FFBAFF93EDC9F84C370EF83C" author="Ramil F. &amp; Vervoort W." box="[749,1122,1962,1989]" pageId="8" pageNumber="57" pagination="1 - 262" refId="ref24650" refString="Ramil F. &amp; Vervoort W. 1992. Report on the Hydroida collected by the &quot; BALGIM &quot; expedition in and around the Strait of Gibraltar. Zoologische Verhandelingen, Leiden 277: 1 - 262." type="journal article" year="1992">Ramil &amp; Vervoort 1992: 60–65</bibRefCitation>
+) in both measurements and the irregular disposition of the lateral branches around the stem, and the occasional presence of
+</paragraph>
+<caption id="37B9B3CFFFBBFF92EF99F8843640F81F" ID-DOI="http://doi.org/10.5281/zenodo.5088135" ID-Zenodo-Dep="5088135" httpUri="https://zenodo.org/record/5088135/files/figure.png" pageId="9" pageNumber="58" startId="9.[189,232,1890,1916]" targetBox="[235,1333,268,1845]" targetPageId="9">
+<paragraph id="6379E347FFBBFF92EF99F8843640F81F" blockId="9.[188,1398,1890,2022]" pageId="9" pageNumber="58">
+<emphasis id="51B23F55FFBBFF92EF99F884322BF885" bold="true" box="[189,327,1890,1916]" pageId="9" pageNumber="58">Fig. 3. A–C</emphasis>
+. 
+<taxonomicName id="A4C698C4FFBBFF92EE70F8843173F885" box="[340,543,1890,1917]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="9" pageNumber="58" phylum="Cnidaria" rank="species" species="undefined-A">
+<emphasis id="51B23F55FFBBFF92EE70F88432B1F885" box="[340,477,1890,1916]" italics="true" pageId="9" pageNumber="58">Zygophylax</emphasis>
+sp. 
+<emphasis id="51B23F55FFBBFF92ED2EF8843173F885" bold="true" box="[522,543,1890,1916]" pageId="9" pageNumber="58">A</emphasis>
+</taxonomicName>
+. Colony. 
+<emphasis id="51B23F55FFBBFF92EDA9F88431CDF885" bold="true" box="[653,673,1890,1916]" pageId="9" pageNumber="58">B</emphasis>
+. Distal part of colony with hydrocladia. 
+<emphasis id="51B23F55FFBBFF92EB50F88437E5F885" bold="true" box="[1140,1161,1890,1916]" pageId="9" pageNumber="58">C</emphasis>
+. Part of hydrocladia with two hydrothecae. — 
+<emphasis id="51B23F55FFBBFF92ED24F863315BF866" bold="true" box="[512,567,1925,1951]" pageId="9" pageNumber="58">D–E</emphasis>
+. 
+<taxonomicName id="A4C698C4FFBBFF92ED6EF86037E1F866" authority="Ramil &amp; Vervoort, 1992" authorityName="Ramil &amp; Vervoort" authorityYear="1992" box="[586,1165,1925,1952]" class="Hydrozoa" family="Tiarannidae" genus="Stegopoma" kingdom="Animalia" order="Leptothecata" pageId="9" pageNumber="58" phylum="Cnidaria" rank="species" species="giganteum">
+<emphasis id="51B23F55FFBBFF92ED6EF8603038F866" box="[586,852,1926,1952]" italics="true" pageId="9" pageNumber="58">Stegopoma giganteum</emphasis>
+<bibRefCitation id="07579EB6FFBBFF92EC44F86337E1F866" author="Ramil F. &amp; Vervoort W." box="[864,1165,1925,1952]" pageId="9" pageNumber="58" pagination="1 - 262" refId="ref24650" refString="Ramil F. &amp; Vervoort W. 1992. Report on the Hydroida collected by the &quot; BALGIM &quot; expedition in and around the Strait of Gibraltar. Zoologische Verhandelingen, Leiden 277: 1 - 262." type="journal article" year="1992">Ramil &amp; Vervoort, 1992</bibRefCitation>
+</taxonomicName>
+. 
+<emphasis id="51B23F55FFBBFF92EBB8F86337DDF866" bold="true" box="[1180,1201,1925,1951]" pageId="9" pageNumber="58">D</emphasis>
+. Hydrotheca on pedicel. 
+<emphasis id="51B23F55FFBBFF92EE01F84F3255F83A" bold="true" box="[293,313,1961,1987]" pageId="9" pageNumber="58">E</emphasis>
+. Gonotheca. — 
+<emphasis id="51B23F55FFBBFF92ED2CF84F3176F83A" bold="true" box="[520,538,1961,1987]" pageId="9" pageNumber="58">F</emphasis>
+. 
+<taxonomicName id="A4C698C4FFBBFF92ED0AF84E3765F83A" authority="Clarke, 1907" authorityName="Clarke" authorityYear="1907" box="[558,1033,1960,1987]" class="Hydrozoa" family="Campanulinidae" genus="Campanulina" kingdom="Animalia" order="Leptothecata" pageId="9" pageNumber="58" phylum="Cnidaria" rank="species" species="denticulata">
+<emphasis id="51B23F55FFBBFF92ED0AF84E3032F83B" box="[558,862,1960,1986]" italics="true" pageId="9" pageNumber="58">Campanulina denticulata</emphasis>
+<bibRefCitation id="07579EB6FFBBFF92EC4EF84E3765F83A" author="Clarke S. F." box="[874,1033,1960,1987]" pageId="9" pageNumber="58" pagination="1 - 18" refId="ref20807" refString="Clarke S. F. 1907. Reports on the scientific results of the expedition to the eastern tropical Pacific, in charge of Alexander Agassiz, by the U. S. Fish Commission steamer &quot; Albatros &quot;, from October 1904 to March 1905, Lieut. - Commander L. M. Garrett, U. S. N., commanding. VIII. The hydroids. Memoirs of the Museum of Comparative Zoology at Harvard College 35: 1 - 18." type="journal article" year="1907">Clarke, 1907</bibRefCitation>
+</taxonomicName>
+, part of colony ramified with hydrothecae. — 
+<emphasis id="51B23F55FFBBFF92EEA4F82D32D0F81C" bold="true" box="[384,444,1995,2021]" pageId="9" pageNumber="58">G–H</emphasis>
+. 
+<taxonomicName id="A4C698C4FFBBFF92EEEFF82A30FBF81F" authority="Stechow, 1923" authorityName="Stechow" authorityYear="1923" box="[459,919,1996,2022]" class="Hydrozoa" family="Campanulariidae" genus="Campanularia" kingdom="Animalia" order="Leptothecata" pageId="9" pageNumber="58" phylum="Cnidaria" rank="species" species="africana">
+<emphasis id="51B23F55FFBBFF92EEEFF82A318CF81F" box="[459,736,1996,2022]" italics="true" pageId="9" pageNumber="58">Campanularia africana</emphasis>
+<bibRefCitation id="07579EB6FFBBFF92EDCCF82A30FBF81F" author="Stechow E." box="[744,919,1996,2022]" pageId="9" pageNumber="58" pagination="223 - 236" refId="ref25794" refString="Stechow E. 1923. Uber Hydroiden der Deutschen Tiefsee-Expedition, nebst Bemerkungen uber einige andre Formen. Zoologischer Anzeiger 53 (9 - 10): 223 - 236." type="journal article" year="1923">Stechow, 1923</bibRefCitation>
+</taxonomicName>
+, detail of hydrotheca, lateral view.
+</paragraph>
+</caption>
+<caption id="37B9B3CFFFB8FF91EF99FEEF306AFEDA" ID-Table-UUID="37B9B3CFFFB8FF91EF99FEEF306AFEDA" box="[189,774,264,291]" httpUri="http://table.plazi.org/id/37B9B3CFFFB8FF91EF99FEEF306AFEDA" pageId="10" pageNumber="59" startId="10.[189,258,265,291]" targetBox="[189,1375,328,1052]" targetIsTable="true" targetPageId="10">
+<paragraph id="6379E347FFB8FF91EF99FEEF306AFEDA" blockId="10.[189,774,264,291]" box="[189,774,264,291]" pageId="10" pageNumber="59">
+<emphasis id="51B23F55FFB8FF91EF99FEEF3273FEDB" bold="true" box="[189,287,264,291]" pageId="10" pageNumber="59">Table 2.</emphasis>
+Measurements of 
+<taxonomicName id="A4C698C4FFB8FF91EEDDFEEE31C0FEDA" box="[505,684,264,291]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="10" pageNumber="59" phylum="Cnidaria" rank="species" species="undetermined">
+<emphasis id="51B23F55FFB8FF91EEDDFEEE31EEFEDB" box="[505,642,264,290]" italics="true" pageId="10" pageNumber="59">Zygophylax</emphasis>
+sp.
+</taxonomicName>
+, in µm.
+</paragraph>
+</caption>
+<paragraph id="6379E347FFB8FF91ECA8FEAE3668FBE5" pageId="10" pageNumber="59">
+<table id="11C611E7FFB80064EF99FEAE3633FBE5" box="[189,1375,328,1052]" gridcols="3" gridrows="17" pageId="10" pageNumber="59">
+<tr id="DDF6E105FFB80064EF99FEAE3633FE79" box="[189,1375,328,384]" gridrow="0" pageId="10" pageNumber="59" rowspan-0="1">
+<th id="9E278879FFB80064ECA8FEAE374FFE79" box="[908,1059,328,384]" gridcol="1" gridrow="0" pageId="10" pageNumber="59">
+<emphasis id="51B23F55FFB8FF91ECA8FEAE3761FE79" bold="true" pageId="10" pageNumber="59">SEAFO-2015 Stn BT12</emphasis>
+</th>
+<th id="9E278879FFB80064EB43FEAE3633FE79" box="[1127,1375,328,384]" gridcol="2" gridrow="0" pageId="10" pageNumber="59">
+<emphasis id="51B23F55FFB8FF91EB43FEAE3633FE99" bold="true" box="[1127,1375,328,352]" italics="true" pageId="10" pageNumber="59">
+<taxonomicName id="A4C698C4FFB8FF91EB43FEAE3784FE99" authorityName="Quelch" authorityYear="1885" box="[1127,1256,328,352]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="10" pageNumber="59" phylum="Cnidaria" rank="genus">Zygophylax</taxonomicName>
+? 
+<taxonomicName id="A4C698C4FFB8FF91EBD8FEAE3633FE99" authorityName="Billard" authorityYear="1905" box="[1276,1375,328,352]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="10" pageNumber="59" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFB8FF91EBD8FEAE3633FE99" bold="true" box="[1276,1375,328,352]" italics="true" pageId="10" pageNumber="59">biarmata</emphasis>
+</taxonomicName>
+</emphasis>
+(in 
+<bibRefCitation id="07579EB6FFB8FF91EB8FFE8E3654FE79" author="Millard N. A. H." box="[1195,1336,360,384]" pageId="10" pageNumber="59" pagination="165 - 226" refId="ref23599" refString="Millard N. A. H. 1958. Hydrozoa from the coasts of Natal and Portuguese East Africa. Part I. Calyptoblastea. Annals of the South African Museum 44 (5): 165 - 226." type="journal article" year="1958">Millard 1958</bibRefCitation>
+)
+</th>
+</tr>
+<tr id="DDF6E105FFB80064EF99FE713633FE56" box="[189,1375,407,431]" gridrow="1" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FE713183FE56" box="[189,751,407,431]" gridcol="0" gridrow="1" pageId="10" pageNumber="59">Axis, distance between two consecutive hydrothecae</th>
+<td id="9E278879FFB80064ECA8FE71374FFE56" box="[908,1059,407,431]" gridcol="1" gridrow="1" pageId="10" pageNumber="59">430–650</td>
+<td id="9E278879FFB80064EB43FE713633FE56" box="[1127,1375,407,431]" gridcol="2" gridrow="1" pageId="10" pageNumber="59">420–580</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FE263633FE21" box="[189,1375,448,472]" gridrow="2" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FE263183FE21" box="[189,751,448,472]" gridcol="0" gridrow="2" pageId="10" pageNumber="59">diameter at ‘node’</th>
+<td id="9E278879FFB80064ECA8FE26374FFE21" box="[908,1059,448,472]" gridcol="1" gridrow="2" pageId="10" pageNumber="59">40–60</td>
+<td id="9E278879FFB80064EB43FE263633FE21" box="[1127,1375,448,472]" gridcol="2" gridrow="2" pageId="10" pageNumber="59">70–80</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FE0F3633FDF8" box="[189,1375,489,513]" gridrow="3" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FE0F3183FDF8" box="[189,751,489,513]" gridcol="0" gridrow="3" pageId="10" pageNumber="59">Hydrothecal pedicel, length of adcauline wall</th>
+<td id="9E278879FFB80064ECA8FE0F374FFDF8" box="[908,1059,489,513]" gridcol="1" gridrow="3" pageId="10" pageNumber="59">40–80</td>
+<td id="9E278879FFB80064EB43FE0F3633FDF8" box="[1127,1375,489,513]" gridcol="2" gridrow="3" pageId="10" pageNumber="59">60–110</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FDF43633FDD3" box="[189,1375,530,554]" gridrow="4" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FDF43183FDD3" box="[189,751,530,554]" gridcol="0" gridrow="4" pageId="10" pageNumber="59">diameter of hydrothecal pedicel</th>
+<td id="9E278879FFB80064ECA8FDF4374FFDD3" box="[908,1059,530,554]" gridcol="1" gridrow="4" pageId="10" pageNumber="59">40–55</td>
+<td id="9E278879FFB80064EB43FDF43633FDD3" box="[1127,1375,530,554]" gridcol="2" gridrow="4" pageId="10" pageNumber="59">–</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FDDD3633FDAA" box="[189,1375,571,595]" gridrow="5" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FDDD3633FDAA" box="[189,1375,571,595]" colspan="3" colspanRight="2" gridcol="0" gridrow="5" pageId="10" pageNumber="59">Hydrotheca, length adcauline wall from diaphragm</th>
+</tr>
+<tr id="DDF6E105FFB80064EF99FD833633FD84" box="[189,1375,613,637]" gridrow="6" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FD833183FD84" box="[189,751,613,637]" gridcol="0" gridrow="6" pageId="10" pageNumber="59">onwards, without renovations</th>
+<td id="9E278879FFB80064ECA8FD83374FFD84" box="[908,1059,613,637]" gridcol="1" gridrow="6" pageId="10" pageNumber="59">375–475</td>
+<td id="9E278879FFB80064EB43FD833633FD84" box="[1127,1375,613,637]" gridcol="2" gridrow="6" pageId="10" pageNumber="59">310–410</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FD683633FD5F" box="[189,1375,654,678]" gridrow="7" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FD683633FD5F" box="[189,1375,654,678]" colspan="3" colspanRight="2" gridcol="0" gridrow="7" pageId="10" pageNumber="59">Hydrotheca, length adcauline wall from diaphragm</th>
+</tr>
+<tr id="DDF6E105FFB80064EF99FD513633FD36" box="[189,1375,695,719]" gridrow="8" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FD513183FD36" box="[189,751,695,719]" gridcol="0" gridrow="8" pageId="10" pageNumber="59">onwards, with renovations</th>
+<td id="9E278879FFB80064ECA8FD51374FFD36" box="[908,1059,695,719]" gridcol="1" gridrow="8" pageId="10" pageNumber="59">425–500</td>
+<td id="9E278879FFB80064EB43FD513633FD36" box="[1127,1375,695,719]" gridcol="2" gridrow="8" pageId="10" pageNumber="59">–</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FD063633FD01" box="[189,1375,736,760]" gridrow="9" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FD063633FD01" box="[189,1375,736,760]" colspan="3" colspanRight="2" gridcol="0" gridrow="9" pageId="10" pageNumber="59">Hydrotheca, length abcauline wall from diaphragm</th>
+</tr>
+<tr id="DDF6E105FFB80064EF99FCEF3633FCD8" box="[189,1375,777,801]" gridrow="10" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FCEF3183FCD8" box="[189,751,777,801]" gridcol="0" gridrow="10" pageId="10" pageNumber="59">onwards, without renovations</th>
+<td id="9E278879FFB80064ECA8FCEF374FFCD8" box="[908,1059,777,801]" gridcol="1" gridrow="10" pageId="10" pageNumber="59">330–425</td>
+<td id="9E278879FFB80064EB43FCEF3633FCD8" box="[1127,1375,777,801]" gridcol="2" gridrow="10" pageId="10" pageNumber="59">270–350</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FCD43633FCB3" box="[189,1375,818,842]" gridrow="11" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FCD43633FCB3" box="[189,1375,818,842]" colspan="3" colspanRight="2" gridcol="0" gridrow="11" pageId="10" pageNumber="59">Hydrotheca, length abcauline wall from diaphragm</th>
+</tr>
+<tr id="DDF6E105FFB80064EF99FCBA3633FC8D" box="[189,1375,860,884]" gridrow="12" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FCBA3183FC8D" box="[189,751,860,884]" gridcol="0" gridrow="12" pageId="10" pageNumber="59">onwards, with renovations</th>
+<td id="9E278879FFB80064ECA8FCBA374FFC8D" box="[908,1059,860,884]" gridcol="1" gridrow="12" pageId="10" pageNumber="59">400–475</td>
+<td id="9E278879FFB80064EB43FCBA3633FC8D" box="[1127,1375,860,884]" gridcol="2" gridrow="12" pageId="10" pageNumber="59">–</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FC633633FC64" box="[189,1375,901,925]" gridrow="13" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FC633183FC64" box="[189,751,901,925]" gridcol="0" gridrow="13" pageId="10" pageNumber="59">Diameter at diaphragm</th>
+<td id="9E278879FFB80064ECA8FC63374FFC64" box="[908,1059,901,925]" gridcol="1" gridrow="13" pageId="10" pageNumber="59">50–70</td>
+<td id="9E278879FFB80064EB43FC633633FC64" box="[1127,1375,901,925]" gridcol="2" gridrow="13" pageId="10" pageNumber="59">60–70</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FC483633FC3F" box="[189,1375,942,966]" gridrow="14" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FC483183FC3F" box="[189,751,942,966]" gridcol="0" gridrow="14" pageId="10" pageNumber="59">Diameter at rim</th>
+<td id="9E278879FFB80064ECA8FC48374FFC3F" box="[908,1059,942,966]" gridcol="1" gridrow="14" pageId="10" pageNumber="59">125–145</td>
+<td id="9E278879FFB80064EB43FC483633FC3F" box="[1127,1375,942,966]" gridcol="2" gridrow="14" pageId="10" pageNumber="59">130–160</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FC313633FC16" box="[189,1375,983,1007]" gridrow="15" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FC313183FC16" box="[189,751,983,1007]" gridcol="0" gridrow="15" pageId="10" pageNumber="59">Nematotheca, length without renovations</th>
+<td id="9E278879FFB80064ECA8FC31374FFC16" box="[908,1059,983,1007]" gridcol="1" gridrow="15" pageId="10" pageNumber="59">65–85</td>
+<td id="9E278879FFB80064EB43FC313633FC16" box="[1127,1375,983,1007]" gridcol="2" gridrow="15" pageId="10" pageNumber="59">80–140</td>
+</tr>
+<tr id="DDF6E105FFB80064EF99FBE23633FBE5" box="[189,1375,1028,1052]" gridrow="16" pageId="10" pageNumber="59">
+<th id="9E278879FFB80064EF99FBE23183FBE5" box="[189,751,1028,1052]" gridcol="0" gridrow="16" pageId="10" pageNumber="59">diameter at rim</th>
+<td id="9E278879FFB80064ECA8FBE2374FFBE5" box="[908,1059,1028,1052]" gridcol="1" gridrow="16" pageId="10" pageNumber="59">25–35</td>
+<td id="9E278879FFB80064EB43FBE23633FBE5" box="[1127,1375,1028,1052]" gridcol="2" gridrow="16" pageId="10" pageNumber="59">35–50</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="6379E347FFB8FF91EF99FB69373CFB35" blockId="10.[189,1399,1167,1229]" pageId="10" pageNumber="59">hydrothecae on secondary tubes. Consequently, we consider that all belong to the same species, but the absence of coppinia prevents us from assigning this material to a new species.</paragraph>
+</subSubSection>
+<subSubSection id="2BDCB0CCFFB8FF91EF99FB153075FA99" pageId="10" pageNumber="59" type="distribution">
+<paragraph id="6379E347FFB8FF91EF99FB15323AFAF4" blockId="10.[189,342,1267,1293]" box="[189,342,1267,1293]" pageId="10" pageNumber="59">
+<heading id="3831542BFFB8FF91EF99FB15323AFAF4" bold="true" box="[189,342,1267,1293]" fontSize="11" level="3" pageId="10" pageNumber="59" reason="3">
+<emphasis id="51B23F55FFB8FF91EF99FB15323AFAF4" bold="true" box="[189,342,1267,1293]" pageId="10" pageNumber="59">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="6379E347FFB8FF91EF99FAC43075FA99" blockId="10.[189,1398,1314,1376]" pageId="10" pageNumber="59">
+This species has previously been recorded from off Natal, 
+<collectingCountry id="1BD1A3D7FFB8FF91EC81FAC4372DFAC5" box="[933,1089,1314,1340]" name="South Africa" pageId="10" pageNumber="59">South Africa</collectingCountry>
+(
+<bibRefCitation id="07579EB6FFB8FF91EB73FAC43797FAC4" author="Millard N. A. H." box="[1111,1275,1314,1341]" pageId="10" pageNumber="59" pagination="165 - 226" refId="ref23599" refString="Millard N. A. H. 1958. Hydrozoa from the coasts of Natal and Portuguese East Africa. Part I. Calyptoblastea. Annals of the South African Museum 44 (5): 165 - 226." type="journal article" year="1958">Millard 1958</bibRefCitation>
+, 1975, as 
+<taxonomicName id="A4C698C4FFB8FF91EF99FAA3322AFAA6" authorityName="Quelch" authorityYear="1885" box="[189,326,1349,1375]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="10" pageNumber="59" phylum="Cnidaria" rank="genus">
+<emphasis id="51B23F55FFB8FF91EF99FAA3322AFAA6" box="[189,326,1349,1375]" italics="true" pageId="10" pageNumber="59">Zygophylax</emphasis>
+</taxonomicName>
+? 
+<taxonomicName id="A4C698C4FFB8FF91EE46FAA332A2FAA6" authorityName="Billard" authorityYear="1905" box="[354,462,1349,1375]" class="Hydrozoa" family="Lafoeidae" genus="Zygophylax" kingdom="Animalia" order="Leptothecata" pageId="10" pageNumber="59" phylum="Cnidaria" rank="species" species="biarmata">
+<emphasis id="51B23F55FFB8FF91EE46FAA332A2FAA6" box="[354,462,1349,1375]" italics="true" pageId="10" pageNumber="59">biarmata</emphasis>
+</taxonomicName>
+), at depths of 
+<quantity id="A43E4EA2FFB8FF91ED52FAA33079FA99" box="[630,789,1349,1376]" metricMagnitude="2" metricUnit="m" metricValue="2.485" metricValueMax="3.3299999999999996" metricValueMin="1.64" pageId="10" pageNumber="59" unit="m" value="248.5" valueMax="333.0" valueMin="164.0">
+164 to 
+<specimenCount id="75C028CEFFB8FF91EDE3FAA33079FA99" box="[711,789,1349,1376]" pageId="10" pageNumber="59" type="generic">333 m</specimenCount>
+</quantity>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

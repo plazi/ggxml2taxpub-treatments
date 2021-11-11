@@ -1,0 +1,306 @@
+<document id="2BC27FACF3AA1CCD90456E882A0765A1" ID-DOI="http://doi.org/10.5281/zenodo.5604793" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550946" ID-ISSN="2118-9773" ID-Zenodo-Dep="5604793" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" LSID="urn:lsid:zoobank.org:act:6608C3B9-8B98-4E05-91E6-DA463119748F" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFF8CFF95FE45FECCFB68FB3A" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Clivotirolites petilus Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari 2021, gen. et sp. nov." docType="treatment" docUuid="6608C3B9-8B98-4E05-91E6-DA463119748F" docUuidSource="ZooBank" docVersion="7" lastPageId="66" lastPageNumber="67" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="65" pageNumber="66" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7840670AB5FDD7CA04B0814" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599F54F2A8F48854970403404">
+<mods:title id="13FDA205199860596EDDDCB041ECE610">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A625D915386934A0D2970187" type="personal">
+<mods:role id="51692204BF1BDABDFD0EB670D886F01E">
+<mods:roleTerm id="BD2BD8394B4C489463580A52B25D1099">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4DDA3449710F5010258E5538">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812D91FCCEFB4E84AF575E885D" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F16678DAF4C784D887C4EA83">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48FFDA45548F835CDDA5DFF2" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A72870241696FD711FD3FF0CBF0F0" type="personal">
+<mods:role id="6C3D2CE0519B52EB89C53E0CA483E1C6">
+<mods:roleTerm id="A932971289BFD3E47FCEC2B6C8D5435D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F14E0698E70E15BE293C923">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB1B1E747881ED1A7F822066" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399199A66290313EB92C49E95">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BC92FA6F5F6A066A7BE482A1" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD85638342EF91B927F25B1AE" type="personal">
+<mods:role id="EBC7D4EE923EFDC241FC491FDD87BBB0">
+<mods:roleTerm id="79F91492404FA1C8F4CC6046F5CA23DD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45689EC1F8DFB5CAEAAE74C5">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD651DF9DD7E75935EE2D0071" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD18C7C285009C6B9FCCC0D6">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F5D16FF034D3C6EECEC6373" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E04D7040130F946BAE7E0A1F2" type="personal">
+<mods:role id="FAE14BA8E702D30D49E91E2A36A4F1CD">
+<mods:roleTerm id="F5BB0DB9283BFFAF590989767C094E9F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C0333D7A34C7224A56FE2C4F8">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C693389CDB5F4E2B93017FE55C7" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3FB332A8B87FE305FC91146">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9A33E4A372C399054F44E0B" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253BF4B2DEE25FD5B793171AB" type="personal">
+<mods:role id="0763F0449FA72FCBF2BD7FB18EEE6E85">
+<mods:roleTerm id="BB48773F389C2B4C0ADC32A2B0B9C94C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9B5A34C96945136EDF4BD16">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E7C036BE1A80B9D43495BC75" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA766A05CDEE77AFB19F900CA3">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9831B8E5509C50F6C4956FB" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC55CEE0DEF759A90EA4D7124" type="personal">
+<mods:role id="8B8CD05C29E39BE95E805244BEBEE3C5">
+<mods:roleTerm id="ACB6128A21B94BF84860AF19CEAC4FFE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E78338815BF479F07F8E08A3F">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281B1B80490D52817A8598C7F" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAA92143EB1BD6C6336E27E35">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B58378661E0B09BC3F58514E" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510FC1463AB1D5286D24F38407">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A30254FFCFC7F37530FF53F65" type="host">
+<mods:titleInfo id="5E868733C64B37D4B91D323A61933556">
+<mods:title id="C420E4A067FA3B7D9F72DBCD1876DE18">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BF917072E15ED9516E6A807C">
+<mods:date id="1DE35E379E3CB7B50ED07D144DB67A48">2021</mods:date>
+<mods:detail id="2E547940F0147C25F318FB294D5DE6BE" type="pubDate">
+<mods:number id="A7A9FB10960F1F0CF89B5C0D892AC4EF">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14979C7C24FF329869811D5E" type="volume">
+<mods:number id="9C7A6814767F4DAF964F553AF0C726AD">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D38C22055056018579D088E69" unit="page">
+<mods:start id="B9141DB8E50E8EDE805605EB8E264B56">1</mods:start>
+<mods:end id="F9CBE60BDE87D5744053DE5DA21A90F7">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E248C7DDEAF3828A7A362F2">journal article</mods:classification>
+<mods:identifier id="8AB9541377809468E8D57D8706DC0E57" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E170B972709FC26D57427BD0" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F8896DD6C742551D86DD40420C" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48A374A088022288EFFC5398" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEA4E78E5B21727E7D041230" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFF8CFF95FE45FECCFB68FB3A" ID-DOI="http://doi.org/10.5281/zenodo.5604793" ID-GBIF-Taxon="189550946" ID-Zenodo-Dep="5604793" LSID="urn:lsid:zoobank.org:act:6608C3B9-8B98-4E05-91E6-DA463119748F" httpUri="http://treatment.plazi.org/id/03CC87BFFF8CFF95FE45FECCFB68FB3A" lastPageId="66" lastPageNumber="67" pageId="65" pageNumber="66">
+<subSubSection id="C37F6522FF8CFF96FE45FECCFBDEFEE7" box="[460,1128,264,291]" pageId="65" pageNumber="66" type="nomenclature">
+<paragraph id="8BDA36A9FF8CFF96FE45FECCFBDEFEE7" blockId="65.[375,1212,264,361]" box="[460,1128,264,291]" pageId="65" pageNumber="66">
+<heading id="D09281C5FF8CFF96FE45FECCFBDEFEE7" box="[460,1128,264,291]" centered="true" fontSize="11" level="2" pageId="65" pageNumber="66" reason="2">
+<taxonomicName id="4C654D2AFF8CFF96FE45FECCFC06FEE7" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[460,944,264,291]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="species" species="petilus" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF8CFF96FE45FECCFD08FEE7" bold="true" box="[460,702,264,291]" italics="true" pageId="65" pageNumber="66">Clivotirolites petilus</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8CFF96FC31FECDFBDEFEE7" box="[952,1128,265,291]" pageId="65" pageNumber="66" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8CFF96FEFEFEE8FCCBFEAD" pageId="65" pageNumber="66" type="description">
+<paragraph id="8BDA36A9FF8CFF96FEFEFEE8FB0AFE83" blockId="65.[375,1212,264,361]" box="[375,1212,300,327]" pageId="65" pageNumber="66">
+<uri id="FFF43AABFF8CFF96FEFEFEE8FB0AFE83" box="[375,1212,300,327]" pageId="65" pageNumber="66">
+urn:lsid:zoobank.org:act: 
+<uuid id="FFC30C7CFF8CFF96FD11FEE8FB0AFE83" box="[664,1212,300,327]" pageId="65" pageNumber="66">6608C3B9-8B98-4E05-91E6-DA463119748F</uuid>
+</uri>
+</paragraph>
+<paragraph id="8BDA36A9FF8CFF96FD3FFE8BFCCBFEAD" blockId="65.[375,1212,264,361]" box="[694,893,335,361]" pageId="65" pageNumber="66">
+<figureCitation id="135E2A2CFF8CFF96FD3FFE8BFCBBFEAD" box="[694,781,335,361]" captionStart="Fig" captionStartId="65.[189,232,1928,1954]" captionTargetBox="[458,1133,1017,1881]" captionTargetId="figure-160@65.[451,1136,1011,1902]" captionTargetPageId="65" captionText="Fig. 44. Clivotirolites petilus Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29962, section E, float. B. Suture line, holotype MB.C.29962, at 45.5 mm dm, 14.9 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604831" httpUri="https://zenodo.org/record/5604831/files/figure.png" pageId="65" pageNumber="66">Fig. 44</figureCitation>
+; 
+<tableCitation id="C6E70312FF8CFF96FC91FE8BFCCBFEAD" box="[792,893,335,361]" captionStart="Table 21" captionStartId="66.[189,258,265,291]" captionText="Table 21. Conch dimensions (partly estimated) and ratios of selected specimens of Clivotirolites petilus Korn &amp; Hairapetian gen. et sp. nov. from Baghuk Mountain." pageId="65" pageNumber="66">Table 21</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8CFF96FF34FE54FD1EFDA2" pageId="65" pageNumber="66" type="diagnosis">
+<paragraph id="8BDA36A9FF8CFF96FF34FE54FE80FE6E" blockId="65.[189,310,400,426]" box="[189,310,400,426]" pageId="65" pageNumber="66">
+<heading id="D09281C5FF8CFF96FF34FE54FE80FE6E" bold="true" box="[189,310,400,426]" fontSize="11" level="3" pageId="65" pageNumber="66" reason="3">
+<emphasis id="B911EABBFF8CFF96FF34FE54FE80FE6E" bold="true" box="[189,310,400,426]" pageId="65" pageNumber="66">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8CFF96FF34FE7BFD1EFDA2" blockId="65.[189,1398,447,615]" pageId="65" pageNumber="66">
+Species of 
+<taxonomicName id="4C654D2AFF8CFF96FECDFE7BFE68FE1D" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[324,478,447,473]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="genus" status="gen. nov.">
+<emphasis id="B911EABBFF8CFF96FECDFE7BFE68FE1D" box="[324,478,447,473]" italics="true" pageId="65" pageNumber="66">Clivotirolites</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8CFF96FE6CFE04FDE4FE1E" box="[485,594,448,474]" pageId="65" pageNumber="66" rank="genus">gen. nov.</taxonomicNameLabel>
+with conch reaching 
+<quantity id="4C9D9B4CFF8CFF96FCDFFE7BFC0FFE1E" box="[854,953,447,474]" metricMagnitude="-1" metricUnit="m" metricValue="1.2" pageId="65" pageNumber="66" unit="mm" value="120.0">120 mm</quantity>
+dm. Subadult stage with trapezoidal, weakly compressed whorl profile (ww/wh=0.90) and flattened tectiform; 15 coarse ventrolateral nodes per volution. Adult stage with trapezoidal, weakly compressed whorl profile (ww/wh =0.70), flat venter and angular ventrolateral shoulder; weak ribs and ventrolateral nodes. Prongs of external lobe bifid; altogether 16 notches of E, A and L lobes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8CFF96FF34FD4AFC49FD12" box="[189,1023,654,727]" pageId="65" pageNumber="66" type="etymology">
+<paragraph id="8BDA36A9FF8CFF96FF34FD4AFEF2FD6C" blockId="65.[189,324,654,680]" box="[189,324,654,680]" pageId="65" pageNumber="66">
+<heading id="D09281C5FF8CFF96FF34FD4AFEF2FD6C" bold="true" box="[189,324,654,680]" fontSize="11" level="3" pageId="65" pageNumber="66" reason="3">
+<emphasis id="B911EABBFF8CFF96FF34FD4AFEF2FD6C" bold="true" box="[189,324,654,680]" pageId="65" pageNumber="66">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8CFF96FF34FD79FC49FD12" blockId="65.[189,1023,700,727]" box="[189,1023,700,727]" pageId="65" pageNumber="66">
+From the Latin ‘ 
+<taxonomicName id="4C654D2AFF8CFF96FEF7FD78FE7AFD12" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[382,460,700,726]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="species" species="petilus">
+<emphasis id="B911EABBFF8CFF96FEF7FD78FE7AFD12" box="[382,460,700,726]" italics="true" pageId="65" pageNumber="66">petilus</emphasis>
+</taxonomicName>
+’, meaning ‘slim’, because of the slender conch.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8CFF96FF34FD39FED6FC48" pageId="65" pageNumber="66" type="materials_examined">
+<paragraph id="8BDA36A9FF8CFF96FF34FD39FE1CFCD3" blockId="65.[189,426,765,791]" box="[189,426,765,791]" pageId="65" pageNumber="66">
+<heading id="D09281C5FF8CFF96FF34FD39FE1CFCD3" bold="true" box="[189,426,765,791]" fontSize="11" level="3" pageId="65" pageNumber="66" reason="3">
+<emphasis id="B911EABBFF8CFF96FF34FD39FE1CFCD3" bold="true" box="[189,426,765,791]" pageId="65" pageNumber="66">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8CFF96FF63FCE8FED6FC48" blockId="65.[189,1399,812,908]" pageId="65" pageNumber="66">
+<materialsCitation id="3B0D3CF4FF8CFF96FF63FCE8FED6FC48" ID-GBIF-Occurrence="3395073385" collectionCode="MB" collectorName="Baghuk Mountain E" country="Iran" location="Baghuk Mountain E section" pageId="65" pageNumber="66" specimenCode="MB.C.29962" specimenCount="1" stateProvince="Esfahan Province" typeStatus="holotype">
+<emphasis id="B911EABBFF8CFF96FF63FCE8FEEAFC82" bold="true" box="[234,348,812,838]" pageId="65" pageNumber="66">
+<typeStatus id="54DE880BFF8CFF96FF63FCE8FEEAFC82" box="[234,348,812,838]" pageId="65" pageNumber="66">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FF8CFF96FF34FC8BFEB3FCAD" box="[189,261,847,873]" name="Iran" pageId="65" pageNumber="66">IRAN</collectingCountry>
+• 
+<collectingRegion id="49A1F84BFF8CFF96FEABFC8BFE40FCAD" box="[290,502,847,873]" country="Iran" name="Esfahan" pageId="65" pageNumber="66">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FF8CFF96FD8DFC8BFCEEFCAD" LSID="urn:lsid:plazi:treatment:03CC87BFFF8CFF95FE45FECCFB68FB3A:8EBA6072FF8CFF96FD8DFC8BFCEEFCAD" box="[516,856,847,874]" country="Iran" name="Baghuk Mountain E section" pageId="65" pageNumber="66" stateProvince="Esfahan Province">Baghuk Mountain E section</location>
+; Hambast Formation; illustrated in 
+<figureCitation id="135E2A2CFF8CFF96FA8DFC8BFAC4FCAD" box="[1284,1394,847,873]" captionStart="Fig" captionStartId="65.[189,232,1928,1954]" captionTargetBox="[458,1133,1017,1881]" captionTargetId="figure-160@65.[451,1136,1011,1902]" captionTargetPageId="65" captionText="Fig. 44. Clivotirolites petilus Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29962, section E, float. B. Suture line, holotype MB.C.29962, at 45.5 mm dm, 14.9 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604831" httpUri="https://zenodo.org/record/5604831/files/figure.png" pageId="65" pageNumber="66">Fig. 44A</figureCitation>
+; 
+<specimenCode id="DBC39ED2FF8CFF96FF36FCB6FEEAFC48" box="[191,348,882,908]" pageId="65" pageNumber="66">MB.C.29962</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<caption id="DF1A6621FF8CFF96FF34F84CFC08F82D" ID-DOI="http://doi.org/10.5281/zenodo.5604831" ID-Zenodo-Dep="5604831" httpUri="https://zenodo.org/record/5604831/files/figure.png" pageId="65" pageNumber="66" startId="65.[189,232,1928,1954]" targetBox="[458,1133,1017,1881]" targetPageId="65">
+<paragraph id="8BDA36A9FF8CFF96FF34F84CFC08F82D" blockId="65.[189,1399,1928,2025]" pageId="65" pageNumber="66">
+<emphasis id="B911EABBFF8CFF96FF34F84CFEACF866" bold="true" box="[189,282,1928,1954]" pageId="65" pageNumber="66">Fig. 44.</emphasis>
+<taxonomicName id="4C654D2AFF8CFF96FEABF84CFCB0F866" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[290,774,1928,1955]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="species" species="petilus" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF8CFF96FEABF84CFDA4F866" box="[290,530,1928,1954]" italics="true" pageId="65" pageNumber="66">Clivotirolites petilus</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8CFF96FC87F84DFC76F867" box="[782,960,1929,1955]" pageId="65" pageNumber="66" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+<emphasis id="B911EABBFF8CFF96FC41F84CFC6AF866" bold="true" box="[968,988,1928,1954]" pageId="65" pageNumber="66">A</emphasis>
+. Lateral and dorsal view, holotype MB.C.29962, section E, float. 
+<emphasis id="B911EABBFF8CFF96FDB9F868FDF2F802" bold="true" box="[560,580,1964,1990]" pageId="65" pageNumber="66">B</emphasis>
+. Suture line, holotype MB.C.29962, at 45.5 mm dm, 14.9 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm.
+</paragraph>
+</caption>
+<caption id="DF1A6621FF8FFF95FF34FECDFC34FE82" pageId="66" pageNumber="67" startId="66.[189,258,265,291]">
+<paragraph id="8BDA36A9FF8FFF95FF34FECDFC34FE82" blockId="66.[188,1398,265,327]" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FF34FECDFE98FEE7" bold="true" box="[189,302,265,291]" pageId="66" pageNumber="67">Table 21.</emphasis>
+Conch dimensions (partly estimated) and ratios of selected specimens of 
+<taxonomicName id="4C654D2AFF8FFF95FB0EFECDFE11FE82" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="petilus" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF8FFF95FB0EFECDFAC0FEE7" box="[1159,1398,265,291]" italics="true" pageId="66" pageNumber="67">Clivotirolites petilus</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8FFF95FE27FEE9FDE8FE83" box="[430,606,301,327]" pageId="66" pageNumber="67" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+from Baghuk Mountain.
+</paragraph>
+</caption>
+<paragraph id="8BDA36A9FF8FFF95FF6FFEBDFAE6FE3E" pageId="66" pageNumber="67">
+<table id="F965C409FF8F0028FF5FFEBDFAD4FE3E" box="[214,1378,377,506]" colsContinueFrom="64.[221,1376,353,860]" colsContinueIn="69.[213,1379,377,708]" gridcols="11" gridrows="3" pageId="66" pageNumber="67">
+<tr id="355534EBFF8F0028FF5FFEBDFAD4FE57" box="[214,1378,377,403]" gridrow="0" pageId="66" pageNumber="67">
+<th id="76845D97FF8F0028FF5FFEBDFED9FE57" box="[214,367,377,403]" gridcol="0" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FF6FFEBDFEE9FE57" bold="true" box="[230,351,377,403]" pageId="66" pageNumber="67">Specimen</emphasis>
+</th>
+<th id="76845D97FF8F0028FE15FEBDFE79FE57" box="[412,463,377,403]" gridcol="1" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FE28FEBDFE7CFE57" bold="true" box="[417,458,377,403]" pageId="66" pageNumber="67">dm</emphasis>
+</th>
+<th id="76845D97FF8F0028FE7FFEBDFD9FFE57" box="[502,553,377,403]" gridcol="2" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FE73FEBDFD92FE57" bold="true" box="[506,548,377,403]" pageId="66" pageNumber="67">ww</emphasis>
+</th>
+<th id="76845D97FF8F0028FDD9FEBDFD35FE57" box="[592,643,377,403]" gridcol="3" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FDDEFEBDFDCAFE57" bold="true" box="[599,636,377,403]" pageId="66" pageNumber="67">wh</emphasis>
+</th>
+<th id="76845D97FF8F0028FD20FEBDFD6AFE57" box="[681,732,377,403]" gridcol="4" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FD39FEBDFD63FE57" bold="true" box="[688,725,377,403]" pageId="66" pageNumber="67">uw</emphasis>
+</th>
+<th id="76845D97FF8F0028FC8AFEBDFC80FE57" box="[771,822,377,403]" gridcol="5" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FC84FEBDFC9AFE57" bold="true" box="[781,812,377,403]" pageId="66" pageNumber="67">ah</emphasis>
+</th>
+<th id="76845D97FF8F0028FCD3FEBDFC00FE57" box="[858,950,377,403]" gridcol="6" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FCD3FEBDFC00FE57" bold="true" box="[858,950,377,403]" pageId="66" pageNumber="67">ww/dm</emphasis>
+</th>
+<th id="76845D97FF8F0028FC51FEBDFB86FE57" box="[984,1072,377,403]" gridcol="7" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FC51FEBDFB86FE57" bold="true" box="[984,1072,377,403]" pageId="66" pageNumber="67">ww/wh</emphasis>
+</th>
+<th id="76845D97FF8F0028FBD8FEBDFB1EFE57" box="[1105,1192,377,403]" gridcol="8" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FBD8FEBDFB1EFE57" bold="true" box="[1105,1192,377,403]" pageId="66" pageNumber="67">uw/dm</emphasis>
+</th>
+<th id="76845D97FF8F0028FB4FFEBDFABAFE57" box="[1222,1292,377,403]" gridcol="9" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FB4FFEBDFABAFE57" bold="true" box="[1222,1292,377,403]" pageId="66" pageNumber="67">WER</emphasis>
+</th>
+<th id="76845D97FF8F0028FAA7FEBDFAD4FE57" box="[1326,1378,377,403]" gridcol="10" gridrow="0" pageId="66" pageNumber="67">
+<emphasis id="B911EABBFF8FFF95FAA7FEBDFAD4FE57" bold="true" box="[1326,1378,377,403]" pageId="66" pageNumber="67">IZR</emphasis>
+</th>
+</tr>
+<tr id="355534EBFF8F0028FF5FFE68FAD4FE03" box="[214,1378,428,455]" gridrow="1" pageId="66" pageNumber="67">
+<th id="76845D97FF8F0028FF5FFE68FED9FE03" box="[214,367,428,455]" gridcol="0" gridrow="1" pageId="66" pageNumber="67">MB.C.29962</th>
+<td id="76845D97FF8F0028FE15FE68FE79FE03" box="[412,463,428,455]" gridcol="1" gridrow="1" pageId="66" pageNumber="67">79.9</td>
+<td id="76845D97FF8F0028FE7FFE68FD9FFE03" box="[502,553,428,455]" gridcol="2" gridrow="1" pageId="66" pageNumber="67">16.5</td>
+<td id="76845D97FF8F0028FDD9FE68FD35FE03" box="[592,643,428,455]" gridcol="3" gridrow="1" pageId="66" pageNumber="67">28.0</td>
+<td id="76845D97FF8F0028FD20FE68FD6AFE03" box="[681,732,428,455]" gridcol="4" gridrow="1" pageId="66" pageNumber="67">33.2</td>
+<td id="76845D97FF8F0028FC8AFE68FC80FE03" box="[771,822,428,455]" gridcol="5" gridrow="1" pageId="66" pageNumber="67">24.9</td>
+<td id="76845D97FF8F0028FCD3FE68FC00FE03" box="[858,950,428,455]" gridcol="6" gridrow="1" pageId="66" pageNumber="67">0.21</td>
+<td id="76845D97FF8F0028FC51FE68FB86FE03" box="[984,1072,428,455]" gridcol="7" gridrow="1" pageId="66" pageNumber="67">0.59</td>
+<td id="76845D97FF8F0028FBD8FE68FB1EFE03" box="[1105,1192,428,455]" gridcol="8" gridrow="1" pageId="66" pageNumber="67">0.42</td>
+<td id="76845D97FF8F0028FB4FFE68FABAFE03" box="[1222,1292,428,455]" gridcol="9" gridrow="1" pageId="66" pageNumber="67">2.11</td>
+<td id="76845D97FF8F0028FAA7FE68FAD4FE03" box="[1326,1378,428,455]" gridcol="10" gridrow="1" pageId="66" pageNumber="67">0.11</td>
+</tr>
+<tr id="355534EBFF8F0028FF5FFE1BFAD4FE3E" box="[214,1378,479,506]" gridrow="2" pageId="66" pageNumber="67">
+<th id="76845D97FF8F0028FF5FFE1BFED9FE3E" box="[214,367,479,506]" gridcol="0" gridrow="2" pageId="66" pageNumber="67">MB.C.29962</th>
+<td id="76845D97FF8F0028FE15FE1BFE79FE3E" box="[412,463,479,506]" gridcol="1" gridrow="2" pageId="66" pageNumber="67">56.4</td>
+<td id="76845D97FF8F0028FE7FFE1BFD9FFE3E" box="[502,553,479,506]" gridcol="2" gridrow="2" pageId="66" pageNumber="67">15.5</td>
+<td id="76845D97FF8F0028FDD9FE1BFD35FE3E" box="[592,643,479,506]" gridcol="3" gridrow="2" pageId="66" pageNumber="67">17.8</td>
+<td id="76845D97FF8F0028FD20FE1BFD6AFE3E" box="[681,732,479,506]" gridcol="4" gridrow="2" pageId="66" pageNumber="67">25.0</td>
+<td id="76845D97FF8F0028FC8AFE1BFC80FE3E" box="[771,822,479,506]" gridcol="5" gridrow="2" pageId="66" pageNumber="67">–</td>
+<td id="76845D97FF8F0028FCD3FE1BFC00FE3E" box="[858,950,479,506]" gridcol="6" gridrow="2" pageId="66" pageNumber="67">0.27</td>
+<td id="76845D97FF8F0028FC51FE1BFB86FE3E" box="[984,1072,479,506]" gridcol="7" gridrow="2" pageId="66" pageNumber="67">0.87</td>
+<td id="76845D97FF8F0028FBD8FE1BFB1EFE3E" box="[1105,1192,479,506]" gridcol="8" gridrow="2" pageId="66" pageNumber="67">0.44</td>
+<td id="76845D97FF8F0028FB4FFE1BFABAFE3E" box="[1222,1292,479,506]" gridcol="9" gridrow="2" pageId="66" pageNumber="67">–</td>
+<td id="76845D97FF8F0028FAA7FE1BFAD4FE3E" box="[1326,1378,479,506]" gridcol="10" gridrow="2" pageId="66" pageNumber="67">–</td>
+</tr>
+</table>
+</paragraph>
+<subSubSection id="C37F6522FF8FFF95FF34FDF9FAB5FC3A" pageId="66" pageNumber="67" type="description">
+<paragraph id="8BDA36A9FF8FFF95FF34FDF9FEF8FD93" blockId="66.[189,334,573,599]" box="[189,334,573,599]" pageId="66" pageNumber="67">
+<heading id="D09281C5FF8FFF95FF34FDF9FEF8FD93" bold="true" box="[189,334,573,599]" fontSize="11" level="3" pageId="66" pageNumber="67" reason="3">
+<emphasis id="B911EABBFF8FFF95FF34FDF9FEF8FD93" bold="true" box="[189,334,573,599]" pageId="66" pageNumber="67">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8FFF95FF34FDAFFCE1FC91" blockId="66.[189,1401,619,853]" pageId="66" pageNumber="67">
+<typeStatus id="54DE880BFF8FFF95FF34FDAFFE9CFD41" box="[189,298,619,645]" pageId="66" pageNumber="67">Holotype</typeStatus>
+MB.C.29962 is a comparatively well-preserved individual with 
+<quantity id="4C9D9B4CFF8FFF95FBA6FDAFFB32FD41" box="[1071,1156,619,645]" metricMagnitude="-2" metricUnit="m" metricValue="8.0" pageId="66" pageNumber="67" unit="mm" value="80.0">80 mm</quantity>
+conch diameter and allows the study of two whorls (
+<figureCitation id="135E2A2CFF8FFF95FDB1FD49FD10FD6C" box="[568,678,653,680]" captionStart="Fig" captionStartId="65.[189,232,1928,1954]" captionTargetBox="[458,1133,1017,1881]" captionTargetId="figure-160@65.[451,1136,1011,1902]" captionTargetPageId="65" captionText="Fig. 44. Clivotirolites petilus Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29962, section E, float. B. Suture line, holotype MB.C.29962, at 45.5 mm dm, 14.9 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604831" httpUri="https://zenodo.org/record/5604831/files/figure.png" pageId="66" pageNumber="67">Fig. 44A</figureCitation>
+). Nearly three quarters of the last volution belong to the body chamber. The adult whorl profile is compressed (ww/wh ~ 0.80) and weakly trapezoidal with gently diverging flanks, a subangular ventrolateral shoulder and a flattened but still weakly rounded venter. The sculpture of the last phragmocone volution has 15 coarse ventrolateral nodes. With beginning of the terminal body chamber, these nodes become weaker and more numerous; at the end of the body chamber, ten faint nodes occur in a quarter of a volution.
+</paragraph>
+<paragraph id="8BDA36A9FF8FFF95FF34FCB8FAB5FC3A" blockId="66.[189,1399,892,1022]" pageId="66" pageNumber="67">
+The suture line of the 
+<typeStatus id="54DE880BFF8FFF95FE5DFCB8FD8DFC52" box="[468,571,892,918]" pageId="66" pageNumber="67">holotype</typeStatus>
+has an external lobe with weakly converging flanks. Its prongs are slightly pouched and possess three denticles. The ventrolateral saddle is inflated and followed by an asymmetric, pouched adventive lobe with oblique, weakly rounded base and seven small notches. The lateral lobe is generally V-shaped with weakly diverging flanks; it has six notches (
+<figureCitation id="135E2A2CFF8FFF95FB03FC20FB40FC3A" box="[1162,1270,996,1022]" captionStart="Fig" captionStartId="65.[189,232,1928,1954]" captionTargetBox="[458,1133,1017,1881]" captionTargetId="figure-160@65.[451,1136,1011,1902]" captionTargetPageId="65" captionText="Fig. 44. Clivotirolites petilus Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29962, section E, float. B. Suture line, holotype MB.C.29962, at 45.5 mm dm, 14.9 mm wh. Abbreviations: see Material and methods. Scale bar units=1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604831" httpUri="https://zenodo.org/record/5604831/files/figure.png" pageId="66" pageNumber="67">Fig. 44B</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8FFF95FF34FBE1FC0DFB54" pageId="66" pageNumber="67" type="discussion">
+<paragraph id="8BDA36A9FF8FFF95FF34FBE1FE99FBFB" blockId="66.[189,303,1061,1087]" box="[189,303,1061,1087]" pageId="66" pageNumber="67">
+<heading id="D09281C5FF8FFF95FF34FBE1FE99FBFB" bold="true" box="[189,303,1061,1087]" fontSize="11" level="3" pageId="66" pageNumber="67" reason="3">
+<emphasis id="B911EABBFF8FFF95FF34FBE1FE99FBFB" bold="true" box="[189,303,1061,1087]" pageId="66" pageNumber="67">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8FFF95FF34FB97FC0DFB54" blockId="66.[189,1398,1106,1168]" pageId="66" pageNumber="67">
+<taxonomicName id="4C654D2AFF8FFF95FF34FB97FE1AFBA9" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[189,428,1107,1133]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="petilus" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF8FFF95FF34FB97FE1AFBA9" box="[189,428,1107,1133]" italics="true" pageId="66" pageNumber="67">Clivotirolites petilus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8FFF95FE3AFB97FDD4FBA9" box="[435,610,1107,1133]" pageId="66" pageNumber="67" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+differs in the lower number (about 15 per volution) of ventrolateral nodes from the species of 
+<taxonomicName id="4C654D2AFF8FFF95FE79FBB1FCB5FB4B" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[496,771,1141,1167]" class="Cephalopoda" family="Dzhulfitidae" genus="Clivotirolites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="decorates" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF8FFF95FE79FBB1FCB5FB4B" box="[496,771,1141,1167]" italics="true" pageId="66" pageNumber="67">Clivotirolites decorates</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF8FFF95FC82FBB2FC0DFB54" box="[779,955,1142,1168]" pageId="66" pageNumber="67" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF8FFF95FF34FB72FB68FB3A" pageId="66" pageNumber="67" type="description">
+<paragraph id="8BDA36A9FF8FFF95FF34FB72FE02FB14" blockId="66.[189,436,1206,1232]" box="[189,436,1206,1232]" pageId="66" pageNumber="67">
+<heading id="D09281C5FF8FFF95FF34FB72FE02FB14" bold="true" box="[189,436,1206,1232]" fontSize="11" level="3" pageId="66" pageNumber="67" reason="3">
+<emphasis id="B911EABBFF8FFF95FF34FB72FE02FB14" bold="true" box="[189,436,1206,1232]" pageId="66" pageNumber="67">Stratigraphic range</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF8FFF95FF34FB20FB68FB3A" blockId="66.[189,1246,1252,1279]" box="[189,1246,1252,1279]" pageId="66" pageNumber="67">The single specimen was collected from float of the upper part of the Hambast Formation.</paragraph>
+</subSubSection>
+</treatment>
+</document>

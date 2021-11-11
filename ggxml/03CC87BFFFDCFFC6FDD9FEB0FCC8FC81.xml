@@ -1,0 +1,164 @@
+<document id="F6C84E013CD9BAE47E7B5D6824BB5C38" ID-DOI="http://doi.org/10.5281/zenodo.5607568" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550893" ID-ISSN="2118-9773" ID-Zenodo-Dep="5607568" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFFDCFFC6FDD9FEB0FCC8FC81" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Xenodiscidae Frech 1902" docType="treatment" docVersion="4" lastPageNumber="18" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="17" pageNumber="18" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7D40623A8C3DD00A7EB0FAF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599A54F798CD4853577E033BF">
+<mods:title id="13FDA20519C8600A6D41DCCC464CE1AB">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A675D9463BF534DCD537063C" type="personal">
+<mods:role id="51692204BF4BDAEEFE92B60CDF26F7A5">
+<mods:roleTerm id="BD2BD8394B1C48C760C40A2EB5FD1722">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4D8A341A7293506C222E5283">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812DC1FC9DF8D284D350FE8FE6" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F1367889F75B84A48064ED38">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48AFDA1657138320DA05D849" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A72870211693CD48DFD43F76BF74B" type="personal">
+<mods:role id="6C3D2CE051CB52B88A593E70A323E67D">
+<mods:roleTerm id="A932971289EFD3B77C52C2CACF7544E6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F44E03A8DECE127E533CE98">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB4B1E277B1DED66782227DD" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399499A352A9F13979564992E">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BCC2FA3C5CF606167C44851A" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD80638672D651BEE7885B615" type="personal">
+<mods:role id="EBC7D4EE926EFD9142604963DA27BC0B">
+<mods:roleTerm id="79F91492401FA19BF750603AF26A2466">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45389E92FB43B5B6ED0E737E">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD601DFCED47B5949E98D07CA" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD48C791869C9C17986CC76D">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F0D16AC00D13C12EB4C64C8" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E04870452336546C6E040A649" type="personal">
+<mods:role id="FAE14BA8E752D35E4A751E563104F676">
+<mods:roleTerm id="F5BB0DB9286BFFFC5A95890A7BA94924">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C0363D7F04FEE24D96842C343">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C6933D9CDE6F77EB94C105E527C" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3AB3379881BFE4C586916FD">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9F33E1934B039EC535449B0" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253EF4B7EEDB9FD277E917610" type="personal">
+<mods:role id="0763F0449FF72F98F1217FCD894E693E">
+<mods:roleTerm id="BB48773F38CC2B1F094032DEB719CEF7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9E5A31F9508514AEA54BAAD">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E79036ED191CB9A83335BBCE" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA763A059EEDEBAFCD98300B18">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9D31BDD5695C5736BE95140" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC50CEE5EECE99AECEDED769F" type="personal">
+<mods:role id="8B8CD05C29B39BBA5D1C5238B91EE47E">
+<mods:roleTerm id="ACB6128A21E94BAB4BFCAF65C90C4845">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E78638846BCDB9F7BFF408D84">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281E1B8579349286BAFF98BC4" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAAC2146DB2216C1F3142798E">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B5D378351D9709C038F856F5" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510F914669B2492811235383BC">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A30754FAFFFE3372F085538DE" type="host">
+<mods:titleInfo id="5E868733C61B3787BA813246663332ED">
+<mods:title id="C420E4A067AA3B2E9CEEDBB11FD6D9A3">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BFC17021E2C2D92D69CA87C7">
+<mods:date id="1DE35E379E6CB7E60D4C7D684A167DF3">2021</mods:date>
+<mods:detail id="2E547940F0447C76F084FB554AFDE105" type="pubDate">
+<mods:number id="A7A9FB10965F1F5FFB075C718E8AC354">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14C79C2F276332E46E211AE5" type="volume">
+<mods:number id="9C7A6814762F4DFC95D35546F7672116">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D3892200606FC182B9AA889D2" unit="page">
+<mods:start id="B9141DB8E55E8E8D83CA059789864CED">1</mods:start>
+<mods:end id="F9CBE60BDED7D52743CFDE21A5BA974C">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E748C2EDD333854A0036549">journal article</mods:classification>
+<mods:identifier id="8AB9541377D0943BEB497DFB017C09EC" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E120B9217303C21150E27C6B" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F8893DD69441C91DFADAE045B7" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48F374F38B9E22F4E85C5423" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEF4E7DD58BD72027AA4158B" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFFDCFFC6FDD9FEB0FCC8FC81" ID-DOI="http://doi.org/10.5281/zenodo.5607568" ID-GBIF-Taxon="189550893" ID-Zenodo-Dep="5607568" LSID="urn:lsid:plazi:treatment:03CC87BFFFDCFFC6FDD9FEB0FCC8FC81" httpUri="http://treatment.plazi.org/id/03CC87BFFFDCFFC6FDD9FEB0FCC8FC81" lastPageNumber="18" pageId="17" pageNumber="18">
+<subSubSection id="C37F6522FFDCFFC6FDD9FEB0FC52FE4A" box="[592,996,371,398]" pageId="17" pageNumber="18" type="nomenclature">
+<paragraph id="8BDA36A9FFDCFFC6FDD9FEB0FC52FE4A" blockId="17.[557,1031,265,398]" box="[592,996,371,398]" pageId="17" pageNumber="18">
+Family 
+<taxonomicName id="4C654D2AFFDCFFC6FD23FEB7FC52FE4A" authority="Frech, 1902" authorityName="Frech" authorityYear="1902" box="[682,996,371,398]" class="Cephalopoda" family="Xenodiscidae" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="family">
+<emphasis id="B911EABBFFDCFFC6FD23FEB7FCE6FE49" bold="true" box="[682,848,371,397]" pageId="17" pageNumber="18">Xenodiscidae</emphasis>
+Frech, 1902
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDCFFC6FF34FE71FBD8FD49" pageId="17" pageNumber="18" type="diagnosis">
+<paragraph id="8BDA36A9FFDCFFC6FF34FE71FE80FE0B" blockId="17.[189,310,437,463]" box="[189,310,437,463]" pageId="17" pageNumber="18">
+<heading id="D09281C5FFDCFFC6FF34FE71FE80FE0B" bold="true" box="[189,310,437,463]" fontSize="11" level="3" pageId="17" pageNumber="18" reason="3">
+<emphasis id="B911EABBFFDCFFC6FF34FE71FE80FE0B" bold="true" box="[189,310,437,463]" pageId="17" pageNumber="18">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDCFFC6FF34FE20FBD8FD49" blockId="17.[188,1399,484,653]" pageId="17" pageNumber="18">
+Representatives of the superfamily 
+<taxonomicName id="4C654D2AFFDCFFC6FDE0FE20FCA1FE3A" authorityName="Frech" authorityYear="1902" box="[617,791,484,510]" class="Cephalopoda" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="superFamily" superFamily="Xenodiscoidea">Xenodiscoidea</taxonomicName>
+with a small to moderately large conch, in which the ontogeny displays up to three stages, beginning with an unsculptured initial stage followed by a juvenile stage with transverse ribs, and an adult stage with a weakening of the sculpture. Suture line with unserrated or weakly serrated, short but rather wide external lobe; adventive, lateral and umbilical lobe often multidentate; some species with a simplified suture line without serrations.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDCFFC6FF34FD71FCC8FC81" pageId="17" pageNumber="18" type="reference_group">
+<paragraph id="8BDA36A9FFDCFFC6FF34FD71FE4DFD0B" blockId="17.[189,507,692,719]" box="[189,507,692,719]" pageId="17" pageNumber="18">
+<heading id="D09281C5FFDCFFC6FF34FD71FE4DFD0B" bold="true" box="[189,507,692,719]" fontSize="11" level="3" pageId="17" pageNumber="18" reason="3">
+<emphasis id="B911EABBFFDCFFC6FF34FD71FE4DFD0B" bold="true" box="[189,507,692,719]" pageId="17" pageNumber="18">Included Permian genera</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDCFFC6FF34FD20FCC8FC81" blockId="17.[189,1399,739,837]" pageId="17" pageNumber="18">
+<taxonomicName id="4C654D2AFFDCFFC6FF34FD20FDE7FD3A" authority="Teichert &amp; Kummel, 1973" authorityName="Teichert &amp; Kummel" authorityYear="1973" box="[189,593,739,766]" class="Cephalopoda" family="Xenodiscidae" genus="Iranites" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FF34FD20FEAEFD39" box="[189,280,740,765]" italics="true" pageId="17" pageNumber="18">Iranites</emphasis>
+<bibRefCitation id="EFF44B58FFDCFFC6FE94FD27FDE7FD3A" author="Teichert C. &amp; Kummel B. &amp; Sweet W. C." box="[285,593,739,766]" pageId="17" pageNumber="18" pagination="359 - 472" refId="ref42073" refString="Teichert C., Kummel B. &amp; Sweet W. C. 1973. Permian - Triassic strata, Kuh-e-Ali Bashi, Northwestern Iran. Bulletin of the Museum of Comparative Zoology, Harvard University 145 (8): 359 - 472." type="journal article" year="1973">Teichert &amp; Kummel, 1973</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FDD0FD27FC34FD3A" authority="Yang, 1987" authorityName="Yang" authorityYear="1987" box="[601,898,739,766]" class="Cephalopoda" family="Xenodiscidae" genus="Laibinoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FDD0FD27FD42FD39" box="[601,756,739,765]" italics="true" pageId="17" pageNumber="18">Laibinoceras</emphasis>
+<bibRefCitation id="EFF44B58FFDCFFC6FD73FD20FC34FD3A" author="Yang F." box="[762,898,740,766]" pageId="17" pageNumber="18" pagination="129 - 144" refId="ref42191" refString="Yang F. 1987. Late Late Permian strata and their ammonoid zones in Southwest China. Earth Science - Journal of Wuhan College of Geology 1985 (10): 129 - 144." type="journal article" year="1987">Yang, 1987</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FC00FD27FB0FFD3A" authority="Liang, 1983" authorityName="Liang" authorityYear="1983" box="[905,1209,739,766]" class="Cephalopoda" genus="Multisulcites" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FC00FD27FB97FD39" box="[905,1057,739,765]" italics="true" pageId="17" pageNumber="18">Multisulcites</emphasis>
+<bibRefCitation id="EFF44B58FFDCFFC6FBA0FD27FB0FFD3A" author="Liang X." box="[1065,1209,739,766]" pageId="17" pageNumber="18" pagination="606 - 615" refId="ref41464" refString="Liang X. 1983. New material of Permian ammonoids with discussion on the origin, migration of Araxoceratidae and the horizon of the Paratirolites. Acta Palaeontologica Sinica 22 (6): 606 - 615." type="journal article" year="1983">Liang, 1983</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FB48FD27FE71FCE5" authority="Zheng &amp; Chen, 1979" authorityName="Zheng &amp; Chen" authorityYear="1979" class="Cephalopoda" family="Xenodiscidae" genus="Paraceltitoides" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FB48FD27FAC2FD39" box="[1217,1396,739,765]" italics="true" pageId="17" pageNumber="18">Paraceltitoides</emphasis>
+Zheng &amp; Chen, 1979
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FE50FCC3FD58FCE5" authority="Yang, 1987" authorityName="Yang" authorityYear="1987" box="[473,750,775,802]" class="Cephalopoda" family="Xenodiscidae" genus="Penglaites" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FE50FCC3FDE3FCE5" box="[473,597,775,801]" italics="true" pageId="17" pageNumber="18">Penglaites</emphasis>
+<bibRefCitation id="EFF44B58FFDCFFC6FDE9FCCCFD58FCE5" author="Yang F." box="[608,750,775,802]" pageId="17" pageNumber="18" pagination="129 - 144" refId="ref42191" refString="Yang F. 1987. Late Late Permian strata and their ammonoid zones in Southwest China. Earth Science - Journal of Wuhan College of Geology 1985 (10): 129 - 144." type="journal article" year="1987">Yang, 1987</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FD76FCC3FBF3FCE6" authority="Shevyrev, 1965" authorityName="Shevyrev" authorityYear="1965" box="[767,1093,775,802]" class="Cephalopoda" family="Xenodiscidae" genus="Phisonites" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FD76FCC3FCCFFCE5" box="[767,889,775,801]" italics="true" pageId="17" pageNumber="18">Phisonites</emphasis>
+<bibRefCitation id="EFF44B58FFDCFFC6FC0FFCC3FBF3FCE6" author="Shevyrev A. A." box="[902,1093,775,802]" pageId="17" pageNumber="18" pagination="166 - 182" refId="ref41534" refString="Shevyrev A. A. 1965. Nadortyad Ammonoidea. In: Ruzhencev V. E. &amp; Sarytcheva T. G. (eds) Rasvitie i smena morskikh organizmov na rubezhe Paleozoya i Mezozoya. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 108: 166 - 182." type="journal article" year="1965">Shevyrev, 1965</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FBDFFCC3FE92FC81" authority="Teichert &amp; Kummel" authorityName="Teichert &amp; Kummel" authorityYear="1973" class="Cephalopoda" family="Xenodiscidae" genus="Shevyrevites" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FBDFFCC3FB5EFCE5" box="[1110,1256,775,801]" italics="true" pageId="17" pageNumber="18">Shevyrevites</emphasis>
+Teichert &amp; Kummel
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFDCFFC6FEC0FCEFFD82FC81" author="Teichert C. &amp; Kummel B. &amp; Sweet W. C." box="[329,564,811,837]" pageId="17" pageNumber="18" pagination="359 - 472" refId="ref42073" refString="Teichert C., Kummel B. &amp; Sweet W. C. 1973. Permian - Triassic strata, Kuh-e-Ali Bashi, Northwestern Iran. Bulletin of the Museum of Comparative Zoology, Harvard University 145 (8): 359 - 472." type="journal article" year="1973">
+Teichert 
+<emphasis id="B911EABBFFDCFFC6FE26FCE8FE5CFC81" box="[431,490,811,837]" italics="true" pageId="17" pageNumber="18">et al.</emphasis>
+, 1973
+</bibRefCitation>
+; 
+<taxonomicName id="4C654D2AFFDCFFC6FDCAFCEFFCCCFC81" authority="Waagen, 1879" authorityName="Waagen" authorityYear="1879" box="[579,890,811,837]" class="Cephalopoda" family="Xenodiscidae" genus="Xenodiscus" kingdom="Animalia" order="Ammonoidea" pageId="17" pageNumber="18" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDCFFC6FDCAFCEFFD7FFC81" box="[579,713,811,837]" italics="true" pageId="17" pageNumber="18">Xenodiscus</emphasis>
+Waagen, 1879
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

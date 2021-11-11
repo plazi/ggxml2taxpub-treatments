@@ -1,0 +1,376 @@
+<document id="D5C1EB64B08481B93E29A58D27762A37" ID-DOI="http://doi.org/10.5281/zenodo.5534394" ID-GBIF-Dataset="d2ee0981-75c7-4e5c-9618-2d9dd18ac823" ID-GBIF-Taxon="188518812" ID-ISSN="2118-9773" ID-Zenodo-Dep="5534394" ID-ZooBank="19110F18-6E35-4C50-B362-7BC742B0B5D5" _generate="added" checkinTime="1631927040333" checkinUser="felipe" docAuthor="Goharimanesh, Mona, Stöhr, Sabine, Mirshamsi, Omid, Ghassemzadeh, Fereshteh &amp; Adriaens, Dominique" docDate="2021" docId="3B7687F6423C6277D522FA0CFA9AFC3F" docLanguage="en" docName="ejt-766_1-63.pdf" docOrigin="European Journal of Taxonomy 766 (1)" docSource="http://dx.doi.org/10.5852/ejt.2021.766.1483" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Ophiopteridae O'Hara, Stohr, Hugall, Thuy &amp; Martynov 2018" docType="treatment" docVersion="5" lastPageId="31" lastPageNumber="34" masterDocId="C74FFF8E42226268D457FF89FF82FFB0" masterDocTitle="Interactive identification key to all brittle star families (Echinodermata; Ophiuroidea) leads to revised morphological descriptions" masterLastPageNumber="63" masterPageNumber="1" pageId="30" pageNumber="31" updateTime="1632839708501" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="FE9ED71E22F7086C13E3992692310E33" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D07134A53B98A1986D1DC28C6DADBDD3">
+<mods:title id="46B7EE3FFFE4C785E9F9F88526216DB9">Interactive identification key to all brittle star families (Echinodermata; Ophiuroidea) leads to revised morphological descriptions</mods:title>
+</mods:titleInfo>
+<mods:name id="D433CF588E1CDDE8C5DBF5AD83C83C44" type="personal">
+<mods:role id="C7C849B99807732A4B76AE7C2C8EC42A">
+<mods:roleTerm id="9973F72E4A67AEC8EF143002BEB0B3B1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E485C5518B8A76B70BB7DF8C319F7E4E">Goharimanesh, Mona</mods:namePart>
+<mods:nameIdentifier id="80E10E819341813758CC71252A3E7D4A" type="LSID">CA669FA6-7D88-4648-AB18-2EE47C2B5ECA</mods:nameIdentifier>
+<mods:affiliation id="419DB4D186DD932F303A290AF6B3FEA3">Ferdowsi University of Mashhad, Faculty of Science, Department of Biology, Mashhad, Iran. &amp; Ghent University, Research Group Evolutionary Morphology of Vertebrates, Gent, Belgium. &amp; Mona.</mods:affiliation>
+<mods:nameIdentifier id="51C96ED5E9C882230C5416FCBAADA546" type="email">Mona.goharimanesh@ugent.be</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5384665FFEAA6B0690060C205548B0F4" type="personal">
+<mods:role id="3E4AF382E19A28EB7B3D61F7E720AECD">
+<mods:roleTerm id="7163617BA00ABCAA7DA18306911BA6E6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1DF250CD6F40B35F9A65CFD360577766">Stöhr, Sabine</mods:namePart>
+<mods:nameIdentifier id="3BACB192438B82C24712ACAEF2181302" type="LSID">412800EB-AACE-4313-9810-61F89B740405</mods:nameIdentifier>
+<mods:affiliation id="0AC63522837FDC4557F430F4CC422461">Swedish Museum of Natural History, Department of Zoology, Stockholm, Sweden.</mods:affiliation>
+<mods:nameIdentifier id="3ED49AC588A8032388CC7CB89A121CBB" type="email">Sabine.Stohr@nrm.se(SS),Mirshams@um.ac.ir(OM)</mods:nameIdentifier>
+</mods:name>
+<mods:name id="50D6D550AAE0B4D11C1E5E96A60C2F3B" type="personal">
+<mods:role id="9FBB679126B82FD774FC2C8FF5F18A73">
+<mods:roleTerm id="1926303283FA3D1714F5CA9639A6DCFB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="07F57F95AF331CF982235579BC62BCF5">Mirshamsi, Omid</mods:namePart>
+<mods:nameIdentifier id="AD128B5A6FCB234815F4C9415AA87F94" type="LSID">DF3B1646-D647-4C89-BA2B-FEB0225ABC5B</mods:nameIdentifier>
+<mods:affiliation id="F449954FF8CDDF83B896F6978B54EFF3">Ferdowsi University of Mashhad, Faculty of Science, Department of Biology, Mashhad, Iran. &amp; Research Department of Zoological Innovations (RDZI), Institute of Applied Zoology, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="A09055C37336E6870EA95ADB0CC386BA" type="email">Sabine.Stohr@nrm.se(SS),Mirshams@um.ac.ir(OM)</mods:nameIdentifier>
+</mods:name>
+<mods:name id="BB76C9F5C66DB5E2663EDA1068CDF27C" type="personal">
+<mods:role id="1C42D16174FFFD09251144FD75698638">
+<mods:roleTerm id="F64AE7A886EE2D0EF9A5938F70492B6D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0058C06A7DDB2AD9BB0C8A0E8A94F43C">Ghassemzadeh, Fereshteh</mods:namePart>
+<mods:nameIdentifier id="A4081E65424DF4F498E1C7F941EA85E2" type="LSID">8E35EC47-0572-4CCD-9308-2486A90ACDDC</mods:nameIdentifier>
+<mods:affiliation id="D6FDF7037058B662369632A1320EBDAC">Ferdowsi University of Mashhad, Faculty of Science, Department of Biology, Mashhad, Iran</mods:affiliation>
+<mods:nameIdentifier id="BBCE76218205B4387A46F94859197B9D" type="email">Ghasemzd@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="4D1070448BED278E40D6AABD3B7A6966" type="personal">
+<mods:role id="AA3811C327F3CF27FF2764E2885390EF">
+<mods:roleTerm id="BB71242BA77FFE857D8F6A305A6E4689">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="34A7245470F7164EAE5A23F44D58E118">Adriaens, Dominique</mods:namePart>
+<mods:nameIdentifier id="10A58ECF6D4C6B254F153095E3A2D334" type="LSID">C3CF8EFE-3582-4D05-9445-395971CF7661</mods:nameIdentifier>
+<mods:affiliation id="B304865E62D187D40FCB40BA62BB7FA9">Ghent University, Research Group Evolutionary Morphology of Vertebrates, Gent, Belgium. &amp; Dominique.</mods:affiliation>
+<mods:nameIdentifier id="BA0F27DA1C106927CC2AFD442C493DC4" type="email">Dominique.Adriaens@ugent.be</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="3A540A372A22228EF5DFEF62BAD0A15C">text</mods:typeOfResource>
+<mods:relatedItem id="06389848C405D283A2BC307974020589" type="host">
+<mods:titleInfo id="8C1A8FB98D7723DEBDFA2EE88C7395EB">
+<mods:title id="09922E3B025A0EBB96D0E7D8DA1CA47F">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="7E73F3CF672DE1ED9A0141C67B3AEB61">
+<mods:date id="83BA1DAEDF365C17126B30E9634336FA">2021</mods:date>
+<mods:detail id="7B725DC73F024F95E1205A1F3D24EB6C" type="pubDate">
+<mods:number id="E9E78D0060F04706A6AA1D9BD92C37D6">2021-08-31</mods:number>
+</mods:detail>
+<mods:detail id="90972762521B9EB1F1DB9B241A8C7D24" type="volume">
+<mods:number id="369EDC9A17FF7A8557DAEC5ED1F8FE1D">766</mods:number>
+</mods:detail>
+<mods:detail id="EB626F0D9AF2618186ECE00A0C7991D3" type="issue">
+<mods:number id="7365D79AC1D498A79A59E068AB829F2D">1</mods:number>
+</mods:detail>
+<mods:extent id="720023950CDDA060EA7AAA304225CA36" unit="page">
+<mods:start id="EB041E8791E32304F3185BDC10FFD8D7">1</mods:start>
+<mods:end id="5026C8F59BB63CF12661DAC1D52244BD">63</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="A62549309132327949E39F8BDFBDFAFE">
+<mods:url id="7E5703379A2A481ED6EE51FBC5F1AA47">http://dx.doi.org/10.5852/ejt.2021.766.1483</mods:url>
+</mods:location>
+<mods:classification id="BC86BF5B422DD4DC79B1FAF2E28F452C">journal article</mods:classification>
+<mods:identifier id="D96558BC1F55DF8AFF4CBAEE57A676D5" type="DOI">https://doi.org/10.5852/ejt.2021.766.1483</mods:identifier>
+<mods:identifier id="FFEA775B4C4AB08DCF14D826B7459329" type="GBIF-Dataset">d2ee0981-75c7-4e5c-9618-2d9dd18ac823</mods:identifier>
+<mods:identifier id="AC5A4922B96C295B7DA3F0251B3BB43C" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="3746AA0BA2E6E887398A08EB6D7E1E0A" type="Zenodo-Dep">5514587</mods:identifier>
+<mods:identifier id="4E5ED98A78A29C1301F2C65C35E47ED8" type="ZooBank">19110F18-6E35-4C50-B362-7BC742B0B5D5</mods:identifier>
+</mods:mods>
+<treatment id="3B7687F6423C6277D522FA0CFA9AFC3F" ID-DOI="http://doi.org/10.5281/zenodo.5534394" ID-GBIF-Taxon="188518812" ID-Zenodo-Dep="5534394" LSID="urn:lsid:plazi:treatment:3B7687F6423C6277D522FA0CFA9AFC3F" httpUri="http://treatment.plazi.org/id/3B7687F6423C6277D522FA0CFA9AFC3F" lastPageId="31" lastPageNumber="34" pageId="30" pageNumber="31">
+<subSubSection id="FBC5656B423C6276D522FA0CFB3CFA2F" box="[373,1214,1413,1440]" pageId="30" pageNumber="31" type="nomenclature">
+<paragraph id="B36036E0423C6276D522FA0CFB3CFA2F" blockId="30.[373,1214,1413,1440]" box="[373,1214,1413,1440]" pageId="30" pageNumber="31">
+Family 
+<taxonomicName id="74DF4D63423C6276D587FA0CFB3CFA2F" authority="O'Hara, Stohr, Hugall, Thuy &amp; Martynov, 2018" authorityName="O'Hara, Stohr, Hugall, Thuy &amp; Martynov" authorityYear="2018" box="[464,1214,1413,1440]" class="Ophiuroidea" family="Ophiopteridae" kingdom="Animalia" order="Ophiacanthida" pageId="30" pageNumber="31" phylum="Echinodermata" rank="family">
+<emphasis id="81ABEAF2423C6276D587FA0CFD05FA2F" bold="true" box="[464,647,1413,1439]" pageId="30" pageNumber="31">Ophiopteridae</emphasis>
+<bibRefCitation id="D74E4B11423C6276D6D9FA0CFB3CFA2F" author="O'Hara T. D. &amp; Stohr S. &amp; Hugall A. F. &amp; Thuy B. &amp; Martynov A." box="[654,1214,1413,1440]" pageId="30" pageNumber="31" pagination="1 - 35" refId="ref34900" refString="O'Hara T. D., Stohr S., Hugall A. F., Thuy B. &amp; Martynov A. 2018. Morphological diagnoses of higher taxa in Ophiuroidea (Echinodermata) in support of a new classification. European Journal of Taxonomy 416: 1 - 35. https: // doi. org / 10.5852 / ejt. 2018.416" type="journal article" year="2018">O’Hara, Stöhr, Hugall, Thuy &amp; Martynov, 2018</bibRefCitation>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B423C6276D4EAFA4EFD7EF9A1" pageId="30" pageNumber="31" type="type_taxon">
+<paragraph id="B36036E0423C6276D4EAFA4EFEC8FA51" blockId="30.[189,330,1479,1505]" box="[189,330,1479,1505]" pageId="30" pageNumber="31">
+<heading id="E828818C423C6276D4EAFA4EFEC8FA51" bold="true" box="[189,330,1479,1505]" fontSize="11" level="3" pageId="30" pageNumber="31" reason="3">
+<emphasis id="81ABEAF2423C6276D4EAFA4EFEC8FA51" bold="true" box="[189,330,1479,1505]" pageId="30" pageNumber="31">
+<typeStatus id="6C648842423C6276D4EAFA4EFF78FA51" box="[189,250,1479,1505]" pageId="30" pageNumber="31">Type</typeStatus>
+genus
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E0423C6276D4EAFA7FFD7EF9A1" blockId="30.[189,764,1526,1553]" box="[189,764,1526,1553]" pageId="30" pageNumber="31">
+<taxonomicName id="74DF4D63423C6276D4EAFA7FFDA2F9A0" authority="E. A. Smith, 1877" authorityName="E. A. Smith" authorityYear="1877" box="[189,544,1526,1552]" class="Ophiuroidea" family="Ophiopteridae" genus="Ophiopteris" kingdom="Animalia" order="Ophiacanthida" pageId="30" pageNumber="31" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF2423C6276D4EAFA7FFECBF9A0" box="[189,329,1526,1552]" italics="true" pageId="30" pageNumber="31">Ophiopteris</emphasis>
+E.A. Smith, 1877
+</taxonomicName>
+. (No other genera)
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B423C6277D4EAF9B1FB3EFC57" lastPageId="31" lastPageNumber="32" pageId="30" pageNumber="31" type="description">
+<subSubSection id="FBC5656B423C6277D4EAF9B1FA9AFC3F" lastPageId="31" lastPageNumber="32" pageId="30" pageNumber="31" type="description">
+<paragraph id="B36036E0423C6276D4EAF9B1FECCF9E2" blockId="30.[189,334,1592,1618]" box="[189,334,1592,1618]" pageId="30" pageNumber="31">
+<heading id="E828818C423C6276D4EAF9B1FECCF9E2" bold="true" box="[189,334,1592,1618]" fontSize="11" level="3" pageId="30" pageNumber="31" reason="3">
+<emphasis id="81ABEAF2423C6276D4EAF9B1FECCF9E2" bold="true" box="[189,334,1592,1618]" pageId="30" pageNumber="31">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E0423C6277D4EAF9E1FC35FEF6" blockId="30.[188,1400,1640,2025]" lastBlockId="31.[189,1398,265,327]" lastPageId="31" lastPageNumber="32" pageId="30" pageNumber="31">ARM. Arm shape unbranched; length 3–4× disc diameter; covering without granules/spines/tubercles. Arm combs absent. Dorsal arm plate present. Accessory dorsal arm plate absent. Ventral arm plate present. Accessory ventral arm plate present. Girdle of tiny hooks on the arms absent. Spines all similar in shape. Arm spine cross section round, or oval. The ratio of thickness of distal ⅓ of arm spine to maximum thickness (in a given cross-sectional plane) 0.9–1. Arm spines flat or cylindrical; mainly lateral; predominantly erect, standing perpendicular to arm axis. Longest arm spines longer than two segments. Tentacle scales present; pores visible along most of the arm; nearly as long as wide; shorter than the spine nearby; cross section round. Position of lateral arm plate (LAP) arched (wrapped around the arm). Dorsal and/or ventral edge(s) of LAPs without constriction. Ventral position of LAP projecting ventroproximalwards. Ventro-distal tip of LAP projecting ventralwards. Arm spine articulation with dorsal and ventral lobes; with a fully developed sigmoidal fold; arranged over entire distal LAP edge; larger in middle of arm. Distance between spine articulations equal. Nerve and muscle openings separated by small ridge if at all. Nerve opening smaller than muscle opening.</paragraph>
+<paragraph id="B36036E0423D6277D4EAFEE7FE2AFE41" blockId="31.[189,1398,366,498]" pageId="31" pageNumber="32">DORSAL DISC. Disc pentagonal or circular; high (above arm level). Integument obscuring plates. Dorsal disc with granules; with concealed primary plates; with scales; without spines. Dorsal disc scale/plate without tubercles. Radial shield present; with granules; length more than half of the disc radius; scalene (oblique) triangular.</paragraph>
+<paragraph id="B36036E0423D6277D4EAFD90FD26FCFE" blockId="31.[189,1400,537,846]" pageId="31" pageNumber="32">VENTRAL DISC. Gonads restricted to the disc. Ventral interradii with spines. Scales on ventral interradii absent. Ventral teeth several (tooth papillae). Infradental papillae on oral plate present. Buccal scales on OP absent. Accessory oral papillae on OP absent. Lateral oral papillae on OP present; single row of lateral papillae; spiniform. Adoral shield spine present. Lyman’s ossicle present. Oral shield covering more than one third of the length of an interradius; about as long as wide. Madreporite no data. Adoral shield separated. Abradial genital plate not twisted. Number of genital slits one per bursa. Genital slit longer than half the length of an interradius. Genital papillae absent. Dental plate dorsal half widest; entire. Dental sockets heart-shaped(?); equal to or more than 50% of the width. Teeth flat (with round or slightly pointed tip, but never spine-like).</paragraph>
+<paragraph id="B36036E0423D6277D4EAFCFCFA9AFC3F" blockId="31.[189,1304,885,912]" box="[189,1304,885,912]" pageId="31" pageNumber="32">VERTEBRAE. Vertebrae zygospondylous; beyond segment 5 with short keel; without oral bridge.</paragraph>
+</subSubSection>
+<treatment id="3B7687F6423D6248D52FFC44FA9AFE44" ID-DOI="http://doi.org/10.5281/zenodo.5534396" ID-GBIF-Taxon="188518811" ID-Zenodo-Dep="5534396" LSID="urn:lsid:plazi:treatment:3B7687F6423C6277D522FA0CFA9AFC3F" httpUri="http://treatment.plazi.org/id/3B7687F6423C6277D522FA0CFA9AFC3F" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32">
+<subSubSection id="FBC5656B423D6277D52FFC44FB3EFC57" box="[376,1212,973,999]" pageId="31" pageNumber="32" type="nomenclature">
+<paragraph id="B36036E0423D6277D52FFC44FB3EFC57" blockId="31.[376,1212,973,999]" box="[376,1212,973,999]" pageId="31" pageNumber="32">
+Family 
+<taxonomicName id="74DF4D63423D6277D585FC44FB3EFC57" authority="O'Hara, Stohr, Hugall, Thuy &amp; Martynov, 2018" authorityName="O'Hara, Stohr, Hugall, Thuy &amp; Martynov" authorityYear="2018" box="[466,1212,973,999]" class="Ophiuroidea" family="Clarkcomidae" kingdom="Animalia" order="Ophiacanthida" pageId="31" pageNumber="32" phylum="Echinodermata" rank="family">
+<emphasis id="81ABEAF2423D6277D585FC44FD06FC57" bold="true" box="[466,644,973,999]" pageId="31" pageNumber="32">Clarkcomidae</emphasis>
+<bibRefCitation id="D74E4B11423D6277D6DCFC44FB3EFC57" author="O'Hara T. D. &amp; Stohr S. &amp; Hugall A. F. &amp; Thuy B. &amp; Martynov A." box="[651,1212,973,999]" pageId="31" pageNumber="32" pagination="1 - 35" refId="ref34900" refString="O'Hara T. D., Stohr S., Hugall A. F., Thuy B. &amp; Martynov A. 2018. Morphological diagnoses of higher taxa in Ophiuroidea (Echinodermata) in support of a new classification. European Journal of Taxonomy 416: 1 - 35. https: // doi. org / 10.5852 / ejt. 2018.416" type="journal article" year="2018">O’Hara, Stöhr, Hugall, Thuy &amp; Martynov, 2018</bibRefCitation>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B423D6277D4EAFB86FD54FBE8" pageId="31" pageNumber="32" type="type_taxon">
+<paragraph id="B36036E0423D6277D4EAFB86FEC8FB99" blockId="31.[189,330,1039,1065]" box="[189,330,1039,1065]" pageId="31" pageNumber="32">
+<heading id="E828818C423D6277D4EAFB86FEC8FB99" bold="true" box="[189,330,1039,1065]" fontSize="11" level="3" pageId="31" pageNumber="32" reason="3">
+<emphasis id="81ABEAF2423D6277D4EAFB86FEC8FB99" bold="true" box="[189,330,1039,1065]" pageId="31" pageNumber="32">
+<typeStatus id="6C648842423D6277D4EAFB86FF78FB99" box="[189,250,1039,1065]" pageId="31" pageNumber="32">Type</typeStatus>
+genus
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E0423D6277D4EAFBB4FD54FBE8" blockId="31.[189,726,1085,1112]" box="[189,726,1085,1112]" pageId="31" pageNumber="32">
+<taxonomicName id="74DF4D63423D6277D4EAFBB4FE78FBE7" authority="Devaney, 1970" authorityName="Devaney" authorityYear="1970" box="[189,506,1085,1112]" class="Ophiuroidea" family="Clarkcomidae" genus="Clarkcoma" kingdom="Animalia" order="Ophiacanthida" pageId="31" pageNumber="32" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF2423D6277D4EAFBB4FEBDFBE7" box="[189,319,1085,1111]" italics="true" pageId="31" pageNumber="32">Clarkcoma</emphasis>
+<bibRefCitation id="D74E4B11423D6277D510FBB7FE78FBE7" author="Devaney D. M." box="[327,506,1085,1112]" pageId="31" pageNumber="32" pagination="1 - 41" refId="ref34045" refString="Devaney D. M. 1970. Studies on ophiocomid brittlestars. I. A new genus (Clarkcoma) of Ophiocominae with a reevaluation of the genus Ophiocoma. Smithsonian Contributions to Zoology 51: 1 - 41. https: // doi. org / 10.5479 / si. 00810282.51" type="journal article" year="1970">Devaney, 1970</bibRefCitation>
+</taxonomicName>
+. (No other genera)
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B423D6248D4EAFBF7FB92FDFC" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32" type="description">
+<subSubSection id="FBC5656B423D6248D4EAFBF7FA9AFE44" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32" type="description">
+<paragraph id="B36036E0423D6277D4EAFBF7FECCFB28" blockId="31.[189,334,1150,1176]" box="[189,334,1150,1176]" pageId="31" pageNumber="32">
+<heading id="E828818C423D6277D4EAFBF7FECCFB28" bold="true" box="[189,334,1150,1176]" fontSize="11" level="3" pageId="31" pageNumber="32" reason="3">
+<emphasis id="81ABEAF2423D6277D4EAFBF7FECCFB28" bold="true" box="[189,334,1150,1176]" pageId="31" pageNumber="32">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E0423D6277D4EAFB24FC77F9DE" blockId="31.[187,1399,1197,1647]" pageId="31" pageNumber="32">ARM. Arm shape unbranched; length 3–4× disc diameter; covering without granules/spines/tubercles. Arm combs absent. Dorsal arm plate present.Accessory dorsal arm plate absent. Ventral arm plate present. Accessory ventral arm plate absent. Girdle of tiny hooks on the arms absent. Spines all similar in shape. Arm spine cross section oval. The ratio of thickness of distal ⅓ of arm spine to maximum thickness (in a given cross-sectional plane) 0.6–0.9. Arm spines flat; mainly lateral; predominantly erect, standing perpendicular to arm axis. Longest arm spines longer than two segments. Tentacle scales present; pores visible along most of the arm; more than two times as long as wide; shorter than the spine nearby; cross section oval. Position of lateral arm plate (LAP) arched (wrapped around the arm). Dorsal and/or ventral edge(s) of LAPs with constriction. Ventral position of LAP projecting ventro-proximalwards. Ventrodistal tip of LAP not projecting ventralwards. Arm spine articulation with dorsal and ventral lobes; with a fully developed sigmoidal fold; arranged over entire distal LAP edge; dorsalwards increasing in size. Distance between spine articulations equal. Nerve and muscle openings separated by large, prominent ridge or regular stereom. Nerve opening smaller than muscle opening.</paragraph>
+<paragraph id="B36036E0423D6277D4EAF91FFB3FF946" blockId="31.[189,1398,1686,1783]" pageId="31" pageNumber="32">DORSAL DISC. Disc circular; flat (about same level as arms). Integument obscuring plates. Dorsal disc with granules; with concealed primary plates; with scales; without spines. Dorsal disc scale/plate without tubercles. Radial shield present; with granules; length more than half of the disc radius.</paragraph>
+<paragraph id="B36036E0423D6248D4EAF897FAF5FE02" blockId="31.[187,1400,1822,2025]" lastBlockId="32.[188,1399,265,435]" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32">VENTRAL DISC. Gonads restricted to the disc. Ventral interradii with granules. Scales on ventral interradii covering the whole area of an interradius. The number of scales on H line of an interradius no data. Ventral teeth several (tooth papillae). Infradental papillae on oral plate present. Buccal scales on OP absent. Accessory oral papillae on OP absent. Lateral oral papillae on OP present; single row of lateral papillae; paddle-shaped. Adoral shield spine present. Lyman’s ossicle present. Oral shield covering less than one third of interradius; about as long as wide. Madreporite no data. Adoral shield meeting in front of the oral shield. Abradial genital plate not twisted. Number of genital slits one per bursa. Genital slit longer than half the length of an interradius. Genital papillae absent. Dental plate of equal width all over; entire (single plate). Dental sockets slit-shaped and circular; equal to or more than 50% of the width. At least one socket on DP as perforation with septum. Teeth flat (with round or slightly pointed tip, but never spine-like). Teeth on DP arranged as a single row on ⅔ and a cluster of tooth papillae on ⅓ of dental plate.</paragraph>
+<paragraph id="B36036E042026248D4EAFE53FA9AFE44" blockId="32.[189,1304,474,501]" box="[189,1304,474,501]" pageId="32" pageNumber="33">VERTEBRAE. Vertebrae zygospondylous; beyond segment 5 with short keel; without oral bridge.</paragraph>
+</subSubSection>
+<treatment id="3B7687F642026249D673FDBBFA9AFD34" ID-DOI="http://doi.org/10.5281/zenodo.5527097" ID-GBIF-Taxon="188518844" ID-Zenodo-Dep="5527097" LSID="urn:lsid:plazi:treatment:3B7687F6423C6277D522FA0CFA9AFC3F" httpUri="http://treatment.plazi.org/id/3B7687F6423C6277D522FA0CFA9AFC3F" lastPageId="33" lastPageNumber="34" pageId="32" pageNumber="33">
+<subSubSection id="FBC5656B42026248D673FDBBFB92FDFC" box="[548,1040,562,588]" pageId="32" pageNumber="33" type="nomenclature">
+<paragraph id="B36036E042026248D673FDBBFB92FDFC" blockId="32.[548,1040,562,588]" box="[548,1040,562,588]" pageId="32" pageNumber="33">
+Family 
+<taxonomicName id="74DF4D6342026248D629FDBBFB92FDFC" authority="Ljungman, 1867" authorityName="Ljungman" authorityYear="1867" box="[638,1040,562,588]" class="Ophiuroidea" family="Ophiacanthidae" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="family">
+<emphasis id="81ABEAF242026248D629FDBBFCC4FDFC" bold="true" box="[638,838,562,588]" pageId="32" pageNumber="33">Ophiacanthidae</emphasis>
+Ljungman, 1867
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B42026248D4EAFDFCFD0BFD0E" pageId="32" pageNumber="33" type="type_taxon">
+<paragraph id="B36036E042026248D4EAFDFCFEC8FD3F" blockId="32.[189,330,629,655]" box="[189,330,629,655]" pageId="32" pageNumber="33">
+<heading id="E828818C42026248D4EAFDFCFEC8FD3F" bold="true" box="[189,330,629,655]" fontSize="11" level="3" pageId="32" pageNumber="33" reason="3">
+<emphasis id="81ABEAF242026248D4EAFDFCFEC8FD3F" bold="true" box="[189,330,629,655]" pageId="32" pageNumber="33">
+<typeStatus id="6C64884242026248D4EAFDFCFF78FD3F" box="[189,250,629,655]" pageId="32" pageNumber="33">Type</typeStatus>
+genus
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E042026248D4EAFD2AFD0BFD0E" blockId="32.[189,649,675,702]" box="[189,649,675,702]" pageId="32" pageNumber="33">
+<taxonomicName id="74DF4D6342026248D4EAFD2AFD07FD0E" authority="Muller &amp; Troschel, 1842" authorityName="Muller &amp; Troschel" authorityYear="1842" box="[189,645,675,702]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D4EAFD2AFED4FD0D" box="[189,342,675,701]" italics="true" pageId="32" pageNumber="33">Ophiacantha</emphasis>
+Müller &amp; Troschel, 1842
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B42026248D4EAFD6CFDE3FC0E" pageId="32" pageNumber="33" type="reference_group">
+<paragraph id="B36036E042026248D4EAFD6CFEE6FCB0" blockId="32.[189,356,741,768]" box="[189,356,741,768]" pageId="32" pageNumber="33">
+<heading id="E828818C42026248D4EAFD6CFEE6FCB0" bold="true" box="[189,356,741,768]" fontSize="11" level="3" pageId="32" pageNumber="33" reason="3">
+<emphasis id="81ABEAF242026248D4EAFD6CFEE6FCB0" bold="true" box="[189,356,741,768]" pageId="32" pageNumber="33">Other genera</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E042026248D4EAFC9DFDE3FC0E" blockId="32.[189,1401,788,958]" pageId="32" pageNumber="33">
+<taxonomicName id="74DF4D6342026248D4EAFC9DFE73FC9F" authority="Verrill, 1899" authorityName="Verrill" authorityYear="1899" box="[189,497,788,815]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophialcaea" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D4EAFC9DFECBFC9E" box="[189,329,788,814]" italics="true" pageId="32" pageNumber="33">Ophialcaea</emphasis>
+Verrill, 1899
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D656FC9DFCC6FC9F" authority="Verrill, 1899" authorityName="Verrill" authorityYear="1899" box="[513,836,788,815]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophientrema" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D656FC9DFD1CFC9E" box="[513,670,788,814]" italics="true" pageId="32" pageNumber="33">Ophientrema</emphasis>
+Verrill, 1899
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D703FC9DFB2FFC9F" authority="Koehler, 1922" authorityName="Koehler" authorityYear="1922" box="[852,1197,788,815]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiocanops" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D703FC9DFC76FC9E" box="[852,1012,788,814]" italics="true" pageId="32" pageNumber="33">Ophiocanops</emphasis>
+<bibRefCitation id="D74E4B1142026248D7ABFC9DFB2FFC9F" author="Koehler R." box="[1020,1197,788,815]" pageId="32" pageNumber="33" refId="ref34274" refString="Koehler R. 1922. Ophiurans of the Philippine Seas and Adjacent Waters. US Government Printing Office, Washington. https: // doi. org / 10.5962 / bhl. title. 32917" type="book" year="1922">Koehler, 1922</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D0E9FC9DFEE1FCE2" authority="Lyman, 1869" authorityName="Lyman" authorityYear="1869" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiochondrus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D0E9FC9DFAFBFC9E" box="[1214,1401,788,814]" italics="true" pageId="32" pageNumber="33">Ophiochondrus</emphasis>
+Lyman, 1869
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D525FCB1FCADFCE2" authority="O'Hara &amp; Stohr, 2006" authorityName="O'Hara &amp; Stohr" authorityYear="2006" box="[370,815,824,850]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiohamus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D525FCB1FD8EFCE2" box="[370,524,824,850]" italics="true" pageId="32" pageNumber="33">Ophiohamus</emphasis>
+O’Hara &amp; Stöhr, 2006
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D769FCB1FBFAFCE2" authority="Lyman, 1878" authorityName="Lyman" authorityYear="1878" box="[830,1144,824,851]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolebes" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D769FCB1FC45FCE2" box="[830,967,824,850]" italics="true" pageId="32" pageNumber="33">Ophiolebes</emphasis>
+Lyman, 1878
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D0D0FCB1FE82FCC6" authority="Verrill, 1899" authorityName="Verrill" authorityYear="1899" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D0D0FCB1FA95FCE2" box="[1159,1303,824,850]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+Verrill, 1899
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D547FCD5FDEDFCC6" authority="Verrill, 1899" authorityName="Verrill" authorityYear="1899" box="[272,623,860,886]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiomitrella" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D547FCD5FE3FFCC6" box="[272,445,860,886]" italics="true" pageId="32" pageNumber="33">Ophiomitrella</emphasis>
+Verrill, 1899
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D6D6FCD5FC64FCC6" authority="Koehler, 1904" authorityName="Koehler" authorityYear="1904" box="[641,998,860,886]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiomoeris" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D6D6FCD5FCA3FCC6" box="[641,801,860,886]" italics="true" pageId="32" pageNumber="33">Ophiomoeris</emphasis>
+Koehler, 1904
+</taxonomicName>
+; ‘ 
+<taxonomicName id="74DF4D6342026248D055FCD5FB4CFCC6" authority="Matsumoto, 1917" authorityName="Matsumoto" authorityYear="1917" box="[1026,1230,860,886]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiophthalmus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D055FCD5FB4CFCC6" box="[1026,1230,860,886]" italics="true" pageId="32" pageNumber="33">Ophiophthalmus</emphasis>
+</taxonomicName>
+’ 
+<bibRefCitation id="D74E4B1142026248D0B3FCD4FF7FFC2A" author="Matsumoto H." pageId="32" pageNumber="33" pagination="1 - 408" refId="ref34685" refString="Matsumoto H. 1917. A monograph of Japanese Ophiuroidea, arranged according to a new classification. Journal of the College of Science, Imperial University, Tokyo 38: 1 - 408." type="journal article" year="1917">Matsumoto, 1917</bibRefCitation>
+; 
+<taxonomicName id="74DF4D6342026248D55AFC09FDF7FC2A" authority="Verrill, 1899" authorityName="Verrill" authorityYear="1899" box="[269,629,896,922]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophioplinthaca" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D55AFC09FE49FC2A" box="[269,459,896,922]" italics="true" pageId="32" pageNumber="33">Ophioplinthaca</emphasis>
+Verrill, 1899
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D6D2FC09FC43FC2A" authority="Koehler, 1922" authorityName="Koehler" authorityYear="1922" box="[645,961,896,922]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophioripa" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D6D2FC09FC81FC2A" box="[645,771,896,922]" italics="true" pageId="32" pageNumber="33">Ophioripa</emphasis>
+<bibRefCitation id="D74E4B1142026248D759FC09FC43FC2A" author="Koehler R." box="[782,961,896,922]" pageId="32" pageNumber="33" refId="ref34274" refString="Koehler R. 1922. Ophiurans of the Philippine Seas and Adjacent Waters. US Government Printing Office, Washington. https: // doi. org / 10.5962 / bhl. title. 32917" type="book" year="1922">Koehler, 1922</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D787FC09FAF0FC2A" authority="Matsumoto, 1917" authorityName="Matsumoto" authorityYear="1917" box="[976,1394,896,922]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiosemnotes" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D787FC09FB08FC2A" box="[976,1162,896,922]" italics="true" pageId="32" pageNumber="33">Ophiosemnotes</emphasis>
+<bibRefCitation id="D74E4B1142026248D0C1FC09FAF0FC2A" author="Matsumoto H." box="[1174,1394,896,922]" pageId="32" pageNumber="33" pagination="1 - 408" refId="ref34685" refString="Matsumoto H. 1917. A monograph of Japanese Ophiuroidea, arranged according to a new classification. Journal of the College of Science, Imperial University, Tokyo 38: 1 - 408." type="journal article" year="1917">Matsumoto, 1917</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="74DF4D6342026248D4EAFC2AFDDEFC0E" authority="Matsumoto, 1917" authorityName="Matsumoto" authorityYear="1917" box="[189,604,931,958]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiurothamnus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D4EAFC2AFE01FC0D" box="[189,387,931,957]" italics="true" pageId="32" pageNumber="33">Ophiurothamnus</emphasis>
+<bibRefCitation id="D74E4B1142026248D5DDFC2DFDDEFC0E" author="Matsumoto H." box="[394,604,932,958]" pageId="32" pageNumber="33" pagination="1 - 408" refId="ref34685" refString="Matsumoto H. 1917. A monograph of Japanese Ophiuroidea, arranged according to a new classification. Journal of the College of Science, Imperial University, Tokyo 38: 1 - 408." type="journal article" year="1917">Matsumoto, 1917</bibRefCitation>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="FBC5656B42026249D4EAFC6CFA9AFD34" lastPageId="33" lastPageNumber="34" pageId="32" pageNumber="33" type="description">
+<paragraph id="B36036E042026248D4EAFC6CFECCFC4F" blockId="32.[189,334,997,1023]" box="[189,334,997,1023]" pageId="32" pageNumber="33">
+<heading id="E828818C42026248D4EAFC6CFECCFC4F" bold="true" box="[189,334,997,1023]" fontSize="11" level="3" pageId="32" pageNumber="33" reason="3">
+<emphasis id="81ABEAF242026248D4EAFC6CFECCFC4F" bold="true" box="[189,334,997,1023]" pageId="32" pageNumber="33">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="B36036E042026248D4EAFB9CFD4BF9F6" blockId="32.[187,1401,1044,1607]" pageId="32" pageNumber="33">
+ARM. Arm shape unbranched; length 3× disc diameter, or length 3– 4× disc diameter, or length more than 4× disc diameter; covering without granules/spines/tubercles.Arm combs absent. Dorsal arm plate present. Accessory dorsal arm plate absent. Ventral arm plate present.Accessory ventral arm plate absent. Girdle of tiny hooks on the arms absent. Spines all similar in shape. Arm spine cross section round. The ratio of thickness of distal ⅓ of arm spine to maximum thickness (in a given cross-sectional plane) 0.6–0.9, or 0.9–1 (
+<taxonomicName id="74DF4D6342026248D5CDFB4EFDD3FB51" authorityName="Lyman" authorityYear="1869" box="[410,593,1223,1249]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiochondrus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D5CDFB4EFDD3FB51" box="[410,593,1223,1249]" italics="true" pageId="32" pageNumber="33">Ophiochondrus</emphasis>
+</taxonomicName>
+). Arm spines pointed; mainly lateral; predominantly erect, standing perpendicular to arm axis. Longest arm spines between one and two segments long (
+<taxonomicName id="74DF4D6342026248D0E0FB62FAC6FAB5" authorityName="Verrill" authorityYear="1899" box="[1207,1348,1259,1285]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D0E0FB62FAC6FAB5" box="[1207,1348,1259,1285]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+</taxonomicName>
+), or longer than two segments. Tentacle scales present; pores visible along most of the arm; nearly as long as wide; shorter than the spine nearby; cross section oval. Position of lateral arm plate (LAP) arched (wrapped around the arm). Dorsal and/or ventral edge(s) of LAPs with constriction. Ventral position of LAP not projecting ventro-proximalwards. Ventro-distal tip of LAP not projecting ventralwards. Arm spine articulation with dorsal and ventral lobes; with a fully developed sigmoidal fold; arranged over entire distal LAP edge; dorsalwards increasing in size (
+<taxonomicName id="74DF4D6342026248D7DFFA48FAF0FA6C" authority="(Bruzelius, 1805)" baseAuthorityName="Bruzelius" baseAuthorityYear="1805" box="[904,1394,1473,1500]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="bidentata">
+<emphasis id="81ABEAF242026248D7DFFA48FB1BFA6B" box="[904,1177,1473,1499]" italics="true" pageId="32" pageNumber="33">Ophiacantha bidentata</emphasis>
+(Bruzelius, 1805)
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D4EAFA6CFEC5FA4F" authorityName="Verrill" authorityYear="1899" box="[189,327,1509,1535]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D4EAFA6CFEC5FA4F" box="[189,327,1509,1535]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+</taxonomicName>
+), or all similar (
+<taxonomicName id="74DF4D6342026248D655FA6CFC54FA4F" authority="G. O. Sars, 1872" authorityName="G. O. Sars" authorityYear="1872" box="[514,982,1509,1535]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="abyssicola">
+<emphasis id="81ABEAF242026248D655FA6CFC9AFA4F" box="[514,792,1509,1535]" italics="true" pageId="32" pageNumber="33">Ophiacantha abyssicola</emphasis>
+G.O. Sars, 1872
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D7B7FA6CFB17FA4F" authorityName="Verrill" authorityYear="1899" box="[992,1173,1509,1535]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophioplinthaca" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D7B7FA6CFB17FA4F" box="[992,1173,1509,1535]" italics="true" pageId="32" pageNumber="33">Ophioplinthaca</emphasis>
+</taxonomicName>
+). Distance between spine articulations dorsalwards increasing. Nerve and muscle openings separated by small ridge if at all. Nerve opening smaller than muscle opening.
+</paragraph>
+<paragraph id="B36036E042026248D4EAF9E6FAD7F88B" blockId="32.[187,1398,1646,1852]" pageId="32" pageNumber="33">
+DORSAL DISC. Disc circular; flat (about same level as arms) or high (above arm level) (
+<taxonomicName id="74DF4D6342026248D0F8F9E7FAE4F938" authorityName="Lyman" authorityYear="1869" box="[1199,1382,1646,1672]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiochondrus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D0F8F9E7FAE4F938" box="[1199,1382,1646,1672]" italics="true" pageId="32" pageNumber="33">Ophiochondrus</emphasis>
+</taxonomicName>
+). Integument obscuring plates. Dorsal disc with granules (
+<taxonomicName id="74DF4D6342026248D70FF91BFB92F91C" authorityName="Verrill" authorityYear="1899" box="[856,1040,1682,1708]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophioplinthaca" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D70FF91BFB92F91C" box="[856,1040,1682,1708]" italics="true" pageId="32" pageNumber="33">Ophioplinthaca</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D048F91BFB29F91C" authorityName="Verrill" authorityYear="1899" box="[1055,1195,1682,1708]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D048F91BFB29F91C" box="[1055,1195,1682,1708]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+</taxonomicName>
+); with concealed primary plates; with scales; with spines (
+<taxonomicName id="74DF4D6342026248D6E1F93FFCD1F960" authorityName="Muller &amp; Troschel" authorityYear="1842" box="[694,851,1718,1744]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D6E1F93FFCD1F960" box="[694,851,1718,1744]" italics="true" pageId="32" pageNumber="33">Ophiacantha</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D733F93FFC71F960" authorityName="Verrill" authorityYear="1899" box="[868,1011,1718,1744]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D733F93FFC71F960" box="[868,1011,1718,1744]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+</taxonomicName>
+) or without spines. Dorsal disc scale/plate without tubercles. Radial shield present; with spines and with granules; length between one third and half of the disc radius (
+<taxonomicName id="74DF4D6342026248D678F977FD3DF8A7" baseAuthorityName="Bruzelius" baseAuthorityYear="1805" box="[559,703,1789,1816]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="bidentata">
+<emphasis id="81ABEAF242026248D678F977FD3DF8A7" box="[559,703,1789,1816]" italics="true" pageId="32" pageNumber="33">O. bidentata</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D69BF974FC01F8A7" authorityName="Verrill" authorityYear="1899" box="[716,899,1789,1815]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophioplinthaca" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D69BF974FC01F8A7" box="[716,899,1789,1815]" italics="true" pageId="32" pageNumber="33">Ophioplinthaca</emphasis>
+</taxonomicName>
+), or length more than half of the disc radius (
+<taxonomicName id="74DF4D6342026248D490F8ABFEE5F88B" authorityName="G. O. Sars" authorityYear="1872" box="[199,359,1825,1852]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="abyssicola">
+<emphasis id="81ABEAF242026248D490F8ABFEE5F88B" box="[199,359,1825,1852]" italics="true" pageId="32" pageNumber="33">O. abyssicola</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D522F8A8FDAEF88B" authorityName="Lyman" authorityYear="1869" box="[373,556,1825,1851]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiochondrus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D522F8A8FDAEF88B" box="[373,556,1825,1851]" italics="true" pageId="32" pageNumber="33">Ophiochondrus</emphasis>
+</taxonomicName>
+); isosceles (mirror-symmetric) triangular to pear-shaped, or bar-like.
+</paragraph>
+<paragraph id="B36036E042026249D4EAF8EAFD72FDF2" blockId="32.[187,1399,1891,2025]" lastBlockId="33.[187,1400,265,579]" lastPageId="33" lastPageNumber="34" pageId="32" pageNumber="33">
+VENTRAL DISC. Gonads restricted to the disc or not restricted to the disc (
+<taxonomicName id="74DF4D6342026248D7A9F8EAFB18F8CD" authorityName="Koehler" authorityYear="1922" box="[1022,1178,1891,1917]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiocanops" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D7A9F8EAFB18F8CD" box="[1022,1178,1891,1917]" italics="true" pageId="32" pageNumber="33">Ophiocanops</emphasis>
+</taxonomicName>
+). Ventral interradii with spines (
+<taxonomicName id="74DF4D6342026248D503F80EFE77F811" authorityName="G. O. Sars" authorityYear="1872" box="[340,501,1927,1953]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="abyssicola">
+<emphasis id="81ABEAF242026248D503F80EFE77F811" box="[340,501,1927,1953]" italics="true" pageId="32" pageNumber="33">O. abyssicola</emphasis>
+</taxonomicName>
+) or with granules (
+<taxonomicName id="74DF4D6342026248D68FF80EFCE9F811" baseAuthorityName="Bruzelius" baseAuthorityYear="1805" box="[728,875,1927,1953]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiacantha" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="species" species="bidentata">
+<emphasis id="81ABEAF242026248D68FF80EFCE9F811" box="[728,875,1927,1953]" italics="true" pageId="32" pageNumber="33">O. bidentata</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="74DF4D6342026248D72DF80EFBB3F811" authorityName="Lyman" authorityYear="1869" box="[890,1073,1927,1953]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiochondrus" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D72DF80EFBB3F811" box="[890,1073,1927,1953]" italics="true" pageId="32" pageNumber="33">Ophiochondrus</emphasis>
+</taxonomicName>
+, with spine and granules in 
+<taxonomicName id="74DF4D6342026248D4E9F823FECBF874" authorityName="Verrill" authorityYear="1899" box="[190,329,1962,1988]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="32" pageNumber="33" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242026248D4E9F823FECBF874" box="[190,329,1962,1988]" italics="true" pageId="32" pageNumber="33">Ophiolimna</emphasis>
+</taxonomicName>
+). Scales on ventral interradii covering the whole area of an interradius. The number of scales on H line of an interradius about 7–14. Ventral teeth single. Infradental papillae on oral plate present. Buccal scales on OP absent. Accessory oral papillae on OP absent. Lateral oral papillae on OP present; single row of lateral papillae; spiniform. Adoral shield spine present. Lyman’s ossicle present. Oral shield covering less than one third of interradius; much wider than long. Madreporite one or multiple; with one pore or with numerous pores. Adoral shield meeting in front of the oral shield. Abradial genital plate not twisted. Number of genital slits one per bursa. Genital slit longer than half the length of an interradius. Genital papillae absent. Dental plate of equal width all over, or dorsal half widest (
+<taxonomicName id="74DF4D6342036249D0D9FE35FA98FE66" authorityName="Verrill" authorityYear="1899" box="[1166,1306,444,470]" class="Ophiuroidea" family="Ophiacanthidae" genus="Ophiolimna" kingdom="Animalia" order="Ophiacanthida" pageId="33" pageNumber="34" phylum="Echinodermata" rank="genus">
+<emphasis id="81ABEAF242036249D0D9FE35FA98FE66" box="[1166,1306,444,470]" italics="true" pageId="33" pageNumber="34">Ophiolimna</emphasis>
+</taxonomicName>
+); entire (single plate). Dental sockets slit-shaped; equal to or more than 50% of the width. At least one socket on DP as depression or perforation without septum. Teeth flat (with round or slightly pointed tip, but never spine-like). Teeth on DP arranged as single row.
+</paragraph>
+<paragraph id="B36036E042036249D4EAFDE3FA9AFD34" blockId="33.[189,1304,618,645]" box="[189,1304,618,645]" pageId="33" pageNumber="34">VERTEBRAE. Vertebrae zygospondylous; beyond segment 5 with short keel; without oral bridge.</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

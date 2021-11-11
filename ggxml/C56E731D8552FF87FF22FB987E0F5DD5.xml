@@ -1,0 +1,63 @@
+<document id="9150C846CF0DBCA1161855DB6FEBA46B" ID-DOI="http://doi.org/10.5281/zenodo.5604113" ID-ISSN="2118-9773" ID-Zenodo-Dep="5604113" ID-ZooBank="1F74D019-D13C-426F-835A-24A9A1126C55" approvalRequired="1592" approvalRequired_for_taxonomicNames="39" approvalRequired_for_textStreams="1356" approvalRequired_for_treatments="197" checkinTime="1633024809691" checkinUser="felipe" docAuthor="Laan, Richard Van Der" docDate="2018" docId="C56E731D8552FF87FF22FB987E0F5DD5" docLanguage="en" docName="ejt-466_1-167.pdf" docOrigin="European Journal of Taxonomy 466" docSource="http://dx.doi.org/10.5852/ejt.2018.466" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Parazenidae McAllister 1968" docType="treatment" docVersion="3" lastPageNumber="72" masterDocId="39570B658515FFC0FF9FFFE57B6F590A" masterDocTitle="Family-group names of fossil fishes" masterLastPageNumber="167" masterPageNumber="1" pageId="71" pageNumber="72" updateTime="1635355915926" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="2F6AD9F280CE8FC6D2B8C1D2F4BAE153" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B1D45B93FA23D9A7CF0F9BFC8D60CAEB">
+<mods:title id="DF667605D0C4F396F05E70D03CB5DC50">Family-group names of fossil fishes</mods:title>
+</mods:titleInfo>
+<mods:name id="566CED072737CCB32F9AA7DEA51DFEF3" type="personal">
+<mods:role id="C73D5C5ADC6EEFE51C433F27882E7C1F">
+<mods:roleTerm id="84C30A338B6B1A2B6A4448EF3C60687C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B518161B891A409B3EA451C384CCFEF1">Laan, Richard Van Der</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="61BED52C388913EAA709A5BF61CF796B">text</mods:typeOfResource>
+<mods:relatedItem id="355576725252613F88015BD03488FC38" type="host">
+<mods:titleInfo id="C414A7C6A4F089D3DFDB616E9B491517">
+<mods:title id="48167431C27FA5DEB7F72DC70B119C8E">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="9422F4CBF1B217012B316EC278B8E642">
+<mods:date id="2AC4CFE4C7D0D60198332C9EC3685548">2018</mods:date>
+<mods:detail id="E13FFC495001054DB1FA49A384D816D2" type="pubDate">
+<mods:number id="0D229C93560E33E862B5355EED7B5402">2018-10-11</mods:number>
+</mods:detail>
+<mods:detail id="2F79E085D82D197D63038C597423C65D" type="volume">
+<mods:number id="099BE11E75BF964EF9C4DA0AA23CB234">466</mods:number>
+</mods:detail>
+<mods:extent id="3E7DE76847B66709D633BECE05D3E598" unit="page">
+<mods:start id="7353E6B1669924BA339ED95CC9B2923B">1</mods:start>
+<mods:end id="3E28F1A7BC71F6A8DC58AB418FA35078">167</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="390DD143A28FCAEAC1B1FF53C9468626">
+<mods:url id="AA4F2BBD1FAFC8EE959E65887A29570E">http://dx.doi.org/10.5852/ejt.2018.466</mods:url>
+</mods:location>
+<mods:classification id="8FDACB2F69E1670A3804AE0BCDCE0F20">journal article</mods:classification>
+<mods:identifier id="5ED725069F6F9BEA430B1ED811D0BA29" type="DOI">10.5852/ejt.2018.466</mods:identifier>
+<mods:identifier id="27AF8CA51012690D76D76702CBF311CC" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="CE5E3537722C7A63FCD165981AEC1057" type="Zenodo-Dep">5557557</mods:identifier>
+<mods:identifier id="AD263E8352A644554EFA1458DF93E44F" type="ZooBank">1F74D019-D13C-426F-835A-24A9A1126C55</mods:identifier>
+</mods:mods>
+<treatment id="C56E731D8552FF87FF22FB987E0F5DD5" ID-DOI="http://doi.org/10.5281/zenodo.5604113" ID-Zenodo-Dep="5604113" LSID="urn:lsid:plazi:treatment:C56E731D8552FF87FF22FB987E0F5DD5" httpUri="http://treatment.plazi.org/id/C56E731D8552FF87FF22FB987E0F5DD5" lastPageNumber="72" pageId="71" pageNumber="72">
+<subSubSection id="05DD91808552FF87FF22FB9879015D9D" box="[189,622,1149,1175]" pageId="71" pageNumber="72" type="nomenclature">
+<paragraph id="4D78C20B8552FF87FF22FB9879015D9D" blockId="71.[189,1399,719,1319]" box="[189,622,1149,1175]" pageId="71" pageNumber="72">
+Family 
+<taxonomicName id="8AC7B9888552FF87FE88FB9879015D9D" authority="McAllister 1968" authorityName="McAllister" authorityYear="1968" box="[279,622,1149,1175]" class="Actinopterygii" family="Parazenidae" kingdom="Animalia" order="Zeiformes" pageId="71" pageNumber="72" phylum="Chordata" rank="family">Parazenidae McAllister 1968</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="05DD91808552FF87FE87FB447E0F5DD5" pageId="71" pageNumber="72" type="reference_group">
+<paragraph id="4D78C20B8552FF87FE87FB447E185DB6" blockId="71.[189,1399,719,1319]" box="[280,1399,1185,1212]" pageId="71" pageNumber="72">
+†Isozenidae 
+<bibRefCitation id="2956BFFA8552FF87FE33FB4479A95DB1" author="Schwarzhans W." box="[428,710,1185,1211]" pageId="71" pageNumber="72" pagination="417 - 431" refId="ref76850" refString="Schwarzhans W. 1996. Otoliths from the Maastrichtian of Bavaria and their evolutionary significance. In: Arratia G. &amp; Viohl G. (eds) Mesozoic Fishes Systematics and Paleoecology, Proceedings of the International Meeting Eichstatt 1993: 417 - 431. Verlag Dr. Friedrich Pfeil, Munich." type="journal article" year="1996">Schwarzhans 1996: 427</bibRefCitation>
+(family) † 
+<taxonomicName id="8AC7B9888552FF87FCDAFB477F195DB1" authority="Schwarzhans 2010" authorityName="Schwarzhans" authorityYear="2010" box="[837,1142,1185,1211]" class="Actinopterygii" family="Zeiformes incertae sedis" genus="Isozen" higherTaxonomySource="GBIF" kingdom="Animalia" order="Zeiformes" pageId="71" pageNumber="72" phylum="Chordata" rank="genus">
+<emphasis id="7FB31E198552FF87FCDAFB4778FF5DB1" box="[837,912,1186,1211]" italics="true" pageId="71" pageNumber="72">Isozen</emphasis>
+Schwarzhans 2010
+</taxonomicName>
+[no valid 
+<typeStatus id="927C7CA98552FF87FB6FFB477E4C5DB6" box="[1264,1315,1186,1212]" pageId="71" pageNumber="72">type</typeStatus>
+genus,
+</paragraph>
+<paragraph id="4D78C20B8552FF87FEB1FB237E0F5DD5" blockId="71.[189,1399,719,1319]" box="[302,1376,1220,1248]" pageId="71" pageNumber="72">not available, Art. 11.7.1.1; also name only, published after 1960, not available, Art. 13.1.1]</paragraph>
+</subSubSection>
+</treatment>
+</document>

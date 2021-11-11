@@ -1,0 +1,1171 @@
+<document id="93BC44F06562F792C98B5D7D9BD48734" ID-DOI="http://doi.org/10.5281/zenodo.5552708" ID-GBIF-Dataset="d4ff05b4-fdac-44e8-8c2e-0733a93169a0" ID-GBIF-Taxon="188606916" ID-ISSN="2118-9773" ID-Zenodo-Dep="5552708" ID-ZooBank="9FAB6919-E4AC-44A6-89AB-2E236F55FDB5" _generate="added" checkinTime="1632918688925" checkinUser="felipe" docAuthor="Korn, Dieter &amp; Bockwinkel, Jürgen" docDate="2021" docId="03BAFC02FFB3FFA52217F9679FCAD8CE" docLanguage="en" docName="ejt-771_1-79.pdf" docOrigin="European Journal of Taxonomy 771" docSource="http://dx.doi.org/10.5852/ejt.2021.771.1503" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Sandbergeroceras Hyatt 1884" docType="treatment" docVersion="8" lastPageId="66" lastPageNumber="73" masterDocId="FF83847AFFF2FFE7202DFF919C26DD0B" masterDocTitle="The pharciceratid ammonoids from the Roteisenstein Formation of Dillenburg (Cephalopoda, Ammonoidea)" masterLastPageNumber="79" masterPageNumber="1" pageId="65" pageNumber="66" updateTime="1634697765110" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6BF69BECD13E1FD406284D50B0936E1A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D50B7875C5AEA97A24E8A393C6125291">
+<mods:title id="8E1F2A5758EDC9581E7928A9B59C3CFA">The pharciceratid ammonoids from the Roteisenstein Formation of Dillenburg (Cephalopoda, Ammonoidea)</mods:title>
+</mods:titleInfo>
+<mods:name id="D89AFBF3B59211E2920B88B057141941" type="personal">
+<mods:role id="153A597247EFC46389E637336BCB53DC">
+<mods:roleTerm id="59C06A774F656EC6F4069F2160C7AD4F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2F621BE0AC76189671E8D40A00392056">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="6F0D9E1BD08026A72E4674262FF79DF2" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="88912E4921BC05DD3D66B5D7CA7A6465">Museum für Naturkunde, Leibniz-Institut für Evolutions- und Biodiversitätsforschung, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="E6CFA3B4E18055065553DAF4DFA192BA" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="10833C0B3179AC1B9EA564405265F38C" type="personal">
+<mods:role id="1DEE5C36C2510F253B7CAA607845C22E">
+<mods:roleTerm id="E6FDDD5876A21BF7C94A8109F48AC339">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5FEE27C265CB4F81D4ABDADC2702D499">Bockwinkel, Jürgen</mods:namePart>
+<mods:nameIdentifier id="FF738FDE87202E7E90863B194FF7D823" type="LSID">F7FE7EEA-B678-4FEE-879C-8C429F66BF3A</mods:nameIdentifier>
+<mods:affiliation id="76AE93E1CB22D7D8213953F296102C67">Dechant-Fein-Strasse 22, 51375 Leverkusen, Germany.</mods:affiliation>
+<mods:nameIdentifier id="94335A7E3F81743736EB3077985F7524" type="email">jbockwinkel@t-online.de</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="9AADAD79A6DA1FD33397FC8367C80689">text</mods:typeOfResource>
+<mods:relatedItem id="EF8175BCF89F23DF3583E8D43C6DB070" type="host">
+<mods:titleInfo id="64484F9927F330BD153F007998D0B268">
+<mods:title id="F630D173CE55BC06121DFE10F2BFC324">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B0CE984D7E0CF9837892C1A687DD03A2">
+<mods:date id="5522B0C1EC8CE4CF4DFC402E1E6D1C5F">2021</mods:date>
+<mods:detail id="9500DC40613077EDC22E4E38AC1D2393" type="pubDate">
+<mods:number id="9E4AD5BE9CCFA763236AE08F67AEAC6F">2021-09-23</mods:number>
+</mods:detail>
+<mods:detail id="C5F8A249B61BCC0A8EAD7DAD7888B8C1" type="volume">
+<mods:number id="6854851A767E142AE95E8BE1EB355A9E">771</mods:number>
+</mods:detail>
+<mods:extent id="3E53AFDA23CE15EFCD0BE905B2096591" unit="page">
+<mods:start id="4220C38BFAEBF7686D40006DA5B06503">1</mods:start>
+<mods:end id="B258CF4727889FD5481B26EEB8DB9B62">79</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="FF4D3D5F7D5917B4393B43923E1C1E8C">
+<mods:url id="642519130569C4BC0DE0F0598A9B991B">http://dx.doi.org/10.5852/ejt.2021.771.1503</mods:url>
+</mods:location>
+<mods:classification id="4473198B139F43627F7EB489908A0FDD">journal article</mods:classification>
+<mods:identifier id="581640F89444993D2560FEB2FF495B30" type="DOI">https://doi.org/10.5852/ejt.2021.771.1503</mods:identifier>
+<mods:identifier id="7E7D510D02C40B31543C0F8D5CC47E91" type="GBIF-Dataset">d4ff05b4-fdac-44e8-8c2e-0733a93169a0</mods:identifier>
+<mods:identifier id="DA3E17F9D179317DCEC848BD039AF0DB" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="CCF663DAD086FC11B509C06EBC47F51F" type="Zenodo-Dep">5536097</mods:identifier>
+<mods:identifier id="E9E94C33B98A1DB8441B927352D539D4" type="ZooBank">9FAB6919-E4AC-44A6-89AB-2E236F55FDB5</mods:identifier>
+</mods:mods>
+<treatment id="03BAFC02FFB3FFA52217F9679FCAD8CE" ID-DOI="http://doi.org/10.5281/zenodo.5552708" ID-GBIF-Taxon="188606916" ID-Zenodo-Dep="5552708" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE" httpUri="http://treatment.plazi.org/id/03BAFC02FFB3FFA52217F9679FCAD8CE" lastPageId="66" lastPageNumber="73" pageId="65" pageNumber="66">
+<subSubSection id="C3091E9FFFB3FFA62217F9679FDFDA1B" box="[570,1017,1781,1808]" pageId="65" pageNumber="66" type="nomenclature">
+<paragraph id="8BAC4D14FFB3FFA62217F9679FDFDA1B" blockId="65.[570,1017,1781,1808]" box="[570,1017,1781,1808]" pageId="65" pageNumber="66">
+<heading id="D0E4FA78FFB3FFA62217F9679FDFDA1B" box="[570,1017,1781,1808]" centered="true" fontSize="11" level="2" pageId="65" pageNumber="66" reason="2">
+Genus 
+<taxonomicName id="4C133697FFB3FFA622A0F9649FDFDA1B" authority="Hyatt, 1884" authorityName="Hyatt" authorityYear="1884" box="[653,1017,1781,1808]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB3FFA622A0F9649F41DA1B" bold="true" box="[653,871,1781,1808]" italics="true" pageId="65" pageNumber="66">Sandbergeroceras</emphasis>
+Hyatt, 1884
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB3FFA62090F8A798F0DA77" pageId="65" pageNumber="66" type="type_taxon">
+<paragraph id="8BAC4D14FFB3FFA62090F8A79D7EDA44" blockId="65.[189,1238,1845,1917]" box="[189,344,1845,1872]" pageId="65" pageNumber="66">
+<heading id="D0E4FA78FFB3FFA62090F8A79D7EDA44" bold="true" box="[189,344,1845,1872]" fontSize="11" level="3" pageId="65" pageNumber="66" reason="3">
+<emphasis id="B9679106FFB3FFA62090F8A79D7EDA44" bold="true" box="[189,344,1845,1872]" pageId="65" pageNumber="66">Type species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB3FFA62090F8F398F0DA77" blockId="65.[189,1238,1845,1917]" box="[189,1238,1890,1917]" pageId="65" pageNumber="66">
+<taxonomicName id="4C133697FFB3FFA62090F8F39F95DA76" authority="Sandberger &amp; Sandberger, 1850" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" box="[189,947,1890,1917]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="species" species="tuberculoso-costatus">
+<emphasis id="B9679106FFB3FFA62090F8F39E14DA77" box="[189,562,1890,1916]" italics="true" pageId="65" pageNumber="66">Goniatites tuberculoso-costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB3FFA62214F8F39F95DA76" author="Sandberger G. &amp; Sandberger F." box="[569,947,1890,1917]" pageId="65" pageNumber="66" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+</taxonomicName>
+, by original designation.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB3FFA62090F8309F16DAE3" box="[189,816,1953,2025]" pageId="65" pageNumber="66" type="diagnosis">
+<paragraph id="8BAC4D14FFB3FFA62090F8309D10DAB0" blockId="65.[189,310,1953,1979]" box="[189,310,1953,1979]" pageId="65" pageNumber="66">
+<heading id="D0E4FA78FFB3FFA62090F8309D10DAB0" bold="true" box="[189,310,1953,1979]" fontSize="11" level="3" pageId="65" pageNumber="66" reason="3">
+<emphasis id="B9679106FFB3FFA62090F8309D10DAB0" bold="true" box="[189,310,1953,1979]" pageId="65" pageNumber="66">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB3FFA62090F85F9F16DAE3" blockId="65.[189,816,1998,2025]" box="[189,816,1998,2025]" pageId="65" pageNumber="66">
+<taxonomicName id="4C133697FFB3FFA62090F85F9D5ADAE3" authorityName="Hyatt" authorityYear="1884" box="[189,380,1998,2024]" class="Cephalopoda" family="Triainoceratidae" kingdom="Animalia" order="Ammonoidea" pageId="65" pageNumber="66" phylum="Mollusca" rank="family">Triainoceratidae</taxonomicName>
+with eight to twelve umbilical lobes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB0FFA52090FE989F71DF02" pageId="66" pageNumber="67" type="reference_group">
+<paragraph id="8BAC4D14FFB0FFA52090FE989DAFDC29" blockId="66.[189,393,264,291]" box="[189,393,264,291]" pageId="66" pageNumber="67">
+<heading id="D0E4FA78FFB0FFA52090FE989DAFDC29" bold="true" box="[189,393,264,291]" fontSize="11" level="3" pageId="66" pageNumber="67" reason="3">
+<emphasis id="B9679106FFB0FFA52090FE989DAFDC29" bold="true" box="[189,393,264,291]" pageId="66" pageNumber="67">Included species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090FEA89F71DF02" blockId="66.[188,1398,312,521]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090FEA89F8EDC58" authority="Sandberger &amp; Sandberger, 1850" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" box="[189,936,312,339]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso-costatus">
+<emphasis id="B9679106FFB0FFA52090FEA89E09DC59" box="[189,559,312,339]" italics="true" pageId="66" pageNumber="67">Goniatites tuberculoso-costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52218FEA99F8EDC58" author="Sandberger G. &amp; Sandberger F." box="[565,936,312,339]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+</taxonomicName>
+, Rhenish Mountains; 
+<taxonomicName id="4C133697FFB0FFA524B2FEA99E50DC73" authority="Termier &amp; Termier, 1950" authorityName="Termier &amp; Termier" authorityYear="1950" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="acutum">
+<emphasis id="B9679106FFB0FFA524B2FEA99D35DC7C" italics="true" pageId="66" pageNumber="67">Sandbergeroceras acutum</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA5210AFECC9E50DC73" author="Termier G. &amp; Termier H." box="[295,630,349,376]" pageId="66" pageNumber="67" pagination="1 - 246" refId="ref37079" refString="Termier G. &amp; Termier H. 1950. Paleontologie Marocaine. II. Invertebres de l'ere Primaire. Fascicule III. Mollusques. Notes et memoires, Service geologique, Protectorat de la Republique francaise au Maroc, Direction de la Production industrielle et des Mines, Division des Mines et de la Geologie Republique francaise Maroc 78: 1 - 246." type="journal article" year="1950">Termier &amp; Termier, 1950</bibRefCitation>
+</taxonomicName>
+, Anti-Atlas; 
+<taxonomicName id="4C133697FFB0FFA52308FECC9CDCDC90" authority="d'Archiac &amp; de Verneuil, 1842" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB0FFA52308FECC9832DC7C" box="[805,1044,349,375]" italics="true" pageId="66" pageNumber="67">Goniatites costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52405FECC9CDCDC90" author="d'Archiac V. &amp; de Verneuil M. E." pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+</taxonomicName>
+, Rhenish Mountains; 
+<taxonomicName id="4C133697FFB0FFA5223BFE10984DDC90" authority="Miller, 1938" authorityName="Miller" authorityYear="1938" box="[534,1131,385,411]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB0FFA5223BFE109F9BDC90" box="[534,957,385,411]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras sandbergerorum</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA523E3FE10984DDC90" author="Miller A. K." box="[974,1131,385,411]" pageId="66" pageNumber="67" pagination="1 - 262" refId="ref36824" refString="Miller A. K. 1938. Devonian ammonoids of America. Special Papers of the Geological Society of America 14: 1 - 262. https: // doi. org / 10.1130 / SPE 14 - p 1" type="journal article" year="1938">Miller, 1938</bibRefCitation>
+</taxonomicName>
+, Rhenish Mountains; 
+<taxonomicName id="4C133697FFB0FFA52090FE379E9DDCCB" authority="Clarke, 1899" authorityName="Clarke" authorityYear="1899" box="[189,699,422,448]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="syngonum">
+<emphasis id="B9679106FFB0FFA52090FE379E35DCCB" box="[189,531,422,448]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras syngonum</emphasis>
+Clarke, 1899
+</taxonomicName>
+, New York; 
+<taxonomicName id="4C133697FFB0FFA5237AFE379CDCDCEF" authority="d'Archiac &amp; de Verneuil, 1842" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="incertus">
+<emphasis id="B9679106FFB0FFA5237AFE37981DDCCB" box="[855,1083,422,448]" italics="true" pageId="66" pageNumber="67">Goniatites incertus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52468FE379CDCDCEF" author="d'Archiac V. &amp; de Verneuil M. E." pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+</taxonomicName>
+, Rhenish Mountains; 
+<taxonomicName id="4C133697FFB0FFA521D5FE5A9858DCEF" authority="d'Archiac &amp; de Verneuil, 1842" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" box="[504,1150,458,485]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosus">
+<emphasis id="B9679106FFB0FFA521D5FE5A9F28DCEF" box="[504,782,458,485]" italics="true" pageId="66" pageNumber="67">Goniatites tuberculosus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52338FE5B9858DCEF" author="d'Archiac V. &amp; de Verneuil M. E." box="[789,1150,458,484]" pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+</taxonomicName>
+, Rhenish Mountains; 
+<taxonomicName id="4C133697FFB0FFA52091FE7E9DDCDF02" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[188,506,495,521]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFB0FFA52091FE7E9DDCDF02" box="[188,506,495,521]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFB0FFA5222CFE7E9E78DF02" box="[513,606,495,521]" pageId="66" pageNumber="67" rank="species">sp. nov.</taxonomicNameLabel>
+, Rhenish Mountains.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB0FFA52090FDA39FF3DB48" pageId="66" pageNumber="67" type="discussion">
+<subSubSection id="C3091E9FFFB0FFA52090FDA39FCAD8CE" pageId="66" pageNumber="67" type="discussion">
+<paragraph id="8BAC4D14FFB0FFA52090FDA39D09DF47" blockId="66.[189,303,562,588]" box="[189,303,562,588]" pageId="66" pageNumber="67">
+<heading id="D0E4FA78FFB0FFA52090FDA39D09DF47" bold="true" box="[189,303,562,588]" fontSize="11" level="3" pageId="66" pageNumber="67" reason="3">
+<emphasis id="B9679106FFB0FFA52090FDA39D09DF47" bold="true" box="[189,303,562,588]" pageId="66" pageNumber="67">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090FDF39D7BDFCE" blockId="66.[189,1399,609,709]" pageId="66" pageNumber="67">
+<bibRefCitation id="EF8230E5FFB0FFA52090FDF39D69DF70" author="Hyatt A." box="[189,335,609,636]" pageId="66" pageNumber="67" pagination="253 - 338" refId="ref36044" refString="Hyatt A. 1883 - 1884. Genera of fossil cephalopods. Proceedings of the Boston Society of Natural History 22: 253 - 338." type="journal article" year="1883">Hyatt (1883</bibRefCitation>
+–1884) established two genera for multilobate, coarsely ribbed ammonoids previously described from the Red Ironstone by 
+<bibRefCitation id="EF8230E5FFB0FFA522AFFD179825DFAB" author="d'Archiac V. &amp; de Verneuil M. E." box="[642,1027,646,672]" pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842)</bibRefCitation>
+and 
+<bibRefCitation id="EF8230E5FFB0FFA5246CFD179D24DFCE" author="Sandberger G. &amp; Sandberger F." pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856):
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090FD4F9951D982" blockId="66.[189,1399,734,1162]" pageId="66" pageNumber="67">
+(1) “ 
+<taxonomicName id="4C133697FFB0FFA520D8FD4F9DE6DFF3" authorityName="Hyatt" authorityYear="1884" box="[245,448,734,760]" class="Cephalopoda" family="Prolobitidae" genus="Sandbergeoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA520D8FD4F9DE6DFF3" box="[245,448,734,760]" italics="true" pageId="66" pageNumber="67">Sandbergeoceras</emphasis>
+</taxonomicName>
+”, which was probably misspelled by 
+<bibRefCitation id="EF8230E5FFB0FFA52352FD4E982BDFF3" author="Hyatt A." box="[895,1037,734,761]" pageId="66" pageNumber="67" pagination="253 - 338" refId="ref36044" refString="Hyatt A. 1883 - 1884. Genera of fossil cephalopods. Proceedings of the Boston Society of Natural History 22: 253 - 338." type="journal article" year="1883">Hyatt (1883</bibRefCitation>
+–1884: 333); his intention was obviously the genus name 
+<taxonomicName id="4C133697FFB0FFA5223CFC939EC0DE17" authorityName="Hyatt" authorityYear="1884" box="[529,742,770,796]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA5223CFC939EC0DE17" box="[529,742,770,796]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras</emphasis>
+</taxonomicName>
+with “ 
+<taxonomicName id="4C133697FFB0FFA5236EFC929DA9DE49" authority="Sandberger &amp; Sandberger, 1850" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso-costatus">
+<emphasis id="B9679106FFB0FFA5236EFC929898DE17" box="[835,1214,770,797]" italics="true" pageId="66" pageNumber="67">Goniatites tuberculoso-costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA524E0FC939DA9DE49" author="Sandberger G. &amp; Sandberger F." pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+</taxonomicName>
+” as 
+<typeStatus id="54A8F3B6FFB0FFA521EAFCB69DDCDE4A" box="[455,506,807,833]" pageId="66" pageNumber="67">type</typeStatus>
+species. This species, however, was not without problems, as it was only conceived by 
+<bibRefCitation id="EF8230E5FFB0FFA5214EFCDA9EC4DE6D" author="Sandberger G. &amp; Sandberger F." box="[355,738,843,870]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856) as a combination of the two species “ 
+<taxonomicName id="4C133697FFB0FFA524D1FCDD9D74DE81" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosus">
+<emphasis id="B9679106FFB0FFA524D1FCDD9D74DE81" italics="true" pageId="66" pageNumber="67">Goniatites tuberculosus</emphasis>
+</taxonomicName>
+” and “ 
+<taxonomicName id="4C133697FFB0FFA5218AFCE19EACDE81" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" box="[423,650,880,906]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB0FFA5218AFCE19EACDE81" box="[423,650,880,906]" italics="true" pageId="66" pageNumber="67">Goniatites costatus</emphasis>
+</taxonomicName>
+” introduced by 
+<bibRefCitation id="EF8230E5FFB0FFA52361FCE198ECDE81" author="d'Archiac V. &amp; de Verneuil M. E." box="[844,1226,880,906]" pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842)</bibRefCitation>
+. 
+<bibRefCitation id="EF8230E5FFB0FFA524FBFCE19951DE81" author="Miller A. K." box="[1238,1399,880,906]" pageId="66" pageNumber="67" pagination="1 - 262" refId="ref36824" refString="Miller A. K. 1938. Devonian ammonoids of America. Special Papers of the Geological Society of America 14: 1 - 262. https: // doi. org / 10.1130 / SPE 14 - p 1" type="journal article" year="1938">Miller (1938)</bibRefCitation>
+discussed these problems and created the new name 
+<taxonomicName id="4C133697FFB0FFA52362FC0598D7DEA5" authorityName="Miller" authorityYear="1938" box="[847,1265,916,942]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB0FFA52362FC0598D7DEA5" box="[847,1265,916,942]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras sandbergerorum</emphasis>
+</taxonomicName>
+to replace “ 
+<taxonomicName id="4C133697FFB0FFA520E7FC289E1DDED8" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" box="[202,571,953,979]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso-costatus">
+<emphasis id="B9679106FFB0FFA520E7FC289E1DDED8" box="[202,571,953,979]" italics="true" pageId="66" pageNumber="67">Goniatites tuberculoso-costatus</emphasis>
+</taxonomicName>
+”, but later(
+<bibRefCitation id="EF8230E5FFB0FFA52290FC289F63DEDF" author="Miller A. K." box="[701,837,953,980]" pageId="66" pageNumber="67" pagination="357 - 358" refId="ref36864" refString="Miller A. K. 1952. Proposed acceptance of the emendation to &quot; Sandbergeroceras &quot; of the genetic name &quot; Sandbergeoceras &quot; Hyatt, 1884 (Class Cephalopoda, Order Ammonoidea); and the establishment of &quot; Goniatites tuberculosocostatus &quot; G. and F. Sandberger, 1850, as its type species. The Bulletin of Zoological Nomenclature 6: 357 - 358. https: // doi. org / 10.5962 / bhl. part. 16067" type="journal article" year="1952">Miller 1952</bibRefCitation>
+)supported the use of the name 
+<taxonomicName id="4C133697FFB0FFA524B3FC289D96DEFC" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB0FFA524B3FC289D96DEFC" italics="true" pageId="66" pageNumber="67">Sandbergeroceras tuberculosocostatum</emphasis>
+</taxonomicName>
+. This name was subsequently confirmed by the 
+<bibRefCitation id="EF8230E5FFB0FFA52435FC4C9E6BD916" author="International Commission of Zoological Nomenclature" pageId="66" pageNumber="67" pagination="297 - 304" refId="ref36070" refString="International Commission of Zoological Nomenclature 1956. Opinion 392. Emendation to &quot; Sandbergeroceras &quot; of the genetic name &quot; Sandbergeoceras &quot; Hyatt, 1884 (Class Cephalopoda, Order Ammonoidea). The Bulletin of Zoological Nomenclature 12: 297 - 304." type="journal article" year="1956">International Commission of Zoological Nomenclature (1956)</bibRefCitation>
+. 
+<bibRefCitation id="EF8230E5FFB0FFA52270FB939EC8D917" author="Hyatt A." box="[605,750,1026,1052]" pageId="66" pageNumber="67" pagination="253 - 338" refId="ref36044" refString="Hyatt A. 1883 - 1884. Genera of fossil cephalopods. Proceedings of the Boston Society of Natural History 22: 253 - 338." type="journal article" year="1883">Hyatt (1883</bibRefCitation>
+–1884) characterised the genus 
+<taxonomicName id="4C133697FFB0FFA52455FB93996BD917" authorityName="Hyatt" authorityYear="1884" box="[1144,1357,1026,1052]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA52455FB93996BD917" box="[1144,1357,1026,1052]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras</emphasis>
+</taxonomicName>
+on the basis of the suture line illustrated by 
+<bibRefCitation id="EF8230E5FFB0FFA52280FBB79816D94A" author="Sandberger G. &amp; Sandberger F." box="[685,1072,1062,1089]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856: pl. 4 fig. 1f), which shows an undivided external lobe. However, it should be noted that the external lobe of the illustrated small specimen (
+<bibRefCitation id="EF8230E5FFB0FFA521AEFBFE9ED3D981" author="Sandberger G. &amp; Sandberger F." box="[387,757,1135,1162]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger 1850</bibRefCitation>
+–1856: pl. 4 fig. 1a–e) is already rather clearly divided.
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090FB239E93D81E" blockId="66.[186,1399,1202,1301]" pageId="66" pageNumber="67">
+(2) 
+<taxonomicName id="4C133697FFB0FFA520CEFB229D5FD9C7" authorityName="Hyatt" authorityYear="1884" box="[227,377,1203,1228]" class="Cephalopoda" family="Triainoceratidae" genus="Triainoceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA520CEFB229D5FD9C7" box="[227,377,1203,1228]" italics="true" pageId="66" pageNumber="67">Triainoceras</emphasis>
+</taxonomicName>
+, which was introduced by 
+<bibRefCitation id="EF8230E5FFB0FFA52288FB229F09D9C7" author="Hyatt A." box="[677,815,1202,1229]" pageId="66" pageNumber="67" pagination="253 - 338" refId="ref36044" refString="Hyatt A. 1883 - 1884. Genera of fossil cephalopods. Proceedings of the Boston Society of Natural History 22: 253 - 338." type="journal article" year="1883">Hyatt (1883</bibRefCitation>
+–1884: 336) with “ 
+<taxonomicName id="4C133697FFB0FFA52429FB229DACD9FA" authority="d'Archiac &amp; de Verneuil, 1842" authorityName="d'Archiac &amp; de Verneuil" authorityYear="1842" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB0FFA52429FB2298C4D9C7" box="[1028,1250,1203,1229]" italics="true" pageId="66" pageNumber="67">Goniatites costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA524CBFB239DACD9FA" author="d'Archiac V. &amp; de Verneuil M. E." pageId="66" pageNumber="67" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+</taxonomicName>
+” as the 
+<typeStatus id="54A8F3B6FFB0FFA521CBFB469E3FD9FA" box="[486,537,1239,1265]" pageId="66" pageNumber="67">type</typeStatus>
+species. This genus should be separated from “ 
+<taxonomicName id="4C133697FFB0FFA5246BFB469937D9FA" authorityName="Hyatt" authorityYear="1884" box="[1094,1297,1239,1265]" class="Cephalopoda" family="Prolobitidae" genus="Sandbergeoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA5246BFB469937D9FA" box="[1094,1297,1239,1265]" italics="true" pageId="66" pageNumber="67">Sandbergeoceras</emphasis>
+</taxonomicName>
+” only in the trident subdivision of the external lobe.
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090FAAF9FCAD8CE" blockId="66.[189,1399,1342,1478]" pageId="66" pageNumber="67">
+Both genera are probably to be regarded as synonyms; it is to be considered which of the two can be considered more suitable for classifing the specimens from the Red Ironstone. Since better original material is available for “ 
+<emphasis id="B9679106FFB0FFA521C0FA169F25D8AA" box="[493,771,1415,1441]" italics="true" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA521C0FA169EDFD8AA" box="[493,761,1415,1441]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso">Goniatites tuberculoso</taxonomicName>
+-
+</emphasis>
+<taxonomicName id="4C133697FFB0FFA5232EFA1998CBD8A9" authority="Sandberger &amp; Sandberger, 1850" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" box="[771,1261,1415,1442]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB0FFA5232EFA199F45D8AA" box="[771,867,1416,1441]" italics="true" pageId="66" pageNumber="67">costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52341FA1698CBD8A9" author="Sandberger G. &amp; Sandberger F." box="[876,1261,1415,1442]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+</taxonomicName>
+”, the genus 
+<taxonomicName id="4C133697FFB0FFA52093FA3A9DB7D8CE" authorityName="Hyatt" authorityYear="1884" box="[190,401,1451,1477]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB0FFA52093FA3A9DB7D8CE" box="[190,401,1451,1477]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras</emphasis>
+</taxonomicName>
+, which is founded on this species is preferred here.
+</paragraph>
+</subSubSection>
+<treatment id="03BAFC02FFB0FFA1214FF995981ADE1A" ID-GBIF-Taxon="188606918" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE" httpUri="http://treatment.plazi.org/id/03BAFC02FFB3FFA52217F9679FCAD8CE" lastPageId="70" lastPageNumber="71" pageId="66" pageNumber="67">
+<subSubSection id="C3091E9FFFB0FFA5214FF99598F7DB2B" box="[354,1233,1540,1568]" pageId="66" pageNumber="67" type="nomenclature">
+<paragraph id="8BAC4D14FFB0FFA5214FF99598F7DB2B" blockId="66.[354,1233,1540,1604]" box="[354,1233,1540,1568]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA5214FF99598F7DB2B" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[354,1233,1540,1568]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB0FFA5214FF9959F19DB14" bold="true" box="[354,831,1540,1567]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB0FFA52363F99498EFDB2B" author="Sandberger G. &amp; Sandberger F." box="[846,1225,1541,1568]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB0FFA52273F9B89FF3DB48" box="[606,981,1577,1604]" pageId="66" pageNumber="67" type="description">
+<paragraph id="8BAC4D14FFB0FFA52273F9B89FF3DB48" blockId="66.[354,1233,1540,1604]" box="[606,981,1577,1604]" pageId="66" pageNumber="67">
+<figureCitation id="13285191FFB0FFA52273F9B89E9EDB48" box="[606,696,1577,1603]" captionStart="Fig" captionStartId="67.[188,231,1857,1883]" captionTargetBox="[478,1110,1122,1812]" captionTargetId="figure-274@67.[477,1110,1115,1813]" captionTargetPageId="67" captionText="Fig. 49.Sandbergerocerastuberculosocostatum(Sandberger&amp;Sandberger, 1850).A.Lectotype specimen 28 (Wiesbaden Museum) from Oberscheld; photograph and reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1). B. Specimen 41 (Wiesbaden Museum) from Oberscheld; specimen of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 8 fig. 2). C. Reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1a–c). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536236" httpUri="https://zenodo.org/record/5536236/files/figure.png" pageId="66" pageNumber="67">Figs 49</figureCitation>
+, 
+<figureCitation id="13285191FFB0FFA522E9F9B89EDEDB4F" box="[708,760,1577,1604]" captionStart="Fig" captionStartId="68.[189,232,1894,1920]" captionTargetBox="[432,1152,867,1832]" captionTargetId="figure-298@68.[425,1163,862,1843]" captionTargetPageId="68" captionText="Fig. 50. A. Sandbergeroceras archiaci sp. nov., holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). B. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), neotype MB.C.7695 (Erbreich Coll.) from Dillenburg.C. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="66" pageNumber="67">50C</figureCitation>
+, 
+<figureCitation id="13285191FFB0FFA52329F9B89F1EDB4F" box="[772,824,1577,1604]" captionStart="Fig" captionStartId="69.[189,232,1892,1918]" captionTargetBox="[539,1049,1375,1852]" captionTargetId="figure-436@69.[539,1049,1375,1852]" captionTargetPageId="69" captionText="Fig. 51. A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm.B. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="66" pageNumber="67">51B</figureCitation>
+, 
+<figureCitation id="13285191FFB0FFA5236EF9B89F42DB4F" box="[835,868,1577,1604]" captionStart="Fig" captionStartId="70.[189,232,1598,1624]" captionTargetBox="[244,1330,860,1547]" captionTargetId="figure-186@70.[242,1345,852,1558]" captionTargetPageId="70" captionText="Fig. 52. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), reproductions of illustrations in Drevermann (1903). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536242" httpUri="https://zenodo.org/record/5536242/files/figure.png" pageId="66" pageNumber="67">52</figureCitation>
+; 
+<tableCitation id="C69178AFFFB0FFA5235DF9B89FF3DB48" box="[880,981,1577,1603]" captionStart="Table 30" captionStartId="70.[189,258,263,289]" captionTargetBox="[216,1373,367,459]" captionTargetPageId="70" captionText="Table 30. Conch dimensions and ratios of selected specimens of Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850)." httpUri="http://table.plazi.org/id/DF6C1D9CFFB4FFA12090FE969E76DC4E" pageId="66" pageNumber="67" tableUuid="DF6C1D9CFFB4FFA12090FE969E76DC4E">Table 30</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB0FFA52090F9FD987DDAE3" pageId="66" pageNumber="67" type="reference_group">
+<paragraph id="8BAC4D14FFB0FFA52090F9FD984DDB8D" blockId="66.[189,1131,1644,1707]" box="[189,1131,1644,1671]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F9FD984DDB8D" box="[189,1131,1644,1671]" pageId="66" pageNumber="67">
+<emphasis id="B9679106FFB0FFA52090F9FD9DF4DB8C" box="[189,466,1644,1671]" italics="true" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F9FD9DEEDB8D" box="[189,456,1644,1670]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso">Goniatites tuberculoso</taxonomicName>
+-
+</emphasis>
+<treatmentCitation id="0AB26B05FFB0FFA521FFF9FC9FC6DB8D" author="Sandberger G. &amp; Sandberger F." box="[466,992,1644,1671]" page="64" pageId="66" pageNumber="67" year="1850">
+<taxonomicName id="4C133697FFB0FFA521FFF9FC9FC6DB8D" authority="Sandberger &amp; Sandberger, 1850: 64" authorityName="Sandberger &amp; Sandberger" authorityPageNumber="64" authorityYear="1850" box="[466,992,1644,1671]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB0FFA521FFF9FC9E14DB8D" box="[466,562,1645,1670]" italics="true" pageId="66" pageNumber="67">costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA52214F9FD9FC6DB8D" author="Sandberger G. &amp; Sandberger F." box="[569,992,1644,1671]" pageId="66" pageNumber="67" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850: 64</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, pl. 4 fig. 1.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F9019FF5DBA0" blockId="66.[189,1131,1644,1707]" box="[189,979,1680,1707]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F9019FF5DBA0" box="[189,979,1680,1707]" pageId="66" pageNumber="67">
+<treatmentCitation id="0AB26B05FFB0FFA52090F9019F17DBA0" author="Miller A. K." box="[189,817,1680,1707]" page="178" pageId="66" pageNumber="67" year="1938">
+<taxonomicName id="4C133697FFB0FFA52090F9019F17DBA0" authority="Miller, 1938: 178" authorityName="Miller" authorityPageNumber="178" authorityYear="1938" box="[189,817,1680,1707]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB0FFA52090F9019E7CDBA1" box="[189,602,1680,1706]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras sandbergerorum</emphasis>
+<bibRefCitation id="EF8230E5FFB0FFA5224FF9019F17DBA0" author="Miller A. K." box="[610,817,1680,1707]" pageId="66" pageNumber="67" pagination="1 - 262" refId="ref36824" refString="Miller A. K. 1938. Devonian ammonoids of America. Special Papers of the Geological Society of America 14: 1 - 262. https: // doi. org / 10.1130 / SPE 14 - p 1" type="journal article" year="1938">Miller, 1938: 178</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, text-fig. 38a.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F9429F56DBE6" blockId="66.[189,1193,1747,1956]" box="[189,880,1747,1774]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F9429EAADBE6" box="[189,652,1747,1773]" class="Cephalopoda" family="Prolobitidae" genus="Sandbergeoceras" higherTaxonomySource="GBIF" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso-costatum">
+<emphasis id="B9679106FFB0FFA52090F9429EAADBE6" box="[189,652,1747,1773]" italics="true" pageId="66" pageNumber="67">Sandbergeoceras tuberculoso-costatum</emphasis>
+</taxonomicName>
+– Hyatt 1884: 333.
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F969988FDA18" blockId="66.[189,1193,1747,1956]" box="[189,1193,1784,1811]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F969988FDA18" box="[189,1193,1784,1811]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F9699EB0DA19" box="[189,662,1784,1810]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso-costatum">
+<emphasis id="B9679106FFB0FFA52090F9699EB0DA19" box="[189,662,1784,1810]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras tuberculoso-costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB0FFA52299F9699FC7DA19" author="Foord A. H. &amp; Crick G. C." box="[692,993,1784,1810]" page="244" pageId="66" pageNumber="67" year="1897">
+<bibRefCitation id="EF8230E5FFB0FFA52299F9699FC7DA19" author="Foord A. H. &amp; Crick G. C." box="[692,993,1784,1810]" pageId="66" pageNumber="67" refId="ref35686" refString="Foord A. H. &amp; Crick G. C. 1897. Catalogue of the Fossil Cephalopoda in the British Museum (Natural History), Part III, Containing the Bactritidae and Part of the Suborder Ammonoidea. Printed by order of the Trustees, London." type="book" year="1897">Foord &amp; Crick 1897: 244</bibRefCitation>
+</treatmentCitation>
+, text-fig. 155a–f.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F88C9FB1DA3C" blockId="66.[189,1193,1747,1956]" box="[189,919,1820,1847]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F88C9FB1DA3C" box="[189,919,1820,1847]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F88C9DEFDA3D" box="[189,457,1821,1846]" class="Cephalopoda" family="Triainoceratidae" genus="Triaenoceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB0FFA52090F88C9DEFDA3D" box="[189,457,1821,1846]" italics="true" pageId="66" pageNumber="67">Triaenoceras costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB0FFA521CBF88C9ECCDA3C" author="Drevermann F." box="[486,746,1820,1847]" page="85" pageId="66" pageNumber="67" year="1903">
+<bibRefCitation id="EF8230E5FFB0FFA521CBF88C9ECCDA3C" author="Drevermann F." box="[486,746,1820,1847]" pageId="66" pageNumber="67" pagination="85 - 92" refId="ref35661" refString="Drevermann F. 1903. Ueber Triaenoceras costatum A. V. sp. Zeitschrift der Deutschen Geologischen Gesellschaft 55: 85 - 92." type="journal article" year="1903">Drevermann 1903: 85</bibRefCitation>
+</treatmentCitation>
+, pl. 5 figs 1–5.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F8D09840DA50" blockId="66.[189,1193,1747,1956]" box="[189,1126,1857,1883]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F8D09840DA50" box="[189,1126,1857,1883]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F8D09EAADA50" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,652,1857,1883]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB0FFA52090F8D09EAADA50" box="[189,652,1857,1883]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras tuberculosocostatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB0FFA52287F8D09FE2DA50" author="Bogoslovsky B. I." box="[682,964,1857,1883]" page="278" pageId="66" pageNumber="67" year="1969">
+<bibRefCitation id="EF8230E5FFB0FFA52287F8D09FE2DA50" author="Bogoslovsky B. I." box="[682,964,1857,1883]" pageId="66" pageNumber="67" pagination="1 - 341" refId="ref35556" refString="Bogoslovsky B. I. 1969. Devonskie ammonoidei. I. Agoniatity. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 124: 1 - 341." type="journal article" year="1969">Bogoslovsky 1969: 278</bibRefCitation>
+</treatmentCitation>
+, text-fig. 92b.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F8F4986BDA74" blockId="66.[189,1193,1747,1956]" box="[189,1101,1893,1920]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F8F49E7CDA74" authorityName="Miller" authorityYear="1938" box="[189,602,1893,1919]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB0FFA52090F8F49E7CDA74" box="[189,602,1893,1919]" italics="true" pageId="66" pageNumber="67">Sandbergeroceras sandbergerorum</emphasis>
+</taxonomicName>
+– 
+<bibRefCitation id="EF8230E5FFB0FFA52255F8F79FA5DA74" author="House M. R. &amp; Ziegler W." box="[632,899,1893,1920]" pageId="66" pageNumber="67" pagination="69 - 108" refId="ref36009" refString="House M. R. &amp; Ziegler W. 1977. The goniatite and conodont sequences in the early Upper Devonian at Adorf, Germany. Geologica et Palaeontologica 11: 69 - 108." type="journal article" year="1977">House &amp; Ziegler 1977</bibRefCitation>
+: pl. 6 figs 16–18.
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F81A981FDAAF" blockId="66.[189,1193,1747,1956]" box="[189,1081,1930,1956]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F81A981FDAAF" box="[189,1081,1930,1956]" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA52090F81A9E6BDAAF" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,589,1930,1956]" class="Cephalopoda" family="Triainoceratidae" genus="Triainoceras" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB0FFA52090F81A9E6BDAAF" box="[189,589,1930,1956]" italics="true" pageId="66" pageNumber="67">Triainoceras tuberculosocostatum</emphasis>
+</taxonomicName>
+– Korn &amp; 
+<treatmentCitation id="0AB26B05FFB0FFA522E0F81B9FA1DAAF" author="Klug C. &amp; Korn D." box="[717,903,1930,1956]" page="148" pageId="66" pageNumber="67" year="2002">
+<bibRefCitation id="EF8230E5FFB0FFA522E0F81B9FA1DAAF" author="Klug C. &amp; Korn D." box="[717,903,1930,1956]" pageId="66" pageNumber="67" pagination="917 - 931" refId="ref36274" refString="Klug C. &amp; Korn D. 2002. Occluded umbilicus in the Pinacitinae (Devonian) and its palaeoecological implications. Palaeontology 45: 917 - 931. https: // doi. org / 10.1111 / 1475 - 4983.00268" type="journal article" year="2002">Klug 2002: 148</bibRefCitation>
+</treatmentCitation>
+, text-fig. 
+<quantity id="4CEBE0F1FFB0FFA523DAF81B9813DAAF" box="[1015,1077,1930,1956]" metricMagnitude="-1" metricUnit="kg" metricValue="1.3699999999999999" pageId="66" pageNumber="67" unit="g" value="137.0">137g</quantity>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB0FFA52090F85E987DDAE3" blockId="66.[189,1115,1998,2025]" box="[189,1115,1998,2025]" pageId="66" pageNumber="67">
+<treatmentCitationGroup id="AB036A3AFFB0FFA52090F85E987DDAE3" box="[189,1115,1998,2025]" pageId="66" pageNumber="67">
+non 
+<emphasis id="B9679106FFB0FFA520DDF85E9E43DAE3" box="[240,613,1998,2025]" italics="true" pageId="66" pageNumber="67">
+<taxonomicName id="4C133697FFB0FFA520DDF85E9DDDDAE3" box="[240,507,1998,2025]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="tuberculoso">Goniatites tuberculoso</taxonomicName>
+- 
+<taxonomicName id="4C133697FFB0FFA52228F85E9E43DAE3" authorityName="Sandberger &amp; Sandberger" authorityYear="1850" box="[517,613,1999,2024]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="66" pageNumber="67" phylum="Mollusca" rank="species" species="costatus">costatus</taxonomicName>
+</emphasis>
+– 
+<treatmentCitation id="0AB26B05FFB0FFA522AFF85F9F1ADAE3" author="Tietze E." box="[642,828,1998,2024]" page="38" pageId="66" pageNumber="67" year="1869">
+<bibRefCitation id="EF8230E5FFB0FFA522AFF85F9F1ADAE3" author="Tietze E." box="[642,828,1998,2024]" pageId="66" pageNumber="67" refId="ref37143" refString="Tietze E. 1869. Ueber die devonischen Schichten von Ebersdorf unweit Neurode in der Grafschaft Glatz: 43. Geognostische Inaugual-Dissertation, Philosophische Facultat. Universitat Breslau, Breslau." type="book" year="1869">Tietze 1869: 38</bibRefCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="0AB26B05FFB0FFA52364F85F9FE4DAE3" author="Tietze E." box="[841,962,1998,2024]" page="130" pageId="66" pageNumber="67" year="1871">
+<bibRefCitation id="EF8230E5FFB0FFA52364F85F9FE4DAE3" author="Tietze E." box="[841,962,1998,2024]" pageId="66" pageNumber="67" pagination="103 - 158" refId="ref37174" refString="Tietze E. 1871. Ueber die devonischen Schichten von Ebersdorf unweit Neurode in der Grafschaft Glatz. Palaeontographica 19: 103 - 158." type="journal article" year="1871">1871: 130</bibRefCitation>
+</treatmentCitation>
+, pl. 16 fig. 6.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB1FFA42090FE999F9ADCBD" pageId="67" pageNumber="68" type="diagnosis">
+<paragraph id="8BAC4D14FFB1FFA42090FE999D10DC29" blockId="67.[189,310,264,290]" box="[189,310,264,290]" pageId="67" pageNumber="68">
+<heading id="D0E4FA78FFB1FFA42090FE999D10DC29" bold="true" box="[189,310,264,290]" fontSize="11" level="3" pageId="67" pageNumber="68" reason="3">
+<emphasis id="B9679106FFB1FFA42090FE999D10DC29" bold="true" box="[189,310,264,290]" pageId="67" pageNumber="68">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA42090FEA79F9ADCBD" blockId="67.[189,1399,310,438]" pageId="67" pageNumber="68">
+Species of 
+<taxonomicName id="4C133697FFB1FFA42169FEA79E3FDC5B" authorityName="Hyatt" authorityYear="1884" box="[324,537,310,336]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="67" pageNumber="68" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB1FFA42169FEA79E3FDC5B" box="[324,537,310,336]" italics="true" pageId="67" pageNumber="68">Sandbergeroceras</emphasis>
+</taxonomicName>
+with thinly discoidal, subevolute conch at 
+<quantity id="4CEBE0F1FFB1FFA42408FEA7985CDC5B" box="[1061,1146,310,336]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="67" pageNumber="68" unit="mm" value="30.0">30 mm</quantity>
+dm (ww / dm ~ 0.35; uw/ dm ~0.40). Whorl profile weakly depressed (ww/ wh ~1.10); venter narrowly rounded. Venter becoming subacute at about 
+<quantity id="4CEBE0F1FFB1FFA42226FEEB9E78DC9F" box="[523,606,378,404]" metricMagnitude="-2" metricUnit="m" metricValue="4.0" pageId="67" pageNumber="68" unit="mm" value="40.0">40 mm</quantity>
+dm. Two shallow spiral grooves on the venter. Shell ornament with 30 almost linear, sharp ribs on the flanks and coarse growth lines.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB1FFA42090FE4D9DD8DE99" pageId="67" pageNumber="68" type="materials_examined">
+<paragraph id="8BAC4D14FFB1FFA42090FE4D9D8CDCFD" blockId="67.[189,426,476,502]" box="[189,426,476,502]" pageId="67" pageNumber="68">
+<heading id="D0E4FA78FFB1FFA42090FE4D9D8CDCFD" bold="true" box="[189,426,476,502]" fontSize="11" level="3" pageId="67" pageNumber="68" reason="3">
+<emphasis id="B9679106FFB1FFA42090FE4D9D8CDCFD" bold="true" box="[189,426,476,502]" pageId="67" pageNumber="68">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA420C7FD9B9E1EDF2F" blockId="67.[189,1399,521,650]" box="[234,568,521,548]" pageId="67" pageNumber="68">
+<emphasis id="B9679106FFB1FFA420C7FD9B9D40DF2F" bold="true" box="[234,358,522,548]" pageId="67" pageNumber="68">
+<typeStatus id="54A8F3B6FFB1FFA420C7FD9B9D40DF2F" box="[234,358,522,548]" pageId="67" pageNumber="68">Lectotype</typeStatus>
+</emphasis>
+(designated here)
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA42090FDBD9F76DF81" blockId="67.[189,1399,521,650]" pageId="67" pageNumber="68">
+<collectingCountry id="F3040D84FFB1FFA42090FDBD9D77DF4D" box="[189,337,556,582]" name="Germany" pageId="67" pageNumber="68">GERMANY</collectingCountry>
+• Rhenish Mountains, Oberscheld; early Frasnian (Red Ironstone); 28 (Wiesbaden Museum); illustrated by 
+<bibRefCitation id="EF8230E5FFB1FFA421F6FDDC9F72DF63" author="Sandberger G. &amp; Sandberger F." box="[475,852,589,616]" pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856: pl. 4 fig. 1) and 
+<bibRefCitation id="EF8230E5FFB1FFA4244DFDDF9955DF63" author="House M. R. &amp; Ziegler W." box="[1120,1395,589,616]" pageId="67" pageNumber="68" pagination="69 - 108" refId="ref36009" refString="House M. R. &amp; Ziegler W. 1977. The goniatite and conodont sequences in the early Upper Devonian at Adorf, Germany. Geologica et Palaeontologica 11: 69 - 108." type="journal article" year="1977">House &amp; Ziegler (1977</bibRefCitation>
+: pl. 6 figs 16–18); Wiesbaden Museum nr. 28. (
+<figureCitation id="13285191FFB1FFA422F0FDFE9F6EDF81" box="[733,840,623,650]" captionStart="Fig" captionStartId="67.[188,231,1857,1883]" captionTargetBox="[478,1110,1122,1812]" captionTargetId="figure-274@67.[477,1110,1115,1813]" captionTargetPageId="67" captionText="Fig. 49.Sandbergerocerastuberculosocostatum(Sandberger&amp;Sandberger, 1850).A.Lectotype specimen 28 (Wiesbaden Museum) from Oberscheld; photograph and reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1). B. Specimen 41 (Wiesbaden Museum) from Oberscheld; specimen of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 8 fig. 2). C. Reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1a–c). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536236" httpUri="https://zenodo.org/record/5536236/files/figure.png" pageId="67" pageNumber="68">Fig. 49A</figureCitation>
+)
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA42090FD219F70DFE7" blockId="67.[189,1399,687,748]" pageId="67" pageNumber="68">
+Most probably, the illustration of a smaller individual (
+<bibRefCitation id="EF8230E5FFB1FFA4234EFD2198C4DFC1" author="Sandberger G. &amp; Sandberger F." box="[867,1250,687,714]" pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger 1850</bibRefCitation>
+–1856: pl. 4 fig. 1a–f) is from the inner whorls of the same specimen.
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA420C7FC839DC7DE27" blockId="67.[189,1398,786,914]" box="[234,481,786,812]" pageId="67" pageNumber="68">
+<emphasis id="B9679106FFB1FFA420C7FC839DC7DE27" bold="true" box="[234,481,786,812]" pageId="67" pageNumber="68">Additional material</emphasis>
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA42090FCA59DD8DE99" blockId="67.[189,1398,786,914]" pageId="67" pageNumber="68">
+<materialsCitation id="3B7B4749FFB1FFA42090FCA59D50DE7B" ID-GBIF-Occurrence="3382548411" collectionCode="SMF, Mbg" country="Germany" county="Frasnian" location="Rhenish Mountains" municipality="Oberscheld" pageId="67" pageNumber="68" specimenCode="SMF.Mbg.6360" specimenCount="1">
+<collectingCountry id="F3040D84FFB1FFA42090FCA59D77DE45" box="[189,337,820,846]" name="Germany" pageId="67" pageNumber="68">GERMANY</collectingCountry>
+• 
+<specimenCount id="9D15869DFFB1FFA421AEFCA59E3FDE45" box="[387,537,820,846]" pageId="67" pageNumber="68" type="generic">1 specimen</specimenCount>
+; 
+<location id="8ECC1BCFFFB1FFA4221CFCA59F00DE45" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE:8ECC1BCFFFB1FFA4221CFCA59F00DE45" box="[561,806,820,846]" country="Germany" county="Frasnian" municipality="Oberscheld" name="Rhenish Mountains" pageId="67" pageNumber="68">Rhenish Mountains</location>
+, 
+<collectingMunicipality id="6BC8D76EFFB1FFA42313FCA59FE1DE45" box="[830,967,820,846]" pageId="67" pageNumber="68">Oberscheld</collectingMunicipality>
+; 
+<geologicalTimeScale id="F933CDBFFFB1FFA423CDFCA598B2DE45" box="[992,1172,820,846]" pageId="67" pageNumber="68">early Frasnian</geologicalTimeScale>
+(Red Ironstone); 
+<specimenCode id="DBB5E56FFFB1FFA42090FCC79D50DE7B" box="[189,374,854,880]" pageId="67" pageNumber="68">SMF.Mbg.6360</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B7B4749FFB1FFA4218CFCC79DDCDE99" ID-GBIF-Occurrence="3382548417" country="Germany" county="Wiesbaden Museum" location="Rhenish Mountains" municipality="Frasnian" pageId="67" pageNumber="68" specimenCount="1">
+<specimenCount id="9D15869DFFB1FFA4218CFCC79E15DE7B" box="[417,563,854,880]" pageId="67" pageNumber="68" type="generic">1 specimen</specimenCount>
+; 
+<location id="8ECC1BCFFFB1FFA42265FCC79F1FDE7B" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE:8ECC1BCFFFB1FFA42265FCC79F1FDE7B" box="[584,825,854,880]" country="Germany" county="Wiesbaden Museum" municipality="Frasnian" name="Rhenish Mountains" pageId="67" pageNumber="68">Rhenish Mountains</location>
+, 
+<location id="8ECC1BCFFFB1FFA42363FCC79FF1DE7B" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE:8ECC1BCFFFB1FFA42363FCC79FF1DE7B" box="[846,983,854,880]" country="Germany" county="Wiesbaden Museum" municipality="Frasnian" name="Oberscheld" pageId="67" pageNumber="68">Oberscheld</location>
+; 
+<geologicalTimeScale id="F933CDBFFFB1FFA423C1FCC798BADE7B" box="[1004,1180,854,880]" pageId="67" pageNumber="68">early Frasnian</geologicalTimeScale>
+(Red Ironstone); Wiesbaden Museum nr. 41
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB1FFA22090FC299E41DF33" lastPageId="69" lastPageNumber="70" pageId="67" pageNumber="68" type="description">
+<paragraph id="8BAC4D14FFB1FFA42090FC299D68DED9" blockId="67.[189,334,952,978]" box="[189,334,952,978]" pageId="67" pageNumber="68">
+<heading id="D0E4FA78FFB1FFA42090FC299D68DED9" bold="true" box="[189,334,952,978]" fontSize="11" level="3" pageId="67" pageNumber="68" reason="3">
+<emphasis id="B9679106FFB1FFA42090FC299D68DED9" bold="true" box="[189,334,952,978]" pageId="67" pageNumber="68">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB1FFA32090FC77993ADF12" blockId="67.[188,1398,997,1059]" lastBlockId="68.[187,1399,265,538]" lastPageId="68" lastPageNumber="69" pageId="67" pageNumber="68">
+<typeStatus id="54A8F3B6FFB1FFA42090FC779D14D90B" box="[189,306,998,1024]" pageId="67" pageNumber="68">Lectotype</typeStatus>
+28 is an incomplete specimen, without shell remains, with an original conch diameter of more than 
+<quantity id="4CEBE0F1FFB1FFA420D8FB989D61D928" box="[245,327,1033,1059]" metricMagnitude="-2" metricUnit="m" metricValue="7.0" pageId="67" pageNumber="68" unit="mm" value="70.0">70 mm</quantity>
+in iron-rich limestone (
+<figureCitation id="13285191FFB1FFA42274FB989EE0D928" box="[601,710,1033,1059]" captionStart="Fig" captionStartId="67.[188,231,1857,1883]" captionTargetBox="[478,1110,1122,1812]" captionTargetId="figure-274@67.[477,1110,1115,1813]" captionTargetPageId="67" captionText="Fig. 49.Sandbergerocerastuberculosocostatum(Sandberger&amp;Sandberger, 1850).A.Lectotype specimen 28 (Wiesbaden Museum) from Oberscheld; photograph and reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1). B. Specimen 41 (Wiesbaden Museum) from Oberscheld; specimen of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 8 fig. 2). C. Reproduction of the figure in Sandberger &amp; Sandberger (1850–1856: pl. 4 fig. 1a–c). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536236" httpUri="https://zenodo.org/record/5536236/files/figure.png" pageId="67" pageNumber="68">Fig. 49A</figureCitation>
+). The outer whorl is crushed but the inner whorls are rather well-preserved. It allows an insight into the conch ontogeny from the initial stage to the adult stage. Up to about 
+<quantity id="4CEBE0F1FFB6FFA32167FEBD9DBDDC4C" box="[330,411,300,327]" metricMagnitude="-2" metricUnit="m" metricValue="1.8" pageId="68" pageNumber="69" unit="mm" value="18.0">18 mm</quantity>
+diameter, the conch is very evolute; thereafter, the whorl begins to grow in height and the relative width of the umbilicus decreases. At 
+<quantity id="4CEBE0F1FFB6FFA322DFFEDE9F62DC61" box="[754,836,335,362]" metricMagnitude="-2" metricUnit="m" metricValue="1.5" pageId="68" pageNumber="69" unit="mm" value="15.0">15 mm</quantity>
+diameter, the whorls are broadly kidney-shaped in profile and the venter is broadly rounded. At about 
+<quantity id="4CEBE0F1FFB6FFA32363FEE29F82DC86" box="[846,932,371,397]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="68" pageNumber="69" unit="mm" value="30.0">30 mm</quantity>
+diameter the whorls are already much higher and at about 
+<quantity id="4CEBE0F1FFB6FFA32186FE079E0DDCBB" box="[427,555,406,433]" metricMagnitude="-2" metricUnit="m" metricValue="4.75" metricValueMax="5.0" metricValueMin="4.5" pageId="68" pageNumber="69" unit="mm" value="47.5" valueMax="50.0" valueMin="45.0">45–50 mm</quantity>
+diameter apparently already compressed-triangular with a very narrow venter. The inner whorls are apparently unsculptured, but at about 
+<quantity id="4CEBE0F1FFB6FFA323D8FE28986DDCD8" box="[1013,1099,441,467]" metricMagnitude="-2" metricUnit="m" metricValue="1.0" pageId="68" pageNumber="69" unit="mm" value="10.0">10 mm</quantity>
+diameter sharp, initially closely spaced ribs appear; at about 
+<quantity id="4CEBE0F1FFB6FFA32256FE4D9EF4DCFC" box="[635,722,476,503]" metricMagnitude="-2" metricUnit="m" metricValue="1.2" pageId="68" pageNumber="69" unit="mm" value="12.0">12 mm</quantity>
+diameter there are about eight ribs on a quarter whorl. The ribs are present up to a conch diameter of 
+<quantity id="4CEBE0F1FFB6FFA322F2FE6E9F12DF11" box="[735,820,511,538]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="68" pageNumber="69" unit="mm" value="30.0">30 mm</quantity>
+; they run almost straight across the flank.
+</paragraph>
+<caption id="DF6C1D9CFFB1FFA42091F8D09847DAE2" ID-DOI="http://doi.org/10.5281/zenodo.5536236" ID-Zenodo-Dep="5536236" httpUri="https://zenodo.org/record/5536236/files/figure.png" pageId="67" pageNumber="68" startId="67.[188,231,1857,1883]" targetBox="[478,1110,1122,1812]" targetPageId="67">
+<paragraph id="8BAC4D14FFB1FFA42091F8D09847DAE2" blockId="67.[185,1399,1857,2025]" pageId="67" pageNumber="68">
+<emphasis id="B9679106FFB1FFA42091F8D09D33DA50" bold="true" box="[188,277,1857,1883]" pageId="67" pageNumber="68">Fig. 49.</emphasis>
+<taxonomicName id="4C133697FFB1FFA42135F8D3984EDA57" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[280,1128,1857,1884]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="67" pageNumber="68" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB1FFA42135F8D39EC5DA57" box="[280,739,1858,1884]" italics="true" pageId="67" pageNumber="68">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB1FFA422C3F8D39879DA57" author="Sandberger G. &amp; Sandberger F." box="[750,1119,1857,1884]" pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger&amp;Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+. 
+<emphasis id="B9679106FFB1FFA42446F8D098A6DA50" bold="true" box="[1131,1152,1857,1883]" pageId="67" pageNumber="68">A</emphasis>
+.Lectotype specimen 28 (Wiesbaden Museum) from Oberscheld; photograph and reproduction of the figure in 
+<bibRefCitation id="EF8230E5FFB1FFA424E2F8F49DABDAA8" author="Sandberger G. &amp; Sandberger F." pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856: pl. 4 fig. 1). 
+<emphasis id="B9679106FFB1FFA42242F8199EA5DAA9" bold="true" box="[623,643,1928,1954]" pageId="67" pageNumber="68">B</emphasis>
+. Specimen 41 (Wiesbaden Museum) from Oberscheld; specimen of the figure in 
+<bibRefCitation id="EF8230E5FFB1FFA42157F83A9ED8DACD" author="Sandberger G. &amp; Sandberger F." box="[378,766,1963,1990]" pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856: pl. 8 fig. 2). 
+<emphasis id="B9679106FFB1FFA423DFF83A9821DACE" bold="true" box="[1010,1031,1963,1989]" pageId="67" pageNumber="68">C</emphasis>
+. Reproduction of the figure in 
+<bibRefCitation id="EF8230E5FFB1FFA42090F85F9E1FDAE2" author="Sandberger G. &amp; Sandberger F." box="[189,569,1998,2025]" pageId="67" pageNumber="68" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+–1856: pl. 4 fig. 1a–c). Scale bar units = 1 mm.
+</paragraph>
+</caption>
+<paragraph id="8BAC4D14FFB6FFA22090FDD09D13DC4D" blockId="68.[189,1401,577,779]" lastBlockId="69.[188,1398,265,327]" lastPageId="69" lastPageNumber="70" pageId="68" pageNumber="69">
+SMF.Mbg.6360: incomplete, slightly distorted specimen of about 
+<quantity id="4CEBE0F1FFB6FFA323FFFDD09801DF50" box="[978,1063,577,604]" metricMagnitude="-2" metricUnit="m" metricValue="7.5" pageId="68" pageNumber="69" unit="mm" value="75.0">75 mm</quantity>
+conch diameter in iron-rich limestone with shell remains preserved (
+<figureCitation id="13285191FFB6FFA32284FDF59F3FDF74" box="[681,793,612,639]" captionStart="Fig" captionStartId="68.[189,232,1894,1920]" captionTargetBox="[432,1152,867,1832]" captionTargetId="figure-298@68.[425,1163,862,1843]" captionTargetPageId="68" captionText="Fig. 50. A. Sandbergeroceras archiaci sp. nov., holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). B. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), neotype MB.C.7695 (Erbreich Coll.) from Dillenburg.C. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="68" pageNumber="69">Fig. 50C</figureCitation>
+). It is a specimen showing the transition from the preadult to the adult stage. It has a diameter of about 
+<quantity id="4CEBE0F1FFB6FFA3231EFD169FACDFA9" box="[819,906,647,674]" metricMagnitude="-2" metricUnit="m" metricValue="7.5" pageId="68" pageNumber="69" unit="mm" value="75.0">75 mm</quantity>
+; at this stage the conch has the shape of a lens (ww/ dm ~0.25, uw/ dm ~0.30). The whorl profile is compressed triangular with subacute venter, the coiling rate is very high (WER ~2.45). Almost the entire last whorl is sculptureless; only at the beginning a few folds are visible on the inner half of the flank. Two inner whorls can be partially studied in the umbilicus. They show that the conch is evolute and coarsely ribbed. There are about 30 sharp ribs per whorl.
+</paragraph>
+<caption id="DF6C1D9CFFB6FFA32090F8F79817DAE1" ID-DOI="http://doi.org/10.5281/zenodo.5536238" ID-Zenodo-Dep="5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="68" pageNumber="69" startId="68.[189,232,1894,1920]" targetBox="[432,1152,867,1832]" targetPageId="68">
+<paragraph id="8BAC4D14FFB6FFA32090F8F79817DAE1" blockId="68.[187,1399,1894,2026]" pageId="68" pageNumber="69">
+<emphasis id="B9679106FFB6FFA32090F8F79D1DDA8B" bold="true" box="[189,315,1894,1920]" pageId="68" pageNumber="69">Fig. 50. A</emphasis>
+. 
+<taxonomicName id="4C133697FFB6FFA32160F8F79EABDA8B" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[333,653,1894,1920]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="68" pageNumber="69" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFB6FFA32160F8F79EABDA8B" box="[333,653,1894,1920]" italics="true" pageId="68" pageNumber="69">Sandbergeroceras archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFB6FFA322BAF8F79ED1DA8B" box="[663,759,1894,1920]" pageId="68" pageNumber="69" rank="species">sp. nov.</taxonomicNameLabel>
+, holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). 
+<emphasis id="B9679106FFB6FFA32146F8189D59DAA8" bold="true" box="[363,383,1929,1955]" pageId="68" pageNumber="69">B</emphasis>
+. 
+<taxonomicName id="4C133697FFB6FFA321BCF8189853DAA8" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[401,1141,1929,1955]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="68" pageNumber="69" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB6FFA321BCF8189EFDDAA8" box="[401,731,1929,1955]" italics="true" pageId="68" pageNumber="69">Sandbergeroceras costatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB6FFA322C3F818984ADAA8" author="d'Archiac V. &amp; de Verneuil M. E." box="[750,1132,1929,1955]" pageId="68" pageNumber="69" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+, neotype MB.C.7695 (Erbreich Coll.) from Dillenburg. 
+<emphasis id="B9679106FFB6FFA3226EF83D9E7EDACD" bold="true" box="[579,600,1964,1990]" pageId="68" pageNumber="69">C</emphasis>
+. 
+<taxonomicName id="4C133697FFB6FFA3224AF83D9D25DAE1" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="68" pageNumber="69" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB6FFA3224AF83D9812DACD" box="[615,1076,1964,1990]" italics="true" pageId="68" pageNumber="69">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB6FFA3246FF83D9CDCDAE1" author="Sandberger G. &amp; Sandberger F." pageId="68" pageNumber="69" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+, specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm.
+</paragraph>
+</caption>
+<paragraph id="8BAC4D14FFB7FFA22090FEFF9E41DF33" blockId="69.[188,1399,365,568]" pageId="69" pageNumber="70">
+The suture line shows, at a whorl height of 
+<quantity id="4CEBE0F1FFB7FFA22283FEFC9F3EDC83" box="[686,792,365,392]" metricMagnitude="-2" metricUnit="m" metricValue="1.55" pageId="69" pageNumber="70" unit="mm" value="15.5">15.5 mm</quantity>
+, a Y-shaped, divided external lobe with very narrow, ventrally somewhat pouched prongs and a median saddle reaching half the height of the lobe (
+<figureCitation id="13285191FFB7FFA224D0FE00994EDCA7" box="[1277,1384,401,428]" captionStart="Fig" captionStartId="69.[189,232,1892,1918]" captionTargetBox="[539,1049,1375,1852]" captionTargetId="figure-436@69.[539,1049,1375,1852]" captionTargetPageId="69" captionText="Fig. 51. A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm.B. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="69" pageNumber="70">Fig. 51B</figureCitation>
+). The ventrolateral saddle is rounded and slightly tilted in the dorsal direction. The lateral lobes are deep and inflated, with a mammiform base. Two more, V-shaped and much smaller umbilical lobes follow on the flank. On the inner flanks and the umbilical wall no portion of the suture line is preserved, but it is likely that more lobes would follow.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB7FFA12090FDCE9FECDA49" lastPageId="70" lastPageNumber="71" pageId="69" pageNumber="70" type="discussion">
+<subSubSection id="C3091E9FFFB7FFA12090FDCE981ADE1A" lastPageId="70" lastPageNumber="71" pageId="69" pageNumber="70" type="discussion">
+<paragraph id="8BAC4D14FFB7FFA22090FDCE9D09DF72" blockId="69.[189,303,607,633]" box="[189,303,607,633]" pageId="69" pageNumber="70">
+<heading id="D0E4FA78FFB7FFA22090FDCE9D09DF72" bold="true" box="[189,303,607,633]" fontSize="11" level="3" pageId="69" pageNumber="70" reason="3">
+<emphasis id="B9679106FFB7FFA22090FDCE9D09DF72" bold="true" box="[189,303,607,633]" pageId="69" pageNumber="70">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB7FFA22090FD1C9862DE3E" blockId="69.[189,1399,653,821]" pageId="69" pageNumber="70">
+With the decision of the 
+<bibRefCitation id="EF8230E5FFB7FFA221C8FD1C98ECDFA3" author="International Commission of Zoological Nomenclature" box="[485,1226,653,680]" pageId="69" pageNumber="70" pagination="297 - 304" refId="ref36070" refString="International Commission of Zoological Nomenclature 1956. Opinion 392. Emendation to &quot; Sandbergeroceras &quot; of the genetic name &quot; Sandbergeoceras &quot; Hyatt, 1884 (Class Cephalopoda, Order Ammonoidea). The Bulletin of Zoological Nomenclature 12: 297 - 304." type="journal article" year="1956">International Commission of Zoological Nomenclature (1956)</bibRefCitation>
+, at the request of 
+<bibRefCitation id="EF8230E5FFB7FFA220F3FD209DA6DFC7" author="Miller A. K." box="[222,384,689,716]" pageId="69" pageNumber="70" pagination="357 - 358" refId="ref36864" refString="Miller A. K. 1952. Proposed acceptance of the emendation to &quot; Sandbergeroceras &quot; of the genetic name &quot; Sandbergeoceras &quot; Hyatt, 1884 (Class Cephalopoda, Order Ammonoidea); and the establishment of &quot; Goniatites tuberculosocostatus &quot; G. and F. Sandberger, 1850, as its type species. The Bulletin of Zoological Nomenclature 6: 357 - 358. https: // doi. org / 10.5962 / bhl. part. 16067" type="journal article" year="1952">Miller (1952)</bibRefCitation>
+, the species 
+<taxonomicName id="4C133697FFB7FFA2223CFD209F88DFC0" authorityName="Miller" authorityYear="1938" box="[529,942,689,715]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB7FFA2223CFD209F88DFC0" box="[529,942,689,715]" italics="true" pageId="69" pageNumber="70">Sandbergeroceras sandbergerorum</emphasis>
+</taxonomicName>
+was declared an objective synonym of 
+<taxonomicName id="4C133697FFB7FFA22090FD459DE9DFE5" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,463,724,750]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB7FFA22090FD459DE9DFE5" box="[189,463,724,750]" italics="true" pageId="69" pageNumber="70">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+. This decision was apparently unknown to House (in 
+<bibRefCitation id="EF8230E5FFB7FFA22475FD449940DFE5" author="House M. R. &amp; Ziegler W." box="[1112,1382,724,751]" pageId="69" pageNumber="70" pagination="69 - 108" refId="ref36009" refString="House M. R. &amp; Ziegler W. 1977. The goniatite and conodont sequences in the early Upper Devonian at Adorf, Germany. Geologica et Palaeontologica 11: 69 - 108." type="journal article" year="1977">House &amp; Ziegler 1977</bibRefCitation>
+), so that he considered 
+<taxonomicName id="4C133697FFB7FFA221E8FD699E80DE1A" authorityName="Miller" authorityYear="1938" box="[453,678,759,786]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="sandbergerorum">
+<emphasis id="B9679106FFB7FFA221E8FD699E80DE1A" box="[453,678,759,786]" italics="true" pageId="69" pageNumber="70">S. sandbergerorum</emphasis>
+</taxonomicName>
+valid and designated the Wiesbaden specimen as 
+<typeStatus id="54A8F3B6FFB7FFA22529FD669955DE1A" box="[1284,1395,759,785]" pageId="69" pageNumber="70">lectotype</typeStatus>
+. This specimen is determined here as the 
+<typeStatus id="54A8F3B6FFB7FFA222B7FC8B9F20DE3F" box="[666,774,794,820]" pageId="69" pageNumber="70">lectotype</typeStatus>
+of 
+<taxonomicName id="4C133697FFB7FFA22301FC8A981ADE3F" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[812,1084,794,821]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB7FFA22301FC8A981ADE3F" box="[812,1084,794,821]" italics="true" pageId="69" pageNumber="70">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8BAC4D14FFB7FFA22090FCCD9FE4D99B" blockId="69.[188,1400,860,1168]" pageId="69" pageNumber="70">
+The suture line shown here significantly differs from the illustration of 
+<bibRefCitation id="EF8230E5FFB7FFA223DDFCCD9940DE7C" author="Sandberger G. &amp; Sandberger F." box="[1008,1382,860,887]" pageId="69" pageNumber="70" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger (1850</bibRefCitation>
+– 1856: pl. 4 fig. 1f), which had been copied several times (
+<bibRefCitation id="EF8230E5FFB7FFA22363FCEE981EDE92" author="Foord A. H. &amp; Crick G. C." box="[846,1080,895,921]" pageId="69" pageNumber="70" refId="ref35686" refString="Foord A. H. &amp; Crick G. C. 1897. Catalogue of the Fossil Cephalopoda in the British Museum (Natural History), Part III, Containing the Bactritidae and Part of the Suborder Ammonoidea. Printed by order of the Trustees, London." type="book" year="1897">Foord &amp; Crick 1897</bibRefCitation>
+; 
+<bibRefCitation id="EF8230E5FFB7FFA2246BFCEE98F6DE92" author="Miller A. K." box="[1094,1232,895,921]" pageId="69" pageNumber="70" pagination="1 - 262" refId="ref36824" refString="Miller A. K. 1938. Devonian ammonoids of America. Special Papers of the Geological Society of America 14: 1 - 262. https: // doi. org / 10.1130 / SPE 14 - p 1" type="journal article" year="1938">Miller 1938</bibRefCitation>
+; 
+<bibRefCitation id="EF8230E5FFB7FFA224F0FCEE9CDEDEB7" author="Bogoslovsky B. I." pageId="69" pageNumber="70" pagination="1 - 341" refId="ref35556" refString="Bogoslovsky B. I. 1969. Devonskie ammonoidei. I. Agoniatity. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 124: 1 - 341." type="journal article" year="1969">Bogoslovsky 1969</bibRefCitation>
+; Korn &amp; 
+<bibRefCitation id="EF8230E5FFB7FFA22144FC339DC0DEB7" author="Klug C. &amp; Korn D." box="[361,486,930,956]" pageId="69" pageNumber="70" pagination="917 - 931" refId="ref36274" refString="Klug C. &amp; Korn D. 2002. Occluded umbilicus in the Pinacitinae (Devonian) and its palaeoecological implications. Palaeontology 45: 917 - 931. https: // doi. org / 10.1111 / 1475 - 4983.00268" type="journal article" year="2002">Klug 2002</bibRefCitation>
+). The reason for this difference could be that the latter specimen has been cut too deeply and therefore some features have been lost; the illustrations of specimens as well as suture lines are usually excellent and very accurate in this monograph. The suture line shown here (
+<figureCitation id="13285191FFB7FFA2252BFC789949D908" box="[1286,1391,1000,1027]" captionStart="Fig" captionStartId="69.[189,232,1892,1918]" captionTargetBox="[539,1049,1375,1852]" captionTargetId="figure-436@69.[539,1049,1375,1852]" captionTargetPageId="69" captionText="Fig. 51. A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm.B. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="69" pageNumber="70">Fig. 51B</figureCitation>
+) is similar to the one published by 
+<bibRefCitation id="EF8230E5FFB7FFA22278FB9D9F63D92C" author="Bogoslovsky B. I." box="[597,837,1036,1063]" pageId="69" pageNumber="70" pagination="1 - 341" refId="ref35556" refString="Bogoslovsky B. I. 1969. Devonskie ammonoidei. I. Agoniatity. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 124: 1 - 341." type="journal article" year="1969">Bogoslovsky (1969)</bibRefCitation>
+for “ 
+<taxonomicName id="4C133697FFB7FFA223ABFB9C9895D92D" baseAuthorityName="Bogoslovsky" baseAuthorityYear="1958" box="[902,1203,1037,1062]" class="Cephalopoda" family="Triainoceratidae" genus="Triainoceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="gerassimovi">
+<emphasis id="B9679106FFB7FFA223ABFB9C9895D92D" box="[902,1203,1037,1062]" italics="true" pageId="69" pageNumber="70">Triainoceras gerassimovi</emphasis>
+</taxonomicName>
+”. However, that species has only two lobes on the flank, the somewhat pouched, V-shaped lateral lobe and a somewhat smaller, V-shaped umbilical lobe. Because of this somewhat simpler suture line with fewer elements, the species became the 
+<typeStatus id="54A8F3B6FFB7FFA22189FBE79DF1D99B" box="[420,471,1142,1168]" pageId="69" pageNumber="70">type</typeStatus>
+species of 
+<taxonomicName id="4C133697FFB7FFA22276FBE49F9DD99B" authority="(Korn &amp; Klug 2002)" baseAuthorityName="Korn &amp; Klug" baseAuthorityYear="2002" box="[603,955,1141,1168]" class="Cephalopoda" family="Triainoceratidae" genus="Altayites" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB7FFA22276FBE49EE4D984" box="[603,706,1141,1167]" italics="true" pageId="69" pageNumber="70">Altayites</emphasis>
+(Korn &amp; 
+<bibRefCitation id="EF8230E5FFB7FFA22319FBE49F97D99B" author="Klug C. &amp; Korn D." box="[820,945,1141,1168]" pageId="69" pageNumber="70" pagination="917 - 931" refId="ref36274" refString="Klug C. &amp; Korn D. 2002. Occluded umbilicus in the Pinacitinae (Devonian) and its palaeoecological implications. Palaeontology 45: 917 - 931. https: // doi. org / 10.1111 / 1475 - 4983.00268" type="journal article" year="2002">Klug 2002</bibRefCitation>
+)
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8BAC4D14FFB7FFA22090FB269890D9FF" blockId="69.[189,1399,1207,1269]" pageId="69" pageNumber="70">Although the material is incomplete and not well preserved, the species can be reasonably well defined. One problem, however, could be that the specimens do not belong to the same species.</paragraph>
+<caption id="DF6C1D9CFFB7FFA22090F8F59916DAE2" ID-DOI="http://doi.org/10.5281/zenodo.5536240" ID-Zenodo-Dep="5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="69" pageNumber="70" startId="69.[189,232,1892,1918]" targetBox="[539,1049,1375,1852]" targetPageId="69">
+<paragraph id="8BAC4D14FFB7FFA22090F8F59916DAE2" blockId="69.[189,1399,1892,2025]" pageId="69" pageNumber="70">
+<emphasis id="B9679106FFB7FFA22090F8F59D65DA75" bold="true" box="[189,323,1892,1918]" pageId="69" pageNumber="70">Fig. 51. A</emphasis>
+. 
+<taxonomicName id="4C133697FFB7FFA22174F8F59876DA74" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[345,1104,1892,1919]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB7FFA22174F8F59E80DA75" box="[345,678,1892,1918]" italics="true" pageId="69" pageNumber="70">Sandbergeroceras costatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB7FFA22291F8F5986EDA74" author="d'Archiac V. &amp; de Verneuil M. E." box="[700,1096,1892,1919]" pageId="69" pageNumber="70" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+, suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm. 
+<emphasis id="B9679106FFB7FFA223A5F8199FBADAA9" bold="true" box="[904,924,1928,1954]" pageId="69" pageNumber="70">B</emphasis>
+. 
+<taxonomicName id="4C133697FFB7FFA22387F8199E43DACD" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="69" pageNumber="70" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB7FFA22387F8199950DAA9" box="[938,1398,1928,1954]" italics="true" pageId="69" pageNumber="70">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB7FFA220E8F83A9E7ADACD" author="Sandberger G. &amp; Sandberger F." box="[197,604,1963,1990]" pageId="69" pageNumber="70" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+, suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm.
+</paragraph>
+</caption>
+<caption id="DF6C1D9CFFB4FFA12090FE969E76DC4E" ID-Table-UUID="DF6C1D9CFFB4FFA12090FE969E76DC4E" httpUri="http://table.plazi.org/id/DF6C1D9CFFB4FFA12090FE969E76DC4E" pageId="70" pageNumber="71" startId="70.[189,258,263,289]" targetBox="[216,1373,367,459]" targetIsTable="true" targetPageId="70">
+<paragraph id="8BAC4D14FFB4FFA12090FE969E76DC4E" blockId="70.[189,1397,263,325]" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12090FE969D0ADC2A" bold="true" box="[189,300,263,289]" pageId="70" pageNumber="71">Table 30.</emphasis>
+Conch dimensions and ratios of selected specimens of 
+<taxonomicName id="4C133697FFB4FFA1238AFE969E6ADC4E" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA1238AFE969953DC2A" box="[935,1397,263,289]" italics="true" pageId="70" pageNumber="71">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB4FFA120E8FEBB9E65DC4E" author="Sandberger G. &amp; Sandberger F." box="[197,579,298,325]" pageId="70" pageNumber="71" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<paragraph id="8BAC4D14FFB4FFA120D8FEFE996ADCC1" pageId="70" pageNumber="71">
+<table id="F913BFB4FFB4001820F5FEFE997BDCC0" box="[216,1373,367,459]" gridcols="11" gridrows="3" pageId="70" pageNumber="71">
+<tr id="35234F56FFB4001820F5FEFE997BDC8C" box="[216,1373,367,391]" gridrow="0" pageId="70" pageNumber="71">
+<th id="76F2262AFFB4001820F5FEFE9DA6DC8C" box="[216,384,367,391]" gridcol="0" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA120D8FEFE9D45DC8C" bold="true" box="[245,355,367,391]" pageId="70" pageNumber="71">Specimen</emphasis>
+</th>
+<th id="76F2262AFFB400182197FEFE9DCFDC8C" box="[442,489,367,391]" gridcol="1" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12192FEFE9DC2DC8C" bold="true" box="[447,484,367,391]" pageId="70" pageNumber="71">dm</emphasis>
+</th>
+<th id="76F2262AFFB400182235FEFE9E61DC8C" box="[536,583,367,391]" gridcol="2" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12231FEFE9E65DC8C" bold="true" box="[540,579,367,391]" pageId="70" pageNumber="71">ww</emphasis>
+</th>
+<th id="76F2262AFFB400182258FEFE9E82DC8C" box="[629,676,367,391]" gridcol="3" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12251FEFE9EB8DC8C" bold="true" box="[636,670,367,391]" pageId="70" pageNumber="71">wh</emphasis>
+</th>
+<th id="76F2262AFFB4001822FDFEFE9ED9DC8C" box="[720,767,367,391]" gridcol="4" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA122FBFEFE9EDEDC8C" bold="true" box="[726,760,367,391]" pageId="70" pageNumber="71">uw</emphasis>
+</th>
+<th id="76F2262AFFB400182307FEFE9F7FDC8C" box="[810,857,367,391]" gridcol="5" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA1231EFEFE9F69DC8C" bold="true" box="[819,847,367,391]" pageId="70" pageNumber="71">ah</emphasis>
+</th>
+<th id="76F2262AFFB400182357FEFE9FF2DC8C" box="[890,980,367,391]" gridcol="6" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12357FEFE9FF2DC8C" bold="true" box="[890,980,367,391]" pageId="70" pageNumber="71">ww / dm</emphasis>
+</th>
+<th id="76F2262AFFB4001823C5FEFE9818DC8C" box="[1000,1086,367,391]" gridcol="7" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA123C5FEFE9818DC8C" bold="true" box="[1000,1086,367,391]" pageId="70" pageNumber="71">ww / wh</emphasis>
+</th>
+<th id="76F2262AFFB400182479FEFE988FDC8C" box="[1108,1193,367,391]" gridcol="8" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12479FEFE988FDC8C" bold="true" box="[1108,1193,367,391]" pageId="70" pageNumber="71">uw / dm</emphasis>
+</th>
+<th id="76F2262AFFB4001824E8FEFE9923DC8C" box="[1221,1285,367,391]" gridcol="9" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA124E8FEFE9923DC8C" bold="true" box="[1221,1285,367,391]" pageId="70" pageNumber="71">WER</emphasis>
+</th>
+<th id="76F2262AFFB400182503FEFE997BDC8C" box="[1326,1373,367,391]" gridcol="10" gridrow="0" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12503FEFE997BDC8C" bold="true" box="[1326,1373,367,391]" pageId="70" pageNumber="71">IZR</emphasis>
+</th>
+</tr>
+<tr id="35234F56FFB4001820F5FE00997BDCA2" box="[216,1373,401,425]" gridrow="1" pageId="70" pageNumber="71">
+<th id="76F2262AFFB4001820F5FE009DA6DCA2" box="[216,384,401,425]" gridcol="0" gridrow="1" pageId="70" pageNumber="71">SMF.Mbg.6360</th>
+<td id="76F2262AFFB400182197FE009DCFDCA2" box="[442,489,401,425]" gridcol="1" gridrow="1" pageId="70" pageNumber="71">74.8</td>
+<td id="76F2262AFFB400182235FE009E61DCA2" box="[536,583,401,425]" gridcol="2" gridrow="1" pageId="70" pageNumber="71">18.8</td>
+<td id="76F2262AFFB400182258FE009E82DCA2" box="[629,676,401,425]" gridcol="3" gridrow="1" pageId="70" pageNumber="71">37.2</td>
+<td id="76F2262AFFB4001822FDFE009ED9DCA2" box="[720,767,401,425]" gridcol="4" gridrow="1" pageId="70" pageNumber="71">22.6</td>
+<td id="76F2262AFFB400182307FE009F7FDCA2" box="[810,857,401,425]" gridcol="5" gridrow="1" pageId="70" pageNumber="71">26.8</td>
+<td id="76F2262AFFB400182357FE009FF2DCA2" box="[890,980,401,425]" gridcol="6" gridrow="1" pageId="70" pageNumber="71">0.25</td>
+<td id="76F2262AFFB4001823C5FE009818DCA2" box="[1000,1086,401,425]" gridcol="7" gridrow="1" pageId="70" pageNumber="71">0.51</td>
+<td id="76F2262AFFB400182479FE00988FDCA2" box="[1108,1193,401,425]" gridcol="8" gridrow="1" pageId="70" pageNumber="71">0.30</td>
+<td id="76F2262AFFB4001824E8FE009923DCA2" box="[1221,1285,401,425]" gridcol="9" gridrow="1" pageId="70" pageNumber="71">2.43</td>
+<td id="76F2262AFFB400182503FE00997BDCA2" box="[1326,1373,401,425]" gridcol="10" gridrow="1" pageId="70" pageNumber="71">0.28</td>
+</tr>
+<tr id="35234F56FFB4001820F5FE23997BDCC0" box="[216,1373,434,459]" gridrow="2" pageId="70" pageNumber="71">
+<th id="76F2262AFFB4001820F5FE239DA6DCC0" box="[216,384,434,459]" gridcol="0" gridrow="2" pageId="70" pageNumber="71">SMF.Mbg.6360</th>
+<td id="76F2262AFFB400182197FE239DCFDCC0" box="[442,489,434,459]" gridcol="1" gridrow="2" pageId="70" pageNumber="71">46.5</td>
+<td id="76F2262AFFB400182235FE239E61DCC0" box="[536,583,434,459]" gridcol="2" gridrow="2" pageId="70" pageNumber="71">15.1</td>
+<td id="76F2262AFFB400182258FE239E82DCC0" box="[629,676,434,459]" gridcol="3" gridrow="2" pageId="70" pageNumber="71">14.2</td>
+<td id="76F2262AFFB4001822FDFE239ED9DCC0" box="[720,767,434,459]" gridcol="4" gridrow="2" pageId="70" pageNumber="71">17.8</td>
+<td id="76F2262AFFB400182307FE239F7FDCC0" box="[810,857,434,459]" gridcol="5" gridrow="2" pageId="70" pageNumber="71">–</td>
+<td id="76F2262AFFB400182357FE239FF2DCC0" box="[890,980,434,459]" gridcol="6" gridrow="2" pageId="70" pageNumber="71">0.32</td>
+<td id="76F2262AFFB4001823C5FE239818DCC0" box="[1000,1086,434,459]" gridcol="7" gridrow="2" pageId="70" pageNumber="71">1.06</td>
+<td id="76F2262AFFB400182479FE23988FDCC0" box="[1108,1193,434,459]" gridcol="8" gridrow="2" pageId="70" pageNumber="71">0.38</td>
+<td id="76F2262AFFB4001824E8FE239923DCC0" box="[1221,1285,434,459]" gridcol="9" gridrow="2" pageId="70" pageNumber="71">–</td>
+<td id="76F2262AFFB400182503FE23997BDCC0" box="[1326,1373,434,459]" gridcol="10" gridrow="2" pageId="70" pageNumber="71">–</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="8BAC4D14FFB4FFA12090FD9498A9DF82" blockId="70.[189,1398,517,649]" pageId="70" pageNumber="71">
+<taxonomicName id="4C133697FFB4FFA12090FD949EA8DF14" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,654,517,543]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA12090FD949EA8DF14" box="[189,654,517,543]" italics="true" pageId="70" pageNumber="71">Sandbergeroceras tuberculosocostatum</emphasis>
+</taxonomicName>
+differs from 
+<taxonomicName id="4C133697FFB4FFA12303FD949F93DF14" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[814,949,517,543]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA12303FD949F93DF14" box="[814,949,517,543]" italics="true" pageId="70" pageNumber="71">S. costatum</emphasis>
+</taxonomicName>
+in the form of the whorl profile. This is much slenderer in 
+<taxonomicName id="4C133697FFB4FFA12191FDB89EEBDF49" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[444,717,552,579]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA12191FDB89EEBDF49" box="[444,717,552,579]" italics="true" pageId="70" pageNumber="71">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+(ww/ wh ~ 
+<quantity id="4CEBE0F1FFB4FFA12376FDB99F89DF49" box="[859,943,552,578]" metricMagnitude="-2" metricUnit="m" metricValue="2.794" pageId="70" pageNumber="71" unit="in" value="1.1">1.10 in</quantity>
+comparison to ~ 
+<quantity id="4CEBE0F1FFB4FFA12452FDB998F5DF49" box="[1151,1235,552,578]" metricMagnitude="-2" metricUnit="m" metricValue="3.302" pageId="70" pageNumber="71" unit="in" value="1.3">1.30 in</quantity>
+<taxonomicName id="4C133697FFB4FFA124F3FDB89943DF49" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[1246,1381,553,579]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA124F3FDB89943DF49" box="[1246,1381,553,579]" italics="true" pageId="70" pageNumber="71">S. costatum</emphasis>
+</taxonomicName>
+). Furthermore, the whorl profile begins to flatten with a subacute venter already at about 
+<quantity id="4CEBE0F1FFB4FFA124F9FDDA990EDF6D" box="[1236,1320,587,614]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="70" pageNumber="71" unit="mm" value="30.0">30 mm</quantity>
+conch diameter in 
+<taxonomicName id="4C133697FFB4FFA12164FDFE9E7FDF83" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[329,601,622,649]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA12164FDFE9E7FDF83" box="[329,601,622,649]" italics="true" pageId="70" pageNumber="71">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+, while the venter is still rounded in 
+<taxonomicName id="4C133697FFB4FFA1242CFDFE98AEDF83" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[1025,1160,623,649]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA1242CFDFE98AEDF83" box="[1025,1160,623,649]" italics="true" pageId="70" pageNumber="71">S. costatum</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8BAC4D14FFB4FFA12090FD21981ADE1A" blockId="70.[189,1399,688,785]" pageId="70" pageNumber="71">
+The main difference to 
+<taxonomicName id="4C133697FFB4FFA121CDFD219E44DFC1" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[480,610,688,714]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFB4FFA121CDFD219E44DFC1" box="[480,610,688,714]" italics="true" pageId="70" pageNumber="71">S. archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFB4FFA12240FD209EEADFC0" box="[621,716,689,715]" pageId="70" pageNumber="71" rank="species">sp. nov.</taxonomicNameLabel>
+is that the ventrolateral grooves are less pronounced in 
+<taxonomicName id="4C133697FFB4FFA12090FD459DEADFE6" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,460,723,750]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA12090FD459DEADFE6" box="[189,460,723,750]" italics="true" pageId="70" pageNumber="71">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+. The umbilicus is, at a comparable diameter, narrower in 
+<taxonomicName id="4C133697FFB4FFA1244BFD459950DFE6" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[1126,1398,723,750]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA1244BFD459950DFE6" box="[1126,1398,723,750]" italics="true" pageId="70" pageNumber="71">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+(ww / dm ~ 
+<quantity id="4CEBE0F1FFB4FFA1216CFD669DB5DE1B" box="[321,403,758,785]" metricMagnitude="-2" metricUnit="m" metricValue="1.016" pageId="70" pageNumber="71" unit="in" value="0.4">0.40 in</quantity>
+<taxonomicName id="4C133697FFB4FFA121BBFD669E8CDE1B" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[406,682,758,785]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA121BBFD669E8CDE1B" box="[406,682,758,785]" italics="true" pageId="70" pageNumber="71">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+but ~ 
+<quantity id="4CEBE0F1FFB4FFA122DFFD679F62DE1B" box="[754,836,758,785]" metricMagnitude="-2" metricUnit="m" metricValue="1.27" pageId="70" pageNumber="71" unit="in" value="0.5">0.50 in</quantity>
+<taxonomicName id="4C133697FFB4FFA12366FD669FEFDE1B" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[843,969,758,785]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFB4FFA12366FD669FEFDE1B" box="[843,969,758,785]" italics="true" pageId="70" pageNumber="71">S. archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFB4FFA123FDFD669809DE1A" box="[976,1071,759,785]" pageId="70" pageNumber="71" rank="species">sp. nov.</taxonomicNameLabel>
+).
+</paragraph>
+</subSubSection>
+<caption id="DF6C1D9CFFB4FFA12090F9AF9F5DDB77" ID-DOI="http://doi.org/10.5281/zenodo.5536242" ID-Zenodo-Dep="5536242" httpUri="https://zenodo.org/record/5536242/files/figure.png" pageId="70" pageNumber="71" startId="70.[189,232,1598,1624]" targetBox="[244,1330,860,1547]" targetPageId="70">
+<paragraph id="8BAC4D14FFB4FFA12090F9AF9F5DDB77" blockId="70.[189,1398,1598,1660]" pageId="70" pageNumber="71">
+<emphasis id="B9679106FFB4FFA12090F9AF9D38DB53" bold="true" box="[189,286,1598,1624]" pageId="70" pageNumber="71">Fig. 52.</emphasis>
+<taxonomicName id="4C133697FFB4FFA12105F9AF9884DB52" authority="(Sandberger &amp; Sandberger, 1850)" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[296,1186,1598,1625]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFB4FFA12105F9AF9EDADB53" box="[296,764,1598,1624]" italics="true" pageId="70" pageNumber="71">Sandbergeroceras tuberculosocostatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB4FFA12322F9AF98BFDB52" author="Sandberger G. &amp; Sandberger F." box="[783,1177,1598,1625]" pageId="70" pageNumber="71" refId="ref36976" refString="Sandberger G. &amp; Sandberger F. 1850 - 1856. Die Versteinerungen des rheinischen Schichtensystems in Nassau. Mit einer kurzgefassten Geognosie dieses Gebietes und mit steter Berucksichtigung analoger Schichten anderer Lander. Kreidel &amp; Niedner, Wiesbaden. https: // doi. org / 10.5962 / bhl. title. 52349" type="book" year="1850">Sandberger &amp; Sandberger, 1850</bibRefCitation>
+)
+</taxonomicName>
+, reproductions of illustrations in 
+<bibRefCitation id="EF8230E5FFB4FFA12140F9F39E7FDB70" author="Drevermann F." box="[365,601,1633,1660]" pageId="70" pageNumber="71" pagination="85 - 92" refId="ref35661" refString="Drevermann F. 1903. Ueber Triaenoceras costatum A. V. sp. Zeitschrift der Deutschen Geologischen Gesellschaft 55: 85 - 92." type="journal article" year="1903">Drevermann (1903)</bibRefCitation>
+. Scale bar units = 1 mm.
+</paragraph>
+</caption>
+<treatment id="03BAFC02FFB4FFAF219DF8959EF3D972" ID-GBIF-Taxon="188606914" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE" httpUri="http://treatment.plazi.org/id/03BAFC02FFB3FFA52217F9679FCAD8CE" lastPageId="72" lastPageNumber="73" pageId="70" pageNumber="71">
+<subSubSection id="C3091E9FFFB4FFA1219DF89598A5DA14" box="[432,1155,1796,1823]" pageId="70" pageNumber="71" type="nomenclature">
+<paragraph id="8BAC4D14FFB4FFA1219DF89598A5DA14" blockId="70.[432,1155,1796,1859]" box="[432,1155,1796,1823]" pageId="70" pageNumber="71">
+<taxonomicName id="4C133697FFB4FFA1219DF89598A5DA14" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[432,1155,1796,1823]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA1219DF8959ED9DA14" bold="true" box="[432,767,1796,1823]" italics="true" pageId="70" pageNumber="71">Sandbergeroceras costatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB4FFA12323F894985DDA14" author="d'Archiac V. &amp; de Verneuil M. E." box="[782,1147,1797,1823]" pageId="70" pageNumber="71" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB4FFA12244F8B99FECDA49" box="[617,970,1832,1859]" pageId="70" pageNumber="71" type="description">
+<paragraph id="8BAC4D14FFB4FFA12244F8B99FECDA49" blockId="70.[432,1155,1796,1859]" box="[617,970,1832,1859]" pageId="70" pageNumber="71">
+<figureCitation id="13285191FFB4FFA12244F8B99EF1DA48" box="[617,727,1832,1859]" captionStart="Fig" captionStartId="68.[189,232,1894,1920]" captionTargetBox="[432,1152,867,1832]" captionTargetId="figure-298@68.[425,1163,862,1843]" captionTargetPageId="68" captionText="Fig. 50. A. Sandbergeroceras archiaci sp. nov., holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). B. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), neotype MB.C.7695 (Erbreich Coll.) from Dillenburg.C. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="70" pageNumber="71">Figs 50B</figureCitation>
+, 
+<figureCitation id="13285191FFB4FFA122CFF8B99F3EDA48" box="[738,792,1832,1859]" captionStart="Fig" captionStartId="69.[189,232,1892,1918]" captionTargetBox="[539,1049,1375,1852]" captionTargetId="figure-436@69.[539,1049,1375,1852]" captionTargetPageId="69" captionText="Fig. 51. A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm.B. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="70" pageNumber="71">51A</figureCitation>
+, 
+<figureCitation id="13285191FFB4FFA12309F8B99F7FDA48" box="[804,857,1832,1859]" captionStart="Fig" captionStartId="71.[189,232,1892,1918]" captionTargetBox="[227,1357,1510,1848]" captionTargetId="figure-408@71.[221,1367,1506,1852]" captionTargetPageId="71" captionText="Fig. 53. Triainoceratidae from the Red Ironstone Formation, all reproduced from d’Archiac &amp; de Verneuil (1842). A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842). B. Sandbergeroceras incertum (d’Archiac &amp; de Verneuil, 1842). C. Sandbergeroceras tuberculosum (d’Archiac &amp; de Verneuil, 1842). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536244" httpUri="https://zenodo.org/record/5536244/files/figure.png" pageId="70" pageNumber="71">53A</figureCitation>
+; 
+<tableCitation id="C69178AFFFB4FFA12348F8B99FECDA49" box="[869,970,1832,1858]" captionStart="Table 31" captionStartId="72.[189,258,265,291]" captionTargetBox="[238,1373,369,427]" captionTargetPageId="72" captionText="Table 31. Conch dimensions and ratios of selected specimen ofSandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842)." httpUri="http://table.plazi.org/id/DF6C1D9CFFBAFFAF2090FE989DBDDC4D" pageId="70" pageNumber="71" tableUuid="DF6C1D9CFFBAFFAF2090FE989DBDDC4D">Table 31</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB4FFA02090F8FB996FDCBB" lastPageId="71" lastPageNumber="72" pageId="70" pageNumber="71" type="reference_group">
+<paragraph id="8BAC4D14FFB4FFA12090F8FB9834DA8F" blockId="70.[189,1042,1897,1924]" box="[189,1042,1897,1924]" pageId="70" pageNumber="71">
+<treatmentCitationGroup id="AB036A3AFFB4FFA12090F8FB9834DA8F" box="[189,1042,1897,1924]" pageId="70" pageNumber="71">
+<treatmentCitation id="0AB26B05FFB4FFA12090F8FB9F68DA8F" author="d'Archiac V. &amp; de Verneuil M. E." box="[189,846,1897,1924]" page="340" pageId="70" pageNumber="71" year="1842">
+<taxonomicName id="4C133697FFB4FFA12090F8FB9F68DA8F" authority="d'Archiac &amp; de Verneuil, 1842: 340" authorityName="d'Archiac &amp; de Verneuil" authorityPageNumber="340" authorityYear="1842" box="[189,846,1897,1924]" class="Cephalopoda" family="Goniatitidae" genus="Goniatites" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatus">
+<emphasis id="B9679106FFB4FFA12090F8FB9DB9DA88" box="[189,415,1898,1924]" italics="true" pageId="70" pageNumber="71">Goniatites costatus</emphasis>
+<bibRefCitation id="EF8230E5FFB4FFA1218BF8F89F68DA8F" author="d'Archiac V. &amp; de Verneuil M. E." box="[422,846,1897,1924]" pageId="70" pageNumber="71" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842: 340</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, pl. 31 fig. 1, 1a.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB4FFA12090F83D9857DAE3" blockId="70.[189,1186,1963,2025]" pageId="70" pageNumber="71">
+<treatmentCitationGroup id="AB036A3AFFB4FFA12090F83D9857DAE3" pageId="70" pageNumber="71">
+<taxonomicName id="4C133697FFB4FFA12090F83D9DE2DACE" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[189,452,1964,1989]" class="Cephalopoda" family="Triainoceratidae" genus="Triainoceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA12090F83D9DE2DACE" box="[189,452,1964,1989]" italics="true" pageId="70" pageNumber="71">Triainoceras costatum</emphasis>
+</taxonomicName>
+– Hyatt 1884: 336. — Korn &amp; 
+<treatmentCitation id="0AB26B05FFB4FFA12318F83A9FC9DACE" author="Klug C. &amp; Korn D." box="[821,1007,1963,1989]" page="148" pageId="70" pageNumber="71" year="2002">
+<bibRefCitation id="EF8230E5FFB4FFA12318F83A9FC9DACE" author="Klug C. &amp; Korn D." box="[821,1007,1963,1989]" pageId="70" pageNumber="71" pagination="917 - 931" refId="ref36274" refString="Klug C. &amp; Korn D. 2002. Occluded umbilicus in the Pinacitinae (Devonian) and its palaeoecological implications. Palaeontology 45: 917 - 931. https: // doi. org / 10.1111 / 1475 - 4983.00268" type="journal article" year="2002">Klug 2002: 148</bibRefCitation>
+</treatmentCitation>
+, text-fig. 137h. 
+<taxonomicName id="4C133697FFB4FFA12090F85F9E25DAE3" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[189,515,1998,2024]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="70" pageNumber="71" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB4FFA12090F85F9E25DAE3" box="[189,515,1998,2024]" italics="true" pageId="70" pageNumber="71">Sandbergeroceras costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB4FFA1220DF85F9F13DAE3" author="Schindewolf O. H." box="[544,821,1998,2024]" page="434" pageId="70" pageNumber="71" year="1940">
+<bibRefCitation id="EF8230E5FFB4FFA1220DF85F9F13DAE3" author="Schindewolf O. H." box="[544,821,1998,2024]" pageId="70" pageNumber="71" pagination="389 - 492" refId="ref37030" refString="Schindewolf O. H. 1940. &quot; Konvergenzen &quot; bei Korallen und Ammoneen. Fortschritte der Geologie, Palaontologie 1241: 389 - 492." type="journal article" year="1940">Schindewolf 1940: 434</bibRefCitation>
+</treatmentCitation>
+, pl. 1 figs 4–5, text-fig. 32.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FE9B9F44DC4D" blockId="71.[189,1399,265,433]" pageId="71" pageNumber="72">
+<treatmentCitationGroup id="AB036A3AFFB5FFA02090FE9B9F44DC4D" pageId="71" pageNumber="72">
+non 
+<taxonomicName id="4C133697FFB5FFA020DDFE9B9DDEDC28" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[240,504,266,291]" class="Cephalopoda" family="Triainoceratidae" genus="Triainoceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB5FFA020DDFE9B9DDEDC28" box="[240,504,266,291]" italics="true" pageId="71" pageNumber="72">Triainoceras costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB5FFA02238FE989EFEDC28" author="Frech F." box="[533,728,265,291]" page="177" pageId="71" pageNumber="72" year="1897">
+<bibRefCitation id="EF8230E5FFB5FFA02238FE989EFEDC28" author="Frech F." box="[533,728,265,291]" pageId="71" pageNumber="72" refId="ref35763" refString="Frech F. 1897 - 1902. Lethaea geognostica oder Beschreibung und Abbildung der fur die Gebirgs- Formationen bezeichnendsten Versteinerungen. I. Theil. Lethaea palaeozoica. 2. Band. Schweizerbart, Stuttgart. https: // doi. org / 10.5962 / bhl. title. 25536" type="journal volume" year="1897">Frech 1897: 177</bibRefCitation>
+</treatmentCitation>
+e, fig. 1b, e; 1902: 62, fig. 20c. — 
+<bibRefCitation id="EF8230E5FFB5FFA02447FE989911DC28" author="Belka Z. &amp; Klug C. &amp; Kaufmann B. &amp; Korn D. &amp; Doring S. &amp; Feist R. &amp; Wendt J." box="[1130,1335,265,292]" pageId="71" pageNumber="72" pagination="1 - 23" refId="ref34956" refString="Belka Z., Klug C., Kaufmann B., Korn D., Doring S., Feist R. &amp; Wendt J. 1999. Devonian conodont and ammonoid succession of the eastern Tafilalt (Ouidane Chebbi section), Anti-Atlas, Morocco. Acta Geologica Polonica 49: 1 - 23." type="journal article" year="1999">
+Belka 
+<emphasis id="B9679106FFB5FFA0249BFE9B98CFDC28" box="[1206,1257,265,291]" italics="true" pageId="71" pageNumber="72">et al</emphasis>
+. 1999
+</bibRefCitation>
+: pl. 5 figs 1–2. — Korn &amp; 
+<treatmentCitation id="0AB26B05FFB5FFA021F0FEBD9EB1DC4D" author="Klug C. &amp; Korn D." box="[477,663,300,326]" page="148" pageId="71" pageNumber="72" year="2002">
+<bibRefCitation id="EF8230E5FFB5FFA021F0FEBD9EB1DC4D" author="Klug C. &amp; Korn D." box="[477,663,300,326]" pageId="71" pageNumber="72" pagination="917 - 931" refId="ref36274" refString="Klug C. &amp; Korn D. 2002. Occluded umbilicus in the Pinacitinae (Devonian) and its palaeoecological implications. Palaeontology 45: 917 - 931. https: // doi. org / 10.1111 / 1475 - 4983.00268" type="journal article" year="2002">Klug 2002: 148</bibRefCitation>
+</treatmentCitation>
+, text-fig. 137d, f.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FEC19FECDC61" blockId="71.[189,1399,265,433]" box="[189,970,335,362]" pageId="71" pageNumber="72">
+<treatmentCitationGroup id="AB036A3AFFB5FFA02090FEC19FECDC61" box="[189,970,335,362]" pageId="71" pageNumber="72">
+non 
+<taxonomicName id="4C133697FFB5FFA020DDFEC19DDADC62" box="[240,508,336,361]" class="Cephalopoda" family="Triainoceratidae" genus="Triaenoceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB5FFA020DDFEC19DDADC62" box="[240,508,336,361]" italics="true" pageId="71" pageNumber="72">Triaenoceras costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB5FFA02237FEC19F38DC61" author="Drevermann F." box="[538,798,335,362]" page="85" pageId="71" pageNumber="72" year="1903">
+<bibRefCitation id="EF8230E5FFB5FFA02237FEC19F38DC61" author="Drevermann F." box="[538,798,335,362]" pageId="71" pageNumber="72" pagination="85 - 92" refId="ref35661" refString="Drevermann F. 1903. Ueber Triaenoceras costatum A. V. sp. Zeitschrift der Deutschen Geologischen Gesellschaft 55: 85 - 92." type="journal article" year="1903">Drevermann 1903: 85</bibRefCitation>
+</treatmentCitation>
+, pl. 5 figs 1–5.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FEE298ACDC86" blockId="71.[189,1399,265,433]" box="[189,1162,370,397]" pageId="71" pageNumber="72">
+<treatmentCitationGroup id="AB036A3AFFB5FFA02090FEE298ACDC86" box="[189,1162,370,397]" pageId="71" pageNumber="72">
+non 
+<taxonomicName id="4C133697FFB5FFA020DDFEE39E11DC87" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[240,567,370,396]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB5FFA020DDFEE39E11DC87" box="[240,567,370,396]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB5FFA0227EFEE39F85DC86" author="Termier G. &amp; Termier H." box="[595,931,370,397]" page="54" pageId="71" pageNumber="72" year="1950">
+<bibRefCitation id="EF8230E5FFB5FFA0227EFEE39F85DC86" author="Termier G. &amp; Termier H." box="[595,931,370,397]" pageId="71" pageNumber="72" pagination="1 - 246" refId="ref37079" refString="Termier G. &amp; Termier H. 1950. Paleontologie Marocaine. II. Invertebres de l'ere Primaire. Fascicule III. Mollusques. Notes et memoires, Service geologique, Protectorat de la Republique francaise au Maroc, Direction de la Production industrielle et des Mines, Division des Mines et de la Geologie Republique francaise Maroc 78: 1 - 246." type="journal article" year="1950">Termier &amp; Termier 1950: 54</bibRefCitation>
+</treatmentCitation>
+, pl. 150 figs 52–54.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FE07996FDCBB" blockId="71.[189,1399,265,433]" box="[189,1353,406,433]" pageId="71" pageNumber="72">
+<treatmentCitationGroup id="AB036A3AFFB5FFA02090FE07996FDCBB" box="[189,1353,406,433]" pageId="71" pageNumber="72">
+non 
+<taxonomicName id="4C133697FFB5FFA020DDFE079EC6DCBB" box="[240,736,406,432]" class="Cephalopoda" family="Pharciceratidae" genus="Pharciceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="costatum" subGenus="Sandbergeroceras">
+<emphasis id="B9679106FFB5FFA020DDFE079D58DCBB" box="[240,382,406,432]" italics="true" pageId="71" pageNumber="72">Pharciceras</emphasis>
+(
+<emphasis id="B9679106FFB5FFA021BDFE079E43DCBB" box="[400,613,406,432]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras</emphasis>
+) 
+<emphasis id="B9679106FFB5FFA0225BFE069EC6DCBB" box="[630,736,407,432]" italics="true" pageId="71" pageNumber="72">costatum</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0AB26B05FFB5FFA022D0FE079FE4DCBB" author="Petter G." box="[765,962,406,433]" page="144" pageId="71" pageNumber="72" year="1959">
+<bibRefCitation id="EF8230E5FFB5FFA022D0FE079FE4DCBB" author="Petter G." box="[765,962,406,433]" pageId="71" pageNumber="72" pagination="1 - 313" refId="ref36945" refString="Petter G. 1959. Goniatites devoniennes du Sahara. Publications du Service de la Carte geologique de l'Algerie (nouvelle serie), Paleontologie 2: 1 - 313." type="journal article" year="1959">Petter 1959: 144</bibRefCitation>
+</treatmentCitation>
+, pl. 8 fig. 13, 13a, text-fig. 
+<quantity id="4CEBE0F1FFB5FFA024D2FE07990BDCBB" box="[1279,1325,406,432]" metricMagnitude="-2" metricUnit="kg" metricValue="3.3" pageId="71" pageNumber="72" unit="g" value="33.0">33g</quantity>
+, l.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB5FFA02090FE469D70DF82" pageId="71" pageNumber="72" type="diagnosis">
+<paragraph id="8BAC4D14FFB5FFA02090FE469D10DCFA" blockId="71.[189,310,471,497]" box="[189,310,471,497]" pageId="71" pageNumber="72">
+<heading id="D0E4FA78FFB5FFA02090FE469D10DCFA" bold="true" box="[189,310,471,497]" fontSize="11" level="3" pageId="71" pageNumber="72" reason="3">
+<emphasis id="B9679106FFB5FFA02090FE469D10DCFA" bold="true" box="[189,310,471,497]" pageId="71" pageNumber="72">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FD979D70DF82" blockId="71.[189,1399,518,649]" pageId="71" pageNumber="72">
+Species of 
+<taxonomicName id="4C133697FFB5FFA0216AFD979E3ADF2B" authorityName="Hyatt" authorityYear="1884" box="[327,540,518,544]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="genus">
+<emphasis id="B9679106FFB5FFA0216AFD979E3ADF2B" box="[327,540,518,544]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras</emphasis>
+</taxonomicName>
+with discoidal, evolute conch at 
+<quantity id="4CEBE0F1FFB5FFA02397FD979837DF2B" box="[954,1041,518,544]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="71" pageNumber="72" unit="mm" value="30.0">30 mm</quantity>
+dm (ww /dm ~0.45; uw/ dm ~ 0.40). Whorl profile weakly depressed (ww/ wh ~1.30); venter narrowly rounded. Two moderately deep spiral grooves on the venter. Shell ornament with 30 sigmoidal, sharp ribs on the flanks and coarse growth lines.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB5FFA02090FD219DF6DE4A" pageId="71" pageNumber="72" type="materials_examined">
+<paragraph id="8BAC4D14FFB5FFA02090FD219D8CDFC1" blockId="71.[189,426,688,714]" box="[189,426,688,714]" pageId="71" pageNumber="72">
+<heading id="D0E4FA78FFB5FFA02090FD219D8CDFC1" bold="true" box="[189,426,688,714]" fontSize="11" level="3" pageId="71" pageNumber="72" reason="3">
+<emphasis id="B9679106FFB5FFA02090FD219D8CDFC1" bold="true" box="[189,426,688,714]" pageId="71" pageNumber="72">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA020C7FD4E9DF6DE4A" blockId="71.[189,1399,735,833]" pageId="71" pageNumber="72">
+<materialsCitation id="3B7B4749FFB5FFA020C7FD4E9DF6DE4A" ID-GBIF-Occurrence="3382548363" collectionCode="MB" collectorName="Erbreich" country="Germany" county="Frasnian" location="Rhenish Mountains" municipality="Dillenburg" pageId="71" pageNumber="72" specimenCode="MB.C.7695" specimenCount="1" typeStatus="neotype">
+<emphasis id="B9679106FFB5FFA020C7FD4E9D77DFF2" bold="true" box="[234,337,735,761]" pageId="71" pageNumber="72">
+<typeStatus id="54A8F3B6FFB5FFA020C7FD4E9D77DFF2" box="[234,337,735,761]" pageId="71" pageNumber="72">Neotype</typeStatus>
+</emphasis>
+(here designated) 
+<collectingCountry id="F3040D84FFB5FFA02090FC929D77DE16" box="[189,337,771,797]" name="Germany" pageId="71" pageNumber="72">GERMANY</collectingCountry>
+• 
+<location id="8ECC1BCFFFB5FFA02153FC939E56DE17" LSID="urn:lsid:plazi:treatment:03BAFC02FFB3FFA52217F9679FCAD8CE:8ECC1BCFFFB5FFA02153FC939E56DE17" box="[382,624,770,796]" country="Germany" county="Frasnian" municipality="Dillenburg" name="Rhenish Mountains" pageId="71" pageNumber="72">Rhenish Mountains</location>
+, 
+<collectingMunicipality id="6BC8D76EFFB5FFA022ABFC939F2EDE17" box="[646,776,770,796]" pageId="71" pageNumber="72">Dillenburg</collectingMunicipality>
+; 
+<geologicalTimeScale id="F933CDBFFFB5FFA02333FC939FE9DE17" box="[798,975,770,796]" pageId="71" pageNumber="72">early Frasnian</geologicalTimeScale>
+(Red Ironstone); 
+<collectorName id="26E628C2FFB5FFA02493FC939905DE17" box="[1214,1315,770,796]" pageId="71" pageNumber="72">Erbreich</collectorName>
+Coll.; 
+<specimenCode id="DBB5E56FFFB5FFA02090FCB79D6DDE4A" box="[189,331,806,833]" pageId="71" pageNumber="72">MB.C.7695</specimenCode>
+. (
+<figureCitation id="13285191FFB5FFA02172FCB79DEEDE4A" box="[351,456,806,833]" captionStart="Fig" captionStartId="68.[189,232,1894,1920]" captionTargetBox="[432,1152,867,1832]" captionTargetId="figure-298@68.[425,1163,862,1843]" captionTargetPageId="68" captionText="Fig. 50. A. Sandbergeroceras archiaci sp. nov., holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). B. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), neotype MB.C.7695 (Erbreich Coll.) from Dillenburg.C. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="71" pageNumber="72">Fig. 50B</figureCitation>
+)
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB5FFA02090FCF69D3FD9AD" pageId="71" pageNumber="72" type="discussion">
+<paragraph id="8BAC4D14FFB5FFA02090FCF69E0ADE8A" blockId="71.[189,556,871,897]" box="[189,556,871,897]" pageId="71" pageNumber="72">
+<heading id="D0E4FA78FFB5FFA02090FCF69E0ADE8A" bold="true" box="[189,556,871,897]" fontSize="11" level="3" pageId="71" pageNumber="72" reason="3">
+<emphasis id="B9679106FFB5FFA02090FCF69E0ADE8A" bold="true" box="[189,556,871,897]" pageId="71" pageNumber="72">
+Remarks to the 
+<typeStatus id="54A8F3B6FFB5FFA021A8FCF69D9DDE8A" box="[389,443,871,897]" pageId="71" pageNumber="72">type</typeStatus>
+material
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FC079D3FD9AD" blockId="71.[189,1400,918,1190]" pageId="71" pageNumber="72">
+The whereabouts of the original material is not known. The specimen illustrated by 
+<bibRefCitation id="EF8230E5FFB5FFA02497FC079D52DED8" author="d'Archiac V. &amp; de Verneuil M. E." pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842</bibRefCitation>
+: pl. 36 fig. 1) does not exist in the de Verneuil collection at the University of Lyon, where other original specimens of this work are located (Emmanuel Robert, written comm., 
+<date id="FFAD6BD4FFB5FFA02521FC4D9CDAD912" pageId="71" pageNumber="72" value="2021-04-08">
+April 8 
+<superScript id="7C66E05CFFB5FFA0254FFC4A9949DEE2" attach="none" box="[1378,1391,987,1001]" fontSize="6" pageId="71" pageNumber="72">th</superScript>
+, 2021
+</date>
+). However, the description and illustration by 
+<bibRefCitation id="EF8230E5FFB5FFA0230DFC6E98BFD912" author="d'Archiac V. &amp; de Verneuil M. E." box="[800,1177,1023,1049]" pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842)</bibRefCitation>
+allows the species to be characterised (
+<figureCitation id="13285191FFB5FFA02182FBB39E2ED936" box="[431,520,1058,1085]" captionStart="Fig" captionStartId="71.[189,232,1892,1918]" captionTargetBox="[227,1357,1510,1848]" captionTargetId="figure-408@71.[221,1367,1506,1852]" captionTargetPageId="71" captionText="Fig. 53. Triainoceratidae from the Red Ironstone Formation, all reproduced from d’Archiac &amp; de Verneuil (1842). A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842). B. Sandbergeroceras incertum (d’Archiac &amp; de Verneuil, 1842). C. Sandbergeroceras tuberculosum (d’Archiac &amp; de Verneuil, 1842). Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536244" httpUri="https://zenodo.org/record/5536244/files/figure.png" pageId="71" pageNumber="72">Fig. 53</figureCitation>
+). The only available specimen MB.C.7695 corresponds well with the one illustrated by 
+<bibRefCitation id="EF8230E5FFB5FFA02148FBD79ECFD96B" author="d'Archiac V. &amp; de Verneuil M. E." box="[357,745,1094,1120]" pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842)</bibRefCitation>
+, in conch form as well as sculpture and suture line. It can therefore, with little doubt, be considered conspecific. It is herewith proposed as the 
+<typeStatus id="54A8F3B6FFB5FFA024E3FBF8990DD988" box="[1230,1323,1129,1155]" pageId="71" pageNumber="72">neotype</typeStatus>
+of the species.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFB5FFAF2090FB5C9D51DE19" lastPageId="72" lastPageNumber="73" pageId="71" pageNumber="72" type="description">
+<paragraph id="8BAC4D14FFB5FFA02090FB5C9D68D9EC" blockId="71.[189,334,1229,1255]" box="[189,334,1229,1255]" pageId="71" pageNumber="72">
+<heading id="D0E4FA78FFB5FFA02090FB5C9D68D9EC" bold="true" box="[189,334,1229,1255]" fontSize="11" level="3" pageId="71" pageNumber="72" reason="3">
+<emphasis id="B9679106FFB5FFA02090FB5C9D68D9EC" bold="true" box="[189,334,1229,1255]" pageId="71" pageNumber="72">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFB5FFA02090FB6D9950D8A8" blockId="71.[188,1399,1276,1443]" pageId="71" pageNumber="72">
+MB.C.7695: incomplete, somewhat distorted specimen of about 
+<quantity id="4CEBE0F1FFB5FFA023E6FB6D9807D81C" box="[971,1057,1276,1303]" metricMagnitude="-2" metricUnit="m" metricValue="4.2" pageId="71" pageNumber="72" unit="mm" value="42.0">42 mm</quantity>
+conch diameter in iron-rich limestone (
+<figureCitation id="13285191FFB5FFA02113FA8E9D8FD831" box="[318,425,1311,1338]" captionStart="Fig" captionStartId="68.[189,232,1894,1920]" captionTargetBox="[432,1152,867,1832]" captionTargetId="figure-298@68.[425,1163,862,1843]" captionTargetPageId="68" captionText="Fig. 50. A. Sandbergeroceras archiaci sp. nov., holotype MB.C.3671 (Koch Coll.) from Oberscheld (Anna Mine). B. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), neotype MB.C.7695 (Erbreich Coll.) from Dillenburg.C. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), specimen SMF.Mbg.6360 from Oberscheld. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536238" httpUri="https://zenodo.org/record/5536238/files/figure.png" pageId="71" pageNumber="72">Fig. 50B</figureCitation>
+). Although somewhat deformed laterally, it allows the study of conch geometry and ontogenetic development. At 
+<quantity id="4CEBE0F1FFB5FFA02236FAD29E49D856" box="[539,623,1347,1373]" metricMagnitude="-2" metricUnit="m" metricValue="3.3" pageId="71" pageNumber="72" unit="mm" value="33.0">33 mm</quantity>
+diameter, the conch is discoidal and subevolute (ww / dm ~ 0.45, uw/ dm ~0.40) with a broad pear-shaped whorl profile (ww /wh ~ 1.30), which is widest in the middle of the flanks. The umbilical edge is rounded; the external side has a rounded keel accompanied by
+</paragraph>
+<caption id="DF6C1D9CFFB5FFA02090F8F59DF3DAE3" ID-DOI="http://doi.org/10.5281/zenodo.5536244" ID-Zenodo-Dep="5536244" httpUri="https://zenodo.org/record/5536244/files/figure.png" pageId="71" pageNumber="72" startId="71.[189,232,1892,1918]" targetBox="[227,1357,1510,1848]" targetPageId="71">
+<paragraph id="8BAC4D14FFB5FFA02090F8F59DF3DAE3" blockId="71.[187,1399,1892,2024]" pageId="71" pageNumber="72">
+<emphasis id="B9679106FFB5FFA02090F8F59D31DA75" bold="true" box="[189,279,1892,1918]" pageId="71" pageNumber="72">Fig. 53.</emphasis>
+<taxonomicName id="4C133697FFB5FFA02136F8F59DFCDA75" authorityName="Hyatt" authorityYear="1884" box="[283,474,1892,1918]" class="Cephalopoda" family="Triainoceratidae" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="family">Triainoceratidae</taxonomicName>
+from the Red Ironstone Formation, all reproduced from 
+<bibRefCitation id="EF8230E5FFB5FFA02470F8F59D2ADAA9" author="d'Archiac V. &amp; de Verneuil M. E." pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil (1842)</bibRefCitation>
+. 
+<emphasis id="B9679106FFB5FFA02134F8169D08DAAA" bold="true" box="[281,302,1927,1953]" pageId="71" pageNumber="72">A</emphasis>
+. 
+<taxonomicName id="4C133697FFB5FFA02111F8169821DAA9" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[316,1031,1927,1954]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFB5FFA02111F8169EA4DAAA" box="[316,642,1927,1953]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras costatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB5FFA022BDF8169FD8DAA9" author="d'Archiac V. &amp; de Verneuil M. E." box="[656,1022,1927,1954]" pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+. 
+<emphasis id="B9679106FFB5FFA0243DF8199802DAA9" bold="true" box="[1040,1060,1928,1954]" pageId="71" pageNumber="72">B</emphasis>
+. 
+<taxonomicName id="4C133697FFB5FFA0241EF8169E19DACE" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="incertum">
+<emphasis id="B9679106FFB5FFA0241EF8169950DAAA" box="[1075,1398,1927,1953]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras incertum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB5FFA020E8F83A9E10DACE" author="d'Archiac V. &amp; de Verneuil M. E." box="[197,566,1963,1989]" pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+. 
+<emphasis id="B9679106FFB5FFA02267F83B9E79DACF" bold="true" box="[586,607,1962,1988]" pageId="71" pageNumber="72">C</emphasis>
+. 
+<taxonomicName id="4C133697FFB5FFA02243F83A9955DACE" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[622,1395,1963,1989]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="71" pageNumber="72" phylum="Mollusca" rank="species" species="tuberculosum">
+<emphasis id="B9679106FFB5FFA02243F83A9FCCDACE" box="[622,1002,1963,1989]" italics="true" pageId="71" pageNumber="72">Sandbergeroceras tuberculosum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFB5FFA023D4F83A994CDACE" author="d'Archiac V. &amp; de Verneuil M. E." box="[1017,1386,1963,1989]" pageId="71" pageNumber="72" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+. Scale bar units = 1 mm.
+</paragraph>
+</caption>
+<caption id="DF6C1D9CFFBAFFAF2090FE989DBDDC4D" ID-Table-UUID="DF6C1D9CFFBAFFAF2090FE989DBDDC4D" httpUri="http://table.plazi.org/id/DF6C1D9CFFBAFFAF2090FE989DBDDC4D" pageId="72" pageNumber="73" startId="72.[189,258,265,291]" targetBox="[238,1373,369,427]" targetIsTable="true" targetPageId="72">
+<paragraph id="8BAC4D14FFBAFFAF2090FE989DBDDC4D" blockId="72.[187,1399,265,326]" pageId="72" pageNumber="73">
+<emphasis id="B9679106FFBAFFAF2090FE989D0ADC28" bold="true" box="[189,300,265,291]" pageId="72" pageNumber="73">Table 31.</emphasis>
+Conch dimensions and ratios of selected specimen of 
+<taxonomicName id="4C133697FFBAFFAF23BCFE989DB1DC4D" authority="(d'Archiac &amp; de Verneuil, 1842)" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF23BCFE9898F2DC28" box="[913,1236,265,291]" italics="true" pageId="72" pageNumber="73">Sandbergeroceras costatum</emphasis>
+(
+<bibRefCitation id="EF8230E5FFBAFFAF24C9FE989DA8DC4D" author="d'Archiac V. &amp; de Verneuil M. E." pageId="72" pageNumber="73" pagination="303 - 410" refId="ref35582" refString="d'Archiac V. &amp; de Verneuil M. E. 1842. On the fossils of the older deposits in the Rhenish Provinces; preceded by a general survey of the fauna of the Palaeozoic rocks, and followed by a tabular list of the organic remains of the Devonian. Transactions of the Geological Society of London (2) 6: 303 - 410. https: // doi. org / 10.1144 / transgslb. 6.2.303" type="journal article" year="1842">d’Archiac &amp; de Verneuil, 1842</bibRefCitation>
+)
+</taxonomicName>
+.
+</paragraph>
+</caption>
+<paragraph id="8BAC4D14FFBAFFAF20DBFEE0997BDCA0" pageId="72" pageNumber="73">
+<table id="F913BFB4FFBA001820C3FEE0997BDCA0" box="[238,1373,369,427]" gridcols="11" gridrows="2" pageId="72" pageNumber="73">
+<tr id="35234F56FFBA001820C3FEE0997BDC81" box="[238,1373,369,394]" gridrow="0" pageId="72" pageNumber="73">
+<th id="76F2262AFFBA001820C3FEE09D4ADC81" box="[238,364,369,394]" gridcol="0" gridrow="0" pageId="72" pageNumber="73">Specimen</th>
+<td id="76F2262AFFBA00182191FEE09DCDDC81" box="[444,491,369,394]" gridcol="1" gridrow="0" pageId="72" pageNumber="73">dm</td>
+<td id="76F2262AFFBA00182234FEE09E6EDC81" box="[537,584,369,394]" gridcol="2" gridrow="0" pageId="72" pageNumber="73">ww</td>
+<td id="76F2262AFFBA0018225AFEE09E83DC81" box="[631,677,369,394]" gridcol="3" gridrow="0" pageId="72" pageNumber="73">wh</td>
+<td id="76F2262AFFBA001822FCFEE09F26DC81" box="[721,768,369,394]" gridcol="4" gridrow="0" pageId="72" pageNumber="73">uw</td>
+<td id="76F2262AFFBA0018231CFEE09F74DC81" box="[817,850,369,394]" gridcol="5" gridrow="0" pageId="72" pageNumber="73">ah</td>
+<td id="76F2262AFFBA00182357FEE09FF2DC81" box="[890,980,369,394]" gridcol="6" gridrow="0" pageId="72" pageNumber="73">ww / dm</td>
+<td id="76F2262AFFBA001823C5FEE09819DC81" box="[1000,1087,369,394]" gridcol="7" gridrow="0" pageId="72" pageNumber="73">ww / wh</td>
+<td id="76F2262AFFBA00182479FEE0988FDC81" box="[1108,1193,369,394]" gridcol="8" gridrow="0" pageId="72" pageNumber="73">uw / dm</td>
+<td id="76F2262AFFBA001824E8FEE09923DC81" box="[1221,1285,369,394]" gridcol="9" gridrow="0" pageId="72" pageNumber="73">WER</td>
+<td id="76F2262AFFBA00182500FEE0997BDC81" box="[1325,1373,369,394]" gridcol="10" gridrow="0" pageId="72" pageNumber="73">
+<emphasis id="B9679106FFBAFFAF2500FEE3997ADC81" bold="true" box="[1325,1372,370,394]" pageId="72" pageNumber="73">IZR</emphasis>
+</td>
+</tr>
+<tr id="35234F56FFBA001820C3FE02997BDCA0" box="[238,1373,403,427]" gridrow="1" pageId="72" pageNumber="73">
+<th id="76F2262AFFBA001820C3FE029D4ADCA0" box="[238,364,403,427]" gridcol="0" gridrow="1" pageId="72" pageNumber="73">MB.C.7695</th>
+<td id="76F2262AFFBA00182191FE029DCDDCA0" box="[444,491,403,427]" gridcol="1" gridrow="1" pageId="72" pageNumber="73">33.2</td>
+<td id="76F2262AFFBA00182234FE029E6EDCA0" box="[537,584,403,427]" gridcol="2" gridrow="1" pageId="72" pageNumber="73">15.1</td>
+<td id="76F2262AFFBA0018225AFE029E83DCA0" box="[631,677,403,427]" gridcol="3" gridrow="1" pageId="72" pageNumber="73">11.7</td>
+<td id="76F2262AFFBA001822FCFE029F26DCA0" box="[721,768,403,427]" gridcol="4" gridrow="1" pageId="72" pageNumber="73">13.5</td>
+<td id="76F2262AFFBA0018231CFE029F74DCA0" box="[817,850,403,427]" gridcol="5" gridrow="1" pageId="72" pageNumber="73">7.3</td>
+<td id="76F2262AFFBA00182357FE029FF2DCA0" box="[890,980,403,427]" gridcol="6" gridrow="1" pageId="72" pageNumber="73">0.45</td>
+<td id="76F2262AFFBA001823C5FE029819DCA0" box="[1000,1087,403,427]" gridcol="7" gridrow="1" pageId="72" pageNumber="73">1.29</td>
+<td id="76F2262AFFBA00182479FE02988FDCA0" box="[1108,1193,403,427]" gridcol="8" gridrow="1" pageId="72" pageNumber="73">0.41</td>
+<td id="76F2262AFFBA001824E8FE029923DCA0" box="[1221,1285,403,427]" gridcol="9" gridrow="1" pageId="72" pageNumber="73">1.64</td>
+<td id="76F2262AFFBA00182500FE02997BDCA0" box="[1325,1373,403,427]" gridcol="10" gridrow="1" pageId="72" pageNumber="73">0.38</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="8BAC4D14FFBAFFAF2090FD919F3CDF8D" blockId="72.[188,1398,512,647]" pageId="72" pageNumber="73">shallow longitudinal grooves. The interior whorls are poorly preserved and do not allow any study of the ornament. The last one and one-half whorls possess sharp ribs, which initially extend with a concave curve, then straight and finally with a slightly convex curve over the flank. The penultimate whorl shows sharp growth lines with the same course as the ribs.</paragraph>
+<paragraph id="8BAC4D14FFBAFFAF2090FD3E9D51DE19" blockId="72.[189,1399,687,786]" pageId="72" pageNumber="73">
+Only a short portion of the suture line is visible in the ventral area. The external lobe is parallel-sided with a median saddle that reaches about half the height of the lobe. The E1 lobe is very narrow and very deep (
+<figureCitation id="13285191FFBAFFAF2129FD669D4DDE19" box="[260,363,759,786]" captionStart="Fig" captionStartId="69.[189,232,1892,1918]" captionTargetBox="[539,1049,1375,1852]" captionTargetId="figure-436@69.[539,1049,1375,1852]" captionTargetPageId="69" captionText="Fig. 51. A. Sandbergeroceras costatum (d’Archiac &amp; de Verneuil, 1842), suture line of neotype MB.C.7695 from Dillenburg, at ww =15.7 mm, wh= 12.7 mm.B. Sandbergeroceras tuberculosocostatum (Sandberger &amp; Sandberger, 1850), suture line of specimen SMF.Mbg.6360 from Oberscheld, at ww =13.5 mm, wh =15.5 mm. Abbreviations: see Material and methods. Scale bar units = 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536240" httpUri="https://zenodo.org/record/5536240/files/figure.png" pageId="72" pageNumber="73">Fig.51A</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C3091E9FFFBAFFAF2090FCA89EF3D972" pageId="72" pageNumber="73" type="discussion">
+<paragraph id="8BAC4D14FFBAFFAF2090FCA89D09DE58" blockId="72.[189,303,825,851]" box="[189,303,825,851]" pageId="72" pageNumber="73">
+<heading id="D0E4FA78FFBAFFAF2090FCA89D09DE58" bold="true" box="[189,303,825,851]" fontSize="11" level="3" pageId="72" pageNumber="73" reason="3">
+<emphasis id="B9679106FFBAFFAF2090FCA89D09DE58" bold="true" box="[189,303,825,851]" pageId="72" pageNumber="73">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BAC4D14FFBAFFAF2090FCF99899DEE4" blockId="72.[189,1399,872,1007]" pageId="72" pageNumber="73">
+<taxonomicName id="4C133697FFBAFFAF2090FCF99E25DE89" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[189,515,872,898]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF2090FCF99E25DE89" box="[189,515,872,898]" italics="true" pageId="72" pageNumber="73">Sandbergeroceras costatum</emphasis>
+</taxonomicName>
+differs from 
+<taxonomicName id="4C133697FFBAFFAF22B0FCF89F8BDE89" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[669,941,872,899]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFBAFFAF22B0FCF89F8BDE89" box="[669,941,872,899]" italics="true" pageId="72" pageNumber="73">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+in the form of the whorl profile, which is much stouter in 
+<taxonomicName id="4C133697FFBAFFAF218BFC1C9E14DEAD" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[422,562,909,935]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF218BFC1C9E14DEAD" box="[422,562,909,935]" italics="true" pageId="72" pageNumber="73">S. costatum</emphasis>
+</taxonomicName>
+(ww/ wh ~ 
+<quantity id="4CEBE0F1FFBAFFAF22E9FC1D9F3CDEAD" box="[708,794,908,934]" metricMagnitude="-2" metricUnit="m" metricValue="3.302" pageId="72" pageNumber="73" unit="in" value="1.3">1.30 in</quantity>
+comparison to ~ 
+<quantity id="4CEBE0F1FFBAFFAF23C2FC1D9863DEAD" box="[1007,1093,908,934]" metricMagnitude="-2" metricUnit="m" metricValue="2.794" pageId="72" pageNumber="73" unit="in" value="1.1">1.10 in</quantity>
+<taxonomicName id="4C133697FFBAFFAF247DFC1C9943DEAD" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[1104,1381,908,935]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFBAFFAF247DFC1C9943DEAD" box="[1104,1381,908,935]" italics="true" pageId="72" pageNumber="73">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+). The whorl profile begins to flatten with a subacute venter already at about 
+<quantity id="4CEBE0F1FFBAFFAF246FFC2198B1DEC0" box="[1090,1175,944,971]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="72" pageNumber="73" unit="mm" value="30.0">30 mm</quantity>
+conch diameter in 
+<taxonomicName id="4C133697FFBAFFAF2090FC449DEBDEE5" baseAuthorityName="Sandberger &amp; Sandberger" baseAuthorityYear="1850" box="[189,461,980,1007]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="tuberculosocostatum">
+<emphasis id="B9679106FFBAFFAF2090FC449DEBDEE5" box="[189,461,980,1007]" italics="true" pageId="72" pageNumber="73">S. tuberculosocostatum</emphasis>
+</taxonomicName>
+, while the venter is still rounded at this diameter in 
+<taxonomicName id="4C133697FFBAFFAF241CFC44989EDEE5" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[1073,1208,981,1007]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF241CFC44989EDEE5" box="[1073,1208,981,1007]" italics="true" pageId="72" pageNumber="73">S. costatum</emphasis>
+</taxonomicName>
+.
+</paragraph>
+<paragraph id="8BAC4D14FFBAFFAF2090FB879EF3D972" blockId="72.[185,1399,1046,1145]" pageId="72" pageNumber="73">
+The main difference to 
+<taxonomicName id="4C133697FFBAFFAF21CDFB869E44D93B" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[480,610,1046,1073]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFBAFFAF21CDFB869E44D93B" box="[480,610,1046,1073]" italics="true" pageId="72" pageNumber="73">S. archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFBAFFAF2240FB869EEAD93A" box="[621,716,1047,1073]" pageId="72" pageNumber="73" rank="species">sp. nov.</taxonomicNameLabel>
+is that the ventrolateral grooves are less pronounced in 
+<taxonomicName id="4C133697FFBAFFAF2090FBAA9D61D95F" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[189,327,1083,1109]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF2090FBAA9D61D95F" box="[189,327,1083,1109]" italics="true" pageId="72" pageNumber="73">S. costatum</emphasis>
+</taxonomicName>
+. The umbilicus is, at a comparable diameter, narrower in 
+<taxonomicName id="4C133697FFBAFFAF242AFBAA98B7D95F" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[1031,1169,1083,1109]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF242AFBAA98B7D95F" box="[1031,1169,1083,1109]" italics="true" pageId="72" pageNumber="73">S. costatum</emphasis>
+</taxonomicName>
+(ww/ dm ~ 
+<quantity id="4CEBE0F1FFBAFFAF250FFBAA9951D95F" box="[1314,1399,1082,1109]" metricMagnitude="-2" metricUnit="m" metricValue="1.016" pageId="72" pageNumber="73" unit="in" value="0.4">0.40 in</quantity>
+<taxonomicName id="4C133697FFBAFFAF2094FBCE9D62D973" baseAuthorityName="d'Archiac &amp; de Verneuil" baseAuthorityYear="1842" box="[185,324,1119,1145]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="costatum">
+<emphasis id="B9679106FFBAFFAF2094FBCE9D62D973" box="[185,324,1119,1145]" italics="true" pageId="72" pageNumber="73">S. costatum</emphasis>
+</taxonomicName>
+but ~ 
+<quantity id="4CEBE0F1FFBAFFAF21A1FBCF9DF8D973" box="[396,478,1118,1145]" metricMagnitude="-2" metricUnit="m" metricValue="1.27" pageId="72" pageNumber="73" unit="in" value="0.5">0.50 in</quantity>
+<taxonomicName id="4C133697FFBAFFAF21C8FBCE9E45D973" authority="Korn &amp; Bockwinkel, 2021" authorityName="Korn &amp; Bockwinkel" authorityYear="2021" box="[485,611,1118,1145]" class="Cephalopoda" family="Triainoceratidae" genus="Sandbergeroceras" kingdom="Animalia" order="Ammonoidea" pageId="72" pageNumber="73" phylum="Mollusca" rank="species" species="archiaci" status="sp. nov.">
+<emphasis id="B9679106FFBAFFAF21C8FBCE9E45D973" box="[485,611,1118,1145]" italics="true" pageId="72" pageNumber="73">S. archiaci</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A2542C7DFFBAFFAF2247FBCE9EEFD972" box="[618,713,1119,1145]" pageId="72" pageNumber="73" rank="species">sp. nov.</taxonomicNameLabel>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

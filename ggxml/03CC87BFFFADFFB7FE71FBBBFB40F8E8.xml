@@ -1,0 +1,189 @@
+<document id="916C7989F1CCD0B736A9C7568843C1DA" ID-DOI="http://doi.org/10.5281/zenodo.5608727" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550930" ID-ISSN="2118-9773" ID-Zenodo-Dep="5608727" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFFADFFB7FE71FBBBFB40F8E8" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Stoyanowites Korn" docType="treatment" docVersion="7" lastPageNumber="97" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="96" pageNumber="97" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7A50652AB6BD80BA0630BC6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599D44F088F7C803E706837D6">
+<mods:title id="13FDA20519B9607B6EE9D9C741C4E5C2">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A604D937385D31D7D2BF0255" type="personal">
+<mods:role id="51692204BF3ADA9FFD3AB307D8AEF3CC">
+<mods:roleTerm id="BD2BD8394B6D48B6636C0F25B275134B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4DFB346B713B556725A656EA">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812DB0FCECFB7A81D857768B8F" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F14778F8F4F381AF87ECE951">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48DEDA6754BB862BDD8DDC20" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A72870260694DD725F848F0E3F322" type="personal">
+<mods:role id="6C3D2CE051BA52C989F13B7BA4ABE214">
+<mods:roleTerm id="A9329712899ED3C67FFAC7C1C8FD408F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F35E04B8E44E42CE2BBCAF1">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB3A1E5678B5E86D7FAA23B4" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399389A442937169C92EC9D47">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BCB3FA4D5F5E031D7BCC8173" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD87738162ECD1EE57F0DB27C" type="personal">
+<mods:role id="EBC7D4EE921FFDE041C84C68DDAFB862">
+<mods:roleTerm id="79F91492406EA1EAF4F86531F5E2200F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45499EE3F8EBB0BDEA867717">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD670DFBFD7D35C42EE0503A3" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD39C7E08534991C9FE4C304">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F7C16DD03793919ECC460A1" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E04F6042330CD43CDE7C8A220" type="personal">
+<mods:role id="FAE14BA8E723D32F49DD1B5D368CF21F">
+<mods:roleTerm id="F5BB0DB9281AFF8D593D8C017C214D4D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C0312D7814C4621D26FCAC72A">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C6933A8CD97F4D6BC4717D65615" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3DA33088BB3FB475FE11294">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9823E6837183CE754DC4DD9" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD2539E4B0FEE11F82C79197279" type="personal">
+<mods:role id="0763F0449F862FE9F2897AC68EC66D57">
+<mods:roleTerm id="BB48773F38BD2B6E0AE837D5B091CA9E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E994A36E96A05441EDDCBEC4">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E7E1369C1AB4BCA334BDBFA7" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA764B05EFEE43AAC69FB80F71">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9A21BAC553DC0786C615529" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC57DEE2FEF419FE7EA6572F6" type="personal">
+<mods:role id="8B8CD05C29C29BCB5EB45733BE96E017">
+<mods:roleTerm id="ACB6128A21984BDA4854AA6ECE844C2C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E78128837BF739A70F8C889ED">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C6528190B82690E12D60A8718FAD" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAAB3141CB189691436CA7DE7">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B5A278441E3F0CCB3F70529C" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510FE04618B1E12D1A24DB87D5">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A30044FDEFC4B32240FDD3CB7" type="host">
+<mods:titleInfo id="5E868733C66A37F6B929374D61BB3684">
+<mods:title id="C420E4A067DB3B5F9F46DEBA185EDDCA">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BFB07050E16ADC266E4283AE">
+<mods:date id="1DE35E379E1DB7970EE478634D9E799A">2021</mods:date>
+<mods:detail id="2E547940F0357C07F32CFE5E4D75E56C" type="pubDate">
+<mods:number id="A7A9FB10962E1F2EF8AF597A8902C73D">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14B69C5E24CB37EF69A91E8C" type="volume">
+<mods:number id="9C7A6814765E4D8D967B504DF0EF257F">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D38E3207705541D209D208DBB" unit="page">
+<mods:start id="B9141DB8E52F8EFC8062009C8E0E4884">1</mods:start>
+<mods:end id="F9CBE60BDEA6D5564067DB2AA2329325">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E058C5FDE9B3D5FA78B6120">journal article</mods:classification>
+<mods:identifier id="8AB9541377A1944AE8E178F006F40D85" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E151B95070ABC71A576A7802" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F8894CD6E5426118F1DD6841DE" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48827482883627FFEFD4504A" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AE85E7AC5B1577097D2C11E2" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFFADFFB7FE71FBBBFB40F8E8" ID-DOI="http://doi.org/10.5281/zenodo.5608727" ID-GBIF-Taxon="189550930" ID-Zenodo-Dep="5608727" LSID="urn:lsid:plazi:treatment:03CC87BFFFADFFB7FE71FBBBFB40F8E8" httpUri="http://treatment.plazi.org/id/03CC87BFFFADFFB7FE71FBBBFB40F8E8" lastPageNumber="97" pageId="96" pageNumber="97">
+<subSubSection id="C37F6522FFADFFB7FE71FBBBFB8AFB5D" box="[504,1084,1150,1177]" pageId="96" pageNumber="97" type="nomenclature">
+<paragraph id="8BDA36A9FFADFFB7FE71FBBBFB8AFB5D" blockId="96.[504,1084,1150,1177]" box="[504,1084,1150,1177]" pageId="96" pageNumber="97">
+<heading id="D09281C5FFADFFB7FE71FBBBFB8AFB5D" box="[504,1084,1150,1177]" centered="true" fontSize="11" level="2" pageId="96" pageNumber="97" reason="2">
+Genus 
+<taxonomicName id="4C654D2AFFADFFB7FDC3FBBAFC9AFB5D" authority="Korn" authorityName="Korn" box="[586,812,1150,1177]" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFADFFB7FDC3FBBAFD5EFB5C" bold="true" box="[586,744,1150,1176]" italics="true" pageId="96" pageNumber="97">Stoyanowites</emphasis>
+Korn
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFADFFB7FCDBFBBAFB8AFB5D" author="Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Korn D. &amp; Ashouri A. R." box="[850,1084,1150,1177]" pageId="96" pageNumber="97" pagination="41 - 57" refId="ref40576" refString="Ghaderi A., Leda L., Schobben M., Korn D. &amp; Ashouri A. R. 2014. High-resolution stratigraphy of the Changhsingian (Late Permian) successions of NW Iran and the Transcaucasus based on lithological features, conodonts, and ammonoids. Fossil Record 15: 41 - 57. https: // doi. org / 10.5194 / fr- 17 - 41 - 2014" type="journal article" year="2014">
+Ghaderi 
+<emphasis id="B911EABBFFADFFB7FC3EFBBBFC44FB5C" box="[951,1010,1150,1176]" italics="true" pageId="96" pageNumber="97">et al.</emphasis>
+, 2014
+</bibRefCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFADFFB7FF34FB04FC3BFACC" pageId="96" pageNumber="97" type="type_taxon">
+<paragraph id="8BDA36A9FFADFFB7FF34FB04FEEEFB1E" blockId="96.[189,344,1216,1242]" box="[189,344,1216,1242]" pageId="96" pageNumber="97">
+<heading id="D09281C5FFADFFB7FF34FB04FEEEFB1E" bold="true" box="[189,344,1216,1242]" fontSize="11" level="3" pageId="96" pageNumber="97" reason="3">
+<emphasis id="B911EABBFFADFFB7FF34FB04FEEEFB1E" bold="true" box="[189,344,1216,1242]" pageId="96" pageNumber="97">
+<typeStatus id="54DE880BFFADFFB7FF34FB04FF4CFB1E" box="[189,250,1216,1242]" pageId="96" pageNumber="97">Type</typeStatus>
+species
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFADFFB7FF34FB2AFC3BFACC" blockId="96.[189,909,1262,1289]" box="[189,909,1262,1289]" pageId="96" pageNumber="97">
+<taxonomicName id="4C654D2AFFADFFB7FF34FB2AFDC5FACD" authority="Stoyanow, 1910" authorityName="Stoyanow" authorityYear="1910" box="[189,627,1262,1289]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="species" species="dieneri">
+<emphasis id="B911EABBFFADFFB7FF34FB2AFE1AFACC" box="[189,428,1262,1288]" italics="true" pageId="96" pageNumber="97">Paratirolites dieneri</emphasis>
+<bibRefCitation id="EFF44B58FFADFFB7FE3DFB2BFDC5FACD" author="Stoyanow A. A." box="[436,627,1263,1289]" pageId="96" pageNumber="97" pagination="61 - 135" refId="ref41766" refString="Stoyanow A. A. 1910. On the character of the boundary of Palaeozoic and Mesozoic near Djulfa. Zapiski Imperatorskago St. - Peterburgskago Mineralogiceskago Obscestva [= Verhandlungen der Russisch- Kaiserlichen Mineralogischen Gesellschaft zu St. Petersburg], 2 nd Series 47: 61 - 135." type="book chapter" year="1910">Stoyanow, 1910</bibRefCitation>
+</taxonomicName>
+, by original designation
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFADFFB7FF34FAF4FC9CFA58" pageId="96" pageNumber="97" type="reference_group">
+<paragraph id="8BDA36A9FFADFFB7FF34FAF4FE3FFA8E" blockId="96.[189,393,1328,1354]" box="[189,393,1328,1354]" pageId="96" pageNumber="97">
+<heading id="D09281C5FFADFFB7FF34FAF4FE3FFA8E" bold="true" box="[189,393,1328,1354]" fontSize="11" level="3" pageId="96" pageNumber="97" reason="3">
+<emphasis id="B911EABBFFADFFB7FF34FAF4FE3FFA8E" bold="true" box="[189,393,1328,1354]" pageId="96" pageNumber="97">Included species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFADFFB7FF34FA9BFC9CFA58" blockId="96.[189,1399,1374,1436]" pageId="96" pageNumber="97">
+<taxonomicName id="4C654D2AFFADFFB7FF34FA9BFD13FABC" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,677,1374,1401]" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="species" species="aspinosus">
+<emphasis id="B911EABBFFADFFB7FF34FA9BFE60FABC" box="[189,470,1375,1401]" italics="true" pageId="96" pageNumber="97">Stoyanowites aspinosus</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFADFFB7FD59FA9BFC17FABC" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[720,929,1374,1401]" pageId="96" pageNumber="97" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFADFFB7FC9EFA9BFCE2FABC" box="[791,852,1374,1400]" italics="true" pageId="96" pageNumber="97">et al.</emphasis>
+, 2016
+</bibRefCitation>
+; 
+<taxonomicName id="4C654D2AFFADFFB7FC3AFA9AFAC4FABD" authority="Stoyanow, 1910" authorityName="Stoyanow" authorityYear="1910" box="[947,1394,1374,1401]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="species" species="dieneri">
+<emphasis id="B911EABBFFADFFB7FC3AFA9AFB13FABC" box="[947,1189,1374,1400]" italics="true" pageId="96" pageNumber="97">Paratirolites dieneri</emphasis>
+<bibRefCitation id="EFF44B58FFADFFB7FB26FA9BFAC4FABD" author="Stoyanow A. A." box="[1199,1394,1375,1401]" pageId="96" pageNumber="97" pagination="61 - 135" refId="ref41766" refString="Stoyanow A. A. 1910. On the character of the boundary of Palaeozoic and Mesozoic near Djulfa. Zapiski Imperatorskago St. - Peterburgskago Mineralogiceskago Obscestva [= Verhandlungen der Russisch- Kaiserlichen Mineralogischen Gesellschaft zu St. Petersburg], 2 nd Series 47: 61 - 135." type="book chapter" year="1910">Stoyanow, 1910</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFADFFB7FF34FA46FD7EFA58" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[189,712,1410,1436]" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="species" species="parallelus" status="sp. nov.">
+<emphasis id="B911EABBFFADFFB7FF34FA46FE60FA58" box="[189,470,1410,1436]" italics="true" pageId="96" pageNumber="97">Stoyanowites parallelus</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FFADFFB7FD46FA46FC9CFA58" box="[719,810,1410,1436]" pageId="96" pageNumber="97" rank="species">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFADFFB7FF34FA07FD48F9B1" pageId="96" pageNumber="97" type="diagnosis">
+<paragraph id="8BDA36A9FFADFFB7FF34FA07FE80FA19" blockId="96.[189,310,1475,1501]" box="[189,310,1475,1501]" pageId="96" pageNumber="97">
+<heading id="D09281C5FFADFFB7FF34FA07FE80FA19" bold="true" box="[189,310,1475,1501]" fontSize="11" level="3" pageId="96" pageNumber="97" reason="3">
+<emphasis id="B911EABBFFADFFB7FF34FA07FE80FA19" bold="true" box="[189,310,1475,1501]" pageId="96" pageNumber="97">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFADFFB7FF34FA36FD48F9B1" blockId="96.[188,1400,1522,1653]" pageId="96" pageNumber="97">
+Genus of the family 
+<taxonomicName id="4C654D2AFFADFFB7FE3AFA36FDF2F9C8" authorityName="Shevyrev" authorityYear="1965" box="[435,580,1522,1548]" class="Cephalopoda" family="Dzhulfitidae" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="family">Dzhulfitidae</taxonomicName>
+with moderately large conch; maximum adult diameters are between 80 and 
+<quantity id="4C9D9B4CFFADFFB7FE9BF9D1FED0F9EB" box="[274,358,1557,1584]" metricMagnitude="-2" metricUnit="m" metricValue="9.5" pageId="96" pageNumber="97" unit="mm" value="95.0">95 mm</quantity>
+. Subadult and adult stages with rectangular and compressed whorl profile. Subadult stage with weak to moderately strong lateral ribs; adult stage with weak ornament. Suture line with an external lobe that is much shorter than the adventive lobe.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFADFFB7FF34F959FB40F8E8" pageId="96" pageNumber="97" type="discussion">
+<paragraph id="8BDA36A9FFADFFB7FF34F959FE99F973" blockId="96.[189,303,1693,1719]" box="[189,303,1693,1719]" pageId="96" pageNumber="97">
+<heading id="D09281C5FFADFFB7FF34F959FE99F973" bold="true" box="[189,303,1693,1719]" fontSize="11" level="3" pageId="96" pageNumber="97" reason="3">
+<emphasis id="B911EABBFFADFFB7FF34F959FE99F973" bold="true" box="[189,303,1693,1719]" pageId="96" pageNumber="97">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFADFFB7FF34F908FB40F8E8" blockId="96.[188,1398,1739,1836]" pageId="96" pageNumber="97">
+<taxonomicName id="4C654D2AFFADFFB7FF34F908FEEEF922" box="[189,344,1740,1766]" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFADFFB7FF34F908FEEEF922" box="[189,344,1740,1766]" italics="true" pageId="96" pageNumber="97">Stoyanowites</emphasis>
+</taxonomicName>
+is separated from most of the other genera of the family 
+<taxonomicName id="4C654D2AFFADFFB7FC66F90FFB36F921" authorityName="Shevyrev" authorityYear="1965" box="[1007,1152,1739,1765]" class="Cephalopoda" family="Dzhulfitidae" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="family">Dzhulfitidae</taxonomicName>
+by the short external lobe, which does not reach the depth of the adventive and lateral lobes. Only 
+<taxonomicName id="4C654D2AFFADFFB7FBB6F92AFB02F8CC" authorityName="Shevyrev" authorityYear="1965" box="[1087,1204,1774,1800]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFADFFB7FBB6F92AFB02F8CC" box="[1087,1204,1774,1800]" italics="true" pageId="96" pageNumber="97">Dzhulfites</emphasis>
+</taxonomicName>
+is similar in this respect, but this genus is characterised by coarse ventrolateral nodes absent in 
+<taxonomicName id="4C654D2AFFADFFB7FBDCF8D6FB46F8E8" box="[1109,1264,1810,1836]" class="Cephalopoda" family="Dzhulfitidae" genus="Stoyanowites" kingdom="Animalia" order="Ammonoidea" pageId="96" pageNumber="97" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFADFFB7FBDCF8D6FB46F8E8" box="[1109,1264,1810,1836]" italics="true" pageId="96" pageNumber="97">Stoyanowites</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

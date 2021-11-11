@@ -1,0 +1,404 @@
+<document id="610B59C4AFBAA60D17CB0A228CE96F80" ID-DOI="http://doi.org/10.5281/zenodo.5604735" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550915" ID-ISSN="2118-9773" ID-Zenodo-Dep="5604735" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Arasella minuta" docType="treatment" docVersion="7" lastPageId="24" lastPageNumber="25" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="23" pageNumber="24" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7D2062AA8DCDF44A59E0F9F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599A34F708CCB87717595338F">
+<mods:title id="13FDA20519CE60036D5EDE884439E19B">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A673D94F3BEA3698D742060C" type="personal">
+<mods:role id="51692204BF4DDAE7FE8DB448DD53F795">
+<mods:roleTerm id="BD2BD8394B1A48CE60DB086AB7881712">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4D8C3413728C5228205B52B3">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812DC7FC94F8CD8697528B8FD6" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F1307880F74486E08211ED08">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48A9DA1F570C8164D870D879" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A728702176935D492FF07F51EF77B" type="personal">
+<mods:role id="6C3D2CE051CD52B18A463C34A156E64D">
+<mods:roleTerm id="A932971289E9D3BE7C4DC08ECD0044D6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F42E0338DF3E363E746CEA8">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB4D1E2E7B02EF227A5727ED" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE33994F9A3C2A8011D39711991E">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BCC4FA355CE904527E31852A" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD800386E2D7A19AA7AF0B625" type="personal">
+<mods:role id="EBC7D4EE9268FD98427F4B27D852BC3B">
+<mods:roleTerm id="79F914924019A192F74F627EF01F2456">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D453E9E9BFB5CB7F2EF7B734E">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD607DFC7D4645B0DEBF807FA" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD4EC79886839E539A19C75D">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F0B16A500CE3E56E93964F8" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E0481045B337A4482E235A679" type="personal">
+<mods:role id="FAE14BA8E754D3574A6A1C123371F646">
+<mods:roleTerm id="F5BB0DB9286DFFF55A8A8B4E79DC4914">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C0365D7F94FF1269D6A37C373">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C6933DFCDEFF761BB08122B524C" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3AD33708804FC085A1C16CD">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9F53E1034AF3BA851214980" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253E94B77EDA6FF637CE47620" type="personal">
+<mods:role id="0763F0449FF12F91F13E7D898B3B690E">
+<mods:roleTerm id="BB48773F38CA2B16095F309AB56CCEC7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9E3A3169517530EE821BA9D">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E79636E41903BBEC3140BBFE" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA763C0597EDF4AD899A450B28">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9D51BD4568AC737699C5170" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC50AEE57ECF698A8EF9876AF" type="personal">
+<mods:role id="8B8CD05C29B59BB35D03507CBB6BE44E">
+<mods:roleTerm id="ACB6128A21EF4BA24BE3AD21CB794875">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E7865884FBCC49D3FFD358DB4">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281E7B85E93562A2FAD8C8BF4" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAAC41464B23E6E5B333779BE">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B5D5783C1D880B843A8D56C5" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510F974660B2562A552126838C">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A30734FA6FFFC356B0A2038EE" type="host">
+<mods:titleInfo id="5E868733C61D378EBA9E3002644632DD">
+<mods:title id="C420E4A067AC3B279CF1D9F51DA3D993">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BFC77028E2DDDB696BBF87F7">
+<mods:date id="1DE35E379E6AB7EF0D537F2C48637DC3">2021</mods:date>
+<mods:detail id="2E547940F0427C7FF09BF9114888E135" type="pubDate">
+<mods:number id="A7A9FB1096591F56FB185E358CFFC364">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14C19C26277C30A06C541AD5" type="volume">
+<mods:number id="9C7A681476294DF595CC5702F5122126">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D3894200F06E31A6F98DD89E2" unit="page">
+<mods:start id="B9141DB8E5588E8483D507D38BF34CDD">1</mods:start>
+<mods:end id="F9CBE60BDED1D52E43D0DC65A7CF977C">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E728C27DD2C3A10A2766579">journal article</mods:classification>
+<mods:identifier id="8AB9541377D69432EB567FBF030909DC" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E126B928731CC05552977C5B" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F8893BD69D41D61FBED8954587" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48F574FA8B8120B0EA295413" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEF2E7D458A2704678D115BB" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1" ID-DOI="http://doi.org/10.5281/zenodo.5604735" ID-GBIF-Taxon="189550915" ID-Zenodo-Dep="5604735" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1" httpUri="http://treatment.plazi.org/id/03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1" lastPageId="24" lastPageNumber="25" pageId="23" pageNumber="24">
+<subSubSection id="C37F6522FFDAFFC0FDC6FCF4FC52FC8F" box="[591,996,816,843]" pageId="23" pageNumber="24" type="nomenclature">
+<paragraph id="8BDA36A9FFDAFFC0FDC6FCF4FC52FC8F" blockId="23.[591,996,816,880]" box="[591,996,816,843]" pageId="23" pageNumber="24">
+<heading id="D09281C5FFDAFFC0FDC6FCF4FC52FC8F" box="[591,996,816,843]" centered="true" fontSize="11" level="2" pageId="23" pageNumber="24" reason="2">
+<taxonomicName id="4C654D2AFFDAFFC0FDC6FCF4FC52FC8F" authority="(Zakharov, 1983)" baseAuthorityName="Zakharov" baseAuthorityYear="1983" box="[591,996,816,843]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="23" pageNumber="24" phylum="Mollusca" rank="species" species="minuta">
+<emphasis id="B911EABBFFDAFFC0FDC6FCF4FCA7FC8E" bold="true" box="[591,785,816,843]" italics="true" pageId="23" pageNumber="24">Arasella minuta</emphasis>
+(Zakharov, 1983)
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDAFFC0FD34FC91FCC0FCB4" box="[701,886,853,880]" pageId="23" pageNumber="24" type="description">
+<paragraph id="8BDA36A9FFDAFFC0FD34FC91FCC0FCB4" blockId="23.[591,996,816,880]" box="[701,886,853,880]" pageId="23" pageNumber="24">
+<figureCitation id="135E2A2CFFDAFFC0FD34FC91FCA2FCAB" box="[701,788,853,879]" captionStart="Fig" captionStartId="24.[189,232,1892,1918]" captionTargetBox="[328,1259,938,1858]" captionTargetId="figure-128@24.[316,1271,925,1862]" captionTargetPageId="24" captionText="Fig. 20. Arasella minuta (Zakharov, 1983). A. Lateral and dorsal view, specimen MB.C.29720, section C, -0.05 m. B. Lateral view, specimen MB.C.29728, section G, -0.05 m. C. Arasella falcata Korn &amp; Hairapetian sp. nov.; right = specimen MB.C.29731; left=paratype MB.C.29737, section C, -0.05 m. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604765" httpUri="https://zenodo.org/record/5604765/files/figure.png" pageId="23" pageNumber="24">Fig. 20</figureCitation>
+; 
+<tableCitation id="C6E70312FFDAFFC0FC96FC91FCC0FCB4" box="[799,886,853,880]" captionStart="Table 5" captionStartId="24.[189,258,265,291]" captionText="Table 5. Conch dimensions (partly estimated) and ratios of selected specimens of Arasella minuta (Zakharov in Kotlyar et al. 1983) from Baghuk Mountain." pageId="23" pageNumber="24">Table 5</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDAFFC0FF34FC5CFEC4FBDE" pageId="23" pageNumber="24" type="reference_group">
+<paragraph id="8BDA36A9FFDAFFC0FF34FC5CFB9AFC76" blockId="23.[189,1068,920,947]" box="[189,1068,920,947]" pageId="23" pageNumber="24">
+<treatmentCitationGroup id="AB751187FFDAFFC0FF34FC5CFB9AFC76" box="[189,1068,920,947]" pageId="23" pageNumber="24">
+<taxonomicName id="4C654D2AFFDAFFC0FF34FC5CFEF2FC76" authorityName="Zhao &amp; Liang" authorityYear="1974" box="[189,324,920,946]" class="Cephalopoda" family="Tapashanitidae" genus="Sinoceltites" kingdom="Animalia" order="Ammonoidea" pageId="23" pageNumber="24" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDAFFC0FF34FC5CFEF2FC76" box="[189,324,920,946]" italics="true" pageId="23" pageNumber="24">Sinoceltites</emphasis>
+</taxonomicName>
+? 
+<emphasis id="B911EABBFFDAFFC0FED0FC5DFE00FC76" box="[345,438,921,946]" italics="true" pageId="23" pageNumber="24">minutus</emphasis>
+Zakharov in 
+<treatmentCitation id="0AC410B8FFDAFFC0FDDAFC5CFCC3FC77" author="Kotlyar G. V. &amp; Zakharov Y. D. &amp; Koczyrkevicz B. V. &amp; Kropatcheva G. S. &amp; Rostovcev L. O. &amp; Chedija I. O. &amp; Vuks G. P. &amp; Guseva E. A." box="[595,885,920,947]" page="153" pageId="23" pageNumber="24" year="1983">
+<bibRefCitation id="EFF44B58FFDAFFC0FDDAFC5CFCC3FC77" author="Kotlyar G. V. &amp; Zakharov Y. D. &amp; Koczyrkevicz B. V. &amp; Kropatcheva G. S. &amp; Rostovcev L. O. &amp; Chedija I. O. &amp; Vuks G. P. &amp; Guseva E. A." box="[595,885,920,947]" pageId="23" pageNumber="24" refId="ref41234" refString="Kotlyar G. V., Zakharov Y. D., Koczyrkevicz B. V., Kropatcheva G. S., Rostovcev L. O., Chedija I. O., Vuks G. P. &amp; Guseva E. A. 1983. Posdnepermskiy etap evolyutsii organicheskogo mirA. Dzhulficheskiy i dorashamskiy yarusy SSSR. NAUKA, Leningrad." type="book" year="1983">
+Kotlyar 
+<emphasis id="B911EABBFFDAFFC0FD3DFC5DFD58FC76" box="[692,750,920,946]" italics="true" pageId="23" pageNumber="24">et al.</emphasis>
+, 1983: 153
+</bibRefCitation>
+</treatmentCitation>
+, pl. 15 fig. 1, 2.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF34FC1FFEC4FBDE" blockId="23.[189,1399,987,1050]" pageId="23" pageNumber="24">
+<treatmentCitationGroup id="AB751187FFDAFFC0FF34FC1FFEC4FBDE" pageId="23" pageNumber="24">
+<taxonomicName id="4C654D2AFFDAFFC0FF34FC1FFECEFC31" baseAuthorityName="Zakharov" baseAuthorityYear="1983" box="[189,376,987,1013]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="23" pageNumber="24" phylum="Mollusca" rank="species" species="minuta">
+<emphasis id="B911EABBFFDAFFC0FF34FC1FFECEFC31" box="[189,376,987,1013]" italics="true" pageId="23" pageNumber="24">Arasella minuta</emphasis>
+</taxonomicName>
+– Korn in 
+<bibRefCitation id="EFF44B58FFDAFFC0FE7CFC1FFD6CFC31" author="Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Korn D. &amp; Ashouri A. R." box="[501,730,987,1013]" pageId="23" pageNumber="24" pagination="41 - 57" refId="ref40576" refString="Ghaderi A., Leda L., Schobben M., Korn D. &amp; Ashouri A. R. 2014. High-resolution stratigraphy of the Changhsingian (Late Permian) successions of NW Iran and the Transcaucasus based on lithological features, conodonts, and ammonoids. Fossil Record 15: 41 - 57. https: // doi. org / 10.5194 / fr- 17 - 41 - 2014" type="journal article" year="2014">
+Ghaderi 
+<emphasis id="B911EABBFFDAFFC0FDD3FC18FD22FC31" box="[602,660,987,1013]" italics="true" pageId="23" pageNumber="24">et al.</emphasis>
+2014
+</bibRefCitation>
+: text-fig. 7I. — Korn &amp; Ghaderi in 
+<treatmentCitation id="0AC410B8FFDAFFC0FBFFFC18FAC4FC31" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[1142,1394,987,1014]" page="887" pageId="23" pageNumber="24" year="2016">
+<bibRefCitation id="EFF44B58FFDAFFC0FBFFFC18FAC4FC31" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[1142,1394,987,1014]" pageId="23" pageNumber="24" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFDAFFC0FB30FC18FB45FC31" box="[1209,1267,987,1013]" italics="true" pageId="23" pageNumber="24">et al.</emphasis>
+2016: 887
+</bibRefCitation>
+</treatmentCitation>
+, text-fig. 44.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDAFFC0FF34FB87FC90FB12" pageId="23" pageNumber="24" type="diagnosis">
+<paragraph id="8BDA36A9FFDAFFC0FF34FB87FE80FB99" blockId="23.[189,310,1091,1117]" box="[189,310,1091,1117]" pageId="23" pageNumber="24">
+<heading id="D09281C5FFDAFFC0FF34FB87FE80FB99" bold="true" box="[189,310,1091,1117]" fontSize="11" level="3" pageId="23" pageNumber="24" reason="3">
+<emphasis id="B911EABBFFDAFFC0FF34FB87FE80FB99" bold="true" box="[189,310,1091,1117]" pageId="23" pageNumber="24">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF34FBB7FC90FB12" blockId="23.[189,1399,1139,1239]" pageId="23" pageNumber="24">
+Species of 
+<taxonomicName id="4C654D2AFFDAFFC0FEB2FBB7FE28FB49" box="[315,414,1139,1165]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="23" pageNumber="24" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDAFFC0FEB2FBB7FE28FB49" box="[315,414,1139,1165]" italics="true" pageId="23" pageNumber="24">Arasella</emphasis>
+</taxonomicName>
+with conch reaching 
+<quantity id="4C9D9B4CFFDAFFC0FD1EFBB7FD5FFB49" box="[663,745,1139,1166]" metricMagnitude="-2" metricUnit="m" metricValue="3.5" pageId="23" pageNumber="24" unit="mm" value="35.0">35 mm</quantity>
+dm. Subadult and adult stage with circular whorl profile (ww/wh =0.85–1.05) and rounded venter; 20–22 sharp ribs on the flanks. External lobe with V-shaped prongs; adventive and lateral lobes broadly rounded.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDAFFC0FF34FB3BFDABF97A" pageId="23" pageNumber="24" type="materials_examined">
+<paragraph id="8BDA36A9FFDAFFC0FF34FB3BFEDAFADD" blockId="23.[189,364,1279,1305]" box="[189,364,1279,1305]" pageId="23" pageNumber="24">
+<heading id="D09281C5FFDAFFC0FF34FB3BFEDAFADD" bold="true" box="[189,364,1279,1305]" fontSize="11" level="3" pageId="23" pageNumber="24" reason="3">
+<emphasis id="B911EABBFFDAFFC0FF34FB3BFEDAFADD" bold="true" box="[189,364,1279,1305]" pageId="23" pageNumber="24">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF63FAF4FC38FA57" blockId="23.[187,1398,1328,1428]" pageId="23" pageNumber="24">
+<materialsCitation id="3B0D3CF4FFDAFFC0FF63FAF4FC38FA57" ID-GBIF-Occurrence="3395073422" collectionCode="BPI" country="Azerbaijan" location="Akhura" municipality="Akhura" pageId="23" pageNumber="24" specimenCode="BPI 4/813" specimenCount="1" stateProvince="Nakhichevan Province" typeStatus="holotype">
+<emphasis id="B911EABBFFDAFFC0FF63FAF4FEEAFA8E" bold="true" box="[234,348,1328,1354]" pageId="23" pageNumber="24">
+<typeStatus id="54DE880BFFDAFFC0FF63FAF4FEEAFA8E" box="[234,348,1328,1354]" pageId="23" pageNumber="24">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FFDAFFC0FF34FA90FEC4FAAA" box="[189,370,1364,1390]" name="Azerbaijan" pageId="23" pageNumber="24">AZERBAIJAN</collectingCountry>
+• 
+<collectingRegion id="49A1F84BFFDAFFC0FE0EFA90FD24FAAA" box="[391,658,1364,1390]" country="Azerbaijan" name="Naxcivan" pageId="23" pageNumber="24">Nakhichevan Province</collectingRegion>
+, 
+<collectingMunicipality id="6BBEACD3FFDAFFC0FD13FA90FD40FAAA" box="[666,758,1364,1390]" pageId="23" pageNumber="24">Akhura</collectingMunicipality>
+; probably top of the 
+<taxonomicName id="4C654D2AFFDAFFC0FC55FA90FB4EFAAA" authority="Limestone" authorityName="Limestone" box="[988,1272,1364,1390]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="23" pageNumber="24" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFDAFFC0FC55FA90FBC7FAAA" box="[988,1137,1364,1390]" italics="true" pageId="23" pageNumber="24">Paratirolites</emphasis>
+Limestone
+</taxonomicName>
+; illustrated by Zakharov (in 
+<bibRefCitation id="EFF44B58FFDAFFC0FEF6FABDFDD5FA57" author="Kotlyar G. V. &amp; Zakharov Y. D. &amp; Koczyrkevicz B. V. &amp; Kropatcheva G. S. &amp; Rostovcev L. O. &amp; Chedija I. O. &amp; Vuks G. P. &amp; Guseva E. A." box="[383,611,1401,1427]" pageId="23" pageNumber="24" refId="ref41234" refString="Kotlyar G. V., Zakharov Y. D., Koczyrkevicz B. V., Kropatcheva G. S., Rostovcev L. O., Chedija I. O., Vuks G. P. &amp; Guseva E. A. 1983. Posdnepermskiy etap evolyutsii organicheskogo mirA. Dzhulficheskiy i dorashamskiy yarusy SSSR. NAUKA, Leningrad." type="book" year="1983">
+Kotlyar 
+<emphasis id="B911EABBFFDAFFC0FE6BFABEFDABFA57" box="[482,541,1401,1427]" italics="true" pageId="23" pageNumber="24">et al.</emphasis>
+1983
+</bibRefCitation>
+: pl. 15 fig. 1); 
+<specimenCode id="DBC39ED2FFDAFFC0FC87FABDFC3FFA57" box="[782,905,1401,1427]" pageId="23" pageNumber="24">BPI 4/813</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF34FA78FE1CFA12" blockId="23.[189,426,1468,1494]" box="[189,426,1468,1494]" pageId="23" pageNumber="24">
+<heading id="D09281C5FFDAFFC0FF34FA78FE1CFA12" bold="true" box="[189,426,1468,1494]" fontSize="11" level="3" pageId="23" pageNumber="24" reason="3">
+<emphasis id="B911EABBFFDAFFC0FF34FA78FE1CFA12" bold="true" box="[189,426,1468,1494]" pageId="23" pageNumber="24">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF34FA28FDABF97A" blockId="23.[187,1400,1516,1726]" pageId="23" pageNumber="24">
+<materialsCitation id="3B0D3CF4FFDAFFC0FF34FA28FAD0F9C2" ID-GBIF-Occurrence="3395073420" box="[189,1382,1516,1542]" collectionCode="MB" collectorName="Baghuk Mountain C &amp; Hambast Formation" country="Iran" location="Baghuk Mountain C section" pageId="23" pageNumber="24" specimenCode="MB.C.29720" specimenCount="1" stateProvince="Esfahan Province">
+<collectingCountry id="F3727639FFDAFFC0FF34FA28FEB3F9C2" box="[189,261,1516,1542]" name="Iran" pageId="23" pageNumber="24">IRAN</collectingCountry>
+• 
+<specimenCount id="9D63FD20FFDAFFC0FE93FA28FE14F9C2" box="[282,418,1516,1542]" pageId="23" pageNumber="24" type="generic">1 specimen</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFDAFFC0FE22FA28FDCCF9C2" box="[427,634,1516,1542]" country="Iran" name="Esfahan" pageId="23" pageNumber="24">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFDAFFC0FD0CFA28FC7BF9C2" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1:8EBA6072FFDAFFC0FD0CFA28FC7BF9C2" box="[645,973,1516,1542]" country="Iran" name="Baghuk Mountain C section" pageId="23" pageNumber="24" stateProvince="Esfahan Province">Baghuk Mountain C section</location>
+; 
+<geologicalTimeScale id="F945B602FFDAFFC0FC5EFA28FB75F9C2" box="[983,1219,1516,1542]" pageId="23" pageNumber="24">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFDAFFC0FB44FA28FAD0F9C2" box="[1229,1382,1516,1542]" pageId="23" pageNumber="24">MB.C.29720</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFDAFFC0FF32F9D5FEE1F994" ID-GBIF-Occurrence="3395073381" collectionCode="MB" collectorName="Baghuk Mountain E &amp; Hambast Formation" country="Iran" location="Baghuk Mountain E section" pageId="23" pageNumber="24" specimenCode="MB.C.29721, MB.C.29722, MB.C.29723" specimenCount="3" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFDAFFC0FF32F9D5FEE2F9EF" box="[187,340,1553,1579]" pageId="23" pageNumber="24" type="generic">3 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFDAFFC0FEECF9D5FD8CF9EF" box="[357,570,1553,1579]" country="Iran" name="Esfahan" pageId="23" pageNumber="24">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFDAFFC0FDC2F9D5FC13F9EF" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1:8EBA6072FFDAFFC0FDC2F9D5FC13F9EF" box="[587,933,1553,1579]" country="Iran" name="Baghuk Mountain E section" pageId="23" pageNumber="24" stateProvince="Esfahan Province">Baghuk Mountain E section</location>
+; 
+<geologicalTimeScale id="F945B602FFDAFFC0FC3FF9D5FB1EF9EF" box="[950,1192,1553,1579]" pageId="23" pageNumber="24">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFDAFFC0FB30F9D5FAE4F9EF" box="[1209,1362,1553,1579]" pageId="23" pageNumber="24">MB.C.29721</specimenCode>
+to 
+<specimenCode id="DBC39ED2FFDAFFC0FF34F9F2FEE1F994" box="[189,343,1590,1616]" pageId="23" pageNumber="24">MB.C.29723</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFDAFFC0FEF3F9F2FDAEF9B0" ID-GBIF-Occurrence="3395073321" collectionCode="MB" collectorName="Baghuk Mountain G &amp; Hambast Formation" country="Iran" location="Baghuk Mountain G section" pageId="23" pageNumber="24" specimenCode="MB.C.29724, MB.C.29725, MB.C.29726, MB.C.29727, MB.C.29728, MB.C.29729" specimenCount="8" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFDAFFC0FEF3F9F2FDA2F98B" box="[378,532,1589,1616]" pageId="23" pageNumber="24" type="generic">8 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFDAFFC0FDACF9F1FD4AF98B" box="[549,764,1589,1615]" country="Iran" name="Esfahan" pageId="23" pageNumber="24">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFDAFFC0FC84F9F1FBD8F98B" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1:8EBA6072FFDAFFC0FC84F9F1FBD8F98B" box="[781,1134,1589,1616]" country="Iran" name="Baghuk Mountain G section" pageId="23" pageNumber="24" stateProvince="Esfahan Province">Baghuk Mountain G section</location>
+; 
+<geologicalTimeScale id="F945B602FFDAFFC0FBF6F9F1FAC4F98B" box="[1151,1394,1589,1615]" pageId="23" pageNumber="24">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFDAFFC0FF34F99EFEE0F9B0" box="[189,342,1626,1652]" pageId="23" pageNumber="24">MB.C.29724</specimenCode>
+to 
+<specimenCode id="DBC39ED2FFDAFFC0FEF6F99EFDAEF9B0" box="[383,536,1626,1652]" pageId="23" pageNumber="24">MB.C.29729</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFDAFFC0FDBCF99EFE50F95D" ID-GBIF-Occurrence="3395073413" collectionCode="MB" collectorName="Baghuk Mountain H &amp; Hambast Formation" country="Iran" location="Baghuk Mountain H section" pageId="23" pageNumber="24" specimenCode="MB.C.29730" specimenCount="1" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFDAFFC0FDBCF99EFD09F9B0" box="[565,703,1626,1652]" pageId="23" pageNumber="24" type="generic">1 specimen</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFDAFFC0FD45F99EFC29F9B0" box="[716,927,1626,1652]" country="Iran" name="Esfahan" pageId="23" pageNumber="24">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFDAFFC0FC25F99EFAB7F9B0" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1:8EBA6072FFDAFFC0FC25F99EFAB7F9B0" box="[940,1281,1626,1653]" country="Iran" name="Baghuk Mountain H section" pageId="23" pageNumber="24" stateProvince="Esfahan Province">Baghuk Mountain H section</location>
+; 
+<geologicalTimeScale id="F945B602FFDAFFC0FA87F99EFE8BF95D" pageId="23" pageNumber="24">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFDAFFC0FEC4F9BBFE50F95D" box="[333,486,1663,1689]" pageId="23" pageNumber="24">MB.C.29730</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B0D3CF4FFDAFFC0FD8EF9BBFDAEF97A" ID-GBIF-Occurrence="3395073409" collectionCode="MB" collectorName="Hambast Formation" country="Iran" location="Baghuk Mountain" pageId="23" pageNumber="24" specimenCode="MB.C.29731, MB.C.29732" specimenCount="2" stateProvince="Esfahan Province">
+<specimenCount id="9D63FD20FFDAFFC0FD8EF9BBFD16F95D" box="[519,672,1663,1689]" pageId="23" pageNumber="24" type="generic">2 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFFDAFFC0FD39F9BBFC33F95D" box="[688,901,1663,1689]" country="Iran" name="Esfahan" pageId="23" pageNumber="24">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FFDAFFC0FC1CF9BBFBC4F95D" LSID="urn:lsid:plazi:treatment:03CC87BFFFDAFFCFFDC6FCF4FEBDFCB1:8EBA6072FFDAFFC0FC1CF9BBFBC4F95D" box="[917,1138,1663,1689]" country="Iran" name="Baghuk Mountain" pageId="23" pageNumber="24" stateProvince="Esfahan Province">Baghuk Mountain</location>
+; 
+<geologicalTimeScale id="F945B602FFDAFFC0FB0BF9BBFAC2F95D" box="[1154,1396,1663,1689]" pageId="23" pageNumber="24">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FFDAFFC0FF34F960FEE0F97A" box="[189,342,1700,1726]" pageId="23" pageNumber="24">MB.C.29731</specimenCode>
+to 
+<specimenCode id="DBC39ED2FFDAFFC0FEF5F960FDAEF97A" box="[380,536,1700,1726]" pageId="23" pageNumber="24">MB.C.29732</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFDAFFC0FF34F922FC72F82C" pageId="23" pageNumber="24" type="description">
+<paragraph id="8BDA36A9FFDAFFC0FF34F922FEF8F8C4" blockId="23.[189,334,1766,1792]" box="[189,334,1766,1792]" pageId="23" pageNumber="24">
+<heading id="D09281C5FFDAFFC0FF34F922FEF8F8C4" bold="true" box="[189,334,1766,1792]" fontSize="11" level="3" pageId="23" pageNumber="24" reason="3">
+<emphasis id="B911EABBFFDAFFC0FF34F922FEF8F8C4" bold="true" box="[189,334,1766,1792]" pageId="23" pageNumber="24">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFDAFFC0FF34F8D3FC72F82C" blockId="23.[188,1399,1814,2025]" pageId="23" pageNumber="24">
+Specimen MB.C.29720 has 
+<quantity id="4C9D9B4CFFDAFFC0FD83F8D2FDE8F8F5" box="[522,606,1814,1841]" metricMagnitude="-2" metricUnit="m" metricValue="2.5" pageId="23" pageNumber="24" unit="mm" value="25.0">25 mm</quantity>
+conch diameter and is moderately well preserved (
+<figureCitation id="135E2A2CFFDAFFC0FB34F8D3FA9AF8F5" box="[1213,1324,1815,1841]" captionStart="Fig" captionStartId="24.[189,232,1892,1918]" captionTargetBox="[328,1259,938,1858]" captionTargetId="figure-128@24.[316,1271,925,1862]" captionTargetPageId="24" captionText="Fig. 20. Arasella minuta (Zakharov, 1983). A. Lateral and dorsal view, specimen MB.C.29720, section C, -0.05 m. B. Lateral view, specimen MB.C.29728, section G, -0.05 m. C. Arasella falcata Korn &amp; Hairapetian sp. nov.; right = specimen MB.C.29731; left=paratype MB.C.29737, section C, -0.05 m. Scale bar units= 1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604765" httpUri="https://zenodo.org/record/5604765/files/figure.png" pageId="23" pageNumber="24">Fig. 20A</figureCitation>
+). Less than half of the last volution belongs to the body chamber. The extremely and evolute conch (uw/ dm =0.48) shows a nearly circular whorl profile of the body chamber. The sculpture of the phragmocone and the terminal body chamber does not differ markedly; the phragmocone has slightly coarser but more rounded radial and sharp ribs on the flank, while the ribs on the body chamber are sharper and coarsest in the ventrolateral area. There are about 15 ribs per half volution.
+</paragraph>
+</subSubSection>
+<caption id="DF1A6621FFD5FFCFFF34FECDFCDEFE82" pageId="24" pageNumber="25" startId="24.[189,258,265,291]">
+<paragraph id="8BDA36A9FFD5FFCFFF34FECDFCDEFE82" blockId="24.[189,1398,265,326]" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFF34FECDFE92FEE7" bold="true" box="[189,292,265,291]" pageId="24" pageNumber="25">Table 5.</emphasis>
+Conch dimensions (partly estimated) and ratios of selected specimens of 
+<taxonomicName id="4C654D2AFFD5FFCFFB3FFECDFAC0FEE7" baseAuthorityName="Zakharov" baseAuthorityYear="1983" box="[1206,1398,265,291]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="24" pageNumber="25" phylum="Mollusca" rank="species" species="minuta">
+<emphasis id="B911EABBFFD5FFCFFB3FFECDFAC0FEE7" box="[1206,1398,265,291]" italics="true" pageId="24" pageNumber="25">Arasella minuta</emphasis>
+</taxonomicName>
+(Zakharov in 
+<bibRefCitation id="EFF44B58FFD5FFCFFED4FEE8FD8AFE82" author="Kotlyar G. V. &amp; Zakharov Y. D. &amp; Koczyrkevicz B. V. &amp; Kropatcheva G. S. &amp; Rostovcev L. O. &amp; Chedija I. O. &amp; Vuks G. P. &amp; Guseva E. A." box="[349,572,300,326]" pageId="24" pageNumber="25" refId="ref41234" refString="Kotlyar G. V., Zakharov Y. D., Koczyrkevicz B. V., Kropatcheva G. S., Rostovcev L. O., Chedija I. O., Vuks G. P. &amp; Guseva E. A. 1983. Posdnepermskiy etap evolyutsii organicheskogo mirA. Dzhulficheskiy i dorashamskiy yarusy SSSR. NAUKA, Leningrad." type="book" year="1983">
+Kotlyar 
+<emphasis id="B911EABBFFD5FFCFFE37FEE9FE4EFE82" box="[446,504,300,326]" italics="true" pageId="24" pageNumber="25">et al.</emphasis>
+1983
+</bibRefCitation>
+) from Baghuk Mountain.
+</paragraph>
+</caption>
+<paragraph id="8BDA36A9FFD5FFCFFF61FEBDFAD7FE3C" pageId="24" pageNumber="25">
+<table id="F965C409FFD50028FF5EFEBDFAD7FE3D" box="[215,1377,377,505]" colsContinueFrom="22.[215,1378,377,505]" colsContinueIn="26.[215,1377,375,497]" gridcols="11" gridrows="3" pageId="24" pageNumber="25">
+<tr id="355534EBFFD50028FF5EFEBDFAD7FE57" box="[215,1377,377,403]" gridrow="0" pageId="24" pageNumber="25">
+<th id="76845D97FFD50028FF5EFEBDFEC6FE57" box="[215,368,377,403]" gridcol="0" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFF61FEBDFED7FE57" bold="true" box="[232,353,377,403]" pageId="24" pageNumber="25">Specimen</emphasis>
+</th>
+<th id="76845D97FFD50028FE16FEBDFE64FE57" box="[415,466,377,403]" gridcol="1" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFE2CFEBDFE78FE57" bold="true" box="[421,462,377,403]" pageId="24" pageNumber="25">dm</emphasis>
+</th>
+<th id="76845D97FFD50028FE77FEBDFD9EFE57" box="[510,552,377,403]" gridcol="2" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFE77FEBDFD9EFE57" bold="true" box="[510,552,377,403]" pageId="24" pageNumber="25">ww</emphasis>
+</th>
+<th id="76845D97FFD50028FDD1FEBDFDCBFE57" box="[600,637,377,403]" gridcol="3" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFDD1FEBDFDCBFE57" bold="true" box="[600,637,377,403]" pageId="24" pageNumber="25">wh</emphasis>
+</th>
+<th id="76845D97FFD50028FD23FEBDFD6BFE57" box="[682,733,377,403]" gridcol="4" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFD38FEBDFD60FE57" bold="true" box="[689,726,377,403]" pageId="24" pageNumber="25">uw</emphasis>
+</th>
+<th id="76845D97FFD50028FC83FEBDFC99FE57" box="[778,815,377,403]" gridcol="5" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFC84FEBDFC9AFE57" bold="true" box="[781,812,377,403]" pageId="24" pageNumber="25">ah</emphasis>
+</th>
+<th id="76845D97FFD50028FCD1FEBDFC05FE57" box="[856,947,377,403]" gridcol="6" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFCD1FEBDFC05FE57" bold="true" box="[856,947,377,403]" pageId="24" pageNumber="25">ww/dm</emphasis>
+</th>
+<th id="76845D97FFD50028FC5FFEBDFB98FE57" box="[982,1070,377,403]" gridcol="7" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFC5FFEBDFB98FE57" bold="true" box="[982,1070,377,403]" pageId="24" pageNumber="25">ww/wh</emphasis>
+</th>
+<th id="76845D97FFD50028FBC6FEBDFB13FE57" box="[1103,1189,377,403]" gridcol="8" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFBC6FEBDFB13FE57" bold="true" box="[1103,1189,377,403]" pageId="24" pageNumber="25">uw/dm</emphasis>
+</th>
+<th id="76845D97FFD50028FB4DFEBDFABCFE57" box="[1220,1290,377,403]" gridcol="9" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFB4DFEBDFABCFE57" bold="true" box="[1220,1290,377,403]" pageId="24" pageNumber="25">WER</emphasis>
+</th>
+<th id="76845D97FFD50028FAA4FEBDFAD7FE57" box="[1325,1377,377,403]" gridcol="10" gridrow="0" pageId="24" pageNumber="25">
+<emphasis id="B911EABBFFD5FFCFFAA4FEBDFAD7FE57" bold="true" box="[1325,1377,377,403]" pageId="24" pageNumber="25">IZR</emphasis>
+</th>
+</tr>
+<tr id="355534EBFFD50028FF5EFE6FFAD7FE02" box="[215,1377,427,454]" gridrow="1" pageId="24" pageNumber="25">
+<th id="76845D97FFD50028FF5EFE6FFEC6FE02" box="[215,368,427,454]" gridcol="0" gridrow="1" pageId="24" pageNumber="25">MB.C.29732</th>
+<td id="76845D97FFD50028FE16FE6FFE64FE02" box="[415,466,427,454]" gridcol="1" gridrow="1" pageId="24" pageNumber="25">27.5</td>
+<td id="76845D97FFD50028FE77FE6FFD9EFE02" box="[510,552,427,454]" gridcol="2" gridrow="1" pageId="24" pageNumber="25">7.1</td>
+<td id="76845D97FFD50028FDD1FE6FFDCBFE02" box="[600,637,427,454]" gridcol="3" gridrow="1" pageId="24" pageNumber="25">7.3</td>
+<td id="76845D97FFD50028FD23FE6FFD6BFE02" box="[682,733,427,454]" gridcol="4" gridrow="1" pageId="24" pageNumber="25">13.3</td>
+<td id="76845D97FFD50028FC83FE6FFC99FE02" box="[778,815,427,454]" gridcol="5" gridrow="1" pageId="24" pageNumber="25">6.8</td>
+<td id="76845D97FFD50028FCD1FE6FFC05FE02" box="[856,947,427,454]" gridcol="6" gridrow="1" pageId="24" pageNumber="25">0.26</td>
+<td id="76845D97FFD50028FC5FFE6FFB98FE02" box="[982,1070,427,454]" gridcol="7" gridrow="1" pageId="24" pageNumber="25">0.97</td>
+<td id="76845D97FFD50028FBC6FE6FFB13FE02" box="[1103,1189,427,454]" gridcol="8" gridrow="1" pageId="24" pageNumber="25">0.48</td>
+<td id="76845D97FFD50028FB4DFE6FFABCFE02" box="[1220,1290,427,454]" gridcol="9" gridrow="1" pageId="24" pageNumber="25">1.76</td>
+<td id="76845D97FFD50028FAA4FE6FFAD7FE02" box="[1325,1377,427,454]" gridcol="10" gridrow="1" pageId="24" pageNumber="25">0.07</td>
+</tr>
+<tr id="355534EBFFD50028FF5EFE1AFAD7FE3D" box="[215,1377,478,505]" gridrow="2" pageId="24" pageNumber="25">
+<th id="76845D97FFD50028FF5EFE1AFEC6FE3D" box="[215,368,478,505]" gridcol="0" gridrow="2" pageId="24" pageNumber="25">MB.C.29720</th>
+<td id="76845D97FFD50028FE16FE1AFE64FE3D" box="[415,466,478,505]" gridcol="1" gridrow="2" pageId="24" pageNumber="25">25.5</td>
+<td id="76845D97FFD50028FE77FE1AFD9EFE3D" box="[510,552,478,505]" gridcol="2" gridrow="2" pageId="24" pageNumber="25">–</td>
+<td id="76845D97FFD50028FDD1FE1AFDCBFE3D" box="[600,637,478,505]" gridcol="3" gridrow="2" pageId="24" pageNumber="25">6.9</td>
+<td id="76845D97FFD50028FD23FE1AFD6BFE3D" box="[682,733,478,505]" gridcol="4" gridrow="2" pageId="24" pageNumber="25">12.1</td>
+<td id="76845D97FFD50028FC83FE1AFC99FE3D" box="[778,815,478,505]" gridcol="5" gridrow="2" pageId="24" pageNumber="25">6.7</td>
+<td id="76845D97FFD50028FCD1FE1AFC05FE3D" box="[856,947,478,505]" gridcol="6" gridrow="2" pageId="24" pageNumber="25">–</td>
+<td id="76845D97FFD50028FC5FFE1AFB98FE3D" box="[982,1070,478,505]" gridcol="7" gridrow="2" pageId="24" pageNumber="25">–</td>
+<td id="76845D97FFD50028FBC6FE1AFB13FE3D" box="[1103,1189,478,505]" gridcol="8" gridrow="2" pageId="24" pageNumber="25">0.48</td>
+<td id="76845D97FFD50028FB4DFE1AFABCFE3D" box="[1220,1290,478,505]" gridcol="9" gridrow="2" pageId="24" pageNumber="25">1.84</td>
+<td id="76845D97FFD50028FAA4FE1AFAD7FE3D" box="[1325,1377,478,505]" gridcol="10" gridrow="2" pageId="24" pageNumber="25">0.03</td>
+</tr>
+</table>
+</paragraph>
+<subSubSection id="C37F6522FFD5FFCFFF34FDEBFEBDFCB1" pageId="24" pageNumber="25" type="discussion">
+<paragraph id="8BDA36A9FFD5FFCFFF34FDEBFE99FD8D" blockId="24.[189,303,559,585]" box="[189,303,559,585]" pageId="24" pageNumber="25">
+<heading id="D09281C5FFD5FFCFFF34FDEBFE99FD8D" bold="true" box="[189,303,559,585]" fontSize="11" level="3" pageId="24" pageNumber="25" reason="3">
+<emphasis id="B911EABBFFD5FFCFFF34FDEBFE99FD8D" bold="true" box="[189,303,559,585]" pageId="24" pageNumber="25">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD5FFCFFF34FD9AFDEAFD26" blockId="24.[188,1399,606,738]" pageId="24" pageNumber="25">
+Species of 
+<taxonomicName id="4C654D2AFFD5FFCFFEB2FD9AFE43FDBC" baseAuthorityName="Zakharov" baseAuthorityYear="1983" box="[315,501,606,632]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="24" pageNumber="25" phylum="Mollusca" rank="species" species="minuta">
+<emphasis id="B911EABBFFD5FFCFFEB2FD9AFE43FDBC" box="[315,501,606,632]" italics="true" pageId="24" pageNumber="25">Arasella minuta</emphasis>
+</taxonomicName>
+can easily be separated from all other contemporaneous ammonoids from the Iranian localities because of its very simple suture line with rounded adventive and lateral lobes and the short external lobe (
+<bibRefCitation id="EFF44B58FFD5FFCFFE2CFD60FDDDFD7B" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[421,619,676,703]" pageId="24" pageNumber="25" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFD5FFCFFE63FD61FD92FD7A" box="[490,548,676,702]" italics="true" pageId="24" pageNumber="25">et al.</emphasis>
+2016
+</bibRefCitation>
+). 
+<taxonomicName id="4C654D2AFFD5FFCFFDF4FD60FC8FFD7A" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[637,825,676,702]" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="24" pageNumber="25" phylum="Mollusca" rank="species" species="falcata" status="sp. nov.">
+<emphasis id="B911EABBFFD5FFCFFDF4FD60FC8FFD7A" box="[637,825,676,702]" italics="true" pageId="24" pageNumber="25">Arasella falcata</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FFD5FFCFFCC9FD61FC2DFD7B" box="[832,923,677,703]" pageId="24" pageNumber="25" rank="species">sp. nov.</taxonomicNameLabel>
+possesses a much weaker sculpture with ribs coarsest in in dorsolateral area.
+</paragraph>
+<paragraph id="8BDA36A9FFD5FFCFFF34FCCDFE02FCE7" blockId="24.[189,436,777,803]" box="[189,436,777,803]" pageId="24" pageNumber="25">
+<heading id="D09281C5FFD5FFCFFF34FCCDFE02FCE7" bold="true" box="[189,436,777,803]" fontSize="11" level="3" pageId="24" pageNumber="25" reason="3">
+<emphasis id="B911EABBFFD5FFCFFF34FCCDFE02FCE7" bold="true" box="[189,436,777,803]" pageId="24" pageNumber="25">Stratigraphic range</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD5FFCFFF34FCFCFEBDFCB1" blockId="24.[189,1398,823,885]" pageId="24" pageNumber="25">
+Topmost part of the Hambast Formation; immediately below the extinction horizon (
+<taxonomicName id="4C654D2AFFD5FFCFFB31FCF3FF48FCB1" authority="Zone" authorityName="Zone" class="Cephalopoda" family="Xenodiscidae" genus="Arasella" kingdom="Animalia" order="Ammonoidea" pageId="24" pageNumber="25" phylum="Mollusca" rank="species" species="minuta">
+<emphasis id="B911EABBFFD5FFCFFB31FCF3FAC0FC95" box="[1208,1398,823,849]" italics="true" pageId="24" pageNumber="25">Arasella minuta</emphasis>
+Zone
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

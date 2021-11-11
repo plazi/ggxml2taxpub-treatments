@@ -1,0 +1,328 @@
+<document id="63C385DBE1F4D2F52CDD8C149317F07B" ID-DOI="https://doi.org/10.5852/ejt.2021.778.1565" ID-ISSN="2118-9773" ID-ZooBank="4AFEC628-D555-44BD-8592-3A338694885F" LSID="urn:lsid:zoobank.org:act:6C2037C9-66B3-4B07-9102-E2BF009B8AC1" _generate="added" checkinTime="1636482287138" checkinUser="felipe" docAuthor="Machado, Miguel, Viecelli, Rafaela, Guzati, Catherine, Grismado, Cristian J. &amp; Teixeira, Renato A." docDate="2021" docId="EB2A87E5FFC2FFC11FDE3D7EFDB2FE54" docLanguage="en" docName="ejt-778_26-70.pdf" docOrigin="European Journal of Taxonomy 778" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Kryptochroma quadrata Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira 2021, gen. et sp. nov." docType="treatment" docUuid="6C2037C9-66B3-4B07-9102-E2BF009B8AC1" docUuidSource="ZooBank" docVersion="2" lastPageId="25" lastPageNumber="51" masterDocId="1713FF9DFFD4FFD81E6C3918FFA2FF8D" masterDocTitle="Kryptochroma: a new genus of bark-dwelling crab spiders (Araneae, Thomisidae)" masterLastPageNumber="70" masterPageNumber="26" pageId="22" pageNumber="48" updateTime="1636546955238" updateUser="valdenar" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="7FF0A4CBE6A1A10DAF7E98A2F6510160" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="445EFA2A6F8A3814C689738ED19BACF0">
+<mods:title id="215A3BB6EA8A581B1A46BBFE910AABD9">Kryptochroma: a new genus of bark-dwelling crab spiders (Araneae, Thomisidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="7D89841B5ADD9983483FFE4A85F42EFE" type="personal">
+<mods:role id="E0E23D70B33446A4741C1FA4EC73AE86">
+<mods:roleTerm id="4E28FCDB6D1FBF3BBA9C644C664252AC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7BBFDF655612BE04CF84A353E28704F6">Machado, Miguel</mods:namePart>
+<mods:nameIdentifier id="AC2183F09EDCE8BE515FF006520F6DAD" type="LSID">9C99DF66-7481-4DE2-BFC2-FE73D29F8A6E</mods:nameIdentifier>
+<mods:affiliation id="606F9E77D1FE2F8B2E8CAC1AC451AA80">Laboratório de Aracnologia, Escola de Ciências, Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Porto Alegre, Rio Grande do Sul, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="210332E5388534D8B57DDE0DF8244009" type="email">machadom.arachno@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="C6D8350D7C01DF273468585048B7BD64" type="personal">
+<mods:role id="957FF466DFA6E96C798D297BE0546675">
+<mods:roleTerm id="F8DB39176E262BAD3C3E9E28DDBF7654">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="51E4F321B5F4DC7590386A967A8C8CAF">Viecelli, Rafaela</mods:namePart>
+<mods:nameIdentifier id="B7CE82CE4D5FF9BF3BA1A517E4EDAAC5" type="LSID">78CA106B-2CFC-4B8B-8E05-168350DA95F8</mods:nameIdentifier>
+<mods:affiliation id="59FDC9785BB67298FF77BBB0D0C21B75">Laboratório de Aracnologia, Escola de Ciências, Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Porto Alegre, Rio Grande do Sul, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="ED58D934A66B8DDACEA8E3EB76B7D0D9" type="email">rafaviecelli1807@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="ACBF45A55A815D775F53393420A14B2A" type="personal">
+<mods:role id="BAAD0649BCAFEA0E145497A94BE3D515">
+<mods:roleTerm id="A8D62EB1481D06FADEC48E09FD3A881C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AB07BE2E7F62774B3E34C81E4ECE3F91">Guzati, Catherine</mods:namePart>
+<mods:nameIdentifier id="44F9297AA5B85FF59319571426D8D0A2" type="LSID">9A03FF9F-07D8-4F15-9735-FAC96FE23015</mods:nameIdentifier>
+<mods:affiliation id="93DF5CAB0C5D8FDAB159EB2EB79E4B57">Laboratório de Aracnologia, Escola de Ciências, Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Porto Alegre, Rio Grande do Sul, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="CDEE3CCF4F8C79B4984B631C34C848C9" type="email">c.guzati@edu.pucrs.br</mods:nameIdentifier>
+</mods:name>
+<mods:name id="F7D672D4EBBD358F65E092DCBA4828FF" type="personal">
+<mods:role id="8BA7C71003261CEF81D27CBEB84661E3">
+<mods:roleTerm id="B65109F8EF0A066A1A03C018445A5DAB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BC134BC7424C4D16E05E31BF3DD1286A">Grismado, Cristian J.</mods:namePart>
+<mods:nameIdentifier id="36C5F3DF642939208B28D83C507403C1" type="LSID">A1D00976-57EF-417E-AE28-DF3BF2BAB6B1</mods:nameIdentifier>
+<mods:affiliation id="53580455A9D16693DF6B94807E53AF6B">División Aracnología, Museo Argentino de Ciencias Naturales “ Bernardino Rivadavia ”, Buenos Aires, Argentina.</mods:affiliation>
+<mods:nameIdentifier id="C4FDEEE2FAAE380DC858E3509D2684B2" type="email">grismado@macn.gov.ar</mods:nameIdentifier>
+</mods:name>
+<mods:name id="65C105547A5745DEBC11C2D3C8618694" type="personal">
+<mods:role id="1E2BB5D0967F22E490AA34050362E482">
+<mods:roleTerm id="BBF9B4EFE764A8011D4633D84CA2DF42">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9E5A5F6DED0F4814D13D2B66A60FAC47">Teixeira, Renato A.</mods:namePart>
+<mods:nameIdentifier id="2B4095577253B4FD07C11D4FBF32C2C1" type="LSID">BA923A63-8230-40C0-819A-588EE3815CA9</mods:nameIdentifier>
+<mods:affiliation id="5EF81A5FA2926926B38DFA58B92E4608">Laboratório de Aracnologia, Escola de Ciências, Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), Porto Alegre, Rio Grande do Sul, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="A0B40B9E601B5B06397F06ED71815AFB" type="email">renato.teixeira@pucrs.br</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="B0A5F585487350E696424BC1A9682BFA">text</mods:typeOfResource>
+<mods:relatedItem id="3CEB4ABD102CF94E290F611F6E556538" type="host">
+<mods:titleInfo id="004E73397005129C5562136C8D9C2E06">
+<mods:title id="CD7C38C8C3CD756A72B51FE83FB2181A">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="C4B6C5A1BBECFBF106A916C7BA00029A">
+<mods:date id="D4C715FA20A7BAF12BFCC812284E5DC7">2021</mods:date>
+<mods:detail id="39F9A5BB919C096D8D16CC2A735F6E96" type="pubDate">
+<mods:number id="7938FA8F73944CA7AD03EC81E8E6C4B7">2021-11-03</mods:number>
+</mods:detail>
+<mods:detail id="977CD075E5B16FAA64EC0C13387F07CF" type="volume">
+<mods:number id="4673275888C356EA499603D4C466F40C">778</mods:number>
+</mods:detail>
+<mods:extent id="10259C043E6983A7490D0BE74125666E" unit="page">
+<mods:start id="3B58A8F79B3A72AA7F61214A19D14EA7">26</mods:start>
+<mods:end id="A7269413E35114A49D80A19DCB661C3B">70</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4670CBF3A8E80909DD5970CC64FAE939">journal article</mods:classification>
+<mods:identifier id="62BCC6FDDE2C04D3B6074B06AF90D53C" type="DOI">https://doi.org/10.5852/ejt.2021.778.1565</mods:identifier>
+<mods:identifier id="FEB1C2EF3CC206A5A9854D3E77696622" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="E4F03CD2388FB17AA5E709E86BB46DAC" type="ZooBank">4AFEC628-D555-44BD-8592-3A338694885F</mods:identifier>
+</mods:mods>
+<treatment id="EB2A87E5FFC2FFC11FDE3D7EFDB2FE54" LSID="urn:lsid:zoobank.org:act:6C2037C9-66B3-4B07-9102-E2BF009B8AC1" httpUri="http://treatment.plazi.org/id/EB2A87E5FFC2FFC11FDE3D7EFDB2FE54" lastPageId="25" lastPageNumber="51" pageId="22" pageNumber="48">
+<subSubSection id="2B996578FFC2FFCE1FDE3D7EFB23FB0C" box="[434,1153,1126,1153]" pageId="22" pageNumber="48" type="nomenclature">
+<paragraph id="633C36F3FFC2FFCE1FDE3D7EFB23FB0C" blockId="22.[370,1217,1126,1223]" box="[434,1153,1126,1153]" pageId="22" pageNumber="48">
+<heading id="3874819FFFC2FFCE1FDE3D7EFB23FB0C" box="[434,1153,1126,1153]" centered="true" fontSize="11" level="2" pageId="22" pageNumber="48" reason="2">
+<taxonomicName id="A4834D70FFC2FFCE1FDE3D7EFC68FB0D" authority="Machado &amp; Viecelli" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" box="[434,970,1126,1153]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="22" pageNumber="48" phylum="Arthropoda" rank="species" species="quadrata" status="gen. et sp. nov.">
+<emphasis id="51F7EAE1FFC2FFCE1FDE3D7EFD77FB0C" bold="true" box="[434,725,1126,1153]" italics="true" pageId="22" pageNumber="48">Kryptochroma quadrata</emphasis>
+Machado &amp; Viecelli
+</taxonomicName>
+<taxonomicNameLabel id="4AC4579AFFC2FFCE1DBD3D7FFB23FB0C" box="[977,1153,1127,1153]" pageId="22" pageNumber="48" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFC2FFCE1F1E3D92FC13FB4A" pageId="22" pageNumber="48" type="description">
+<paragraph id="633C36F3FFC2FFCE1F1E3D92FB63FB29" blockId="22.[370,1217,1126,1223]" box="[370,1217,1162,1188]" pageId="22" pageNumber="48">
+<uri id="17123AF1FFC2FFCE1F1E3D92FB63FB29" box="[370,1217,1162,1188]" pageId="22" pageNumber="48">
+urn:lsid:zoobank.org:act: 
+<uuid id="17250C26FFC2FFCE1CFA3D92FB63FB29" box="[662,1217,1162,1188]" pageId="22" pageNumber="48">6C2037C9-66B3-4B07-9102-E2BF009B8AC1</uuid>
+</uri>
+</paragraph>
+<paragraph id="633C36F3FFC2FFCE1CEF3DB5FC13FB4A" blockId="22.[370,1217,1126,1223]" box="[643,945,1197,1223]" pageId="22" pageNumber="48">
+<figureCitation id="FBB82A76FFC2FFCE1CEF3DB5FCAAFB4A" box="[643,776,1197,1223]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="23.[189,232,1921,1947]" captionStartId-1="24.[188,233,1923,1952]" captionTargetBox-0="[189,1398,1004,1882]" captionTargetBox-1="[189,1398,1006,1884]" captionTargetId-0="figure-214@23.[189,1398,1004,1882]" captionTargetId-1="figure-214@24.[189,1398,1006,1884]" captionTargetPageId-0="23" captionText-0="Fig. 12. Female of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., paratype (MPEG 13297). A. Habitus, dorsal view. B. Front. C, E. Epigynal plate, ventral view. D, F. Spermathecae, dorsal view." captionText-1="Fig. 13. Male of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., holotype (MPEG 22673).A. Habitus, dorsal view.B. Front. C–F. Left male palp.C, E. Ventral view.D, F. Retrolateral view." pageId="22" pageNumber="48">Figs 12–13</figureCitation>
+, 18, 19B, 22B
+</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFC2FFCE1ED13DF6FC02FA6A" pageId="22" pageNumber="48" type="diagnosis">
+<paragraph id="633C36F3FFC2FFCE1ED13DF6FE94FA85" blockId="22.[189,310,1262,1288]" box="[189,310,1262,1288]" pageId="22" pageNumber="48">
+<heading id="3874819FFFC2FFCE1ED13DF6FE94FA85" bold="true" box="[189,310,1262,1288]" fontSize="11" level="3" pageId="22" pageNumber="48" reason="3">
+<emphasis id="51F7EAE1FFC2FFCE1ED13DF6FE94FA85" bold="true" box="[189,310,1262,1288]" pageId="22" pageNumber="48">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="633C36F3FFC2FFCE1ED13C05FC02FA6A" blockId="22.[189,1400,1309,1511]" pageId="22" pageNumber="48">
+The male of 
+<taxonomicName id="A4834D70FFC2FFCE1F303C06FE4FFABA" authority="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira, 2021" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" box="[348,493,1309,1335]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="22" pageNumber="48" phylum="Arthropoda" rank="species" species="quadrata" status="sp. nov.">
+<emphasis id="51F7EAE1FFC2FFCE1F303C06FE4FFABA" box="[348,493,1309,1335]" italics="true" pageId="22" pageNumber="48">K. quadrata</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="4AC4579AFFC2FFCE1F9B3C05FDF7FABA" box="[503,597,1309,1335]" pageId="22" pageNumber="48" rank="species">sp. nov.</taxonomicNameLabel>
+resembles that of 
+<taxonomicName id="A4834D70FFC2FFCE1D553C06FC4DFABA" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" baseAuthorityName="Mello-Leitao" baseAuthorityYear="1929" box="[825,1007,1309,1335]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="22" pageNumber="48" phylum="Arthropoda" rank="species" species="pentacantha">
+<emphasis id="51F7EAE1FFC2FFCE1D553C06FC4DFABA" box="[825,1007,1309,1335]" italics="true" pageId="22" pageNumber="48">K. pentacantha</emphasis>
+</taxonomicName>
+by the shape and disposition of embolus (
+<figureCitation id="FBB82A76FFC2FFCE1F5D3C58FE63FAD6" box="[305,449,1344,1371]" captionStart="Fig" captionStartId="24.[188,233,1923,1952]" captionTargetBox="[189,1398,1006,1884]" captionTargetId="figure-214@24.[189,1398,1006,1884]" captionText="Fig. 13. Male of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., holotype (MPEG 22673).A. Habitus, dorsal view.B. Front. C–F. Left male palp.C, E. Ventral view.D, F. Retrolateral view." pageId="22" pageNumber="48">Figs 13C, E</figureCitation>
+, 19B), however, it can be distinguished from that and other species of the genus by the rounded tegulum, which also presents a retrolateral reentrance, and by the squared-tipped RTA with remarkable grooved surface (
+<figureCitation id="FBB82A76FFC2FFCE1C383C9EFD41FA2C" box="[596,739,1414,1441]" captionStart="Fig" captionStartId="24.[188,233,1923,1952]" captionTargetBox="[189,1398,1006,1884]" captionTargetId="figure-214@24.[189,1398,1006,1884]" captionText="Fig. 13. Male of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., holotype (MPEG 22673).A. Habitus, dorsal view.B. Front. C–F. Left male palp.C, E. Ventral view.D, F. Retrolateral view." pageId="22" pageNumber="48">Figs 13D, F</figureCitation>
+, 19B). The females have an anterior longitudinal ruckle connected to a shallow and convex fold on the epigynal plate, with no median outgrowth, gutters or septum separating the copulatory openings (
+<figureCitation id="FBB82A76FFC2FFCE1CAE3CD5FCF3FA6A" box="[706,849,1485,1511]" captionStart="Fig" captionStartId="23.[189,232,1921,1947]" captionTargetBox="[189,1398,1004,1882]" captionTargetId="figure-214@23.[189,1398,1004,1882]" captionTargetPageId="23" captionText="Fig. 12. Female of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., paratype (MPEG 13297). A. Habitus, dorsal view. B. Front. C, E. Epigynal plate, ventral view. D, F. Spermathecae, dorsal view." pageId="22" pageNumber="48">Figs 12C, E</figureCitation>
+, 
+<figureCitation id="FBB82A76FFC2FFCE1D323CD5FC31FA6A" box="[862,915,1485,1511]" captionStart="Fig" captionStartId="35.[189,232,1913,1939]" captionTargetBox="[189,1398,367,1832]" captionTargetId="figure-16@35.[189,1398,277,1862]" captionText="Fig. 22. Illustrations of epigynum in ventral and dorsal view. A. Kryptochroma pentacantha (Mello- Leitão, 1929) gen. et comb. nov. (MCTP 38671). B. K. quadrata Machado &amp; Viecelli gen. et sp. nov., apratype (MPEG 13297). C. K. septata Machado &amp; Teixeira gen. et sp. nov., holotype (UFMG 18296)." pageId="22" pageNumber="48">22B</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFC2FFCE1ED13F16FDBEF9F7" pageId="22" pageNumber="48" type="etymology">
+<paragraph id="633C36F3FFC2FFCE1ED13F16FEE6F9A5" blockId="22.[189,324,1550,1576]" box="[189,324,1550,1576]" pageId="22" pageNumber="48">
+<heading id="3874819FFFC2FFCE1ED13F16FEE6F9A5" bold="true" box="[189,324,1550,1576]" fontSize="11" level="3" pageId="22" pageNumber="48" reason="3">
+<emphasis id="51F7EAE1FFC2FFCE1ED13F16FEE6F9A5" bold="true" box="[189,324,1550,1576]" pageId="22" pageNumber="48">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="633C36F3FFC2FFCE1ED13F25FDBEF9F7" blockId="22.[189,1399,1597,1658]" pageId="22" pageNumber="48">The epithet – a Latin feminine adjective that means squared – is a direct reference to the shape of the RTA tip, which ends abruptly.</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFC2FFCF1ED13FB9FEA4FECB" lastPageId="23" lastPageNumber="49" pageId="22" pageNumber="48" type="materials_examined">
+<paragraph id="633C36F3FFC2FFCE1ED13FB9FE08F936" blockId="22.[189,426,1697,1723]" box="[189,426,1697,1723]" pageId="22" pageNumber="48">
+<heading id="3874819FFFC2FFCE1ED13FB9FE08F936" bold="true" box="[189,426,1697,1723]" fontSize="11" level="3" pageId="22" pageNumber="48" reason="3">
+<emphasis id="51F7EAE1FFC2FFCE1ED13FB9FE08F936" bold="true" box="[189,426,1697,1723]" pageId="22" pageNumber="48">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="633C36F3FFC2FFCE1E863FC8FC7EF8BD" blockId="22.[189,1399,1744,1841]" pageId="22" pageNumber="48">
+<materialsCitation id="D3EB3CAEFFC2FFCE1E863FC8FC7EF8BD" collectingDate="2006-09-28" collectionCode="UFMG" collectorName="C. A. C. Santos Jr." country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8951387" location="Porto Urucu" longLatPrecision="1" longitude="-65.18839" municipality="Coari" pageId="22" pageNumber="48" specimenCode="UFMG 22673" specimenCount="1" specimenCount-male="1" stateProvince="Amazonas" typeStatus="holotype">
+<emphasis id="51F7EAE1FFC2FFCE1E863FC8FEFEF967" bold="true" box="[234,348,1744,1770]" pageId="22" pageNumber="48">
+<typeStatus id="BC388851FFC2FFCE1E863FC8FEFEF967" box="[234,348,1744,1770]" pageId="22" pageNumber="48">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="1B947663FFC2FFCE1ED13FEBFE84F880" box="[189,294,1779,1805]" name="Brazil" pageId="22" pageNumber="48">BRAZIL</collectingCountry>
+• 
+<specimenCount id="7585FD7AFFC2FFCE1F563FECFEF1F883" box="[314,339,1780,1806]" pageId="22" pageNumber="48" type="male">♂</specimenCount>
+; 
+<collectingRegion id="A147F811FFC2FFCE1F303FEBFE79F880" box="[348,475,1779,1805]" pageId="22" pageNumber="48">Amazonas</collectingRegion>
+, 
+<collectingMunicipality id="8358AC89FFC2FFCE1F883FEBFD8AF880" box="[484,552,1779,1805]" pageId="22" pageNumber="48">Coari</collectingMunicipality>
+, 
+<location id="665C6028FFC2FFCE1C5E3FECFD60F883" LSID="urn:lsid:plazi:treatment:EB2A87E5FFC2FFC11FDE3D7EFDB2FE54:665C6028FFC2FFCE1C5E3FECFD60F883" box="[562,706,1780,1806]" country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8951387" longLatPrecision="1" longitude="-65.18839" municipality="Coari" name="Porto Urucu" pageId="22" pageNumber="48" stateProvince="Amazonas">Porto Urucu</location>
+, 
+<location id="665C6028FFC2FFCE1CA03FECFB71F883" LSID="urn:lsid:plazi:treatment:EB2A87E5FFC2FFC11FDE3D7EFDB2FE54:665C6028FFC2FFCE1CA03FECFB71F883" box="[716,1235,1779,1806]" country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8951387" longLatPrecision="1" longitude="-65.18839" municipality="Coari" name="Base de Operacoes Geologo Pedro de Moura" pageId="22" pageNumber="48" stateProvince="Amazonas">Base de Operações Geólogo Pedro de Moura</location>
+; 
+<geoCoordinate id="06B75034FFC2FFCE1AB03FEAFAD3F880" box="[1244,1393,1778,1806]" degrees="4" direction="south" minutes="53" orientation="latitude" pageId="22" pageNumber="48" precision="1" seconds="42.5" value="-4.8951387">4°53′42.5″ S</geoCoordinate>
+, 
+<geoCoordinate id="06B75034FFC2FFCE1ED13E0DFECFF8BC" box="[189,365,1813,1841]" degrees="65" direction="west" minutes="11" orientation="longitude" pageId="22" pageNumber="48" precision="1" seconds="18.2" value="-65.18839">65°11′18.2″ W</geoCoordinate>
+; 
+<date id="173D1033FFC2FFCE1F153E0FFDB4F8BD" box="[377,534,1814,1841]" pageId="22" pageNumber="48" value="2006-09-28">
+<collectingDate id="0779E9DBFFC2FFCE1F153E0FFDB4F8BD" box="[377,534,1814,1841]" pageId="22" pageNumber="48" value="2006-09-28">28 Sep. 2006</collectingDate>
+</date>
+; 
+<collectorName id="CE765325FFC2FFCE1C4F3E0FFD4FF8BC" box="[547,749,1815,1841]" pageId="22" pageNumber="48">C.A.C. Santos Jr.</collectorName>
+leg.; 
+<specimenCode id="33259E88FFC2FFCE1D433E0FFC7AF8BD" box="[815,984,1814,1841]" collectionCode="UFMG" country="Brazil" httpUri="http://grbio.org/cool/z0ie-wfm6" name="Universidade Federal de Minas Gerais" pageId="22" pageNumber="48">UFMG 22673</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="633C36F3FFC2FFCE1E863E40FC2AF851" blockId="22.[189,1399,1880,2012]" pageId="22" pageNumber="48">
+<materialsCitation id="D3EB3CAEFFC2FFCE1E863E40FC66F818" collectingDate="2006-09-28" collectionCode="MPEG" collectorName="C. A. C. Santos Jr." country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8951387" location="BRAZIL" longLatPrecision="1" longitude="-65.18839" municipality="Porto Urucu" pageId="22" pageNumber="48" specimenCode="MPEG 22669" specimenCount="1" specimenCount-female="1" stateProvince="Amazonas" typeStatus="paratype">
+<emphasis id="51F7EAE1FFC2FFCE1E863E40FEC5F8FF" bold="true" box="[234,359,1880,1906]" pageId="22" pageNumber="48">
+<typeStatus id="BC388851FFC2FFCE1E863E40FEC5F8FF" box="[234,359,1880,1906]" pageId="22" pageNumber="48">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="1B947663FFC2FFCE1ED13E63FE84F818" box="[189,294,1915,1941]" name="Brazil" pageId="22" pageNumber="48">BRAZIL</collectingCountry>
+• 
+<specimenCount id="7585FD7AFFC2FFCE1F503E63FECAF81B" box="[316,360,1915,1942]" pageId="22" pageNumber="48" type="female">1 ♀</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="33259E88FFC2FFCE1D4F3E63FC66F818" box="[803,964,1915,1941]" collectionCode="MPEG" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="22" pageNumber="48">MPEG 22669</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="D3EB3CAEFFC2FFCE1DB73E63FB8CF835" collectingDate="2006-09-28" collectionCode="UFMG" collectorName="D. Guimaraes" country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8336115" location="Amazonas" longLatPrecision="21" longitude="-65.06473" municipality="Porto Urucu" pageId="22" pageNumber="48" specimenCode="UFMG 22673" specimenCount="1" specimenCount-female="1" stateProvince="Amazonas" typeStatus="paratype">
+<specimenCount id="7585FD7AFFC2FFCE1DB73E63FBA4F81B" box="[987,1030,1915,1942]" pageId="22" pageNumber="48" type="female">1 ♀</specimenCount>
+; same locality as for preceding; 
+<geoCoordinate id="06B75034FFC2FFCE1ED13E85FE9DF835" box="[189,319,1949,1977]" degrees="4" direction="south" minutes="50" orientation="latitude" pageId="22" pageNumber="48" precision="15" seconds="01" value="-4.8336115">4°50′01″ S</geoCoordinate>
+, 
+<geoCoordinate id="06B75034FFC2FFCE1F213E85FE4BF834" box="[333,489,1949,1977]" degrees="65" direction="west" minutes="03" orientation="longitude" pageId="22" pageNumber="48" precision="15" seconds="53" value="-65.06473">65°03′53″ W</geoCoordinate>
+; 
+<date id="173D1033FFC2FFCE1F993E86FD36F835" box="[501,660,1950,1976]" pageId="22" pageNumber="48" value="2006-09-28">
+<collectingDate id="0779E9DBFFC2FFCE1F993E86FD36F835" box="[501,660,1950,1976]" pageId="22" pageNumber="48" value="2006-09-28">28 Sep. 2006</collectingDate>
+</date>
+; 
+<collectorName id="CE765325FFC2FFCE1CCD3E87FCE7F835" box="[673,837,1950,1977]" pageId="22" pageNumber="48">D. Guimarães</collectorName>
+leg.; 
+<specimenCode id="33259E88FFC2FFCE1DE43E86FB8CF835" box="[904,1070,1950,1976]" collectionCode="UFMG" country="Brazil" httpUri="http://grbio.org/cool/z0ie-wfm6" name="Universidade Federal de Minas Gerais" pageId="22" pageNumber="48">UFMG 22673</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="D3EB3CAEFFC2FFCE1A253E86FC26F851" collectingDate="2006-09" collectionCode="MPEG" collectorName="D. Candiani" country="Brazil" county="Base de Operacoes Geologo Pedro de Moura" latitude="-4.8336115" location="Amazonas" longLatPrecision="21" longitude="-65.06473" municipality="Porto Urucu" pageId="22" pageNumber="48" specimenCode="MPEG 13297" specimenCount="1" specimenCount-female="1" stateProvince="Amazonas" typeStatus="paratype">
+<specimenCount id="7585FD7AFFC2FFCE1A253E86FBD4F834" box="[1097,1142,1950,1977]" pageId="22" pageNumber="48" type="female">1 ♀</specimenCount>
+, same collection data as for preceding; 
+<date id="173D1033FFC2FFCE1FE53EDAFDA0F856" box="[393,514,1985,2012]" pageId="22" pageNumber="48" value="2006-09">
+<collectingDate id="0779E9DBFFC2FFCE1FE53EDAFDA0F856" box="[393,514,1985,2012]" pageId="22" pageNumber="48" value="2006-09">Sep. 2006</collectingDate>
+</date>
+; 
+<collectorName id="CE765325FFC2FFCE1C623EDAFD3EF856" box="[526,668,1985,2012]" pageId="22" pageNumber="48">D. Candiani</collectorName>
+leg.; 
+<specimenCode id="33259E88FFC2FFCE1CB23EDAFC26F851" box="[734,900,1986,2012]" collectionCode="MPEG" country="Brazil" httpUri="http://grbio.org/cool/90vz-swjg" name="Museu Paraense Emilio Goeldi" pageId="22" pageNumber="48">MPEG 13297</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1E873810FE40FEAF" blockId="23.[189,482,264,326]" box="[235,482,264,290]" pageId="23" pageNumber="49">
+<emphasis id="51F7EAE1FFC3FFCF1E873810FE40FEAF" bold="true" box="[235,482,264,290]" pageId="23" pageNumber="49">Additional material</emphasis>
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1ED13834FEA4FECB" blockId="23.[189,482,264,326]" box="[189,262,300,326]" pageId="23" pageNumber="49">None.</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFC3FFC11ED13875FADBFEE4" lastPageId="25" lastPageNumber="51" pageId="23" pageNumber="49" type="description">
+<paragraph id="633C36F3FFC3FFCF1ED13875FEECFE0A" blockId="23.[189,334,365,391]" box="[189,334,365,391]" pageId="23" pageNumber="49">
+<heading id="3874819FFFC3FFCF1ED13875FEECFE0A" bold="true" box="[189,334,365,391]" fontSize="11" level="3" pageId="23" pageNumber="49" reason="3">
+<emphasis id="51F7EAE1FFC3FFCF1ED13875FEECFE0A" bold="true" box="[189,334,365,391]" pageId="23" pageNumber="49">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1E873884FDD4FE3B" blockId="23.[188,1399,412,579]" box="[235,630,412,438]" pageId="23" pageNumber="49">
+<emphasis id="51F7EAE1FFC3FFCF1E873884FEE4FE3B" bold="true" box="[235,326,412,438]" pageId="23" pageNumber="49">Female</emphasis>
+(
+<typeStatus id="BC388851FFC3FFCF1F393884FE1DFE3B" box="[341,447,412,438]" pageId="23" pageNumber="49">paratype</typeStatus>
+, MPEG 13297)
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1ED138A7FBB9FDCF" blockId="23.[188,1399,412,579]" pageId="23" pageNumber="49">
+PROSOMA. Anterior eye row strongly recurved and posterior procurve, ocular mounds discrete, not as elevated as in other species, carapace predominantly yellow, black on the sides, MS well developed (
+<figureCitation id="FBB82A76FFC3FFCF1EAA3B1DFEF4FD92" box="[198,342,517,543]" captionStart="Fig" captionStartId="23.[189,232,1921,1947]" captionTargetBox="[189,1398,1004,1882]" captionTargetId="figure-214@23.[189,1398,1004,1882]" captionTargetPageId="23" captionText="Fig. 12. Female of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., paratype (MPEG 13297). A. Habitus, dorsal view. B. Front. C, E. Epigynal plate, ventral view. D, F. Spermathecae, dorsal view." pageId="23" pageNumber="49">Fig. 12A–B</figureCitation>
+). Chelicerae yellow with two pairs of dark stains, sternum slightly longer than wide, brown with a large yellow stain, endites and labium truncated and totally brown.
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1ED13B72FCCAFD09" blockId="23.[189,872,618,644]" box="[189,872,618,644]" pageId="23" pageNumber="49">
+LEGS. Leg coloration pattern as in 
+<taxonomicName id="A4834D70FFC3FFCF1C233B73FD13FD09" authority="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira, 2021" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" box="[591,689,619,644]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="23" pageNumber="49" phylum="Arthropoda" rank="species" species="gigas" status="gen. et sp. nov.">
+<emphasis id="51F7EAE1FFC3FFCF1C233B73FD13FD09" box="[591,689,619,644]" italics="true" pageId="23" pageNumber="49">K. gigas</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="4AC4579AFFC3FFCF1CD43B72FCCAFD09" box="[696,872,618,644]" pageId="23" pageNumber="49" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1ED13BB3FA92FD64" blockId="23.[189,1398,683,745]" pageId="23" pageNumber="49">
+OPISTHOSOMA. Concave anterior border, predominantly yellow, dark-brown on sides and on the back of the abdominal projections (
+<figureCitation id="FBB82A76FFC3FFCF1F933BD6FDCEFD64" box="[511,620,718,745]" captionStart="Fig" captionStartId="23.[189,232,1921,1947]" captionTargetBox="[189,1398,1004,1882]" captionTargetId="figure-214@23.[189,1398,1004,1882]" captionTargetPageId="23" captionText="Fig. 12. Female of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., paratype (MPEG 13297). A. Habitus, dorsal view. B. Front. C, E. Epigynal plate, ventral view. D, F. Spermathecae, dorsal view." pageId="23" pageNumber="49">Fig. 12A</figureCitation>
+). Spermathecae rounded and smooth surfaced (
+<figureCitation id="FBB82A76FFC3FFCF1AFA3BD6FA80FD64" box="[1174,1314,718,745]" captionStart="Fig" captionStartId="23.[189,232,1921,1947]" captionTargetBox="[189,1398,1004,1882]" captionTargetId="figure-214@23.[189,1398,1004,1882]" captionTargetPageId="23" captionText="Fig. 12. Female of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., paratype (MPEG 13297). A. Habitus, dorsal view. B. Front. C, E. Epigynal plate, ventral view. D, F. Spermathecae, dorsal view." pageId="23" pageNumber="49">Fig. 12D, F</figureCitation>
+).
+</paragraph>
+<paragraph id="633C36F3FFC3FFCF1ED13A08FADAFC3A" blockId="23.[189,1401,784,952]" pageId="23" pageNumber="49">MEASUREMENTS. Eye diameters and eye interdistances: AME 0.06, ALE 0.11, PME 0.08, PLE 0.08, AME–AME 0.12, AME–ALE 0.16, PME–PME 0.27, PME–PLE 0.09, MOQ length 0.48, MOQ width 0.51; leg formula: 1-2-4-3: leg I – femur 5.18/ patella 2.59/ tibiae 3.47/ metatarsus 2.07/ tarsus 1.39/ total 14.70; II – 4.14/ 2.33/ 2.84/ 1.81/ 1.29/ 9.57; III – 2.33/ 1.29/ 2.07/ 1.03/ 0.88/ 7.60; IV – 2.90/ 1.29/ 1.91/ 1.24/ 0.93/ 8.27. Total body length 7.25; carapace 3.50 length, 3.37 wide; opisthosoma</paragraph>
+<caption id="37FC667BFFC3FFCF1ED13E99FEE9F86C" pageId="23" pageNumber="49" startId="23.[189,232,1921,1947]" targetBox="[189,1398,1004,1882]" targetPageId="23">
+<paragraph id="633C36F3FFC3FFCF1ED13E99FEE9F86C" blockId="23.[189,1399,1921,2017]" pageId="23" pageNumber="49">
+<emphasis id="51F7EAE1FFC3FFCF1ED13E99FEBCF816" bold="true" box="[189,286,1921,1947]" pageId="23" pageNumber="49">Fig. 12.</emphasis>
+Female of 
+<taxonomicName id="A4834D70FFC3FFCF1FC33E99FC73F816" authority="Machado &amp; Viecelli" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" box="[431,977,1921,1947]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="23" pageNumber="49" phylum="Arthropoda" rank="species" species="quadrata" status="gen. et sp. nov.">
+<emphasis id="51F7EAE1FFC3FFCF1FC33E99FD73F816" box="[431,721,1921,1947]" italics="true" pageId="23" pageNumber="49">Kryptochroma quadrata</emphasis>
+Machado &amp; Viecelli
+</taxonomicName>
+<taxonomicNameLabel id="4AC4579AFFC3FFCF1DB03E9AFB39F811" box="[988,1179,1922,1948]" pageId="23" pageNumber="49" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+, paratype (MPEG 13297). 
+<emphasis id="51F7EAE1FFC3FFCF1F4E3EBCFE95F833" bold="true" box="[290,311,1956,1982]" pageId="23" pageNumber="49">A</emphasis>
+. Habitus, dorsal view. 
+<emphasis id="51F7EAE1FFC3FFCF1C383EBCFDCAF833" bold="true" box="[596,616,1956,1982]" pageId="23" pageNumber="49">B</emphasis>
+. Front. 
+<emphasis id="51F7EAE1FFC3FFCF1CA73EBCFCA5F833" bold="true" box="[715,775,1956,1982]" pageId="23" pageNumber="49">C, E</emphasis>
+. Epigynal plate, ventral view. 
+<emphasis id="51F7EAE1FFC3FFCF1A133EBCFB1AF833" bold="true" box="[1151,1208,1956,1982]" pageId="23" pageNumber="49">D, F</emphasis>
+. Spermathecae, dorsal view.
+</paragraph>
+</caption>
+<paragraph id="633C36F3FFCCFFC01ED13811FD8CFECB" blockId="24.[189,1398,265,327]" pageId="24" pageNumber="50">length 3.75; clypeus 0.32 height; sternum 1.53 length, 1.29 width; endites 0.80 length, 0.40 width; labium 0.56 length, 0.58 width.</paragraph>
+<paragraph id="633C36F3FFCCFFC01E863876FDFEFE05" blockId="24.[188,1399,365,532]" box="[234,604,365,392]" pageId="24" pageNumber="50">
+<emphasis id="51F7EAE1FFCCFFC01E863876FE88FE05" bold="true" box="[234,298,366,392]" pageId="24" pageNumber="50">Male</emphasis>
+(
+<typeStatus id="BC388851FFCCFFC01F553876FE06FE05" box="[313,420,366,392]" pageId="24" pageNumber="50">holotype</typeStatus>
+, MPEG 22673)
+</paragraph>
+<paragraph id="633C36F3FFCCFFC01ED13889FF59FD99" blockId="24.[188,1399,365,532]" pageId="24" pageNumber="50">
+PROSOMA. Anterior eye row very recurved, posterior procurved, ALE with almost two times the size of AME; carapace knobby, predominantly light brown with its median region, clypeus and posterior slope scars yellowish; medial spire absent (
+<figureCitation id="FBB82A76FFCCFFC01C1C38CFFD5DFE7C" box="[624,767,471,497]" captionStart="Fig" captionStartId="24.[188,233,1923,1952]" captionTargetBox="[189,1398,1006,1884]" captionTargetId="figure-214@24.[189,1398,1006,1884]" captionText="Fig. 13. Male of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., holotype (MPEG 22673).A. Habitus, dorsal view.B. Front. C–F. Left male palp.C, E. Ventral view.D, F. Retrolateral view." pageId="24" pageNumber="50">Fig. 13A–B</figureCitation>
+). Sternum scutiform, light brown with a median white stain.
+</paragraph>
+<paragraph id="633C36F3FFCCFFC01ED13B24FE63FD4D" blockId="24.[188,1399,572,704]" pageId="24" pageNumber="50">
+LEGS. Anterior legs light brown with some darker taints while legs III and IV are lighter, with extensive whitish areas; anterior femora enlarged, with dorsolateral setiferous tubercles randomly distributed and ventral region dark-brown; tibia I and II with four pairs of ventral macrosetae and anterior metatarsi with three pairs (
+<figureCitation id="FBB82A76FFCCFFC01F2B3BBDFE16FD4D" box="[327,436,677,704]" captionStart="Fig" captionStartId="24.[188,233,1923,1952]" captionTargetBox="[189,1398,1006,1884]" captionTargetId="figure-214@24.[189,1398,1006,1884]" captionText="Fig. 13. Male of Kryptochroma quadrata Machado &amp; Viecelli gen. et sp. nov., holotype (MPEG 22673).A. Habitus, dorsal view.B. Front. C–F. Left male palp.C, E. Ventral view.D, F. Retrolateral view." pageId="24" pageNumber="50">Fig. 13A</figureCitation>
+).
+</paragraph>
+<paragraph id="633C36F3FFCCFFC01ED13BFFFCDCFCA9" blockId="24.[189,1399,743,804]" pageId="24" pageNumber="50">OPISTHOSOMA. Predominantly pale yellow with small white punctuations and posterior black spots; straight anterior border and five short spiniform projections.</paragraph>
+<paragraph id="633C36F3FFCCFFC01ED13A54FAD4FC21" blockId="24.[188,1399,843,941]" pageId="24" pageNumber="50">MEASUREMENTS. Eye diameters and eye interdistances: AME 0.06, ALE 0.08, PME 0.06, PLE 0.06, AME– AME 0.06, AME–ALE 0.08, PME–PME 0.16, PME–PLE 0.06, MOQ length 0.29, MOQ width 0.32; leg formula: 1-2-4-3: leg I – femur 2.23/ patella 1.24/ tibiae 1.33/ metatarsus 0.88/ tarsus 0.56/ total 6.24; II –</paragraph>
+<caption id="37FC667BFFCCFFC01ED03E9BFF5DF864" pageId="24" pageNumber="50" startId="24.[188,233,1923,1952]" targetBox="[189,1398,1006,1884]" targetPageId="24">
+<paragraph id="633C36F3FFCCFFC01ED03E9BFF5DF864" blockId="24.[188,1400,1923,2025]" pageId="24" pageNumber="50">
+<emphasis id="51F7EAE1FFCCFFC01ED03E9BFE82F82D" bold="true" box="[188,288,1923,1952]" pageId="24" pageNumber="50">Fig. 13.</emphasis>
+Male of 
+<taxonomicName id="A4834D70FFCCFFC01FF63E9BFC6FF82D" authority="Machado &amp; Viecelli" authorityName="Machado &amp; Viecelli &amp; Guzati &amp; Grismado &amp; Teixeira" authorityYear="2021" box="[410,973,1923,1952]" class="Arachnida" family="Thomisidae" genus="Kryptochroma" kingdom="Animalia" order="Araneae" pageId="24" pageNumber="50" phylum="Arthropoda" rank="species" species="quadrata" status="gen. et sp. nov.">
+<emphasis id="51F7EAE1FFCCFFC01FF63E9BFD64F82D" box="[410,710,1923,1952]" italics="true" pageId="24" pageNumber="50">Kryptochroma quadrata</emphasis>
+Machado &amp; Viecelli
+</taxonomicName>
+<taxonomicNameLabel id="4AC4579AFFCCFFC01DB93E9DFB37F82D" box="[981,1173,1924,1952]" pageId="24" pageNumber="50" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+, 
+<typeStatus id="BC388851FFCCFFC01AC83E9BFAADF82D" box="[1188,1295,1923,1952]" pageId="24" pageNumber="50">holotype</typeStatus>
+(MPEG 22673). 
+<emphasis id="51F7EAE1FFCCFFC01F4D3EBFFE95F849" bold="true" box="[289,311,1959,1988]" pageId="24" pageNumber="50">A</emphasis>
+. Habitus, dorsal view. 
+<emphasis id="51F7EAE1FFCCFFC01C293EB0FDFBF849" bold="true" box="[581,601,1960,1988]" pageId="24" pageNumber="50">B</emphasis>
+. Front. 
+<emphasis id="51F7EAE1FFCCFFC01CD53EBFFD53F849" bold="true" box="[697,753,1959,1988]" pageId="24" pageNumber="50">C–F</emphasis>
+. Left male palp. 
+<emphasis id="51F7EAE1FFCCFFC01DDB3EBFFC4CF849" bold="true" box="[951,1006,1959,1988]" pageId="24" pageNumber="50">C, E</emphasis>
+. Ventral view. 
+<emphasis id="51F7EAE1FFCCFFC01ACC3EB0FB75F849" bold="true" box="[1184,1239,1960,1988]" pageId="24" pageNumber="50">D, F</emphasis>
+. Retrolateral view.
+</paragraph>
+</caption>
+<paragraph id="633C36F3FFCDFFC11ED13811FADBFEE4" blockId="25.[188,1401,265,362]" pageId="25" pageNumber="51">1.45/ 0.72/ 1.04/ 0.72/ 0.50/ 4.43; III – 0.87/ 0.48/ 0.80/ 0.45/ 0.37/ 2.97; IV – 1.12/ 0.48/ 0.80/ 0.56/ 0.40/ 3.36. Total body length 4.61; carapace 2.28 length, 2.18 width; opisthosoma length 2.33; clypeus 0.24 height; sternum 0.83 length, 0.72 width; endites 0.40 length, 0.24 width; labium 0.20 length, 0.32 width.</paragraph>
+</subSubSection>
+<subSubSection id="2B996578FFCDFFC11ED13888FDB2FE54" box="[189,528,400,473]" pageId="25" pageNumber="51" type="distribution">
+<paragraph id="633C36F3FFCDFFC11ED13888FEF4FE27" blockId="25.[189,342,400,426]" box="[189,342,400,426]" pageId="25" pageNumber="51">
+<heading id="3874819FFFCDFFC11ED13888FEF4FE27" bold="true" box="[189,342,400,426]" fontSize="11" level="3" pageId="25" pageNumber="51" reason="3">
+<emphasis id="51F7EAE1FFCDFFC11ED13888FEF4FE27" bold="true" box="[189,342,400,426]" pageId="25" pageNumber="51">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="633C36F3FFCDFFC11ED138A7FDB2FE54" blockId="25.[189,528,447,473]" box="[189,528,447,473]" pageId="25" pageNumber="51">
+<collectingCountry id="1B947663FFCDFFC11ED138A7FEA7FE54" box="[189,261,447,473]" name="Brazil" pageId="25" pageNumber="51">Brazil</collectingCountry>
+(Amazonas) (
+<figureCitation id="FBB82A76FFCDFFC11FC738A7FDA0FE54" box="[427,514,447,473]" captionStart="Fig" captionStartId="31.[188,231,1987,2013]" captionTargetBox="[189,1398,751,1912]" captionTargetId="figure-154@31.[189,1398,751,1947]" captionTargetPageId="31" captionText="Fig. 18. Distribution records of species of Kryptochroma Machado gen. nov." pageId="25" pageNumber="51">Fig. 18</figureCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

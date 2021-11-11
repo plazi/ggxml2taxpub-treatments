@@ -1,0 +1,349 @@
+<document id="C6EE7DC7E2FA37DF57F58A3353953B06" ID-DOI="http://doi.org/10.5281/zenodo.5604811" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550956" ID-ISSN="2118-9773" ID-Zenodo-Dep="5604811" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" LSID="urn:lsid:zoobank.org:act:9C85D567-DA54-463F-8CE3-BFDBABD83928" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFF81FF9AFE78FECDFC26FBD7" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Lutites paucis Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari 2021, gen. et sp. nov." docType="treatment" docUuid="9C85D567-DA54-463F-8CE3-BFDBABD83928" docUuidSource="ZooBank" docVersion="7" lastPageId="77" lastPageNumber="78" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="76" pageNumber="77" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB789067FAB62DD7DA70508F9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599F84F258F758548770E34E9">
+<mods:title id="13FDA205199560566EE0DCB146A2E6FD">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A628D91A385434A1D5D9016A" type="personal">
+<mods:role id="51692204BF16DAB2FD33B671DFC8F0F3">
+<mods:roleTerm id="BD2BD8394B41489B63650A53B5131074">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4DD734467132501122C055D5">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812D9CFCC1FB7384AE501088B0" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F16B78D5F4FA84D9808AEA6E">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48F2DA4A54B2835DDAEBDF1F" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A7287024C6960D72CFD3EF785F01D" type="personal">
+<mods:role id="6C3D2CE0519652E489F83E0DA3CDE12B">
+<mods:roleTerm id="A932971289B2D3EB7FF3C2B7CF9B43B0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F19E0668E4DE15AE5DDC9CE">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB161E7B78BCED1B78CC208B" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399149A69293E13EA958A9E78">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BC9FFA605F57066B7CAA824C" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD85B383B2EC41B93786BB143" type="personal">
+<mods:role id="EBC7D4EE9233FDCD41C1491EDAC9BB5D">
+<mods:roleTerm id="79F914924042A1C7F4F16047F2842330">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45659ECEF8E2B5CBEDE07428">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD65CDF92D7DA5934E963009C" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD15C7CD853D9C6A9882C03B">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F5016F003703C6FEBA2639E" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E04DA040E30C446BBE0AEA11F" type="personal">
+<mods:role id="FAE14BA8E70FD30249D41E2B31EAF120">
+<mods:roleTerm id="F5BB0DB92836FFA0593489777B474E72">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C033ED7AC4C4F24A468ACC415">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C693384CDBAF4DFB93110B0552A" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3F633258BBAFE31588711AB">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9AE3E453711399153BA4EE6" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253B24B22EE18FD5A7E7F7146" type="personal">
+<mods:role id="0763F0449FAA2FC4F2807FB089A06E68">
+<mods:roleTerm id="BB48773F38912B430AE132A3B7F7C9A1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9B8A34396A95137EABABDFB">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E7CD36B11ABDB9D533DBBC98" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA766705C2EE4AAFB098DE0C4E">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C98E1B815534C50E6B075616" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC551EE02EF489A91ED0371C9" type="personal">
+<mods:role id="8B8CD05C29EE9BE65EBD5245B9F0E328">
+<mods:roleTerm id="ACB6128A21B44BF7485DAF18C9E24F13">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E783E881ABF7A9F06FFAE8AD2">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281BCB80B90E82816AF178C92" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAA9F1431B1806C6231AC7ED8">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B58E78691E3609BD381651A3" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510FCC4635B1E8286C23BD84EA">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A30284FF3FC42375208BB3F88" type="host">
+<mods:titleInfo id="5E868733C64637DBB920323B66DD35BB">
+<mods:title id="C420E4A067F73B729F4FDBCC1F38DEF5">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BF9C707DE163D95069248091">
+<mods:date id="1DE35E379E31B7BA0EED7D154AF87AA5">2021</mods:date>
+<mods:detail id="2E547940F0197C2AF325FB284A13E653" type="pubDate">
+<mods:number id="A7A9FB1096021F03F8A65C0C8E64C402">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B149A9C7324C232996ECF1DB3" type="volume">
+<mods:number id="9C7A681476724DA09672553BF7892640">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D38CF205A055D18569A468E84" unit="page">
+<mods:start id="B9141DB8E5038ED1806B05EA89684BBB">1</mods:start>
+<mods:end id="F9CBE60BDE8AD57B406EDE5CA554901A">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E298C72DE923829A0ED621F">journal article</mods:classification>
+<mods:identifier id="8AB95413778D9467E8E87D8601920EBA" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E17DB97D70A2C26C500C7B3D" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F88960D6C842681D87DA0E42E1" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48AE74AF883F2289E8B25375" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEA9E7815B1C727F7A4A12DD" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFF81FF9AFE78FECDFC26FBD7" ID-DOI="http://doi.org/10.5281/zenodo.5604811" ID-GBIF-Taxon="189550956" ID-Zenodo-Dep="5604811" LSID="urn:lsid:zoobank.org:act:9C85D567-DA54-463F-8CE3-BFDBABD83928" httpUri="http://treatment.plazi.org/id/03CC87BFFF81FF9AFE78FECDFC26FBD7" lastPageId="77" lastPageNumber="78" pageId="76" pageNumber="77">
+<subSubSection id="C37F6522FF81FF9BFE78FECDFBF5FEE7" box="[497,1091,265,291]" pageId="76" pageNumber="77" type="nomenclature">
+<paragraph id="8BDA36A9FF81FF9BFE78FECDFBF5FEE7" blockId="76.[358,1229,265,362]" box="[497,1091,265,291]" pageId="76" pageNumber="77">
+<heading id="D09281C5FF81FF9BFE78FECDFBF5FEE7" box="[497,1091,265,291]" centered="true" fontSize="11" level="2" pageId="76" pageNumber="77" reason="2">
+<taxonomicName id="4C654D2AFF81FF9BFE78FECDFC3AFEE7" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[497,908,265,291]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="76" pageNumber="77" phylum="Mollusca" rank="species" species="paucis" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF81FF9BFE78FECDFD2FFEE7" bold="true" box="[497,665,265,291]" italics="true" pageId="76" pageNumber="77">Lutites paucis</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF81FF9BFC1AFECDFBF5FEE7" box="[915,1091,265,291]" pageId="76" pageNumber="77" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF81FF9BFEEFFEE8FCCBFEAE" pageId="76" pageNumber="77" type="description">
+<paragraph id="8BDA36A9FF81FF9BFEEFFEE8FB7BFE83" blockId="76.[358,1229,265,362]" box="[358,1229,300,327]" pageId="76" pageNumber="77">
+<uri id="FFF43AABFF81FF9BFEEFFEE8FB7BFE83" box="[358,1229,300,327]" pageId="76" pageNumber="77">
+urn:lsid:zoobank.org:act: 
+<uuid id="FFC30C7CFF81FF9BFD0DFEE8FB7BFE83" box="[644,1229,300,327]" pageId="76" pageNumber="77">9C85D567-DA54-463F-8CE3-BFDBABD83928</uuid>
+</uri>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFD3FFE8BFCCBFEAE" blockId="76.[358,1229,265,362]" box="[694,893,335,362]" pageId="76" pageNumber="77">
+<figureCitation id="135E2A2CFF81FF9BFD3FFE8BFCBBFEAE" box="[694,781,335,362]" captionStart="Fig" captionStartId="76.[189,232,1925,1951]" captionTargetBox="[194,1396,1413,1896]" captionTargetId="figure-284@76.[189,1399,1407,1901]" captionTargetPageId="76" captionText="Fig. 50. Lutites paucis Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29991, section C, -2.45 m. B. Suture line, holotype MB.C.29991, at 13.7 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604849" httpUri="https://zenodo.org/record/5604849/files/figure.png" pageId="76" pageNumber="77">Fig. 50</figureCitation>
+; 
+<tableCitation id="C6E70312FF81FF9BFC91FE8BFCCBFEAE" box="[792,893,335,362]" captionStart="Table 25" captionStartId="77.[189,258,265,291]" captionText="Table 25. Conch dimensions (partly estimated) and ratios of the holotype of Lutites paucis Korn &amp; Hairapetian gen. et sp. nov. from Baghuk Mountain." pageId="76" pageNumber="77">Table 25</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF81FF9BFF34FE54FCB3FDA2" pageId="76" pageNumber="77" type="diagnosis">
+<paragraph id="8BDA36A9FF81FF9BFF34FE54FE80FE6E" blockId="76.[189,310,400,426]" box="[189,310,400,426]" pageId="76" pageNumber="77">
+<heading id="D09281C5FF81FF9BFF34FE54FE80FE6E" bold="true" box="[189,310,400,426]" fontSize="11" level="3" pageId="76" pageNumber="77" reason="3">
+<emphasis id="B911EABBFF81FF9BFF34FE54FE80FE6E" bold="true" box="[189,310,400,426]" pageId="76" pageNumber="77">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFF34FE7BFCB3FDA2" blockId="76.[189,1399,447,615]" pageId="76" pageNumber="77">
+Species of 
+<taxonomicName id="4C654D2AFF81FF9BFECFFE04FE20FE1D" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[326,406,448,473]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="76" pageNumber="77" phylum="Mollusca" rank="genus" status="gen. nov.">
+<emphasis id="B911EABBFF81FF9BFECFFE04FE20FE1D" box="[326,406,448,473]" italics="true" pageId="76" pageNumber="77">Lutites</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF81FF9BFE28FE04FDA7FE1E" box="[417,529,448,474]" pageId="76" pageNumber="77" rank="genus">gen. nov.</taxonomicNameLabel>
+with conch reaching 
+<quantity id="4C9D9B4CFF81FF9BFC94FE7BFCC2FE1E" box="[797,884,447,474]" metricMagnitude="-2" metricUnit="m" metricValue="7.0" pageId="76" pageNumber="77" unit="mm" value="70.0">70 mm</quantity>
+dm. Subadult stage with circular, slightly compressed whorl profile (ww/wh =0.90–1.00) and broadly rounded venter; very coarse conical ventrolateral nodes. Adult stage with subtrapezoidal, slightly compressed whorl profile (ww/wh =0.80), flattened venter and subangular ventrolateral shoulder; without ribs or nodes. Prongs of external lobe simple; altogether 11 notches of E, A and L lobes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF81FF9BFF34FD4AFB6AFD12" box="[189,1244,654,727]" pageId="76" pageNumber="77" type="etymology">
+<paragraph id="8BDA36A9FF81FF9BFF34FD4AFEF2FD6C" blockId="76.[189,324,654,680]" box="[189,324,654,680]" pageId="76" pageNumber="77">
+<heading id="D09281C5FF81FF9BFF34FD4AFEF2FD6C" bold="true" box="[189,324,654,680]" fontSize="11" level="3" pageId="76" pageNumber="77" reason="3">
+<emphasis id="B911EABBFF81FF9BFF34FD4AFEF2FD6C" bold="true" box="[189,324,654,680]" pageId="76" pageNumber="77">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFF34FD79FB6AFD12" blockId="76.[189,1244,700,727]" box="[189,1244,700,727]" pageId="76" pageNumber="77">
+From the Latin ‘ 
+<taxonomicName id="4C654D2AFF81FF9BFEF7FD79FE7DFD12" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[382,459,701,726]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="76" pageNumber="77" phylum="Mollusca" rank="species" species="paucis">
+<emphasis id="B911EABBFF81FF9BFEF7FD79FE7DFD12" box="[382,459,701,726]" italics="true" pageId="76" pageNumber="77">paucis</emphasis>
+</taxonomicName>
+’, meaning ‘fewer’, because of the low number of lobes and nodes.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF81FF9BFF34FD39FECDFBD0" pageId="76" pageNumber="77" type="materials_examined">
+<paragraph id="8BDA36A9FF81FF9BFF34FD39FE1CFCD3" blockId="76.[189,426,765,791]" box="[189,426,765,791]" pageId="76" pageNumber="77">
+<heading id="D09281C5FF81FF9BFF34FD39FE1CFCD3" bold="true" box="[189,426,765,791]" fontSize="11" level="3" pageId="76" pageNumber="77" reason="3">
+<emphasis id="B911EABBFF81FF9BFF34FD39FE1CFCD3" bold="true" box="[189,426,765,791]" pageId="76" pageNumber="77">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFF63FCE8FDC6FC49" blockId="76.[189,1399,812,909]" pageId="76" pageNumber="77">
+<materialsCitation id="3B0D3CF4FF81FF9BFF63FCE8FDC6FC49" ID-GBIF-Occurrence="3395073307" collectionCode="MB" collectorName="Baghuk Mountain C" country="Iran" elevation="2" location="Baghuk Mountain C section" pageId="76" pageNumber="77" specimenCode="MB.C.29991" specimenCount="1" stateProvince="Esfahan Province" typeStatus="holotype">
+<emphasis id="B911EABBFF81FF9BFF63FCE8FEEAFC82" bold="true" box="[234,348,812,838]" pageId="76" pageNumber="77">
+<typeStatus id="54DE880BFF81FF9BFF63FCE8FEEAFC82" box="[234,348,812,838]" pageId="76" pageNumber="77">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FF81FF9BFF34FC8BFEB3FCAD" box="[189,261,847,873]" name="Iran" pageId="76" pageNumber="77">IRAN</collectingCountry>
+• 
+<collectingRegion id="49A1F84BFF81FF9BFEADFC8BFE41FCAD" box="[292,503,847,873]" country="Iran" name="Esfahan" pageId="76" pageNumber="77">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FF81FF9BFD8FFC8BFCEBFCAD" LSID="urn:lsid:plazi:treatment:03CC87BFFF81FF9AFE78FECDFC26FBD7:8EBA6072FF81FF9BFD8FFC8BFCEBFCAD" box="[518,861,847,873]" country="Iran" name="Baghuk Mountain C section" pageId="76" pageNumber="77" stateProvince="Esfahan Province">Baghuk Mountain C section</location>
+; Hambast Formation, 
+<quantity id="4C9D9B4CFF81FF9BFBE3FC8BFB09FCAE" box="[1130,1215,847,874]" metricMagnitude="0" metricUnit="m" metricValue="2.45" pageId="76" pageNumber="77" unit="m" value="2.45">2.45 m</quantity>
+below the top; illustrated in 
+<figureCitation id="135E2A2CFF81FF9BFED1FCB6FE72FC49" box="[344,452,882,909]" captionStart="Fig" captionStartId="76.[189,232,1925,1951]" captionTargetBox="[194,1396,1413,1896]" captionTargetId="figure-284@76.[189,1399,1407,1901]" captionTargetPageId="76" captionText="Fig. 50. Lutites paucis Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29991, section C, -2.45 m. B. Suture line, holotype MB.C.29991, at 13.7 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604849" httpUri="https://zenodo.org/record/5604849/files/figure.png" pageId="76" pageNumber="77">Fig. 50A</figureCitation>
+; 
+<specimenCode id="DBC39ED2FF81FF9BFE59FCB7FDDBFC49" box="[464,621,883,909]" pageId="76" pageNumber="77">MB.C.29991</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFF63FC70FECDFBD0" blockId="76.[188,1398,948,1045]" pageId="76" pageNumber="77">
+<materialsCitation id="3B0D3CF4FF81FF9BFF63FC70FEC0FBD0" ID-GBIF-Occurrence="3395073397" collectionCode="MB" collectorName="Baghuk Mountain C &amp; Hambast Formation" country="Iran" location="Baghuk Mountain C section" pageId="76" pageNumber="77" specimenCode="MB.C.29992, MB.C.29993" specimenCount="2" stateProvince="Esfahan Province" typeStatus="paratype">
+<emphasis id="B911EABBFF81FF9BFF63FC70FED1FC0A" bold="true" box="[234,359,948,974]" pageId="76" pageNumber="77">
+<typeStatus id="54DE880BFF81FF9BFF63FC70FED1FC0A" box="[234,359,948,974]" pageId="76" pageNumber="77">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="F3727639FF81FF9BFF34FC13FEB3FC35" box="[189,261,983,1009]" name="Iran" pageId="76" pageNumber="77">IRAN</collectingCountry>
+• 
+<specimenCount id="9D63FD20FF81FF9BFE92FC13FE18FC35" box="[283,430,983,1009]" pageId="76" pageNumber="77" type="generic">2 specimens</specimenCount>
+; 
+<collectingRegion id="49A1F84BFF81FF9BFE31FC13FD3EFC35" box="[440,648,983,1009]" country="Iran" name="Esfahan" pageId="76" pageNumber="77">Esfahan Province</collectingRegion>
+, 
+<location id="8EBA6072FF81FF9BFD1BFC13FC6AFC35" LSID="urn:lsid:plazi:treatment:03CC87BFFF81FF9AFE78FECDFC26FBD7:8EBA6072FF81FF9BFD1BFC13FC6AFC35" box="[658,988,983,1009]" country="Iran" name="Baghuk Mountain C section" pageId="76" pageNumber="77" stateProvince="Esfahan Province">Baghuk Mountain C section</location>
+; 
+<geologicalTimeScale id="F945B602FF81FF9BFC6EFC13FB65FC35" box="[999,1235,983,1009]" pageId="76" pageNumber="77">Hambast Formation</geologicalTimeScale>
+; 
+<specimenCode id="DBC39ED2FF81FF9BFB54FC13FAC0FC35" box="[1245,1398,983,1009]" pageId="76" pageNumber="77">MB.C.29992</specimenCode>
+to 
+<specimenCode id="DBC39ED2FF81FF9BFF53FC3EFEC0FBD0" box="[218,374,1018,1044]" pageId="76" pageNumber="77">MB.C.29993</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF81FF9AFF34FBFFFCBEFD0D" lastPageId="77" lastPageNumber="78" pageId="76" pageNumber="77" type="description">
+<paragraph id="8BDA36A9FF81FF9BFF34FBFFFEF8FB91" blockId="76.[189,334,1083,1109]" box="[189,334,1083,1109]" pageId="76" pageNumber="77">
+<heading id="D09281C5FF81FF9BFF34FBFFFEF8FB91" bold="true" box="[189,334,1083,1109]" fontSize="11" level="3" pageId="76" pageNumber="77" reason="3">
+<emphasis id="B911EABBFF81FF9BFF34FBFFFEF8FB91" bold="true" box="[189,334,1083,1109]" pageId="76" pageNumber="77">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF81FF9BFF34FBAEFD9DFA93" blockId="76.[189,1401,1130,1368]" pageId="76" pageNumber="77">
+<typeStatus id="54DE880BFF81FF9BFF34FBAEFE9CFB40" box="[189,298,1130,1156]" pageId="76" pageNumber="77">Holotype</typeStatus>
+MB.C.29991 is a partly corroded specimen with 
+<quantity id="4C9D9B4CFF81FF9BFC1DFBAEFC5DFB41" box="[916,1003,1130,1157]" metricMagnitude="-2" metricUnit="m" metricValue="6.4" pageId="76" pageNumber="77" unit="mm" value="64.0">64 mm</quantity>
+conch diameter with two thirds of the last volution belonging to the body chamber (
+<figureCitation id="135E2A2CFF81FF9BFCB1FB49FC1EFB6C" box="[824,936,1165,1192]" captionStart="Fig" captionStartId="76.[189,232,1925,1951]" captionTargetBox="[194,1396,1413,1896]" captionTargetId="figure-284@76.[189,1399,1407,1901]" captionTargetPageId="76" captionText="Fig. 50. Lutites paucis Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29991, section C, -2.45 m. B. Suture line, holotype MB.C.29991, at 13.7 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604849" httpUri="https://zenodo.org/record/5604849/files/figure.png" pageId="76" pageNumber="77">Fig. 50A</figureCitation>
+). At the end of the body chamber, the whorl profile is subtrapezoidal with a broadly rounded umbilical margin, converging flanks, a narrowly rounded ventrolateral shoulder and a flattened venter. By contrast, the whorl profile is trapezoidal at the beginning of the body chamber and subcircular in the last portion of the phragmocone. The sculpture of the phragmocone consists of very coarse conical ventrolateral nodes (eight per volution). The body chamber appears to be smooth.
+</paragraph>
+<caption id="DF1A6621FF81FF9BFF34F841FCBEF822" ID-DOI="http://doi.org/10.5281/zenodo.5604849" ID-Zenodo-Dep="5604849" httpUri="https://zenodo.org/record/5604849/files/figure.png" pageId="76" pageNumber="77" startId="76.[189,232,1925,1951]" targetBox="[194,1396,1413,1896]" targetPageId="76">
+<paragraph id="8BDA36A9FF81FF9BFF34F841FCBEF822" blockId="76.[189,1399,1925,2022]" pageId="76" pageNumber="77">
+<emphasis id="B911EABBFF81FF9BFF34F841FEA9F85B" bold="true" box="[189,287,1925,1951]" pageId="76" pageNumber="77">Fig. 50.</emphasis>
+<taxonomicName id="4C654D2AFF81FF9BFEA2F842FD61F85B" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[299,727,1925,1952]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="76" pageNumber="77" phylum="Mollusca" rank="species" species="paucis" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF81FF9BFEA2F842FE63F85B" box="[299,469,1926,1951]" italics="true" pageId="76" pageNumber="77">Lutites paucis</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF81FF9BFD6AF842FC12F864" box="[739,932,1926,1952]" pageId="76" pageNumber="77" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+<emphasis id="B911EABBFF81FF9BFC39F841FC73F85B" bold="true" box="[944,965,1925,1951]" pageId="76" pageNumber="77">A</emphasis>
+. Lateral and dorsal view, holotype MB.C.29991, section C, -2.45 m. 
+<emphasis id="B911EABBFF81FF9BFDC4F86CFDD6F806" bold="true" box="[589,608,1960,1986]" pageId="76" pageNumber="77">B</emphasis>
+. Suture line, holotype MB.C.29991, at 13.7 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm.
+</paragraph>
+</caption>
+<caption id="DF1A6621FF80FF9AFF34FECDFC97FE82" pageId="77" pageNumber="78" startId="77.[189,258,265,291]">
+<paragraph id="8BDA36A9FF80FF9AFF34FECDFC97FE82" blockId="77.[189,1399,265,327]" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFF34FECDFE84FEE7" bold="true" box="[189,306,265,291]" pageId="77" pageNumber="78">Table 25.</emphasis>
+Conch dimensions (partly estimated) and ratios of the holotype of 
+<taxonomicName id="4C654D2AFF80FF9AFBEEFECEFEF0FE82" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="species" species="paucis" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF80FF9AFBEEFECEFAB9FEE7" box="[1127,1295,266,291]" italics="true" pageId="77" pageNumber="78">Lutites paucis</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF80FF9AFEC4FEE9FE4BFE83" box="[333,509,301,327]" pageId="77" pageNumber="78" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+from Baghuk Mountain.
+</paragraph>
+</caption>
+<paragraph id="8BDA36A9FF80FF9AFF6FFEBDFAE6FE3D" pageId="77" pageNumber="78">
+<table id="F965C409FF800028FF5FFEBDFAD4FE3D" box="[214,1378,377,505]" colsContinueFrom="75.[214,1378,377,859]" colsContinueIn="80.[214,1378,377,758]" gridcols="11" gridrows="3" pageId="77" pageNumber="78">
+<tr id="355534EBFF800028FF5FFEBDFAD4FE57" box="[214,1378,377,403]" gridrow="0" pageId="77" pageNumber="78">
+<th id="76845D97FF800028FF5FFEBDFED9FE57" box="[214,367,377,403]" gridcol="0" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFF6FFEBDFEE9FE57" bold="true" box="[230,351,377,403]" pageId="77" pageNumber="78">Specimen</emphasis>
+</th>
+<th id="76845D97FF800028FE15FEBDFE79FE57" box="[412,463,377,403]" gridcol="1" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFE28FEBDFE7CFE57" bold="true" box="[417,458,377,403]" pageId="77" pageNumber="78">dm</emphasis>
+</th>
+<th id="76845D97FF800028FE7FFEBDFD9FFE57" box="[502,553,377,403]" gridcol="2" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFE73FEBDFD92FE57" bold="true" box="[506,548,377,403]" pageId="77" pageNumber="78">ww</emphasis>
+</th>
+<th id="76845D97FF800028FDD9FEBDFD35FE57" box="[592,643,377,403]" gridcol="3" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFDDEFEBDFDCAFE57" bold="true" box="[599,636,377,403]" pageId="77" pageNumber="78">wh</emphasis>
+</th>
+<th id="76845D97FF800028FD20FEBDFD6AFE57" box="[681,732,377,403]" gridcol="4" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFD39FEBDFD63FE57" bold="true" box="[688,725,377,403]" pageId="77" pageNumber="78">uw</emphasis>
+</th>
+<th id="76845D97FF800028FC8AFEBDFC80FE57" box="[771,822,377,403]" gridcol="5" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFC84FEBDFC9AFE57" bold="true" box="[781,812,377,403]" pageId="77" pageNumber="78">ah</emphasis>
+</th>
+<th id="76845D97FF800028FCD3FEBDFC00FE57" box="[858,950,377,403]" gridcol="6" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFCD3FEBDFC00FE57" bold="true" box="[858,950,377,403]" pageId="77" pageNumber="78">ww/dm</emphasis>
+</th>
+<th id="76845D97FF800028FC51FEBDFB86FE57" box="[984,1072,377,403]" gridcol="7" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFC51FEBDFB86FE57" bold="true" box="[984,1072,377,403]" pageId="77" pageNumber="78">ww/wh</emphasis>
+</th>
+<th id="76845D97FF800028FBD8FEBDFB1EFE57" box="[1105,1192,377,403]" gridcol="8" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFBD8FEBDFB1EFE57" bold="true" box="[1105,1192,377,403]" pageId="77" pageNumber="78">uw/dm</emphasis>
+</th>
+<th id="76845D97FF800028FB4FFEBDFABAFE57" box="[1222,1292,377,403]" gridcol="9" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFB4FFEBDFABAFE57" bold="true" box="[1222,1292,377,403]" pageId="77" pageNumber="78">WER</emphasis>
+</th>
+<th id="76845D97FF800028FAA7FEBDFAD4FE57" box="[1326,1378,377,403]" gridcol="10" gridrow="0" pageId="77" pageNumber="78">
+<emphasis id="B911EABBFF80FF9AFAA7FEBDFAD4FE57" bold="true" box="[1326,1378,377,403]" pageId="77" pageNumber="78">IZR</emphasis>
+</th>
+</tr>
+<tr id="355534EBFF800028FF5FFE6FFAD4FE02" box="[214,1378,427,454]" gridrow="1" pageId="77" pageNumber="78">
+<th id="76845D97FF800028FF5FFE6FFED9FE02" box="[214,367,427,454]" gridcol="0" gridrow="1" pageId="77" pageNumber="78">MB.C.29991</th>
+<td id="76845D97FF800028FE15FE6FFE79FE02" box="[412,463,427,454]" gridcol="1" gridrow="1" pageId="77" pageNumber="78">64.3</td>
+<td id="76845D97FF800028FE7FFE6FFD9FFE02" box="[502,553,427,454]" gridcol="2" gridrow="1" pageId="77" pageNumber="78">18.8</td>
+<td id="76845D97FF800028FDD9FE6FFD35FE02" box="[592,643,427,454]" gridcol="3" gridrow="1" pageId="77" pageNumber="78">23.5</td>
+<td id="76845D97FF800028FD20FE6FFD6AFE02" box="[681,732,427,454]" gridcol="4" gridrow="1" pageId="77" pageNumber="78">24.1</td>
+<td id="76845D97FF800028FC8AFE6FFC80FE02" box="[771,822,427,454]" gridcol="5" gridrow="1" pageId="77" pageNumber="78">22.8</td>
+<td id="76845D97FF800028FCD3FE6FFC00FE02" box="[858,950,427,454]" gridcol="6" gridrow="1" pageId="77" pageNumber="78">0.29</td>
+<td id="76845D97FF800028FC51FE6FFB86FE02" box="[984,1072,427,454]" gridcol="7" gridrow="1" pageId="77" pageNumber="78">0.80</td>
+<td id="76845D97FF800028FBD8FE6FFB1EFE02" box="[1105,1192,427,454]" gridcol="8" gridrow="1" pageId="77" pageNumber="78">0.37</td>
+<td id="76845D97FF800028FB4FFE6FFABAFE02" box="[1222,1292,427,454]" gridcol="9" gridrow="1" pageId="77" pageNumber="78">2.40</td>
+<td id="76845D97FF800028FAA7FE6FFAD4FE02" box="[1326,1378,427,454]" gridcol="10" gridrow="1" pageId="77" pageNumber="78">0.03</td>
+</tr>
+<tr id="355534EBFF800028FF5FFE1AFAD4FE3D" box="[214,1378,478,505]" gridrow="2" pageId="77" pageNumber="78">
+<th id="76845D97FF800028FF5FFE1AFED9FE3D" box="[214,367,478,505]" gridcol="0" gridrow="2" pageId="77" pageNumber="78">MB.C.29991</th>
+<td id="76845D97FF800028FE15FE1AFE79FE3D" box="[412,463,478,505]" gridcol="1" gridrow="2" pageId="77" pageNumber="78">44.3</td>
+<td id="76845D97FF800028FE7FFE1AFD9FFE3D" box="[502,553,478,505]" gridcol="2" gridrow="2" pageId="77" pageNumber="78">15.9</td>
+<td id="76845D97FF800028FDD9FE1AFD35FE3D" box="[592,643,478,505]" gridcol="3" gridrow="2" pageId="77" pageNumber="78">16.7</td>
+<td id="76845D97FF800028FD20FE1AFD6AFE3D" box="[681,732,478,505]" gridcol="4" gridrow="2" pageId="77" pageNumber="78">16.9</td>
+<td id="76845D97FF800028FC8AFE1AFC80FE3D" box="[771,822,478,505]" gridcol="5" gridrow="2" pageId="77" pageNumber="78">–</td>
+<td id="76845D97FF800028FCD3FE1AFC00FE3D" box="[858,950,478,505]" gridcol="6" gridrow="2" pageId="77" pageNumber="78">0.36</td>
+<td id="76845D97FF800028FC51FE1AFB86FE3D" box="[984,1072,478,505]" gridcol="7" gridrow="2" pageId="77" pageNumber="78">0.95</td>
+<td id="76845D97FF800028FBD8FE1AFB1EFE3D" box="[1105,1192,478,505]" gridcol="8" gridrow="2" pageId="77" pageNumber="78">0.38</td>
+<td id="76845D97FF800028FB4FFE1AFABAFE3D" box="[1222,1292,478,505]" gridcol="9" gridrow="2" pageId="77" pageNumber="78">–</td>
+<td id="76845D97FF800028FAA7FE1AFAD4FE3D" box="[1326,1378,478,505]" gridcol="10" gridrow="2" pageId="77" pageNumber="78">–</td>
+</tr>
+</table>
+</paragraph>
+<paragraph id="8BDA36A9FF80FF9AFF34FD81FCBEFD0D" blockId="77.[189,1399,581,713]" pageId="77" pageNumber="78">
+The suture line of the 
+<typeStatus id="54DE880BFF80FF9AFE31FD81FDA9FD9B" box="[440,543,581,607]" pageId="77" pageNumber="78">holotype</typeStatus>
+has a large external lobe with weakly diverging flanks and simple, narrow and lanceolate prongs. The ventrolateral saddle is narrowly rounded and the lateral saddle is weakly inflated. Both the adventive lobe and the lateral lobe are parallel-sided and both characterised by five notches that are very dissimilar in size (
+<figureCitation id="135E2A2CFF80FF9AFD06FD6AFD4DFD0D" box="[655,763,686,713]" captionStart="Fig" captionStartId="76.[189,232,1925,1951]" captionTargetBox="[194,1396,1413,1896]" captionTargetId="figure-284@76.[189,1399,1407,1901]" captionTargetPageId="76" captionText="Fig. 50. Lutites paucis Korn &amp; Hairapetian gen. et sp. nov. A. Lateral and dorsal view, holotype MB.C.29991, section C, -2.45 m. B. Suture line, holotype MB.C.29991, at 13.7 mm wh. Abbreviation: see Material and methods. Scale bar units =1 mm." figureDoi="http://doi.org/10.5281/zenodo.5604849" httpUri="https://zenodo.org/record/5604849/files/figure.png" pageId="77" pageNumber="78">Fig. 50B</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF80FF9AFF34FD34FCC8FCBB" pageId="77" pageNumber="78" type="discussion">
+<paragraph id="8BDA36A9FF80FF9AFF34FD34FE99FCCE" blockId="77.[189,303,752,778]" box="[189,303,752,778]" pageId="77" pageNumber="78">
+<heading id="D09281C5FF80FF9AFF34FD34FE99FCCE" bold="true" box="[189,303,752,778]" fontSize="11" level="3" pageId="77" pageNumber="78" reason="3">
+<emphasis id="B911EABBFF80FF9AFF34FD34FE99FCCE" bold="true" box="[189,303,752,778]" pageId="77" pageNumber="78">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF80FF9AFF34FCDBFCC8FCBB" blockId="77.[189,1399,798,895]" pageId="77" pageNumber="78">
+<taxonomicName id="4C654D2AFF80FF9AFF34FCDBFED4FCFC" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[189,354,799,824]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="species" species="paucis" status="gen. et sp. nov.">
+<emphasis id="B911EABBFF80FF9AFF34FCDBFED4FCFC" box="[189,354,799,824]" italics="true" pageId="77" pageNumber="78">Lutites paucis</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF80FF9AFEE3FCDBFDAAFCFD" box="[362,540,799,825]" pageId="77" pageNumber="78" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+differs from the other species of the genus in the stouter conch, the only weakly flattened venter and the lower number of conical nodes. The new species may represent an intermediate form between 
+<taxonomicName id="4C654D2AFF80FF9AFD89FCA1FD34FCBB" box="[512,642,869,895]" class="Cephalopoda" family="Dzhulfitidae" genus="Alibashites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFF80FF9AFD89FCA1FD34FCBB" box="[512,642,869,895]" italics="true" pageId="77" pageNumber="78">Alibashites</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="4C654D2AFF80FF9AFD35FCA2FCBAFCBB" authority="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari, 2021" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" box="[700,780,870,895]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="genus" status="gen. nov.">
+<emphasis id="B911EABBFF80FF9AFD35FCA2FCBAFCBB" box="[700,780,870,895]" italics="true" pageId="77" pageNumber="78">Lutites</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FF80FF9AFC9AFCA1FCC8FCBB" box="[787,894,869,895]" pageId="77" pageNumber="78" rank="genus">gen. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FF80FF9AFF34FC62FC26FBD7" pageId="77" pageNumber="78" type="description">
+<paragraph id="8BDA36A9FF80FF9AFF34FC62FE02FC04" blockId="77.[189,436,934,960]" box="[189,436,934,960]" pageId="77" pageNumber="78">
+<heading id="D09281C5FF80FF9AFF34FC62FE02FC04" bold="true" box="[189,436,934,960]" fontSize="11" level="3" pageId="77" pageNumber="78" reason="3">
+<emphasis id="B911EABBFF80FF9AFF34FC62FE02FC04" bold="true" box="[189,436,934,960]" pageId="77" pageNumber="78">Stratigraphic range</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FF80FF9AFF34FC11FC26FBD7" blockId="77.[189,1399,981,1043]" pageId="77" pageNumber="78">
+Upper part of the Hambast Formation; 
+<quantity id="4C9D9B4CFF80FF9AFD05FC11FD68FC2B" box="[652,734,981,1008]" metricMagnitude="0" metricUnit="m" metricValue="2.45" pageId="77" pageNumber="78" unit="m" value="2.45">2.45 m</quantity>
+to 
+<quantity id="4C9D9B4CFF80FF9AFC8CFC11FCEEFC2B" box="[773,856,981,1007]" metricMagnitude="0" metricUnit="m" metricValue="1.2" pageId="77" pageNumber="78" unit="m" value="1.2">1.20 m</quantity>
+below the extinction horizon (uppermost part of the 
+<taxonomicName id="4C654D2AFF80FF9AFE81FC3CFDABFBD7" authority="Zone" authorityName="Zone" box="[264,541,1016,1043]" class="Cephalopoda" family="Dzhulfitidae" genus="Paratirolites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="species" species="kittli">
+<emphasis id="B911EABBFF80FF9AFE81FC3CFE6CFBD6" box="[264,474,1016,1042]" italics="true" pageId="77" pageNumber="78">Paratirolites kittli</emphasis>
+Zone
+</taxonomicName>
+to the 
+<taxonomicName id="4C654D2AFF80FF9AFDE7FC3DFC32FBD7" authority="Zone" authorityName="Zone" box="[622,900,1016,1043]" class="Cephalopoda" family="Dzhulfitidae" genus="Lutites" kingdom="Animalia" order="Ammonoidea" pageId="77" pageNumber="78" phylum="Mollusca" rank="species" species="profundus">
+<emphasis id="B911EABBFF80FF9AFDE7FC3DFC8DFBD6" box="[622,827,1016,1042]" italics="true" pageId="77" pageNumber="78">Lutites profundus</emphasis>
+Zone
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

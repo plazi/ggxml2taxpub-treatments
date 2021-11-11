@@ -1,0 +1,464 @@
+<document id="85BED2C4CFB59A96BA59116EEC7E99AC" ID-DOI="http://doi.org/10.5281/zenodo.5566889" ID-GBIF-Dataset="b65bb5a9-bbe7-49a4-af44-4b4c03121288" ID-GBIF-Taxon="188640102" ID-ISSN="2118-9773" ID-Zenodo-Dep="5566889" ID-ZooBank="9B82A32F-0A07-47E3-8684-FED7C8EBF1E9" _generate="added" approvalRequired="1" approvalRequired_for_taxonomicNames="1" checkinTime="1632919496065" checkinUser="felipe" docAuthor="Miranda, Gustavo Silva de, Giupponi, Alessandro P. L., Prendini, Lorenzo &amp; Scharff, Nikolaj" docDate="2021" docId="8F431375FFE7FFACA60BFAF1FBE0DF0F" docLanguage="en" docName="ejt-772_1-409.pdf" docOrigin="European Journal of Taxonomy 772" docSource="http://dx.doi.org/10.5852/ejt.2021.772.1505" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Charinus ruschii Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff 2016" docType="treatment" docVersion="9" lastPageId="127" lastPageNumber="129" masterDocId="737A6B0DFF99FFD3A710FFEFFFC6DC01" masterDocTitle="Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)" masterLastPageNumber="409" masterPageNumber="1" pageId="126" pageNumber="127" updateTime="1634697929833" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="DD290E38799B80165CBDF1676BB6F577" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="051FC6304088BEB135243B7117C52145">
+<mods:title id="03915649B23EC869D99C0A7EB3E53D4E">Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)</mods:title>
+</mods:titleInfo>
+<mods:name id="91594ED7B40C8D3AD35A885EB01888B7" type="personal">
+<mods:role id="1BACA560E8D8E2B8FBE3FDA506821F16">
+<mods:roleTerm id="AA745F09B4C4AD9283781401759D4DDD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9220F463836F0A0E15D97881401A1A58">Miranda, Gustavo Silva de</mods:namePart>
+<mods:nameIdentifier id="33D186257D39C9C80971242746718D07" type="LSID">81150D94-592A-4CE5-8E88-E60F557A4341</mods:nameIdentifier>
+<mods:affiliation id="ADA9B6E479A29B8851E301DD344B0C05">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA.</mods:affiliation>
+<mods:nameIdentifier id="6F9B5B3B1F0EF5AC1AF7BFBABE9F296D" type="email">smiranda.gustavo@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5A441054E18427BD11CDCAB91FD5F7E2" type="personal">
+<mods:role id="D3141BD7F6883F8AF6930F89FB07EAF9">
+<mods:roleTerm id="DD68973E3A8A3101CB53DDAB874D1E97">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8DF8F8D099B94B409C78612AB911AB14">Giupponi, Alessandro P. L.</mods:namePart>
+<mods:nameIdentifier id="7316630BA88551B4D9D75B3FA45FBBF2" type="LSID">434112AC-B212-43E8-A5D9-2F5D5619AFC4</mods:nameIdentifier>
+<mods:affiliation id="1081D285DB0F9B725CF69187E7390B6A">Laboratório de Referência Nacional em Vetores das Riquetsioses, LIRN-IOC-FIOCRUZ, Rio de Janeiro, RJ, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="E45E770012F03CC9639DEC7F2E5A5510" type="email">agiupponi@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="B2A9182431F2DC58AEDC3ADBA02D9E69" type="personal">
+<mods:role id="CF7A9B73D8DCD300BD315BBC2E64BE16">
+<mods:roleTerm id="254F05DF988142A008F3BDC107C23F24">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EC301B3F90384780400C628386AF4153">Prendini, Lorenzo</mods:namePart>
+<mods:nameIdentifier id="D7AF1DD8B773DD445E0D844FF5387685" type="LSID">C2D080D0-75DB-4DA1-A101-AB4DCF50FF0A</mods:nameIdentifier>
+<mods:affiliation id="E454A45B0078FEC9339E405A8FCC3F33">Arachnology Lab, Division of Invertebrate Zoology, American Museum of Natural History, New York, NY, USA.</mods:affiliation>
+<mods:nameIdentifier id="9C82E708ECB06407FDD76736B597FD2B" type="email">lorenzo@amnh.org</mods:nameIdentifier>
+</mods:name>
+<mods:name id="BA93E21B4CBFAA91DC55DFD7EA9118B4" type="personal">
+<mods:role id="9FE9DA4885A9F0498247CE151BDCB533">
+<mods:roleTerm id="75BE38930095D98623FF79969D10C294">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D36274043C1599B51805E3AE0540C14C">Scharff, Nikolaj</mods:namePart>
+<mods:nameIdentifier id="D936DA207223E6F76FE6D33970E643A0" type="LSID">F84D2235-66D2-460C-820D-80024068759D</mods:nameIdentifier>
+<mods:affiliation id="3719DE20C978EC66CCE2919971C71E3D">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. &amp; Zoology Section, Natural History Museum of Denmark, University of Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="9B840A0EACE20A466C89F16A449BE576" type="email">nscharff@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="D8D7CA792554B2A3AC003290467276AB">text</mods:typeOfResource>
+<mods:relatedItem id="4BA6B1D5D73500A75FED4703A9D3D80F" type="host">
+<mods:titleInfo id="9929A4CCC027840A4D9100AE79BC75BB">
+<mods:title id="DB0F0509C6B77DE5574502F2AF5E23F8">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="94499B02CE35193C427E4F4CD96A2EAF">
+<mods:date id="B5D680F136B35D129AA7B8CF7C4F8412">2021</mods:date>
+<mods:detail id="7128E748742F4C82B123CF14AF360E20" type="pubDate">
+<mods:number id="76C400EFD1CB55F8682B3E09ED2E80E7">2021-09-24</mods:number>
+</mods:detail>
+<mods:detail id="6B2EA8EE6C255773811030DD1BC6ACD3" type="volume">
+<mods:number id="79D13A50041F95A4C8119D36F8C05F7E">772</mods:number>
+</mods:detail>
+<mods:extent id="A8BB681D71459F806CE75911A8BC72CA" unit="page">
+<mods:start id="7D8178FD46688D9F1B334886AC5DACAC">1</mods:start>
+<mods:end id="0F463A3D884239C0550E8C80759CB851">409</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="2968208A58E0D47F3AC6DA5D7D9A75BE">
+<mods:url id="4DE01A6FF6E0E1585F544030E1FE86EB">http://dx.doi.org/10.5852/ejt.2021.772.1505</mods:url>
+</mods:location>
+<mods:classification id="CCFD98949C24E470B52823D07291D0DF">journal article</mods:classification>
+<mods:identifier id="25AB0F277D2E156529755C6D71DCC993" type="DOI">https://doi.org/10.5852/ejt.2021.772.1505</mods:identifier>
+<mods:identifier id="65DD7E307EFA2620A66403605DB0FB3E" type="GBIF-Dataset">b65bb5a9-bbe7-49a4-af44-4b4c03121288</mods:identifier>
+<mods:identifier id="C99E5F5D239DA07FF994D3B892AE4EDF" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="C69CA47CB1457F6E9F7012CF0B64094C" type="Zenodo-Dep">5536410</mods:identifier>
+<mods:identifier id="7D1EDCCDB0C4A736301184BC9321759E" type="ZooBank">9B82A32F-0A07-47E3-8684-FED7C8EBF1E9</mods:identifier>
+</mods:mods>
+<treatment id="8F431375FFE7FFACA60BFAF1FBE0DF0F" ID-DOI="http://doi.org/10.5281/zenodo.5566889" ID-GBIF-Taxon="188640102" ID-Zenodo-Dep="5566889" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F" httpUri="http://treatment.plazi.org/id/8F431375FFE7FFACA60BFAF1FBE0DF0F" lastPageId="127" lastPageNumber="129" pageId="126" pageNumber="127">
+<subSubSection id="4FF0F1E8FFE7FFADA60BFAF1FADFD939" box="[283,1305,1310,1337]" pageId="126" pageNumber="127" type="nomenclature">
+<paragraph id="0755A263FFE7FFADA60BFAF1FADFD939" blockId="126.[283,1305,1310,1375]" box="[283,1305,1310,1337]" pageId="126" pageNumber="127">
+<heading id="5C1D150FFFE7FFADA60BFAF1FADFD939" box="[283,1305,1310,1337]" centered="true" fontSize="11" level="2" pageId="126" pageNumber="127" reason="2">
+<taxonomicName id="C0EAD9E0FFE7FFADA60BFAF1FE2FD938" authorityName="Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff" authorityYear="2016" box="[283,489,1310,1337]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="126" pageNumber="127" phylum="Arthropoda" rank="species" species="ruschii">
+<emphasis id="359E7E71FFE7FFADA60BFAF1FE2FD938" bold="true" box="[283,489,1310,1337]" italics="true" pageId="126" pageNumber="127">Charinus ruschii</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FFE7FFADA6E1FAF1FADFD939" author="Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff" box="[497,1305,1310,1336]" firstAuthor="Miranda" pageId="126" pageNumber="127" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016">
+<collectingRegion id="C52E6C81FFE7FFADA6E1FAF1FD91D939" box="[497,599,1310,1336]" country="Venezuela" name="Miranda" pageId="126" pageNumber="127">Miranda</collectingRegion>
+, Milleri-Pinto, Gonçalves-Souza, Giupponi &amp; Scharff, 2016
+</bibRefCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE7FFADA5ADFAABFCB0D95E" box="[701,886,1348,1375]" pageId="126" pageNumber="127" type="description">
+<paragraph id="0755A263FFE7FFADA5ADFAABFCB0D95E" blockId="126.[283,1305,1310,1375]" box="[701,886,1348,1375]" pageId="126" pageNumber="127">
+<figureCitation id="9FD1BEE6FFE7FFADA5ADFAABFCD2D95E" box="[701,788,1348,1375]" captionStart="Fig" captionStartId="298.[189,232,1225,1251]" captionTargetBox="[189,1398,265,1185]" captionTargetId="figure-0@298.[189,1399,265,1185]" captionTargetPageId="298" captionText="Fig. 43. Map plotting known distributions of species of Charinus Simon, 1892 in eastern South America, with inset for southeastern Brazil." figureDoi="http://doi.org/10.5281/zenodo.5536508" httpUri="https://zenodo.org/record/5536508/files/figure.png" pageId="126" pageNumber="127">Fig. 43</figureCitation>
+; 
+<tableCitation id="4A6897D8FFE7FFADA40FFAABFCB0D95E" box="[799,886,1348,1375]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="126" pageNumber="127" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE7FFADA7ADFA66FBC1D9A2" box="[189,1031,1417,1443]" pageId="126" pageNumber="127" type="reference_group">
+<paragraph id="0755A263FFE7FFADA7ADFA66FBC1D9A2" blockId="126.[189,1031,1417,1443]" box="[189,1031,1417,1443]" pageId="126" pageNumber="127">
+<treatmentCitationGroup id="27FA854DFFE7FFADA7ADFA66FBC1D9A2" box="[189,1031,1417,1443]" pageId="126" pageNumber="127">
+<taxonomicName id="C0EAD9E0FFE7FFADA7ADFA66FE45D9A2" authorityName="Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff" authorityYear="2016" box="[189,387,1417,1443]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="126" pageNumber="127" phylum="Arthropoda" rank="species" species="ruschii">
+<emphasis id="359E7E71FFE7FFADA7ADFA66FE45D9A2" box="[189,387,1417,1443]" italics="true" pageId="126" pageNumber="127">Charinus ruschii</emphasis>
+</taxonomicName>
+<treatmentCitation id="864B8472FFE7FFADA69AFA66FD24D9A2" author="Miranda G. S. &amp; Milleri-Pinto M. &amp; Goncalves-Souza T. &amp; Giupponi A. P. L. &amp; Scharff N." box="[394,738,1417,1443]" httpUri="http://treatment.plazi.org/id/9D9271A73E2EEDCDEC9E7B1E434BB192" page="21" pageId="126" pageNumber="127" year="2016">
+<bibRefCitation id="637BDF92FFE7FFADA69AFA66FD24D9A2" author="Miranda" box="[394,738,1417,1443]" etAl="et al." firstAuthor="Miranda" page="21 - 28" pageId="126" pageNumber="127" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016" yearSuffix="c">
+<collectingRegion id="C52E6C81FFE7FFADA69AFA66FE2BD9A2" box="[394,493,1417,1443]" country="Venezuela" name="Miranda" pageId="126" pageNumber="127">Miranda</collectingRegion>
+<emphasis id="359E7E71FFE7FFADA6E5FA65FDF6D9A2" box="[501,560,1417,1443]" italics="true" pageId="126" pageNumber="127">et al.</emphasis>
+, 2016c: 21–28
+</bibRefCitation>
+</treatmentCitation>
+, figs 1a–g, 2a–b, 3a–f, 4.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE7FFADA7ADFA22FB8CDAB0" pageId="126" pageNumber="127" type="diagnosis">
+<paragraph id="0755A263FFE7FFADA7ADFA22FEF0D9E6" blockId="126.[189,310,1485,1511]" box="[189,310,1485,1511]" pageId="126" pageNumber="127">
+<heading id="5C1D150FFFE7FFADA7ADFA22FEF0D9E6" bold="true" box="[189,310,1485,1511]" fontSize="11" level="3" pageId="126" pageNumber="127" reason="3">
+<emphasis id="359E7E71FFE7FFADA7ADFA22FEF0D9E6" bold="true" box="[189,310,1485,1511]" pageId="126" pageNumber="127">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE7FFADA7ADFA11FB8CDAB0" blockId="126.[188,1400,1534,1713]" pageId="126" pageNumber="127">
+Based on 
+<bibRefCitation id="637BDF92FFE7FFADA624FA11FD85DA18" author="Miranda" box="[308,579,1534,1561]" etAl="et al." firstAuthor="Miranda" pageId="126" pageNumber="127" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016" yearSuffix="c">
+<collectingRegion id="C52E6C81FFE7FFADA624FA11FE51DA19" box="[308,407,1534,1560]" country="Venezuela" name="Miranda" pageId="126" pageNumber="127">Miranda</collectingRegion>
+<emphasis id="359E7E71FFE7FFADA6B0FA10FE1ADA19" box="[416,476,1534,1560]" italics="true" pageId="126" pageNumber="127">et al.</emphasis>
+(2016c)
+</bibRefCitation>
+, this species may be separated from other 
+<taxonomicName id="C0EAD9E0FFE7FFADA352FA11FB69DA19" authorityName="Simon" authorityYear="1892" box="[1090,1199,1534,1560]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="126" pageNumber="127" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FFE7FFADA352FA11FB69DA19" box="[1090,1199,1534,1560]" italics="true" pageId="126" pageNumber="127">Charinus</emphasis>
+</taxonomicName>
+in eastern South America by means of its large size, with carapace ca 80% wider than that of the closely related species, 
+<taxonomicName id="C0EAD9E0FFE7FFADA7ADF9A4FEAEDA64" authorityName="Weygoldt" authorityYear="1972" box="[189,360,1611,1637]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="126" pageNumber="127" phylum="Arthropoda" rank="species" species="brasilianus">
+<emphasis id="359E7E71FFE7FFADA7ADF9A4FEAEDA64" box="[189,360,1611,1637]" italics="true" pageId="126" pageNumber="127">C. brasilianus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="C0EAD9E0FFE7FFADA6BCF9A4FD83DA65" authorityName="Weygoldt" authorityYear="1972" box="[428,581,1611,1637]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="126" pageNumber="127" phylum="Arthropoda" rank="species" species="montanus">
+<emphasis id="359E7E71FFE7FFADA6BCF9A4FD83DA65" box="[428,581,1611,1637]" italics="true" pageId="126" pageNumber="127">C. montanus</emphasis>
+</taxonomicName>
+, the unique small platelets of the sternum, the sucker-like female gonopod, the presence of ten teeth on the cheliceral claw and three spines on the pedipalp tarsus; and the similar length of the proximal article to subsequent articles of the leg I tarsus.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE7FFADA7ADF934FCBADB26" box="[189,892,1755,1831]" pageId="126" pageNumber="127" type="etymology">
+<paragraph id="0755A263FFE7FFADA7ADF934FE82DAF4" blockId="126.[189,324,1755,1781]" box="[189,324,1755,1781]" pageId="126" pageNumber="127">
+<heading id="5C1D150FFFE7FFADA7ADF934FE82DAF4" bold="true" box="[189,324,1755,1781]" fontSize="11" level="3" pageId="126" pageNumber="127" reason="3">
+<emphasis id="359E7E71FFE7FFADA7ADF934FE82DAF4" bold="true" box="[189,324,1755,1781]" pageId="126" pageNumber="127">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE7FFADA7ADF8E2FCBADB26" blockId="126.[189,892,1804,1831]" box="[189,892,1804,1831]" pageId="126" pageNumber="127">
+Patronym honoring Adolpho Ruschi (
+<bibRefCitation id="637BDF92FFE7FFADA565F8E3FCB6DB26" author="Miranda" box="[629,880,1804,1831]" etAl="et al." firstAuthor="Miranda" pageId="126" pageNumber="127" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016" yearSuffix="c">
+<collectingRegion id="C52E6C81FFE7FFADA565F8E3FD1CDB27" box="[629,730,1804,1830]" country="Venezuela" name="Miranda" pageId="126" pageNumber="127">Miranda</collectingRegion>
+<emphasis id="359E7E71FFE7FFADA5F1F8E2FCDADB27" box="[737,796,1804,1830]" italics="true" pageId="126" pageNumber="127">et al.</emphasis>
+2016c
+</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE7FFACA7ADF8BEFAF0DDB4" lastPageId="127" lastPageNumber="128" pageId="126" pageNumber="127" type="materials_examined">
+<paragraph id="0755A263FFE7FFADA7ADF8BEFEAADB6B" blockId="126.[189,364,1872,1899]" box="[189,364,1872,1899]" pageId="126" pageNumber="127">
+<heading id="5C1D150FFFE7FFADA7ADF8BEFEAADB6B" bold="true" box="[189,364,1872,1899]" fontSize="11" level="3" pageId="126" pageNumber="127" reason="3">
+<emphasis id="359E7E71FFE7FFADA7ADF8BEFEAADB6B" bold="true" box="[189,364,1872,1899]" pageId="126" pageNumber="127">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE7FFADA7FAF86DFDF6DBE8" blockId="126.[189,1399,1922,2025]" pageId="126" pageNumber="127">
+<materialsCitation id="B782A83EFFE7FFADA7FAF86DFDF6DBE8" ID-GBIF-Occurrence="3383565851" collectionCode="MNRJ" collectorName="T. Goncalves-Souza &amp; M. Milleri-Pinto" country="Brazil" latitude="-19.93611" location="Santa Teresa" longLatPrecision="21" longitude="-40.601665" pageId="126" pageNumber="127" specimenCode="MNRJ 9235" specimenCount="1" specimenCount-female="1" stateProvince="Espirito Santo" typeStatus="holotype">
+<emphasis id="359E7E71FFE7FFADA7FAF86DFE9ADB9D" bold="true" box="[234,348,1922,1948]" pageId="126" pageNumber="127">
+<typeStatus id="D8511CC1FFE7FFADA7FAF86DFE9ADB9D" box="[234,348,1922,1948]" pageId="126" pageNumber="127">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FFE7FFADA7ADF847FEE1DBC3" box="[189,295,1960,1986]" name="Brazil" pageId="126" pageNumber="127">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFE7FFADA656F846FE9BDBC2" box="[326,349,1961,1987]" pageId="126" pageNumber="127" type="female">♀</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFE7FFADA67EF847FDDADBC3" box="[366,540,1960,1986]" country="Brazil" name="Espirito Santo" pageId="126" pageNumber="127">Espírito Santo</collectingRegion>
+, 
+<location id="0235F4B8FFE7FFADA53BF847FD00DBC2" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F:0235F4B8FFE7FFADA53BF847FD00DBC2" box="[555,710,1960,1987]" country="Brazil" latitude="-19.93611" longLatPrecision="21" longitude="-40.601665" name="Santa Teresa" pageId="126" pageNumber="127" stateProvince="Espirito Santo">Santa Teresa</location>
+; 
+<geoCoordinate id="62DEC4A4FFE7FFADA5C5F848FCAEDBC3" box="[725,872,1959,1987]" degrees="19" direction="south" minutes="56" orientation="latitude" pageId="126" pageNumber="127" precision="15" seconds="10" value="-19.93611">19°56′10″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFE7FFADA469F848FBD1DBC2" box="[889,1047,1959,1987]" degrees="40" direction="west" minutes="36" orientation="longitude" pageId="126" pageNumber="127" precision="15" seconds="06" value="-40.601665">40°36′06″ W</geoCoordinate>
+; 
+<collectorName id="AA1FC7B5FFE7FFADA336F846FAD3DBC3" box="[1062,1301,1960,1987]" pageId="126" pageNumber="127">T. Gonçalves-Souza</collectorName>
+and 
+<collectorName id="AA1FC7B5FFE7FFADA245F846FE90DBE9" pageId="126" pageNumber="127">M. Milleri-Pinto</collectorName>
+leg.; 
+<specimenCode id="574C0A18FFE7FFADA688F820FDEADBE8" box="[408,556,1998,2025]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="126" pageNumber="127">MNRJ 9235</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7FAFEE6FAF0DDB4" blockId="127.[189,1399,265,438]" pageId="127" pageNumber="128">
+<materialsCitation id="B782A83EFFE6FFACA7FAFEE6FC35DD49" ID-GBIF-Occurrence="3383565505" collectionCode="MNRJ" collectorName="T. Goncalves-Souza &amp; M. Milleri-Pinto" country="Brazil" latitude="-19.93611" location="BRAZIL" longLatPrecision="21" longitude="-40.601665" pageId="127" pageNumber="128" specimenCode="MNRJ 9235" specimenCount="2" specimenCount-female="2" stateProvince="Espirito Santo" typeStatus="paratype">
+<emphasis id="359E7E71FFE6FFACA7FAFEE6FEA1DD22" bold="true" box="[234,359,265,291]" pageId="127" pageNumber="128">
+<typeStatus id="D8511CC1FFE6FFACA7FAFEE6FEA1DD22" box="[234,359,265,291]" pageId="127" pageNumber="128">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FFE6FFACA7ADFEC2FEE1DD46" box="[189,295,301,327]" name="Brazil" pageId="127" pageNumber="128">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFE6FFACA654FEC2FE4FDD49" box="[324,393,301,328]" pageId="127" pageNumber="128" type="female">2 ♀♀</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="574C0A18FFE6FFACA470FEC1FC35DD49" box="[864,1011,301,328]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="127" pageNumber="128">MNRJ 9235</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFFE6FFACA301FEC2FD8ADD6D" ID-GBIF-Occurrence="3383565792" collectionCode="MNRJ" collectorName="T. Goncalves-Souza &amp; M. Milleri-Pinto" country="Brazil" latitude="-19.93611" location="Santa Teresa" longLatPrecision="21" longitude="-40.601665" pageId="127" pageNumber="128" specimenCode="MNRJ 9237" specimenCount="5" specimenCount-female="4" stateProvince="Espirito Santo" typeStatus="paratype">
+<specimenCount id="11EC69EAFFE6FFACA301FEC2FB91DD49" box="[1041,1111,301,328]" pageId="127" pageNumber="128" type="female">4 ♀♀</specimenCount>
+, 
+<specimenCount id="11EC69EAFFE6FFACA377FEC2FB68DD46" box="[1127,1198,301,327]" pageId="127" pageNumber="128" type="generic">1 juv.</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="574C0A18FFE6FFACA6AAFEBDFD8ADD6D" box="[442,588,338,364]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="127" pageNumber="128">MNRJ 9237</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFFE6FFACA577FEBDFB64DD90" ID-GBIF-Occurrence="3383565725" collectingDate="2005-05" collectionCode="MNRJ" collectorName="T. Goncalves-Souza" country="Brazil" latitude="-19.936972" location="Estacao Biologica Santa Lucia" longLatPrecision="1" longitude="-40.59835" municipality="Santa Teresa" pageId="127" pageNumber="128" specimenCode="MNRJ 9272" specimenCount="1" specimenCount-female="1" stateProvince="Espirito Santo" typeStatus="paratype">
+<specimenCount id="11EC69EAFFE6FFACA577FEBDFD53DD6D" box="[615,661,338,364]" pageId="127" pageNumber="128" type="female">1 ♀</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFE6FFACA5B5FEBDFC97DD6D" box="[677,849,338,364]" country="Brazil" name="Espirito Santo" pageId="127" pageNumber="128">Espírito Santo</collectingRegion>
+, 
+<collectingMunicipality id="E7313819FFE6FFACA44EFEBDFC30DD6D" box="[862,1014,338,364]" pageId="127" pageNumber="128">Santa Teresa</collectingMunicipality>
+, 
+<location id="0235F4B8FFE6FFACA313FEBDFAB4DD6D" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F:0235F4B8FFE6FFACA313FEBDFAB4DD6D" box="[1027,1394,338,364]" country="Brazil" latitude="-19.936972" longLatPrecision="1" longitude="-40.59835" municipality="Santa Teresa" name="Estacao Biologica Santa Lucia" pageId="127" pageNumber="128" stateProvince="Espirito Santo">Estação Biológica Santa Lúcia</location>
+; 
+<geoCoordinate id="62DEC4A4FFE6FFACA7ADFE9AFEA0DD90" box="[189,358,373,401]" degrees="19" direction="south" minutes="56" orientation="latitude" pageId="127" pageNumber="128" precision="1" seconds="13.1" value="-19.936972">19°56′13.1″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFE6FFACA666FE9AFDFCDD90" box="[374,570,373,401]" degrees="40" direction="west" minutes="35" orientation="longitude" pageId="127" pageNumber="128" precision="1" seconds="54.07" value="-40.59835">40°35′54.07″ W</geoCoordinate>
+; 
+<date id="735484A3FFE6FFACA559FE98FD01DD90" box="[585,711,374,401]" pageId="127" pageNumber="128" value="2005-05">
+<collectingDate id="63107D4BFFE6FFACA559FE98FD01DD90" box="[585,711,374,401]" pageId="127" pageNumber="128" value="2005-05">May 2005</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFE6FFACA5C6FE98FC03DD91" box="[726,965,374,401]" pageId="127" pageNumber="128">T. Gonçalves-Souza</collectorName>
+leg.; 
+<specimenCode id="574C0A18FFE6FFACA31EFE98FB64DD90" box="[1038,1186,375,401]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="127" pageNumber="128">MNRJ 9272</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFFE6FFACA3D1FE98FAF4DDB4" ID-GBIF-Occurrence="3383565830" collectionCode="MNRJ" collectorName="M. Milleri-Pinto &amp; T. Goncalves-Souza" country="Brazil" location="Man. Livre Div. Santa Teresa" pageId="127" pageNumber="128" specimenCode="MNRJ 9303" specimenCount="2" specimenCount-female="2" stateProvince="Espirito Santo" typeStatus="paratype">
+<specimenCount id="11EC69EAFFE6FFACA3D1FE98FACEDD90" box="[1217,1288,375,401]" pageId="127" pageNumber="128" type="female">2 ♀♀</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFE6FFACA20AFE99FEC5DDB4" country="Brazil" name="Espirito Santo" pageId="127" pageNumber="128">Espírito Santo</collectingRegion>
+, 
+<location id="0235F4B8FFE6FFACA61EFE73FDACDDB7" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F:0235F4B8FFE6FFACA61EFE73FDACDDB7" box="[270,618,411,438]" country="Brazil" name="Man. Livre Div. Santa Teresa" pageId="127" pageNumber="128" stateProvince="Espirito Santo">Man. Livre Div. Santa Teresa</location>
+; 
+<collectorName id="AA1FC7B5FFE6FFACA566FE73FCFEDDB4" box="[630,824,411,438]" pageId="127" pageNumber="128">M. Milleri-Pinto</collectorName>
+and 
+<collectorName id="AA1FC7B5FFE6FFACA461FE73FB9ADDB4" box="[881,1116,411,438]" pageId="127" pageNumber="128">T. Gonçalves-Souza</collectorName>
+leg.; 
+<specimenCode id="574C0A18FFE6FFACA38EFE73FAF4DDB4" box="[1182,1330,411,438]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="127" pageNumber="128">MNRJ 9303</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFE31FE8ADE29" box="[189,373,478,552]" pageId="127" pageNumber="128" type="description">
+<paragraph id="0755A263FFE6FFACA7ADFE31FEB3DDF9" blockId="127.[189,373,478,504]" box="[189,373,478,504]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADFE31FEB3DDF9" bold="true" box="[189,373,478,504]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADFE31FEB3DDF9" bold="true" box="[189,373,478,504]" pageId="127" pageNumber="128">Measurements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADFDE1FE8ADE29" blockId="127.[189,332,526,552]" box="[189,332,526,552]" pageId="127" pageNumber="128">
+See 
+<tableCitation id="4A6897D8FFE6FFACA7FEFDE1FE8EDE29" box="[238,328,526,552]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="127" pageNumber="128" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFDBEFCB0DF8C" pageId="127" pageNumber="128" type="distribution">
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFDBEFD9FDE9A" box="[189,601,593,668]" pageId="127" pageNumber="128" type="distribution">
+<paragraph id="0755A263FFE6FFACA7ADFDBEFE90DE6A" blockId="127.[189,342,593,619]" box="[189,342,593,619]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADFDBEFE90DE6A" bold="true" box="[189,342,593,619]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADFDBEFE90DE6A" bold="true" box="[189,342,593,619]" pageId="127" pageNumber="128">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADFD6DFD9FDE9A" blockId="127.[189,601,641,668]" box="[189,601,641,668]" pageId="127" pageNumber="128">
+Known only from the 
+<typeStatus id="D8511CC1FFE6FFACA6D2FD6DFE33DE9D" box="[450,501,642,668]" pageId="127" pageNumber="128">type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFD2BFBE0DF0F" pageId="127" pageNumber="128" type="biology_ecology">
+<paragraph id="0755A263FFE6FFACA7ADFD2BFEB8DEDF" blockId="127.[189,382,708,734]" box="[189,382,708,734]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADFD2BFEB8DEDF" bold="true" box="[189,382,708,734]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADFD2BFEB8DEDF" bold="true" box="[189,382,708,734]" pageId="127" pageNumber="128">Natural history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADFD1BFBE0DF0F" blockId="127.[189,1062,756,783]" box="[189,1062,756,783]" pageId="127" pageNumber="128">
+See 
+<bibRefCitation id="637BDF92FFE6FFACA7FFFD1BFE30DF0E" author="Miranda" box="[239,502,756,783]" etAl="et al." firstAuthor="Miranda" pageId="127" pageNumber="128" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016" yearSuffix="c">
+<collectingRegion id="C52E6C81FFE6FFACA7FFFD1BFE94DF0F" box="[239,338,756,782]" country="Venezuela" name="Miranda" pageId="127" pageNumber="128">Miranda</collectingRegion>
+<emphasis id="359E7E71FFE6FFACA649FD1AFE4BDF0F" box="[345,397,756,782]" italics="true" pageId="127" pageNumber="128">et al</emphasis>
+. (2016c)
+</bibRefCitation>
+for details of the natural history of this species.
+</paragraph>
+</subSubSection>
+<treatment id="8F431375FFE6FF53A6F3FCA2FA8BDE59" ID-DOI="http://doi.org/10.5281/zenodo.5566891" ID-GBIF-Taxon="188640101" ID-Zenodo-Dep="5566891" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F" httpUri="http://treatment.plazi.org/id/8F431375FFE7FFACA60BFAF1FBE0DF0F" lastPageId="128" lastPageNumber="129" pageId="127" pageNumber="128">
+<subSubSection id="4FF0F1E8FFE6FFACA6F3FCA2FB97DF69" box="[483,1105,845,872]" pageId="127" pageNumber="128" type="nomenclature">
+<paragraph id="0755A263FFE6FFACA6F3FCA2FB97DF69" blockId="127.[483,1105,845,909]" box="[483,1105,845,872]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA6F3FCA2FB97DF69" box="[483,1105,845,872]" centered="true" fontSize="11" level="2" pageId="127" pageNumber="128" reason="2">
+<taxonomicName id="C0EAD9E0FFE6FFACA6F3FCA2FB97DF69" authority="Vasconcelos &amp; Ferreira, 2017" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2017" box="[483,1105,845,872]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="127" pageNumber="128" phylum="Arthropoda" rank="species" species="santanensis">
+<emphasis id="359E7E71FFE6FFACA6F3FCA2FD2ADF69" bold="true" box="[483,748,845,872]" italics="true" pageId="127" pageNumber="128">Charinus santanensis</emphasis>
+<bibRefCitation id="637BDF92FFE6FFACA5E4FCA1FB97DF69" author="Vasconcelos &amp; Ferreira" box="[756,1105,846,872]" firstAuthor="Vasconcelos" pageId="127" pageNumber="128" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira, 2017</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA5ADFC9DFCB0DF8C" box="[701,886,882,909]" pageId="127" pageNumber="128" type="description">
+<paragraph id="0755A263FFE6FFACA5ADFC9DFCB0DF8C" blockId="127.[483,1105,845,909]" box="[701,886,882,909]" pageId="127" pageNumber="128">
+<figureCitation id="9FD1BEE6FFE6FFACA5ADFC9DFCD2DF8C" box="[701,788,882,909]" captionStart="Fig" captionStartId="298.[189,232,1225,1251]" captionTargetBox="[189,1398,265,1185]" captionTargetId="figure-0@298.[189,1399,265,1185]" captionTargetPageId="298" captionText="Fig. 43. Map plotting known distributions of species of Charinus Simon, 1892 in eastern South America, with inset for southeastern Brazil." figureDoi="http://doi.org/10.5281/zenodo.5536508" httpUri="https://zenodo.org/record/5536508/files/figure.png" pageId="127" pageNumber="128">Fig. 43</figureCitation>
+; 
+<tableCitation id="4A6897D8FFE6FFACA40FFC9DFCB0DF8C" box="[799,886,882,909]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="127" pageNumber="128" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFC5AFBB4DFCE" box="[189,1138,949,976]" pageId="127" pageNumber="128" type="reference_group">
+<paragraph id="0755A263FFE6FFACA7ADFC5AFBB4DFCE" blockId="127.[189,1138,949,976]" box="[189,1138,949,976]" pageId="127" pageNumber="128">
+<treatmentCitationGroup id="27FA854DFFE6FFACA7ADFC5AFBB4DFCE" box="[189,1138,949,976]" pageId="127" pageNumber="128">
+<treatmentCitation id="864B8472FFE6FFACA7ADFC5AFC4DDFCE" author="Vasconcelos A. C. O. &amp; Ferreira R. L." box="[189,907,949,976]" page="286" pageId="127" pageNumber="128" year="2017">
+<taxonomicName id="C0EAD9E0FFE6FFACA7ADFC5AFC4DDFCE" authority="Vasconcelos &amp; Ferreira, 2017: 283 - 286" authorityName="Vasconcelos &amp; Ferreira" authorityPageNumber="283 - 286" authorityYear="2017" box="[189,907,949,976]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="127" pageNumber="128" phylum="Arthropoda" rank="species" species="satanensis">
+<emphasis id="359E7E71FFE6FFACA7ADFC5AFE69DFCE" box="[189,431,949,975]" italics="true" pageId="127" pageNumber="128">Charinus satanensis</emphasis>
+<bibRefCitation id="637BDF92FFE6FFACA6A5FC5AFC4DDFCE" author="Vasconcelos &amp; Ferreira" box="[437,907,949,976]" firstAuthor="Vasconcelos" page="283 - 286" pageId="127" pageNumber="128" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira, 2017: 283–286</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, figs 16–23, 29–30.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFC17FE38D942" pageId="127" pageNumber="128" type="diagnosis">
+<paragraph id="0755A263FFE6FFACA7ADFC17FEF0D813" blockId="127.[189,310,1016,1042]" box="[189,310,1016,1042]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADFC17FEF0D813" bold="true" box="[189,310,1016,1042]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADFC17FEF0D813" bold="true" box="[189,310,1016,1042]" pageId="127" pageNumber="128">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADFBC7FE38D942" blockId="127.[188,1399,1064,1347]" pageId="127" pageNumber="128">
+Based on 
+<bibRefCitation id="637BDF92FFE6FFACA621FBC7FD58D843" author="Vasconcelos &amp; Ferreira" box="[305,670,1064,1090]" firstAuthor="Vasconcelos" pageId="127" pageNumber="128" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira (2017)</bibRefCitation>
+, this species may be separated from other 
+<taxonomicName id="C0EAD9E0FFE6FFACA380FBC7FB3BD843" authorityName="Simon" authorityYear="1892" box="[1168,1277,1064,1090]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="127" pageNumber="128" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FFE6FFACA380FBC7FB3BD843" box="[1168,1277,1064,1090]" italics="true" pageId="127" pageNumber="128">Charinus</emphasis>
+</taxonomicName>
+in eastern South America by means of the following combination of characters: median and lateral eyes well developed; male gonopods with processus internus and lateral lobe 1 forming several long lobes, lateral lobe 2 and dorsal lobe drop-shaped, with dorsal lobe larger than lateral lobe 2, and lamina medialis forceps-shaped; cheliceral claw with eight teeth; pedipalp femur with four or five dorsal spines and five ventral spines, patella with six dorsal spines and three or four ventral spines, and tibia with dorsal spine 2 two to three times as long as spine 1; leg IV distitibia with eighteen trichobothria, 
+<emphasis id="359E7E71FFE6FFACA3D9FAEAFB27D91F" box="[1225,1249,1285,1310]" italics="true" pageId="127" pageNumber="128">sc</emphasis>
+and 
+<emphasis id="359E7E71FFE6FFACA209FAEBFAEBD91F" box="[1305,1325,1284,1310]" italics="true" pageId="127" pageNumber="128">sf</emphasis>
+series each with six trichobothria.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADFA83FDE8D9DA" pageId="127" pageNumber="128" type="etymology">
+<paragraph id="0755A263FFE6FFACA7ADFA83FE82D987" blockId="127.[189,324,1388,1414]" box="[189,324,1388,1414]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADFA83FE82D987" bold="true" box="[189,324,1388,1414]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADFA83FE82D987" bold="true" box="[189,324,1388,1414]" pageId="127" pageNumber="128">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADFA73FDE8D9DA" blockId="127.[189,1398,1436,1499]" pageId="127" pageNumber="128">
+Refers to Santana, the municipality in the Brazilian state of 
+<collectingRegion id="C52E6C81FFE6FFACA46BFA73FC04D9B7" box="[891,962,1436,1462]" country="Brazil" name="Bahia" pageId="127" pageNumber="128">Bahia</collectingRegion>
+, in which the 
+<typeStatus id="D8511CC1FFE6FFACA377FA72FB5CD9B6" box="[1127,1178,1437,1463]" pageId="127" pageNumber="128">type</typeStatus>
+locality is situated (
+<bibRefCitation id="637BDF92FFE6FFACA7D5FA2EFDE7D9DA" author="Vasconcelos &amp; Ferreira" box="[197,545,1473,1499]" firstAuthor="Vasconcelos" pageId="127" pageNumber="128" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira 2017</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADF9EBFB44DB00" pageId="127" pageNumber="128" type="materials_examined">
+<paragraph id="0755A263FFE6FFACA7ADF9EBFEAADA1C" blockId="127.[189,364,1539,1566]" box="[189,364,1539,1566]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADF9EBFEAADA1C" bold="true" box="[189,364,1539,1566]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADF9EBFEAADA1C" bold="true" box="[189,364,1539,1566]" pageId="127" pageNumber="128">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7FAF9DBFD68DA99" blockId="127.[189,1398,1588,1688]" pageId="127" pageNumber="128">
+<materialsCitation id="B782A83EFFE6FFACA7FAF9DBFD68DA99" ID-GBIF-Occurrence="3383565993" collectingDate="2014-07-11" collectionCode="ISLA" collectorName="R. L. Ferreira" country="Brazil" latitude="-13.21866" location="Gruta do Padre" longLatPrecision="1" longitude="-44.064438" municipality="Santana" pageId="127" pageNumber="128" specimenCode="ISLA 12777" specimenCount="1" specimenCount-male="1" stateProvince="Bahia" typeStatus="holotype">
+<emphasis id="359E7E71FFE6FFACA7FAF9DBFE9ADA4F" bold="true" box="[234,348,1588,1614]" pageId="127" pageNumber="128">
+<typeStatus id="D8511CC1FFE6FFACA7FAF9DBFE9ADA4F" box="[234,348,1588,1614]" pageId="127" pageNumber="128">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FFE6FFACA7ADF9B6FEE1DA72" box="[189,295,1625,1651]" name="Brazil" pageId="127" pageNumber="128">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFE6FFACA652F9B7FEB5DA72" box="[322,371,1624,1651]" pageId="127" pageNumber="128" type="male">1 ♂</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFE6FFACA691F9B7FE0EDA73" box="[385,456,1624,1650]" country="Brazil" name="Bahia" pageId="127" pageNumber="128">Bahia</collectingRegion>
+, 
+<collectingMunicipality id="E7313819FFE6FFACA6C6F9B7FDF0DA73" box="[470,566,1624,1650]" pageId="127" pageNumber="128">Santana</collectingMunicipality>
+, 
+<location id="0235F4B8FFE6FFACA554F9B7FD3BDA73" LSID="urn:lsid:plazi:treatment:8F431375FFE7FFACA60BFAF1FBE0DF0F:0235F4B8FFE6FFACA554F9B7FD3BDA73" box="[580,765,1624,1650]" country="Brazil" latitude="-13.21866" longLatPrecision="1" longitude="-44.064438" municipality="Santana" name="Gruta do Padre" pageId="127" pageNumber="128" stateProvince="Bahia">Gruta do Padre</location>
+; 
+<geoCoordinate id="62DEC4A4FFE6FFACA41AF9B8FC06DA73" box="[778,960,1623,1651]" degrees="13" direction="south" minutes="13" orientation="latitude" pageId="127" pageNumber="128" precision="1" seconds="07.18" value="-13.21866">13°13′07.18″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFE6FFACA4DFF9B8FB56DA72" box="[975,1168,1623,1651]" degrees="44" direction="west" minutes="03" orientation="longitude" pageId="127" pageNumber="128" precision="1" seconds="51.98" value="-44.064438">44°03′51.98″ W</geoCoordinate>
+; 
+<date id="735484A3FFE6FFACA38EF9B7FAF2DA73" box="[1182,1332,1624,1650]" pageId="127" pageNumber="128" value="2014-07-11">
+<collectingDate id="63107D4BFFE6FFACA38EF9B7FAF2DA73" box="[1182,1332,1624,1650]" pageId="127" pageNumber="128" value="2014-07-11">11 Jul. 2014</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFE6FFACA252F9B6FEDCDA99" pageId="127" pageNumber="128">R.L. Ferreira</collectorName>
+leg.; 
+<specimenCode id="574C0A18FFE6FFACA64CF991FE2ADA99" box="[348,492,1662,1688]" pageId="127" pageNumber="128">ISLA 12777</specimenCode>
+[not examined].
+</materialsCitation>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7FAF92EFB44DB00" blockId="127.[189,1154,1729,1793]" pageId="127" pageNumber="128">
+<materialsCitation id="B782A83EFFE6FFACA7FAF92EFB44DB00" ID-GBIF-Occurrence="3383566005" collectingDate="2014-07-11" collectionCode="ISLA" collectorName="R. L. Ferreira" country="Brazil" latitude="-13.21866" location="BRAZIL" longLatPrecision="1" longitude="-44.064438" municipality="Santana" pageId="127" pageNumber="128" specimenCode="ISLA 12778" specimenCount="1" specimenCount-male="1" stateProvince="Bahia" typeStatus="paratype">
+<emphasis id="359E7E71FFE6FFACA7FAF92EFE9ADADA" bold="true" box="[234,348,1729,1755]" pageId="127" pageNumber="128">
+<typeStatus id="D8511CC1FFE6FFACA7FAF92EFE9ADADA" box="[234,348,1729,1755]" pageId="127" pageNumber="128">Paratype</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FFE6FFACA7ADF909FEE1DB01" box="[189,295,1766,1792]" name="Brazil" pageId="127" pageNumber="128">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFE6FFACA62FF909FEA8DB00" box="[319,366,1766,1793]" pageId="127" pageNumber="128" type="male">1 ♂</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="574C0A18FFE6FFACA421F909FC06DB01" box="[817,960,1766,1792]" pageId="127" pageNumber="128">ISLA 12778</specimenCode>
+[not examined].
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADF8C5FE8ADB75" box="[189,373,1834,1908]" pageId="127" pageNumber="128" type="description">
+<paragraph id="0755A263FFE6FFACA7ADF8C5FEB3DB45" blockId="127.[189,373,1834,1860]" box="[189,373,1834,1860]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADF8C5FEB3DB45" bold="true" box="[189,373,1834,1860]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADF8C5FEB3DB45" bold="true" box="[189,373,1834,1860]" pageId="127" pageNumber="128">Measurements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADF8B5FE8ADB75" blockId="127.[189,332,1882,1908]" box="[189,332,1882,1908]" pageId="127" pageNumber="128">
+See 
+<tableCitation id="4A6897D8FFE6FFACA7FEF8B5FE8EDB75" box="[238,328,1882,1908]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="127" pageNumber="128" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFE6FFACA7ADF871FC30DBE9" box="[189,1014,1950,2025]" pageId="127" pageNumber="128" type="discussion">
+<paragraph id="0755A263FFE6FFACA7ADF871FEE9DBB9" blockId="127.[189,303,1950,1976]" box="[189,303,1950,1976]" pageId="127" pageNumber="128">
+<heading id="5C1D150FFFE6FFACA7ADF871FEE9DBB9" bold="true" box="[189,303,1950,1976]" fontSize="11" level="3" pageId="127" pageNumber="128" reason="3">
+<emphasis id="359E7E71FFE6FFACA7ADF871FEE9DBB9" bold="true" box="[189,303,1950,1976]" pageId="127" pageNumber="128">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFE6FFACA7ADF821FC30DBE9" blockId="127.[189,1014,1998,2025]" box="[189,1014,1998,2025]" pageId="127" pageNumber="128">
+See 
+<bibRefCitation id="637BDF92FFE6FFACA7FEF821FD91DBE9" author="Vasconcelos &amp; Ferreira" box="[238,599,1998,2024]" firstAuthor="Vasconcelos" pageId="127" pageNumber="128" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira (2017)</bibRefCitation>
+for more details about this species.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF19FF53A7ADFEE7FD9FDD53" box="[189,601,264,339]" pageId="128" pageNumber="129" type="distribution">
+<paragraph id="0755A263FF19FF53A7ADFEE7FE90DD23" blockId="128.[189,342,264,290]" box="[189,342,264,290]" pageId="128" pageNumber="129">
+<heading id="5C1D150FFF19FF53A7ADFEE7FE90DD23" bold="true" box="[189,342,264,290]" fontSize="11" level="3" pageId="128" pageNumber="129" reason="3">
+<emphasis id="359E7E71FF19FF53A7ADFEE7FE90DD23" bold="true" box="[189,342,264,290]" pageId="128" pageNumber="129">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF19FF53A7ADFED6FD9FDD53" blockId="128.[189,601,312,339]" box="[189,601,312,339]" pageId="128" pageNumber="129">
+Known only from the 
+<typeStatus id="D8511CC1FF19FF53A6D2FED6FE33DD52" box="[450,501,313,339]" pageId="128" pageNumber="129">type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF19FF53A7ADFE94FA8BDE59" pageId="128" pageNumber="129" type="biology_ecology">
+<paragraph id="0755A263FF19FF53A7ADFE94FEB8DD94" blockId="128.[189,382,379,405]" box="[189,382,379,405]" pageId="128" pageNumber="129">
+<heading id="5C1D150FFF19FF53A7ADFE94FEB8DD94" bold="true" box="[189,382,379,405]" fontSize="11" level="3" pageId="128" pageNumber="129" reason="3">
+<emphasis id="359E7E71FF19FF53A7ADFE94FEB8DD94" bold="true" box="[189,382,379,405]" pageId="128" pageNumber="129">Natural history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF19FF53A7ADFE44FA8BDE59" blockId="128.[189,1400,427,600]" pageId="128" pageNumber="129">
+Gruta do Padre Cave is one of the largest and best preserved caves in 
+<collectingCountry id="7FFDE2F3FF19FF53A4FAFE44FBF3DDC4" box="[1002,1077,427,453]" name="Brazil" pageId="128" pageNumber="129">Brazil</collectingCountry>
+. The cave has three distinct levels and a river at the lowest level. The 
+<typeStatus id="D8511CC1FF19FF53A5A8FE3FFD2DDDEB" box="[696,747,464,490]" pageId="128" pageNumber="129">type</typeStatus>
+specimens of 
+<taxonomicName id="C0EAD9E0FF19FF53A48BFE3FFB8FDDEB" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2017" box="[923,1097,464,490]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="128" pageNumber="129" phylum="Arthropoda" rank="species" species="santanensis">
+<emphasis id="359E7E71FF19FF53A48BFE3FFB8FDDEB" box="[923,1097,464,490]" italics="true" pageId="128" pageNumber="129">C. santanensis</emphasis>
+</taxonomicName>
+were collected in a large chamber in the upper level, some 
+<quantity id="C0120F86FF19FF53A55DFE1BFD51DE0E" box="[589,663,500,527]" metricMagnitude="2" metricUnit="m" metricValue="2.5" pageId="128" pageNumber="129" unit="m" value="250.0">250 m</quantity>
+from the entrance, on rock blocks covered by a shallow, moist layer of mud. Due to their proximity to the entrance of the cave and the lack of any troglomorphic characters, 
+<taxonomicName id="C0EAD9E0FF19FF53A653FDD1FE28DE56" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2017" box="[323,494,574,600]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="128" pageNumber="129" phylum="Arthropoda" rank="species" species="santanensis">
+<emphasis id="359E7E71FF19FF53A653FDD1FE28DE56" box="[323,494,574,600]" italics="true" pageId="128" pageNumber="129">C. santanensis</emphasis>
+</taxonomicName>
+appears to be troglophilic, not troglobitic (
+<bibRefCitation id="637BDF92FF19FF53A4F5FDD1FA87DE59" author="Vasconcelos &amp; Ferreira" box="[997,1345,574,600]" firstAuthor="Vasconcelos" pageId="128" pageNumber="129" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira 2017</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

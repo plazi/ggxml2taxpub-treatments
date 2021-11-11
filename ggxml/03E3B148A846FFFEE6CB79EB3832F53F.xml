@@ -1,0 +1,713 @@
+<document id="2DEBF337B99DF0C8910278258F928E8B" ID-DOI="http://doi.org/10.5281/zenodo.5578894" ID-GBIF-Dataset="e6d5813c-ed46-47dd-8929-402744e64ddf" ID-GBIF-Taxon="189076484" ID-ISSN="2118-9773" ID-Zenodo-Dep="5578894" ID-ZooBank="C57BC1CA-1ECF-41DC-B7B3-2D4DE8137E3F" LSID="urn:lsid:zoobank.org:act:93EC6FFD-B1D1-409F-B12A-081E1D5B96F5" _generate="added" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1634644794726" checkinUser="felipe" docAuthor="Tshernyshev, Sergei E." docDate="2021" docId="03E3B148A846FFFEE6CB79EB3832F53F" docLanguage="en" docName="ejt-775_1-14.pdf" docOrigin="European Journal of Taxonomy 775" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Pectotibialis paghmanensis Tshernyshev 2021, sp. nov." docType="treatment" docUuid="93EC6FFD-B1D1-409F-B12A-081E1D5B96F5" docUuidSource="ZooBank" docVersion="4" lastPageId="7" lastPageNumber="10" masterDocId="FFDAC930A845FFF9E73C7D4E3C3DF46E" masterDocTitle="Pectotibialis paghmanensis Tshernyshev gen. nov. - a new genus and species of soft-winged flower beetle (Coleoptera, Cleroidea, Malachiidae) from Afghanistan" masterLastPageNumber="14" masterPageNumber="1" pageId="3" pageNumber="4" updateTime="1634656045622" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="D4C49440541DA7EA26BD461A97DE4494" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EB889DE83A361C25ABF0DEDBE62DF1E2">
+<mods:title id="898DB8920CFB540E7AE8CA0DEA286298">Pectotibialis paghmanensis Tshernyshev gen. nov. - a new genus and species of soft-winged flower beetle (Coleoptera, Cleroidea, Malachiidae) from Afghanistan</mods:title>
+</mods:titleInfo>
+<mods:name id="E47486FAF666D9A324037A82E0520EC5" type="personal">
+<mods:role id="F9B512522495392CDBE744290CA84F3E">
+<mods:roleTerm id="E59203952E0F8EBF64B539A4E3B69D41">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="32B05B24F67C6CAF04C59F66DA418078">Tshernyshev, Sergei E.</mods:namePart>
+<mods:nameIdentifier id="65B04C20F2F8E0F22551F366215521D2" type="LSID">C9CC4A86-BD1F-499A-B831-F727A111BBAA</mods:nameIdentifier>
+<mods:affiliation id="91DCFA449F3D3B900E93322608E112EB">Institute of Systematics and Ecology of Animals, Siberian Branch of the Russian Academy of Sciences, Frunze Street 11, 630091 Novosibirsk, Russia. Tomsk State University, Lenina prospekt 36, Tomsk 634050, Russia</mods:affiliation>
+<mods:nameIdentifier id="644A709A920AED32329DF18338AB5772" type="email">sch-sch@mail.ru</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="C85BADADFB9A61D5FCD5C00939D29952">text</mods:typeOfResource>
+<mods:relatedItem id="0262F7772F5F1FFA3A7A6DEFE9F4C8FF" type="host">
+<mods:titleInfo id="ABC4D8C532C2B1EF9884A091A73EC531">
+<mods:title id="45A65C7B0EF9F2EFFA5C2EAF8108D6F5">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="288AA942C590474FCA38A4FE2BC2E2D2">
+<mods:date id="057512E22F690B01A0A5AFD34D627372">2021</mods:date>
+<mods:detail id="ACFC6D38FC5F1EED0E8322750A99998E" type="pubDate">
+<mods:number id="40AD8833C91DF22631CC4CF4EACE5F05">2021-10-14</mods:number>
+</mods:detail>
+<mods:detail id="ED43391CFA1BB0E39D0F3CF792F30AE4" type="volume">
+<mods:number id="5C4350591ADA67A16D3EBEEFB17AA4C9">775</mods:number>
+</mods:detail>
+<mods:extent id="306F2843BAEDE614C734E79AE3B2355B" unit="page">
+<mods:start id="6786E2C80DA501B9BF89480A04EC3C4F">1</mods:start>
+<mods:end id="17E89180863084E794B188DA72DC06AE">14</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E666E4ABCDED9C26995ACC818CA49DD0">journal article</mods:classification>
+<mods:identifier id="7046D6C19E0AEFEE7E98E567D20373C7" type="DOI">https://doi.org/10.5852/ejt.2021.775.1539</mods:identifier>
+<mods:identifier id="596A2C5BA7E9CDF3455298BCBFCC56AC" type="GBIF-Dataset">e6d5813c-ed46-47dd-8929-402744e64ddf</mods:identifier>
+<mods:identifier id="B428519BE796D1D5341F0DA2A8B7C583" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="F8AEFDFEEB2161E1EED9B1BBE8C503B6" type="Zenodo-Dep">5578344</mods:identifier>
+<mods:identifier id="6315E2052ABE1111662623356D9DA7C8" type="ZooBank">C57BC1CA-1ECF-41DC-B7B3-2D4DE8137E3F</mods:identifier>
+</mods:mods>
+<treatment id="03E3B148A846FFFEE6CB79EB3832F53F" ID-DOI="http://doi.org/10.5281/zenodo.5578894" ID-GBIF-Taxon="189076484" ID-Zenodo-Dep="5578894" LSID="urn:lsid:zoobank.org:act:93EC6FFD-B1D1-409F-B12A-081E1D5B96F5" httpUri="http://treatment.plazi.org/id/03E3B148A846FFFEE6CB79EB3832F53F" lastPageId="7" lastPageNumber="10" pageId="3" pageNumber="4">
+<subSubSection id="C35053D5A846FFFAE6CB79EB3800F0AE" box="[503,1085,1189,1216]" pageId="3" pageNumber="4" type="nomenclature">
+<paragraph id="8BF5005EA846FFFAE6CB79EB3800F0AE" blockId="3.[363,1224,1189,1286]" box="[503,1085,1189,1216]" pageId="3" pageNumber="4">
+<heading id="D0BDB732A846FFFAE6CB79EB3800F0AE" box="[503,1085,1189,1216]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="4" reason="2">
+<taxonomicName id="4C4A7BDDA846FFFAE6CB79EB3FE6F0D1" authority="Tshernyshev" authorityName="Tshernyshev" authorityYear="2021" box="[503,987,1189,1216]" class="Insecta" family="Melyridae" genus="Pectotibialis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="4" phylum="Arthropoda" rank="species" species="paghmanensis" status="sp. nov.">
+<emphasis id="B93EDC4CA846FFFAE6CB79EB3F7DF0AE" bold="true" box="[503,832,1189,1216]" italics="true" pageId="3" pageNumber="4">Pectotibialis paghmanensis</emphasis>
+Tshernyshev
+</taxonomicName>
+<taxonomicNameLabel id="A20D6137A846FFFAE4DF79E83800F0AE" box="[995,1085,1190,1216]" pageId="3" pageNumber="4" rank="species">sp. nov.</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35053D5A846FFFAE65779863F70F168" pageId="3" pageNumber="4" type="description">
+<paragraph id="8BF5005EA846FFFAE657798638F5F08D" blockId="3.[363,1224,1189,1286]" box="[363,1224,1224,1251]" pageId="3" pageNumber="4">
+<uri id="FFDB0C5CA846FFFAE657798638F5F08D" box="[363,1224,1224,1251]" pageId="3" pageNumber="4">
+urn:lsid:zoobank.org:act: 
+<uuid id="FFEC3A8BA846FFFAE5AD798638F5F08D" box="[657,1224,1224,1251]" pageId="3" pageNumber="4">93EC6FFD-B1D1-409F-B12A-081E1D5B96F5</uuid>
+</uri>
+</paragraph>
+<paragraph id="8BF5005EA846FFFAE5DB79A23F70F168" blockId="3.[363,1224,1189,1286]" box="[743,845,1260,1286]" pageId="3" pageNumber="4">
+<figureCitation id="13711CDBA846FFFAE5DB79A23F70F168" box="[743,845,1260,1286]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="4.[189,232,1857,1883]" captionStartId-1="6.[189,232,1892,1918]" captionTargetBox-0="[194,1398,274,1773]" captionTargetBox-1="[197,1367,793,1845]" captionTargetId-0="figure-14@4.[189,1398,265,1776]" captionTargetId-1="figure-220@6.[189,1398,760,1858]" captionTargetPageId-0="4" captionTargetPageId-1="6" captionText-0="Fig. 1. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov. A, B, D–I. Holotype, ♂ (SCH_ ISEA_000123). C. Allotype, ♀. A, C. External appearance, dorsal view. B. External appearance, lateral view. D. Right antenna. E. Head, pronotum and scutellum, subdorsal view. F. Metathorax, subdorsal view. G. Metathorax, lateral view. H. Left anterior tibia and tarsus, ventral view. I. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm." captionText-1="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi-0="http://doi.org/10.5281/zenodo.5578346" figureDoi-1="http://doi.org/10.5281/zenodo.5578350" httpUri-0="https://zenodo.org/record/5578346/files/figure.png" httpUri-1="https://zenodo.org/record/5578350/files/figure.png" pageId="3" pageNumber="4">Figs 1–2</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35053D5A846FFFAE781786338C9F24F" pageId="3" pageNumber="4" type="materials_examined">
+<paragraph id="8BF5005EA846FFFAE78178633D97F129" blockId="3.[189,426,1325,1351]" box="[189,426,1325,1351]" pageId="3" pageNumber="4">
+<heading id="D0BDB732A846FFFAE78178633D97F129" bold="true" box="[189,426,1325,1351]" fontSize="11" level="3" pageId="3" pageNumber="4" reason="3">
+<emphasis id="B93EDC4CA846FFFAE78178633D97F129" bold="true" box="[189,426,1325,1351]" pageId="3" pageNumber="4">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BF5005EA846FFFAE7D678123EDBF1D2" blockId="3.[189,1398,1372,1468]" pageId="3" pageNumber="4">
+<materialsCitation id="3B220A03A846FFFAE7D678123EDBF1D2" ID-GBIF-Occurrence="3387259302" collectingDate="2009-07-12" collectionCode="ISEA" collectorName="O. Pak" country="Afghanistan" elevation="2600" latitude="34.583332" location="Kabul Province" longLatPrecision="1198" longitude="68.95" pageId="3" pageNumber="4" specimenCode="SCH_ISEA_000123" specimenCount="1" specimenCount-male="1" stateProvince="Kabul Province" typeStatus="holotype">
+<emphasis id="B93EDC4CA846FFFAE7D678123D61F118" bold="true" box="[234,348,1372,1398]" pageId="3" pageNumber="4">
+<typeStatus id="54F1BEFCA846FFFAE7D678123D61F118" box="[234,348,1372,1398]" pageId="3" pageNumber="4">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="F35D40CEA846FFFAE78178313DB6F1F7" box="[189,395,1407,1433]" name="Afghanistan" pageId="3" pageNumber="4">AFGHANISTAN</collectingCountry>
+• 
+<specimenCount id="9D4CCBD7A846FFFAE68D78313DF7F1F7" box="[433,458,1407,1433]" pageId="3" pageNumber="4" type="male">♂</specimenCount>
+; 
+<collectingRegion id="498ECEBCA846FFFAE6E178313EA3F1F7" box="[477,670,1407,1433]" country="Afghanistan" name="Kabul" pageId="3" pageNumber="4">Kabul Province</collectingRegion>
+, 
+<locationDeviation id="9A47197CA846FFFAE58C78313F82F1F7" box="[688,959,1407,1433]" pageId="3" pageNumber="4">near Paghman village</locationDeviation>
+, 
+<geoCoordinate id="EE7E6699A846FFFAE4ED78333800F1F7" box="[977,1085,1405,1433]" degrees="34" direction="north" minutes="35" orientation="latitude" pageId="3" pageNumber="4" precision="925" value="34.583332">34°35′ N</geoCoordinate>
+, 
+<geoCoordinate id="EE7E6699A846FFFAE3737833388AF1F7" box="[1103,1207,1405,1433]" degrees="68" direction="east" minutes="57" orientation="longitude" pageId="3" pageNumber="4" precision="925" value="68.95">68°57′ E</geoCoordinate>
+, 
+<elevation id="0067E76DA846FFFAE3F67831394DF1F7" box="[1226,1392,1407,1433]" metricMagnitude="3" metricUnit="m" metricValue="2.6" pageId="3" pageNumber="4" unit="m" value="2600.0">
+<quantity id="4CB2ADBBA846FFFAE3F678313917F1F7" box="[1226,1322,1407,1433]" metricMagnitude="3" metricUnit="m" metricValue="2.6" pageId="3" pageNumber="4" unit="m" value="2600.0">2600 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="FFF4269EA846FFFAE78178EC3D6CF1D2" box="[189,337,1442,1468]" pageId="3" pageNumber="4" value="2009-07-12">
+<collectingDate id="EFB0DF76A846FFFAE78178EC3D6CF1D2" box="[189,337,1442,1468]" pageId="3" pageNumber="4" value="2009-07-12">12 Jul. 2009</collectingDate>
+</date>
+; 
+<collectorName id="26BF6588A846FFFAE66178EC3D90F1D2" box="[349,429,1442,1468]" pageId="3" pageNumber="4">O. Pak</collectorName>
+leg.; 
+<specimenCode id="DBECA825A846FFFAE6D378EC3EDFF1D2" box="[495,738,1442,1468]" pageId="3" pageNumber="4">SCH_ISEA_000123</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BF5005EA846FFFAE7D678AA38C9F24F" blockId="3.[189,1268,1508,1569]" pageId="3" pageNumber="4">
+<materialsCitation id="3B220A03A846FFFAE7D678AA38CDF24F" ID-GBIF-Occurrence="3387259301" collectingDate="2009-07-12" collectionCode="ISEA" collectorName="O. Pak" country="Afghanistan" elevation="2600" latitude="34.583332" location="AFGHANISTAN" longLatPrecision="1198" longitude="68.95" pageId="3" pageNumber="4" specimenCode="SCH_ISEA_000124-129" specimenCount="6" specimenCount-female="6" stateProvince="Kabul" typeStatus="paratype">
+<emphasis id="B93EDC4CA846FFFAE7D678AA3D5AF190" bold="true" box="[234,359,1508,1534]" pageId="3" pageNumber="4">
+<typeStatus id="54F1BEFCA846FFFAE7D678AA3D5AF190" box="[234,359,1508,1534]" pageId="3" pageNumber="4">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="F35D40CEA846FFFAE7817B493DB6F24F" box="[189,395,1543,1569]" name="Afghanistan" pageId="3" pageNumber="4">AFGHANISTAN</collectingCountry>
+• 
+<specimenCount id="9D4CCBD7A846FFFAE6987B493DECF24F" box="[420,465,1543,1569]" pageId="3" pageNumber="4" type="female">6 ♀</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="DBECA825A846FFFAE4FE7B4938CDF24F" box="[962,1264,1543,1569]" pageId="3" pageNumber="4">SCH_ISEA_000124–129</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C35053D5A846FFFFE7817B063ED8F6D5" lastPageId="6" lastPageNumber="7" pageId="3" pageNumber="4" type="description">
+<paragraph id="8BF5005EA846FFFAE7817B063D73F20C" blockId="3.[189,334,1608,1634]" box="[189,334,1608,1634]" pageId="3" pageNumber="4">
+<heading id="D0BDB732A846FFFAE7817B063D73F20C" bold="true" box="[189,334,1608,1634]" fontSize="11" level="3" pageId="3" pageNumber="4" reason="3">
+<emphasis id="B93EDC4CA846FFFAE7817B063D73F20C" bold="true" box="[189,334,1608,1634]" pageId="3" pageNumber="4">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BF5005EA846FFFAE7D67B393E0AF2FF" blockId="3.[189,1398,1655,1751]" box="[234,567,1655,1681]" pageId="3" pageNumber="4">
+<emphasis id="B93EDC4CA846FFFAE7D67B393D9AF2FF" bold="true" box="[234,423,1655,1681]" pageId="3" pageNumber="4">
+<typeStatus id="54F1BEFCA846FFFAE7D67B393D63F2FF" box="[234,350,1655,1681]" pageId="3" pageNumber="4">Holotype</typeStatus>
+, male
+</emphasis>
+(
+<figureCitation id="13711CDBA846FFFAE68B7B393E13F2FF" box="[439,558,1655,1681]" captionStart="Fig" captionStartId="4.[189,232,1857,1883]" captionTargetBox="[194,1398,274,1773]" captionTargetId="figure-14@4.[189,1398,265,1776]" captionTargetPageId="4" captionText="Fig. 1. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov. A, B, D–I. Holotype, ♂ (SCH_ ISEA_000123). C. Allotype, ♀. A, C. External appearance, dorsal view. B. External appearance, lateral view. D. Right antenna. E. Head, pronotum and scutellum, subdorsal view. F. Metathorax, subdorsal view. G. Metathorax, lateral view. H. Left anterior tibia and tarsus, ventral view. I. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578346" httpUri="https://zenodo.org/record/5578346/files/figure.png" pageId="3" pageNumber="4">Fig 1A–B</figureCitation>
+)
+</paragraph>
+<paragraph id="8BF5005EA846FFFAE7817BD43D40F2B9" blockId="3.[189,1398,1655,1751]" pageId="3" pageNumber="4">BODY. Elongate, subparallel, slightly expanded posteriorly, elytra not covering two ultimate segments of the abdomen.</paragraph>
+<paragraph id="8BF5005EA846FFFAE7817BB13FE3F3A6" blockId="3.[189,1399,1790,1992]" pageId="3" pageNumber="4">
+LABRUM, LABIUM, MANDIBLES, PALPI, MOUTHPARTS AND ANTENNAE. Yellow-brown, except for black spots on upper side of the 1 
+<superScript id="7C3FAD16A846FFFAE6F07A6F3DEAF341" attach="left" box="[460,471,1825,1839]" fontSize="6" pageId="3" pageNumber="4">st</superScript>
+antennomere (
+<figureCitation id="13711CDBA846FFFAE5B17A6C3ED3F352" box="[653,750,1826,1852]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="3" pageNumber="4">Fig. 2D</figureCitation>
+), tibiae and tarsi in all legs, coxae and trochanters in anterior legs and commissure parts between them in intermediate and posterior legs and membranes of abdominal ventrites yellow, other body parts black–brown; upper surface of head, pronotum and elytra with a weak green metallic tint. Surface evenly covered with yellow-white dense fine long erect and curved hairs. Vesicles white-yellow, and thoracic mesepimera black.
+</paragraph>
+<caption id="DF3550D6A841FFFDE7817A0F3EFCF387" ID-DOI="http://doi.org/10.5281/zenodo.5578346" ID-Zenodo-Dep="5578346" httpUri="https://zenodo.org/record/5578346/files/figure.png" pageId="4" pageNumber="5" startId="4.[189,232,1857,1883]" targetBox="[194,1398,274,1773]" targetPageId="4">
+<paragraph id="8BF5005EA841FFFDE7817A0F3EFCF387" blockId="4.[188,1398,1857,2025]" pageId="4" pageNumber="5">
+<emphasis id="B93EDC4CA841FFFDE7817A0F3D2DF332" bold="true" box="[189,272,1857,1884]" pageId="4" pageNumber="5">Fig. 1.</emphasis>
+<taxonomicName id="4C4A7BDDA841FFFDE6227A0F3F37F335" authority="Tshernyshev" authorityName="Tshernyshev" authorityYear="2021" box="[286,778,1857,1883]" class="Insecta" family="Melyridae" genus="Pectotibialis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="5" phylum="Arthropoda" rank="species" species="paghmanensis" status="gen. et sp. nov.">
+<emphasis id="B93EDC4CA841FFFDE6227A0F3E55F335" box="[286,616,1857,1883]" italics="true" pageId="4" pageNumber="5">Pectotibialis paghmanensis</emphasis>
+Tshernyshev
+</taxonomicName>
+<taxonomicNameLabel id="A20D6137A841FFFDE42B7A0C3FE6F332" box="[791,987,1858,1884]" pageId="4" pageNumber="5" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+<emphasis id="B93EDC4CA841FFFDE4D47A0F3857F332" bold="true" box="[1000,1130,1857,1884]" pageId="4" pageNumber="5">A, B, D–I</emphasis>
+. Holotype, ♂ (SCH_ ISEA_000123). 
+<emphasis id="B93EDC4CA841FFFDE6417A2A3DA4F310" bold="true" box="[381,409,1892,1918]" pageId="4" pageNumber="5">C.</emphasis>
+Allotype, ♀. 
+<emphasis id="B93EDC4CA841FFFDE5057A2A3E73F310" bold="true" box="[569,590,1892,1918]" pageId="4" pageNumber="5">A</emphasis>
+, 
+<emphasis id="B93EDC4CA841FFFDE5607A2A3E4CF310" bold="true" box="[604,625,1892,1918]" pageId="4" pageNumber="5">C</emphasis>
+. External appearance, dorsal view. 
+<emphasis id="B93EDC4CA841FFFDE3337A2B381EF311" bold="true" box="[1039,1059,1893,1919]" pageId="4" pageNumber="5">B</emphasis>
+. External appearance, lateral view. 
+<emphasis id="B93EDC4CA841FFFDE6397AC63D27F3CC" bold="true" box="[261,282,1928,1954]" pageId="4" pageNumber="5">D</emphasis>
+. Right antenna. 
+<emphasis id="B93EDC4CA841FFFDE6D97AC63DCBF3CC" bold="true" box="[485,502,1928,1954]" pageId="4" pageNumber="5">E</emphasis>
+. Head, pronotum and scutellum, subdorsal view. 
+<emphasis id="B93EDC4CA841FFFDE3717AC63860F3CC" bold="true" box="[1101,1117,1928,1954]" pageId="4" pageNumber="5">F</emphasis>
+. Metathorax, subdorsal view. 
+<emphasis id="B93EDC4CA841FFFDE6387AE53D26F3AB" bold="true" box="[260,283,1963,1989]" pageId="4" pageNumber="5">G</emphasis>
+. Metathorax, lateral view. 
+<emphasis id="B93EDC4CA841FFFDE5627AE53E4EF3AB" bold="true" box="[606,627,1963,1989]" pageId="4" pageNumber="5">H</emphasis>
+. Left anterior tibia and tarsus, ventral view. 
+<emphasis id="B93EDC4CA841FFFDE3B67AE538A9F3AB" bold="true" box="[1162,1172,1963,1989]" pageId="4" pageNumber="5">I</emphasis>
+. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm.
+</paragraph>
+</caption>
+<paragraph id="8BF5005EA840FFFCE7817C473E3AF5DE" blockId="5.[189,1399,265,432]" pageId="5" pageNumber="6">HEAD. Not wider than pronotum, interocular area slightly impressed and edged with thin carina, frons with two tubercles, eyes small, oval, weakly protruding; genae short and straight; clypeus narrow, transverse, straight; labrum narrow, transverse; palpae simple with apical segment slightly widened and securiform; surface of head dull, sparsely indistinctly punctured lacking microsculpture, evenly covered with light fine long and curved pubescence.</paragraph>
+<paragraph id="8BF5005EA840FFFCE7817C99391BF6AB" blockId="5.[187,1399,470,709]" pageId="5" pageNumber="6">
+ANTENNAE. Weakly flabellate from 6 
+<superScript id="7C3FAD16A840FFFCE5637C983E51F58A" attach="left" box="[607,620,470,484]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+to 11 
+<superScript id="7C3FAD16A840FFFCE5937C983E81F58A" attach="left" box="[687,700,470,484]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+antennomeres (
+<figureCitation id="13711CDBA840FFFCE4497C993FEDF59F" box="[885,976,471,497]" captionStart="Fig" captionStartId="4.[189,232,1857,1883]" captionTargetBox="[194,1398,274,1773]" captionTargetId="figure-14@4.[189,1398,265,1776]" captionTargetPageId="4" captionText="Fig. 1. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov. A, B, D–I. Holotype, ♂ (SCH_ ISEA_000123). C. Allotype, ♀. A, C. External appearance, dorsal view. B. External appearance, lateral view. D. Right antenna. E. Head, pronotum and scutellum, subdorsal view. F. Metathorax, subdorsal view. G. Metathorax, lateral view. H. Left anterior tibia and tarsus, ventral view. I. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578346" httpUri="https://zenodo.org/record/5578346/files/figure.png" pageId="5" pageNumber="6">Fig. 1D</figureCitation>
+), 
+<quantity id="4CB2ADBBA840FFFCE4D47C99387CF59C" box="[1000,1089,471,498]" metricMagnitude="-3" metricUnit="m" metricValue="1.7" pageId="5" pageNumber="6" unit="mm" value="1.7">1.7 mm</quantity>
+long, reaching the base of elytra; 1 
+<superScript id="7C3FAD16A840FFFCE6217CB43D15F666" attach="left" box="[285,296,506,520]" fontSize="6" pageId="5" pageNumber="6">st</superScript>
+antennomere enlarged, round-oval, 2 
+<superScript id="7C3FAD16A840FFFCE5E67CB43ED6F666" attach="left" box="[730,747,506,520]" fontSize="6" pageId="5" pageNumber="6">nd</superScript>
+antennomere small, round, almost completely invisible, hidden by the 1 
+<superScript id="7C3FAD16A840FFFCE6557F533D49F645" attach="left" box="[361,372,541,555]" fontSize="6" pageId="5" pageNumber="6">st</superScript>
+antennomere, 3 
+<superScript id="7C3FAD16A840FFFCE51B7F533E08F645" attach="left" box="[551,565,541,555]" fontSize="6" pageId="5" pageNumber="6">rd</superScript>
+and 4 
+<superScript id="7C3FAD16A840FFFCE54B7F533EB9F645" attach="left" box="[631,644,541,555]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+antennomeres triangular, the 3 
+<superScript id="7C3FAD16A840FFFCE4E27F533FD1F645" attach="left" box="[990,1004,541,555]" fontSize="6" pageId="5" pageNumber="6">rd</superScript>
+is 1.2 times as long and wide as the 4 
+<superScript id="7C3FAD16A840FFFCE7F77F0E3CE5F620" attach="left" box="[203,216,576,590]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+antennomere, 5 
+<superScript id="7C3FAD16A840FFFCE6B27F0E3DA6F620" attach="left" box="[398,411,576,590]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+antennomere triangular with elongate outer edge and is as long as the 3 
+<superScript id="7C3FAD16A840FFFCE3FB7F0E38E8F620" attach="left" box="[1223,1237,576,590]" fontSize="6" pageId="5" pageNumber="6">rd</superScript>
+antennomere, but considerably narrower than it, 6 
+<superScript id="7C3FAD16A840FFFCE5547F2D3E48F61F" attach="left" box="[616,629,611,625]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+to 10 
+<superScript id="7C3FAD16A840FFFCE5817F2D3EF7F61F" attach="left" box="[701,714,611,625]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+antennomeres with extended outer edges, apical segment elongate, thin, subcylindrical, slightly curved in basal third; surface evenly covered with short, yellowwhite adpressed pubescence with single erect longer light hairs on outer sides of the antennomeres.
+</paragraph>
+<paragraph id="8BF5005EA840FFFCE7817FA23D0AF7D8" blockId="5.[189,1399,748,950]" pageId="5" pageNumber="6">PRONOTUM. Almost completely equilateral, narrowly transverse impressed near basal margin, disk convex with wide subtriangular tubercle in a middle and look bituberculate at base; anterior margin slightly convex; posterior margin straight; lateral sides almost completely straight with rounded angles; basal side and basal half of lateral sides slightly flattened and distinctly marginate, anterior side indistinctly marginate; surface glabrous, with sparse smoothed punctures lacking microsculpture, evenly covered with fine long curved light hairs.</paragraph>
+<paragraph id="8BF5005EA840FFFCE7817E933E43F074" blockId="5.[187,1399,989,1050]" pageId="5" pageNumber="6">SCUTELLUM. Small, triangular with rounded tip, almost completely covered by pronotum, sparsely punctured and covered with light semi-erect hairs.</paragraph>
+<paragraph id="8BF5005EA840FFFCE781790C3855F087" blockId="5.[189,1399,1090,1257]" pageId="5" pageNumber="6">ELYTRA. Oblong, parallel or slightly widened just behind the middle and evenly rounded distally, not covering three apical segments of the abdomen, at base not wider than pronotum; humeri small, slightly protruding; apices evenly rounded, simple; disc indistinctly marginate on external sides and along suture, lateral edge in middle near epipleura slightly impressed; surface dull, coarsely punctured and wrinkled, with smoothed microsculpture, evenly covered with yellow-white long erect hairs.</paragraph>
+<paragraph id="8BF5005EA840FFFCE781785F3E03F144" blockId="5.[189,574,1296,1323]" box="[189,574,1296,1323]" pageId="5" pageNumber="6">HIND WINGS. Normally developed.</paragraph>
+<paragraph id="8BF5005EA840FFFCE781781C3976F2C6" blockId="5.[189,1400,1361,1705]" pageId="5" pageNumber="6">
+LEGS. Not long; posterior femora not reaching elytral apices; anterior tibiae not swollen but widened distally and with a strong rectangular excavation inwardly in apical half so that the tip of the tibiae looks like a 1 
+<superScript id="7C3FAD16A840FFFCE257783A394BF1EC" attach="none" box="[1387,1398,1396,1410]" fontSize="6" pageId="5" pageNumber="6">st</superScript>
+tarsomere (
+<figureCitation id="13711CDBA840FFFCE60278D63D8CF1DC" box="[318,433,1432,1458]" captionStart="Fig" captionStartId="4.[189,232,1857,1883]" captionTargetBox="[194,1398,274,1773]" captionTargetId="figure-14@4.[189,1398,265,1776]" captionTargetPageId="4" captionText="Fig. 1. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov. A, B, D–I. Holotype, ♂ (SCH_ ISEA_000123). C. Allotype, ♀. A, C. External appearance, dorsal view. B. External appearance, lateral view. D. Right antenna. E. Head, pronotum and scutellum, subdorsal view. F. Metathorax, subdorsal view. G. Metathorax, lateral view. H. Left anterior tibia and tarsus, ventral view. I. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578346" httpUri="https://zenodo.org/record/5578346/files/figure.png" pageId="5" pageNumber="6">Fig. 1H–I</figureCitation>
+), intermediate and posterior tibiae simple, not swollen or emarginate, with the setae similar to that in tarsal comb arranged in apical edge near tarsus, femora wide, roundly swollen, anterior with tooth in middle (
+<figureCitation id="13711CDBA840FFFCE68A78903E09F196" box="[438,564,1502,1528]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="5" pageNumber="6">Fig. 2A–B</figureCitation>
+), anterior trochanter oval and impressed to the basal half of the femur, all tarsi 5-segmented, slightly compressed and elongate, 2 
+<superScript id="7C3FAD16A840FFFCE40A7B4F3F7AF261" attach="left" box="[822,839,1537,1551]" fontSize="6" pageId="5" pageNumber="6">nd</superScript>
+tarsomere in anterior tarsi with small transverse comb above, the 1 
+<superScript id="7C3FAD16A840FFFCE6AD7B6A3DA1F25C" attach="left" box="[401,412,1572,1586]" fontSize="6" pageId="5" pageNumber="6">st</superScript>
+tarsomere enlarged, triangular, 1.3 times as long as the 2 
+<superScript id="7C3FAD16A840FFFCE3137B6A387DF25C" attach="left" box="[1071,1088,1572,1586]" fontSize="6" pageId="5" pageNumber="6">nd</superScript>
+tarsomere, 2 times as long as the 3 
+<superScript id="7C3FAD16A840FFFCE6267B093D15F23B" attach="left" box="[282,296,1607,1621]" fontSize="6" pageId="5" pageNumber="6">rd</superScript>
+tarsomere and 3 times as long as the 4 
+<superScript id="7C3FAD16A840FFFCE5C77B093F35F23B" attach="left" box="[763,776,1607,1621]" fontSize="6" pageId="5" pageNumber="6">th</superScript>
+tarsomere, claw-segment flattened, as long as the 1 
+<superScript id="7C3FAD16A840FFFCE2577B06394BF238" attach="none" box="[1387,1398,1608,1622]" fontSize="6" pageId="5" pageNumber="6">st</superScript>
+tarsomere, claws very short and thin, almost completely hidden by round semi-transparent membrane at base. Surface of legs covered with light short semi-erect pubescence and sparse white long erect hairs.
+</paragraph>
+<paragraph id="8BF5005EA840FFFFE7817B9E3F1FF528" blockId="5.[188,1399,1744,1982]" lastBlockId="6.[189,1399,265,327]" lastPageId="6" lastPageNumber="7" pageId="5" pageNumber="6">
+VENTRAL BODY SURFACE. Sparsely punctured, shining, evenly and sparsely covered with long, fine, semierect white hairs; metathorax swollen and complicatedly sculptured: impressed in a middle, and with two protuberances, one lamellate transverse above, and the other longitudinal and possessing vertical round semi-transparent plate at apex (
+<figureCitation id="13711CDBA840FFFCE51C7A773EA7F33A" box="[544,666,1849,1876]" captionStart="Fig" captionStartId="4.[189,232,1857,1883]" captionTargetBox="[194,1398,274,1773]" captionTargetId="figure-14@4.[189,1398,265,1776]" captionTargetPageId="4" captionText="Fig. 1. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov. A, B, D–I. Holotype, ♂ (SCH_ ISEA_000123). C. Allotype, ♀. A, C. External appearance, dorsal view. B. External appearance, lateral view. D. Right antenna. E. Head, pronotum and scutellum, subdorsal view. F. Metathorax, subdorsal view. G. Metathorax, lateral view. H. Left anterior tibia and tarsus, ventral view. I. Left anterior tibia and tarsus, dorsal view. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578346" httpUri="https://zenodo.org/record/5578346/files/figure.png" pageId="5" pageNumber="6">Fig. 1F–G</figureCitation>
+). Pygidium slightly elongate, almost equilateral, evenly rounded distally, with long dark erect hair on outer side (
+<figureCitation id="13711CDBA840FFFCE5EB7A133F12F319" box="[727,815,1885,1911]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="5" pageNumber="6">Fig. 2C</figureCitation>
+), ultimate abdominal ventrite is bilaciniate, narrow, transverse, evenly narrowed dorsally and emarginate in the middle (
+<figureCitation id="13711CDBA840FFFCE4E17ACE3806F3F4" box="[989,1083,1920,1946]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="5" pageNumber="6">Fig. 2D</figureCitation>
+), aedeagus simple, weakly curved dorsally, narrow, with elongate narrow and ventrally curved apical lamella, endophallus with three denticles at apex near lamella (
+<figureCitation id="13711CDBA843FFFFE5227C473E48F54D" box="[542,629,265,291]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="6" pageNumber="7">Fig. 2F</figureCitation>
+), tegmen long, narrow, with thin and short pointed parameres those are 2.3 times as short as the base of tegmen (
+<figureCitation id="13711CDBA843FFFFE5857C623F2BF528" box="[697,790,300,326]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="6" pageNumber="7">Fig. 2G</figureCitation>
+).
+</paragraph>
+<paragraph id="8BF5005EA843FFFFE7817C203ED8F5E6" blockId="6.[189,741,366,393]" box="[189,741,366,393]" pageId="6" pageNumber="7">
+LENGTH. 
+<quantity id="4CB2ADBBA843FFFFE61C7C203D46F5E6" box="[288,379,366,392]" metricMagnitude="-3" metricUnit="m" metricValue="3.8" pageId="6" pageNumber="7" unit="mm" value="3.8">3.8 mm</quantity>
+, width (at elytral base) 
+<quantity id="4CB2ADBBA843FFFFE5B97C203EDCF5E6" box="[645,737,366,392]" metricMagnitude="-4" metricUnit="m" metricValue="8.0" pageId="6" pageNumber="7" unit="mm" value="0.8">0.8 mm</quantity>
+.
+</paragraph>
+<paragraph id="8BF5005EA843FFFFE7817CE13F42F617" blockId="6.[188,1399,431,634]" pageId="6" pageNumber="7">
+Female differs in having simple head and pronotum lacking sculpture, anterior tarsi simple, lacking a comb above the 2 
+<superScript id="7C3FAD16A843FFFFE67F7C9F3D69F5B1" attach="left" box="[323,340,465,479]" fontSize="6" pageId="6" pageNumber="7">nd</superScript>
+tarsomere, antennae dentate with the 3 
+<superScript id="7C3FAD16A843FFFFE4247C9F3F1BF5B1" attach="left" box="[792,806,465,479]" fontSize="6" pageId="6" pageNumber="7">rd</superScript>
+and 4 
+<superScript id="7C3FAD16A843FFFFE4527C9F3F46F5B1" attach="left" box="[878,891,465,479]" fontSize="6" pageId="6" pageNumber="7">th</superScript>
+antennomeres narrow-triangular, and of the equal shape and length, anterior tibiae lacking excavation, but with stretched outer edge bearing the 1 
+<superScript id="7C3FAD16A843FFFFE2577CBB394BF66D" attach="none" box="[1387,1398,501,515]" fontSize="6" pageId="6" pageNumber="7">st</superScript>
+tarsomere, anterior femora lacking tooth, metathorax evenly convex lacking appendages, inner side of the apex of anterior and intermediate tibiae with a row of setae similar to that in tarsal comb of male, abdomen long, with four segments extending beyond apex of the elytra.
+</paragraph>
+<paragraph id="8BF5005EA843FFFFE7817FEF3ED8F6D5" blockId="6.[189,741,672,699]" box="[189,741,672,699]" pageId="6" pageNumber="7">
+LENGTH. 
+<quantity id="4CB2ADBBA843FFFFE61C7FEF3D46F6D5" box="[288,379,673,699]" metricMagnitude="-3" metricUnit="m" metricValue="4.3" pageId="6" pageNumber="7" unit="mm" value="4.3">4.3 mm</quantity>
+, width (at elytral base) 1.0 mm.
+</paragraph>
+</subSubSection>
+<caption id="DF3550D6A843FFFFE7817A2A3968F3A8" ID-DOI="http://doi.org/10.5281/zenodo.5578350" ID-Zenodo-Dep="5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="6" pageNumber="7" startId="6.[189,232,1892,1918]" targetBox="[197,1367,793,1845]" targetPageId="6">
+<paragraph id="8BF5005EA843FFFFE7817A2A3968F3A8" blockId="6.[189,1399,1892,1990]" pageId="6" pageNumber="7">
+<emphasis id="B93EDC4CA843FFFFE7817A2A3D36F311" bold="true" box="[189,267,1892,1919]" pageId="6" pageNumber="7">Fig. 2.</emphasis>
+<taxonomicName id="4C4A7BDDA843FFFFE62E7A2B3ECFF311" authority="Tshernyshev" authorityName="Tshernyshev" authorityYear="2021" box="[274,754,1893,1919]" class="Insecta" family="Melyridae" genus="Pectotibialis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="6" pageNumber="7" phylum="Arthropoda" rank="species" species="paghmanensis" status="gen. et sp. nov.">
+<emphasis id="B93EDC4CA843FFFFE62E7A2B3E6BF311" box="[274,598,1893,1919]" italics="true" pageId="6" pageNumber="7">Pectotibialis paghmanensis</emphasis>
+Tshernyshev
+</taxonomicName>
+<taxonomicNameLabel id="A20D6137A843FFFFE5C57A2B3F90F311" box="[761,941,1893,1919]" pageId="6" pageNumber="7" rank="species">gen. et sp. nov.</taxonomicNameLabel>
+, holotype, ♂. 
+<emphasis id="B93EDC4CA843FFFFE3687A2A3854F310" bold="true" box="[1108,1129,1892,1918]" pageId="6" pageNumber="7">A</emphasis>
+. Femur of left anterior leg. 
+<emphasis id="B93EDC4CA843FFFFE7CC7AC63D39F3CC" bold="true" box="[240,260,1928,1954]" pageId="6" pageNumber="7">B</emphasis>
+. Left anterior leg, ventral view. 
+<emphasis id="B93EDC4CA843FFFFE5BC7AC63EA8F3CC" bold="true" box="[640,661,1928,1954]" pageId="6" pageNumber="7">C</emphasis>
+. Left intermediate leg, ventral view. 
+<emphasis id="B93EDC4CA843FFFFE3747AC63860F3CC" bold="true" box="[1096,1117,1928,1954]" pageId="6" pageNumber="7">D</emphasis>
+. Pygidium. 
+<emphasis id="B93EDC4CA843FFFFE3D27AC6393CF3CC" bold="true" box="[1262,1281,1928,1954]" pageId="6" pageNumber="7">E</emphasis>
+. Ultimate abdominal ventrite. 
+<emphasis id="B93EDC4CA843FFFFE6947AE53D87F3AB" bold="true" box="[424,442,1963,1989]" pageId="6" pageNumber="7">F</emphasis>
+. Aedeagus, dorsal view. 
+<emphasis id="B93EDC4CA843FFFFE5E27AE53EC8F3AB" bold="true" box="[734,757,1963,1989]" pageId="6" pageNumber="7">G</emphasis>
+. Tegmen. 
+<emphasis id="B93EDC4CA843FFFFE44C7AE53FBAF3AB" bold="true" box="[880,903,1963,1989]" pageId="6" pageNumber="7">H</emphasis>
+. Distribution map. Scale bars: 0.5 mm.
+</paragraph>
+</caption>
+<subSubSection id="C35053D5A842FFF0E7817C46394AF528" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="8" type="distribution">
+<subSubSection id="C35053D5A842FFFEE7817C463832F53F" box="[189,1039,264,338]" pageId="7" pageNumber="8" type="distribution">
+<paragraph id="8BF5005EA842FFFEE7817C463D6FF54C" blockId="7.[189,338,264,290]" box="[189,338,264,290]" pageId="7" pageNumber="8">
+<heading id="D0BDB732A842FFFEE7817C463D6FF54C" bold="true" box="[189,338,264,290]" fontSize="11" level="3" pageId="7" pageNumber="8" reason="3">
+<emphasis id="B93EDC4CA842FFFEE7817C463D6FF54C" bold="true" box="[189,338,264,290]" pageId="7" pageNumber="8">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817C763832F53F" blockId="7.[189,1039,311,338]" box="[189,1039,311,338]" pageId="7" pageNumber="8">
+Known from 
+<typeStatus id="54F1BEFCA842FFFEE66B7C763DB5F53C" box="[343,392,312,338]" pageId="7" pageNumber="8">type</typeStatus>
+locality only, 
+<collectingCountry id="F35D40CEA842FFFEE5157C793E84F53F" box="[553,697,311,337]" name="Afghanistan" pageId="7" pageNumber="8">Afghanistan</collectingCountry>
+: Paghman environs (
+<figureCitation id="13711CDBA842FFFEE49A7C79383EF53F" box="[934,1027,311,337]" captionStart="Fig" captionStartId="6.[189,232,1892,1918]" captionTargetBox="[197,1367,793,1845]" captionTargetId="figure-220@6.[189,1398,760,1858]" captionTargetPageId="6" captionText="Fig. 2. Pectotibialis paghmanensis Tshernyshev gen. et sp. nov., holotype, ♂. A. Femur of left anterior leg. B. Left anterior leg, ventral view. C. Left intermediate leg, ventral view. D. Pygidium. E. Ultimate abdominal ventrite. F. Aedeagus, dorsal view. G. Tegmen. H. Distribution map. Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5578350" httpUri="https://zenodo.org/record/5578350/files/figure.png" pageId="7" pageNumber="8">Fig. 2H</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<treatment id="03E3B148A842FFF0E7817C37394AF528" ID-DOI="http://doi.org/10.5281/zenodo.5578925" ID-GBIF-Taxon="189076485" ID-Zenodo-Dep="5578925" LSID="urn:lsid:zoobank.org:act:93EC6FFD-B1D1-409F-B12A-081E1D5B96F5" httpUri="http://treatment.plazi.org/id/03E3B148A846FFFEE6CB79EB3832F53F" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="8">
+<subSubSection id="C35053D5A842FFFEE7817C37397AF5FD" box="[189,1351,376,403]" pageId="7" pageNumber="8" type="nomenclature">
+<paragraph id="8BF5005EA842FFFEE7817C37397AF5FD" blockId="7.[189,1351,376,403]" box="[189,1351,376,403]" pageId="7" pageNumber="8">
+<emphasis id="B93EDC4CA842FFFEE7817C37397AF5FD" bold="true" box="[189,1351,376,403]" pageId="7" pageNumber="8">
+Key to the genera of the tribe 
+<taxonomicName id="4C4A7BDDA842FFFEE51A7C363E85F5FC" authorityName="Mulsant &amp; Rey" authorityYear="1867" box="[550,696,376,402]" class="Insecta" family="Melyridae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="tribe" tribe="Apalochrini">Apalochrini</taxonomicName>
+with simple not modified 1 
+<superScript id="7C3FAD16A842FFFEE33D7C363830F5E8" attach="none" box="[1025,1037,376,390]" fontSize="6" pageId="7" pageNumber="8">st</superScript>
+, 3 
+<superScript id="7C3FAD16A842FFFEE3167C363806F5E8" attach="left" box="[1066,1083,376,390]" fontSize="6" pageId="7" pageNumber="8">rd</superScript>
+and 4 
+<superScript id="7C3FAD16A842FFFEE3B97C3638A9F5E8" attach="left" box="[1157,1172,376,390]" fontSize="6" pageId="7" pageNumber="8">th</superScript>
+antennomeres
+</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35053D5A842FFF0E7817CE9394AF528" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="8" type="key">
+<key id="FFDB576FA842FFF0E7817CE9394AF528" lastPageId="9" lastPageNumber="10" pageId="7" pageNumber="8">
+<keyStep id="30BE18FBA842FFFEE7817CE9394BF666" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817CE9394AF5AF" blockId="7.[189,1399,423,1998]" box="[189,1399,423,450]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817CE9394AF5AF" box="[189,1399,423,450]" pageId="7" pageNumber="8">1. Male special structures are indistinct, antennae filiform or flabellate .....................................................2</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817C85394BF666" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817C85394BF666" pageId="7" pageNumber="8">– Male special structures distinct and located on head, antennae, pronotum, metathorax, sternites or legs ..........................................................................................................................................................10</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817F5F394AF6FA" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817F5F394AF620" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817F5F394AF620" pageId="7" pageNumber="8">
+2. Second segment of anterior tarsi lacking a comb above, elytra with green or blue metallic lustre .............................................................................................................. 
+<taxonomicName id="4C4A7BDDA842FFFEE3067F7D394AF620" authority="Erichson, 1840" authorityName="Erichson" authorityYear="1840" box="[1082,1399,563,590]" class="Insecta" family="Melyridae" genus="Apalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE3067F7D38FEF620" bold="true" box="[1082,1219,563,590]" italics="true" pageId="7" pageNumber="8">Apalochrus</emphasis>
+Erichson, 1840
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817F16394AF6FA" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817F16394AF6FA" pageId="7" pageNumber="8">– Second segment of anterior tarsi with a comb above, elytra entirely black, sometimes with metallic lustre...........................................................................................................................................................3</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817FD0394AF690" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817FD0394AF6B4" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817FD0394AF6B4" pageId="7" pageNumber="8">
+3. Body of staphylinoid shape, narrow, black, lacking metallic lustre, elytra strongly shortened and not covering abdomen, wings reduced, antennae filiform ............................. 
+<taxonomicName id="4C4A7BDDA842FFFEE3207F8E394AF6B4" authority="Medvedev, 1964" authorityName="L. Medvedev" authorityYear="1964" box="[1052,1399,704,731]" class="Insecta" family="Melyridae" genus="Paratinoides" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE3207F8E388CF6B5" bold="true" box="[1052,1201,704,731]" italics="true" pageId="7" pageNumber="8">Paratinoides</emphasis>
+Medvedev, 1964
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817FAA394AF690" blockId="7.[189,1399,423,1998]" box="[189,1399,740,766]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817FAA394AF690" box="[189,1399,740,766]" pageId="7" pageNumber="8">
+– Body typical of 
+<taxonomicName id="4C4A7BDDA842FFFEE69F7FAA3E0EF690" authorityName="Fleming" authorityYear="1821" box="[419,563,740,766]" class="Insecta" family="Malachiidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="family">Malachiidae</taxonomicName>
+, elytra completely covering the abdomen .................................................4
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817E49394AF72A" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817E49394AF74C" blockId="7.[189,1399,423,1998]" box="[189,1399,775,802]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817E49394AF74C" box="[189,1399,775,802]" pageId="7" pageNumber="8">4. Anterior tibiae simple, not widened or impressed, antennae flabellate of filiform .................................5</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817E65394AF72A" blockId="7.[189,1399,423,1998]" box="[189,1399,810,837]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817E65394AF72A" box="[189,1399,810,837]" pageId="7" pageNumber="8">– Anterior tibiae widened or impressed distally, antennae flabellate .........................................................9</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817E03394AF7E5" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817E03394AF709" blockId="7.[189,1399,423,1998]" box="[189,1399,845,872]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817E03394AF709" box="[189,1399,845,872]" pageId="7" pageNumber="8">5. Antennae filiform ......................................................................................................................................6</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817E3F394AF7E5" blockId="7.[189,1399,423,1998]" box="[189,1399,881,907]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817E3F394AF7E5" box="[189,1399,881,907]" pageId="7" pageNumber="8">– Antennae flabellate ...................................................................................................................................7</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817EDA394AF030" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817EDA394AF79A" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817EDA394AF79A" pageId="7" pageNumber="8">
+6. Antennomeres simple, not widened and slightly flattened, lacking impressions or grooves, anterior femora simple, lacking emarginations; surface of the body covered with long erect and short adpressed black pubescence ......................................................................................... 
+<taxonomicName id="4C4A7BDDA842FFFEE30C7E94394AF79A" authority="Evers, 1987" authorityName="Evers" authorityYear="1987" box="[1072,1399,986,1013]" class="Insecta" family="Melyridae" genus="Protapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE30C7E9438DAF79B" bold="true" box="[1072,1255,986,1013]" italics="true" pageId="7" pageNumber="8">Protapalochrus</emphasis>
+Evers, 1987
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817EB0394AF030" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817EB0394AF030" pageId="7" pageNumber="8">
+– Intermediate3 
+<superScript id="7C3FAD16A842FFFEE6B47EB33DFDF079" attach="right" box="[392,448,1021,1047]" fontSize="6" pageId="7" pageNumber="8">rdand</superScript>
+6 
+<superScript id="7C3FAD16A842FFFEE6F37EB33EE2F079" attach="right" box="[463,735,1021,1047]" fontSize="6" pageId="7" pageNumber="8">thantennomereswidened</superScript>
+,dorsalsideof5 
+<superScript id="7C3FAD16A842FFFEE4427EB33FB6F065" attach="none" box="[894,907,1021,1035]" fontSize="6" pageId="7" pageNumber="8">th</superScript>
+–10 
+<superScript id="7C3FAD16A842FFFEE48A7EB33924F079" attach="right" box="[950,1305,1021,1047]" fontSize="6" pageId="7" pageNumber="8">thantennomeressulcateinmiddle</superScript>
+,anterior femora with oval emargination in apical half covered with white pubescence; surface of the body covered with short semi-erect and adpressed black-brown pubescence ...... 
+<taxonomicName id="4C4A7BDDA842FFFEE4E1790D394AF030" authority="Tshernyshev, 2020" authorityName="Tshernyshev" authorityYear="2020" box="[989,1399,1091,1118]" class="Insecta" family="Melyridae" genus="Acroapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE4E1790D38A7F030" bold="true" box="[989,1178,1091,1118]" italics="true" pageId="7" pageNumber="8">Acroapalochrus</emphasis>
+Tshernyshev, 2020
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817926394AF0CB" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817926394AF0EF" blockId="7.[189,1399,423,1998]" box="[189,1399,1126,1154]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817926394AF0EF" box="[189,1399,1126,1154]" pageId="7" pageNumber="8">
+7. Pronotum simple, lacking longitudinal grooves .............................. 
+<taxonomicName id="4C4A7BDDA842FFFEE4D8792838A6F0EF" authority="Tshernyshev, 2021" authorityName="Tshernyshev" authorityYear="2021" box="[996,1179,1126,1153]" genus="Pectapalochrus" pageId="7" pageNumber="13" rank="genus" status="gen. nov.">
+<emphasis id="B93EDC4CA842FFFEE4D8792838A6F0EF" bold="true" box="[996,1179,1126,1153]" italics="true" pageId="7" pageNumber="8">Pectapalochrus</emphasis>
+</taxonomicName>
+Tshernyshev, 2016
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE78179C5394AF0CB" blockId="7.[189,1399,423,1998]" box="[189,1399,1162,1189]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE78179C5394AF0CB" box="[189,1399,1162,1189]" pageId="7" pageNumber="8">
+– Pronotum bisulcate in middle ........................................................................... 
+<taxonomicName id="4C4A7BDDA842FFFEE36979C4394AF0CB" authority="Pic, 1950" authorityName="Pic" authorityYear="1950" box="[1109,1399,1162,1189]" class="Insecta" family="Melyridae" genus="Airomalachius" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE36979C43939F0CB" bold="true" box="[1109,1284,1162,1189]" italics="true" pageId="7" pageNumber="8">Airomalachius</emphasis>
+Pic, 1950
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE78179E0394AF1D0" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE78179E0394AF15F" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE78179E0394AF15F" pageId="7" pageNumber="8">
+9. Anterior tibiae compressed and widened in apical half, intermediate tibiae impressed and flattened in outer side with weakly widened and curved apices, pronotum convex and narrowly depressed at base, elytra and pronotum uniformly dark with green or blue metallic lustre and covered with long erect grey hairs ................................................................................................... 
+<taxonomicName id="4C4A7BDDA842FFFEE4D9785838A6F15F" authority="Tshernyshev, 2021" authorityName="Tshernyshev" authorityYear="2021" box="[997,1179,1302,1329]" genus="Mesapalochrus" pageId="7" pageNumber="13" rank="genus" status="gen. nov.">
+<emphasis id="B93EDC4CA842FFFEE4D9785838A6F15F" bold="true" box="[997,1179,1302,1329]" italics="true" pageId="7" pageNumber="8">Mesapalochrus</emphasis>
+</taxonomicName>
+Tshernyshev, 2020
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817875394AF1D0" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817875394AF1D0" pageId="7" pageNumber="8">
+– Anterior tibiae slightly widened anteriorly and weakly impressed dorsally, intermediate tibiae simple, not widened and not flattened, pronotum convex, not depressed at base, orange with longitudinal greenbronze stripe in a middle, elytra orange-yellow, each with two bronze metallic oval-triangular spots, surface covered with short erect fine white pubescence ................................ 
+<taxonomicName id="4C4A7BDDA842FFFEE37F78ED394AF1D0" authority="Evers, 1987" authorityName="Evers" authorityYear="1987" box="[1091,1399,1443,1470]" class="Insecta" family="Melyridae" genus="Nudopectinus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE37F78ED38DAF1D0" bold="true" box="[1091,1255,1443,1470]" italics="true" pageId="7" pageNumber="8">Nudopectinus</emphasis>
+Evers, 1987
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817889394AF2DA" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817889394AF225" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817889394AF225" pageId="7" pageNumber="8">
+10. Anterior tibiae simple, not widened or emarginate, male special structure is located in apical half of the pronotum as transverse fissure with elevate side and protuberance behind, anterior tarsi with a comb above the 2 
+<superScript id="7C3FAD16A842FFFEE5697B433E5BF275" attach="left" box="[597,614,1549,1563]" fontSize="6" pageId="7" pageNumber="8">nd</superScript>
+tarsomere, posterior tibiae slightly but distinctly swollen in basal fourth .................................................................................................. 
+<taxonomicName id="4C4A7BDDA842FFFEE4D57B7E394AF225" authority="Abeille de Perrin, 1891" authorityName="Abeille de Perrin" authorityYear="1891" box="[1001,1399,1584,1611]" class="Insecta" family="Melyridae" genus="Simoderus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE4D57B7E385AF225" bold="true" box="[1001,1127,1584,1611]" italics="true" pageId="7" pageNumber="8">Simoderus</emphasis>
+Abeille de Perrin, 1891
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817B1A394AF2DA" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817B1A394AF2DA" pageId="7" pageNumber="8">
+– Anterior tibiae slightly but distinctly widened, simple or emarginate, pronotum simple or with protruding process in anterior side, male special structures located in femora or tibiae, head, metathorax or abdominal ventrites; anterior tarsi with a comb above 2 
+<superScript id="7C3FAD16A842FFFEE4427BD73FB2F2C9" attach="left" box="[894,911,1689,1703]" fontSize="6" pageId="7" pageNumber="8">nd</superScript>
+tarsomere or lacking it ..........................11
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817BF0394BF370" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817BF0394BF2B6" blockId="7.[189,1399,423,1998]" box="[189,1398,1725,1752]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817BF0394BF2B6" box="[189,1398,1725,1752]" pageId="7" pageNumber="8">
+11. Anterior tibiae simple, not emarginate, anterior tarsi with a comb above 2 
+<superScript id="7C3FAD16A842FFFEE3127BF33802F2A5" attach="left" box="[1070,1087,1725,1739]" fontSize="6" pageId="7" pageNumber="8">nd</superScript>
+tarsomere ......................15
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817BAF394BF370" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817BAF394BF370" pageId="7" pageNumber="8">
+– Anterior tibiae emarginate at apical part, anterior tarsi with a comb above 2 
+<superScript id="7C3FAD16A842FFFEE3567BAE3846F280" attach="left" box="[1130,1147,1760,1774]" fontSize="6" pageId="7" pageNumber="8">nd</superScript>
+tarsomere or lacking it ...............................................................................................................................................................12
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817A69394BF30A" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817A69394BF32F" blockId="7.[189,1399,423,1998]" box="[189,1398,1831,1858]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817A69394BF32F" box="[189,1398,1831,1858]" pageId="7" pageNumber="8">12. Head with emarginations and protuberances, antennae serrate or flabellate, abdomen simple ............13</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817A05394BF30A" blockId="7.[189,1399,423,1998]" box="[189,1398,1866,1893]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817A05394BF30A" box="[189,1398,1866,1893]" pageId="7" pageNumber="8">– Head simple, lacking emarginations and protuberances, antennae filiform ..........................................14</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA842FFFEE7817A20394AF3A0" pageId="7" pageNumber="8">
+<paragraph id="8BF5005EA842FFFEE7817A20394AF3C5" blockId="7.[189,1399,423,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817A20394AF3C5" pageId="7" pageNumber="8">
+13. Pronotum with narrow horn-like process protruding over the head, antennae serrate .............................................................................................................. 
+<taxonomicName id="4C4A7BDDA842FFFEE3787ADE394AF3C5" authority="Wittmer, 1952" authorityName="Wittmer" authorityYear="1952" box="[1092,1399,1936,1963]" class="Insecta" family="Melyridae" genus="Troglolaius" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE3787ADE38F1F3C5" bold="true" box="[1092,1228,1936,1963]" italics="true" pageId="7" pageNumber="8">Troglolaius</emphasis>
+Wittmer, 1952
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA842FFFEE7817AFA394AF3A0" blockId="7.[189,1399,423,1998]" box="[189,1399,1971,1998]" pageId="7" pageNumber="8">
+<keyLead id="30BBA36BA842FFFEE7817AFA394AF3A0" box="[189,1399,1971,1998]" pageId="7" pageNumber="8">
+– Pronotum simple, antennae flabellate ......................................................... 
+<taxonomicName id="4C4A7BDDA842FFFEE30D7AFD394AF3A0" authority="Pic, 1919" authorityName="Pic" authorityYear="1919" box="[1073,1399,1971,1998]" class="Insecta" family="Melyridae" genus="Trogloapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="8" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA842FFFEE30D7AFD393EF3A0" bold="true" box="[1073,1283,1971,1998]" italics="true" pageId="7" pageNumber="8">Trogloapalochrus</emphasis>
+Pic, 1919
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817C47394BF528" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817C47394BF54A" blockId="8.[189,1401,264,2017]" box="[189,1398,264,292]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817C47394BF54A" box="[189,1398,264,292]" pageId="8" pageNumber="9">
+14. 4 
+<superScript id="7C3FAD16A84DFFF1E7C57C463D3BF578" attach="left" box="[249,262,264,278]" fontSize="6" pageId="8" pageNumber="9">th</superScript>
+and 5 
+<superScript id="7C3FAD16A84DFFF1E6777C463D65F578" attach="left" box="[331,344,264,278]" fontSize="6" pageId="8" pageNumber="9">th</superScript>
+abdominal ventrites modified and with thorn-like process in the middle ............................15
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817C63394BF528" blockId="8.[189,1401,264,2017]" box="[189,1398,299,327]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817C63394BF528" box="[189,1398,299,327]" pageId="8" pageNumber="9">
+– 4 
+<superScript id="7C3FAD16A84DFFF1E7C57C653D3BF557" attach="left" box="[249,262,299,313]" fontSize="6" pageId="8" pageNumber="9">th</superScript>
+and 5 
+<superScript id="7C3FAD16A84DFFF1E6777C653D65F557" attach="left" box="[331,344,299,313]" fontSize="6" pageId="8" pageNumber="9">th</superScript>
+abdominal ventrites simple, lacking process .........................................................................16
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817C01394AF5BD" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817C01394AF5E3" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817C01394AF5E3" pageId="8" pageNumber="9">
+15. Intermediate tibiae slightly widened and swollen, with the inner side emarginate at apical quarter, trochanters of anterior legs simple .......................................................... 
+<taxonomicName id="4C4A7BDDA84DFFF1E3297C3C394AF5E3" authority="Evers, 1987" authorityName="Evers" authorityYear="1987" box="[1045,1399,370,397]" class="Insecta" family="Melyridae" genus="Opisthapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E3297C3C38DAF5E3" bold="true" box="[1045,1255,370,397]" italics="true" pageId="8" pageNumber="9">Opisthapalochrus</emphasis>
+Evers, 1987
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817CD8394AF5BD" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817CD8394AF5BD" pageId="8" pageNumber="9">
+– Intermediate tibiae simple, not widened or emarginate, trochanters of anterior legs dentate .............................................................................................................. 
+<taxonomicName id="4C4A7BDDA84DFFF1E3767CF6394AF5BD" authority="Pic, 1919" authorityName="Pic" authorityYear="1919" box="[1098,1399,440,467]" class="Insecta" family="Melyridae" genus="Spinapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E3767CF63939F5BD" bold="true" box="[1098,1284,440,467]" italics="true" pageId="8" pageNumber="9">Spinapalochrus</emphasis>
+Pic, 1919
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817C92394BF60E" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817C92394BF598" blockId="8.[189,1401,264,2017]" box="[189,1398,475,503]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817C92394BF598" box="[189,1398,475,503]" pageId="8" pageNumber="9">
+16. 2 
+<superScript id="7C3FAD16A84DFFF1E7C57C953D37F587" attach="left" box="[249,266,475,489]" fontSize="6" pageId="8" pageNumber="9">nd</superScript>
+tarsomere in anterior legs with a comb above ..................................................................................17
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817F4E394BF60E" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817F4E394BF60E" pageId="8" pageNumber="9">
+– 2 
+<superScript id="7C3FAD16A84DFFF1E7C57CB13D37F663" attach="left" box="[249,266,511,525]" fontSize="6" pageId="8" pageNumber="9">nd</superScript>
+tarsomere in anterior legs lacking a comb above, antennae serrate, anterior tibiae evenly emarginate, intermediate tibiae widened and narrowly emarginate, with pheromone glands .................................................................. 
+<taxonomicName id="4C4A7BDDA84DFFF1E4277F08386EF60E" authority="Jacobson, 1911" authorityName="Jacobson" authorityYear="1911" box="[795,1107,582,608]" class="Insecta" family="Melyridae" genus="Mesopezus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E4277F083FA1F60E" bold="true" box="[795,924,582,608]" italics="true" pageId="8" pageNumber="9">Mesopezus</emphasis>
+Jacobson, 1911
+</taxonomicName>
+(= 
+<taxonomicName id="4C4A7BDDA84DFFF1E3457F083953F60E" authority="Evers, 1987" authorityName="Evers" authorityYear="1987" box="[1145,1390,582,608]" class="Insecta" family="Melyridae" genus="Epitinus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E3457F0838E0F60E" bold="true" box="[1145,1245,582,608]" italics="true" pageId="8" pageNumber="9">Epitinus</emphasis>
+Evers, 1987
+</taxonomicName>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817F27394BF6C8" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817F27394BF6ED" blockId="8.[189,1401,264,2017]" box="[189,1398,617,643]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817F27394BF6ED" box="[189,1398,617,643]" pageId="8" pageNumber="9">17. Eyes extremely large, antennae flabellate ..............................................................................................18</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817FC3394BF6C8" blockId="8.[189,1401,264,2017]" box="[189,1398,652,679]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817FC3394BF6C8" box="[189,1398,652,679]" pageId="8" pageNumber="9">– Eyes simple, not large .............................................................................................................................19</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817FE1394AF739" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817FE1394AF77F" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817FE1394AF77F" pageId="8" pageNumber="9">
+18. Metathorax swollen with appendage in the middle, elytral apices impressed near suture, anterior and intermediate femora swollen, intermediate tibia slightly widened posteriorly and possessing pheromone glands ............................................................................................... 
+<emphasis id="B93EDC4CA84DFFF1E4E37FBB38A6F77E" bold="true" box="[991,1179,757,784]" italics="true" pageId="8" pageNumber="9">Mimapalochrus</emphasis>
+Tshernyshev, 2015
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817E57394AF739" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817E57394AF739" pageId="8" pageNumber="9">
+– Metathorax weakly swollen, lacking appendage in a middle, elytral apices not impressed, simple, all legs simple, not widened or curved, without glands ....................... 
+<emphasis id="B93EDC4CA84DFFF1E4E17E7238A7F739" bold="true" box="[989,1178,828,855]" italics="true" pageId="8" pageNumber="9">Oculapalochrus</emphasis>
+Tshernyshev, 2015
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817E11394BF7AE" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817E11394BF7F3" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817E11394BF7F3" pageId="8" pageNumber="9">19. Metathorax strongly swollen and possessing gladiate or rudimentary appendage with hairs in the middle ......................................................................................................................................................20</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817EE8394BF7AE" blockId="8.[189,1401,264,2017]" box="[189,1398,934,960]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817EE8394BF7AE" box="[189,1398,934,960]" pageId="8" pageNumber="9">– Metathorax slightly swollen, lacking appendage or hairs .....................................................................18</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817E87394AF14E" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817E87394BF023" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817E87394BF023" pageId="8" pageNumber="9">
+20. Anterior tibiae slightly emarginate, intermediate tibiae swollen with apical margin simple and lacking setae, pronotum and head simple, lacking relief sculpture, metathorax possesses gladiate appendage in the middle directed to intermediate coxae, elytra completely covering the abdomen ......................................................... 
+<taxonomicName id="4C4A7BDDA84DFFF1E5D0797C386CF023" authority="Pic, 1921" authorityName="Pic and Oculapalochrus Tshernyshev" authorityYear="1921" box="[748,1105,1074,1101]" class="Insecta" family="Melyridae" genus="Dromanthomorphus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E5D0797C3FE3F023" bold="true" box="[748,990,1074,1101]" italics="true" pageId="8" pageNumber="9">Dromanthomorphus</emphasis>
+Pic, 1921
+</taxonomicName>
+(= 
+<taxonomicName id="4C4A7BDDA84DFFF1E344797C3953F023" authority="Evers, 1987" authorityName="Evers" authorityYear="1987" box="[1144,1390,1074,1101]" class="Insecta" family="Melyridae" genus="Pectinus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E344797C38E3F022" bold="true" box="[1144,1246,1074,1100]" italics="true" pageId="8" pageNumber="9">Pectinus</emphasis>
+Evers, 1987
+</taxonomicName>
+)
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817918394AF14E" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817918394AF14E" pageId="8" pageNumber="9">
+– Anterior tibiae deeply emarginate in apical quarter, apical margin of anterior and intermediate legs surrounded with pectinate setae similar to that in tarsal comb; intermediate tibiae slightly widened, not stout, with longitudinal groove within, pronotum with protuberance in basal half, forehead bituberculate, metathorax slightly swollen and impressed in the middle with two appendages, one lamellate transverse above, and the other appendage longitudinal with vertical round semi-transparent lamellate apex below, elytra not covering two apical segments of the abdomen ................ 
+<taxonomicName id="4C4A7BDDA84DFFF1E4DE784B3935F14E" authority="Tshernyshev" authorityName="Tshernyshev" authorityYear="2021" box="[994,1288,1285,1312]" class="Insecta" family="Melyridae" genus="Pectotibialis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus" status="gen. nov.">
+<emphasis id="B93EDC4CA84DFFF1E4DE784B384FF14E" bold="true" box="[994,1138,1285,1312]" italics="true" pageId="8" pageNumber="9">Pectotibialis</emphasis>
+Tshernyshev
+</taxonomicName>
+<taxonomicNameLabel id="A20D6137A84DFFF1E2337848394AF14E" box="[1295,1399,1286,1312]" pageId="8" pageNumber="9" rank="genus">gen. nov.</taxonomicNameLabel>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817867394BF1C3" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817867394BF108" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817867394BF108" pageId="8" pageNumber="9">21. Anterior tibiae strongly modified, deeply emarginated with lamellate processes, inner spurs of the anterior legs modified, antenna flabellate or filiform .............................................................................22</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E781783E394BF1C3" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E781783E394BF1C3" pageId="8" pageNumber="9">– Anterior tibiae slightly widened or weakly emarginate, simple, spurs short and simple, antenna filiform .....................................................................................................................................................23</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E78178F8394AF287" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E78178F8394AF233" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E78178F8394AF233" pageId="8" pageNumber="9">
+22. 1 
+<superScript id="7C3FAD16A84DFFF1E7C578FB3D39F1AD" attach="left" box="[249,260,1461,1475]" fontSize="6" pageId="8" pageNumber="9">st</superScript>
+tarsomere in anterior legs enlarged and compressed, leaf-shaped, dorsally with a row of golden hairs forming a tuft, 2 
+<superScript id="7C3FAD16A84DFFF1E69278963D82F188" attach="left" box="[430,447,1496,1510]" fontSize="6" pageId="8" pageNumber="9">nd</superScript>
+tarsomere very short, almost completely covered by the vane-shape longitudinal comb, anterior tibiae strongly emarginate, with a stretched apex bearing enlarged hook-like spur, intermediate tibiae strongly widened and modified, emarginate within and possessing a row of long hairs inside the emargination, antennae flabellate ................................. 
+<taxonomicName id="4C4A7BDDA84DFFF1E3307B0C394AF233" authority="Bourgeois, 1908" authorityName="Bourgeois" authorityYear="1908" box="[1036,1399,1602,1629]" class="Insecta" family="Melyridae" genus="Hapalochrops" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E3307B0C388EF233" bold="true" box="[1036,1203,1602,1629]" italics="true" pageId="8" pageNumber="9">Hapalochrops</emphasis>
+Bourgeois, 1908
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817B28394AF287" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817B28394AF287" pageId="8" pageNumber="9">
+– 1 
+<superScript id="7C3FAD16A84DFFF1E7C57B2B3D39F21D" attach="left" box="[249,260,1637,1651]" fontSize="6" pageId="8" pageNumber="9">st</superScript>
+tarsomere in anterior legs slightly enlarged and swollen, round-quadrate, 2 
+<superScript id="7C3FAD16A84DFFF1E36D7B2B385FF21D" attach="left" box="[1105,1122,1637,1651]" fontSize="6" pageId="8" pageNumber="9">nd</superScript>
+tarsomere with a simple short comb above, outer spur in anterior tibiae long and strong, thorn-like, intermediate tibiae with deep emargination in apical quarter, and a long narrow appendage bearing hair tuft in apex of inner side of the emargination, antennae filiform ........................................................ 
+<emphasis id="B93EDC4CA84DFFF1E3367B8138A6F284" bold="true" box="[1034,1179,1743,1770]" italics="true" pageId="8" pageNumber="9">Tibipectinus</emphasis>
+Tshernyshev, 2020
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF1E7817BBD394BF318" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817BBD394AF35E" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817BBD394AF35E" pageId="8" pageNumber="9">
+23. Anterior tibiae weakly widened distally, not emarginate, intermediate tibiae widened in apical half and sulcate in the middle of inner side, lacking emarginations ................. 
+<emphasis id="B93EDC4CA84DFFF1E4CB7A5838A6F35E" bold="true" box="[1015,1179,1814,1840]" italics="true" pageId="8" pageNumber="9">Protopectinus</emphasis>
+Tshernyshev, 2020
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84DFFF1E7817A77394BF318" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817A77394BF318" pageId="8" pageNumber="9">– Anterior tibiae weakly emarginate in dorsal or ventral side, intermediate tibiae stout and emarginate or thin and not emarginate ..........................................................................................................................24</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="30BE18FBA84DFFF0E7817A31394AF528" lastPageId="9" lastPageNumber="10" pageId="8" pageNumber="9">
+<paragraph id="8BF5005EA84DFFF1E7817A31394AF38F" blockId="8.[189,1401,264,2017]" pageId="8" pageNumber="9">
+<keyLead id="30BBA36BA84DFFF1E7817A31394AF38F" pageId="8" pageNumber="9">
+24. Anterior tibiae emarginate in dorsal side, intermediate tibiae strongly dilate and convex, with triangular perpendicular process in a middle of inner side and strongly emarginate beneath it ..................................................................................................................... 
+<taxonomicName id="4C4A7BDDA84DFFF1E3097A8B394AF38F" authority="Kraatz, 1895" authorityName="Kraatz" authorityYear="1895" box="[1077,1399,1989,2017]" class="Insecta" family="Melyridae" genus="Hadrocnemus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84DFFF1E3097A8B38E0F38E" bold="true" box="[1077,1245,1989,2016]" italics="true" pageId="8" pageNumber="9">Hadrocnemus</emphasis>
+Kraatz, 1895
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="8BF5005EA84CFFF0E7817C47394AF528" blockId="9.[189,1399,265,327]" pageId="9" pageNumber="10">
+<keyLead id="30BBA36BA84CFFF0E7817C47394AF528" pageId="9" pageNumber="10">
+– Anterior tibiae emarginate in ventral side, intermediate tibiae not widened and with a row of long erect thin hairs on inner side ................................................................................... 
+<taxonomicName id="4C4A7BDDA84CFFF0E3037C62394AF528" authority="Evers, 1988" authorityName="Evers" authorityYear="1988" box="[1087,1399,300,327]" class="Insecta" family="Melyridae" genus="Setapalochrus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="9" pageNumber="10" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EDC4CA84CFFF0E3037C6238D5F529" bold="true" box="[1087,1256,300,327]" italics="true" pageId="9" pageNumber="10">Setapalochrus</emphasis>
+Evers, 1988
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+</key>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

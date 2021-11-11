@@ -1,0 +1,465 @@
+<document id="9D28F73065A6699486B2DBF629DD097D" ID-DOI="http://doi.org/10.5281/zenodo.5570650" ID-GBIF-Dataset="b65bb5a9-bbe7-49a4-af44-4b4c03121288" ID-GBIF-Taxon="188640161" ID-ISSN="2118-9773" ID-Zenodo-Dep="5570650" ID-ZooBank="9B82A32F-0A07-47E3-8684-FED7C8EBF1E9" _generate="added" approvalRequired="1" approvalRequired_for_taxonomicNames="1" checkinTime="1632919496065" checkinUser="felipe" docAuthor="Miranda, Gustavo Silva de, Giupponi, Alessandro P. L., Prendini, Lorenzo &amp; Scharff, Nikolaj" docDate="2021" docId="8F431375FF7FFF34A69CFA7BFAB1D823" docLanguage="en" docName="ejt-772_1-409.pdf" docOrigin="European Journal of Taxonomy 772" docSource="http://dx.doi.org/10.5852/ejt.2021.772.1505" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Sarax stygochthobius Miranda &amp; Giupponi &amp; Prendini &amp; Scharff 2021, comb. nov." docType="treatment" docVersion="9" lastPageId="231" lastPageNumber="233" masterDocId="737A6B0DFF99FFD3A710FFEFFFC6DC01" masterDocTitle="Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)" masterLastPageNumber="409" masterPageNumber="1" pageId="230" pageNumber="231" updateTime="1634326509471" updateUser="admin" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="849C621A9AD2200EF72F5B85EBF8E077" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6F0315D9C32D00A678496D0A2F56D76C">
+<mods:title id="635CD42F7D08FE6DB3FD5F1505C016B7">Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)</mods:title>
+</mods:titleInfo>
+<mods:name id="3024144E6C1D929225F86A8BD061ACA9" type="personal">
+<mods:role id="AF1BAE0E63207E98A0920E7FC6C6BCB3">
+<mods:roleTerm id="D78F4E4C35BD73BF590FB6C7F54A81F0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3E0444C37E07C55435A8991D75DCAD0B">Miranda, Gustavo Silva de</mods:namePart>
+<mods:nameIdentifier id="5C295095ECAF5C74C93047AE55130B95" type="LSID">81150D94-592A-4CE5-8E88-E60F557A4341</mods:nameIdentifier>
+<mods:affiliation id="3BC98E3A23338BEA6DCA158E8144B81D">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA.</mods:affiliation>
+<mods:nameIdentifier id="B739999438E82AC3DE5B41828B9BC57F" type="email">smiranda.gustavo@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C8C30F16B814DFBC35DE4AB1ECA232E" type="personal">
+<mods:role id="DB65269BE184056DCF3D6DC4E3B4BE65">
+<mods:roleTerm id="7378BD3608C40CEDA55FCE3F09B7FDA0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF9E419279D0C23D2BEDD1E7170219A6">Giupponi, Alessandro P. L.</mods:namePart>
+<mods:nameIdentifier id="85B9AB7862FDCE1CC8C5E5E5EF2B7586" type="LSID">434112AC-B212-43E8-A5D9-2F5D5619AFC4</mods:nameIdentifier>
+<mods:affiliation id="AD25E4D8D36F8E58B33190C5B47947A0">Laboratório de Referência Nacional em Vetores das Riquetsioses, LIRN-IOC-FIOCRUZ, Rio de Janeiro, RJ, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="034FE289AB42F88F73D1C724E183D1CE" type="email">agiupponi@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="9AE48BE260C0DB82995D54A291A5A360" type="personal">
+<mods:role id="AF071F9D7C4C3558F254AAA944FB6B94">
+<mods:roleTerm id="95593BF8545D32083D5EBFB5F8657C0D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D0384FC037B98BFEE0C5AC6BD0B0F284">Prendini, Lorenzo</mods:namePart>
+<mods:nameIdentifier id="16BBA0B24AD250333F94FA4599B1957E" type="LSID">C2D080D0-75DB-4DA1-A101-AB4DCF50FF0A</mods:nameIdentifier>
+<mods:affiliation id="44B235B731EFC89F84E9F721BC7A323E">Arachnology Lab, Division of Invertebrate Zoology, American Museum of Natural History, New York, NY, USA.</mods:affiliation>
+<mods:nameIdentifier id="795C7559A87CB1981B543B81FC179353" type="email">lorenzo@amnh.org</mods:nameIdentifier>
+</mods:name>
+<mods:name id="24ACBF0B6FB867B351FC9A9921090184" type="personal">
+<mods:role id="75E13D290D94745F8800AF2071ECF1FD">
+<mods:roleTerm id="31D35068697DA3AD1C08FF882BE3D95A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6E537D22836446B9CD9CF8051F7B58F3">Scharff, Nikolaj</mods:namePart>
+<mods:nameIdentifier id="8F851A0E2B3747895F060004D9BD53C4" type="LSID">F84D2235-66D2-460C-820D-80024068759D</mods:nameIdentifier>
+<mods:affiliation id="3A3679BE45AEA93DC559511AF98B6CA2">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. &amp; Zoology Section, Natural History Museum of Denmark, University of Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="78CE1E61BF08802909D23A74B6F784C5" type="email">nscharff@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="BC44797C4B37D35BF6E89793BFE05F3D">text</mods:typeOfResource>
+<mods:relatedItem id="BB19FC59BA7EBCA1E4348F6CC75510B3" type="host">
+<mods:titleInfo id="E2CFA0EDF088F7264E35F6B87E7BFE0F">
+<mods:title id="87F7486C638650D25574D7C9D3CBE98A">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="532CF20468CEB64C40C25A4072E1444D">
+<mods:date id="114ECDDEAF097F929BDCD6C755BF410D">2021</mods:date>
+<mods:detail id="13D220A9D0F2062650ADB5A6E6D30979" type="pubDate">
+<mods:number id="6983E6CB30331CCE4D73242DC0D6BFC0">2021-09-24</mods:number>
+</mods:detail>
+<mods:detail id="7284CB861DD8CF06DC0FEC6AC3E6A721" type="volume">
+<mods:number id="92104A9B986DCC38504F4EB2664822C5">772</mods:number>
+</mods:detail>
+<mods:extent id="3E4D4BB31EC70E72606B34F41EDC1FB2" unit="page">
+<mods:start id="49A2F4056EFAC078F1F9B2B4CBD36465">1</mods:start>
+<mods:end id="A330845D6F0537691170EAC7425F8B63">409</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="E2FEBB7E27445347CCA6A439EFC50882">
+<mods:url id="96F20F6E019633DC6BB36C9DBCDBC7F7">http://dx.doi.org/10.5852/ejt.2021.772.1505</mods:url>
+</mods:location>
+<mods:classification id="060AC649B5D9EF7C3D7A5451BD6F7AE0">journal article</mods:classification>
+<mods:identifier id="6BC38096942C22F08C2DC9124BB9B280" type="DOI">https://doi.org/10.5852/ejt.2021.772.1505</mods:identifier>
+<mods:identifier id="C742F10D3C0C2E19C1FD6D4D4CD00E66" type="GBIF-Dataset">b65bb5a9-bbe7-49a4-af44-4b4c03121288</mods:identifier>
+<mods:identifier id="32D9A4CF5544CFB1830C6ECCBA548637" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="BFF5F3E6854803584C49EFEB732CB21E" type="Zenodo-Dep">5536410</mods:identifier>
+<mods:identifier id="2832035B6E6C723FE49FA33A3739B38C" type="ZooBank">9B82A32F-0A07-47E3-8684-FED7C8EBF1E9</mods:identifier>
+</mods:mods>
+<treatment id="8F431375FF7FFF34A69CFA7BFAB1D823" ID-DOI="http://doi.org/10.5281/zenodo.5570650" ID-GBIF-Taxon="188640161" ID-Zenodo-Dep="5570650" LSID="urn:lsid:plazi:treatment:8F431375FF7FFF34A69CFA7BFAB1D823" httpUri="http://treatment.plazi.org/id/8F431375FF7FFF34A69CFA7BFAB1D823" lastPageId="231" lastPageNumber="233" pageId="230" pageNumber="231">
+<subSubSection id="4FF0F1E8FF7FFF35A69CFA7BFB6ED9AE" box="[396,1192,1428,1455]" pageId="230" pageNumber="231" type="nomenclature">
+<paragraph id="0755A263FF7FFF35A69CFA7BFB6ED9AE" blockId="230.[396,1192,1428,1490]" box="[396,1192,1428,1455]" pageId="230" pageNumber="231">
+<heading id="5C1D150FFF7FFF35A69CFA7BFB6ED9AE" box="[396,1192,1428,1455]" centered="true" fontSize="11" level="2" pageId="230" pageNumber="231" reason="2">
+<taxonomicName id="C0EAD9E0FF7FFF35A69CFA7BFBD9D9AF" authority="(Weygoldt &amp; Van Damme, 2004)" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" baseAuthorityName="Weygoldt &amp; Van Damme" baseAuthorityYear="2004" box="[396,1055,1428,1455]" class="Arachnida" family="Charinidae" genus="Sarax" kingdom="Animalia" order="Amblypygi" pageId="230" pageNumber="231" phylum="Arthropoda" rank="species" species="stygochthobius" status="comb. nov.">
+<emphasis id="359E7E71FF7FFF35A69CFA7BFD55D9AE" bold="true" box="[396,659,1428,1455]" italics="true" pageId="230" pageNumber="231">Sarax stygochthobius</emphasis>
+(
+<bibRefCitation id="637BDF92FF7FFF35A5B2FA7BFBD1D9AF" author="Weygoldt &amp; Van Damme" box="[674,1047,1428,1455]" firstAuthor="Weygoldt" pageId="230" pageNumber="231" pagination="327 - 334" refId="ref156483" refString="Weygoldt P. &amp; Van Damme K. 2004. A new troglomorphic whip spider of the genus Charinus (Amblypygi: Charinidae) from Socotra Island. Fauna of Arabia 20: 327 - 334." type="journal article" year="2004">Weygoldt &amp; Van Damme, 2004</bibRefCitation>
+)
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFF7FFF35A337FA7BFB6ED9AE" box="[1063,1192,1428,1455]" pageId="230" pageNumber="231" rank="species">comb. nov.</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7FFF35A587FA57FC5BD9D3" box="[663,925,1463,1490]" pageId="230" pageNumber="231" type="description">
+<paragraph id="0755A263FF7FFF35A587FA57FC5BD9D3" blockId="230.[396,1192,1428,1490]" box="[663,925,1463,1490]" pageId="230" pageNumber="231">
+<figureCitation id="9FD1BEE6FF7FFF35A587FA57FD38D9D3" box="[663,766,1463,1490]" captionStart="Fig" captionStartId="390.[189,232,1237,1263]" captionTargetBox="[192,1396,268,1195]" captionTargetId="figure-21@390.[189,1398,265,1198]" captionTargetPageId="390" captionText="Fig. 135. Map plotting known distributions of species of Sarax Simon, 1892 in Africa, the Middle East and South Asia." figureDoi="http://doi.org/10.5281/zenodo.5536776" httpUri="https://zenodo.org/record/5536776/files/figure.png" pageId="230" pageNumber="231">Figs 135</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FF7FFF35A41BFA57FCFCD9D3" box="[779,826,1464,1490]" captionStart="Fig" captionStartId="404.[189,231,1611,1637]" captionTargetBox="[189,1398,265,1578]" captionTargetId="figure-51@404.[189,1399,265,1578]" captionTargetPageId="404" captionText="Fig. 149. Sarax stygochthobius(Weygoldt &amp;Van Damme, 2004) comb.nov.(HLMD EA–172–HT), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, D–E = 1 mm; C = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536827" httpUri="https://zenodo.org/record/5536827/files/figure.png" pageId="230" pageNumber="231">149</figureCitation>
+; 
+<tableCitation id="4A6897D8FF7FFF35A456FA57FC5BD9D3" box="[838,925,1464,1490]" captionStart="Table 9" captionStartId="213.[181,251,576,605]" captionTargetId="graphics-0@213.[181,1934,690,1746]" captionTargetPageId="213" captionText="Table 9 (continued on next page). Measurements of all African, Middle Eastern and South Asian Sarax Simon, 1892." pageId="230" pageNumber="231">Table 9</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7FFF35A7ADFA16FB81DA12" box="[189,1095,1529,1556]" pageId="230" pageNumber="231" type="reference_group">
+<paragraph id="0755A263FF7FFF35A7ADFA16FB81DA12" blockId="230.[189,1095,1529,1556]" box="[189,1095,1529,1556]" pageId="230" pageNumber="231">
+<treatmentCitationGroup id="27FA854DFF7FFF35A7ADFA16FB81DA12" box="[189,1095,1529,1556]" pageId="230" pageNumber="231">
+<treatmentCitation id="864B8472FF7FFF35A7ADFA16FC10DA12" author="Weygoldt P. &amp; Van Damme K." box="[189,982,1529,1556]" page="331" pageId="230" pageNumber="231" year="2004">
+<taxonomicName id="C0EAD9E0FF7FFF35A7ADFA16FC10DA12" authority="Weygoldt &amp; Van Damme, 2004: 328 - 331" authorityName="Weygoldt &amp; Van Damme" authorityPageNumber="328 - 331" authorityYear="2004" box="[189,982,1529,1556]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="230" pageNumber="231" phylum="Arthropoda" rank="species" species="stygochthobius">
+<emphasis id="359E7E71FF7FFF35A7ADFA16FE23DA12" box="[189,485,1529,1555]" italics="true" pageId="230" pageNumber="231">Charinus stygochthobius</emphasis>
+<bibRefCitation id="637BDF92FF7FFF35A6FCFA16FC10DA12" author="Weygoldt &amp; Van Damme" box="[492,982,1529,1556]" firstAuthor="Weygoldt" page="328 - 331" pageId="230" pageNumber="231" pagination="327 - 334" refId="ref156483" refString="Weygoldt P. &amp; Van Damme K. 2004. A new troglomorphic whip spider of the genus Charinus (Amblypygi: Charinidae) from Socotra Island. Fauna of Arabia 20: 327 - 334." type="journal article" year="2004">Weygoldt &amp; Van Damme, 2004: 328–331</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, figs 1–8.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7FFF35A7ADF9D5FC81DB35" pageId="230" pageNumber="231" type="diagnosis">
+<paragraph id="0755A263FF7FFF35A7ADF9D5FEF0DA55" blockId="230.[189,310,1594,1620]" box="[189,310,1594,1620]" pageId="230" pageNumber="231">
+<heading id="5C1D150FFF7FFF35A7ADF9D5FEF0DA55" bold="true" box="[189,310,1594,1620]" fontSize="11" level="3" pageId="230" pageNumber="231" reason="3">
+<emphasis id="359E7E71FF7FFF35A7ADF9D5FEF0DA55" bold="true" box="[189,310,1594,1620]" pageId="230" pageNumber="231">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7FFF35A7ADF986FC81DB35" blockId="230.[189,1400,1641,1844]" pageId="230" pageNumber="231">
+Based on 
+<bibRefCitation id="637BDF92FF7FFF35A63FF986FD6BDA85" author="Weygoldt &amp; Van Damme" box="[303,685,1641,1668]" firstAuthor="Weygoldt" pageId="230" pageNumber="231" pagination="327 - 334" refId="ref156483" refString="Weygoldt P. &amp; Van Damme K. 2004. A new troglomorphic whip spider of the genus Charinus (Amblypygi: Charinidae) from Socotra Island. Fauna of Arabia 20: 327 - 334." type="journal article" year="2004">
+Weygoldt &amp; 
+<collectingRegion id="C52E6C81FF7FFF35A6D5F985FE35DA85" box="[453,499,1642,1668]" country="Turkey" name="Van" pageId="230" pageNumber="231">Van</collectingRegion>
+Damme (2004)
+</bibRefCitation>
+, this small species resembles 
+<taxonomicName id="C0EAD9E0FF7FFF35A318F985FB61DA82" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" baseAuthorityName="Weygoldt, Pohl &amp; Polak" baseAuthorityYear="2002" box="[1032,1191,1642,1668]" class="Arachnida" family="Charinidae" genus="Sarax" kingdom="Animalia" order="Amblypygi" pageId="230" pageNumber="231" phylum="Arthropoda" rank="species" species="socotranus" status="comb. nov.">
+<emphasis id="359E7E71FF7FFF35A318F985FB61DA82" box="[1032,1191,1642,1668]" italics="true" pageId="230" pageNumber="231">S. socotranus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFF7FFF35A3BDF986FAE8DA85" box="[1197,1326,1641,1668]" pageId="230" pageNumber="231" rank="species">comb. nov.</taxonomicNameLabel>
+in the similar genitalia, the leg basitibia with only two articles, and the similar arrangement of trichobothria on leg IV. It differs from 
+<taxonomicName id="C0EAD9E0FF7FFF35A6FDF95EFD4BDACB" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" baseAuthorityName="Weygoldt, Pohl &amp; Polak" baseAuthorityYear="2002" box="[493,653,1713,1739]" class="Arachnida" family="Charinidae" genus="Sarax" kingdom="Animalia" order="Amblypygi" pageId="230" pageNumber="231" phylum="Arthropoda" rank="species" species="socotranus" status="comb. nov.">
+<emphasis id="359E7E71FF7FFF35A6FDF95EFD4BDACB" box="[493,653,1713,1739]" italics="true" pageId="230" pageNumber="231">S. socotranus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFF7FFF35A586F95FFCDFDACA" box="[662,793,1712,1739]" pageId="230" pageNumber="231" rank="species">comb. nov.</taxonomicNameLabel>
+in the extreme level of troglomorphism, including complete loss of eyes (
+<figureCitation id="9FD1BEE6FF7FFF35A6C8F93CFDBADAEF" box="[472,636,1747,1774]" captionStart="Fig" captionStartId="404.[189,231,1611,1637]" captionTargetBox="[189,1398,265,1578]" captionTargetId="figure-51@404.[189,1399,265,1578]" captionTargetPageId="404" captionText="Fig. 149. Sarax stygochthobius(Weygoldt &amp;Van Damme, 2004) comb.nov.(HLMD EA–172–HT), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, D–E = 1 mm; C = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536827" httpUri="https://zenodo.org/record/5536827/files/figure.png" pageId="230" pageNumber="231">Fig. 149A, C</figureCitation>
+), elongate legs and structures such as the trochanter apophysis (
+<figureCitation id="9FD1BEE6FF7FFF35A7D6F918FEA2DB10" box="[198,356,1783,1809]" captionStart="Fig" captionStartId="404.[189,231,1611,1637]" captionTargetBox="[189,1398,265,1578]" captionTargetId="figure-51@404.[189,1399,265,1578]" captionTargetPageId="404" captionText="Fig. 149. Sarax stygochthobius(Weygoldt &amp;Van Damme, 2004) comb.nov.(HLMD EA–172–HT), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, D–E = 1 mm; C = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536827" httpUri="https://zenodo.org/record/5536827/files/figure.png" pageId="230" pageNumber="231">Fig. 149A, E</figureCitation>
+). The sternum setation is typical (
+<figureCitation id="9FD1BEE6FF7FFF35A5E6F918FCB7DB10" box="[758,881,1783,1809]" captionStart="Fig" captionStartId="404.[189,231,1611,1637]" captionTargetBox="[189,1398,265,1578]" captionTargetId="figure-51@404.[189,1399,265,1578]" captionTargetPageId="404" captionText="Fig. 149. Sarax stygochthobius(Weygoldt &amp;Van Damme, 2004) comb.nov.(HLMD EA–172–HT), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, D–E = 1 mm; C = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536827" httpUri="https://zenodo.org/record/5536827/files/figure.png" pageId="230" pageNumber="231">Fig. 149B</figureCitation>
+). The pedipalps of preserved specimens are turned upwards, with the femora held almost vertically.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7FFF35A7ADF8B3FA82DBE9" pageId="230" pageNumber="231" type="etymology">
+<paragraph id="0755A263FF7FFF35A7ADF8B3FE82DB77" blockId="230.[189,324,1884,1910]" box="[189,324,1884,1910]" pageId="230" pageNumber="231">
+<heading id="5C1D150FFF7FFF35A7ADF8B3FE82DB77" bold="true" box="[189,324,1884,1910]" fontSize="11" level="3" pageId="230" pageNumber="231" reason="3">
+<emphasis id="359E7E71FF7FFF35A7ADF8B3FE82DB77" bold="true" box="[189,324,1884,1910]" pageId="230" pageNumber="231">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7FFF35A7ADF866FA82DBE9" blockId="230.[189,1398,1929,2025]" pageId="230" pageNumber="231">
+The species name is combination of the Greek words ‘ 
+<emphasis id="359E7E71FF7FFF35A45FF865FC4BDBA2" box="[847,909,1930,1955]" italics="true" pageId="230" pageNumber="231">stygo</emphasis>
+’, referring to the Styx, the main river of the underworld, according to the Greek mythology, ‘ 
+<emphasis id="359E7E71FF7FFF35A437F843FCB3DBC7" box="[807,885,1964,1990]" italics="true" pageId="230" pageNumber="231">ochthy</emphasis>
+’, meaning ‘riverbank’, and ‘ 
+<emphasis id="359E7E71FF7FFF35A3D8F843FB3FDBC7" box="[1224,1273,1964,1990]" italics="true" pageId="230" pageNumber="231">bios</emphasis>
+’, meaning ‘life’, all together meaning ‘living on the banks of the river Styx’ (
+<bibRefCitation id="637BDF92FF7FFF35A4D6F821FAF1DBE9" author="Weygoldt &amp; Van Damme" box="[966,1335,1998,2025]" firstAuthor="Weygoldt" pageId="230" pageNumber="231" pagination="327 - 334" refId="ref156483" refString="Weygoldt P. &amp; Van Damme K. 2004. A new troglomorphic whip spider of the genus Charinus (Amblypygi: Charinidae) from Socotra Island. Fauna of Arabia 20: 327 - 334." type="journal article" year="2004">
+Weygoldt &amp; 
+<collectingRegion id="C52E6C81FF7FFF35A34EF820FB4ADBE8" box="[1118,1164,1999,2025]" country="Turkey" name="Van" pageId="230" pageNumber="231">Van</collectingRegion>
+Damme 2004
+</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFEE6FC04DE2D" pageId="231" pageNumber="232" type="materials_examined">
+<paragraph id="0755A263FF7EFF34A7ADFEE6FEAADD23" blockId="231.[189,364,264,291]" box="[189,364,264,291]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFEE6FEAADD23" bold="true" box="[189,364,264,291]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFEE6FEAADD23" bold="true" box="[189,364,264,291]" pageId="231" pageNumber="232">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7FAFED6FC39DD9F" blockId="231.[189,1398,313,414]" pageId="231" pageNumber="232">
+<materialsCitation id="B782A83EFF7EFF34A7FAFED6FC39DD9F" ID-GBIF-Occurrence="3383566059" collectionCode="HLMD" collectorName="K. van Damme" country="Yemen" county="Ghiniba Cave" elevation="400" latitude="12.434112" location="Socotra Island" longLatPrecision="1" longitude="53.936695" municipality="Shebehan Plateau" pageId="231" pageNumber="232" specimenCode="EA-172-HT" specimenCount="1" specimenCount-male="1" typeStatus="holotype">
+<emphasis id="359E7E71FF7EFF34A7FAFED6FE9ADD52" bold="true" box="[234,348,313,339]" pageId="231" pageNumber="232">
+<typeStatus id="D8511CC1FF7EFF34A7FAFED6FE9ADD52" box="[234,348,313,339]" pageId="231" pageNumber="232">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FF7EFF34A7ADFEB0FEE3DD78" box="[189,293,351,377]" name="Yemen" pageId="231" pageNumber="232">YEMEN</collectingCountry>
+• 
+<specimenCount id="11EC69EAFF7EFF34A65CFEB0FEA3DD78" box="[332,357,351,377]" pageId="231" pageNumber="232" type="male">♂</specimenCount>
+; 
+<location id="0235F4B8FF7EFF34A668FEB0FDEDDD79" LSID="urn:lsid:plazi:treatment:8F431375FF7FFF34A69CFA7BFAB1D823:0235F4B8FF7EFF34A668FEB0FDEDDD79" box="[376,555,350,377]" country="Yemen" county="Ghiniba Cave" latitude="12.434112" longLatPrecision="1" longitude="53.936695" municipality="Shebehan Plateau" name="Socotra Island" pageId="231" pageNumber="232">Socotra Island</location>
+, 
+<collectingMunicipality id="E7313819FF7EFF34A52DFEB1FCD1DD79" box="[573,791,350,376]" pageId="231" pageNumber="232">Shebehan Plateau</collectingMunicipality>
+, 
+<collectingCounty id="EE34DAEFFF7EFF34A43AFEB1FC10DD78" box="[810,982,350,377]" pageId="231" pageNumber="232">Ghiniba Cave</collectingCounty>
+; [
+<geoCoordinate id="62DEC4A4FF7EFF34A4E0FEB2FB63DD78" box="[1008,1189,349,377]" degrees="12" direction="north" minutes="26" orientation="latitude" pageId="231" pageNumber="232" precision="1" seconds="02.8" value="12.434112">12°26′02.8″ N</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FF7EFF34A3A8FEB2FAAFDD78" box="[1208,1385,349,377]" degrees="53" direction="east" minutes="56" orientation="longitude" pageId="231" pageNumber="232" precision="1" seconds="12.1" value="53.936695">53°56′12.1″ E</geoCoordinate>
+]; 
+<elevation id="8CC74550FF7EFF34A7ADFE6BFE81DD9F" box="[189,327,388,414]" metricMagnitude="2" metricUnit="m" metricValue="4.0" pageId="231" pageNumber="232" unit="m" value="400.0">
+<quantity id="C0120F86FF7EFF34A7ADFE6BFEC1DD9F" box="[189,263,388,414]" metricMagnitude="2" metricUnit="m" metricValue="4.0" pageId="231" pageNumber="232" unit="m" value="400.0">400 m</quantity>
+a.s.l.
+</elevation>
+; 
+<collectorName id="AA1FC7B5FF7EFF34A645FE6BFDC1DD9F" box="[341,519,388,414]" pageId="231" pageNumber="232">K. van Damme</collectorName>
+leg.; 
+<collectionCode id="61FB3AA6FF7EFF34A559FE6BFD59DD9F" box="[585,671,388,414]" collectionName="Germany, Darmstadt, Hessisches Landesmuseum Darmstadt" pageId="231" pageNumber="232">HLMD</collectionCode>
+<specimenCode id="574C0A18FF7EFF34A5B7FE6BFCFBDD9F" box="[679,829,388,414]" pageId="231" pageNumber="232">EA–172–HT</specimenCode>
+[not examined].
+</materialsCitation>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7FAFE27FC04DE2D" blockId="231.[189,1398,456,557]" pageId="231" pageNumber="232">
+<materialsCitation id="B782A83EFF7EFF34A7FAFE27FAA1DE06" ID-GBIF-Occurrence="3383565980" collectionCode="HLMD" collectorName="K. van Damme" country="Yemen" county="Ghiniba Cave" elevation="400" latitude="12.434112" location="YEMEN" longLatPrecision="1" longitude="53.936695" municipality="Shebehan Plateau" pageId="231" pageNumber="232" specimenCode="HLMD-EA-172-PT1- PT3" specimenCount="3" specimenCount-female="2" specimenCount-male="1" typeStatus="paratype">
+<emphasis id="359E7E71FF7EFF34A7FAFE27FEA1DDE3" bold="true" box="[234,359,456,482]" pageId="231" pageNumber="232">
+<typeStatus id="D8511CC1FF7EFF34A7FAFE27FEA1DDE3" box="[234,359,456,482]" pageId="231" pageNumber="232">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FF7EFF34A7ADFE02FEE3DE06" box="[189,293,493,519]" name="Yemen" pageId="231" pageNumber="232">YEMEN</collectingCountry>
+• 
+<specimenCount id="11EC69EAFF7EFF34A62AFE02FEBDDE06" box="[314,379,493,519]" pageId="231" pageNumber="232" type="female">2 ♀♀</specimenCount>
+, 
+<specimenCount id="11EC69EAFF7EFF34A696FE02FE75DE06" box="[390,435,493,519]" pageId="231" pageNumber="232" type="male">1 ♂</specimenCount>
+; same collection data as for holotype; 
+<specimenCode id="574C0A18FF7EFF34A477FE02FB77DE06" box="[871,1201,493,519]" pageId="231" pageNumber="232">HLMD–EA–172–PT1– PT3</specimenCode>
+[not examined]
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFF7EFF34A7ADFDFDFC79DE2D" ID-GBIF-Occurrence="3383565602" box="[189,959,529,557]" collectionCode="NHCY" collectorName="K. van Damme" country="Yemen" county="Ghiniba Cave" elevation="400" latitude="12.434112" location="Socotra Island" longLatPrecision="1" longitude="53.936695" municipality="Shebehan Plateau" pageId="231" pageNumber="232" specimenCount="1" specimenCount-male="1" typeStatus="paratype">
+<specimenCount id="11EC69EAFF7EFF34A7ADFDFDFF2ADE2C" box="[189,236,530,557]" pageId="231" pageNumber="232" type="male">1 ♂</specimenCount>
+; same collection data as for holotype; 
+<collectionCode id="61FB3AA6FF7EFF34A5BFFDFDFCC7DE2D" box="[687,769,530,556]" collectionName="NHCY" pageId="231" pageNumber="232">NHCY</collectionCode>
+[not examined]
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFDB9FE8BDEA1" box="[189,373,598,672]" pageId="231" pageNumber="232" type="description">
+<paragraph id="0755A263FF7EFF34A7ADFDB9FEB3DE71" blockId="231.[189,373,598,624]" box="[189,373,598,624]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFDB9FEB3DE71" bold="true" box="[189,373,598,624]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFDB9FEB3DE71" bold="true" box="[189,373,598,624]" pageId="231" pageNumber="232">Measurements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFD69FE8BDEA1" blockId="231.[189,333,646,672]" box="[189,333,646,672]" pageId="231" pageNumber="232">
+See 
+<tableCitation id="4A6897D8FF7EFF34A7FEFD69FE81DEA1" box="[238,327,646,672]" captionStart="Table 9" captionStartId="213.[181,251,576,605]" captionTargetId="graphics-0@213.[181,1934,690,1746]" captionTargetPageId="213" captionText="Table 9 (continued on next page). Measurements of all African, Middle Eastern and South Asian Sarax Simon, 1892." pageId="231" pageNumber="232">Table 9</tableCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFD25FD9FDF15" box="[189,601,714,789]" pageId="231" pageNumber="232" type="distribution">
+<paragraph id="0755A263FF7EFF34A7ADFD25FE90DEE5" blockId="231.[189,342,714,740]" box="[189,342,714,740]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFD25FE90DEE5" bold="true" box="[189,342,714,740]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFD25FE90DEE5" bold="true" box="[189,342,714,740]" pageId="231" pageNumber="232">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFD14FD9FDF15" blockId="231.[189,601,762,789]" box="[189,601,762,789]" pageId="231" pageNumber="232">
+Known only from the 
+<typeStatus id="D8511CC1FF7EFF34A6D2FD14FE33DF14" box="[450,501,763,789]" pageId="231" pageNumber="232">type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFCD1FDFBDF88" pageId="231" pageNumber="232" type="biology_ecology">
+<paragraph id="0755A263FF7EFF34A7ADFCD1FEB8DF59" blockId="231.[189,382,830,856]" box="[189,382,830,856]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFCD1FEB8DF59" bold="true" box="[189,382,830,856]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFCD1FEB8DF59" bold="true" box="[189,382,830,856]" pageId="231" pageNumber="232">Natural history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFC80FDFBDF88" blockId="231.[189,573,879,905]" box="[189,573,879,905]" pageId="231" pageNumber="232">Inhabits a cave in an arid region.</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFC5DFC62D8A3" pageId="231" pageNumber="232" type="discussion">
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFC5DFAB1D823" pageId="231" pageNumber="232" type="discussion">
+<paragraph id="0755A263FF7EFF34A7ADFC5DFEE9DFCD" blockId="231.[189,303,946,972]" box="[189,303,946,972]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFC5DFEE9DFCD" bold="true" box="[189,303,946,972]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFC5DFEE9DFCD" bold="true" box="[189,303,946,972]" pageId="231" pageNumber="232">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFC0CFAB1D823" blockId="231.[188,1399,995,1059]" pageId="231" pageNumber="232">
+This species was originally described in the genus 
+<taxonomicName id="C0EAD9E0FF7EFF34A41AFC0CFCB1DFFC" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[778,887,995,1021]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A41AFC0CFCB1DFFC" box="[778,887,995,1021]" italics="true" pageId="231" pageNumber="232">Charinus</emphasis>
+</taxonomicName>
+and is hereby transferred to 
+<taxonomicName id="C0EAD9E0FF7EFF34A3D4FC0CFACEDFFC" authorityName="Simon" authorityYear="1892" box="[1220,1288,995,1021]" class="Arachnida" family="Charinidae" genus="Sarax" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A3D4FC0CFACEDFFC" box="[1220,1288,995,1021]" italics="true" pageId="231" pageNumber="232">Sarax</emphasis>
+</taxonomicName>
+based on the phylogenetic analyses of 
+<bibRefCitation id="637BDF92FF7EFF34A51DFBE7FCCCD822" author="Miranda" box="[525,778,1032,1059]" etAl="et al." firstAuthor="Miranda" pageId="231" pageNumber="232" refId="ref151478" refString="Miranda G. S., Giupponi A. P., Scharff N. &amp; Prendini L. 2021. Phylogeny and biogeography of the pantropical whip spider family Charinidae (Arachnida: Amblypygi). Zoological Journal of the Linnean Society. https: // doi. org / 10.1093 / zoolinnean / zlaa 101" type="book" year="2021">
+<collectingRegion id="C52E6C81FF7EFF34A51DFBE7FDB6D823" box="[525,624,1032,1058]" country="Venezuela" name="Miranda" pageId="231" pageNumber="232">Miranda</collectingRegion>
+<emphasis id="359E7E71FF7EFF34A567FBE6FD76D823" box="[631,688,1032,1058]" italics="true" pageId="231" pageNumber="232">et al.</emphasis>
+(2021)
+</bibRefCitation>
+. See 
+<bibRefCitation id="637BDF92FF7EFF34A454FBE7FB78D822" author="Weygoldt &amp; Van Damme" box="[836,1214,1032,1059]" firstAuthor="Weygoldt" pageId="231" pageNumber="232" pagination="327 - 334" refId="ref156483" refString="Weygoldt P. &amp; Van Damme K. 2004. A new troglomorphic whip spider of the genus Charinus (Amblypygi: Charinidae) from Socotra Island. Fauna of Arabia 20: 327 - 334." type="journal article" year="2004">
+Weygoldt &amp; 
+<collectingRegion id="C52E6C81FF7EFF34A4C8FBE6FBC0D822" box="[984,1030,1033,1059]" country="Turkey" name="Van" pageId="231" pageNumber="232">Van</collectingRegion>
+Damme (2004)
+</bibRefCitation>
+for description.
+</paragraph>
+</subSubSection>
+<treatment id="8F431375FF7EFF3BA68FFB8CFAB1DF29" ID-DOI="http://doi.org/10.5281/zenodo.5570742" ID-GBIF-Taxon="188640154" ID-Zenodo-Dep="5570742" LSID="urn:lsid:plazi:treatment:8F431375FF7FFF34A69CFA7BFAB1D823" httpUri="http://treatment.plazi.org/id/8F431375FF7FFF34A69CFA7BFAB1D823" lastPageId="232" lastPageNumber="233" pageId="231" pageNumber="232">
+<subSubSection id="4FF0F1E8FF7EFF34A68FFB8CFB53D87C" box="[415,1173,1122,1149]" pageId="231" pageNumber="232" type="nomenclature">
+<paragraph id="0755A263FF7EFF34A68FFB8CFB53D87C" blockId="231.[415,1173,1122,1187]" box="[415,1173,1122,1149]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A68FFB8CFB53D87C" box="[415,1173,1122,1149]" centered="true" fontSize="11" level="2" pageId="231" pageNumber="232" reason="2">
+Genus 
+<taxonomicName id="C0EAD9E0FF7EFF34A6E2FB8DFDB1D87C" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[498,631,1122,1149]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A6E2FB8DFDB1D87C" bold="true" box="[498,631,1122,1149]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FF7EFF34A56EFB8CFB53D87C" author="Miranda, Giupponi, Prendini &amp; Scharff" box="[638,1173,1123,1149]" firstAuthor="Miranda" pageId="231" pageNumber="232" pagination="23 - 32" refId="ref151346" refString="Miranda G. S., Giupponi A. P., Prendini L. &amp; Scharff N. 2018 a. Weygoldtia, a new genus of Charinidae Quintero, 1986 (Arachnida, Amblypygi) with a reappraisal of the genera in the family. Zoologischer Anzeiger 273: 23 - 32. https: // doi. org / 10.1016 / j. jcz. 2018.02.003" type="journal article" year="2018">
+<collectingRegion id="C52E6C81FF7EFF34A56EFB8CFD22D87C" box="[638,740,1123,1149]" country="Venezuela" name="Miranda" pageId="231" pageNumber="232">Miranda</collectingRegion>
+, Giupponi, Prendini &amp; Scharff, 2018
+</bibRefCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A59FFB67FC62D8A3" box="[655,932,1160,1187]" pageId="231" pageNumber="232" type="description">
+<paragraph id="0755A263FF7EFF34A59FFB67FC62D8A3" blockId="231.[415,1173,1122,1187]" box="[655,932,1160,1187]" pageId="231" pageNumber="232">
+<figureCitation id="9FD1BEE6FF7EFF34A59FFB67FCF5D8A2" box="[655,819,1160,1187]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStart-3="Fig" captionStartId-0="405.[189,232,1225,1251]" captionStartId-1="406.[189,232,1925,1951]" captionStartId-2="407.[189,232,1631,1657]" captionStartId-3="408.[189,232,1047,1073]" captionTargetBox-0="[189,1399,265,1189]" captionTargetBox-1="[253,1331,265,1898]" captionTargetBox-2="[189,1399,265,1594]" captionTargetBox-3="[189,1398,265,1002]" captionTargetId-0="figure-21@405.[189,1399,265,1189]" captionTargetId-1="figure-45@406.[253,1334,265,1898]" captionTargetId-2="figure-35@407.[189,1399,265,1595]" captionTargetId-3="figure-27@408.[189,1399,265,1002]" captionTargetPageId-0="405" captionTargetPageId-1="406" captionTargetPageId-2="407" captionTargetPageId-3="408" captionText-0="Fig. 150. Map plotting known distributions of species of Weygoldtia Miranda, Giupponi, Prendini &amp; Scharff, 2018 in Cambodia, Laos and Vietnam." captionText-1="Fig. 151. Weygoldtia consonensis sp. nov. (AMNH), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C–D = 0.5 mm." captionText-2="Fig. 152. Weygoldtia consonensis sp. nov. (AMNH), male gonopod. A. Ventral view. B. Posterior view. C. Dorsal view. D. Sinistral side of gonopod. E. Dorsal lobe. F. Processus internus." captionText-3="Fig. 153. Weygoldtia consonensis sp. nov. (AMNH), antenniform leg I, ♂. A. Apex of leg, lateral view. B. Modified claw, rod sensilla and tarsal organ." figureDoi-0="http://doi.org/10.5281/zenodo.5536829" figureDoi-1="http://doi.org/10.5281/zenodo.5536833" figureDoi-2="http://doi.org/10.5281/zenodo.5536835" figureDoi-3="http://doi.org/10.5281/zenodo.5536841" httpUri-0="https://zenodo.org/record/5536829/files/figure.png" httpUri-1="https://zenodo.org/record/5536833/files/figure.png" httpUri-2="https://zenodo.org/record/5536835/files/figure.png" httpUri-3="https://zenodo.org/record/5536841/files/figure.png" pageId="231" pageNumber="232">Figs 150–153</figureCitation>
+; 
+<tableCitation id="4A6897D8FF7EFF34A42FFB67FC62D8A3" box="[831,932,1160,1186]" captionStart="Table 10" captionStartId="233.[181,251,755,784]" captionTargetBox="[182,1928,871,1536]" captionTargetId="graphics-20@233.[182,1935,899,1564]" captionTargetPageId="233" captionText="Table 10. Measurements of all species of Weygoldtia Miranda et al., 2018." pageId="231" pageNumber="232">Table 10</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFB23FCA9D917" pageId="231" pageNumber="232" type="type_taxon">
+<paragraph id="0755A263FF7EFF34A7ADFB23FE9ED8E4" blockId="231.[189,344,1227,1254]" box="[189,344,1227,1254]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFB23FE9ED8E4" bold="true" box="[189,344,1227,1254]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFB23FE9ED8E4" bold="true" box="[189,344,1227,1254]" pageId="231" pageNumber="232">Type species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFB13FCA9D917" blockId="231.[189,879,1276,1303]" box="[189,879,1276,1303]" pageId="231" pageNumber="232">
+<taxonomicName id="C0EAD9E0FF7EFF34A7ADFB13FD8AD916" authority="(Fage, 1946)" baseAuthorityName="Fage" baseAuthorityYear="1946" box="[189,588,1276,1303]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="species" species="davidovi">
+<emphasis id="359E7E71FF7EFF34A7ADFB13FE6AD917" box="[189,428,1276,1302]" italics="true" pageId="231" pageNumber="232">Weygoldtia davidovi</emphasis>
+(
+<bibRefCitation id="637BDF92FF7EFF34A6ACFB13FD85D916" author="Fage L." box="[444,579,1276,1303]" journalOrPublisher="Bulletin du Museum national d'histoire naturelle, Paris" pageId="231" pageNumber="232" pagination="256 - 267" part="2" refId="ref148108" refString="Fage L. 1946 a. Complement a la faune des arachnides de Madagascar. Bulletin du Museum national d'histoire naturelle, Paris 2: 256 - 267." title="Complement a la faune des arachnides de Madagascar" type="journal article" year="1946">Fage, 1946</bibRefCitation>
+)
+</taxonomicName>
+, by original designation.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADFAD0FDF7DA21" pageId="231" pageNumber="232" type="diagnosis">
+<paragraph id="0755A263FF7EFF34A7ADFAD0FEF0D958" blockId="231.[189,310,1343,1369]" box="[189,310,1343,1369]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADFAD0FEF0D958" bold="true" box="[189,310,1343,1369]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADFAD0FEF0D958" bold="true" box="[189,310,1343,1369]" pageId="231" pageNumber="232">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADFA9FFDF7DA21" blockId="231.[188,1399,1392,1568]" pageId="231" pageNumber="232">
+<taxonomicName id="C0EAD9E0FF7EFF34A7ADFA9FFE86D98B" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[189,320,1392,1418]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A7ADFA9FFE86D98B" box="[189,320,1392,1418]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+may be distinguished from the other two genera of 
+<taxonomicName id="C0EAD9E0FF7EFF34A4B3FA9FFBE2D98B" authorityName="Quintero" authorityYear="1986" box="[931,1060,1392,1418]" class="Arachnida" family="Charinidae" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="family">Charinidae</taxonomicName>
+by the presence of a straight carina anterior to the lateral eyes (
+<figureCitation id="9FD1BEE6FF7EFF34A578FA79FD21D9B0" box="[616,743,1430,1457]" captionStart="Fig" captionStartId="406.[189,232,1925,1951]" captionTargetBox="[253,1331,265,1898]" captionTargetId="figure-45@406.[253,1334,265,1898]" captionTargetPageId="406" captionText="Fig. 151. Weygoldtia consonensis sp. nov. (AMNH), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C–D = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536833" httpUri="https://zenodo.org/record/5536833/files/figure.png" pageId="231" pageNumber="232">Fig. 151A</figureCitation>
+), as well as the following combination of characters: tritosternum projected anteriorly with pair of prominent setae near anterior pair of setae; pedipalp tarsus with one or two setae at base of ventral row of cleaning organ; leg IV distitibia with seven to nine trichobothria in 
+<emphasis id="359E7E71FF7EFF34A66AF9E8FE54DA21" box="[378,402,1543,1568]" italics="true" pageId="231" pageNumber="232">sc</emphasis>
+and 
+<emphasis id="359E7E71FF7EFF34A6DBF9E9FE19DA21" box="[459,479,1542,1568]" italics="true" pageId="231" pageNumber="232">sf</emphasis>
+series.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF34A7ADF9A5FE95DAB8" pageId="231" pageNumber="232" type="etymology">
+<paragraph id="0755A263FF7EFF34A7ADF9A5FE82DA65" blockId="231.[189,324,1610,1636]" box="[189,324,1610,1636]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADF9A5FE82DA65" bold="true" box="[189,324,1610,1636]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADF9A5FE82DA65" bold="true" box="[189,324,1610,1636]" pageId="231" pageNumber="232">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADF994FE95DAB8" blockId="231.[189,1399,1658,1721]" pageId="231" pageNumber="232">
+Patronym honoring Dr Peter Weygoldt for his contributions to arachnology in general and 
+<taxonomicName id="C0EAD9E0FF7EFF34A3E1F995FAB1DA95" authorityName="Thorell" authorityYear="1883" box="[1265,1399,1658,1684]" class="Arachnida" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="order">Amblypygi</taxonomicName>
+in particular.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF7EFF3BA7ADF90CFC78DE43" lastPageId="232" lastPageNumber="233" pageId="231" pageNumber="232" type="discussion">
+<paragraph id="0755A263FF7EFF34A7ADF90CFEE9DAFC" blockId="231.[189,303,1763,1789]" box="[189,303,1763,1789]" pageId="231" pageNumber="232">
+<heading id="5C1D150FFF7EFF34A7ADF90CFEE9DAFC" bold="true" box="[189,303,1763,1789]" fontSize="11" level="3" pageId="231" pageNumber="232" reason="3">
+<emphasis id="359E7E71FF7EFF34A7ADF90CFEE9DAFC" bold="true" box="[189,303,1763,1789]" pageId="231" pageNumber="232">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FF7EFF34A7ADF8FBFD4BDBE9" blockId="231.[188,1399,1812,2024]" pageId="231" pageNumber="232">
+The number of articles on the tibia and tarsus of leg I in 
+<taxonomicName id="C0EAD9E0FF7EFF34A46DF8FBFBC6DB2F" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[893,1024,1812,1838]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A46DF8FBFBC6DB2F" box="[893,1024,1812,1838]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+is similar to that in species of 
+<taxonomicName id="C0EAD9E0FF7EFF34A7ADF8D6FEEADB52" authorityName="Thorell" authorityYear="1889" box="[189,300,1849,1875]" class="Arachnida" family="Charinidae" genus="Catageus" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A7ADF8D6FEEADB52" box="[189,300,1849,1875]" italics="true" pageId="231" pageNumber="232">Catageus</emphasis>
+</taxonomicName>
+, but the two genera may be distinguished by the dorsal spines on the pedipalp trochanter of 
+<taxonomicName id="C0EAD9E0FF7EFF34A7AFF8B0FEEADB78" authorityName="Thorell" authorityYear="1889" box="[191,300,1887,1913]" class="Arachnida" family="Charinidae" genus="Catageus" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A7AFF8B0FEEADB78" box="[191,300,1887,1913]" italics="true" pageId="231" pageNumber="232">Catageus</emphasis>
+</taxonomicName>
+, which are absent in 
+<taxonomicName id="C0EAD9E0FF7EFF34A528F8B1FD7DDB79" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[568,699,1886,1912]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A528F8B1FD7DDB79" box="[568,699,1886,1912]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+; the different numbers of trichobothria in the frontal and caudal rows of the distitibia in 
+<taxonomicName id="C0EAD9E0FF7EFF34A534F86BFD55DB9F" authorityName="Thorell" authorityYear="1889" box="[548,659,1924,1950]" class="Arachnida" family="Charinidae" genus="Catageus" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A534F86BFD55DB9F" box="[548,659,1924,1950]" italics="true" pageId="231" pageNumber="232">Catageus</emphasis>
+</taxonomicName>
+, which are equal in 
+<taxonomicName id="C0EAD9E0FF7EFF34A46DF86BFBC6DB9F" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[893,1024,1924,1950]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A46DF86BFBC6DB9F" box="[893,1024,1924,1950]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+; the absence of a straight carina anterior to the lateral eyes, a synapomorphy of 
+<taxonomicName id="C0EAD9E0FF7EFF34A5E1F846FCB5DBC2" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[753,883,1961,1987]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="231" pageNumber="232" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF7EFF34A5E1F846FCB5DBC2" box="[753,883,1961,1987]" italics="true" pageId="231" pageNumber="232">Weygoldtia</emphasis>
+</taxonomicName>
+; and spines between dorsal spine 1 and the proximal margin of the pedipalp femur.
+</paragraph>
+<paragraph id="0755A263FF71FF3BA7ADFEE6FE5ADDFF" blockId="232.[187,1400,265,511]" pageId="232" pageNumber="233">
+<taxonomicName id="C0EAD9E0FF71FF3BA7ADFEE6FE86DD22" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[189,320,265,291]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF71FF3BA7ADFEE6FE86DD22" box="[189,320,265,291]" italics="true" pageId="232" pageNumber="233">Weygoldtia</emphasis>
+</taxonomicName>
+belongs to the family 
+<taxonomicName id="C0EAD9E0FF71FF3BA52EFEE6FD79DD22" authorityName="Quintero" authorityYear="1986" box="[574,703,265,291]" class="Arachnida" family="Charinidae" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="family">Charinidae</taxonomicName>
+(
+<bibRefCitation id="637BDF92FF71FF3BA5DCFEE6FC73DD22" author="Miranda" box="[716,949,265,292]" etAl="et al." firstAuthor="Miranda" pageId="232" pageNumber="233" refId="ref151478" refString="Miranda G. S., Giupponi A. P., Scharff N. &amp; Prendini L. 2021. Phylogeny and biogeography of the pantropical whip spider family Charinidae (Arachnida: Amblypygi). Zoological Journal of the Linnean Society. https: // doi. org / 10.1093 / zoolinnean / zlaa 101" type="book" year="2021">
+<collectingRegion id="C52E6C81FF71FF3BA5DCFEE6FCF7DD22" box="[716,817,265,291]" country="Venezuela" name="Miranda" pageId="232" pageNumber="233">Miranda</collectingRegion>
+<emphasis id="359E7E71FF71FF3BA426FEE5FCAFDD22" box="[822,873,265,291]" italics="true" pageId="232" pageNumber="233">et al</emphasis>
+. 2021
+</bibRefCitation>
+), not 
+<taxonomicName id="C0EAD9E0FF71FF3BA4E2FEE6FB42DD22" authorityName="Simon" authorityYear="1892" box="[1010,1156,265,291]" class="Arachnida" family="Charontidae" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="family">Charontidae</taxonomicName>
+, due to the following characters: spines absent on pedipalp trochanter; small dorsal spines and ventral spines absent from pedipalp tibia; pedipalp tibia with two dorsal spines, distal spine longer than proximal, instead of one long spine proximally, with small spine close to its base, followed by smaller spines; pedipalp tibia ventral spine situated distally, near distal margin of tibia, instead of proximally; only one seta, instead of several, at base of cleaning organ on pedipalp tarsus; equal number of trichobothria in 
+<emphasis id="359E7E71FF71FF3BA3D9FE2EFB27DDDB" box="[1225,1249,449,474]" italics="true" pageId="232" pageNumber="233">sc</emphasis>
+and 
+<emphasis id="359E7E71FF71FF3BA209FE2FFAEBDDDB" box="[1305,1325,448,474]" italics="true" pageId="232" pageNumber="233">sf</emphasis>
+series of leg IV distitibia.
+</paragraph>
+<paragraph id="0755A263FF71FF3BA7ADFDC8FC78DE43" blockId="232.[189,958,550,578]" box="[189,958,550,578]" pageId="232" pageNumber="233">
+<emphasis id="359E7E71FF71FF3BA7ADFDC8FC84DE40" bold="true" box="[189,834,550,577]" pageId="232" pageNumber="233">
+Key to the identification of the species of 
+<taxonomicName id="C0EAD9E0FF71FF3BA5ADFDC9FC84DE40" authorityName="Miranda, Giupponi, Prendini &amp; Scharff" authorityYear="2018" box="[701,834,550,577]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FF71FF3BA5ADFDC9FC84DE40" bold="true" box="[701,834,550,577]" italics="true" pageId="232" pageNumber="233">Weygoldtia</emphasis>
+</taxonomicName>
+</emphasis>
+(
+<figureCitation id="9FD1BEE6FF71FF3BA442FDC8FC70DE43" box="[850,950,551,578]" captionStart="Fig" captionStartId="405.[189,232,1225,1251]" captionTargetBox="[189,1399,265,1189]" captionTargetId="figure-21@405.[189,1399,265,1189]" captionTargetPageId="405" captionText="Fig. 150. Map plotting known distributions of species of Weygoldtia Miranda, Giupponi, Prendini &amp; Scharff, 2018 in Cambodia, Laos and Vietnam." figureDoi="http://doi.org/10.5281/zenodo.5536829" httpUri="https://zenodo.org/record/5536829/files/figure.png" pageId="232" pageNumber="233">Fig. 150</figureCitation>
+)
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FF71FF3BA7ADFDB8FAB1DF29" pageId="232" pageNumber="233" type="key">
+<keyStep id="BC1EBAC6FF71FF3BA7ADFDB8FAB1DF29" pageId="232" pageNumber="233">
+<key id="737BF552FF71FF3BA7ADFDB8FAB1DF29" pageId="232" pageNumber="233">
+<paragraph id="0755A263FF71FF3BA7ADFDB8FAB0DEBA" blockId="232.[189,1399,599,808]" pageId="232" pageNumber="233">
+<keyLead id="BC1B0156FF71FF3BA7ADFDB8FAB0DEBA" pageId="232" pageNumber="233">
+1. Pedipalp femur with five dorsal spines; pedipalp patella with six dorsal spines; cheliceral claw with 7–9 teeth; leg IV distitibia with six or seven 
+<emphasis id="359E7E71FF71FF3BA5E4FD93FCCADE94" box="[756,780,636,661]" italics="true" pageId="232" pageNumber="233">sc</emphasis>
+trichobothria and seven or eight 
+<emphasis id="359E7E71FF71FF3BA380FD93FB62DE97" box="[1168,1188,636,662]" italics="true" pageId="232" pageNumber="233">sf</emphasis>
+trichobothria...... ....................................................................................................... 
+<taxonomicName id="C0EAD9E0FF71FF3BA4F8FD70FAB0DEBA" authority="(Fage, 1946)" baseAuthorityName="Fage" baseAuthorityYear="1946" box="[1000,1398,671,699]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="species" species="davidovi">
+<emphasis id="359E7E71FF71FF3BA4F8FD70FB1FDEBB" bold="true" box="[1000,1241,671,698]" italics="true" pageId="232" pageNumber="233">Weygoldtia davidovi</emphasis>
+(
+<bibRefCitation id="637BDF92FF71FF3BA3F9FD4FFAA8DEBA" author="Fage L." box="[1257,1390,672,699]" journalOrPublisher="Bulletin du Museum national d'histoire naturelle, Paris" pageId="232" pageNumber="233" pagination="256 - 267" part="2" refId="ref148108" refString="Fage L. 1946 a. Complement a la faune des arachnides de Madagascar. Bulletin du Museum national d'histoire naturelle, Paris 2: 256 - 267." title="Complement a la faune des arachnides de Madagascar" type="journal article" year="1946">Fage, 1946</bibRefCitation>
+)
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FF71FF3BA7D1FD2AFAB1DF29" blockId="232.[189,1399,599,808]" pageId="232" pageNumber="233">
+<keyLead id="BC1B0156FF71FF3BA7D1FD2AFAB1DF29" pageId="232" pageNumber="233">
+– Pedipalp femur with four dorsal spines; pedipalp patella with five dorsal spines; cheliceral claw with six teeth; leg IV distitibia with nine 
+<emphasis id="359E7E71FF71FF3BA581FD05FD6FDF02" box="[657,681,746,771]" italics="true" pageId="232" pageNumber="233">sc</emphasis>
+and 
+<emphasis id="359E7E71FF71FF3BA5F2FD06FD30DF02" box="[738,758,745,771]" italics="true" pageId="232" pageNumber="233">sf</emphasis>
+trichobothria ................................................................ ............................................................................... 
+<taxonomicName id="C0EAD9E0FF71FF3BA42AFCE2FB9CDF29" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[826,1114,781,808]" class="Arachnida" family="Charinidae" genus="Weygoldtia" kingdom="Animalia" order="Amblypygi" pageId="232" pageNumber="233" phylum="Arthropoda" rank="species" species="consonensis" status="sp. nov.">
+<emphasis id="359E7E71FF71FF3BA42AFCE2FB9CDF29" bold="true" box="[826,1114,781,808]" italics="true" pageId="232" pageNumber="233">Weygoldtia consonensis</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFF71FF3BA371FCE1FB7DDF29" box="[1121,1211,782,808]" pageId="232" pageNumber="233" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FF71FF3BA3DBFCE1FAA8DF29" box="[1227,1390,781,808]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="406.[189,232,1925,1951]" captionStartId-1="407.[189,232,1631,1657]" captionStartId-2="408.[189,232,1047,1073]" captionTargetBox-0="[253,1331,265,1898]" captionTargetBox-1="[189,1399,265,1594]" captionTargetBox-2="[189,1398,265,1002]" captionTargetId-0="figure-45@406.[253,1334,265,1898]" captionTargetId-1="figure-35@407.[189,1399,265,1595]" captionTargetId-2="figure-27@408.[189,1399,265,1002]" captionTargetPageId-0="406" captionTargetPageId-1="407" captionTargetPageId-2="408" captionText-0="Fig. 151. Weygoldtia consonensis sp. nov. (AMNH), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C–D = 0.5 mm." captionText-1="Fig. 152. Weygoldtia consonensis sp. nov. (AMNH), male gonopod. A. Ventral view. B. Posterior view. C. Dorsal view. D. Sinistral side of gonopod. E. Dorsal lobe. F. Processus internus." captionText-2="Fig. 153. Weygoldtia consonensis sp. nov. (AMNH), antenniform leg I, ♂. A. Apex of leg, lateral view. B. Modified claw, rod sensilla and tarsal organ." figureDoi-0="http://doi.org/10.5281/zenodo.5536833" figureDoi-1="http://doi.org/10.5281/zenodo.5536835" figureDoi-2="http://doi.org/10.5281/zenodo.5536841" httpUri-0="https://zenodo.org/record/5536833/files/figure.png" httpUri-1="https://zenodo.org/record/5536835/files/figure.png" httpUri-2="https://zenodo.org/record/5536841/files/figure.png" pageId="232" pageNumber="233">Figs 151–153</figureCitation>
+)
+</keyLead>
+</paragraph>
+</key>
+</keyStep>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

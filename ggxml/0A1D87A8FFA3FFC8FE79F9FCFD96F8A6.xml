@@ -1,0 +1,128 @@
+<document id="258CDC4971537C7E20512C72B78BBBCE" ID-DOI="http://doi.org/10.5281/zenodo.5588784" ID-GBIF-Dataset="ad810ed8-176c-4016-980e-5aff5cef4931" ID-GBIF-Taxon="189137075" ID-ISSN="2118-9773" ID-Zenodo-Dep="5588784" ID-ZooBank="6384213C-8966-4349-A695-225C5CA0BC2F" _generate="added" checkinTime="1632918686576" checkinUser="felipe" docAuthor="Kime, Richard Desmond &amp; Enghoff, Henrik" docDate="2021" docId="0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" docLanguage="en" docName="ejt-769_1-244.pdf" docOrigin="European Journal of Taxonomy 769" docSource="http://dx.doi.org/10.5852/ejt.2021.769.1497" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Vascanthogona vicenteae Mauries &amp; Barraqueta 1985" docType="treatment" docVersion="7" lastPageNumber="32" masterDocId="F624FFD0FFBCFFD7FFC6FFDCFFADFFBB" masterDocTitle="Atlas of European millipedes 3: Order Chordeumatida (Class Diplopoda)" masterLastPageNumber="244" masterPageNumber="1" pageId="31" pageNumber="32" updateTime="1634851177064" updateUser="valdenar" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="C14D6F9E6B8F0CFCA6EEE1DEDC129E62" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="68EEEF4FDEB7146A01710514BD5AE353">
+<mods:title id="A34E3C39F782A114519DD23ED4BB7FD8">Atlas of European millipedes 3: Order Chordeumatida (Class Diplopoda)</mods:title>
+</mods:titleInfo>
+<mods:name id="BCBCAD0A0FC052E0E6D285C1984DD278" type="personal">
+<mods:role id="D0D0C68F9C471E6FA1519834095F2F59">
+<mods:roleTerm id="FA787154CFFD50EECE48E95D9353BD5B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AC0905F84DFCA142F177CB315BF511D">Kime, Richard Desmond</mods:namePart>
+<mods:nameIdentifier id="1C858741C3E93FDE9BDBF7DF8E4BDD71" type="LSID">847CC68F-00BF-4DAB-8E53-B7A3384D66C1</mods:nameIdentifier>
+<mods:affiliation id="1B20071D621356C2B15F646D1522067F">La Fontaine, La-Chapelle-Montmoreau, 24300 Nontron, France.</mods:affiliation>
+<mods:nameIdentifier id="9B2D016657B8F1815EF982913ACB7910" type="email">deskime2@aol.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5D2BCC498D143E4329281BB718E48CA0" type="personal">
+<mods:role id="4FB04BD0F945D21A4C744C602DF64ED8">
+<mods:roleTerm id="42D64771ED1F77D1335F3DB44CA28332">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C1D33FD77E604EC226E603372516EDFC">Enghoff, Henrik</mods:namePart>
+<mods:nameIdentifier id="6331257CEAEC5DB25D3D86D2027E1E53" type="LSID">FB09A817-000D-43C3-BCC4-2BC1E5373635</mods:nameIdentifier>
+<mods:affiliation id="7E1E5D8BDFADDF56129F09A940838FE4">Natural History Museum of Denmark, University of Copenhagen, Universitetsparken 25, 2100 Copenhagen Ø, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="BB683F73651953F31326108A659E0323" type="email">henghoff@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="12B15B341DA49FF53C3D803A48890AE1">text</mods:typeOfResource>
+<mods:relatedItem id="B2B8FA196F96854C7F008E65F4AE7703" type="host">
+<mods:titleInfo id="F9092B76F14133067D5D8C7561583563">
+<mods:title id="19FE5B1B4FA7C8366FE25E8F856A1595">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="E7255164A88D5E8BEC2ECDC38A24EAFE">
+<mods:date id="8DE0A70C01D67A011969B126AB088EEB">2021</mods:date>
+<mods:detail id="23555941530F91344408462EE71FAA15" type="pubDate">
+<mods:number id="EF29FED13B61F1475650A196FABBB1CA">2021-09-22</mods:number>
+</mods:detail>
+<mods:detail id="BDEA1ADD0FDE49094A57BECBD02D72E7" type="volume">
+<mods:number id="AC5139A5B57BC76BAFFD9882273E997E">769</mods:number>
+</mods:detail>
+<mods:extent id="BC9B585527611081B2A3BA1004F8D63B" unit="page">
+<mods:start id="A1C9C9782EA61BFE35A9659526DD09C5">1</mods:start>
+<mods:end id="478B51C0513779974BC3D7E751D12843">244</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="A6DEB9C175209D6B395BC429BA6C0822">
+<mods:url id="43DE97D83ACB565A3B062D78F0591374">http://dx.doi.org/10.5852/ejt.2021.769.1497</mods:url>
+</mods:location>
+<mods:classification id="3F57A2E3664CEC053AB95599374DD963">journal article</mods:classification>
+<mods:identifier id="4CE7972633701CB6CACE54F730E74313" type="DOI">https://doi.org/10.5852/ejt.2021.769.1497</mods:identifier>
+<mods:identifier id="46EBC295AF38A94686026882409CFDDF" type="GBIF-Dataset">ad810ed8-176c-4016-980e-5aff5cef4931</mods:identifier>
+<mods:identifier id="AD873ECCA2102561E03E4AFE22B8C59C" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="17116672CE7346F694FD03B6F5EF827F" type="Zenodo-Dep">5536353</mods:identifier>
+<mods:identifier id="DA489D259C1F413A329D51DA6B7548A1" type="ZooBank">6384213C-8966-4349-A695-225C5CA0BC2F</mods:identifier>
+</mods:mods>
+<treatment id="0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" ID-DOI="http://doi.org/10.5281/zenodo.5588784" ID-GBIF-Taxon="189137075" ID-Zenodo-Dep="5588784" LSID="urn:lsid:plazi:treatment:0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" httpUri="http://treatment.plazi.org/id/0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" lastPageNumber="32" pageId="31" pageNumber="32">
+<subSubSection id="CAAE6535FFA3FFC8FE79F9FCFBD9F981" box="[447,1140,1567,1594]" pageId="31" pageNumber="32" type="nomenclature">
+<paragraph id="820B36BEFFA3FFC8FE79F9FCFBD9F981" blockId="31.[447,1140,1567,1594]" box="[447,1140,1567,1594]" pageId="31" pageNumber="32">
+32. 
+<taxonomicName id="45B44D3DFFA3FFC8FE2DF9C3FBD9F981" authority="Mauries &amp; Barraqueta, 1985" authorityName="Mauries &amp; Barraqueta" authorityYear="1985" box="[491,1140,1567,1594]" class="Diplopoda" family="Anthogonidae" genus="Vascanthogona" kingdom="Animalia" order="Chordeumatida" pageId="31" pageNumber="32" phylum="Arthropoda" rank="species" species="vicenteae">
+<emphasis id="B0C0EAACFFA3FFC8FE2DF9C3FCB0F981" bold="true" box="[491,797,1567,1594]" italics="true" pageId="31" pageNumber="32">Vascanthogona vicenteae</emphasis>
+Mauriès &amp; Barraqueta, 1985
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FFA3FFF7FF7BF9BEFE13FE2A" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32" type="distribution">
+<subSubSection id="CAAE6535FFA3FFC8FF7BF9BEFE89F910" box="[189,342,1634,1707]" pageId="31" pageNumber="32" type="distribution">
+<paragraph id="820B36BEFFA3FFC8FF7BF9BEFEFBF9C7" blockId="31.[189,342,1634,1660]" box="[189,342,1634,1660]" pageId="31" pageNumber="32">
+<heading id="D94381D2FFA3FFC8FF7BF9BEFEFBF9C7" bold="true" box="[189,342,1634,1660]" fontSize="11" level="3" pageId="31" pageNumber="32" reason="3">
+<emphasis id="B0C0EAACFFA3FFC8FF7BF9BEFEFBF9C7" bold="true" box="[189,342,1634,1660]" pageId="31" pageNumber="32">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="820B36BEFFA3FFC8FF7BF94DFE89F910" blockId="31.[189,292,1681,1707]" box="[189,292,1681,1707]" pageId="31" pageNumber="32">
+<caption id="D6CB6636FFA3FFC8FF7BF94DFE8DF910" box="[189,288,1681,1707]" inLine="true" pageId="31" pageNumber="32" startId="31.[189,288,1681,1707]" targetBox="[893,1287,1410,1924]" targetPageId="165">ES-SPA</caption>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FFA3FFC8FF7BF90FFD96F8A6" box="[189,571,1747,1821]" pageId="31" pageNumber="32" type="description">
+<paragraph id="820B36BEFFA3FFC8FF7BF90FFEB0F956" blockId="31.[189,285,1747,1773]" box="[189,285,1747,1773]" pageId="31" pageNumber="32">
+<heading id="D94381D2FFA3FFC8FF7BF90FFEB0F956" bold="true" box="[189,285,1747,1773]" fontSize="11" level="3" pageId="31" pageNumber="32" reason="3">
+<emphasis id="B0C0EAACFFA3FFC8FF7BF90FFEB0F956" bold="true" box="[189,285,1747,1773]" pageId="31" pageNumber="32">Habitat</emphasis>
+</heading>
+</paragraph>
+<paragraph id="820B36BEFFA3FFC8FF7BF8DFFD96F8A6" blockId="31.[189,571,1794,1821]" box="[189,571,1794,1821]" pageId="31" pageNumber="32">
+A stand of 
+<taxonomicName id="45B44D3DFFA3FFC8FEFBF8DFFD96F8A6" authority="D. Don." authorityName="D. Don." box="[317,571,1794,1821]" class="Pinopsida" family="Pinaceae" genus="Pinus" kingdom="Plantae" order="Pinales" pageId="31" pageNumber="32" phylum="Tracheophyta" rank="species" species="radiata">
+<emphasis id="B0C0EAACFFA3FFC8FEFBF8DFFE70F8A7" box="[317,477,1794,1820]" italics="true" pageId="31" pageNumber="32">Pinus radiata</emphasis>
+D.Don.
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<treatment id="0A1D87A8FFA3FFF7FDC2F898FE13FE2A" ID-DOI="http://doi.org/10.5281/zenodo.5539802" ID-GBIF-Taxon="189137050" ID-Zenodo-Dep="5539802" LSID="urn:lsid:plazi:treatment:0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" httpUri="http://treatment.plazi.org/id/0A1D87A8FFA3FFC8FE79F9FCFD96F8A6" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32">
+<subSubSection id="CAAE6535FFA3FFC8FDC2F898FB9DF8E4" box="[516,1072,1860,1887]" pageId="31" pageNumber="32" type="nomenclature">
+<paragraph id="820B36BEFFA3FFC8FDC2F898FB9DF8E4" blockId="31.[516,1072,1860,1887]" box="[516,1072,1860,1887]" pageId="31" pageNumber="32">
+Family 
+<taxonomicName id="45B44D3DFFA3FFC8FD98F898FB9DF8E4" authority="Verhoeff, 1899" authorityName="Verhoeff" authorityYear="1899" box="[606,1072,1860,1887]" class="Diplopoda" family="Anthroleucosomatidae" kingdom="Animalia" order="Chordeumatida" pageId="31" pageNumber="32" phylum="Arthropoda" rank="family">
+<emphasis id="B0C0EAACFFA3FFC8FD98F898FCD4F8E5" bold="true" box="[606,889,1860,1886]" pageId="31" pageNumber="32">Anthroleucosomatidae</emphasis>
+Verhoeff, 1899
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="CAAE6535FFA3FFF7FF7BF85AFE13FE2A" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32" type="discussion">
+<paragraph id="820B36BEFFA3FFF7FF7BF85AFE13FE2A" blockId="31.[189,1399,1926,2025]" lastBlockId="32.[188,1400,265,402]" lastPageId="32" lastPageNumber="33" pageId="31" pageNumber="32">
+This family is most diverse in the Balkans (Antić 
+<emphasis id="B0C0EAACFFA3FFC8FCCCF85BFCE8F81B" box="[778,837,1926,1952]" italics="true" pageId="31" pageNumber="32">et al.</emphasis>
+2020) and also in the Caucasus region where it is the only family of 
+<taxonomicName id="45B44D3DFFA3FFC8FE7FF876FC0EF87E" authority="(Antic &amp; Makarov 2016)" baseAuthorityName="Antic &amp; Makarov" baseAuthorityYear="2016" box="[441,931,1962,1989]" class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" order="Chordeumatida" pageId="31" pageNumber="32" phylum="Arthropoda" rank="order">
+Chordeumatida (
+<bibRefCitation id="E6254B4FFFA3FFC8FDB8F876FC36F87E" author="Antic D. Z. &amp; Makarov S. E." box="[638,923,1962,1989]" pageId="31" pageNumber="32" pagination="1 - 205" refId="ref33052" refString="Antic D. Z. &amp; Makarov S. E. 2016. The Caucasus as a major hotspot of biodiversity: evidence from the millipede family Anthroleucosomatidae (Diplopoda, Chordeumatida). Zootaxa 4211 (1): 1 - 205. https: // doi. org / 10.11646 / zootaxa. 4211.1.1" type="journal article" year="2016">Antić &amp; Makarov 2016</bibRefCitation>
+)
+</taxonomicName>
+. A few among the 43 European species occur in 
+<collectingCountry id="FAA3762EFFA3FFC8FEE2F812FEF7F853" box="[292,346,1998,2024]" name="Italy" pageId="31" pageNumber="32">Italy</collectingCountry>
+and 
+<collectingCountry id="FAA3762EFFA3FFC8FE55F812FE5DF853" box="[403,496,1998,2024]" name="France" pageId="31" pageNumber="32">Corsica</collectingCountry>
+, and one (
+<taxonomicName id="45B44D3DFFA3FFC8FDAFF813FBF5F853" authority="(Silvestri, 1894))" authorityName="" baseAuthorityName="Silvestri" baseAuthorityYear="1894" box="[617,1112,1998,2025]" class="Diplopoda" family="Anthroleucosomatidae" genus="Anamastigona" kingdom="Animalia" order="Chordeumatida" pageId="31" pageNumber="32" phylum="Arthropoda" rank="species" species="pulchella">
+<emphasis id="B0C0EAACFFA3FFC8FDAFF813FC2AF853" box="[617,903,1998,2025]" italics="true" pageId="31" pageNumber="32">Anamastigona pulchella</emphasis>
+(Silvestri, 1894))
+</taxonomicName>
+is relatively widespread in W Europe and is one of the few chordeumatidans which have been introduced to Macaronesia, in casu Madeira. Further species are known from the Altai Mts, Siberia, and NW North America (
+<bibRefCitation id="E6254B4FFF9CFFF7FB20FEF2FADDFEF3" author="Shear W. A." box="[1254,1392,302,328]" pageId="32" pageNumber="33" pagination="51 - 58" refId="ref39150" refString="Shear W. A. 1988. Systematic position of the milliped species Alloiopus solitarius Attems and the genus Ghilarovia Gulicka (Chordeumatida, Anthroleucosomatidae). Myriapodologica 2: 51 - 58." type="journal article" year="1988">Shear 1988</bibRefCitation>
+; 
+<bibRefCitation id="E6254B4FFF9CFFF7FF78FE8EFE61FED6" author="Shear W. A. &amp; Leonard W. P." box="[190,460,338,365]" pageId="32" pageNumber="33" pagination="1 - 7" refId="ref39217" refString="Shear W. A. &amp; Leonard W. P. 2004. The millipede family Anthroleucosomatidae new to North America: Leschius mcallisteri, n. gen., n. sp. (Diplopoda: Chordeumatida: Anthroleucosomatidae). Zootaxa 609: 1 - 7. https: // doi. org / 10.11646 / zootaxa. 609.1.1" type="journal article" year="2004">Shear &amp; Leonard 2004</bibRefCitation>
+). This is the only European chordeumatidan family represented by an indigenous species in N America.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

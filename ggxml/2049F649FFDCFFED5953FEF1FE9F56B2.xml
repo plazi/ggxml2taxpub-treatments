@@ -1,0 +1,189 @@
+<document id="4C5468ED9682E7C9979B25A5AA8C4D1F" ID-DOI="http://doi.org/10.5281/zenodo.5493250" ID-ISSN="2118-9773" ID-Zenodo-Dep="5493250" ID-ZooBank="0E81E516-72A2-40BC-A766-FC66820831D8" _generate="added" approvalRequired="49" approvalRequired_for_document="1" approvalRequired_for_originalDoi="1" approvalRequired_for_taxonomicNames="12" approvalRequired_for_textStreams="35" checkinTime="1613553783371" checkinUser="plazi" docAuthor="Haran, Julien M." docDate="2021" docId="2049F649FFDCFFED5953FEF1FE9F56B2" docLanguage="en" docName="ejt-735_34-73.pdf" docOrigin="European Journal of Taxonomy 735" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Smicronyx lutulentus Dietz 1894" docType="treatment" docVersion="2" lastPageNumber="65" masterDocId="DC708E31FFC3FFF25B03FFF9FFD5500A" masterDocTitle="The Smicronychini of southern Africa (Coleoptera, Curculionidae): Review of the tribe and description of 12 new species" masterLastPageNumber="73" masterPageNumber="34" pageId="31" pageNumber="65" updateTime="1631081668815" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="B06ADA45AEFAB5FAC7FB07A5B598E07D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="189C9EE04B9CDD2A864070FA07A768F3">
+<mods:title id="56FBBCE879AE98B9E2F8A72FBA15FFE8">The Smicronychini of southern Africa (Coleoptera, Curculionidae): Review of the tribe and description of 12 new species</mods:title>
+</mods:titleInfo>
+<mods:name id="AFB4E721E5EC21D9918D6D5C943A8385" type="personal">
+<mods:role id="F344ECB652784C68320E31A6115C4583">
+<mods:roleTerm id="0E2F64204E5DF6CCCC6A43010A781423">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="143A3070594C0E6CCB477ECCEB88F6C1">Haran, Julien M.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="4CFC306FEE12DEDB8FB92664D3971205">text</mods:typeOfResource>
+<mods:relatedItem id="A321F2B997E174E47456B57F589E39F9" type="host">
+<mods:titleInfo id="1FA19452E36834CF424AF7E387756B9E">
+<mods:title id="0920DB77D486425F7BFAB739D5234E66">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="48F79CAF684D21EA1A465815A24168A1">
+<mods:date id="E505171AAD5DECE26E4B2A228396A3CA">2021</mods:date>
+<mods:detail id="B211CFDB1651A149552CEDBDB14CE90B" type="pubDate">
+<mods:number id="211239E4D28E82CB500B69385960D353">2021-02-17</mods:number>
+</mods:detail>
+<mods:detail id="B541554844D91CA115A9CF96388A51AE" type="volume">
+<mods:number id="4069C3BB0C874FCD67CB9959C2617FD6">735</mods:number>
+</mods:detail>
+<mods:extent id="7212E4378CE6E674FF6CA140E201D0CC" unit="page">
+<mods:start id="34AEE1306C3C6DA9193F1B13993DDC40">34</mods:start>
+<mods:end id="FF1A5E272E829904EEE3ED1F799F964A">73</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1CA4AE23C8B624DF6BA0D3267C413B3E">journal article</mods:classification>
+<mods:identifier id="D19B5865E22423734B0E849DBB7D2CA2" type="DOI">https://doi.org/10.5852/ejt.2021.735.1239</mods:identifier>
+<mods:identifier id="2E04D8C26FECC48B5EA6F0DCEB8397F2" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="E677064B4E5206F42D2547444A926CE4" type="ZooBank">0E81E516-72A2-40BC-A766-FC66820831D8</mods:identifier>
+</mods:mods>
+<treatment id="2049F649FFDCFFED5953FEF1FE9F56B2" ID-DOI="http://doi.org/10.5281/zenodo.5493250" ID-Zenodo-Dep="5493250" LSID="urn:lsid:plazi:treatment:2049F649FFDCFFED5953FEF1FE9F56B2" httpUri="http://treatment.plazi.org/id/2049F649FFDCFFED5953FEF1FE9F56B2" lastPageNumber="65" pageId="31" pageNumber="65">
+<subSubSection id="E0FA14D4FFDCFFED5953FEF1FC315129" box="[592,996,264,291]" pageId="31" pageNumber="65" type="nomenclature">
+<paragraph id="A85F475FFFDCFFED5953FEF1FC315129" blockId="31.[592,996,264,326]" box="[592,996,264,291]" pageId="31" pageNumber="65">
+<heading id="F317F033FFDCFFED5953FEF1FC315129" box="[592,996,264,291]" centered="true" fontSize="11" level="2" pageId="31" pageNumber="65" reason="2">
+<taxonomicName id="6FE03CDCFFDCFFED5953FEF1FC315129" authority="Dietz, 1894" authorityName="Dietz" authorityYear="1894" box="[592,996,264,291]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="lutulentus">
+<emphasis id="9A949B4DFFDCFFED5953FEF1FC865129" bold="true" box="[592,851,264,291]" italics="true" pageId="31" pageNumber="65">Smicronyx lutulentus</emphasis>
+<bibRefCitation id="CC713AAEFFDCFFED5858FEF1FC315129" author="Dietz W. G." box="[859,996,264,291]" pageId="31" pageNumber="65" pagination="113 - 178" refId="ref20308" refString="Dietz W. G. 1894. Revision of the genera and species of Desmori of North America. Transactions of the American Entomological Society 21: 113 - 178." type="journal article" year="1894">Dietz, 1894</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="E0FA14D4FFDCFFED598EFED5FC72514C" box="[653,935,299,326]" pageId="31" pageNumber="65" type="description">
+<paragraph id="A85F475FFFDCFFED598EFED5FC72514C" blockId="31.[592,996,264,326]" box="[653,935,299,326]" pageId="31" pageNumber="65">
+<figureCitation id="30DB5BDAFFDCFFED598EFED5FD33514C" box="[653,742,300,326]" captionStart="Fig" captionStartId="7.[189,232,1716,1742]" captionTargetBox="[230,1381,734,1615]" captionTargetId="figure-107@7.[189,1398,719,1679]" captionTargetPageId="7" captionText="Fig. 2. Habitus of species of Smicronychini from southern Africa (Part 2). A. Smicronyx san sp. nov., Ƌ, holotype (SAMC), bred from Chironia baccifera L. B. S. san sp. nov., Ƌ, paratype (CBGP), specimen bred from Orphium frutescens L. (E. Mey). C. S. san sp. nov., Ƌ, paratype (CBGP), specimen bred from Sebaea Sol. ex R.Br. sp. D. Smicronyx drakensbergensis sp. nov., Ƌ, holotype (TMSA). E. Smicronyx zonatus Haran, 2018, Ƌ, paratype (CBGP), specimen from the Western Cape Province of the Republic of South Africa.F. Smicronyx lutulentus Dietz, 1894, Ƌ (CBGP). G. Smicronyx albosquamosus Wollaston, 1854, Ƌ (CBGP), specimen from Israel. H. Smicronyx namibicus Haran, 2018, Ƌ (MNHN), specimen from Tanzania. Scale bars: 1 mm." pageId="31" pageNumber="65">Figs 2F</figureCitation>
+, 
+<figureCitation id="30DB5BDAFFDCFFED59F1FED5FCC4514C" box="[754,785,300,326]" captionStart="Fig" captionStartId="14.[189,232,1822,1848]" captionTargetBox="[226,1361,649,1761]" captionTargetId="figure-46@14.[189,1398,603,1761]" captionTargetPageId="14" captionText="Fig. 4. Head and prothorax in lateral view of species of Smicronyx from southern Africa (Part 2). A. Smicronyx paucisquamis sp. nov., Ƌ, holotype (SAMC). B. Smicronyx fallax (Gyllenhal, 1836), Ƌ, neotype (NHRS). C. Smicronyx australis sp. nov., Ƌ, holotype (SAMC). D. Smicronyx san sp. nov., Ƌ, bred from Chironia baccifera L., holotype (SAMC). E. Smicronyx drakensbergensis sp. nov., Ƌ, holotype (TMSA). F. Smicronyx lutulentus Dietz, 1894, Ƌ (CBGP). Scale bars: 0.5 mm." pageId="31" pageNumber="65">4F</figureCitation>
+, 5O; 
+<tableCitation id="E56272E4FFDCFFED5853FED5FC72514C" box="[848,935,300,326]" captionStart="Table 1" captionStartId="3.[189,258,265,291]" captionText="Table 1. Checklist, distribution and host plants of Smicronyx of southern Africa." pageId="31" pageNumber="65">Table 1</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="E0FA14D4FFDCFFED5BBEFE94FD53518D" box="[189,646,365,391]" pageId="31" pageNumber="65" type="reference_group">
+<paragraph id="A85F475FFFDCFFED5BBEFE94FD53518D" blockId="31.[189,646,365,391]" box="[189,646,365,391]" pageId="31" pageNumber="65">
+<treatmentCitationGroup id="88F06071FFDCFFED5BBEFE94FD53518D" box="[189,646,365,391]" pageId="31" pageNumber="65">
+<treatmentCitation id="2941614EFFDCFFED5BBEFE94FD54518D" author="Dietz W. G." box="[189,641,365,391]" page="170" pageId="31" pageNumber="65" year="1894">
+<taxonomicName id="6FE03CDCFFDCFFED5BBEFE94FD54518D" authority="Dietz, 1894: 170" authorityName="Dietz" authorityPageNumber="170" authorityYear="1894" box="[189,641,365,391]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="lutulentus">
+<emphasis id="9A949B4DFFDCFFED5BBEFE94FE66518D" box="[189,435,365,391]" italics="true" pageId="31" pageNumber="65">Smicronyx lutulentus</emphasis>
+<bibRefCitation id="CC713AAEFFDCFFED5AB9FE94FD54518D" author="Dietz W. G." box="[442,641,365,391]" pageId="31" pageNumber="65" pagination="113 - 178" refId="ref20308" refString="Dietz W. G. 1894. Revision of the genera and species of Desmori of North America. Transactions of the American Entomological Society 21: 113 - 178." type="journal article" year="1894">Dietz, 1894: 170</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="E0FA14D4FFDCFFED5BBEFE57FE1E5608" pageId="31" pageNumber="65" type="diagnosis">
+<paragraph id="A85F475FFFDCFFED5BBEFE57FE1C51C2" blockId="31.[189,457,430,456]" box="[189,457,430,456]" pageId="31" pageNumber="65">
+<heading id="F317F033FFDCFFED5BBEFE57FE1C51C2" bold="true" box="[189,457,430,456]" fontSize="11" level="3" pageId="31" pageNumber="65" reason="3">
+<emphasis id="9A949B4DFFDCFFED5BBEFE57FE1C51C2" bold="true" box="[189,457,430,456]" pageId="31" pageNumber="65">Differential diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFE24FA955210" blockId="31.[187,1398,477,539]" pageId="31" pageNumber="65">
+<taxonomicName id="6FE03CDCFFDCFFED5BBEFE24FE6451FD" authorityName="Dietz" authorityYear="1894" box="[189,433,477,503]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="lutulentus">
+<emphasis id="9A949B4DFFDCFFED5BBEFE24FE6451FD" box="[189,433,477,503]" italics="true" pageId="31" pageNumber="65">Smicronyx lutulentus</emphasis>
+</taxonomicName>
+is morphologically similar to 
+<taxonomicName id="6FE03CDCFFDCFFED5807FE24FCB751FD" baseAuthorityName="Gyllenhal" baseAuthorityYear="1836" box="[772,866,477,503]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="fallax">
+<emphasis id="9A949B4DFFDCFFED5807FE24FCB751FD" box="[772,866,477,503]" italics="true" pageId="31" pageNumber="65">S. fallax</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="6FE03CDCFFDCFFED5895FE24FBB351FD" authorityName="Wollaston" authorityYear="1854" box="[918,1126,477,503]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="albosquamosus">
+<emphasis id="9A949B4DFFDCFFED5895FE24FBB351FD" box="[918,1126,477,503]" italics="true" pageId="31" pageNumber="65">S. albosquamosus</emphasis>
+</taxonomicName>
+. It can be distinguished from these species by its elytra pattern, bearing broad and rounded scales, and its short penis body.
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BE9FDB8FE0D5251" blockId="31.[189,1399,577,675]" box="[234,472,577,603]" pageId="31" pageNumber="65">
+<emphasis id="9A949B4DFFDCFFED5BE9FDB8FE0D5251" bold="true" box="[234,472,577,603]" pageId="31" pageNumber="65">Material examined</emphasis>
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFD9CFB3952A8" blockId="31.[189,1399,577,675]" pageId="31" pageNumber="65">
+<materialsCitation id="18884D02FFDCFFED5BBEFD9CFB3252A8" collectingDate="2018-04-12" collectionCode="CBGP" country="South Africa" location="Umhlanga" pageId="31" pageNumber="65" specimenCount="1" stateProvince="KwaZulu-Natal">
+<collectingCountry id="D0F707CFFFDCFFED5BBEFD9CFDB75275" box="[189,610,613,639]" name="South Africa" pageId="31" pageNumber="65">REPUBLIC OF SOUTH AFRICA</collectingCountry>
+• 6 specs; 
+<collectingRegion id="6A2489BDFFDCFFED59FBFD9CFBFD5275" box="[760,1064,613,639]" country="South Africa" name="KwaZulu-Natal" pageId="31" pageNumber="65">KwaZulu-Natal Province</collectingRegion>
+, 
+<location id="AD3F1184FFDCFFED5F39FD9CFB6D5275" LSID="urn:lsid:plazi:treatment:2049F649FFDCFFED5953FEF1FE9F56B2:AD3F1184FFDCFFED5F39FD9CFB6D5275" box="[1082,1208,613,639]" country="South Africa" name="Umhlanga" pageId="31" pageNumber="65" stateProvince="KwaZulu-Natal">Umhlanga</location>
+; 
+<date id="DC5E619FFFDCFFED5FC9FD9CFAA75275" box="[1226,1394,613,639]" pageId="31" pageNumber="65" value="2018-04-12">
+<collectingDate id="CC1A9877FFDCFFED5FC9FD9CFAA75275" box="[1226,1394,613,639]" pageId="31" pageNumber="65" value="2018-04-12">12 Apr. 2018</collectingDate>
+</date>
+; population bred at SASRI 
+<collectedFrom id="1BFC04A2FFDCFFED5AF7FD70FC8752A8" box="[500,850,648,675]" pageId="31" pageNumber="65">
+on 
+<taxonomicName id="6FE03CDCFFDCFFED591AFD71FC8752A8" authorityName="Linnaeus" authorityYear="1753" box="[537,850,648,674]" class="Magnoliopsida" family="Asteraceae" genus="Parthenium" kingdom="Plantae" order="Asterales" pageId="31" pageNumber="65" phylum="Tracheophyta" rank="species" species="hysterophorus">
+<emphasis id="9A949B4DFFDCFFED591AFD71FC8752A8" box="[537,850,648,674]" italics="true" pageId="31" pageNumber="65">Parthenium hysterophorus</emphasis>
+</taxonomicName>
+</collectedFrom>
+; JHAR00911; ethanol coll. 
+<collectionCode id="CEF1DF9AFFDCFFED5F99FD71FB3252A8" box="[1178,1255,648,674]" pageId="31" pageNumber="65">CBGP</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFD30FEE352E9" blockId="31.[189,310,713,739]" box="[189,310,713,739]" pageId="31" pageNumber="65">
+<heading id="F317F033FFDCFFED5BBEFD30FEE352E9" bold="true" box="[189,310,713,739]" fontSize="11" level="3" pageId="31" pageNumber="65" reason="3">
+<emphasis id="9A949B4DFFDCFFED5BBEFD30FEE352E9" bold="true" box="[189,310,713,739]" pageId="31" pageNumber="65">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFD00FE2F5319" blockId="31.[189,506,760,787]" box="[189,506,760,787]" pageId="31" pageNumber="65">BODY LENGTH. 1.6–2.0 mm.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFCC3FD9653B7" blockId="31.[189,1399,825,958]" pageId="31" pageNumber="65">COLOUR. Body integument black, rostrum black or dark brown, antennae and tarsi dark brown; vestiture of elytra generally consisting of rounded, grey-brown scales, isodiametric or slightly longer than wide, with a few scattered white scales; white scales concentrated on humeri, on sides and at base of median line near scutellum on prothorax.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFC1CFDAF5428" blockId="31.[189,1398,996,1058]" pageId="31" pageNumber="65">HEAD. Rostrum in lateral view downcurved at base and almost straight over the rest of length; slightly longer than head capsule + prothorax.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFBB3FDE8548C" blockId="31.[189,1399,1097,1158]" pageId="31" pageNumber="65">PROTHORAX. Isodiametric (w/l ratio: 1), sides slightly rounded in basal ¾, constricted apically, widest slightly behind middle of length.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFB57FB2854C2" blockId="31.[189,1277,1198,1224]" box="[189,1277,1198,1224]" pageId="31" pageNumber="65">ELYTRA. Subparallel in basal two thirds (w/l ratio: 0.70), rounded toward apex in apical third.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFB09FCA55503" blockId="31.[189,880,1263,1290]" box="[189,880,1263,1290]" pageId="31" pageNumber="65">LEGS. Femora moderately clavate, unarmed, tibiae straight.</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFAC8FC205565" blockId="31.[189,1398,1329,1391]" pageId="31" pageNumber="65">GENITALIA. Body of penis moderately elongate (w/l ratio: 0.43), as long as apodemes, sides straight, subparallel, moderately and regularly curved in lateral view (Fig. 5O).</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFA6CFE9A55A5" blockId="31.[189,335,1429,1455]" box="[189,335,1429,1455]" pageId="31" pageNumber="65">
+<heading id="F317F033FFDCFFED5BBEFA6CFE9A55A5" bold="true" box="[189,335,1429,1455]" fontSize="11" level="3" pageId="31" pageNumber="65" reason="3">
+<emphasis id="9A949B4DFFDCFFED5BBEFA6CFE9A55A5" bold="true" box="[189,335,1429,1455]" pageId="31" pageNumber="65">Life history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEFA3DFE1E5608" blockId="31.[189,1397,1476,1538]" pageId="31" pageNumber="65">
+<taxonomicName id="6FE03CDCFFDCFFED5BBEFA3DFE6755D4" authorityName="Dietz" authorityYear="1894" box="[189,434,1476,1502]" class="Insecta" family="Curculionidae" genus="Smicronyx" kingdom="Animalia" order="Coleoptera" pageId="31" pageNumber="65" phylum="Arthropoda" rank="species" species="lutulentus">
+<emphasis id="9A949B4DFFDCFFED5BBEFA3DFE6755D4" box="[189,434,1476,1502]" italics="true" pageId="31" pageNumber="65">Smicronyx lutulentus</emphasis>
+</taxonomicName>
+develops in the seeds of the capsules of 
+<taxonomicName id="6FE03CDCFFDCFFED5886FA3DFB6855D4" authorityName="Linnaeus" authorityYear="1753" box="[901,1213,1476,1502]" class="Magnoliopsida" family="Asteraceae" genus="Parthenium" kingdom="Plantae" order="Asterales" pageId="31" pageNumber="65" phylum="Tracheophyta" rank="species" species="hysterophorus">
+<emphasis id="9A949B4DFFDCFFED5886FA3DFB6855D4" box="[901,1213,1476,1502]" italics="true" pageId="31" pageNumber="65">Parthenium hysterophorus</emphasis>
+</taxonomicName>
+L. (
+<taxonomicName id="6FE03CDCFFDCFFED5FE8FA3DFAA455D4" box="[1259,1393,1476,1502]" class="Magnoliopsida" family="Asteraceae" kingdom="Plantae" order="Asterales" pageId="31" pageNumber="65" phylum="Tracheophyta" rank="family">Asteraceae</taxonomicName>
+; 
+<bibRefCitation id="CC713AAEFFDCFFED5BBEFA1EFE6B5608" author="Dhileepan K. &amp; Madigan B. &amp; Vitelli M. &amp; McFadyen R. &amp; Webster K. &amp; Trevino M." box="[189,446,1511,1538]" pageId="31" pageNumber="65" pagination="309 - 3012" refId="ref20239" refString="Dhileepan K., Madigan B., Vitelli M., McFadyen R., Webster K. &amp; Trevino M. 1996. A New initiative in the biological control of Parthenium. Eleventh Australian Weeds Conference Proceedings 11: 309 - 3012." type="journal article" year="1996">
+Dhileepan 
+<emphasis id="9A949B4DFFDCFFED5A3EFA11FEAD560B" box="[317,376,1511,1537]" italics="true" pageId="31" pageNumber="65">et al.</emphasis>
+1996
+</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="E0FA14D4FFDCFFED5BBEF9D1FE9F56B2" pageId="31" pageNumber="65" type="distribution">
+<paragraph id="A85F475FFFDCFFED5BBEF9D1FE835648" blockId="31.[189,342,1576,1602]" box="[189,342,1576,1602]" pageId="31" pageNumber="65">
+<heading id="F317F033FFDCFFED5BBEF9D1FE835648" bold="true" box="[189,342,1576,1602]" fontSize="11" level="3" pageId="31" pageNumber="65" reason="3">
+<emphasis id="9A949B4DFFDCFFED5BBEF9D1FE835648" bold="true" box="[189,342,1576,1602]" pageId="31" pageNumber="65">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A85F475FFFDCFFED5BBEF9AEFE9F56B2" blockId="31.[187,1399,1623,1720]" pageId="31" pageNumber="65">
+<collectingCountry id="D0F707CFFFDCFFED5BBEF9AEFE3F567B" box="[189,490,1623,1649]" name="United States of America" pageId="31" pageNumber="65">United States of America</collectingCountry>
+(
+<collectingRegion id="6A2489BDFFDCFFED5AF8F9AEFD91567B" box="[507,580,1623,1649]" country="United States of America" name="Texas" pageId="31" pageNumber="65">Texas</collectingRegion>
+; 
+<bibRefCitation id="CC713AAEFFDCFFED5952F9AEFCDE5678" author="Anderson D. M." box="[593,779,1623,1650]" pageId="31" pageNumber="65" pagination="185 - 372" refId="ref19816" refString="Anderson D. M. 1962. The Weevil Genus Smicronyx in America North of Mexico (Coleoptera: Curculionidae). Proceedings of the United States National Museum 113 (3456): 185 - 372. https: // doi. org / 10.5479 / si. 00963801.113 - 3456.185" type="journal article" year="1962">Anderson 1962</bibRefCitation>
+); introduced as a biocontrol agent of 
+<taxonomicName id="6FE03CDCFFDCFFED5FCDF9AEFA8C567B" box="[1230,1369,1623,1649]" class="Magnoliopsida" family="Asteraceae" genus="Parthenium" kingdom="Plantae" order="Asterales" pageId="31" pageNumber="65" phylum="Tracheophyta" rank="genus">
+<emphasis id="9A949B4DFFDCFFED5FCDF9AEFA8C567B" box="[1230,1369,1623,1649]" italics="true" pageId="31" pageNumber="65">Parthenium</emphasis>
+</taxonomicName>
+in 
+<collectingCountry id="D0F707CFFFDCFFED5BBCF983FEFE569E" box="[191,299,1658,1684]" name="Australia" pageId="31" pageNumber="65">Australia</collectingCountry>
+(
+<bibRefCitation id="CC713AAEFFDCFFED5A3BF983FDE4569F" author="Dhileepan K. &amp; Madigan B. &amp; Vitelli M. &amp; McFadyen R. &amp; Webster K. &amp; Trevino M." box="[312,561,1658,1685]" pageId="31" pageNumber="65" pagination="309 - 3012" refId="ref20239" refString="Dhileepan K., Madigan B., Vitelli M., McFadyen R., Webster K. &amp; Trevino M. 1996. A New initiative in the biological control of Parthenium. Eleventh Australian Weeds Conference Proceedings 11: 309 - 3012." type="journal article" year="1996">
+Dhileepan 
+<emphasis id="9A949B4DFFDCFFED5AB6F982FE3B569E" box="[437,494,1658,1684]" italics="true" pageId="31" pageNumber="65">et al.</emphasis>
+1996
+</bibRefCitation>
+) and in the 
+<collectingCountry id="D0F707CFFFDCFFED59B5F983FC0D569E" box="[694,984,1658,1684]" name="South Africa" pageId="31" pageNumber="65">Republic of South Africa</collectingCountry>
+(
+<collectingRegion id="6A2489BDFFDCFFED58E6F983FAC4569E" box="[997,1297,1658,1684]" country="South Africa" name="KwaZulu-Natal" pageId="31" pageNumber="65">KwaZulu-Natal Province</collectingRegion>
+; 
+<bibRefCitation id="CC713AAEFFDCFFED5E18F983FEE856B2" author="Strathie L. W. &amp; McConnachie A. J. &amp; Retief E." pageId="31" pageNumber="65" pagination="378 - 392" refId="ref21151" refString="Strathie L. W., McConnachie A. J. &amp; Retief E. 2011. Initiation of Biological Control Against Parthenium hysterophorus L. (Asteraceae) in South Africa. African Entomology 19 (2): 378 - 392." type="journal article" year="2011">
+Strathie 
+<emphasis id="9A949B4DFFDCFFED5BB8F967FF2356BD" box="[187,246,1693,1719]" italics="true" pageId="31" pageNumber="65">et al.</emphasis>
+2011
+</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,194 @@
+<document id="71D86F86B1555C12E2FFBB8CE8362361" ID-DOI="http://doi.org/10.5281/zenodo.5608699" ID-GBIF-Dataset="453c885c-f427-4a38-ab97-dc14b686e126" ID-GBIF-Taxon="189550912" ID-ISSN="2118-9773" ID-Zenodo-Dep="5608699" ID-ZooBank="226B6C59-8620-4A29-9BEF-359BE67A1A2C" _generate="added" checkinTime="1635354376376" checkinUser="felipe" docAuthor="Korn, Dieter, Hairapetian, Vachik, Ghaderi, Abbas, Leda, Lucyna, Schobben, Martin &amp; Akbari, Amir" docDate="2021" docId="03CC87BFFFD7FFCDFDDCFAF1FBB9F82D" docLanguage="en" docName="ejt-776_1-106.pdf" docOrigin="European Journal of Taxonomy 776" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Dzhulfites Shevyrev 1965" docType="treatment" docVersion="7" lastPageNumber="27" masterDocId="FFF5FFC7FFCDFFD7FF89FFC4FFB6FFC4" masterDocTitle="The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)" masterLastPageNumber="106" masterPageNumber="1" pageId="26" pageNumber="27" updateTime="1635446671371" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="6F1F3BBBB7DF0628A8C6D941A09A0B03" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5E6B104599AE4F728CD1817470913713">
+<mods:title id="13FDA20519C360016D44D88D413DE507">The Changhsingian (Late Permian) ammonoids from Baghuk Mountain (Central Iran)</mods:title>
+</mods:titleInfo>
+<mods:name id="C5FB8D25A67ED94D3BF0309DD2460290" type="personal">
+<mods:role id="51692204BF40DAE5FE97B24DD857F309">
+<mods:roleTerm id="BD2BD8394B1748CC60C10E6FB28C138E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AC37423D4D8134117296542D255F562F">Korn, Dieter</mods:namePart>
+<mods:nameIdentifier id="3B383D812DCAFC96F8D78092578F8B4A" type="LSID">286CA4F3-7EBC-4AEF-A66A-B2508D001367</mods:nameIdentifier>
+<mods:affiliation id="FD341DB7F13D7882F75E80E58715E994">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="5338311F48A4DA1D57168761DD74DCE5" type="email">dieter.korn@mfn.berlin</mods:nameIdentifier>
+</mods:name>
+<mods:name id="184A7287021A6937D488F902F01AF3E7" type="personal">
+<mods:role id="6C3D2CE051C052B38A5C3A31A452E2D1">
+<mods:roleTerm id="A932971289E4D3BC7C57C68BC804404A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="24E03BEF2F4FE0318DE9E566E242CA34">Hairapetian, Vachik</mods:namePart>
+<mods:nameIdentifier id="C8542974EB401E2C7B18E9277F532371" type="LSID">1AB10F8F-4576-481B-9270-5DCD25110DBB</mods:nameIdentifier>
+<mods:affiliation id="B4B9DE3399429A3E2A9A17D692159D82">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="BC336896BCC9FA375CF302577B3581B6" type="email">vhairap@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="76F18FDAD80D386C2D601FAF7FF4B2B9" type="personal">
+<mods:role id="EBC7D4EE9265FD9A42654D22DD56B8A7">
+<mods:roleTerm id="79F914924014A190F755647BF51B20CA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9455376D45339E99FB46B1F7EA7F77D2">Ghaderi, Abbas</mods:namePart>
+<mods:nameIdentifier id="566F7B6AD60ADFC5D47E5D08EEFC0366" type="LSID">925F2B42-7326-4461-B2A6-83CB83ECCC63</mods:nameIdentifier>
+<mods:affiliation id="9F5D8A18FD43C79A869998569F1DC3C1">Department of Geology, Faculty of Science, Ferdowsi University of Mashhad, Azadi Square, 9177948974, Mashhad, Iran.</mods:affiliation>
+<mods:nameIdentifier id="AF9852E23F0616A700D43853EC3D6064" type="email">aghaderi@um.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="86C8244E048C045933604287E731A2E5" type="personal">
+<mods:role id="FAE14BA8E759D3554A701A173675F2DA">
+<mods:roleTerm id="F5BB0DB92860FFF75A908D4B7CD84D88">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DCA61B7C0368D7FB4FEB20986F33C7EF">Leda, Lucyna</mods:namePart>
+<mods:nameIdentifier id="A49C3C6933D2CDEDF77BBD0D172F56D0" type="LSID">81481AFA-C8EE-4E90-A954-FD0E7987621E</mods:nameIdentifier>
+<mods:affiliation id="BCB733C6D3A03372881EFA0D5F181251">Museum für Naturkunde, Leibniz Institut for Research on Evolution and Biodiversity, Invalidenstrasse 43, 10115 Berlin, Germany.</mods:affiliation>
+<mods:nameIdentifier id="C8A9051FC9F83E1234B53DAD54254D1C" type="email">lucyna.skorpion3@wp.pl</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7C4FACD253E44B75EDBCF96679E072BC" type="personal">
+<mods:role id="0763F0449FFC2F93F1247B8C8E3F6D92">
+<mods:roleTerm id="BB48773F38C72B140945369FB068CA5B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEF2686E9EEA314950D550BED25BE01">Schobben, Martin</mods:namePart>
+<mods:nameIdentifier id="BAEEC415E79B36E61919BDE93444BF62" type="LSID">44C2A45A-B16C-434F-8F22-FC9C0FCA2551</mods:nameIdentifier>
+<mods:affiliation id="6D61E7AA76310595EDEEAB8C9F410FB4">Utrecht University, Department of Earth Sciences, Princetonlaan 8 A, 3584 CB Utrecht, The Netherlands. &amp; Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran.</mods:affiliation>
+<mods:nameIdentifier id="0CDA5B85C9D81BD65690C1326C9855EC" type="email">schobbenmartin@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="CD99B27FC507EE55ECEC9EADEA9C7233" type="personal">
+<mods:role id="8B8CD05C29B89BB15D195679BE6FE0D2">
+<mods:roleTerm id="ACB6128A21E24BA04BF9AB24CE7D4CE9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DF95481E7868884DBCDE9B3AF8318928">Akbari, Amir</mods:namePart>
+<mods:nameIdentifier id="2F88C65281EAB85C934C2C2AA8888F68" type="LSID">3C9DB6F9-2034-418F-876C-49359D07D29F</mods:nameIdentifier>
+<mods:affiliation id="739E28CAAAC91466B224685E36337D22">Department of Geology, Esfahan (Khorasgan) Branch, Islamic Azad University, Esfahan, Iran</mods:affiliation>
+<mods:nameIdentifier id="83E47061B5D8783E1D920D813F895259" type="email">amakbari80@yahoo.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="E783AA510F9A4662B24C2C5024228710">text</mods:typeOfResource>
+<mods:relatedItem id="7250DE6A307E4FA4FFE6336E0F243C72" type="host">
+<mods:titleInfo id="5E868733C610378CBA84360761423641">
+<mods:title id="C420E4A067A13B259CEBDFF018A7DD0F">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B895AE49BFCA702AE2C7DD6C6EBB836B">
+<mods:date id="1DE35E379E67B7ED0D4979294D67795F">2021</mods:date>
+<mods:detail id="2E547940F04F7C7DF081FF144D8CE5A9" type="pubDate">
+<mods:number id="A7A9FB1096541F54FB02583089FBC7F8">2021-10-27</mods:number>
+</mods:detail>
+<mods:detail id="D77A383B14CC9C24276636A569501E49" type="volume">
+<mods:number id="9C7A681476244DF795D65107F01625BA">776</mods:number>
+</mods:detail>
+<mods:extent id="66E6E79D3899200D06F91C6A9DD98D7E" unit="page">
+<mods:start id="B9141DB8E5558E8683CF01D68EF74841">1</mods:start>
+<mods:end id="F9CBE60BDEDCD52C43CADA60A2CB93E0">106</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="745A7AAF2E7F8C25DD363C15A77261E5">journal article</mods:classification>
+<mods:identifier id="8AB9541377DB9430EB4C79BA060D0D40" type="DOI">https://doi.org/10.5852/ejt.2021.776.1559</mods:identifier>
+<mods:identifier id="51B4BDC5E12BB92A7306C650579378C7" type="GBIF-Dataset">453c885c-f427-4a38-ab97-dc14b686e126</mods:identifier>
+<mods:identifier id="A81C59F88936D69F41CC19BBDD91411B" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="6A514EED48F874F88B9B26B5EF2D508F" type="Zenodo-Dep">5604715</mods:identifier>
+<mods:identifier id="A5A1F639AEFFE7D658B876437DD51127" type="ZooBank">226B6C59-8620-4A29-9BEF-359BE67A1A2C</mods:identifier>
+</mods:mods>
+<treatment id="03CC87BFFFD7FFCDFDDCFAF1FBB9F82D" ID-DOI="http://doi.org/10.5281/zenodo.5608699" ID-GBIF-Taxon="189550912" ID-Zenodo-Dep="5608699" LSID="urn:lsid:plazi:treatment:03CC87BFFFD7FFCDFDDCFAF1FBB9F82D" httpUri="http://treatment.plazi.org/id/03CC87BFFFD7FFCDFDDCFAF1FBB9F82D" lastPageNumber="27" pageId="26" pageNumber="27">
+<subSubSection id="C37F6522FFD7FFCDFDDCFAF1FC69FA94" box="[597,991,1333,1360]" pageId="26" pageNumber="27" type="nomenclature">
+<paragraph id="8BDA36A9FFD7FFCDFDDCFAF1FC69FA94" blockId="26.[597,991,1333,1360]" box="[597,991,1333,1360]" pageId="26" pageNumber="27">
+<heading id="D09281C5FFD7FFCDFDDCFAF1FC69FA94" box="[597,991,1333,1360]" centered="true" fontSize="11" level="2" pageId="26" pageNumber="27" reason="2">
+Genus 
+<taxonomicName id="4C654D2AFFD7FFCDFD2EFAF1FC69FA94" authority="Shevyrev, 1965" authorityName="Shevyrev" authorityYear="1965" box="[679,991,1333,1360]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="genus">
+<emphasis id="B911EABBFFD7FFCDFD2EFAF1FC97FA94" bold="true" box="[679,801,1333,1360]" italics="true" pageId="26" pageNumber="27">Dzhulfites</emphasis>
+<bibRefCitation id="EFF44B58FFD7FFCDFCA0FAF1FC69FA94" author="Shevyrev A. A." box="[809,991,1333,1360]" pageId="26" pageNumber="27" pagination="166 - 182" refId="ref41534" refString="Shevyrev A. A. 1965. Nadortyad Ammonoidea. In: Ruzhencev V. E. &amp; Sarytcheva T. G. (eds) Rasvitie i smena morskikh organizmov na rubezhe Paleozoya i Mezozoya. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 108: 166 - 182." type="journal article" year="1965">Shevyrev, 1965</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFD7FFCDFF34FAB1FC37FA7F" pageId="26" pageNumber="27" type="type_taxon">
+<paragraph id="8BDA36A9FFD7FFCDFF34FAB1FEEEFA4A" blockId="26.[189,897,1396,1468]" box="[189,344,1396,1423]" pageId="26" pageNumber="27">
+<heading id="D09281C5FFD7FFCDFF34FAB1FEEEFA4A" bold="true" box="[189,344,1396,1423]" fontSize="11" level="3" pageId="26" pageNumber="27" reason="3">
+<emphasis id="B911EABBFFD7FFCDFF34FAB1FEEEFA4A" bold="true" box="[189,344,1396,1423]" pageId="26" pageNumber="27">
+<typeStatus id="54DE880BFFD7FFCDFF34FAB1FF4CFA4B" box="[189,250,1397,1423]" pageId="26" pageNumber="27">Type</typeStatus>
+species
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD7FFCDFF34FA65FC37FA7F" blockId="26.[189,897,1396,1468]" box="[189,897,1441,1468]" pageId="26" pageNumber="27">
+<taxonomicName id="4C654D2AFFD7FFCDFF34FA65FDE9FA78" authority="Shevyrev, 1965" authorityName="Shevyrev" authorityYear="1965" box="[189,607,1441,1468]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="spinosus">
+<emphasis id="B911EABBFFD7FFCDFF34FA65FE29FA7F" box="[189,415,1441,1467]" italics="true" pageId="26" pageNumber="27">Dzhulfites spinosus</emphasis>
+<bibRefCitation id="EFF44B58FFD7FFCDFE2FFA65FDE9FA78" author="Shevyrev A. A." box="[422,607,1441,1468]" pageId="26" pageNumber="27" pagination="166 - 182" refId="ref41534" refString="Shevyrev A. A. 1965. Nadortyad Ammonoidea. In: Ruzhencev V. E. &amp; Sarytcheva T. G. (eds) Rasvitie i smena morskikh organizmov na rubezhe Paleozoya i Mezozoya. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 108: 166 - 182." type="journal article" year="1965">Shevyrev, 1965</bibRefCitation>
+</taxonomicName>
+, by original designation.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFD7FFCDFF34FA25FD10F94D" pageId="26" pageNumber="27" type="reference_group">
+<paragraph id="8BDA36A9FFD7FFCDFF34FA25FE3FFA3F" blockId="26.[189,1264,1505,1576]" box="[189,393,1505,1531]" pageId="26" pageNumber="27">
+<heading id="D09281C5FFD7FFCDFF34FA25FE3FFA3F" bold="true" box="[189,393,1505,1531]" fontSize="11" level="3" pageId="26" pageNumber="27" reason="3">
+<emphasis id="B911EABBFFD7FFCDFF34FA25FE3FFA3F" bold="true" box="[189,393,1505,1531]" pageId="26" pageNumber="27">Included species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD7FFCDFF34F9C9FB46F9EC" blockId="26.[189,1264,1505,1576]" box="[189,1264,1549,1576]" pageId="26" pageNumber="27">
+<taxonomicName id="4C654D2AFFD7FFCDFF34F9C9FDF2F9E3" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[189,580,1549,1576]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="hebes">
+<emphasis id="B911EABBFFD7FFCDFF34F9C9FECBF9E3" box="[189,381,1549,1575]" italics="true" pageId="26" pageNumber="27">Dzhulfites hebes</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFD7FFCDFDE3F9CAFCF7F9EC" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[618,833,1549,1576]" pageId="26" pageNumber="27" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFD7FFCDFD24F9CAFD5EF9E3" box="[685,744,1549,1575]" italics="true" pageId="26" pageNumber="27">et al.</emphasis>
+(2016)
+</bibRefCitation>
+; 
+<taxonomicName id="4C654D2AFFD7FFCDFCC4F9C9FB5CF9EC" authority="Shevyrev, 1965" authorityName="Shevyrev" authorityYear="1965" box="[845,1258,1549,1576]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="nodosus">
+<emphasis id="B911EABBFFD7FFCDFCC4F9C9FB9FF9E3" box="[845,1065,1549,1575]" italics="true" pageId="26" pageNumber="27">Dzhulfites nodosus</emphasis>
+<bibRefCitation id="EFF44B58FFD7FFCDFBB8F9C9FB5CF9EC" author="Shevyrev A. A." box="[1073,1258,1549,1576]" pageId="26" pageNumber="27" pagination="166 - 182" refId="ref41534" refString="Shevyrev A. A. 1965. Nadortyad Ammonoidea. In: Ruzhencev V. E. &amp; Sarytcheva T. G. (eds) Rasvitie i smena morskikh organizmov na rubezhe Paleozoya i Mezozoya. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 108: 166 - 182." type="journal article" year="1965">Shevyrev, 1965</bibRefCitation>
+</taxonomicName>
+;
+</paragraph>
+<paragraph id="8BDA36A9FFD7FFCDFF34F989FD10F94D" blockId="26.[189,1397,1613,1673]" pageId="26" pageNumber="27">
+<taxonomicName id="4C654D2AFFD7FFCDFF34F989FDEDF9AC" authority="Shevyrev, 1965" authorityName="Shevyrev" authorityYear="1965" box="[189,603,1613,1640]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="spinosus">
+<emphasis id="B911EABBFFD7FFCDFF34F989FE2BF9A3" box="[189,413,1613,1639]" italics="true" pageId="26" pageNumber="27">Dzhulfites spinosus</emphasis>
+<bibRefCitation id="EFF44B58FFD7FFCDFE2AF989FDEDF9AC" author="Shevyrev A. A." box="[419,603,1613,1640]" pageId="26" pageNumber="27" pagination="166 - 182" refId="ref41534" refString="Shevyrev A. A. 1965. Nadortyad Ammonoidea. In: Ruzhencev V. E. &amp; Sarytcheva T. G. (eds) Rasvitie i smena morskikh organizmov na rubezhe Paleozoya i Mezozoya. Trudy Paleontologicheskogo Instituta Akademiya Nauk SSSR 108: 166 - 182." type="journal article" year="1965">Shevyrev, 1965</bibRefCitation>
+</taxonomicName>
+; 
+<taxonomicName id="4C654D2AFFD7FFCDFDEDF989FBB7F9A3" authority="Korn &amp; Ghaderi" authorityName="Korn &amp; Ghaderi" authorityYear="2016" box="[612,1025,1613,1640]" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="zalensis">
+<emphasis id="B911EABBFFD7FFCDFDEDF989FC88F9A3" box="[612,830,1613,1639]" italics="true" pageId="26" pageNumber="27">Dzhulfites zalensis</emphasis>
+Korn &amp; Ghaderi
+</taxonomicName>
+in 
+<bibRefCitation id="EFF44B58FFD7FFCDFBADF98AFB41F9AC" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[1060,1271,1613,1640]" pageId="26" pageNumber="27" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFD7FFCDFBEDF98AFB28F9A3" box="[1124,1182,1613,1639]" italics="true" pageId="26" pageNumber="27">et al.</emphasis>
+(2016)
+</bibRefCitation>
+; 
+<taxonomicName id="4C654D2AFFD7FFCDFA89F989FDF2F94C" authority="Korn &amp; Hairapetian" authorityName="Korn &amp; Hairapetian &amp; Ghaderi &amp; Leda &amp; Schobben &amp; Akbari" authorityYear="2021" class="Cephalopoda" family="Dzhulfitidae" genus="Dzhulfites" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="species" species="brevisellatus" status="sp. nov.">
+<emphasis id="B911EABBFFD7FFCDFA89F989FEE4F94C" italics="true" pageId="26" pageNumber="27">Dzhulfites brevisellatus</emphasis>
+Korn &amp; Hairapetian
+</taxonomicName>
+<taxonomicNameLabel id="A22257C0FFD7FFCDFDC2F9ABFD10F94D" box="[587,678,1647,1673]" pageId="26" pageNumber="27" rank="species">sp. nov.</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFD7FFCDFF34F96AFDA4F8BE" pageId="26" pageNumber="27" type="diagnosis">
+<paragraph id="8BDA36A9FFD7FFCDFF34F96AFE80F90C" blockId="26.[189,310,1710,1736]" box="[189,310,1710,1736]" pageId="26" pageNumber="27">
+<heading id="D09281C5FFD7FFCDFF34F96AFE80F90C" bold="true" box="[189,310,1710,1736]" fontSize="11" level="3" pageId="26" pageNumber="27" reason="3">
+<emphasis id="B911EABBFFD7FFCDFF34F96AFE80F90C" bold="true" box="[189,310,1710,1736]" pageId="26" pageNumber="27">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD7FFCDFF34F91FFDA4F8BE" blockId="26.[189,1399,1755,1915]" pageId="26" pageNumber="27">
+Representatives of the family 
+<taxonomicName id="4C654D2AFFD7FFCDFDBFF91FFD71F931" authorityName="Shevyrev" authorityYear="1965" box="[566,711,1755,1781]" class="Cephalopoda" family="Dzhulfitidae" kingdom="Animalia" order="Ammonoidea" pageId="26" pageNumber="27" phylum="Mollusca" rank="family">Dzhulfitidae</taxonomicName>
+with moderately large to large conch; maximum adult diameters are between 80 and 
+<quantity id="4C9D9B4CFFD7FFCDFDB2F938FD12F8D3" box="[571,676,1788,1815]" metricMagnitude="-1" metricUnit="m" metricValue="1.6" pageId="26" pageNumber="27" unit="mm" value="160.0">160 mm</quantity>
+. Subadult stage with trapezoidal whorl profile, adult stage variable. Subadult stage with small to large conical ventrolateral nodes, adult stage with weakening sculpture. Suture line with external lobe that does not reach the depth of the adventive lobe; prongs of external lobe simple to trifid.
+</paragraph>
+</subSubSection>
+<subSubSection id="C37F6522FFD7FFCDFF34F864FBB9F82D" box="[189,1039,1952,2025]" pageId="26" pageNumber="27" type="discussion">
+<paragraph id="8BDA36A9FFD7FFCDFF34F864FE99F87E" blockId="26.[189,303,1952,1978]" box="[189,303,1952,1978]" pageId="26" pageNumber="27">
+<heading id="D09281C5FFD7FFCDFF34F864FE99F87E" bold="true" box="[189,303,1952,1978]" fontSize="11" level="3" pageId="26" pageNumber="27" reason="3">
+<emphasis id="B911EABBFFD7FFCDFF34F864FE99F87E" bold="true" box="[189,303,1952,1978]" pageId="26" pageNumber="27">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8BDA36A9FFD7FFCDFF34F80BFBB9F82D" blockId="26.[189,1039,1998,2025]" box="[189,1039,1998,2025]" pageId="26" pageNumber="27">
+For a discussion of the genus, see Korn &amp; Ghaderi in 
+<bibRefCitation id="EFF44B58FFD7FFCDFCBDF80BFBBDF82D" author="Korn D. &amp; Ghaderi A. &amp; Leda L. &amp; Schobben M. &amp; Ashouri A. R." box="[820,1035,1998,2025]" pageId="26" pageNumber="27" pagination="841 - 890" refId="ref41028" refString="Korn D., Ghaderi A., Leda L., Schobben M. &amp; Ashouri A. R. 2016. The ammonoids from the Late Permian Paratirolites Limestone of Julfa (East Azerbaijan, Iran). Journal of Systematic Palaeontology 14: 841 - 890. https: // doi. org / 10.1080 / 14772019.2015.1119211" type="journal article" year="2016">
+Korn 
+<emphasis id="B911EABBFFD7FFCDFCFEF80BFC04F82C" box="[887,946,1998,2024]" italics="true" pageId="26" pageNumber="27">et al.</emphasis>
+(2016)
+</bibRefCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

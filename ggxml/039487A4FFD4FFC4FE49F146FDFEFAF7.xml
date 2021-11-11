@@ -1,0 +1,325 @@
+<document id="47CC6D22EE9824D1339CAA70FBDE2AA4" ID-DOI="http://doi.org/10.5281/zenodo.5170025" ID-GBIF-Dataset="bf24ff1f-569a-4222-afe1-8527c83d8003" ID-GBIF-Taxon="184010542" ID-ISSN="2118-9773" ID-Zenodo-Dep="5170025" ID-ZooBank="519E2F56-40E1-4431-BC90-8484E308D16E" LSID="urn:lsid:zoobank.org:act:AD6647DB-81AE-421B-8433-C4E3D9ACC314" _generate="added" checkinTime="1628011133532" checkinUser="felipe" docAuthor="Tan, Ming Kai, Wahab, Rodzay bin Haji Abdul, Japir, Razy, Chung, Authur Y. C. &amp; Robillard, Tony" docDate="2021" docId="039487A4FFD4FFC4FE49F146FDFEFAF7" docLanguage="en" docName="ejt-761_1-75.pdf" docOrigin="European Journal of Taxonomy 761 (1)" docSource="http://dx.doi.org/10.5852/ejt.2021.761.1449" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Nisitrus maculosus, new status" docType="treatment" docUuid="AD6647DB-81AE-421B-8433-C4E3D9ACC314" docUuidSource="ZooBank" docVersion="7" lastPageNumber="57" masterDocId="FFADFFDCFFECFFFCFFE0F365FFD5FFF9" masterDocTitle="Revision of the cricket genus Nisitrus Saussure (Orthoptera: Gryllidae: Eneopterinae) and descriptions of five new species" masterLastPageNumber="75" masterPageNumber="1" pageId="56" pageNumber="57" updateTime="1634707438457" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="68264FBBFFD12506E1330953EF8FB79D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C1725D6C46181958C8AD621C39477153">
+<mods:title id="7FF30A875319FF502AF72B7E59E5758A">Revision of the cricket genus Nisitrus Saussure (Orthoptera: Gryllidae: Eneopterinae) and descriptions of five new species</mods:title>
+</mods:titleInfo>
+<mods:name id="53DA79E19B86C3F466501845D63A4D0C" type="personal">
+<mods:role id="1D5A9DE8A19857DE021A6A49C3DAB6D1">
+<mods:roleTerm id="E6D9E390A73CAC4FB0966C68220890C4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6B3C1E7A310DD605D53829DB5280DF62">Tan, Ming Kai</mods:namePart>
+<mods:nameIdentifier id="FF47CF9300498EF8010779093326704B" type="LSID">2F544BE6-7986-4905-AE51-CF16B44D5251</mods:nameIdentifier>
+<mods:affiliation id="EEAEF80671E0FF615D8539AEC49C7D6F">Institut de Systématique, Evolution et Biodiversité (ISYEB), Muséum national dʼhistoire naturelle, CNRS, SU, EPHE, UA, 57 rue Cuvier, CP 50, 75231 Paris Cedex 05, France.</mods:affiliation>
+<mods:nameIdentifier id="4F027D5929D53859A907889A585232D8" type="email">mingkai@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5D9BB24A6D13E221C50B25C4DB819428" type="personal">
+<mods:role id="5F7BA6FDA1C69843FABDC54A4B29CAE5">
+<mods:roleTerm id="20A5D8B62EBAFEC6407DD6FE400E3B74">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1124B7E22DE1ED52B457FFF79C5347AB">Wahab, Rodzay bin Haji Abdul</mods:namePart>
+<mods:nameIdentifier id="AC470B83573021F81FDEDA25D2ECEB3F" type="LSID">50868E6A-34E4-471A-B941-C504CC9E895A</mods:nameIdentifier>
+<mods:affiliation id="8C76A16CF494A8201C7FA300C4742F48">Institute for Biodiversity and Environmental Research, Universiti Brunei Darussalam, Jalan Universiti, BE 1410, Brunei Darussalam.</mods:affiliation>
+<mods:nameIdentifier id="9BFB0DE3D266A43CE7F0E726AED71ED8" type="email">rodzay.wahab@ubd.edu.bn</mods:nameIdentifier>
+</mods:name>
+<mods:name id="13164114BA755B91D1716D4D94BE144C" type="personal">
+<mods:role id="ACCB20825C154FE214F3F9EE9C2D2B33">
+<mods:roleTerm id="ABA44AE94D44D0981C972D1AF225299C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AF4809AE4DACD96979FF904B08A2E542">Japir, Razy</mods:namePart>
+<mods:nameIdentifier id="065A6B53FD8D12886742315D6E47BEE8" type="LSID">B05E507D-FBA4-437F-AB03-94E349912EA5</mods:nameIdentifier>
+<mods:affiliation id="24151991DFB9A61C2BEECFE406245FDF">Forest Research Centre (Sepilok), Sabah Forestry Department, P. O. Box 1407, 90715 Sandakan, Sabah, Malaysia.</mods:affiliation>
+<mods:nameIdentifier id="A1800F26AB690FE0E6296703D50D1241" type="email">razy.Japir@sabah.gov.my</mods:nameIdentifier>
+</mods:name>
+<mods:name id="E1A15C06DC665A14D8B1AFFC8FDDE2A0" type="personal">
+<mods:role id="FD8AF633C3B52028D05BF3EFF5E2344B">
+<mods:roleTerm id="B7045C966C785FC9BA9939D2F869E102">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D570AD4B3D878C4DA7ADFF8CEFAC16BA">Chung, Authur Y. C.</mods:namePart>
+<mods:nameIdentifier id="9120CC9C76536410654506E804425F3A" type="LSID">6E7371D6-6FF9-42DF-8745-4A8304CB0978</mods:nameIdentifier>
+<mods:affiliation id="7124E8CB697CECD9412A989322559A4C">Forest Research Centre (Sepilok), Sabah Forestry Department, P. O. Box 1407, 90715 Sandakan, Sabah, Malaysia.</mods:affiliation>
+<mods:nameIdentifier id="7A037ECEC3E27B7C65A684F613516D59" type="email">arthur.Chung@sabah.gov.my</mods:nameIdentifier>
+</mods:name>
+<mods:name id="6EE9789424F0F32CEF0619968916910C" type="personal">
+<mods:role id="4754F093DAD967DF4ECEE4409899596E">
+<mods:roleTerm id="AACE74C5CAD6FA69927E669FE077AF39">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B1EB3ADB4638397CB48ECC5CE32C2EDC">Robillard, Tony</mods:namePart>
+<mods:nameIdentifier id="44399DB2ED17725FAB061CD1DACE474E" type="LSID">19BBE007-85D2-4325-8396-A1F4BAF5775C</mods:nameIdentifier>
+<mods:affiliation id="1805F714B5D538E8101908694F42A8AD">Institut de Systématique, Evolution et Biodiversité (ISYEB), Muséum national dʼhistoire naturelle, CNRS, SU, EPHE, UA, 57 rue Cuvier, CP 50, 75231 Paris Cedex 05, France.</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D3EE9D51ACF4FD04AC3D008F86ACF64C">text</mods:typeOfResource>
+<mods:relatedItem id="A0AE21ED35C3DD4DBABC4BAC0669BB91" type="host">
+<mods:titleInfo id="EF0EE26D45D5D6342E2C96BCA9B5FB34">
+<mods:title id="E74FCB1962573C206DA2F028C9F930EB">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="544BAC5D1F44D882B27CBE1F774D6B01">
+<mods:date id="6079111E57482C30D8FFA7691EAB54A5">2021</mods:date>
+<mods:detail id="F3A7624272B740D20AA5B9F3C5E76F5E" type="pubDate">
+<mods:number id="40E88D79C61B166C7A8BA11A085C075A">2021-07-28</mods:number>
+</mods:detail>
+<mods:detail id="053AA2835E7BF7A9C41042DA51FA01D9" type="volume">
+<mods:number id="09829F1F69E8270278FC7EB461013E5D">761</mods:number>
+</mods:detail>
+<mods:detail id="5400330EF74A05D6006C62E50DAC82AA" type="issue">
+<mods:number id="74B6D3F9C92358505E39103625B3341D">1</mods:number>
+</mods:detail>
+<mods:extent id="4DC7C066AA7D84C9A2417F8EA41B0916" unit="page">
+<mods:start id="AD283EB7FC1F8BBF0A860A7241052F33">1</mods:start>
+<mods:end id="79FBBEAF00C62074C00B67451F5DE5BA">75</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="43611313E74BAB70F64274311D724EE1">
+<mods:url id="59F19D9A9EBA03E7CD76F9B2B42A0019">http://dx.doi.org/10.5852/ejt.2021.761.1449</mods:url>
+</mods:location>
+<mods:classification id="D2017BEC1DBC8B33DBAAACB483008293">journal article</mods:classification>
+<mods:identifier id="E2EA927B0696CAB2C73994FFCA3BC69A" type="DOI">https://doi.org/10.5852/ejt.2021.761.1449</mods:identifier>
+<mods:identifier id="66D16D575F67FAEB2E22B966C70294DC" type="GBIF-Dataset">bf24ff1f-569a-4222-afe1-8527c83d8003</mods:identifier>
+<mods:identifier id="5E02E47F8067C5FD881324A71C352BD2" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="9AA7EBD9676947F532D18A6D69188D7C" type="Zenodo-Dep">5156259</mods:identifier>
+<mods:identifier id="A276D658289BB450F395D8C916690FB9" type="ZooBank">519E2F56-40E1-4431-BC90-8484E308D16E</mods:identifier>
+</mods:mods>
+<treatment id="039487A4FFD4FFC4FE49F146FDFEFAF7" ID-DOI="http://doi.org/10.5281/zenodo.5170025" ID-GBIF-Taxon="184010542" ID-Zenodo-Dep="5170025" LSID="urn:lsid:zoobank.org:act:AD6647DB-81AE-421B-8433-C4E3D9ACC314" httpUri="http://treatment.plazi.org/id/039487A4FFD4FFC4FE49F146FDFEFAF7" lastPageNumber="57" pageId="56" pageNumber="57">
+<subSubSection id="C3276539FFD4FFC4FE49F146FC90FD9A" pageId="56" pageNumber="57" type="nomenclature">
+<paragraph id="8B8236B2FFD4FFC4FE49F146FC90FD9A" blockId="56.[425,1162,547,611]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FE49F146FC9CFDC4" authority="(Walker, 1871)" baseAuthorityName="Walker" baseAuthorityYear="1871" box="[425,841,547,574]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="maculosus">
+<emphasis id="B949EAA0FFD4FFC4FE49F146FD47FDC7" bold="true" box="[425,658,547,574]" italics="true" pageId="56" pageNumber="57">Nisitrus maculosus</emphasis>
+(
+<bibRefCitation id="EFAC4B43FFD4FFC4FD40F146FC95FDC4" author="Walker F." box="[672,832,547,573]" pageId="56" pageNumber="57" refId="ref46528" refString="Walker F. 1871. Catalogue of the Specimens of Dermaptera Saltatoria in the Collection of the British Museum Part 5. Trustees of the British Museum, London." type="book" year="1871">Walker, 1871</bibRefCitation>
+)
+</taxonomicName>
+nomen dubium, 
+<taxonomicNameLabel id="A27A57DBFFD4FFC4FBEFF141FB5FFDC7" box="[1039,1162,548,574]" pageId="56" pageNumber="57">new status</taxonomicNameLabel>
+<tableCitation id="C6BF0309FFD4FFC4FD0EF12CFC90FD9A" box="[750,837,585,611]" captionStart="Table 2" captionStartId="10.[189,258,265,291]" captionTargetPageId="10" captionText="Table 2. Status of original species epithets associated with Nisitrus Saussure, 1878." httpUri="http://table.plazi.org/id/DF42663AFFE6FFF6FF5DF26CFB5AFEDA" pageId="56" pageNumber="57" tableUuid="DF42663AFFE6FFF6FF5DF26CFB5AFEDA">Table 2</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF1EBFA97FCEA" pageId="56" pageNumber="57" type="reference_group">
+<paragraph id="8B8236B2FFD4FFC4FF5DF1EBFD82FD51" blockId="56.[189,599,654,680]" box="[189,599,654,680]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF1EBFD82FD51" box="[189,599,654,680]" pageId="56" pageNumber="57">
+<treatmentCitation id="0A9C10A3FFD4FFC4FF5DF1EBFD86FD51" author="Walker F." box="[189,595,654,680]" page="14" pageId="56" pageNumber="57" year="1871">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF1EBFD86FD51" authority="Walker 1871: 14" authorityName="Walker" authorityPageNumber="14" authorityYear="1871" box="[189,595,654,680]" class="Insecta" family="Gryllidae" genus="Nisitra" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="maculosa">
+<emphasis id="B949EAA0FFD4FFC4FF5DF1EBFE53FD51" box="[189,390,654,680]" italics="true" pageId="56" pageNumber="57">Nisitra maculosa</emphasis>
+<bibRefCitation id="EFAC4B43FFD4FFC4FE6DF1EBFD86FD51" author="Walker F." box="[397,595,654,680]" pageId="56" pageNumber="57" refId="ref46528" refString="Walker F. 1871. Catalogue of the Specimens of Dermaptera Saltatoria in the Collection of the British Museum Part 5. Trustees of the British Museum, London." type="book" year="1871">Walker 1871: 14</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF1B6FD8BFD15" blockId="56.[189,1346,722,787]" box="[189,606,722,749]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF1B6FD8BFD15" box="[189,606,722,749]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF1B6FE53FD15" authorityName="Walker" authorityYear="1871" box="[189,390,722,748]" class="Insecta" family="Gryllidae" genus="Nisitra" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="maculosa">
+<emphasis id="B949EAA0FFD4FFC4FF5DF1B6FE53FD15" box="[189,390,722,748]" italics="true" pageId="56" pageNumber="57">Nisitra maculosa</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0A9C10A3FFD4FFC4FE44F1B7FD8EFD15" author="Kirby W. F." box="[420,603,722,748]" page="87" pageId="56" pageNumber="57" year="1906">
+<bibRefCitation id="EFAC4B43FFD4FFC4FE44F1B7FD8EFD15" author="Kirby W. F." box="[420,603,722,748]" pageId="56" pageNumber="57" refId="ref44587" refString="Kirby W. F. 1906. A Synonymic Catalogue of Orthoptera. Vol. 2. Orthoptera Saltatoria. Part I. (Achetidae et Phasgonuridae). Trustees of the british Museum, London." type="book" year="1906">Kirby 1906: 87</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF19CFA97FCEA" blockId="56.[189,1346,722,787]" box="[189,1346,760,787]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF19CFA97FCEA" box="[189,1346,760,787]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF19CFE48FCEB" baseAuthorityName="Walker" baseAuthorityYear="1871" box="[189,413,760,786]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="maculosus">
+<emphasis id="B949EAA0FFD4FFC4FF5DF19CFE48FCEB" box="[189,413,760,786]" italics="true" pageId="56" pageNumber="57">Nisitrus maculosus</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0A9C10A3FFD4FFC4FE5AF19DFD74FCEA" author="Chopard L." box="[442,673,760,787]" page="353" pageId="56" pageNumber="57" year="1968">
+<bibRefCitation id="EFAC4B43FFD4FFC4FE5AF19DFD74FCEA" author="Chopard L." box="[442,673,760,787]" pageId="56" pageNumber="57" pagination="213 - 500" refId="ref43495" refString="Chopard L. 1968. Fam. Gryllidae: Subfam. Mogoplistinae, Myrmecophilinae, Scleropterinae, Cachoplistinae, Pteroplistinae, Pentacentrinae, Phalangopsinae, Trigonidiinae, Eneopterinae; Fam. Oecanthidae, Gryllotalpidae. In: Beier M. (ed.) Orthopterorum Catalogus 12: 213 - 500. Junk, ' s-Gravenhage [The Hague]." type="journal article" year="1968">Chopard 1968: 353</bibRefCitation>
+</treatmentCitation>
+. — 
+<bibRefCitation id="EFAC4B43FFD4FFC4FD30F19DFC6FFCEB" author="Cigliano M. M. &amp; Braun H. &amp; Eades D. C. &amp; Otte D." box="[720,954,760,786]" pageId="56" pageNumber="57" refId="ref43370" refString="Cigliano M. M., Braun H., Eades D. C. &amp; Otte D. 2020. Orthoptera Species File Online. Version 5 (5.0). Available from http: // orthoptera. speciesfile. org / HomePage / Orthoptera / HomePage. aspx [accessed 8 Mar. 2020]." type="url" year="2020">
+Cigliano 
+<emphasis id="B949EAA0FFD4FFC4FCDDF19CFCA2FCEB" box="[829,887,760,786]" italics="true" pageId="56" pageNumber="57">et al.</emphasis>
+2020
+</bibRefCitation>
+(
+<taxonomicName id="4C3D4D31FFD4FFC4FC28F19DFB9CFCEB" authorityName="Latreille" authorityYear="1793" box="[968,1097,760,786]" class="Insecta" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="order">Orthoptera</taxonomicName>
+Species File online).
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF058FD9CFC71" pageId="56" pageNumber="57" type="materials_examined">
+<paragraph id="8B8236B2FFD4FFC4FF5DF058FE88FCAF" blockId="56.[189,349,828,855]" box="[189,349,828,855]" pageId="56" pageNumber="57">
+<heading id="D0CA81DEFFD4FFC4FF5DF058FE88FCAF" bold="true" box="[189,349,828,855]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B949EAA0FFD4FFC4FF5DF058FE88FCAF" bold="true" box="[189,349,828,855]" pageId="56" pageNumber="57">Type locality</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF00BFD9CFC71" blockId="56.[189,585,878,904]" box="[189,585,878,904]" pageId="56" pageNumber="57">
+<collectingCountry id="F32A7622FFD4FFC4FF5DF00BFEE1FC71" box="[189,308,878,904]" name="Indonesia" pageId="56" pageNumber="57">Indonesia</collectingCountry>
+: Maluka, Seram Island.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF0D6FE44FC07" pageId="56" pageNumber="57" type="description">
+<paragraph id="8B8236B2FFD4FFC4FF5DF0D6FE86FC35" blockId="56.[189,339,946,973]" box="[189,339,946,973]" pageId="56" pageNumber="57">
+<heading id="D0CA81DEFFD4FFC4FF5DF0D6FE86FC35" bold="true" box="[189,339,946,973]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B949EAA0FFD4FFC4FF5DF0D6FE86FC35" bold="true" box="[189,339,946,973]" pageId="56" pageNumber="57">Type details</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF081FE44FC07" blockId="56.[189,401,996,1023]" box="[189,401,996,1023]" pageId="56" pageNumber="57">Male, not located.</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF74CFC90FA77" pageId="56" pageNumber="57" type="discussion">
+<subSubSection id="C3276539FFD4FFC4FF5DF74CFDFEFAF7" pageId="56" pageNumber="57" type="discussion">
+<paragraph id="8B8236B2FFD4FFC4FF5DF74CFEFAFBBA" blockId="56.[189,303,1065,1091]" box="[189,303,1065,1091]" pageId="56" pageNumber="57">
+<heading id="D0CA81DEFFD4FFC4FF5DF74CFEFAFBBA" bold="true" box="[189,303,1065,1091]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B949EAA0FFD4FFC4FF5DF74CFEFAFBBA" bold="true" box="[189,303,1065,1091]" pageId="56" pageNumber="57">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF73FFDFEFAF7" blockId="56.[187,1399,1114,1294]" pageId="56" pageNumber="57">
+According to the uninformative original description, the 
+<typeStatus id="54868810FFD4FFC4FCA2F73EFCA1FB8C" box="[834,884,1115,1141]" pageId="56" pageNumber="57">type</typeStatus>
+of the species is from Seram Island, while no species of 
+<taxonomicName id="4C3D4D31FFD4FFC4FED6F7E4FE46FB63" authorityName="Saussure" authorityYear="1878" box="[310,403,1153,1178]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="genus">
+<emphasis id="B949EAA0FFD4FFC4FED6F7E4FE46FB63" box="[310,403,1153,1178]" italics="true" pageId="56" pageNumber="57">Nisitrus</emphasis>
+</taxonomicName>
+has ever been recorded in the region of 
+<collectingRegion id="49F9F850FFD4FFC4FC85F7E5FC15FB63" box="[869,960,1152,1178]" country="Indonesia" name="Maluku Utara" pageId="56" pageNumber="57">Maluku</collectingRegion>
+Archipelago (
+<collectingCountry id="F32A7622FFD4FFC4FB85F7E5FB0BFB62" box="[1125,1246,1152,1179]" name="Indonesia" pageId="56" pageNumber="57">Indonesia</collectingCountry>
+). In addition, the description mentions that the eyes are little prominent, and that the FWs extend beyond the abdomen, which is not compatible with any other species of 
+<taxonomicName id="4C3D4D31FFD4FFC4FD15F7ABFC84FB1E" authorityName="Saussure" authorityYear="1878" box="[757,849,1230,1255]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="genus">
+<emphasis id="B949EAA0FFD4FFC4FD15F7ABFC84FB1E" box="[757,849,1230,1255]" italics="true" pageId="56" pageNumber="57">Nisitrus</emphasis>
+</taxonomicName>
+. With the 
+<typeStatus id="54868810FFD4FFC4FC25F7A8FC22FB1E" box="[965,1015,1229,1255]" pageId="56" pageNumber="57">type</typeStatus>
+missing, we consider this species as nomen dubium (new status).
+</paragraph>
+</subSubSection>
+<treatment id="039487A4FFD4FFC4FF2FF62BFAD2F810" ID-DOI="http://doi.org/10.5281/zenodo.5170029" ID-GBIF-Taxon="184010541" ID-Zenodo-Dep="5170029" LSID="urn:lsid:zoobank.org:act:AD6647DB-81AE-421B-8433-C4E3D9ACC314" httpUri="http://treatment.plazi.org/id/039487A4FFD4FFC4FE49F146FDFEFAF7" pageId="56" pageNumber="57">
+<subSubSection id="C3276539FFD4FFC4FF2FF62BFC90FA77" pageId="56" pageNumber="57" type="nomenclature">
+<paragraph id="8B8236B2FFD4FFC4FF2FF62BFC90FA77" blockId="56.[207,1381,1358,1422]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF2FF62BFDB1FA91" authority="Walker, 1869" authorityName="Walker" authorityYear="1869" box="[207,612,1358,1384]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="marginatus">
+<emphasis id="B949EAA0FFD4FFC4FF2FF62BFE14FA91" bold="true" box="[207,449,1358,1384]" italics="true" pageId="56" pageNumber="57">Nisitrus marginatus</emphasis>
+<bibRefCitation id="EFAC4B43FFD4FFC4FE28F62BFDB1FA91" author="Walker F." box="[456,612,1358,1384]" pageId="56" pageNumber="57" refId="ref46498" refString="Walker F. 1869. Catalogue of the Specimens of Dermaptera Saltatoria in the Collection of the British Museum Part 2. Trustees of the British Museum, London." type="book" year="1869">Walker, 1869</bibRefCitation>
+</taxonomicName>
+junior synonym of 
+<taxonomicName id="4C3D4D31FFD4FFC4FCABF62BFB65FA91" authority="(Haan, 1944)" baseAuthorityName="Haan" baseAuthorityYear="1944" box="[843,1200,1358,1384]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittatus">
+<emphasis id="B949EAA0FFD4FFC4FCABF62BFBDEFA91" bold="true" box="[843,1035,1358,1384]" italics="true" pageId="56" pageNumber="57">Nisitrus vittatus</emphasis>
+(Haan, 1944)
+</taxonomicName>
+, syn. reinstated 
+<tableCitation id="C6BF0309FFD4FFC4FD0EF611FC90FA77" box="[750,837,1396,1422]" captionStart="Table 2" captionStartId="10.[189,258,265,291]" captionTargetPageId="10" captionText="Table 2. Status of original species epithets associated with Nisitrus Saussure, 1878." httpUri="http://table.plazi.org/id/DF42663AFFE6FFF6FF5DF26CFB5AFEDA" pageId="56" pageNumber="57" tableUuid="DF42663AFFE6FFF6FF5DF26CFB5AFEDA">Table 2</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF6DFFE99F972" pageId="56" pageNumber="57" type="reference_group">
+<paragraph id="8B8236B2FFD4FFC4FF5DF6DFFDB3FA2A" blockId="56.[189,614,1465,1491]" box="[189,614,1465,1491]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF6DFFDB3FA2A" box="[189,614,1465,1491]" pageId="56" pageNumber="57">
+<treatmentCitation id="0A9C10A3FFD4FFC4FF5DF6DFFDB7FA2A" author="Walker F." box="[189,610,1465,1491]" page="92" pageId="56" pageNumber="57" year="1869">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF6DFFDB7FA2A" authority="Walker, 1869: 92" authorityName="Walker" authorityPageNumber="92" authorityYear="1869" box="[189,610,1465,1491]" class="Insecta" family="Gryllidae" genus="Nisitra" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="marginata">
+<emphasis id="B949EAA0FFD4FFC4FF5DF6DFFE5AFA2A" box="[189,399,1466,1491]" italics="true" pageId="56" pageNumber="57">Nisitra marginata</emphasis>
+<bibRefCitation id="EFAC4B43FFD4FFC4FE76F6DCFDB7FA2A" author="Walker F." box="[406,610,1465,1491]" pageId="56" pageNumber="57" refId="ref46498" refString="Walker F. 1869. Catalogue of the Specimens of Dermaptera Saltatoria in the Collection of the British Museum Part 2. Trustees of the British Museum, London." type="book" year="1869">Walker, 1869: 92</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF69BFC4DF9E1" blockId="56.[189,1399,1533,1675]" box="[189,920,1533,1560]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF69BFC4DF9E1" box="[189,920,1533,1560]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF69BFEA2F9EE" baseAuthorityName="Haan" baseAuthorityYear="1944" box="[189,375,1534,1559]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittatus">
+<emphasis id="B949EAA0FFD4FFC4FF5DF69BFEA2F9EE" box="[189,375,1534,1559]" italics="true" pageId="56" pageNumber="57">Nisitrus vittatus</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0A9C10A3FFD4FFC4FE75F698FDAAF9E1" author="Saussure H." box="[405,639,1533,1560]" page="653" pageId="56" pageNumber="57" year="1878">
+<bibRefCitation id="EFAC4B43FFD4FFC4FE75F698FDAAF9E1" author="Saussure H." box="[405,639,1533,1560]" pageId="56" pageNumber="57" pagination="369 - 704" refId="ref45577" refString="Saussure H. 1878. Melanges orthopterologiques. VI. Fascicule Gryllides. Memoires de la Societe de Physique et d'Histoire naturelle de Geneve 25 (2): 369 - 704 [505 - 834]." type="journal article" year="1878">Saussure 1878: 653</bibRefCitation>
+</treatmentCitation>
+. — 
+<treatmentCitation id="0A9C10A3FFD4FFC4FD4EF698FC40F9E1" author="Chopard L." box="[686,917,1533,1560]" page="352" pageId="56" pageNumber="57" year="1968">
+<bibRefCitation id="EFAC4B43FFD4FFC4FD4EF698FC40F9E1" author="Chopard L." box="[686,917,1533,1560]" pageId="56" pageNumber="57" pagination="213 - 500" refId="ref43495" refString="Chopard L. 1968. Fam. Gryllidae: Subfam. Mogoplistinae, Myrmecophilinae, Scleropterinae, Cachoplistinae, Pteroplistinae, Pentacentrinae, Phalangopsinae, Trigonidiinae, Eneopterinae; Fam. Oecanthidae, Gryllotalpidae. In: Beier M. (ed.) Orthopterorum Catalogus 12: 213 - 500. Junk, ' s-Gravenhage [The Hague]." type="journal article" year="1968">Chopard 1968: 352</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF541FCD8F9C7" blockId="56.[189,1399,1533,1675]" box="[189,781,1571,1598]" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF541FEB4F9C4" baseAuthorityName="Haan" baseAuthorityYear="1844" box="[189,353,1572,1597]" class="Insecta" family="Gryllidae" genus="Nisitra" higherTaxonomySource="GBIF" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittata">
+<emphasis id="B949EAA0FFD4FFC4FF5DF541FEB4F9C4" box="[189,353,1572,1597]" italics="true" pageId="56" pageNumber="57">Nisitra vittata</emphasis>
+</taxonomicName>
+– 
+<bibRefCitation id="EFAC4B43FFD4FFC4FE9EF546FDDDF9C4" author="Kirby W. F." box="[382,520,1571,1597]" pageId="56" pageNumber="57" refId="ref44587" refString="Kirby W. F. 1906. A Synonymic Catalogue of Orthoptera. Vol. 2. Orthoptera Saltatoria. Part I. (Achetidae et Phasgonuridae). Trustees of the british Museum, London." type="book" year="1906">Kirby 1906</bibRefCitation>
+; 87 (junior synonym).
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF52FFE99F972" blockId="56.[189,1399,1533,1675]" pageId="56" pageNumber="57">
+<treatmentCitationGroup id="AB2D119CFFD4FFC4FF5DF52FFE99F972" pageId="56" pageNumber="57">
+<taxonomicName id="4C3D4D31FFD4FFC4FF5DF52FFE73F99A" authorityName="Walker" authorityYear="1869" box="[189,422,1610,1635]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="marginatus">
+<emphasis id="B949EAA0FFD4FFC4FF5DF52FFE73F99A" box="[189,422,1610,1635]" italics="true" pageId="56" pageNumber="57">Nisitrus marginatus</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="0A9C10A3FFD4FFC4FE23F52FFDB1F99A" author="Otte D." box="[451,612,1609,1636]" page="67" pageId="56" pageNumber="57" year="1994">
+<bibRefCitation id="EFAC4B43FFD4FFC4FE23F52FFDB1F99A" author="Otte D." box="[451,612,1609,1636]" pageId="56" pageNumber="57" refId="ref44815" refString="Otte D. 1994. Orthoptera Species File. Vol. 1. Crickets (Grylloidea). Orthopterists' Society and the ANSP, Philadelphia." type="book" year="1994">Otte 1994: 67</bibRefCitation>
+</treatmentCitation>
+(name reinstated). — 
+<bibRefCitation id="EFAC4B43FFD4FFC4FC8CF52CFB80F99D" author="Cigliano M. M. &amp; Braun H. &amp; Eades D. C. &amp; Otte D." box="[876,1109,1609,1636]" pageId="56" pageNumber="57" refId="ref43370" refString="Cigliano M. M., Braun H., Eades D. C. &amp; Otte D. 2020. Orthoptera Species File Online. Version 5 (5.0). Available from http: // orthoptera. speciesfile. org / HomePage / Orthoptera / HomePage. aspx [accessed 8 Mar. 2020]." type="url" year="2020">
+Cigliano 
+<emphasis id="B949EAA0FFD4FFC4FC38F52FFBC6F99A" box="[984,1043,1609,1635]" italics="true" pageId="56" pageNumber="57">et al.</emphasis>
+2020
+</bibRefCitation>
+(
+<taxonomicName id="4C3D4D31FFD4FFC4FB84F52CFB30F99A" authorityName="Latreille" authorityYear="1793" box="[1124,1253,1609,1635]" class="Insecta" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="order">Orthoptera</taxonomicName>
+species File Online).
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF5D1FB91F8DE" pageId="56" pageNumber="57" type="materials_examined">
+<paragraph id="8B8236B2FFD4FFC4FF5DF5D1FE7FF937" blockId="56.[189,426,1716,1742]" box="[189,426,1716,1742]" pageId="56" pageNumber="57">
+<heading id="D0CA81DEFFD4FFC4FF5DF5D1FE7FF937" bold="true" box="[189,426,1716,1742]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B949EAA0FFD4FFC4FF5DF5D1FE7FF937" bold="true" box="[189,426,1716,1742]" pageId="56" pageNumber="57">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF0AF580FE9AF906" blockId="56.[189,1092,1765,1831]" box="[234,335,1765,1791]" pageId="56" pageNumber="57">
+<emphasis id="B949EAA0FFD4FFC4FF0AF580FE9AF906" bold="true" box="[234,335,1765,1791]" pageId="56" pageNumber="57">
+<typeStatus id="54868810FFD4FFC4FF0AF580FE9AF906" box="[234,335,1765,1791]" pageId="56" pageNumber="57">Syntype</typeStatus>
+</emphasis>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF469FB91F8DE" blockId="56.[189,1092,1765,1831]" box="[189,1092,1804,1831]" pageId="56" pageNumber="57">
+<materialsCitation id="3B553CEFFFD4FFC4FF5DF469FB95F8DE" ID-GBIF-Occurrence="3333037764" box="[189,1088,1804,1831]" collectionCode="NHMUK" collectorName="Stamford Raffles" country="Indonesia" location="Sumatra" pageId="56" pageNumber="57" specimenCode="NHMUK 012497570" specimenCount="1" specimenCount-female="1" stateProvince="Sumatra" typeStatus="syntype">
+<collectingCountry id="F32A7622FFD4FFC4FF5DF469FE8EF8DF" box="[189,347,1804,1830]" name="Indonesia" pageId="56" pageNumber="57">INDONESIA</collectingCountry>
+– 
+<emphasis id="B949EAA0FFD4FFC4FE98F469FE30F8DF" bold="true" box="[376,485,1804,1830]" pageId="56" pageNumber="57">
+<collectingRegion id="49F9F850FFD4FFC4FE98F469FE30F8DF" box="[376,485,1804,1830]" country="Indonesia" name="Sumatera Utara" pageId="56" pageNumber="57">Sumatra</collectingRegion>
+</emphasis>
+• 
+<specimenCount id="9D3BFD3BFFD4FFC4FE1EF469FDFEF8DF" box="[510,555,1804,1830]" pageId="56" pageNumber="57" type="female">1 ♀</specimenCount>
+; 
+<collectorName id="26C85364FFD4FFC4FDDAF469FD2AF8DF" box="[570,767,1804,1830]" pageId="56" pageNumber="57">Stamford Raffles</collectorName>
+leg.; 
+<specimenCode id="DB9B9EC9FFD4FFC4FCA2F469FB95F8DE" box="[834,1088,1804,1831]" collectionCode="NHMUK" country="United Kingdom" httpUri="http://biocol.org/urn:lsid:biocol.org:col:34665" lsid="urn:lsid:biocol.org:col:34665" name="Natural History Museum, London" pageId="56" pageNumber="57" type="Museum">NHMUK 012497570</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3276539FFD4FFC4FF5DF434FAD2F810" pageId="56" pageNumber="57" type="discussion">
+<paragraph id="8B8236B2FFD4FFC4FF5DF434FEFAF892" blockId="56.[189,303,1873,1899]" box="[189,303,1873,1899]" pageId="56" pageNumber="57">
+<heading id="D0CA81DEFFD4FFC4FF5DF434FEFAF892" bold="true" box="[189,303,1873,1899]" fontSize="11" level="3" pageId="56" pageNumber="57" reason="3">
+<emphasis id="B949EAA0FFD4FFC4FF5DF434FEFAF892" bold="true" box="[189,303,1873,1899]" pageId="56" pageNumber="57">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B8236B2FFD4FFC4FF5DF4E7FAD2F810" blockId="56.[189,1399,1922,2025]" pageId="56" pageNumber="57">
+It is unclear why 
+<bibRefCitation id="EFAC4B43FFD4FFC4FE6BF4E7FDC6F865" author="Otte D." box="[395,531,1922,1948]" pageId="56" pageNumber="57" refId="ref44815" refString="Otte D. 1994. Orthoptera Species File. Vol. 1. Crickets (Grylloidea). Orthopterists' Society and the ANSP, Philadelphia." type="book" year="1994">Otte (1994)</bibRefCitation>
+reinstated 
+<taxonomicName id="4C3D4D31FFD4FFC4FD76F4E6FCEBF865" authorityName="Walker" authorityYear="1869" box="[662,830,1923,1948]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="marginatus">
+<emphasis id="B949EAA0FFD4FFC4FD76F4E6FCEBF865" box="[662,830,1923,1948]" italics="true" pageId="56" pageNumber="57">N. marginatus</emphasis>
+</taxonomicName>
+as a valid species, even though earlier literature had already synonymised this species under 
+<taxonomicName id="4C3D4D31FFD4FFC4FD2EF4CCFC9DF83B" baseAuthorityName="Haan" baseAuthorityYear="1944" box="[718,840,1961,1986]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittatus">
+<emphasis id="B949EAA0FFD4FFC4FD2EF4CCFC9DF83B" box="[718,840,1961,1986]" italics="true" pageId="56" pageNumber="57">N. vittatus</emphasis>
+</taxonomicName>
+. Based on the observation of a female 
+<typeStatus id="54868810FFD4FFC4FAFBF4CCFAA3F83A" box="[1307,1398,1961,1987]" pageId="56" pageNumber="57">syntype</typeStatus>
+showing no difference with 
+<taxonomicName id="4C3D4D31FFD4FFC4FDE4F4AAFDA9F811" baseAuthorityName="Haan" baseAuthorityYear="1944" box="[516,636,1999,2024]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittatus">
+<emphasis id="B949EAA0FFD4FFC4FDE4F4AAFDA9F811" box="[516,636,1999,2024]" italics="true" pageId="56" pageNumber="57">N. vittatus</emphasis>
+</taxonomicName>
+, we synonymise 
+<taxonomicName id="4C3D4D31FFD4FFC4FCA9F4AAFC25F811" authorityName="Walker" authorityYear="1869" box="[841,1008,1999,2024]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="marginatus">
+<emphasis id="B949EAA0FFD4FFC4FCA9F4AAFC25F811" box="[841,1008,1999,2024]" italics="true" pageId="56" pageNumber="57">N. marginatus</emphasis>
+</taxonomicName>
+again under 
+<taxonomicName id="4C3D4D31FFD4FFC4FB68F4AAFAD5F811" baseAuthorityName="Haan" baseAuthorityYear="1944" box="[1160,1280,1999,2024]" class="Insecta" family="Gryllidae" genus="Nisitrus" kingdom="Animalia" order="Orthoptera" pageId="56" pageNumber="57" phylum="Arthropoda" rank="species" species="vittatus">
+<emphasis id="B949EAA0FFD4FFC4FB68F4AAFAD5F811" box="[1160,1280,1999,2024]" italics="true" pageId="56" pageNumber="57">N. vittatus</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

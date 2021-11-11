@@ -1,0 +1,105 @@
+<document id="BC8A07D7F8DEE2533191B751E3EC1AA5" ID-DOI="http://doi.org/10.5281/zenodo.4791815" ID-GBIF-Dataset="fa98f55a-3776-4c2c-b3cc-12d2390d8834" ID-ISSN="2118-9773" ID-Zenodo-Dep="4791815" ID-ZooBank="05433EF3-5898-44B0-9353-889448C5122B" _generate="added" checkinTime="1621951278965" checkinUser="felipe" docAuthor="Sheffield, Cory S., Vilhelmsen, Lars &amp; Bakker, Frederique" docDate="2021" docId="03C04308FF98D47CFD93FD13FE7FFCDA" docLanguage="en" docName="ejt-751_1-23.pdf" docOrigin="European Journal of Taxonomy 751 (1)" docSource="http://dx.doi.org/10.5852/ejt.2021.751.1375" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.11:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="11" docTitle="Agapostemon Guerin-Meneville 1844" docType="treatment" docVersion="4" lastPageNumber="6" masterDocId="FFF93B70FF9DD479FF9EFF86FFC4FFC9" masterDocTitle="Taxonomy of the New World bee genus Agapostemon Guérin-Méneville - new names and synonymies (Hymenoptera: Halictidae)" masterLastPageNumber="23" masterPageNumber="1" pageId="5" pageNumber="6" updateTime="1621961270153" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="1AF77B443D96AA65D7CB0FFF2CF61654" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C07787BDCE287868AE0913F3EB462D51">
+<mods:title id="82AEA5D6922A84045037864DD235CF87">Taxonomy of the New World bee genus Agapostemon Guérin-Méneville - new names and synonymies (Hymenoptera: Halictidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="631DF5D47426D535714F2B9D207E3A76" type="personal">
+<mods:role id="AC6FECDC9BFF362A88DEB651C13F5FD1">
+<mods:roleTerm id="32E8726EE5F43EC2AD088B45E6AAA6BE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D734C7F5492A217D6A2C4019DA9F031D">Sheffield, Cory S.</mods:namePart>
+<mods:nameIdentifier id="F8FD16F763D4DCDAE737771167D6DEBD" type="LSID">E8A20492-60B0-411E-A119-99A6A7F16C15</mods:nameIdentifier>
+<mods:affiliation id="3CF9E030026F81A58279CCC9FFDCDC7B">Royal Saskatchewan Museum, 2340 Albert Street, Regina, Saskatchewan S 4 P 2 V 7 Canada.</mods:affiliation>
+<mods:nameIdentifier id="F66EADF2937098DC32FC2E7F0C2600B6" type="email">Cory.Sheffield@gov.sk.ca</mods:nameIdentifier>
+</mods:name>
+<mods:name id="0ACE99C4F14BC60AA7F2DE2C30F6FB57" type="personal">
+<mods:role id="A2E929AAF8118E17E66F29D79FC2AF86">
+<mods:roleTerm id="1367A1FED7099955C3A4C258307D31D2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D56FD74BF8076B11386412C008D4A846">Vilhelmsen, Lars</mods:namePart>
+<mods:nameIdentifier id="1CBFAEA5CD5EBAAE7732E922B346169A" type="LSID">96FC3783-9FA7-421E-B292-6718A3762D45</mods:nameIdentifier>
+<mods:affiliation id="11149CEFA8578A6D7886F23759AFBEB8">Natural History Museum of Denmark, Science, University of Copenhagen, Universitetsparken 15, DK- 2100 Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="68ACB39F258A677CCFCCED5C6CB35200" type="email">lbvilhelmsen@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:name id="45381ECE7F327D84C356C3209F09ACFC" type="personal">
+<mods:role id="D9881B39629B9F0E107626BEE5A81394">
+<mods:roleTerm id="BA52E962B86345824084286DB4554AF9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B2D3593BE587439870DBB2E37609C417">Bakker, Frederique</mods:namePart>
+<mods:nameIdentifier id="BDB1338FEE5FE16EC47CE28B41361437" type="LSID">F43869DC-20F9-4ED2-A37D-4A3282B1D2BD</mods:nameIdentifier>
+<mods:affiliation id="945C1F16CF96FB531F616ED026E1EB18">Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, Netherlands.</mods:affiliation>
+<mods:nameIdentifier id="53CC128F4C726A98AAEA61373415DEC3" type="email">frederique.bakker@naturalis.nl</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="1A6F600C3F7262B9FD88E3A32423C130">text</mods:typeOfResource>
+<mods:relatedItem id="D10F0AC652CFDD19A372B8C0EEC65A24" type="host">
+<mods:titleInfo id="0D0A8277D62E110B466C57631400682C">
+<mods:title id="88B0A6A10D98346523DC7D558359865F">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="928DBBEE416B9AEA4373ABA196E07611">
+<mods:date id="928598F043F8D63B02B86FFCD8FA9BD5">2021</mods:date>
+<mods:detail id="6DF941A120C4861A7455795981F8D88B" type="pubDate">
+<mods:number id="4663A087EA319492D00E28F3CCF471B4">2021-05-25</mods:number>
+</mods:detail>
+<mods:detail id="35A7B5E392510498C99AD1F5DD725F0E" type="volume">
+<mods:number id="9AF89B35FA0B81E017CB088048CA192E">751</mods:number>
+</mods:detail>
+<mods:detail id="599206403CA8EF9D2A0441369A423325" type="issue">
+<mods:number id="ABB5C79265419B72223B0FB326799C4F">1</mods:number>
+</mods:detail>
+<mods:extent id="FA9577D39656310F189452218281D4B3" unit="page">
+<mods:start id="742FE670C2D364D76F2C3F7D54C16DC1">1</mods:start>
+<mods:end id="4EB7E36FCDEDF3CE25FA82D0CA7B686A">23</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="DA10BF1C050975AFB7D848C16CA0E8A9">
+<mods:url id="DF7D20CD8B6F96ABFA4E628F8445A7EA">http://dx.doi.org/10.5852/ejt.2021.751.1375</mods:url>
+</mods:location>
+<mods:classification id="C685C0FE41151D80FEC2F7B6D8D9E0DC">journal article</mods:classification>
+<mods:identifier id="DB346C73735AFAE3797D74699CFF9091" type="DOI">https://doi.org/10.5852/ejt.2021.751.1375</mods:identifier>
+<mods:identifier id="AB2F627757C662DA70D5B0582DA130EB" type="GBIF-Dataset">fa98f55a-3776-4c2c-b3cc-12d2390d8834</mods:identifier>
+<mods:identifier id="54CCF4821D080872B43CD1652AA6B398" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="829E1D3312973C57DBE19225375FA61C" type="Zenodo-Dep">4792347</mods:identifier>
+<mods:identifier id="452E3167EBDF70FFD733CBCC638BC171" type="ZooBank">05433EF3-5898-44B0-9353-889448C5122B</mods:identifier>
+</mods:mods>
+<treatment id="03C04308FF98D47CFD93FD13FE7FFCDA" ID-DOI="http://doi.org/10.5281/zenodo.4791815" ID-Zenodo-Dep="4791815" LSID="urn:lsid:plazi:treatment:03C04308FF98D47CFD93FD13FE7FFCDA" httpUri="http://treatment.plazi.org/id/03C04308FF98D47CFD93FD13FE7FFCDA" lastPageNumber="6" pageId="5" pageNumber="6">
+<subSubSection id="C373A195FF98D47CFD93FD13FBE3FD66" box="[525,1063,660,687]" pageId="5" pageNumber="6" type="nomenclature">
+<paragraph id="8BD6F21EFF98D47CFD93FD13FBE3FD66" blockId="5.[525,1063,660,687]" box="[525,1063,660,687]" pageId="5" pageNumber="6">
+<heading id="D09E4572FF98D47CFD93FD13FBE3FD66" box="[525,1063,660,687]" centered="true" fontSize="11" level="2" pageId="5" pageNumber="6" reason="2">
+Genus 
+<taxonomicName id="4C69899DFF98D47CFDC1FD12FBE3FD66" authority="Guerin-Meneville, 1844" authorityName="Guerin-Meneville" authorityYear="1844" box="[607,1063,660,687]" class="Insecta" family="Halictidae" genus="Agapostemon" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="6" phylum="Arthropoda" rank="genus">
+<emphasis id="B91D2E0CFF98D47CFDC1FD12FCC0FD67" bold="true" box="[607,772,660,686]" italics="true" pageId="5" pageNumber="6">Agapostemon</emphasis>
+Guérin-Méneville, 1844
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<treatmentCitationGroup id="AB79D530FF98D47CFF23FD50FE7FFCDA" pageId="5" pageNumber="6">
+<subSubSection id="C373A195FF98D47CFF23FD50FC8CFD39" box="[189,840,726,753]" pageId="5" pageNumber="6" type="reference_group">
+<paragraph id="8BD6F21EFF98D47CFF23FD50FC8CFD39" blockId="5.[189,1398,726,787]" box="[189,840,726,753]" pageId="5" pageNumber="6">
+<treatmentCitation id="0AC8D40FFF98D47CFF23FD50FC80FD39" author="Guerin-Meneville F. E." box="[189,836,726,753]" page="448" pageId="5" pageNumber="6" year="1844">
+<taxonomicName id="4C69899DFF98D47CFF23FD50FC80FD39" authority="Guerin-Meneville, 1844 a: 448" authorityName="Guerin-Meneville" authorityPageNumber="448" authorityYear="1844" box="[189,836,726,753]" class="Insecta" family="Andrenidae" genus="Andrena" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="6" phylum="Arthropoda" rank="subGenus" subGenus="Agapostemon">
+<emphasis id="B91D2E0CFF98D47CFF23FD50FEE5FD39" box="[189,289,726,752]" italics="true" pageId="5" pageNumber="6">Andrena</emphasis>
+(
+<emphasis id="B91D2E0CFF98D47CFEAEFD50FE14FD39" box="[304,464,726,752]" italics="true" pageId="5" pageNumber="6">Agapostemon</emphasis>
+) 
+<bibRefCitation id="EFF88FEFFF98D47CFE41FD50FC80FD39" author="Guerin-Meneville F. E." box="[479,836,726,752]" pageId="5" pageNumber="6" refId="ref9402" refString="Guerin-Meneville F. E. 1844 a. Iconographie du Regne Animal de G. Cuvier, ou representation d'apres nature de l'une des especes les plus remarquables, et souvent non encore figurees de chaque genre d'animaux. Insectes. [1829 - 1838]. J. B. Bailliere, Paris. [text]. https: // doi. org / 10.5962 / bhl. title. 10331" type="book" year="1844">Guérin-Méneville, 1844a: 448</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C373A195FF98D47CFCD2FD51FE7FFCDA" pageId="5" pageNumber="6" type="type-taxon">
+<paragraph id="8BD6F21EFF98D47CFCD2FD51FE7FFCDA" blockId="5.[189,1398,726,787]" pageId="5" pageNumber="6">
+<typeStatus id="54D24CBCFF98D47CFCD2FD51FC42FD38" box="[844,902,727,753]" pageId="5" pageNumber="6">Type</typeStatus>
+species: 
+<taxonomicName id="4C69899DFF98D47CFC73FD50FEE3FCDA" authority="Guerin-Meneville, 1844" authorityName="Guerin-Meneville" authorityYear="1844" class="Insecta" family="Apidae" genus="Apis" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="6" phylum="Arthropoda" rank="species" species="femoralis">
+<emphasis id="B91D2E0CFF98D47CFC73FD50FB52FD39" box="[1005,1174,726,752]" italics="true" pageId="5" pageNumber="6">Apis femoralis</emphasis>
+Guérin-Méneville, 1844
+</taxonomicName>
+, monobasic.
+</paragraph>
+</subSubSection>
+</treatmentCitationGroup>
+</treatment>
+</document>

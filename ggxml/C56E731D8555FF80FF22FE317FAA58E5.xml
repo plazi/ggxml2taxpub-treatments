@@ -1,0 +1,78 @@
+<document id="4411C9F97C7087C3F6CF17C1CB7B5D07" ID-DOI="10.5852/ejt.2018.466" ID-ISSN="2118-9773" ID-Zenodo-Dep="5557557" ID-ZooBank="1F74D019-D13C-426F-835A-24A9A1126C55" approvalRequired="1592" approvalRequired_for_taxonomicNames="39" approvalRequired_for_textStreams="1356" approvalRequired_for_treatments="197" box="[189,1221,468,495]" checkinTime="1633024809691" checkinUser="felipe" docAuthor="Laan, Richard Van Der" docDate="2018" docId="C56E731D8555FF80FF22FE317FAA58E5" docLanguage="en" docName="ejt-466_1-167.pdf" docOrigin="European Journal of Taxonomy 466" docSource="http://dx.doi.org/10.5852/ejt.2018.466" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Ancylostylidae Jordan 1923" docType="treatment" docVersion="2" lastPageNumber="65" masterDocId="39570B658515FFC0FF9FFFE57B6F590A" masterDocTitle="Family-group names of fossil fishes" masterLastPageNumber="167" masterPageNumber="1" pageId="64" pageNumber="65" updateTime="1635355915926" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="2F6AD9F280C98FC1D2B8C47BF51FE463" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B1D45B93FA24D9A0CF0F9E558CC5CFDB">
+<mods:title id="DF667605D0C3F391F05E75793D10D960">Family-group names of fossil fishes</mods:title>
+</mods:titleInfo>
+<mods:name id="566CED072730CCB42F9AA277A4B8FBC3" type="personal">
+<mods:role id="C73D5C5ADC69EFE21C433A8E898B792F">
+<mods:roleTerm id="84C30A338B6C1A2C6A444D463DC56D4C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B518161B891D409C3EA4546A8569FBC1">Laan, Richard Van Der</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="61BED52C388E13EDA709A016606A7C5B">text</mods:typeOfResource>
+<mods:relatedItem id="355576725255613888015E79352DF908" type="host">
+<mods:titleInfo id="C414A7C6A4F789D4DFDB64C79AEC1027">
+<mods:title id="48167431C278A5D9B7F7286E0AB499BE">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="9422F4CBF1B517062B316B6B791DE372">
+<mods:date id="2AC4CFE4C7D7D60698332937C2CD5078">2018</mods:date>
+<mods:detail id="E13FFC495006054AB1FA4C0A857D13E2" type="pubDate">
+<mods:number id="0D229C93560933EF62B530F7ECDE5132">2018-10-11</mods:number>
+</mods:detail>
+<mods:detail id="2F79E085D82A197A630389F07586C36D" type="volume">
+<mods:number id="099BE11E75B89649F9C4DFA3A399B704">466</mods:number>
+</mods:detail>
+<mods:extent id="3E7DE76847B1670ED633BB670476E0A8" unit="page">
+<mods:start id="7353E6B1669E24BD339EDCF5C817970B">1</mods:start>
+<mods:end id="3E28F1A7BC76F6AFDC58AEE88E065548">167</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="390DD143A288CAEDC1B1FAFAC8E38316">
+<mods:url id="AA4F2BBD1FA8C8E9959E60217B8C523E">http://dx.doi.org/10.5852/ejt.2018.466</mods:url>
+</mods:location>
+<mods:classification id="8FDACB2F69E6670D3804ABA2CC6B0A10">journal article</mods:classification>
+<mods:identifier id="5ED725069F689BED430B1B711075BF19" type="DOI">10.5852/ejt.2018.466</mods:identifier>
+<mods:identifier id="27AF8CA51015690A76D762ABCA5614FC" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="CE5E3537722B7A64FCD160311B491567" type="Zenodo-Dep">5557557</mods:identifier>
+<mods:identifier id="AD263E8352A144524EFA11F1DE36E17F" type="ZooBank">1F74D019-D13C-426F-835A-24A9A1126C55</mods:identifier>
+</mods:mods>
+<treatment id="C56E731D8555FF80FF22FE317FAA58E5" LSID="urn:lsid:plazi:treatment:C56E731D8555FF80FF22FE317FAA58E5" box="[189,1221,468,495]" httpUri="http://treatment.plazi.org/id/C56E731D8555FF80FF22FE317FAA58E5" lastPageNumber="65" pageId="64" pageNumber="65">
+<subSubSection id="05DD91808555FF80FF22FE3179D858E5" box="[189,695,468,495]" pageId="64" pageNumber="65" type="nomenclature">
+<paragraph id="4D78C20B8555FF80FF22FE3179D858E5" blockId="64.[189,1221,397,531]" box="[189,695,468,495]" pageId="64" pageNumber="65">
+† 
+<taxonomicName id="8AC7B9888555FF80FF56FE31792058E5" authority="Jordan 1923: 119" authorityName="Jordan" authorityPageNumber="119" authorityYear="1923" box="[201,591,468,495]" class="Actinopterygii" family="Ancylostylidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Clupeiformes" pageId="64" pageNumber="65" phylum="Chordata" rank="family">
+Ancylostylidae 
+<bibRefCitation id="2956BFFA8555FF80FE1AFE31792058E5" author="Jordan D. S." box="[389,591,468,495]" pageId="64" pageNumber="65" pagination="2" refId="ref64871" refString="Jordan D. S. 1923. A Classification of Fishes including Families and Genera as Far as Known. Stanford University Publications, University series, Biological Sciences 3 (2), Stanford University, Stanford. [January.]" type="journal article" year="1923">Jordan 1923: 119</bibRefCitation>
+</taxonomicName>
+(family)
+</paragraph>
+</subSubSection>
+<paragraph id="4D78C20B8555FF80FD21FE3079805B19" blockId="64.[189,1221,397,531]" pageId="64" pageNumber="65">
+<subSubSection id="05DD91808555FF80FD21FE307FAA58E5" box="[702,1221,468,495]" pageId="64" pageNumber="65" type="reference_group">
+† 
+<taxonomicName id="8AC7B9888555FF80FD52FE317FAA58E5" authority="Gorjanovic-Kramberger 1895" authorityName="Gorjanovic-Kramberger" authorityYear="1895" box="[717,1221,468,495]" class="Actinopterygii" family="Albulidae" genus="Ancylostylos" higherTaxonomySource="GBIF" kingdom="Animalia" order="Albuliformes" pageId="64" pageNumber="65" phylum="Chordata" rank="genus">
+<emphasis id="7FB31E198555FF80FD52FE31780E58E4" box="[717,865,468,494]" italics="true" pageId="64" pageNumber="65">Ancylostylos</emphasis>
+Gorjanović-Kramberger 1895
+</taxonomicName>
+</subSubSection>
+<treatment id="C56E731D8555FF80FF22FE1D7F055B18" ID-DOI="http://doi.org/10.5281/zenodo.5603517" ID-Zenodo-Dep="5603517" LSID="urn:lsid:plazi:treatment:C56E731D8555FF80FF22FE317FAA58E5" box="[189,1130,504,531]" httpUri="http://treatment.plazi.org/id/C56E731D8555FF80FF22FE317FAA58E5" pageId="64" pageNumber="65">
+<subSubSection id="05DD91808555FF80FF22FE1D79805B19" box="[189,751,504,531]" pageId="64" pageNumber="65" type="nomenclature">
+† 
+<taxonomicName id="8AC7B9888555FF80FF56FE1D79E75B18" authority="Cockerell 1919: 182" authorityName="Cockerell" authorityPageNumber="182" authorityYear="1919" box="[201,648,504,530]" class="Actinopterygii" family="Erythrinolepidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Clupeiformes" pageId="64" pageNumber="65" phylum="Chordata" rank="family">
+Erythrinolepidae 
+<bibRefCitation id="2956BFFA8555FF80FE07FE1D79E75B18" author="Cockerell T. D. A." box="[408,648,504,530]" pageId="64" pageNumber="65" pagination="165 - 188" refId="ref52294" refString="Cockerell T. D. A. 1919. Some American Cretaceous fish-scales, with notes on the classification and distribution of Cretaceous fishes. Professional Papers of the United States Geological Survey 120: 165 - 188." type="journal article" year="1919">Cockerell 1919: 182</bibRefCitation>
+</taxonomicName>
+(family)
+</subSubSection>
+<subSubSection id="05DD91808555FF80FD69FE1D7F055B18" box="[758,1130,504,530]" pageId="64" pageNumber="65" type="reference_group">
+<paragraph id="4D78C20B8555FF80FD69FE1D7F055B18" blockId="64.[189,1221,397,531]" box="[758,1130,504,530]" pageId="64" pageNumber="65">
+† 
+<emphasis id="7FB31E198555FF80FC9AFE1D78C15B18" box="[773,942,504,530]" italics="true" pageId="64" pageNumber="65">Erythrinolepis</emphasis>
+<bibRefCitation id="2956BFFA8555FF80FC29FE1D7F055B18" author="Cockerell T. D. A." box="[950,1130,504,530]" pageId="64" pageNumber="65" pagination="165 - 188" refId="ref52294" refString="Cockerell T. D. A. 1919. Some American Cretaceous fish-scales, with notes on the classification and distribution of Cretaceous fishes. Professional Papers of the United States Geological Survey 120: 165 - 188." type="journal article" year="1919">Cockerell 1919</bibRefCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</paragraph>
+</treatment>
+</document>

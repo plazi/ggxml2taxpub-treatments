@@ -1,0 +1,242 @@
+<document id="66B9E3DB2A36B922A43E30AFF91DE4F3" ID-DOI="http://doi.org/10.5281/zenodo.4770455" ID-GBIF-Dataset="1f68120f-f2ce-465f-a4a7-d1dae86a80f9" ID-GBIF-Taxon="182237322" ID-ISSN="2118-9773" ID-Zenodo-Dep="4770455" ID-ZooBank="1D46CAAC-A8AE-46DC-BFF8-AB88B4DCC173" _generate="added" checkinTime="1621350216957" checkinUser="felipe" docAuthor="Asadi-Farfar, Maryam, Karimpour, Younes, Lotfalizadeh, Hossein &amp; Buhl, Peter Neerup" docDate="2021" docId="038B87ECFC07FFDBD253FA20FE1A105D" docLanguage="en" docName="ejt-750_29-51.pdf" docOrigin="European Journal of Taxonomy 750" docSource="http://dx.doi.org/10.5852/ejt.2021.750.1359" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Platygaster harteni Buhl 2007" docType="treatment" docVersion="5" lastPageId="11" lastPageNumber="40" masterDocId="FFB2FF94FC0DFFD0D031FF90FFC81120" masterDocTitle="Four new species and new records of Platygastrinae (Hymenoptera: Platygastridae) from Iran" masterLastPageNumber="51" masterPageNumber="29" pageId="10" pageNumber="39" updateTime="1632024460012" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="DB84E20CAD760A3650844788D6C548C6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DBCC59A2CF9E7B87B011A308EA87E062">
+<mods:title id="6337F0D3C42C7B8C02823F5EA3F59363">Four new species and new records of Platygastrinae (Hymenoptera: Platygastridae) from Iran</mods:title>
+</mods:titleInfo>
+<mods:name id="5A8885648A769742D3CFF137076CEB67" type="personal">
+<mods:role id="9A60758FFD891128A65ADDCDA8BB58E5">
+<mods:roleTerm id="166F1005194ECA14434BB518A0BCAE67">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2B425413B6F4DD964C79E24FAA347490">Asadi-Farfar, Maryam</mods:namePart>
+<mods:nameIdentifier id="141AF573F86082E30930D8E8967D823A" type="LSID">C1A134C0-1861-4E7C-8C5B-18F57082EF9A</mods:nameIdentifier>
+<mods:affiliation id="9E1933544E7A0C835EA7785AFB4BE4E7">Department of Plant Protection, Faculty of Agriculture, Urmia University, Urmia, Iran. Plant Protection Research Department, East Azarbaijan Agricultural and Natural Resources Research &amp; Education Center, AREEO, Tabriz, Iran. Zoological Museum, Department of Entomology, University of Copenhagen, Universitet sparken 15, DK- 2100 Copenhagen, Denmark. &amp; Asadi. ent.</mods:affiliation>
+</mods:name>
+<mods:name id="A1D6A6F5A76A8C03ADAB1F70DE902504" type="personal">
+<mods:role id="DBE216E670F6C20186F446519AF74605">
+<mods:roleTerm id="11891674E929B381AB411B795AA3F89B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8CB4195408B04A249AE1E67F2F3658C0">Karimpour, Younes</mods:namePart>
+<mods:nameIdentifier id="6778F6579723FB4BE43B514559B40C4A" type="LSID">E7B0992C-BBFA-444A-A694-D3F54FDA10B0</mods:nameIdentifier>
+<mods:affiliation id="62581F511B1F81D3ED959D4A9E117E23">Department of Plant Protection, Faculty of Agriculture, Urmia University, Urmia, Iran. Plant Protection Research Department, East Azarbaijan Agricultural and Natural Resources Research &amp; Education Center, AREEO, Tabriz, Iran. Zoological Museum, Department of Entomology, University of Copenhagen, Universitet sparken 15, DK- 2100 Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="87C056FECDA92845FB968A0D144DF080" type="email">y.karimpour@urmia.ac.ir</mods:nameIdentifier>
+</mods:name>
+<mods:name id="2B4FAD2F98AC2EF2E27CAF39487B8564" type="personal">
+<mods:role id="96C84855E5F73A1A303C71026FE0BB71">
+<mods:roleTerm id="6F3FE2F635F0AB5B33DA657218484F58">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E2C9E61D82731D66C636040D7E5B0E87">Lotfalizadeh, Hossein</mods:namePart>
+<mods:nameIdentifier id="310CE5DB294C20EC6297A202E4272343" type="LSID">D7C681F3-C2E3-4FC1-BC4A-B0A6160B56CC</mods:nameIdentifier>
+<mods:nameIdentifier id="220FF62C337BA42AFA3C599CEC5FFAF8" type="email">hlotfalizadeh@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="8A21015AF2C2351171D58467EF018463" type="personal">
+<mods:role id="38DB607A080798D1E050CE2F1565E26A">
+<mods:roleTerm id="8AF1830C7B94E3B79583F3A04F4B2E2A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BA48E51CC86B75BBB5AD8CE34FA5584D">Buhl, Peter Neerup</mods:namePart>
+<mods:nameIdentifier id="A9310B5CD962E74FCF5A1DBEC8E3BD37" type="LSID">394066D3-5642-4CCE-857B-0972C4D92327</mods:nameIdentifier>
+<mods:nameIdentifier id="91BB2BE7780E1029AF62C38F211EA806" type="email">pnbuhl@hotmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="A992D6851314EE765103597B3C84FBB3">text</mods:typeOfResource>
+<mods:relatedItem id="039DA061C2264BD2A7921FD5F040F5C4" type="host">
+<mods:titleInfo id="635A4A73F3707D36BC7957D6B372DE48">
+<mods:title id="862E52D757CA9FA4040F364196872863">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="43D0693E7F7C3793852C7EAFB9DBE6D2">
+<mods:date id="5E56255E1B81FA7C9817782CE82D3277">2021</mods:date>
+<mods:detail id="5DBE16685459FB54FDB9D06A99755822" type="pubDate">
+<mods:number id="EEB19CF20F5F5E00CF7B1C1D24CF6755">2021-05-14</mods:number>
+</mods:detail>
+<mods:detail id="3F33F130E322F96B9B3B4A199401B6FB" type="volume">
+<mods:number id="FE713AEDEADE3768F78A50B6BE10CACF">750</mods:number>
+</mods:detail>
+<mods:extent id="BD839B2C464DC0C1AB1A3E212F4B30A1" unit="page">
+<mods:start id="D77EF90325CB45082C9A8C590DFD95EA">29</mods:start>
+<mods:end id="ED93A66E969CE99F3CD5846F22E3E1F9">51</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="6F82CBB5CC70A0B07B3904E2BE91F3F8">
+<mods:url id="93309BEE9C41CA81AB321024B72EFA0C">http://dx.doi.org/10.5852/ejt.2021.750.1359</mods:url>
+</mods:location>
+<mods:classification id="5C9C04B752B52F8F2B0A50943FBBD7E1">journal article</mods:classification>
+<mods:identifier id="A35F968F29216DD6930E07106AD9235D" type="DOI">https://doi.org/10.5852/ejt.2021.750.1359</mods:identifier>
+<mods:identifier id="5B113B6A2AA3960BB60E651642C02D01" type="GBIF-Dataset">1f68120f-f2ce-465f-a4a7-d1dae86a80f9</mods:identifier>
+<mods:identifier id="2E0676D4C93CB15CF4D606EA2AD16B42" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="095BE254243C7128C668B36D3C4822FC" type="Zenodo-Dep">4770523</mods:identifier>
+<mods:identifier id="412446D06650415F99427E13A53BEE45" type="ZooBank">1D46CAAC-A8AE-46DC-BFF8-AB88B4DCC173</mods:identifier>
+</mods:mods>
+<treatment id="038B87ECFC07FFDBD253FA20FE1A105D" ID-DOI="http://doi.org/10.5281/zenodo.4770455" ID-GBIF-Taxon="182237322" ID-Zenodo-Dep="4770455" LSID="urn:lsid:plazi:treatment:038B87ECFC07FFDBD253FA20FE1A105D" httpUri="http://treatment.plazi.org/id/038B87ECFC07FFDBD253FA20FE1A105D" lastPageId="11" lastPageNumber="40" pageId="10" pageNumber="39">
+<subSubSection id="C3386571FC07FFDAD253FA20FC1A14EB" box="[610,978,1456,1483]" pageId="10" pageNumber="39" type="nomenclature">
+<paragraph id="8B9D36FAFC07FFDAD253FA20FC1A14EB" blockId="10.[610,978,1456,1483]" box="[610,978,1456,1483]" pageId="10" pageNumber="39">
+<heading id="D0D58196FC07FFDAD253FA20FC1A14EB" box="[610,978,1456,1483]" centered="true" fontSize="11" level="2" pageId="10" pageNumber="39" reason="2">
+<taxonomicName id="4C224D79FC07FFDAD253FA20FC1A14EB" authority="Buhl, 2007" authorityName="Buhl" authorityYear="2007" box="[610,978,1456,1483]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="species" species="harteni">
+<emphasis id="B956EAE8FC07FFDAD253FA20FC8014EB" bold="true" box="[610,840,1456,1483]" italics="true" pageId="10" pageNumber="39">Platygaster harteni</emphasis>
+Buhl, 2007
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC07FFDAD08CFA65FE3C1792" pageId="10" pageNumber="39" type="materials_examined">
+<paragraph id="8B9D36FAFC07FFDAD08CFA65FE62172F" blockId="10.[189,426,1525,1551]" box="[189,426,1525,1551]" pageId="10" pageNumber="39">
+<heading id="D0D58196FC07FFDAD08CFA65FE62172F" bold="true" box="[189,426,1525,1551]" fontSize="11" level="3" pageId="10" pageNumber="39" reason="3">
+<emphasis id="B956EAE8FC07FFDAD08CFA65FE62172F" bold="true" box="[189,426,1525,1551]" pageId="10" pageNumber="39">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC07FFDAD08CF9B7FE3C1792" blockId="10.[189,1399,1573,1714]" pageId="10" pageNumber="39">
+<materialsCitation id="3B4A3CA7FC07FFDAD08CF9B7FB391747" ID-GBIF-Occurrence="3114127308" collectedFrom="on Haloxylon ammodendron (C. A. Mey.) Bunge" collectingDate="2017-03-31" collectionCode="HMIM" collectorName="H. Lotfalizadeh" country="Iran" elevation="1867" latitude="32.183334" location="Birjand" longLatPrecision="1212" longitude="59.883335" municipality="Birjand" pageId="10" pageNumber="39" specimenCount="1" specimenCount-male="1" stateProvince="South Khorasan Province">
+<collectingCountry id="F335766AFC07FFDAD08CF9B7FECD1761" box="[189,261,1575,1601]" name="Iran" pageId="10" pageNumber="39">IRAN</collectingCountry>
+• 
+<specimenCount id="9D24FD73FC07FFDAD113F9B6FE9C1761" box="[290,340,1574,1601]" pageId="10" pageNumber="39" type="male">1 ♂</specimenCount>
+; 
+<collectingRegion id="49E6F818FC07FFDAD152F9B6FD5E1760" box="[355,662,1574,1600]" country="Iran" name="Khorasan-e Jonubi" pageId="10" pageNumber="39">South Khorasan Province</collectingRegion>
+, 
+<collectingMunicipality id="6BF9AC80FC07FFDAD294F9B6FCC81760" box="[677,768,1574,1600]" pageId="10" pageNumber="39">Birjand</collectingMunicipality>
+, 
+<locationDeviation id="9A2F2FD8FC07FFDAD33FF9B6FC061760" box="[782,974,1574,1600]" pageId="10" pageNumber="39">vicinity of Mud</locationDeviation>
+; 
+<geoCoordinate id="EE16503DFC07FFDAD3ECF9B5FB821761" box="[989,1098,1573,1601]" degrees="32" direction="north" minutes="11" orientation="latitude" pageId="10" pageNumber="39" precision="925" value="32.183334">32°11ʹ N</geoCoordinate>
+, 
+<geoCoordinate id="EE16503DFC07FFDAD469F9B5FB0C1761" box="[1112,1220,1573,1601]" degrees="59" direction="east" minutes="53" orientation="longitude" pageId="10" pageNumber="39" precision="925" value="59.883335">59°53ʹ E</geoCoordinate>
+; 
+<elevation id="000FD1C9FC07FFDAD4E2F9B6FAB81760" box="[1235,1392,1574,1601]" metricMagnitude="3" metricUnit="m" metricValue="1.8669999999999998" pageId="10" pageNumber="39" unit="m" value="1867.0">
+<quantity id="4CDA9B1FFC07FFDAD4E2F9B6FAE61761" box="[1235,1326,1574,1601]" metricMagnitude="3" metricUnit="m" metricValue="1.8669999999999998" pageId="10" pageNumber="39" unit="m" value="1867.0">1867 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="FF9C103AFC07FFDAD08CF9DCFE951746" box="[189,349,1612,1639]" pageId="10" pageNumber="39" value="2017-03-31">
+<collectingDate id="EFD8E9D2FC07FFDAD08CF9DCFE951746" box="[189,349,1612,1639]" pageId="10" pageNumber="39" value="2017-03-31">31 Mar. 2017</collectingDate>
+</date>
+; 
+<collectorName id="26D7532CFC07FFDAD159F9DDFDE81746" box="[360,544,1612,1639]" pageId="10" pageNumber="39">H. Lotfalizadeh</collectorName>
+leg.; 
+<collectedFrom id="383E7507FC07FFDAD250F9DDFB5A1747" box="[609,1170,1612,1639]" pageId="10" pageNumber="39">
+on 
+<taxonomicName id="4C224D79FC07FFDAD2B4F9DCFB5A1747" authority="(C. A. Mey.) Bunge" authorityName="Bunge" baseAuthorityName="C. A. Mey." box="[645,1170,1612,1639]" class="Magnoliopsida" family="Amaranthaceae" genus="Haloxylon" kingdom="Plantae" order="Caryophyllales" pageId="10" pageNumber="39" phylum="Tracheophyta" rank="species" species="ammodendron">
+<emphasis id="B956EAE8FC07FFDAD2B4F9DCFC661746" box="[645,942,1612,1638]" italics="true" pageId="10" pageNumber="39">Haloxylon ammodendron</emphasis>
+(C.A.Mey.) Bunge
+</taxonomicName>
+</collectedFrom>
+; 
+<collectionCode id="ED33AE3FFC07FFDAD4AFF9DDFB391747" box="[1182,1265,1613,1639]" pageId="10" pageNumber="39">HMIM</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="3B4A3CA7FC07FFDAD538F9DCFE381792" ID-GBIF-Occurrence="3114127310" collectingDate="2009-05" collectingMethod="Malaise trap" collectionCode="HMIM" collectorName="H. Lotfalizadeh" country="Iran" elevation="1357" latitude="37.966667" location="Khosroshah" longLatPrecision="1178" longitude="46.033333" pageId="10" pageNumber="39" specimenCount="2" specimenCount-female="1" specimenCount-male="1" stateProvince="East Azarbaijan Province">
+<specimenCount id="9D24FD73FC07FFDAD538F9DCFAFD1747" box="[1289,1333,1612,1639]" pageId="10" pageNumber="39" type="female">1 ♀</specimenCount>
+, 
+<specimenCount id="9D24FD73FC07FFDAD572F9DCFAB91747" box="[1347,1393,1612,1639]" pageId="10" pageNumber="39" type="male">1 ♂</specimenCount>
+; 
+<collectingRegion id="49E6F818FC07FFDAD08CF9E3FE2317AC" box="[189,491,1650,1677]" country="Iran" name="Azarbayjan-e Sharqi" pageId="10" pageNumber="39">East Azarbaijan Province</collectingRegion>
+, 
+<location id="8EFD6021FC07FFDAD1C9F9E2FD4017AC" LSID="urn:lsid:plazi:treatment:038B87ECFC07FFDBD253FA20FE1A105D:8EFD6021FC07FFDAD1C9F9E2FD4017AC" box="[504,648,1650,1676]" country="Iran" latitude="37.966667" longLatPrecision="1178" longitude="46.033333" name="Khosroshah" pageId="10" pageNumber="39" stateProvince="East Azarbaijan Province">Khosroshah</location>
+; 
+<geoCoordinate id="EE16503DFC07FFDAD2A4F9E0FCCB17AD" box="[661,771,1648,1677]" degrees="37" direction="north" minutes="58" orientation="latitude" pageId="10" pageNumber="39" precision="925" value="37.966667">37°58′ N</geoCoordinate>
+, 
+<geoCoordinate id="EE16503DFC07FFDAD321F9E0FCB317AD" box="[784,891,1648,1677]" degrees="46" direction="east" minutes="02" orientation="longitude" pageId="10" pageNumber="39" precision="925" value="46.033333">46°02′ E</geoCoordinate>
+; 
+<elevation id="000FD1C9FC07FFDAD3B9F9E2FBEC17AC" box="[904,1060,1650,1677]" metricMagnitude="3" metricUnit="m" metricValue="1.3569999999999998" pageId="10" pageNumber="39" unit="m" value="1357.0">
+<quantity id="4CDA9B1FFC07FFDAD3B9F9E2FC2B17AD" box="[904,995,1650,1677]" metricMagnitude="3" metricUnit="m" metricValue="1.3569999999999998" pageId="10" pageNumber="39" unit="m" value="1357.0">1357 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="FF9C103AFC07FFDAD402F9E3FB6717AC" box="[1075,1199,1650,1677]" pageId="10" pageNumber="39" value="2009-05">
+<collectingDate id="EFD8E9D2FC07FFDAD402F9E3FB6717AC" box="[1075,1199,1650,1677]" pageId="10" pageNumber="39" value="2009-05">May 2009</collectingDate>
+</date>
+; 
+<collectorName id="26D7532CFC07FFDAD48CF9E3FABE17AC" box="[1213,1398,1650,1677]" pageId="10" pageNumber="39">H. Lotfalizadeh</collectorName>
+leg.; 
+<collectingMethod id="52634EEDFC07FFDAD0C9F908FE451792" box="[248,397,1688,1714]" pageId="10" pageNumber="39">Malaise trap</collectingMethod>
+; 
+<collectionCode id="ED33AE3FFC07FFDAD1A8F908FE381792" box="[409,496,1688,1714]" pageId="10" pageNumber="39">HMIM</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC07FFDAD08CF94CFAA61608" box="[189,1390,1756,1832]" pageId="10" pageNumber="39" type="distribution">
+<paragraph id="8B9D36FAFC07FFDAD08CF94CFE9E17D6" blockId="10.[189,342,1756,1782]" box="[189,342,1756,1782]" pageId="10" pageNumber="39">
+<heading id="D0D58196FC07FFDAD08CF94CFE9E17D6" bold="true" box="[189,342,1756,1782]" fontSize="11" level="3" pageId="10" pageNumber="39" reason="3">
+<emphasis id="B956EAE8FC07FFDAD08CF94CFE9E17D6" bold="true" box="[189,342,1756,1782]" pageId="10" pageNumber="39">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC07FFDAD08CF89DFAA61608" blockId="10.[189,1390,1805,1832]" box="[189,1390,1805,1832]" pageId="10" pageNumber="39">
+Holarctic region (
+<collectingCountry id="F335766AFC07FFDAD1BDF89DFE141607" box="[396,476,1805,1831]" name="Jordan" pageId="10" pageNumber="39">Jordan</collectingCountry>
+/United Arab Emirate) (
+<bibRefCitation id="EFB34B0BFC07FFDAD2C7F89DFCBF1608" author="Buhl P. N." box="[758,887,1805,1832]" pageId="10" pageNumber="39" pagination="249 - 272" refId="ref9620" refString="Buhl P. N. 2015. New or little-known species of Platygastrinae from the Holarctic region (Hymenoptera, Platygastridae). Entomofauna, Zeitschrift fur Entomologie 36: 249 - 272." type="journal article" year="2015">Buhl 2015</bibRefCitation>
+); 
+<collectingCountry id="F335766AFC07FFDAD3BDF89EFC731608" box="[908,955,1806,1832]" name="Iran" pageId="10" pageNumber="39">Iran</collectingCountry>
+(
+<collectingRegion id="49E6F818FC07FFDAD3FAF89DFBB91607" box="[971,1137,1805,1831]" country="Iran" name="Fars" pageId="10" pageNumber="39">Fars Province</collectingRegion>
+, Khonj) (
+<bibRefCitation id="EFB34B0BFC07FFDAD4D1F89DFAAA1608" author="Buhl P. N." box="[1248,1378,1805,1832]" pageId="10" pageNumber="39" pagination="249 - 272" refId="ref9620" refString="Buhl P. N. 2015. New or little-known species of Platygastrinae from the Holarctic region (Hymenoptera, Platygastridae). Entomofauna, Zeitschrift fur Entomologie 36: 249 - 272." type="journal article" year="2015">Buhl 2015</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC07FFDAD08CF8C1FD2D16C9" pageId="10" pageNumber="39" type="discussion">
+<paragraph id="8B9D36FAFC07FFDAD08CF8C1FEEC164B" blockId="10.[189,292,1873,1899]" box="[189,292,1873,1899]" pageId="10" pageNumber="39">
+<heading id="D0D58196FC07FFDAD08CF8C1FEEC164B" bold="true" box="[189,292,1873,1899]" fontSize="11" level="3" pageId="10" pageNumber="39" reason="3">
+<emphasis id="B956EAE8FC07FFDAD08CF8C1FEEC164B" bold="true" box="[189,292,1873,1899]" pageId="10" pageNumber="39">Remark</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC07FFDAD08CF813FD2D16C9" blockId="10.[189,1399,1922,2025]" pageId="10" pageNumber="39">
+One male specimen of 
+<taxonomicName id="4C224D79FC07FFDAD1D2F813FD9316BC" authorityName="Buhl" authorityYear="2007" box="[483,603,1922,1948]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="species" species="harteni">
+<emphasis id="B956EAE8FC07FFDAD1D2F813FD9316BC" box="[483,603,1922,1948]" italics="true" pageId="10" pageNumber="39">P. harteni</emphasis>
+</taxonomicName>
+was obtained from 
+<taxonomicName id="4C224D79FC07FFDAD36AF812FAC816BD" authority="Mamaev, 1972" authorityName="Mamaev" authorityYear="1972" box="[859,1280,1922,1949]" class="Insecta" family="Cecidomyiidae" genus="Stefaniola" kingdom="Animalia" order="Diptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="species" species="similata">
+<emphasis id="B956EAE8FC07FFDAD36AF812FBF716BC" box="[859,1087,1922,1948]" italics="true" pageId="10" pageNumber="39">Stefaniola similata</emphasis>
+Mamaev, 1972
+</taxonomicName>
+(
+<taxonomicName id="4C224D79FC07FFDAD524F812FABB16BC" box="[1301,1395,1922,1948]" class="Insecta" kingdom="Animalia" order="Diptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="order">Diptera</taxonomicName>
+: 
+<taxonomicName id="4C224D79FC07FFDAD08CF838FEB916E3" box="[189,369,1960,1987]" class="Insecta" family="Cecidomyiidae" kingdom="Animalia" order="Diptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="family">Cecidomyiidae</taxonomicName>
+) on 
+<taxonomicName id="4C224D79FC07FFDAD180F838FD2916E2" box="[433,737,1960,1986]" class="Magnoliopsida" family="Amaranthaceae" genus="Haloxylon" kingdom="Plantae" order="Caryophyllales" pageId="10" pageNumber="39" phylum="Tracheophyta" rank="species" species="ammodendron">
+<emphasis id="B956EAE8FC07FFDAD180F838FD2916E2" box="[433,737,1960,1986]" italics="true" pageId="10" pageNumber="39">Haloxylon ammodendron</emphasis>
+</taxonomicName>
+, 
+<collectingRegion id="49E6F818FC07FFDAD2C6F838FBFA16E2" box="[759,1074,1960,1986]" country="Iran" name="Khorasan-e Jonubi" pageId="10" pageNumber="39">South Khorasan Province</collectingRegion>
+, 
+<quantity id="4CDA9B1FFC07FFDAD474F838FB5D16E2" box="[1093,1173,1960,1987]" metricMagnitude="4" metricUnit="m" metricValue="5.0" pageId="10" pageNumber="39" unit="km" value="50.0">50 km</quantity>
+of Birjand, Mud; 
+<taxonomicName id="4C224D79FC07FFDAD08CF85FFEF116C8" authorityName="Mamaev" authorityYear="1972" box="[189,313,1998,2025]" class="Insecta" family="Cecidomyiidae" genus="Stefaniola" kingdom="Animalia" order="Diptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="species" species="similata">
+<emphasis id="B956EAE8FC07FFDAD08CF85FFEF116C8" box="[189,313,1998,2025]" italics="true" pageId="10" pageNumber="39">S. similata</emphasis>
+</taxonomicName>
+represents a new host for 
+<taxonomicName id="4C224D79FC07FFDAD25CF85FFD1716C8" authorityName="Buhl" authorityYear="2007" box="[621,735,1998,2024]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="10" pageNumber="39" phylum="Arthropoda" rank="species" species="harteni">
+<emphasis id="B956EAE8FC07FFDAD25CF85FFD1716C8" box="[621,735,1998,2024]" italics="true" pageId="10" pageNumber="39">P. harteni</emphasis>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3386571FC06FFDBD08CFE99FE1A105D" pageId="11" pageNumber="40" type="biology_ecology">
+<paragraph id="8B9D36FAFC06FFDBD08CFE99FF301003" blockId="11.[189,248,265,291]" box="[189,248,265,291]" pageId="11" pageNumber="40">
+<heading id="D0D58196FC06FFDBD08CFE99FF301003" bold="true" box="[189,248,265,291]" fontSize="11" level="3" pageId="11" pageNumber="40" reason="3">
+<emphasis id="B956EAE8FC06FFDBD08CFE99FF301003" bold="true" box="[189,248,265,291]" pageId="11" pageNumber="40">
+<collectingRegion id="49E6F818FC06FFDBD08CFE99FF301003" box="[189,248,265,291]" country="Afghanistan" name="Khost" pageId="11" pageNumber="40">Host</collectingRegion>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph id="8B9D36FAFC06FFDBD08CFEABFE1A105D" blockId="11.[189,1399,315,381]" pageId="11" pageNumber="40">
+<taxonomicName id="4C224D79FC06FFDBD08CFEABFD9A1076" authority="Mamaev, 1972" authorityName="Mamaev" authorityYear="1972" box="[189,594,315,342]" class="Insecta" family="Cecidomyiidae" genus="Stefaniola" kingdom="Animalia" order="Diptera" pageId="11" pageNumber="40" phylum="Arthropoda" rank="species" species="similata">
+<emphasis id="B956EAE8FC06FFDBD08CFEABFE531075" box="[189,411,315,341]" italics="true" pageId="11" pageNumber="40">Stefaniola similata</emphasis>
+Mamaev, 1972
+</taxonomicName>
+(
+<taxonomicName id="4C224D79FC06FFDBD250FEABFD771075" box="[609,703,315,341]" class="Insecta" kingdom="Animalia" order="Diptera" pageId="11" pageNumber="40" phylum="Arthropoda" rank="order">Diptera</taxonomicName>
+: 
+<taxonomicName id="4C224D79FC06FFDBD2FAFEABFCB71076" box="[715,895,315,342]" class="Insecta" family="Cecidomyiidae" kingdom="Animalia" order="Diptera" pageId="11" pageNumber="40" phylum="Arthropoda" rank="family">Cecidomyiidae</taxonomicName>
+) on 
+<taxonomicName id="4C224D79FC06FFDBD384FEACFB491075" box="[949,1153,315,341]" class="Magnoliopsida" family="Amaranthaceae" genus="Haloxylon" kingdom="Plantae" order="Caryophyllales" pageId="11" pageNumber="40" phylum="Tracheophyta" rank="species" species="ammodendron">
+<emphasis id="B956EAE8FC06FFDBD384FEACFB491075" box="[949,1153,315,341]" italics="true" pageId="11" pageNumber="40">H. ammodendron</emphasis>
+</taxonomicName>
+is a new host record for 
+<emphasis id="B956EAE8FC06FFDBD0D6FEF3FE1A105D" box="[231,466,355,381]" italics="true" pageId="11" pageNumber="40">
+<taxonomicName id="4C224D79FC06FFDBD0D6FEF3FE05105D" authorityName="Buhl" authorityYear="2007" box="[231,461,355,381]" class="Insecta" family="Curculionidae" genus="Platygaster" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="40" phylum="Arthropoda" rank="species" species="harteni">Platygaster harteni</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

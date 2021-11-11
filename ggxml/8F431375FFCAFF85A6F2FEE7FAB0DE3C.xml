@@ -1,0 +1,1132 @@
+<document id="D43C0B64CB22E751294D4398AB84CD7D" ID-DOI="http://doi.org/10.5281/zenodo.5570708" ID-GBIF-Dataset="b65bb5a9-bbe7-49a4-af44-4b4c03121288" ID-GBIF-Taxon="188640131" ID-ISSN="2118-9773" ID-Zenodo-Dep="5570708" ID-ZooBank="9B82A32F-0A07-47E3-8684-FED7C8EBF1E9" _generate="added" approvalRequired="1" approvalRequired_for_taxonomicNames="1" checkinTime="1632919496065" checkinUser="felipe" docAuthor="Miranda, Gustavo Silva de, Giupponi, Alessandro P. L., Prendini, Lorenzo &amp; Scharff, Nikolaj" docDate="2021" docId="8F431375FFCAFF85A6F2FEE7FAB0DE3C" docLanguage="en" docName="ejt-772_1-409.pdf" docOrigin="European Journal of Taxonomy 772" docSource="http://dx.doi.org/10.5852/ejt.2021.772.1505" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Charinus tingomaria Ballon-Estacio &amp; Armas 2019" docType="key" docVersion="9" lastPageId="86" lastPageNumber="88" masterDocId="737A6B0DFF99FFD3A710FFEFFFC6DC01" masterDocTitle="Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)" masterLastPageNumber="409" masterPageNumber="1" pageId="83" pageNumber="84" updateTime="1634697929833" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="DD290E3879B6803F5C44F5716AE6F444" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="051FC63040A5BE9835DD3F6716952076">
+<mods:title id="03915649B213C840D9650E68B2B53C7D">Systematic revision of the pantropical whip spider family Charinidae Quintero, 1986 (Arachnida, Amblypygi)</mods:title>
+</mods:titleInfo>
+<mods:name id="91594ED7B4218D13D3A38C48B1488984" type="personal">
+<mods:role id="1BACA560E8F5E291FB1AF9B307D21E25">
+<mods:roleTerm id="AA745F09B4E9ADBB8381101774CD4CEE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9220F46383420A2715207C97414A1B6B">Miranda, Gustavo Silva de</mods:namePart>
+<mods:nameIdentifier id="33D186257D14C9E10988203147218C34" type="LSID">81150D94-592A-4CE5-8E88-E60F557A4341</mods:nameIdentifier>
+<mods:affiliation id="ADA9B6E4798F9BA1511A05CB351B0D36">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA.</mods:affiliation>
+<mods:nameIdentifier id="6F9B5B3B1F23F5851A0EBBACBFCF285E" type="email">smiranda.gustavo@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5A441054E1A927941134CEAF1E85F6D1" type="personal">
+<mods:role id="D3141BD7F6A53FA3F66A0B9FFA57EBCA">
+<mods:roleTerm id="DD68973E3AA73128CBAAD9BD861D1FA4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8DF8F8D099944B699C81653CB841AA27">Giupponi, Alessandro P. L.</mods:namePart>
+<mods:nameIdentifier id="7316630BA8A8519DD92E5F29A50FBAC1" type="LSID">434112AC-B212-43E8-A5D9-2F5D5619AFC4</mods:nameIdentifier>
+<mods:affiliation id="1081D285DB229B5B5C0F9591E6690A59">Laboratório de Referência Nacional em Vetores das Riquetsioses, LIRN-IOC-FIOCRUZ, Rio de Janeiro, RJ, Brazil.</mods:affiliation>
+<mods:nameIdentifier id="E45E770012DD3CE06364E8692F0A5423" type="email">agiupponi@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="B2A9182431DFDC71AE253ECDA17D9F5A" type="personal">
+<mods:role id="CF7A9B73D8F1D329BDC85FAA2F34BF25">
+<mods:roleTerm id="254F05DF98AC4289080AB9D706923E17">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EC301B3F901547A940F5669587FF4060">Prendini, Lorenzo</mods:namePart>
+<mods:nameIdentifier id="D7AF1DD8B75EDD6D5EF48059F46877B6" type="LSID">C2D080D0-75DB-4DA1-A101-AB4DCF50FF0A</mods:nameIdentifier>
+<mods:affiliation id="E454A45B0055FEE03367444C8E9C3E00">Arachnology Lab, Division of Invertebrate Zoology, American Museum of Natural History, New York, NY, USA.</mods:affiliation>
+<mods:nameIdentifier id="9C82E708EC9D642EFD2E6320B4C7FC18" type="email">lorenzo@amnh.org</mods:nameIdentifier>
+</mods:name>
+<mods:name id="BA93E21B4C92AAB8DCACDBC1EBC11987" type="personal">
+<mods:role id="9FE9DA488584F06082BECA031A8CB400">
+<mods:roleTerm id="75BE389300B8D9AF23067D809C40C3A7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D36274043C38999C18FCE7B80410C07F">Scharff, Nikolaj</mods:namePart>
+<mods:nameIdentifier id="D936DA20720EE6DE6F1FD72F71B64293" type="LSID">F84D2235-66D2-460C-820D-80024068759D</mods:nameIdentifier>
+<mods:affiliation id="3719DE20C955EC4FCC1B958F70971F0E">Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark. &amp; Entomology Department, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. &amp; Zoology Section, Natural History Museum of Denmark, University of Copenhagen, Denmark.</mods:affiliation>
+<mods:nameIdentifier id="9B840A0EACCF0A6F6C70F57C45CBE445" type="email">nscharff@snm.ku.dk</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="D8D7CA792579B28AACF9368647227798">text</mods:typeOfResource>
+<mods:relatedItem id="4BA6B1D5D718008E5F144315A883D93C" type="host">
+<mods:titleInfo id="9929A4CCC00A84234D6804B878EC7488">
+<mods:title id="DB0F0509C69A7DCC57BC06E4AE0E22CB">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="94499B02CE18191542874B5AD83A2F9C">
+<mods:date id="B5D680F1369E5D3B9A5EBCD97D1F8521">2021</mods:date>
+<mods:detail id="7128E74874024CABB1DACB02AE660F13" type="pubDate">
+<mods:number id="76C400EFD1E655D168D23A1FEC7E81D4">2021-09-24</mods:number>
+</mods:detail>
+<mods:detail id="6B2EA8EE6C08575A81E934CB1A96ADE0" type="volume">
+<mods:number id="79D13A500432958DC8E89920F9905E4D">772</mods:number>
+</mods:detail>
+<mods:extent id="A8BB681D71689FA96C1E5D07A9EC73F9" unit="page">
+<mods:start id="7D8178FD46458DB61BCA4C90AD0DAD9F">1</mods:start>
+<mods:end id="0F463A3D886F39E955F7889674CCB962">409</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="2968208A58CDD4563A3FDE4B7CCA748D">
+<mods:url id="4DE01A6FF6CDE1715FAD4426E0AE87D8">http://dx.doi.org/10.5852/ejt.2021.772.1505</mods:url>
+</mods:location>
+<mods:classification id="CCFD98949C09E459B5D127C673C1D1EC">journal article</mods:classification>
+<mods:identifier id="25AB0F277D03154C298C587B708CC8A0" type="DOI">https://doi.org/10.5852/ejt.2021.772.1505</mods:identifier>
+<mods:identifier id="65DD7E307ED72609A69D07765CE0FA0D" type="GBIF-Dataset">b65bb5a9-bbe7-49a4-af44-4b4c03121288</mods:identifier>
+<mods:identifier id="C99E5F5D23B0A056F96DD7AE93FE4FEC" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="C69CA47CB1687F479F8916D90A34087F" type="Zenodo-Dep">5536410</mods:identifier>
+<mods:identifier id="7D1EDCCDB0E9A71F30E880AA927174AD" type="ZooBank">9B82A32F-0A07-47E3-8684-FED7C8EBF1E9</mods:identifier>
+</mods:mods>
+<treatment id="8F431375FFCAFF85A6F2FEE7FAB0DE3C" ID-DOI="http://doi.org/10.5281/zenodo.5570708" ID-GBIF-Taxon="188640131" ID-Zenodo-Dep="5570708" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C" httpUri="http://treatment.plazi.org/id/8F431375FFCAFF85A6F2FEE7FAB0DE3C" lastPageId="86" lastPageNumber="88" pageId="83" pageNumber="84">
+<subSubSection id="4FF0F1E8FFCAFF80A6F2FEE7FB94DD22" box="[482,1106,264,291]" pageId="83" pageNumber="84" type="nomenclature">
+<paragraph id="0755A263FFCAFF80A6F2FEE7FB94DD22" blockId="83.[482,1106,264,328]" box="[482,1106,264,291]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A6F2FEE7FB94DD22" box="[482,1106,264,291]" centered="true" fontSize="11" level="2" pageId="83" pageNumber="84" reason="2">
+<taxonomicName id="C0EAD9E0FFCAFF80A6F2FEE7FB94DD22" authority="Ballon-Estacio &amp; Armas, 2019" authorityName="Ballon-Estacio &amp; Armas" authorityYear="2019" box="[482,1106,264,291]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="tingomaria">
+<emphasis id="359E7E71FFCAFF80A6F2FEE7FD27DD22" bold="true" box="[482,737,264,291]" italics="true" pageId="83" pageNumber="84">Charinus tingomaria</emphasis>
+<bibRefCitation id="637BDF92FFCAFF80A5F8FEE6FB94DD22" author="Ballon-Estacio &amp; Armas" box="[744,1106,265,291]" firstAuthor="Ballon-Estacio" pageId="83" pageNumber="84" pagination="15 - 19" refId="ref146764" refString="Ballon-Estacio R. J. &amp; Armas L. F. 2019. Una especie nueva de Charinus (Amblypygi: Charinidae) del Departamento de Huanuco, Peru. Revista Iberica de Aracnologia 35: 15 - 19." type="journal article" year="2019">Ballón-Estacio &amp; Armas, 2019</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A5ADFEC1FCB0DD49" box="[701,886,302,328]" pageId="83" pageNumber="84" type="description">
+<paragraph id="0755A263FFCAFF80A5ADFEC1FCB0DD49" blockId="83.[482,1106,264,328]" box="[701,886,302,328]" pageId="83" pageNumber="84">
+<figureCitation id="9FD1BEE6FFCAFF80A5ADFEC1FCD2DD49" box="[701,788,302,328]" captionStart="Fig" captionStartId="289.[189,232,1239,1265]" captionTargetBox="[189,1398,265,1185]" captionTargetId="figure-16@289.[189,1399,265,1186]" captionTargetPageId="289" captionText="Fig. 34. Map plotting known distributions of species of Charinus Simon, 1892 in western South America." figureDoi="http://doi.org/10.5281/zenodo.5536488" httpUri="https://zenodo.org/record/5536488/files/figure.png" pageId="83" pageNumber="84">Fig. 34</figureCitation>
+; 
+<tableCitation id="4A6897D8FFCAFF80A40FFEC1FCB0DD49" box="[799,886,302,328]" captionStart="Table 3" captionStartId="77.[181,251,571,600]" captionTargetId="graphics-34@77.[181,1936,660,1726]" captionTargetPageId="77" captionText="Table 3. Measurements of all western South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFD4FF9EA7A5FDD4FB0BDE56" pageId="83" pageNumber="84" tableUuid="5395F2EBFFD4FF9EA7A5FDD4FB0BDE56">Table 3</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADFE9FFBC4DD8A" box="[189,1026,368,395]" pageId="83" pageNumber="84" type="reference_group">
+<paragraph id="0755A263FFCAFF80A7ADFE9FFBC4DD8A" blockId="83.[189,1026,368,395]" box="[189,1026,368,395]" pageId="83" pageNumber="84">
+<treatmentCitationGroup id="27FA854DFFCAFF80A7ADFE9FFBC4DD8A" box="[189,1026,368,395]" pageId="83" pageNumber="84">
+<treatmentCitation id="864B8472FFCAFF80A7ADFE9FFC45DD8B" author="Ballon-Estacio R. J. &amp; Armas L. F." box="[189,899,368,395]" page="19" pageId="83" pageNumber="84" year="2019">
+<taxonomicName id="C0EAD9E0FFCAFF80A7ADFE9FFC45DD8B" authority="Ballon-Estacio &amp; Armas, 2019: 16 - 19" authorityName="Ballon-Estacio &amp; Armas" authorityPageNumber="16 - 19" authorityYear="2019" box="[189,899,368,395]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="tingomaria">
+<emphasis id="359E7E71FFCAFF80A7ADFE9FFE71DD8B" box="[189,439,368,394]" italics="true" pageId="83" pageNumber="84">Charinus tingomaria</emphasis>
+<bibRefCitation id="637BDF92FFCAFF80A6AEFE9FFC45DD8B" author="Ballon-Estacio &amp; Armas" box="[446,899,368,395]" firstAuthor="Ballon-Estacio" page="16 - 19" pageId="83" pageNumber="84" pagination="15 - 19" refId="ref146764" refString="Ballon-Estacio R. J. &amp; Armas L. F. 2019. Una especie nueva de Charinus (Amblypygi: Charinidae) del Departamento de Huanuco, Peru. Revista Iberica de Aracnologia 35: 15 - 19." type="journal article" year="2019">Ballón-Estacio &amp; Armas, 2019: 16–19</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, figs 2–11.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADFE5CFAD1DF8B" pageId="83" pageNumber="84" type="diagnosis">
+<paragraph id="0755A263FFCAFF80A7ADFE5CFEF0DDCC" blockId="83.[189,310,435,461]" box="[189,310,435,461]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADFE5CFEF0DDCC" bold="true" box="[189,310,435,461]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADFE5CFEF0DDCC" bold="true" box="[189,310,435,461]" pageId="83" pageNumber="84">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADFE0CFCE5DEB4" blockId="83.[189,1399,483,693]" pageId="83" pageNumber="84">
+Based in part on 
+<bibRefCitation id="637BDF92FFCAFF80A693FE0CFD3DDDFF" author="Ballon-Estacio &amp; Armas" box="[387,763,483,510]" firstAuthor="Ballon-Estacio" pageId="83" pageNumber="84" pagination="15 - 19" refId="ref146764" refString="Ballon-Estacio R. J. &amp; Armas L. F. 2019. Una especie nueva de Charinus (Amblypygi: Charinidae) del Departamento de Huanuco, Peru. Revista Iberica de Aracnologia 35: 15 - 19." type="journal article" year="2019">Ballón-Estacio &amp; Armas (2019)</bibRefCitation>
+, this species may be separated from other 
+<taxonomicName id="C0EAD9E0FFCAFF80A3FBFE0CFA9EDDFC" authorityName="Simon" authorityYear="1892" box="[1259,1368,483,509]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FFCAFF80A3FBFE0CFA9EDDFC" box="[1259,1368,483,509]" italics="true" pageId="83" pageNumber="84">Charinus</emphasis>
+</taxonomicName>
+in western South America by means of the following combination of characters: median and lateral eyes and median ocular tubercle well developed; female gonopod cushion-like; male gonopods with fistula, dorsal lobe and lateral lobe 2 markedly sclerotized; males with pedipalp femur and patella longer than females; tibia of leg I with 23 articles and tarsus I with 43 articles; leg IV basitibia with four pseudoarticles; 
+<emphasis id="359E7E71FFCAFF80A631FD74FEFFDEB5" box="[289,313,667,692]" italics="true" pageId="83" pageNumber="84">sc</emphasis>
+and 
+<emphasis id="359E7E71FFCAFF80A663FD74FE41DEB4" box="[371,391,667,693]" italics="true" pageId="83" pageNumber="84">sf</emphasis>
+series each with five trichobothria.
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADFD31FAD1DF8B" blockId="83.[187,1399,734,907]" pageId="83" pageNumber="84">
+<taxonomicName id="C0EAD9E0FFCAFF80A7ADFD31FE75DEF6" authorityName="Ballon-Estacio &amp; Armas" authorityYear="2019" box="[189,435,734,760]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="tingomaria">
+<emphasis id="359E7E71FFCAFF80A7ADFD31FE75DEF6" box="[189,435,734,760]" italics="true" pageId="83" pageNumber="84">Charinus tingomaria</emphasis>
+</taxonomicName>
+resembles 
+<taxonomicName id="C0EAD9E0FFCAFF80A525FD31FD70DEF9" authorityName="Goodnight &amp; Goodnight" authorityYear="1946" box="[565,694,734,760]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="gertschi">
+<emphasis id="359E7E71FFCAFF80A525FD31FD70DEF9" box="[565,694,734,760]" italics="true" pageId="83" pageNumber="84">C. gertschi</emphasis>
+</taxonomicName>
+, 
+<taxonomicName id="C0EAD9E0FFCAFF80A5D4FD31FC8ADEF9" authorityName="Banks" authorityYear="1902" box="[708,844,734,760]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="insularis">
+<emphasis id="359E7E71FFCAFF80A5D4FD31FC8ADEF9" box="[708,844,734,760]" italics="true" pageId="83" pageNumber="84">C. insularis</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="C0EAD9E0FFCAFF80A494FD31FBCADEF9" authorityName="Weygoldt" authorityYear="1972" box="[900,1036,734,760]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="koepckei">
+<emphasis id="359E7E71FFCAFF80A494FD31FBCADEF9" box="[900,1036,734,760]" italics="true" pageId="83" pageNumber="84">C. koepckei</emphasis>
+</taxonomicName>
+but may be distinguished from 
+<taxonomicName id="C0EAD9E0FFCAFF80A7ACFCECFEFDDF1D" authorityName="Goodnight &amp; Goodnight" authorityYear="1946" box="[188,315,770,797]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="gertschi">
+<emphasis id="359E7E71FFCAFF80A7ACFCECFEFDDF1D" box="[188,315,770,797]" italics="true" pageId="83" pageNumber="84">C. gertschi</emphasis>
+</taxonomicName>
+by the smaller number of dorsal and ventral spines on the pedipalp patella (seven dorsal spines and four ventral spines are present in 
+<taxonomicName id="C0EAD9E0FFCAFF80A565FCC8FD30DF40" authorityName="Goodnight &amp; Goodnight" authorityYear="1946" box="[629,758,807,833]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="gertschi">
+<emphasis id="359E7E71FFCAFF80A565FCC8FD30DF40" box="[629,758,807,833]" italics="true" pageId="83" pageNumber="84">C. gertschi</emphasis>
+</taxonomicName>
+); from 
+<taxonomicName id="C0EAD9E0FFCAFF80A45FFCC8FC1EDF40" authorityName="Banks" authorityYear="1902" box="[847,984,807,833]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="insularis">
+<emphasis id="359E7E71FFCAFF80A45FFCC8FC1EDF40" box="[847,984,807,833]" italics="true" pageId="83" pageNumber="84">C. insularis</emphasis>
+</taxonomicName>
+by the greater number of spines on the pedipalp femur and patella; and from 
+<taxonomicName id="C0EAD9E0FFCAFF80A5B5FCA3FCE8DF64" authorityName="Weygoldt" authorityYear="1972" box="[677,814,843,870]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="koepckei">
+<emphasis id="359E7E71FFCAFF80A5B5FCA3FCE8DF64" box="[677,814,843,870]" italics="true" pageId="83" pageNumber="84">C. koepckei</emphasis>
+</taxonomicName>
+by its smaller size, secondary sexual dimorphism of the pedipalps, undivided tetrasternum and pentasternum, and cushion-like female gonopods.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADFC5CFD29DFFC" box="[189,751,947,1022]" pageId="83" pageNumber="84" type="etymology">
+<paragraph id="0755A263FFCAFF80A7ADFC5CFE82DFCC" blockId="83.[189,324,947,973]" box="[189,324,947,973]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADFC5CFE82DFCC" bold="true" box="[189,324,947,973]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADFC5CFE82DFCC" bold="true" box="[189,324,947,973]" pageId="83" pageNumber="84">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADFC0BFD29DFFC" blockId="83.[189,751,995,1022]" box="[189,751,995,1022]" pageId="83" pageNumber="84">
+Noun in apposition taken from the 
+<typeStatus id="D8511CC1FFCAFF80A548FC0BFD4DDFFF" box="[600,651,996,1022]" pageId="83" pageNumber="84">type</typeStatus>
+locality.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADFBC9FCD7D98E" pageId="83" pageNumber="84" type="materials_examined">
+<paragraph id="0755A263FFCAFF80A7ADFBC9FEAAD841" blockId="83.[189,364,1062,1088]" box="[189,364,1062,1088]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADFBC9FEAAD841" bold="true" box="[189,364,1062,1088]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADFBC9FEAAD841" bold="true" box="[189,364,1062,1088]" pageId="83" pageNumber="84">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7FAFBB9FCA2D8DF" blockId="83.[189,1399,1110,1247]" pageId="83" pageNumber="84">
+<materialsCitation id="B782A83EFFCAFF80A7FAFBB9FCA2D8DF" ID-GBIF-Occurrence="3383565502" collectedFrom="under stones" collectingDate="2019-03-06" collectionCode="MHNS" collectorName="R. Ballon Estacio" country="Peru" county="Departament" elevation="673" latitude="-9.329166" location="Parque Nacional Tingo Maria" longLatPrecision="21" longitude="-76.02695" municipality="Provincia Leoncio Prado" pageId="83" pageNumber="84" specimenCount="1" specimenCount-female="1" stateProvince="Huanuco" typeStatus="holotype">
+<emphasis id="359E7E71FFCAFF80A7FAFBB9FE9AD871" bold="true" box="[234,348,1110,1136]" pageId="83" pageNumber="84">
+<typeStatus id="D8511CC1FFCAFF80A7FAFBB9FE9AD871" box="[234,348,1110,1136]" pageId="83" pageNumber="84">Holotype</typeStatus>
+</emphasis>
+<taxonomicName id="C0EAD9E0FFCAFF80A7ADFB94FECED894" authorityName="Kocak &amp; Kemal" authorityYear="2008" box="[189,264,1147,1173]" class="Insecta" family="Phalangopsidae" genus="Peru" kingdom="Animalia" order="Orthoptera" pageId="83" pageNumber="84" phylum="Arthropoda" rank="genus">
+<collectingCountry id="7FFDE2F3FFCAFF80A7ADFB94FECED894" box="[189,264,1147,1173]" name="Peru" pageId="83" pageNumber="84">PERU</collectingCountry>
+</taxonomicName>
+• 
+<specimenCount id="11EC69EAFFCAFF80A633FB94FEFCD894" box="[291,314,1147,1173]" pageId="83" pageNumber="84" type="female">♀</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFCAFF80A65AFB94FE72D894" box="[330,436,1147,1173]" country="Peru" name="Huanuco" pageId="83" pageNumber="84">Huánuco</collectingRegion>
+<collectingCounty id="EE34DAEFFFCAFF80A6ACFB94FD91D894" box="[444,599,1147,1173]" pageId="83" pageNumber="84">Departament</collectingCounty>
+, 
+<collectingMunicipality id="E7313819FFCAFF80A573FB94FC4DD894" box="[611,907,1147,1173]" pageId="83" pageNumber="84">Provincia Leoncio Prado</collectingMunicipality>
+, 
+<location id="0235F4B8FFCAFF80A489FB94FB3DD894" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C:0235F4B8FFCAFF80A489FB94FB3DD894" box="[921,1275,1147,1173]" country="Peru" county="Departament" latitude="-9.329166" longLatPrecision="21" longitude="-76.02695" municipality="Provincia Leoncio Prado" name="Parque Nacional Tingo Maria" pageId="83" pageNumber="84" stateProvince="Huanuco">Parque Nacional Tingo María</location>
+, 
+<location id="0235F4B8FFCAFF80A217FB94FE9FD8B8" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C:0235F4B8FFCAFF80A217FB94FE9FD8B8" country="Peru" county="Departament" latitude="-9.329166" longLatPrecision="21" longitude="-76.02695" municipality="Provincia Leoncio Prado" name="Cueva de las Lechuzas" pageId="83" pageNumber="84" stateProvince="Huanuco">Cueva de las Lechuzas</location>
+, 
+<locationDeviation id="16E7BB41FFCAFF80A676FB4FFD04D8BB" box="[358,706,1183,1210]" pageId="83" pageNumber="84">
+ca 
+<quantity id="C0120F86FFCAFF80A699FB70FDD6D8BB" box="[393,528,1183,1210]" metricMagnitude="2" metricUnit="m" metricValue="1.5" metricValueMax="2.0" metricValueMin="1.0" pageId="83" pageNumber="84" unit="m" value="150.0" valueMax="200.0" valueMin="100.0">100–200 m</quantity>
+from entrance
+</locationDeviation>
+; 
+<geoCoordinate id="62DEC4A4FFCAFF80A5C0FB71FCA7D8B8" box="[720,865,1182,1210]" degrees="09" direction="south" minutes="19" orientation="latitude" pageId="83" pageNumber="84" precision="15" seconds="45" value="-9.329166">09°19′45″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFCAFF80A460FB71FBCBD8BB" box="[880,1037,1182,1210]" degrees="76" direction="west" minutes="01" orientation="longitude" pageId="83" pageNumber="84" precision="15" seconds="37" value="-76.02695">76°01′37″ W</geoCoordinate>
+; 
+<elevation id="8CC74550FFCAFF80A30BFB70FB6FD8B8" box="[1051,1193,1183,1210]" metricMagnitude="2" metricUnit="m" metricValue="6.7299999999999995" pageId="83" pageNumber="84" unit="m" value="673.0">
+<quantity id="C0120F86FFCAFF80A30BFB70FBA1D8BB" box="[1051,1127,1183,1210]" metricMagnitude="2" metricUnit="m" metricValue="6.7299999999999995" pageId="83" pageNumber="84" unit="m" value="673.0">673 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="735484A3FFCAFF80A3A8FB70FA88D8B8" box="[1208,1358,1183,1210]" pageId="83" pageNumber="84" value="2019-03-06">
+<collectingDate id="63107D4BFFCAFF80A3A8FB70FA88D8B8" box="[1208,1358,1183,1210]" pageId="83" pageNumber="84" value="2019-03-06">6 Mar. 2019</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFCAFF80A24CFB4FFEAFD8DF" pageId="83" pageNumber="84">R. Ballon Estacio</collectorName>
+leg.; 
+<collectedFrom id="B4F6E19EFFCAFF80A6BBFB2BFD84D8DE" box="[427,578,1220,1247]" pageId="83" pageNumber="84">under stones</collectedFrom>
+; 
+<collectionCode id="61FB3AA6FFCAFF80A55EFB2BFD65D8DF" box="[590,675,1220,1246]" collectionName="Chile, Santiago, Museo Nacional de Historia Natural" pageId="83" pageNumber="84">MHNS</collectionCode>
+[not examined].
+</materialsCitation>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7FAFAE8FCD7D98E" blockId="83.[188,1398,1287,1423]" pageId="83" pageNumber="84">
+<materialsCitation id="B782A83EFFCAFF80A7FAFAE8FBEED947" ID-GBIF-Occurrence="3383565951" collectedFrom="under stones" collectingDate="2019-03-06" collectionCode="MHNS" collectorName="R. Ballon Estacio" country="Peru" county="Departament" elevation="150" latitude="-9.329166" location="PERU" longLatPrecision="21" longitude="-76.02695" municipality="Provincia Leoncio Prado" pageId="83" pageNumber="84" specimenCount="1" stateProvince="Huanuco" typeStatus="paratype">
+<emphasis id="359E7E71FFCAFF80A7FAFAE8FEA1D920" bold="true" box="[234,359,1287,1313]" pageId="83" pageNumber="84">
+<typeStatus id="D8511CC1FFCAFF80A7FAFAE8FEA1D920" box="[234,359,1287,1313]" pageId="83" pageNumber="84">Paratypes</typeStatus>
+</emphasis>
+<taxonomicName id="C0EAD9E0FFCAFF80A7ADFAC3FECED947" authorityName="Kocak &amp; Kemal" authorityYear="2008" box="[189,264,1324,1350]" class="Insecta" family="Phalangopsidae" genus="Peru" kingdom="Animalia" order="Orthoptera" pageId="83" pageNumber="84" phylum="Arthropoda" rank="genus">
+<collectingCountry id="7FFDE2F3FFCAFF80A7ADFAC3FECED947" box="[189,264,1324,1350]" name="Peru" pageId="83" pageNumber="84">PERU</collectingCountry>
+</taxonomicName>
+• 
+<specimenCount id="11EC69EAFFCAFF80A60FFAC3FEA4D944" box="[287,354,1323,1350]" pageId="83" pageNumber="84" type="generic">1 juv.</specimenCount>
+; same collection data as for holotype; 
+<collectionCode id="61FB3AA6FFCAFF80A40CFAC3FCB7D947" box="[796,881,1324,1350]" collectionName="Chile, Santiago, Museo Nacional de Historia Natural" pageId="83" pageNumber="84">MHNS</collectionCode>
+[not examined]
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFFCAFF80A32FFAC3FCCBD98E" ID-GBIF-Occurrence="3383565387" collectedFrom="under stones, dark zone, more than 220 m from entrance" collectingDate="2019-03-21" collectionCode="MHNS" collectorName="R. Ballon &amp; A. Ricra &amp; W. Fernandez" country="Peru" county="Departament" elevation="220" latitude="-9.329166" location="Parque Nacional Tingo Maria" longLatPrecision="21" longitude="-76.02695" municipality="Provincia Leoncio Prado" pageId="83" pageNumber="84" specimenCount="5" specimenCount-female="3" specimenCount-male="2" stateProvince="Huanuco" typeStatus="paratype">
+<specimenCount id="11EC69EAFFCAFF80A32FFAC3FB46D947" box="[1087,1152,1324,1350]" pageId="83" pageNumber="84" type="female">3 ♀♀</specimenCount>
+, 
+<specimenCount id="11EC69EAFFCAFF80A39DFAC3FB17D947" box="[1165,1233,1324,1350]" pageId="83" pageNumber="84" type="male">2 ♂♂</specimenCount>
+; same locality as for holotype; 
+<date id="735484A3FFCAFF80A66AFABFFDDFD96B" box="[378,537,1360,1387]" pageId="83" pageNumber="84" value="2019-03-21">
+<collectingDate id="63107D4BFFCAFF80A66AFABFFDDFD96B" box="[378,537,1360,1387]" pageId="83" pageNumber="84" value="2019-03-21">21 Mar. 2019</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFCAFF80A534FABEFD50D96B" box="[548,662,1360,1387]" pageId="83" pageNumber="84">R. Ballón</collectorName>
+, 
+<collectorName id="AA1FC7B5FFCAFF80A5B0FABFFCC5D96B" box="[672,771,1360,1386]" pageId="83" pageNumber="84">A. Ricra</collectorName>
+and 
+<collectorName id="AA1FC7B5FFCAFF80A429FABEFC1CD96B" box="[825,986,1360,1387]" pageId="83" pageNumber="84">W. Fernández</collectorName>
+leg.; 
+<collectedFrom id="B4F6E19EFFCAFF80A30AFABFFE29D98E" pageId="83" pageNumber="84">
+under stones, dark zone, more than 
+<quantity id="C0120F86FFCAFF80A7E6FA9AFE86D98E" box="[246,320,1397,1423]" metricMagnitude="2" metricUnit="m" metricValue="2.2" pageId="83" pageNumber="84" unit="m" value="220.0">220 m</quantity>
+from entrance
+</collectedFrom>
+; 
+<collectionCode id="61FB3AA6FFCAFF80A6EBFA9AFD96D98E" box="[507,592,1397,1423]" collectionName="Chile, Santiago, Museo Nacional de Historia Natural" pageId="83" pageNumber="84">MHNS</collectionCode>
+[not examined]
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADFA57FE8ADA03" box="[189,373,1464,1538]" pageId="83" pageNumber="84" type="description">
+<paragraph id="0755A263FFCAFF80A7ADFA57FEB3D9D3" blockId="83.[189,373,1464,1490]" box="[189,373,1464,1490]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADFA57FEB3D9D3" bold="true" box="[189,373,1464,1490]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADFA57FEB3D9D3" bold="true" box="[189,373,1464,1490]" pageId="83" pageNumber="84">Measurements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADFA07FE8ADA03" blockId="83.[189,332,1512,1538]" box="[189,332,1512,1538]" pageId="83" pageNumber="84">
+See 
+<tableCitation id="4A6897D8FFCAFF80A7FEFA07FE81DA03" box="[238,327,1512,1538]" captionStart="Table 3" captionStartId="77.[181,251,571,600]" captionTargetId="graphics-34@77.[181,1936,660,1726]" captionTargetPageId="77" captionText="Table 3. Measurements of all western South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFD4FF9EA7A5FDD4FB0BDE56" pageId="83" pageNumber="84" tableUuid="5395F2EBFFD4FF9EA7A5FDD4FB0BDE56">Table 3</tableCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADF9C5FDABDA75" box="[189,621,1578,1653]" pageId="83" pageNumber="84" type="distribution">
+<paragraph id="0755A263FFCAFF80A7ADF9C5FE90DA45" blockId="83.[189,342,1578,1604]" box="[189,342,1578,1604]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADF9C5FE90DA45" bold="true" box="[189,342,1578,1604]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADF9C5FE90DA45" bold="true" box="[189,342,1578,1604]" pageId="83" pageNumber="84">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADF9B4FDABDA75" blockId="83.[189,621,1626,1653]" box="[189,621,1626,1653]" pageId="83" pageNumber="84">
+Known only from the 
+<typeStatus id="D8511CC1FFCAFF80A6D2F9B4FE33DA74" box="[450,501,1627,1653]" pageId="83" pageNumber="84">type</typeStatus>
+localities.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF80A7ADF972FE01DB0B" pageId="83" pageNumber="84" type="biology_ecology">
+<paragraph id="0755A263FFCAFF80A7ADF972FEB8DAB7" blockId="83.[189,382,1692,1719]" box="[189,382,1692,1719]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADF972FEB8DAB7" bold="true" box="[189,382,1692,1719]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADF972FEB8DAB7" bold="true" box="[189,382,1692,1719]" pageId="83" pageNumber="84">Natural history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADF923FE01DB0B" blockId="83.[189,1396,1740,1802]" pageId="83" pageNumber="84">
+The species is found from the entrance to deeper regions of the cave, and is sympatric with 
+<taxonomicName id="C0EAD9E0FFCAFF80A3D5F923FE05DB0B" authority="Pocock, 1903" authorityName="Pocock" authorityYear="1903" class="Arachnida" family="Phrynidae" genus="Heterophrynus" kingdom="Animalia" order="Amblypygi" pageId="83" pageNumber="84" phylum="Arthropoda" rank="species" species="elaphus">
+<emphasis id="359E7E71FFCAFF80A3D5F923FEDEDB0B" italics="true" pageId="83" pageNumber="84">Heterophrynus elaphus</emphasis>
+Pocock, 1903
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCAFF87A7ADF8DCFBB8DD23" lastPageId="84" lastPageNumber="85" pageId="83" pageNumber="84" type="discussion">
+<paragraph id="0755A263FFCAFF80A7ADF8DCFEE9DB4C" blockId="83.[189,303,1843,1869]" box="[189,303,1843,1869]" pageId="83" pageNumber="84">
+<heading id="5C1D150FFFCAFF80A7ADF8DCFEE9DB4C" bold="true" box="[189,303,1843,1869]" fontSize="11" level="3" pageId="83" pageNumber="84" reason="3">
+<emphasis id="359E7E71FFCAFF80A7ADF8DCFEE9DB4C" bold="true" box="[189,303,1843,1869]" pageId="83" pageNumber="84">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCAFF80A7ADF88DFDF5DBE9" blockId="83.[188,1399,1890,2025]" pageId="83" pageNumber="84">
+According to 
+<bibRefCitation id="637BDF92FFCAFF80A64CF88DFD16DB7D" author="Ballon-Estacio &amp; Armas" box="[348,720,1890,1916]" firstAuthor="Ballon-Estacio" pageId="83" pageNumber="84" pagination="15 - 19" refId="ref146764" refString="Ballon-Estacio R. J. &amp; Armas L. F. 2019. Una especie nueva de Charinus (Amblypygi: Charinidae) del Departamento de Huanuco, Peru. Revista Iberica de Aracnologia 35: 15 - 19." type="journal article" year="2019">Ballón-Estacio &amp; Armas (2019)</bibRefCitation>
+, the pedipalp femur possesses six ventral spines, but these authors also counted spines outside the primary series, i.e., small spines between larger spines which are situated prolaterally. The true count of ventral spines on the femur, according to 
+<bibRefCitation id="637BDF92FFCAFF80A3BBF845FE41DBE9" author="Ballon-Estacio &amp; Armas" firstAuthor="Ballon-Estacio" page="18" pageId="83" pageNumber="84" pagination="15 - 19" refId="ref146764" refString="Ballon-Estacio R. J. &amp; Armas L. F. 2019. Una especie nueva de Charinus (Amblypygi: Charinidae) del Departamento de Huanuco, Peru. Revista Iberica de Aracnologia 35: 15 - 19." type="journal article" year="2019">Ballón-Estacio &amp; Armas (2019: 18</bibRefCitation>
+, fig. 5) is four.
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7ADFEE6FBB8DD23" blockId="84.[189,1150,264,291]" box="[189,1150,264,291]" pageId="84" pageNumber="85">
+<heading id="5C1D150FFFCDFF87A7ADFEE6FBB8DD23" bold="true" box="[189,1150,264,291]" fontSize="11" level="3" pageId="84" pageNumber="85" reason="3">
+<emphasis id="359E7E71FFCDFF87A7ADFEE6FBB8DD23" bold="true" box="[189,1150,264,291]" pageId="84" pageNumber="85">
+Key to the identification of the species of 
+<taxonomicName id="C0EAD9E0FFCDFF87A5D3FEE7FCF0DD22" authorityName="Simon" authorityYear="1892" box="[707,822,264,291]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FFCDFF87A5D3FEE7FCF0DD22" bold="true" box="[707,822,264,291]" italics="true" pageId="84" pageNumber="85">Charinus</emphasis>
+</taxonomicName>
+in eastern South America
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCDFF85A7ADFED8FAB0DE3C" lastPageId="86" lastPageNumber="87" pageId="84" pageNumber="85" type="key">
+<key id="737BF552FFCDFF85A7ADFED8FAB0DE3C" lastPageId="86" lastPageNumber="87" pageId="84" pageNumber="85">
+<keyStep id="BC1EBAC6FFCDFF87A7ADFED8FAB1DDB8" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFED8FAB0DD75" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFED8FAB0DD75" pageId="84" pageNumber="85">
+1. Leg IV distitibia with four trichobothria in frontal and caudal series; leg IV basitibia with three pseudo-articles ............................................................................. 
+<taxonomicName id="C0EAD9E0FFCDFF87A4C5FEB6FBB1DD75" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[981,1143,345,372]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="alagoanus" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A4C5FEB6FBB1DD75" bold="true" box="[981,1143,345,372]" italics="true" pageId="84" pageNumber="85">C. alagoanus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A36EFEB5FB1FDD75" box="[1150,1241,346,372]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A3F8FEB6FAA9DD75" box="[1256,1391,345,372]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="299.[189,232,1924,1950]" captionStartId-1="300.[189,232,1557,1583]" captionStartId-2="301.[189,232,1928,1954]" captionTargetBox-0="[218,1367,265,1886]" captionTargetBox-1="[245,1347,265,1510]" captionTargetBox-2="[209,1377,265,1905]" captionTargetId-0="figure-57@299.[218,1367,265,1886]" captionTargetId-1="figure-0@300.[245,1347,265,1510]" captionTargetId-2="figure-55@301.[209,1377,265,1905]" captionTargetPageId-0="299" captionTargetPageId-1="300" captionTargetPageId-2="301" captionText-0="Fig. 44. Charinus alagoanus sp. nov. (MNRJ 9294), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A, E–F = 1 mm; B, D = 0.5 mm; C = 0.25 mm." captionText-1="Fig. 45. Charinus alagoanus sp. nov. (MNRJ 9295), female gonopod and genital operculum. A. Suckerlike gonopod, dorsal view.B. Genital operculum, ventral view. C. Gonopods, posterior view.D. Aperture on sinistral side of sucker-like gonopod, dorsal view. E. Projection on sinistral side of sucker-like gonopod, posterior view. F. Gland opening near lateral margin of genital operculum." captionText-2="Fig. 46. Charinus alagoanus sp. nov. (MNRJ 9295), antenniform leg I, ♀. A. Apex of distal article. B. Distal segment of tarsus, lateral view. C. Apex of distal article of tarsus showing claw and tarsal organ. D. Detail of claw and tarsal organ. E. Rod sensilla and olfactory setae." figureDoi-0="http://doi.org/10.5281/zenodo.5536510" figureDoi-1="http://doi.org/10.5281/zenodo.5536513" figureDoi-2="http://doi.org/10.5281/zenodo.5536515" httpUri-0="https://zenodo.org/record/5536510/files/figure.png" httpUri-1="https://zenodo.org/record/5536513/files/figure.png" httpUri-2="https://zenodo.org/record/5536515/files/figure.png" pageId="84" pageNumber="85">Figs 44–46</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FE93FAB1DDB8" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FE93FAB1DDB8" pageId="84" pageNumber="85">– Leg IV distitibia with five or six trichobothria frontal and caudal series; leg IV basitibia with two or four pseudo-articles ........................................................................................................................... 2</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFE0FFAB0DE1D" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFE0FFAB1DDFB" blockId="84.[189,1399,310,2025]" box="[189,1399,479,506]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFE0FFAB1DDFB" box="[189,1399,479,506]" pageId="84" pageNumber="85">2. Leg IV distitibia with five trichobothria in frontal and caudal series ............................................... 3</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FDECFAB0DE1D" blockId="84.[189,1399,310,2025]" box="[193,1398,514,541]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FDECFAB0DE1D" box="[193,1398,514,541]" pageId="84" pageNumber="85">– Leg IV distitibia with six trichobothria in frontal and caudal series .............................................. 12</keyLead>
+</paragraph>
+</keyStep>
+<subSubSection id="4FF0F1E8FFCDFF85A7ADFDACFC0BDEB9" lastPageId="86" lastPageNumber="87" pageId="84" pageNumber="85" type="description">
+<keyStep id="BC1EBAC6FFCDFF87A7ADFDACFAB1DE80" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFDACFAB1DE5C" blockId="84.[189,1399,310,2025]" box="[189,1399,579,606]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFDACFAB1DE5C" box="[189,1399,579,606]" pageId="84" pageNumber="85">3. Median eyes absent............................................................................................................................ 4</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FD89FAB1DE80" blockId="84.[189,1399,310,2025]" box="[193,1399,614,641]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FD89FAB1DE80" box="[193,1399,614,641]" pageId="84" pageNumber="85">– Median eyes present .......................................................................................................................... 5</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFD48FAB1DF2B" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFD48FAB0DEE4" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFD48FAB0DEE4" pageId="84" pageNumber="85">
+4. Tibia of leg I with 21 articles; leg I tarsus with 37 articles; leg IV basitibia with two pseudoarticles........................................................................................ 
+<taxonomicName id="C0EAD9E0FFCDFF87A4DAFD25FBB0DEE5" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[970,1142,714,740]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="monasticus" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A4DAFD25FBB0DEE5" bold="true" box="[970,1142,714,740]" italics="true" pageId="84" pageNumber="85">C. monasticus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A36EFD25FB1FDEE5" box="[1150,1241,714,740]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A3F8FD25FAA8DEE4" box="[1256,1390,714,741]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="324.[189,232,1927,1953]" captionStartId-1="325.[189,232,1632,1658]" captionTargetBox-0="[261,1326,265,1893]" captionTargetBox-1="[189,1398,265,1595]" captionTargetId-0="figure-55@324.[261,1327,265,1893]" captionTargetId-1="figure-53@325.[189,1399,265,1596]" captionTargetPageId-0="324" captionTargetPageId-1="325" captionText-0="Fig. 69. Charinus monasticus sp. nov. (MNRJ 9103), general morphology. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A = 0.5 cm; B, E–F = 1 mm; C–D = 0.5 mm." captionText-1="Fig. 70. Charinus monasticus sp. nov.(MNRJ 9103), female gonopodand genital operculum.A. Cushionlike gonopod, dorsal view. B. Posterior margin of genital operculum, ventral view. C. Gonopods, posterior view.D. Genital operculum between gonopods.E. Dextral gonopod and gonopore.F. Glandular openings inside gonopod projection." figureDoi-0="http://doi.org/10.5281/zenodo.5536567" figureDoi-1="http://doi.org/10.5281/zenodo.5536571" httpUri-0="https://zenodo.org/record/5536567/files/figure.png" httpUri-1="https://zenodo.org/record/5536571/files/figure.png" pageId="84" pageNumber="85">Figs 69–70</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FD01FAB1DF2B" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FD01FAB1DF2B" pageId="84" pageNumber="85">
+– Tibia of leg I with 23 articles; leg I tarsus with 41 articles; leg IV basitibia with four pseudoarticles............................................................................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A494FCFFFAB1DF2B" authority="Baptista &amp; Giupponi, 2002" authorityName="Baptista &amp; Giupponi" authorityYear="2002" box="[900,1399,783,810]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="troglobious">
+<emphasis id="359E7E71FFCDFF87A494FCFFFBF7DF2B" bold="true" box="[900,1073,783,810]" italics="true" pageId="84" pageNumber="85">C. troglobious</emphasis>
+<bibRefCitation id="637BDF92FFCDFF87A329FCFFFAB1DF2B" author="Baptista &amp; Giupponi" box="[1081,1399,784,810]" firstAuthor="Baptista" pageId="84" pageNumber="85" pagination="105 - 110" refId="ref146847" refString="Baptista R. L. C. &amp; Giupponi A. P. L. 2002. A new troglomorphic Charinus from Brazil (Arachnida: Amblypygi: Charinidae). Revista Iberica de Aracnologia 6: 105 - 110." type="journal article" year="2002">Baptista &amp; Giupponi, 2002</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFCBEFAB1DFD2" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFCBEFAB0DF8F" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFCBEFAB0DF8F" pageId="84" pageNumber="85">
+5. Pedipalp femur with three dorsal spines; pedipalp patella with two ventral spines ............................ ............................................................................................................... 
+<emphasis id="359E7E71FFCDFF87A334FC9CFBB1DF8F" bold="true" box="[1060,1143,883,910]" italics="true" pageId="84" pageNumber="85">C. una</emphasis>
+sp. nov. (
+<figureCitation id="9FD1BEE6FFCDFF87A3F8FC9CFAA9DF8F" box="[1256,1391,883,910]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="333.[189,232,1923,1949]" captionStartId-1="334.[189,232,1615,1641]" captionTargetBox-0="[211,1399,265,1880]" captionTargetBox-1="[189,1399,265,1568]" captionTargetId-0="figure-57@333.[211,1399,265,1880]" captionTargetId-1="figure-60@334.[189,1399,265,1569]" captionTargetPageId-0="333" captionTargetPageId-1="334" captionText-0="Fig. 78. Charinus una sp. nov. (MNRJ 9131), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C = 0.1 mm; D = 0.5 mm." captionText-1="Fig. 79. Charinus una sp. nov. (MNRJ 9131), female gonopod and genital operculum. A. Sucker-like gonopod, dorsal view. B. Genital operculum, ventral view. Inset: cerotegument. C. Gonopods, posterior view. D. Aperture on sinistral side of sucker-like gonopod, dorsal view. E. Posterior margin of genital operculum. F. Gland opening near lateral margin of genital operculum." figureDoi-0="http://doi.org/10.5281/zenodo.5536591" figureDoi-1="http://doi.org/10.5281/zenodo.5536593" httpUri-0="https://zenodo.org/record/5536591/files/figure.png" httpUri-1="https://zenodo.org/record/5536593/files/figure.png" pageId="84" pageNumber="85">Figs 78–79</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FC78FAB1DFD2" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FC78FAB1DFD2" pageId="84" pageNumber="85">– Pedipalp femur with more than three dorsal spines; pedipalp patella with more than two ventral spines ................................................................................................................................................. 6</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFC15FAB1D836" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFC15FAB1D815" blockId="84.[189,1399,310,2025]" box="[189,1399,1018,1044]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFC15FAB1D815" box="[189,1399,1018,1044]" pageId="84" pageNumber="85">6. Median and lateral eyes reduced........................................................................................................ 7</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FBF2FAB1D836" blockId="84.[189,1399,310,2025]" box="[193,1399,1052,1079]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FBF2FAB1D836" box="[193,1399,1052,1079]" pageId="84" pageNumber="85">– Median and lateral eyes unmodified.................................................................................................. 8</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFBB1FAB1D924" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFBB1FAB1D8BC" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFBB1FAB1D8BC" pageId="84" pageNumber="85">
+7. Median ocular tubercle present but reduced; reduced median eyes with dark pigmentation; pedipalp patella dorsal spine IV two-thirds length of dorsal spine III ............................................................... .............................................................................. 
+<taxonomicName id="C0EAD9E0FFCDFF87A43FFB4CFAB1D8BC" authority="Vasconcelos, Giupponi &amp; Ferreira, 2016" authorityName="Vasconcelos, Giupponi &amp; Ferreira" authorityYear="2016" box="[815,1399,1186,1213]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="taboa">
+<emphasis id="359E7E71FFCDFF87A43FFB4CFC53D8BC" bold="true" box="[815,917,1186,1213]" italics="true" pageId="84" pageNumber="85">C. taboa</emphasis>
+<bibRefCitation id="637BDF92FFCDFF87A48CFB4CFAB1D8BC" author="Vasconcelos, Giupponi &amp; Ferreira" box="[924,1399,1187,1213]" firstAuthor="Vasconcelos" pageId="84" pageNumber="85" pagination="35 - 52" refId="ref155270" refString="Vasconcelos A. C. O., Giupponi A. P. L. &amp; Ferreira R. L. 2016. Description of a new troglomorphic species of Charinus Simon, 1892 from Brazil (Arachnida, Amblypygi, Charinidae). ZooKeys 600: 35 - 52. https: // doi. org / 10.3897 / zookeys. 600.8580" type="journal article" year="2016">Vasconcelos, Giupponi &amp; Ferreira, 2016</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FB29FAB1D924" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FB29FAB1D924" pageId="84" pageNumber="85">
+– Median ocular tubercle absent, reduced eyes situated directly on tegument; reduced median eyes unpigmented; pedipalp patella dorsal spine IV one-fifth length of dorsal spine III ............................ .......................................................................................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A498FAE4FAB1D924" authority="Vasconcelos &amp; Ferreira, 2017" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2017" box="[904,1399,1290,1317]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="spelaeus">
+<emphasis id="359E7E71FFCDFF87A498FAE4FBD4D924" bold="true" box="[904,1042,1290,1317]" italics="true" pageId="84" pageNumber="85">C. spelaeus</emphasis>
+<bibRefCitation id="637BDF92FFCDFF87A30AFAE4FAB1D924" author="Vasconcelos &amp; Ferreira" box="[1050,1399,1291,1317]" firstAuthor="Vasconcelos" pageId="84" pageNumber="85" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira, 2017</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFAA3FAB1D9AA" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFAA3FAB1D988" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFAA3FAB1D988" pageId="84" pageNumber="85">
+8. Cheliceral basal segment with long (distinct) tooth adjacent to bifid tooth ........................................ ..................................................................................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A471FA81FBC4D988" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[865,1026,1390,1417]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="sooretama" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A471FA81FBC4D988" bold="true" box="[865,1026,1390,1417]" italics="true" pageId="84" pageNumber="85">C. sooretama</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A31AFA80FBA2D988" box="[1034,1124,1391,1417]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A363FA81FB29D988" box="[1139,1263,1390,1417]" captionStart="Fig" captionStartId="262.[189,232,1716,1742]" captionTargetBox="[189,1399,265,1667]" captionTargetId="figure-0@262.[189,1399,265,1668]" captionTargetPageId="262" captionText="Fig. 7. Charinus Simon, 1892, female gonopods, dorsal view (left column) and detail (right column). A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297). C–D. Charinus palikur sp. nov. (AMCC [LP 3831]) E–F. Charinus sooretama sp. nov. (MNRJ 9245)." figureDoi="http://doi.org/10.5281/zenodo.5536424" httpUri="https://zenodo.org/record/5536424/files/figure.png" pageId="84" pageNumber="85">Figs 7E–F</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCDFF87A3EBFA81FA85D989" box="[1275,1347,1390,1416]" captionStart="Fig" captionStartId="264.[189,232,1198,1224]" captionTargetBox="[189,1399,265,1151]" captionTargetId="figure-0@264.[189,1399,265,1151]" captionTargetPageId="264" captionText="Fig. 9. Charinus Simon, 1892, male gonopods. A–B. Charinus euclidesi sp. nov. (MNRJ 9099), ventral view (A), posterior view (B). C–D. Charinus sooretama sp. nov. (MNRJ 9245), ventral view (B), detail of sinistral side showing lamina medialis, lateral lobe 1 and 2, and dorsal lobe (D)." figureDoi="http://doi.org/10.5281/zenodo.5536428" httpUri="https://zenodo.org/record/5536428/files/figure.png" pageId="84" pageNumber="85">9C–D</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCDFF87A25FFA81FAA8D988" box="[1359,1390,1390,1417]" captionStart="Fig" captionStartId="330.[189,232,1698,1724]" captionTargetBox="[189,1398,265,1649]" captionTargetId="figure-63@330.[189,1399,265,1649]" captionTargetPageId="330" captionText="Fig. 75. Charinus sooretama sp. nov. (MNRJ 9245), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A = 1 cm; B = 1 mm; C = 0.1 mm; D = 0.5 mm; E–F = 0.5 cm." figureDoi="http://doi.org/10.5281/zenodo.5536583" httpUri="https://zenodo.org/record/5536583/files/figure.png" pageId="84" pageNumber="85">75</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FA7DFAB1D9AA" blockId="84.[189,1399,310,2025]" box="[193,1399,1425,1452]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FA7DFAB1D9AA" box="[193,1399,1425,1452]" pageId="84" pageNumber="85">– Cheliceral basal segment with short (indistinct) tooth adjacent to bifid tooth .................................. 9</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADFA3DFAB0DA0E" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADFA3DFAB0D9EC" blockId="84.[189,1399,310,2025]" box="[189,1398,1489,1517]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADFA3DFAB0D9EC" box="[189,1398,1489,1517]" pageId="84" pageNumber="85">
+9. Base of female gonopod unsclerotized ................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A42FFA3DFC0BD9ED" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[831,973,1489,1516]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="euclidesi" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A42FFA3DFC0BD9ED" bold="true" box="[831,973,1489,1516]" italics="true" pageId="84" pageNumber="85">C. euclidesi</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A4C5FA3CFBE9D9EC" box="[981,1071,1491,1517]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A32EFA3DFB05D9ED" box="[1086,1219,1490,1516]" captionStart="Fig" captionStartId="261.[189,232,1618,1644]" captionTargetBox="[189,1399,271,1581]" captionTargetId="figure-0@261.[189,1399,265,1581]" captionTargetPageId="261" captionText="Fig. 6. Charinus Simon, 1892, female gonopods, dorsal (left column) and posterior (right column) views. A–B. Charinus renneri sp. nov. (MNRJ 9198). C–D. Charinus euclidesi sp. nov. (MNRJ 9099). E–F. Charinus carioca sp. nov. (MNRJ 9201). Scale bars: A–D = 0.25 mm; E–F = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536422" httpUri="https://zenodo.org/record/5536422/files/figure.png" pageId="84" pageNumber="85">Figs 6C–D</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCDFF87A3DFFA3DFAD1D9ED" box="[1231,1303,1490,1516]" captionStart="Fig" captionStartId="264.[189,232,1198,1224]" captionTargetBox="[189,1399,265,1151]" captionTargetId="figure-0@264.[189,1399,265,1151]" captionTargetPageId="264" captionText="Fig. 9. Charinus Simon, 1892, male gonopods. A–B. Charinus euclidesi sp. nov. (MNRJ 9099), ventral view (A), posterior view (B). C–D. Charinus sooretama sp. nov. (MNRJ 9245), ventral view (B), detail of sinistral side showing lamina medialis, lateral lobe 1 and 2, and dorsal lobe (D)." figureDoi="http://doi.org/10.5281/zenodo.5536428" httpUri="https://zenodo.org/record/5536428/files/figure.png" pageId="84" pageNumber="85">9A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCDFF87A233FA3DFAA8D9EC" box="[1315,1390,1490,1517]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="316.[189,232,1718,1744]" captionStartId-1="317.[189,232,1534,1560]" captionStartId-2="318.[189,232,1632,1658]" captionTargetBox-0="[189,1398,271,1675]" captionTargetBox-1="[189,1398,265,1498]" captionTargetBox-2="[189,1396,265,1582]" captionTargetId-0="figure-67@316.[189,1399,265,1676]" captionTargetId-1="figure-45@317.[189,1399,265,1498]" captionTargetId-2="figure-51@318.[189,1396,265,1582]" captionTargetPageId-0="316" captionTargetPageId-1="317" captionTargetPageId-2="318" captionText-0="Fig. 61. Charinus euclidesi sp. nov. (MNRJ 9099), general morphology. A. Female habitus, dorsal view. B. Male habitus, dorsal view. C. Female pedipalp tarsal spines, dorsal view. D. Male pedipalp tarsal spines, dorsal view. E. Female sternum, ventral view. F. Male frontal process. Scale bars: A–B = 0.5 cm; C–D = 0.5 mm; E = 1 mm; F = 0.1 mm." captionText-1="Fig. 62. Charinus euclidesi sp. nov. (MNRJ 9099), pedipalp. A. Female pedipalp, dorsal view. B. Male pedipalp, dorsal view. C. Female pedipalp, ventral view. D. Male pedipalp, ventral view. Scale bars: A, C = 1 mm; B, D = 0.5 cm." captionText-2="Fig. 63. Charinus euclidesi sp. nov. (MNRJ 9099), antenniform leg I. A. Apex of distal article. B. Rod sensilla and olfactory setae. C. Apex of distal article of tarsus showing claw and tarsal organ. D. Detail of slit sensilla. E. Distal segment of tarsus, lateral view." figureDoi-0="http://doi.org/10.5281/zenodo.5536547" figureDoi-1="http://doi.org/10.5281/zenodo.5536549" figureDoi-2="http://doi.org/10.5281/zenodo.5536551" httpUri-0="https://zenodo.org/record/5536547/files/figure.png" httpUri-1="https://zenodo.org/record/5536549/files/figure.png" httpUri-2="https://zenodo.org/record/5536551/files/figure.png" pageId="84" pageNumber="85">61–63</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1FA19FAB0DA0E" blockId="84.[189,1399,310,2025]" box="[193,1398,1525,1552]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1FA19FAB0DA0E" box="[193,1398,1525,1552]" pageId="84" pageNumber="85">– Base of female gonopod sclerotized................................................................................................ 10</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADF9D8FAB0DA75" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADF9D8FAB0DA50" blockId="84.[189,1399,310,2025]" box="[189,1398,1590,1617]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADF9D8FAB0DA50" box="[189,1398,1590,1617]" pageId="84" pageNumber="85">
+10. Pedipalp tibia with two ventral spines ..................................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A4ABF9D8FBB1DA50" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[955,1143,1590,1617]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="diamantinus" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A4ABF9D8FBB1DA50" bold="true" box="[955,1143,1590,1617]" italics="true" pageId="84" pageNumber="85">C. diamantinus</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A36EF9D8FB1FDA50" box="[1150,1241,1591,1617]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A3F8F9D8FAA8DA50" box="[1256,1390,1590,1617]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStart-3="Fig" captionStartId-0="312.[189,232,1928,1954]" captionStartId-1="313.[189,232,1109,1135]" captionStartId-2="314.[189,232,1234,1260]" captionStartId-3="315.[189,232,1616,1642]" captionTargetBox-0="[241,1347,265,1883]" captionTargetBox-1="[189,1398,265,1054]" captionTargetBox-2="[189,1397,265,1190]" captionTargetBox-3="[189,1398,265,1563]" captionTargetId-0="figure-52@312.[241,1347,265,1883]" captionTargetId-1="figure-34@313.[189,1399,265,1057]" captionTargetId-2="figure-38@314.[189,1397,265,1190]" captionTargetId-3="figure-35@315.[189,1399,265,1563]" captionTargetPageId-0="312" captionTargetPageId-1="313" captionTargetPageId-2="314" captionTargetPageId-3="315" captionText-0="Fig. 57. Charinus diamantinus sp. nov. (MNRJ 9299), ♀, general morphology. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, D–F = 1 mm; C = 0.5 mm." captionText-1="Fig. 58. Charinus diamantinus sp. nov., habitus, dorsal view illustrating secondary sexual dimorphism (males possess longer pedipalp segments than females). A. ♀ (MNRJ 9299). B. ♂ (MNRJ 9190). Scale bars: 0.1 cm." captionText-2="Fig. 59. Charinus diamantinus sp. nov. (MNRJ 9189), male gonopod. A. Gonopod with long and curved lamina medialis (LaM), ventral view. B. Sinistral side of gonopod showing lobus lateralis 2 (LoL2). C. Dorsal lobe (LoD)." captionText-3="Fig. 60. Charinus diamantinus sp. nov. (MNRJ 9189), antenniform leg I, ♀. A. Frontal view. B. Apex showing claw. C. Claw and tarsal organ, lateral view. D. Rod sensilla lateral view." figureDoi-0="http://doi.org/10.5281/zenodo.5536537" figureDoi-1="http://doi.org/10.5281/zenodo.5536539" figureDoi-2="http://doi.org/10.5281/zenodo.5536541" figureDoi-3="http://doi.org/10.5281/zenodo.5536543" httpUri-0="https://zenodo.org/record/5536537/files/figure.png" httpUri-1="https://zenodo.org/record/5536539/files/figure.png" httpUri-2="https://zenodo.org/record/5536541/files/figure.png" httpUri-3="https://zenodo.org/record/5536543/files/figure.png" pageId="84" pageNumber="85">Figs 57–60</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1F9B5FAB0DA75" blockId="84.[189,1399,310,2025]" box="[193,1398,1626,1652]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1F9B5FAB0DA75" box="[193,1398,1626,1652]" pageId="84" pageNumber="85">– Pedipalp tibia with one ventral spine................................................................................................11</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADF974FAB0DB1E" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADF974FAB0DAD8" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADF974FAB0DAD8" pageId="84" pageNumber="85">
+11. Curved carina present between ocular triads and lateral margin of carapace; cheliceral claw with nine teeth............................................................................................ 
+<taxonomicName id="C0EAD9E0FFCDFF87A317F951FBB0DAD9" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[1031,1142,1726,1752]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="souzai" status="sp. nov.">
+<emphasis id="359E7E71FFCDFF87A317F951FBB0DAD9" bold="true" box="[1031,1142,1726,1752]" italics="true" pageId="84" pageNumber="85">C. souzai</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCDFF87A36EF950FB1FDAD8" box="[1150,1241,1727,1753]" pageId="84" pageNumber="85" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A3F8F951FAA8DAD8" box="[1256,1390,1726,1753]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="331.[189,232,1927,1953]" captionStartId-1="332.[189,232,1595,1621]" captionTargetBox-0="[189,1364,265,1894]" captionTargetBox-1="[189,1399,265,1562]" captionTargetId-0="figure-57@331.[189,1365,265,1894]" captionTargetId-1="figure-60@332.[189,1399,265,1562]" captionTargetPageId-0="331" captionTargetPageId-1="332" captionText-0="Fig. 76. Charinus souzai sp. nov. (MNRJ 9090), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C = 0.1 mm; D = 0.5 mm." captionText-1="Fig. 77. Charinus souzai sp. nov. (MNRJ 9245), female gonopod and genital operculum. A. Sucker-like gonopod, dorsal view. B. Genital operculum, ventral view. Inset: cerotegument. C. Gonopods, posterior view. D. Aperture on sinistral side of sucker-like gonopod, dorsal view. E. Posterior margin of genital operculum. F. Gland opening near lateral margin of genital operculum." figureDoi-0="http://doi.org/10.5281/zenodo.5536585" figureDoi-1="http://doi.org/10.5281/zenodo.5536587" httpUri-0="https://zenodo.org/record/5536585/files/figure.png" httpUri-1="https://zenodo.org/record/5536587/files/figure.png" pageId="84" pageNumber="85">Figs 76–77</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1F90DFAB0DB1E" blockId="84.[189,1399,310,2025]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1F90DFAB0DB1E" pageId="84" pageNumber="85">
+– Curved carina absent between ocular triads and lateral margin of carapace (
+<figureCitation id="9FD1BEE6FFCDFF87A34FF90DFB36DAFD" box="[1119,1264,1762,1788]" captionStart="Fig" captionStartId="303.[189,232,1893,1919]" captionTargetBox="[205,1398,269,1864]" captionTargetId="figure-74@303.[205,1399,265,1864]" captionTargetPageId="303" captionText="Fig. 48. Charinus brasilianus Weygoldt, 1972, general morphology (MNRJ 9271). A. Female habitus, dorsal view. B. Male habitus, dorsal view. C. Female pedipalp, dorsal view. D. Female pedipalp, ventral view. E. Male pedipalp, dorsal view. F. Male pedipalp, ventral view. G. Frontal process. H. Sternum, ventral view. Scale bars: A, C–F = 1 mm; B = 5 mm; G = 0.1 mm; H = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536519" httpUri="https://zenodo.org/record/5536519/files/figure.png" pageId="84" pageNumber="85">Fig. 48A–B</figureCitation>
+); cheliceral claw with six or seven teeth..................................... 
+<taxonomicName id="C0EAD9E0FFCDFF87A453F8EAFB76DB1E" authority="Weygoldt, 1972" authorityName="Weygoldt" authorityYear="1972" box="[835,1200,1796,1823]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="brasilianus">
+<emphasis id="359E7E71FFCDFF87A453F8EAFC28DB1E" bold="true" box="[835,1006,1796,1823]" italics="true" pageId="84" pageNumber="85">C. brasilianus</emphasis>
+<bibRefCitation id="637BDF92FFCDFF87A4E5F8EAFB76DB1E" author="Weygoldt P." box="[1013,1200,1797,1823]" journalOrPublisher="Senckenbergiana Biologica" pageId="84" pageNumber="85" pagination="281 - 286" part="53" refId="ref155507" refString="Weygoldt P. 1972 a. Charinus koepckei n. sp. aus Peru (Amblypygi: Charontidae). Senckenbergiana Biologica 53: 281 - 286." title="Charinus koepckei n. sp. aus Peru (Amblypygi: Charontidae)" type="journal article" year="1972">Weygoldt, 1972</bibRefCitation>
+</taxonomicName>
+(
+<figureCitation id="9FD1BEE6FFCDFF87A3AFF8EAFA85DB1E" box="[1215,1347,1797,1823]" captionStart="Fig" captionStartId="263.[189,232,1820,1846]" captionTargetBox="[278,1308,265,1800]" captionTargetId="figure-0@263.[278,1309,265,1800]" captionTargetPageId="263" captionText="Fig. 8. Charinus Simon, 1892, male gonopods. A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297), ventral view (A) and detail of dorsal lobe (LoD) and lateral lobe 1 (LoL1). C–D. Charinus brasilianus Weygoldt, 1972 (MNRJ 9226), posterior view (C) and detail of lateral lobes 1 and 2 (LoL1, 2), dorsal lobe (LoD) and lamina medialis (LaM) (D). E–H. Charinus carajas Giupponi &amp; Miranda, 2016 (MZSP 29126), ventral view of gonopod (E), detail of sinistral side of gonopod (F), detail of LoL1 and LoD (G), and detail of LoL2 (H)." figureDoi="http://doi.org/10.5281/zenodo.5536426" httpUri="https://zenodo.org/record/5536426/files/figure.png" pageId="84" pageNumber="85">Figs 8C–D</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCDFF87A25FF8EAFAA8DB1E" box="[1359,1390,1797,1823]" captionStart="Fig" captionStartId="303.[189,232,1893,1919]" captionTargetBox="[205,1398,269,1864]" captionTargetId="figure-74@303.[205,1399,265,1864]" captionTargetPageId="303" captionText="Fig. 48. Charinus brasilianus Weygoldt, 1972, general morphology (MNRJ 9271). A. Female habitus, dorsal view. B. Male habitus, dorsal view. C. Female pedipalp, dorsal view. D. Female pedipalp, ventral view. E. Male pedipalp, dorsal view. F. Male pedipalp, ventral view. G. Frontal process. H. Sternum, ventral view. Scale bars: A, C–F = 1 mm; B = 5 mm; G = 0.1 mm; H = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536519" httpUri="https://zenodo.org/record/5536519/files/figure.png" pageId="84" pageNumber="85">48</figureCitation>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADF8A8FAB0DB85" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADF8A8FAB1DB60" blockId="84.[189,1399,310,2025]" box="[189,1399,1862,1889]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADF8A8FAB1DB60" box="[189,1399,1862,1889]" pageId="84" pageNumber="85">
+12. Leg I tarsus with 28 articles.................................................................. 
+<taxonomicName id="C0EAD9E0FFCDFF87A308F8A9FAB1DB60" authority="Weygoldt, 1972" authorityName="Weygoldt" authorityYear="1972" box="[1048,1399,1862,1889]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="84" pageNumber="85" phylum="Arthropoda" rank="species" species="montanus">
+<emphasis id="359E7E71FFCDFF87A308F8A9FB73DB60" bold="true" box="[1048,1205,1862,1889]" italics="true" pageId="84" pageNumber="85">C. montanus</emphasis>
+<bibRefCitation id="637BDF92FFCDFF87A3ACF8A9FAB1DB60" author="Weygoldt P." box="[1212,1399,1862,1889]" journalOrPublisher="Senckenbergiana Biologica" pageId="84" pageNumber="85" pagination="281 - 286" part="53" refId="ref155507" refString="Weygoldt P. 1972 a. Charinus koepckei n. sp. aus Peru (Amblypygi: Charontidae). Senckenbergiana Biologica 53: 281 - 286." title="Charinus koepckei n. sp. aus Peru (Amblypygi: Charontidae)" type="journal article" year="1972">Weygoldt, 1972</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF87A7D1F885FAB0DB85" blockId="84.[189,1399,310,2025]" box="[193,1398,1898,1924]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1F885FAB0DB85" box="[193,1398,1898,1924]" pageId="84" pageNumber="85">– Leg I tarsus with 41 articles............................................................................................................. 13</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCDFF87A7ADF844FAB0DBE9" pageId="84" pageNumber="85">
+<paragraph id="0755A263FFCDFF87A7ADF844FAB0DBC4" blockId="84.[189,1399,310,2025]" box="[189,1398,1963,1990]" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7ADF844FAB0DBC4" box="[189,1398,1963,1990]" pageId="84" pageNumber="85">13. Carapace anterior margin with eight or ten setae ............................................................................ 14</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCDFF86A7D1F820FAB1DD48" blockId="84.[189,1399,310,2025]" lastBlockId="85.[189,1399,265,2025]" lastPageId="85" lastPageNumber="86" pageId="84" pageNumber="85">
+<keyLead id="BC1B0156FFCDFF87A7D1F820FAB0DBE9" box="[193,1398,1998,2025]" pageId="84" pageNumber="85">– Carapace anterior margin with six setae.......................................................................................... 16</keyLead>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFEE6FAB0DD96" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFEE6FAB1DD48" pageId="85" pageNumber="86">
+14. Carapace anterior margin with ten setae; median ocular tubercle absent; pedipalp patella with spine between ventral spine I and distal margin .......................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A486FEC0FAB1DD48" authority="Baptista &amp; Giupponi, 2003" authorityName="Baptista &amp; Giupponi" authorityYear="2003" box="[918,1399,303,330]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="eleonorae">
+<emphasis id="359E7E71FFCCFF86A486FEC0FBF7DD4B" bold="true" box="[918,1073,303,330]" italics="true" pageId="85" pageNumber="86">C. eleonorae</emphasis>
+<bibRefCitation id="637BDF92FFCCFF86A329FEC0FAB1DD48" author="Giupponi A. P. L. &amp; Baptista R. L. C." box="[1081,1399,303,329]" firstAuthor="Baptista" pageId="85" pageNumber="86" pagination="173 - 174" refId="ref148593" refString="Giupponi A. P. L. &amp; Baptista R. L. C. 2003. A case of homonymy in Charinus Simon, 1892 (Amblypygi: Charinidae). Revista Iberica de Aracnologia 7: 173 - 174." type="journal article" year="2003">Baptista &amp; Giupponi, 2003</bibRefCitation>
+</taxonomicName>
+</keyLead>
+<paragraph id="0755A263FFCCFF86A7D1FEB9FAB0DD96" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FEB9FAB0DD96" pageId="85" pageNumber="86">– Carapace anterior margin with eight setae; median ocular tubercle present; pedipalp patella with setiferous tubercles between ventral spine I and distal margin ....................................................... 15</keyLead>
+</paragraph>
+</keyStep>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFE2FFAB1DE00" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFE2FFAB0DDDB" blockId="85.[189,1399,265,2025]" box="[189,1398,448,475]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFE2FFAB0DDDB" box="[189,1398,448,475]" pageId="85" pageNumber="86">
+15. Pedipalp tarsus with two dorsal spines (
+<figureCitation id="9FD1BEE6FFCCFF86A5ABFE2FFCE1DDDB" box="[699,807,448,474]" captionStart="Fig" captionStartId="302.[189,232,1928,1954]" captionTargetBox="[263,1324,265,1896]" captionTargetId="figure-52@302.[263,1324,265,1896]" captionTargetPageId="302" captionText="Fig. 47. Charinus apiaca sp. nov. (MNRJ 9286), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A, D–F = 1 mm; B–C = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536517" httpUri="https://zenodo.org/record/5536517/files/figure.png" pageId="85" pageNumber="86">Fig. 47D</figureCitation>
+) ...................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A4CBFE2FFB88DDDB" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[987,1102,448,474]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="apiaca" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A4CBFE2FFB88DDDB" bold="true" box="[987,1102,448,474]" italics="true" pageId="85" pageNumber="86">C. apiaca</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A345FE2EFB76DDDA" box="[1109,1200,449,475]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A3AFFE2FFA85DDDA" box="[1215,1347,448,475]" captionStart="Fig" captionStartId="260.[189,232,1891,1917]" captionTargetBox="[419,1169,265,1859]" captionTargetId="figure-61@260.[419,1169,265,1859]" captionTargetPageId="260" captionText="Fig. 5. Charinus Simon, 1892, female gonopods, dorsal (left column) and posterior (right column) views. A–B. Charinus apiaca sp. nov. (MNRJ 9286). C–D. Charinus gertschi Goodnight &amp; Goodnight, 1946 (AMCC [LP 10076]). E–F. Charinus miskito sp. nov. (SMNS). G–H. Charinus mocoa sp. nov. (SMF 68). Scale bars: A–B, F–H = 0.1 mm; C–E, I–L = 0.25 mm." figureDoi="http://doi.org/10.5281/zenodo.5536420" httpUri="https://zenodo.org/record/5536420/files/figure.png" pageId="85" pageNumber="86">Figs 5A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A25FFE2FFAA8DDDB" box="[1359,1390,448,474]" captionStart="Fig" captionStartId="302.[189,232,1928,1954]" captionTargetBox="[263,1324,265,1896]" captionTargetId="figure-52@302.[263,1324,265,1896]" captionTargetPageId="302" captionText="Fig. 47. Charinus apiaca sp. nov. (MNRJ 9286), general morphology, ♀. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A, D–F = 1 mm; B–C = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536517" httpUri="https://zenodo.org/record/5536517/files/figure.png" pageId="85" pageNumber="86">47</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FE08FAB1DE00" blockId="85.[189,1399,265,2025]" box="[193,1399,487,513]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FE08FAB1DE00" box="[193,1399,487,513]" pageId="85" pageNumber="86">
+– Pedipalp tarsus with three dorsal spines ......................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A46AFE08FAB1DE00" authority="Vasconcelos &amp; Ferreira, 2016" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2016" box="[890,1399,487,513]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="caatingae">
+<emphasis id="359E7E71FFCCFF86A46AFE08FBD5DE00" bold="true" box="[890,1043,487,513]" italics="true" pageId="85" pageNumber="86">C. caatingae</emphasis>
+<bibRefCitation id="637BDF92FFCCFF86A30AFE08FAB1DE00" author="Vasconcelos &amp; Ferreira" box="[1050,1399,487,513]" firstAuthor="Vasconcelos" pageId="85" pageNumber="86" pagination="185 - 202" refId="ref155011" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2016. Description of two new species of Charinus Simon, 1892 from Brazilian caves with remarks on conservation (Arachnida: Amblypygi: Charinidae). Zootaxa 4072 (2): 185 - 202. https: // doi. org / 10.11646 / zootaxa. 4072.2.3" type="journal article" year="2016">Vasconcelos &amp; Ferreira, 2016</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFDC4FAB0DE6D" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFDC4FAB1DE44" blockId="85.[189,1399,265,2025]" box="[189,1399,555,582]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFDC4FAB1DE44" box="[189,1399,555,582]" pageId="85" pageNumber="86">
+16. Carapace anterior margin projected anteriorly ............ 
+<taxonomicName id="C0EAD9E0FFCCFF86A471FDC4FAB1DE44" authority="Vasconcelos &amp; Ferreira, 2017" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2017" box="[865,1399,555,581]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="santanensis">
+<emphasis id="359E7E71FFCCFF86A471FDC4FBD5DE44" bold="true" box="[865,1043,555,581]" italics="true" pageId="85" pageNumber="86">C. santanensis</emphasis>
+<bibRefCitation id="637BDF92FFCCFF86A30AFDC4FAB1DE44" author="Vasconcelos &amp; Ferreira" box="[1050,1399,555,581]" firstAuthor="Vasconcelos" pageId="85" pageNumber="86" pagination="277 - 292" refId="ref155073" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2017. Two new species of cave-dwelling Charinus Simon, 1892 from Brazil (Arachnida: Amblypygi: Charinidae). Zootaxa 4312: 277 - 292. https: // doi. org / 10.11646 / zootaxa. 4312.2.4" type="journal article" year="2017">Vasconcelos &amp; Ferreira, 2017</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FDBDFAB0DE6D" blockId="85.[189,1399,265,2025]" box="[193,1398,593,620]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FDBDFAB0DE6D" box="[193,1398,593,620]" pageId="85" pageNumber="86">– Carapace anterior margin rounded................................................................................................... 17</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFD79FAB0DEFC" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFD79FAB1DED7" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFD79FAB1DED7" pageId="85" pageNumber="86">
+17. Leg I tarsus, first article equal in length to subsequent three articles.................................................. ......................................................................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A41EFD53FAB1DED7" authority="Vasconcelos, Giupponi &amp; Ferreira, 2014" authorityName="Vasconcelos, Giupponi &amp; Ferreira" authorityYear="2014" box="[782,1399,700,727]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="jibaossu">
+<emphasis id="359E7E71FFCCFF86A41EFD53FC53DED6" bold="true" box="[782,917,700,727]" italics="true" pageId="85" pageNumber="86">C. jibaossu</emphasis>
+<bibRefCitation id="637BDF92FFCCFF86A48CFD53FAB1DED7" author="Vasconcelos, Giupponi &amp; Ferreira" box="[924,1399,700,726]" firstAuthor="Vasconcelos" pageId="85" pageNumber="86" pagination="155 - 162" refId="ref155199" refString="Vasconcelos A. C. O., Giupponi A. P. L. &amp; Ferreira R. L. 2014. A new species of Charinus from Minas Gerais State, Brazil, with comments on its sexual dimorphism (Arachnida: Amblypygi: Charinidae). Journal of Arachnology 42: 155 - 162. https: // doi. org / 10.1636 / H 14 - 01.1" type="journal article" year="2014">Vasconcelos, Giupponi &amp; Ferreira, 2014</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FD0CFAB0DEFC" blockId="85.[189,1399,265,2025]" box="[193,1398,739,765]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FD0CFAB0DEFC" box="[193,1398,739,765]" pageId="85" pageNumber="86">– Leg I tarsus, first article equal in length to all subsequent articles ................................................. 18</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFCC8FAB0DF69" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFCC8FAB0DF40" blockId="85.[189,1399,265,2025]" box="[189,1398,807,834]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFCC8FAB0DF40" box="[189,1398,807,834]" pageId="85" pageNumber="86">18. Pedipalp tarsus with three dorsal spines .......................................................................................... 19</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FCA1FAB0DF69" blockId="85.[189,1399,265,2025]" box="[193,1398,845,872]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FCA1FAB0DF69" box="[193,1398,845,872]" pageId="85" pageNumber="86">– Pedipalp tarsus with two dorsal spines ............................................................................................ 23</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFC7DFAB0DFD3" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFC7DFAB1DFAD" blockId="85.[189,1399,265,2025]" box="[189,1399,914,940]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFC7DFAB1DFAD" box="[189,1399,914,940]" pageId="85" pageNumber="86">
+19. Cheliceral claw with four teeth.................................................. 
+<taxonomicName id="C0EAD9E0FFCCFF86A4DBFC7DFAB1DFAD" authority="Giupponi &amp; Kury, 2002" authorityName="Giupponi &amp; Kury" authorityYear="2002" box="[971,1399,914,940]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="mysticus">
+<emphasis id="359E7E71FFCCFF86A4DBFC7DFB91DFAD" bold="true" box="[971,1111,914,940]" italics="true" pageId="85" pageNumber="86">C. mysticus</emphasis>
+<bibRefCitation id="637BDF92FFCCFF86A34EFC7DFAB1DFAD" author="Giupponi &amp; Kury" box="[1118,1399,914,940]" firstAuthor="Giupponi" pageId="85" pageNumber="86" pagination="1 - 7" refId="ref148635" refString="Giupponi A. P. L. &amp; Kury A. B. 2002. A new species of Charinus Simon, 1892 from northeastern Brazil (Arachnida, Amblypygi, Charinidae). Boletim do Museu Nacional 477: 1 - 7." type="journal article" year="2002">Giupponi &amp; Kury, 2002</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FC56FAB0DFD3" blockId="85.[189,1399,265,2025]" box="[193,1398,952,979]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FC56FAB0DFD3" box="[193,1398,952,979]" pageId="85" pageNumber="86">– Cheliceral claw with 9–13 teeth ...................................................................................................... 20</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFC12FAB0D83C" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFC12FAB0D816" blockId="85.[189,1399,265,2025]" box="[189,1398,1021,1047]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFC12FAB0D816" box="[189,1398,1021,1047]" pageId="85" pageNumber="86">20. Pedipalp coxa, rounded dorsal carina containing seven setae ......................................................... 21</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FBCBFAB0D83C" blockId="85.[189,1399,265,2025]" box="[193,1398,1059,1086]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FBCBFAB0D83C" box="[193,1398,1059,1086]" pageId="85" pageNumber="86">– Pedipalp coxa, rounded dorsal carina containing two or five setae................................................. 22</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFB87FAB0D8F4" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFB87FAB0D8A8" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFB87FAB0D8A8" pageId="85" pageNumber="86">
+21. Pedipalp patella with six ventral spines (
+<figureCitation id="9FD1BEE6FFCCFF86A5D5FB87FCE8D883" box="[709,814,1128,1154]" captionStart="Fig" captionStartId="304.[189,232,1875,1901]" captionTargetBox="[189,1398,265,1832]" captionTargetId="figure-56@304.[189,1399,265,1832]" captionTargetPageId="304" captionText="Fig. 49. Charinus carinae sp. nov. (MNRJ 9293), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A = 5 mm; B, D–F = 1 mm; C = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536521" httpUri="https://zenodo.org/record/5536521/files/figure.png" pageId="85" pageNumber="86">Fig. 49F</figureCitation>
+); cheliceral claw with 13 teeth ............................. .................................................................................. 
+<taxonomicName id="C0EAD9E0FFCCFF86A45EFB61FC0BD8A9" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[846,973,1166,1192]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="carinae" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A45EFB61FC0BD8A9" bold="true" box="[846,973,1166,1192]" italics="true" pageId="85" pageNumber="86">C. carinae</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A4C5FB61FBE9D8A9" box="[981,1071,1166,1192]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A32EFB61FB04D8A9" box="[1086,1218,1166,1192]" captionStart="Fig" captionStartId="258.[189,232,1893,1919]" captionTargetBox="[189,1398,266,1853]" captionTargetId="figure-0@258.[189,1399,249,1875]" captionTargetPageId="258" captionText="Fig. 3. Charinidae Quintero, 1986, pedipalp femur, prolateral and dorsal views. A–B. Charinus carinae sp. nov. (MNRJ 9293). C–D. Charinus gertschi Goodnight &amp; Goodnight, 1946 (AMCC [LP 10076]). E–F. Sarax bispinosus (Nair, 1934) (AMCC [LP 12298]). G–H. Sarax willeyi Gravely, 1915 (SMF). Scale bars: A–D, G–H = 1 mm; E–F = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536416" httpUri="https://zenodo.org/record/5536416/files/figure.png" pageId="85" pageNumber="86">Figs 3A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A3DFFB61FADED8A9" box="[1231,1304,1166,1192]" captionStart="Fig" captionStartId="259.[189,232,1433,1459]" captionTargetBox="[195,1399,265,1347]" captionTargetId="figure-0@259.[189,1399,265,1347]" captionTargetPageId="259" captionText="Fig. 4. Charinidae Quintero, 1986, pedipalp patellar articles, dorsal and prolateral views. A–B. Charinus carinae sp. nov. (MNRJ 9293). C–D. Charinus gertschi Goodnight &amp; Goodnight, 1946 (AMCC [LP 10076]). E–F. Sarax bispinosus (Nair, 1934) (AMCC [LP 12298]). G–H. Sarax willeyi Gravely, 1915 (SMF). Scale bars: A–D, G–H = 1 mm; E–F = 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536418" httpUri="https://zenodo.org/record/5536418/files/figure.png" pageId="85" pageNumber="86">4A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A233FB61FAA8D8A8" box="[1315,1390,1166,1193]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="304.[189,232,1875,1901]" captionStartId-1="305.[189,232,1927,1953]" captionStartId-2="306.[189,232,1177,1203]" captionTargetBox-0="[189,1398,265,1832]" captionTargetBox-1="[226,1360,265,1886]" captionTargetBox-2="[189,1398,265,1130]" captionTargetId-0="figure-56@304.[189,1399,265,1832]" captionTargetId-1="figure-42@305.[226,1360,265,1886]" captionTargetId-2="figure-29@306.[189,1399,265,1130]" captionTargetPageId-0="304" captionTargetPageId-1="305" captionTargetPageId-2="306" captionText-0="Fig. 49. Charinus carinae sp. nov. (MNRJ 9293), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A = 5 mm; B, D–F = 1 mm; C = 0.5 mm." captionText-1="Fig. 50. Charinus carinae sp. nov. (MNRJ 9199), male gonopod. A. Ventral view. B. Posterior view. C. Dorsal view. D. Sinistral side of gonopod. E. Lateral lobe 1. F. Globular projection on dorsal margin of fistula." captionText-2="Fig. 51. Charinus carinae sp. nov. (MNRJ 9199), antenniform leg I, ♂. A. Apex, ventral view. B. Apex, frontal view. C. Rod sensilla with olfactory setae." figureDoi-0="http://doi.org/10.5281/zenodo.5536521" figureDoi-1="http://doi.org/10.5281/zenodo.5536523" figureDoi-2="http://doi.org/10.5281/zenodo.5536525" httpUri-0="https://zenodo.org/record/5536521/files/figure.png" httpUri-1="https://zenodo.org/record/5536523/files/figure.png" httpUri-2="https://zenodo.org/record/5536525/files/figure.png" pageId="85" pageNumber="86">49–51</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FB5AFAB0D8F4" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FB5AFAB0D8F4" pageId="85" pageNumber="86">
+– Pedipalp patella with three or four ventral spines; cheliceral claw with ten teeth............................... .......................................................................................................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A4EBFB35FBB1D8F5" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[1019,1143,1242,1268]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="goitaca" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A4EBFB35FBB1D8F5" bold="true" box="[1019,1143,1242,1268]" italics="true" pageId="85" pageNumber="86">C. goitaca</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A36EFB34FB1FD8F4" box="[1150,1241,1243,1269]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A3F8FB35FAA8D8F4" box="[1256,1390,1242,1269]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="319.[189,232,1748,1774]" captionStartId-1="320.[189,232,1225,1251]" captionTargetBox-0="[193,1399,265,1682]" captionTargetBox-1="[189,1399,265,1177]" captionTargetId-0="figure-56@319.[189,1399,265,1685]" captionTargetId-1="figure-35@320.[189,1399,265,1178]" captionTargetPageId-0="319" captionTargetPageId-1="320" captionText-0="Fig. 64. Charinus goitaca sp. nov. (MNRJ 9224), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A = 0.5 cm; B, E–F = 1 mm; C–D = 0.5 mm." captionText-1="Fig. 65. Charinus goitaca sp. nov. (MNRJ 9360), female gonopod and genital operculum. A. Suckerlike gonopod, dorsal view. B. Genital operculum between gonopods. C. Gonopods, anterior view. D. Gonopods aperture." figureDoi-0="http://doi.org/10.5281/zenodo.5536555" figureDoi-1="http://doi.org/10.5281/zenodo.5536557" httpUri-0="https://zenodo.org/record/5536555/files/figure.png" httpUri-1="https://zenodo.org/record/5536557/files/figure.png" pageId="85" pageNumber="86">Figs 64–65</figureCitation>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFAF0FAB0D9AC" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFAF0FAB1D95E" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFAF0FAB1D95E" pageId="85" pageNumber="86">
+22. Pedipalp coxa, rounded dorsal carina containing five setae; pedipalp patella with six dorsal spines .................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A6DFFAAAFD81D961" authorityName="Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff" authorityYear="2016" box="[463,583,1349,1376]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="ruschii">
+<emphasis id="359E7E71FFCCFF86A6DFFAAAFD81D961" bold="true" box="[463,583,1349,1376]" italics="true" pageId="85" pageNumber="86">C. ruschii</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FFCCFF86A55EFAAAFAB1D95E" author="Miranda, Milleri-Pinto, Goncalves-Souza, Giupponi &amp; Scharff" box="[590,1399,1349,1375]" firstAuthor="Miranda" pageId="85" pageNumber="86" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016">
+<collectingRegion id="C52E6C81FFCCFF86A55EFAAAFD72D95E" box="[590,692,1349,1375]" country="Venezuela" name="Miranda" pageId="85" pageNumber="86">Miranda</collectingRegion>
+, Milleri-Pinto, Gonçalves-Souza, Giupponi &amp; Scharff, 2016
+</bibRefCitation>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FA83FAB0D9AC" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FA83FAB0D9AC" pageId="85" pageNumber="86">
+– Pedipalp coxa, rounded dorsal carina containing two setae; pedipalp patella with four dorsal spines ..................................................................................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A4BEFA7DFBECD9AD" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[942,1066,1426,1452]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="carioca" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A4BEFA7DFBECD9AD" bold="true" box="[942,1066,1426,1452]" italics="true" pageId="85" pageNumber="86">C. carioca</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A322FA7DFB4BD9AD" box="[1074,1165,1426,1452]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A38CFA7DFADED9AD" box="[1180,1304,1426,1452]" captionStart="Fig" captionStartId="261.[189,232,1618,1644]" captionTargetBox="[189,1399,271,1581]" captionTargetId="figure-0@261.[189,1399,265,1581]" captionTargetPageId="261" captionText="Fig. 6. Charinus Simon, 1892, female gonopods, dorsal (left column) and posterior (right column) views. A–B. Charinus renneri sp. nov. (MNRJ 9198). C–D. Charinus euclidesi sp. nov. (MNRJ 9099). E–F. Charinus carioca sp. nov. (MNRJ 9201). Scale bars: A–D = 0.25 mm; E–F = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536422" httpUri="https://zenodo.org/record/5536422/files/figure.png" pageId="85" pageNumber="86">Figs 6E–F</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A233FA7DFAA8D9AC" box="[1315,1390,1426,1453]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="307.[189,232,1779,1805]" captionStartId-1="308.[189,232,1105,1131]" captionTargetBox-0="[189,1398,265,1726]" captionTargetBox-1="[189,1399,265,1071]" captionTargetId-0="figure-52@307.[189,1399,265,1726]" captionTargetId-1="figure-32@308.[189,1399,265,1071]" captionTargetPageId-0="307" captionTargetPageId-1="308" captionText-0="Fig. 52. Charinus carioca sp. nov. (MNRJ 9021), general morphology, ♂. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C–D = 0.5 mm." captionText-1="Fig. 53. Charinus carioca sp. nov. (MNRJ 9021), habitus, dorsal view illustrating secondary sexual dimorphism (males possess longer pedipalp segments than females). A. ♀. B. ♂. Scale bars: 1 mm." figureDoi-0="http://doi.org/10.5281/zenodo.5536527" figureDoi-1="http://doi.org/10.5281/zenodo.5536529" httpUri-0="https://zenodo.org/record/5536527/files/figure.png" httpUri-1="https://zenodo.org/record/5536529/files/figure.png" pageId="85" pageNumber="86">52–53</figureCitation>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADFA38FAB0DA16" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADFA38FAB0D9F0" blockId="85.[189,1399,265,2025]" box="[189,1398,1494,1521]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADFA38FAB0D9F0" box="[189,1398,1494,1521]" pageId="85" pageNumber="86">23. Pedipalp coxa, rounded dorsal carina containing no setae .............................................................. 24</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1FA12FAB0DA16" blockId="85.[189,1399,265,2025]" box="[193,1398,1533,1559]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1FA12FAB0DA16" box="[193,1398,1533,1559]" pageId="85" pageNumber="86">– Pedipalp coxa, rounded dorsal carina containing setae ................................................................... 26</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADF9AEFAB0DAA8" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADF9AEFAB0DA83" blockId="85.[189,1399,265,2025]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADF9AEFAB0DA83" pageId="85" pageNumber="86">
+24. Pedipalp patella with three dorsal spines............................................................................................. .................................. 
+<taxonomicName id="C0EAD9E0FFCCFF86A6FFF988FDADDA80" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[495,619,1639,1665]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="acaraje">
+<emphasis id="359E7E71FFCCFF86A6FFF988FDADDA80" bold="true" box="[495,619,1639,1665]" italics="true" pageId="85" pageNumber="86">C. acaraje</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FFCCFF86A563F988FB41DA83" author="Pinto-da-Rocha, Machado &amp; Weygoldt" box="[627,1159,1639,1666]" firstAuthor="Pinto-da-Rocha" pageId="85" pageNumber="86" pagination="107 - 118" refId="ref152057" refString="Pinto-da-Rocha R., Machado G. &amp; Weygoldt P. 2002. Two new species of Charinus Simon, 1892 from Brazil with biological notes (Arachnida; Amblypygi; Charinidae). Journal of Natural History 36: 107 - 118. https: // doi. org / 10.1080 / 00222930110110152" type="journal article" year="2002">Pinto-da-Rocha, Machado &amp; Weygoldt, 2002</bibRefCitation>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A386F988FADDDA83" box="[1174,1307,1639,1666]" captionStart="Fig" captionStartId="262.[189,232,1716,1742]" captionTargetBox="[189,1399,265,1667]" captionTargetId="figure-0@262.[189,1399,265,1668]" captionTargetPageId="262" captionText="Fig. 7. Charinus Simon, 1892, female gonopods, dorsal view (left column) and detail (right column). A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297). C–D. Charinus palikur sp. nov. (AMCC [LP 3831]) E–F. Charinus sooretama sp. nov. (MNRJ 9245)." figureDoi="http://doi.org/10.5281/zenodo.5536424" httpUri="https://zenodo.org/record/5536424/files/figure.png" pageId="85" pageNumber="86">Figs 7A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A237F987FAA8DA83" box="[1319,1390,1640,1666]" captionStart="Fig" captionStartId="263.[189,232,1820,1846]" captionTargetBox="[278,1308,265,1800]" captionTargetId="figure-0@263.[278,1309,265,1800]" captionTargetPageId="263" captionText="Fig. 8. Charinus Simon, 1892, male gonopods. A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297), ventral view (A) and detail of dorsal lobe (LoD) and lateral lobe 1 (LoL1). C–D. Charinus brasilianus Weygoldt, 1972 (MNRJ 9226), posterior view (C) and detail of lateral lobes 1 and 2 (LoL1, 2), dorsal lobe (LoD) and lamina medialis (LaM) (D). E–H. Charinus carajas Giupponi &amp; Miranda, 2016 (MZSP 29126), ventral view of gonopod (E), detail of sinistral side of gonopod (F), detail of LoL1 and LoD (G), and detail of LoL2 (H)." figureDoi="http://doi.org/10.5281/zenodo.5536426" httpUri="https://zenodo.org/record/5536426/files/figure.png" pageId="85" pageNumber="86">8A–B</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1F961FAB0DAA8" blockId="85.[189,1399,265,2025]" box="[193,1398,1678,1705]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1F961FAB0DAA8" box="[193,1398,1678,1705]" pageId="85" pageNumber="86">– Pedipalp patella with five dorsal spines........................................................................................... 25</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADF93DFAB1DB12" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADF93DFAB0DAED" blockId="85.[189,1399,265,2025]" box="[189,1398,1746,1773]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADF93DFAB0DAED" box="[189,1398,1746,1773]" pageId="85" pageNumber="86">
+25. Pedipalp femur with four dorsal spines ..................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A445F93DFC15DAED" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[853,979,1746,1772]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="renneri" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A445F93DFC15DAED" bold="true" box="[853,979,1746,1772]" italics="true" pageId="85" pageNumber="86">C. renneri</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A4CAF93CFBF2DAEC" box="[986,1076,1747,1773]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A353F93DFB01DAED" box="[1091,1223,1746,1772]" captionStart="Fig" captionStartId="261.[189,232,1618,1644]" captionTargetBox="[189,1399,271,1581]" captionTargetId="figure-0@261.[189,1399,265,1581]" captionTargetPageId="261" captionText="Fig. 6. Charinus Simon, 1892, female gonopods, dorsal (left column) and posterior (right column) views. A–B. Charinus renneri sp. nov. (MNRJ 9198). C–D. Charinus euclidesi sp. nov. (MNRJ 9099). E–F. Charinus carioca sp. nov. (MNRJ 9201). Scale bars: A–D = 0.25 mm; E–F = 0.1 mm." figureDoi="http://doi.org/10.5281/zenodo.5536422" httpUri="https://zenodo.org/record/5536422/files/figure.png" pageId="85" pageNumber="86">Figs 6A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A3C3F93DFAD1DAED" box="[1235,1303,1746,1772]" captionStart="Fig" captionStartId="265.[189,232,1693,1719]" captionTargetBox="[189,1398,266,1637]" captionTargetId="figure-0@265.[189,1399,265,1638]" captionTargetPageId="265" captionText="Fig. 10. Charinus Simon, 1892, chelicerae, prolateral and retrolateral views. A–B. Charinus loko sp. nov. (SMNS). C–D. Charinus miskito sp. nov. (SMNS). E–F. Charinus mocoa sp. nov. (SMF 68). G–H. Charinus alagoanus sp. nov. (MNRJ 9295). I–J. Charinus renneri sp. nov. (MNRJ 9198). K–L. Charinus madagascariensis Fage, 1954 (MNHN). Scale bars: 0.5 mm." figureDoi="http://doi.org/10.5281/zenodo.5536430" httpUri="https://zenodo.org/record/5536430/files/figure.png" pageId="85" pageNumber="86">10I–J</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCCFF86A233F93DFAA8DAED" box="[1315,1390,1746,1772]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="328.[189,232,1927,1953]" captionStartId-1="329.[189,232,1199,1225]" captionTargetBox-0="[271,1316,265,1892]" captionTargetBox-1="[189,1398,265,1146]" captionTargetId-0="figure-52@328.[271,1317,265,1892]" captionTargetId-1="figure-40@329.[189,1399,265,1146]" captionTargetPageId-0="328" captionTargetPageId-1="329" captionText-0="Fig. 73. Charinus renneri sp. nov. (MNRJ 9198), general morphology, ♀. A. Carapace, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B, E–F = 1 mm; C–D = 0.5 mm." captionText-1="Fig. 74. Charinus renneri sp. nov. (MNRJ 9198), male gonopod. A. Ventral view. B. Lateral lobe 2, lamina medialis, processus internus and fistula. C. Posterior view. D. Lateral lobe 2, lamina medialis, processus internus and fistula." figureDoi-0="http://doi.org/10.5281/zenodo.5536577" figureDoi-1="http://doi.org/10.5281/zenodo.5536579" httpUri-0="https://zenodo.org/record/5536577/files/figure.png" httpUri-1="https://zenodo.org/record/5536579/files/figure.png" pageId="85" pageNumber="86">73–74</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1F916FAB1DB12" blockId="85.[189,1399,265,2025]" box="[193,1399,1785,1811]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1F916FAB1DB12" box="[193,1399,1785,1811]" pageId="85" pageNumber="86">
+– Pedipalp femur with five dorsal spines..... 
+<taxonomicName id="C0EAD9E0FFCCFF86A5C6F916FC9ADB12" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[726,860,1785,1811]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="asturius">
+<emphasis id="359E7E71FFCCFF86A5C6F916FC9ADB12" bold="true" box="[726,860,1785,1811]" italics="true" pageId="85" pageNumber="86">C. asturius</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FFCCFF86A473F916FAB1DB12" author="Pinto-da-Rocha, Machado &amp; Weygoldt" box="[867,1399,1785,1811]" firstAuthor="Pinto-da-Rocha" pageId="85" pageNumber="86" pagination="107 - 118" refId="ref152057" refString="Pinto-da-Rocha R., Machado G. &amp; Weygoldt P. 2002. Two new species of Charinus Simon, 1892 from Brazil with biological notes (Arachnida; Amblypygi; Charinidae). Journal of Natural History 36: 107 - 118. https: // doi. org / 10.1080 / 00222930110110152" type="journal article" year="2002">Pinto-da-Rocha, Machado &amp; Weygoldt, 2002</bibRefCitation>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADF8D2FAB0DB7F" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADF8D2FAB0DB59" blockId="85.[189,1399,265,2025]" box="[189,1398,1853,1880]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADF8D2FAB0DB59" box="[189,1398,1853,1880]" pageId="85" pageNumber="86">
+26. Pedipalp femur with five dorsal spines......................................... 
+<taxonomicName id="C0EAD9E0FFCCFF86A4F2F8D2FBB1DB56" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[994,1143,1853,1879]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="85" pageNumber="86" phylum="Arthropoda" rank="species" species="cearensis" status="sp. nov.">
+<emphasis id="359E7E71FFCCFF86A4F2F8D2FBB1DB56" bold="true" box="[994,1143,1853,1879]" italics="true" pageId="85" pageNumber="86">C. cearensis</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCCFF86A36EF8D1FB1FDB59" box="[1150,1241,1854,1880]" pageId="85" pageNumber="86" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCCFF86A3F8F8D2FAA9DB59" box="[1256,1391,1853,1880]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="309.[189,232,1927,1953]" captionStartId-1="310.[189,232,1892,1918]" captionStartId-2="311.[189,232,1961,1987]" captionTargetBox-0="[224,1363,265,1892]" captionTargetBox-1="[223,1363,265,1846]" captionTargetBox-2="[217,1371,265,1902]" captionTargetId-0="figure-55@309.[224,1363,265,1892]" captionTargetId-1="figure-54@310.[223,1364,265,1846]" captionTargetId-2="figure-38@311.[217,1371,265,1902]" captionTargetPageId-0="309" captionTargetPageId-1="310" captionTargetPageId-2="311" captionText-0="Fig. 54. Charinus cearensis sp. nov. (CHNUFPI 1255), general morphology, ♀. A. Carapace, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A–B = 0.5 mm; C–D = 0.1 mm; E–F = 1 mm." captionText-1="Fig. 55. Charinus cearensis sp. nov. (CHNUFPI 1255), female gonopod. A. Sucker-like gonopod, dorsal view. B. Genital operculum, ventral view. C. Gonopods, posterior view. D. Genital operculum, between gonopods, dorsal view. E. Gland opening near lateral margin of genital operculum. F. Sinistral side of sucker-like gonopod, dorsal view." captionText-2="Fig. 56. Charinus cearensis sp. nov. (CHNUFPI 1255), antenniform leg I, ♀. A. Apex of distal article. B. Rod sensilla and olfactory setae. C. Apex of distal article of tarsus showing claw and tarsal organ." figureDoi-0="http://doi.org/10.5281/zenodo.5536531" figureDoi-1="http://doi.org/10.5281/zenodo.5536533" figureDoi-2="http://doi.org/10.5281/zenodo.5536535" httpUri-0="https://zenodo.org/record/5536531/files/figure.png" httpUri-1="https://zenodo.org/record/5536533/files/figure.png" httpUri-2="https://zenodo.org/record/5536535/files/figure.png" pageId="85" pageNumber="86">Figs 54–56</figureCitation>
+)
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF86A7D1F88BFAB0DB7F" blockId="85.[189,1399,265,2025]" box="[193,1398,1891,1918]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1F88BFAB0DB7F" box="[193,1398,1891,1918]" pageId="85" pageNumber="86">– Pedipalp femur with four dorsal spines ........................................................................................... 27</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCCFF86A7ADF847FAB0DBE9" pageId="85" pageNumber="86">
+<paragraph id="0755A263FFCCFF86A7ADF847FAB0DBC3" blockId="85.[189,1399,265,2025]" box="[189,1398,1960,1987]" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7ADF847FAB0DBC3" box="[189,1398,1960,1987]" pageId="85" pageNumber="86">27. Pedipalp femur with five ventral spines........................................................................................... 28</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCCFF85A7D1F820FAB0DD49" blockId="85.[189,1399,265,2025]" lastBlockId="86.[189,1399,265,573]" lastPageId="86" lastPageNumber="87" pageId="85" pageNumber="86">
+<keyLead id="BC1B0156FFCCFF86A7D1F820FAB0DBE9" box="[193,1398,1998,2025]" pageId="85" pageNumber="86">– Pedipalp femur with four ventral spines.......................................................................................... 29</keyLead>
+<keyStep id="BC1EBAC6FFCFFF85A7ADFEE6FAB1DD8E" pageId="86" pageNumber="87">
+<keyLead id="BC1B0156FFCFFF85A7ADFEE6FAB0DD49" pageId="86" pageNumber="87">
+28. Pedipalp femur with secondary row of dorsal spines; pedipalp patella, distance from ventral spine I to distal margin half length of spine 
+<emphasis id="359E7E71FFCFFF85A59DFEC1FBB1DD46" box="[653,1143,301,327]" italics="true" pageId="86" pageNumber="87">
+...................................................... 
+<taxonomicName id="C0EAD9E0FFCFFF85A331FEC2FBB1DD46" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[1057,1143,301,327]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="puri" status="sp. nov.">
+<emphasis id="359E7E71FFCFFF85A331FEC2FBB1DD46" bold="true" box="[1057,1143,301,327]" italics="true" pageId="86" pageNumber="87">C. puri</emphasis>
+</taxonomicName>
+</emphasis>
+<taxonomicNameLabel id="2EADC30AFFCFFF85A36EFEC1FB1FDD49" box="[1150,1241,302,328]" pageId="86" pageNumber="87" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCFFF85A3F8FEC2FAA8DD49" box="[1256,1390,301,328]" captionStart-0="Fig" captionStart-1="Fig" captionStartId-0="326.[189,232,1718,1744]" captionStartId-1="327.[189,232,1445,1471]" captionTargetBox-0="[189,1399,265,1667]" captionTargetBox-1="[189,1398,265,1393]" captionTargetId-0="figure-47@326.[189,1399,265,1667]" captionTargetId-1="figure-42@327.[189,1399,265,1393]" captionTargetPageId-0="326" captionTargetPageId-1="327" captionText-0="Fig. 71. Charinus puri sp. nov. (MNRJ 9223), general morphology.A. Carapace, dorsal view.B. Sternum, ventral view. C. Pedipalp tarsus, frontal view. D. Pedipalp, dorsal view. E. Pedipalp, ventral view. Scale bars: A–B, D–E = 1 mm; C = 0.5 mm." captionText-1="Fig. 72. Charinus puri sp. nov. (MNRJ 9223), female gonopod and genital operculum. A. Sucker-like gonopod, dorsal view. B. Genital operculum, ventral view. C. Gonopods, posterior view. D. Posterior margin of genital operculum, ventral view. F. Cerotegument." figureDoi-0="http://doi.org/10.5281/zenodo.5536573" figureDoi-1="http://doi.org/10.5281/zenodo.5536575" httpUri-0="https://zenodo.org/record/5536573/files/figure.png" httpUri-1="https://zenodo.org/record/5536575/files/figure.png" pageId="86" pageNumber="87">Figs 71–72</figureCitation>
+)
+</keyLead>
+<paragraph id="0755A263FFCFFF85A7D1FEBDFAB1DD8E" blockId="86.[189,1399,265,573]" pageId="86" pageNumber="87">
+<keyLead id="BC1B0156FFCFFF85A7D1FEBDFAB1DD8E" pageId="86" pageNumber="87">
+– Pedipalp femur without secondary row of dorsal spines; pedipalp patella, distance from ventral spine I to distal margin greater than length of spine 
+<emphasis id="359E7E71FFCFFF85A458FE99FBD4DD8E" box="[840,1042,373,399]" italics="true" pageId="86" pageNumber="87">
+<emphasis id="359E7E71FFCFFF85A458FE99FC7EDD8E" box="[840,952,374,399]" italics="true" pageId="86" pageNumber="87">...............</emphasis>
+<taxonomicName id="C0EAD9E0FFCFFF85A4AFFE9AFAB1DD8E" authority="Vasconcelos &amp; Ferreira, 2016" authorityName="Vasconcelos &amp; Ferreira" authorityYear="2016" box="[959,1399,373,399]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="iuiu">
+<emphasis id="359E7E71FFCFFF85A4AFFE9AFBD4DD8E" bold="true" box="[959,1042,373,399]" italics="true" pageId="86" pageNumber="87">C. iuiu</emphasis>
+<bibRefCitation id="637BDF92FFCFFF85A30AFE9AFAB1DD8E" author="Vasconcelos &amp; Ferreira" box="[1050,1399,373,399]" firstAuthor="Vasconcelos" pageId="86" pageNumber="87" pagination="185 - 202" refId="ref155011" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2016. Description of two new species of Charinus Simon, 1892 from Brazilian caves with remarks on conservation (Arachnida: Amblypygi: Charinidae). Zootaxa 4072 (2): 185 - 202. https: // doi. org / 10.11646 / zootaxa. 4072.2.3" type="journal article" year="2016">Vasconcelos &amp; Ferreira, 2016</bibRefCitation>
+</taxonomicName>
+</emphasis>
+</keyLead>
+</paragraph>
+</keyStep>
+</paragraph>
+</keyStep>
+<keyStep id="BC1EBAC6FFCFFF85A7ADFE58FAB0DE3C" pageId="86" pageNumber="87">
+<paragraph id="0755A263FFCFFF85A7ADFE58FAB1DDF4" blockId="86.[189,1399,265,573]" pageId="86" pageNumber="87">
+<keyLead id="BC1B0156FFCFFF85A7ADFE58FAB1DDF4" pageId="86" pageNumber="87">
+29. Cheliceral claw with up to 13 teeth; median and lateral eyes reduced................................................ ......................................................................... 
+<taxonomicName id="C0EAD9E0FFCFFF85A41BFE35FAB1DDF4" authority="Vasconcelos, Giupponi &amp; Ferreira, 2013" authorityName="Vasconcelos, Giupponi &amp; Ferreira" authorityYear="2013" box="[779,1399,474,501]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="potiguar">
+<emphasis id="359E7E71FFCFFF85A41BFE35FC50DDF5" bold="true" box="[779,918,474,500]" italics="true" pageId="86" pageNumber="87">C. potiguar</emphasis>
+<bibRefCitation id="637BDF92FFCFFF85A48CFE35FAB1DDF4" author="Vasconcelos, Giupponi &amp; Ferreira" box="[924,1399,474,501]" firstAuthor="Vasconcelos" pageId="86" pageNumber="87" pagination="488 - 500" refId="ref155126" refString="Vasconcelos A. C., Giupponi A. P. L. &amp; Ferreira R. L. 2013. A new species of Charinus Simon, 1892 from northeastern Brazil with comments on the potential distribution of the genus in Central and South Americas (Arachnida: Amblypygi: Charinidae). Zootaxa 3737: 488 - 500. https: // doi. org / 10.11646 / zootaxa. 3737.4.9" type="journal article" year="2013">Vasconcelos, Giupponi &amp; Ferreira, 2013</bibRefCitation>
+</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7D1FE10FAB0DE3C" blockId="86.[189,1399,265,573]" pageId="86" pageNumber="87">
+<keyLead id="BC1B0156FFCFFF85A7D1FE10FAB0DE3C" pageId="86" pageNumber="87">
+– Cheliceral claw with 11 teeth; median and lateral eyes unmodified.................................................... ..................................................................................................... 
+<taxonomicName id="C0EAD9E0FFCFFF85A4CAFDCDFBB1DE3D" authority="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff, 2021" authorityName="Miranda &amp; Giupponi &amp; Prendini &amp; Scharff" authorityYear="2021" box="[986,1143,545,572]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="imperialis" status="sp. nov.">
+<emphasis id="359E7E71FFCFFF85A4CAFDCDFBB1DE3D" bold="true" box="[986,1143,545,572]" italics="true" pageId="86" pageNumber="87">C. imperialis</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="2EADC30AFFCFFF85A36EFDCDFB1FDE3D" box="[1150,1241,546,572]" pageId="86" pageNumber="87" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<figureCitation id="9FD1BEE6FFCFFF85A3F8FDCDFAA8DE3C" box="[1256,1390,546,573]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStartId-0="321.[189,232,1926,1952]" captionStartId-1="322.[189,232,1676,1702]" captionStartId-2="323.[189,232,1382,1408]" captionTargetBox-0="[235,1352,266,1888]" captionTargetBox-1="[189,1399,265,1642]" captionTargetBox-2="[189,1398,265,1329]" captionTargetId-0="figure-51@321.[234,1353,266,1888]" captionTargetId-1="figure-57@322.[189,1399,265,1643]" captionTargetId-2="figure-63@323.[189,1399,265,1329]" captionTargetPageId-0="321" captionTargetPageId-1="322" captionTargetPageId-2="323" captionText-0="Fig. 66. Charinus imperialis sp. nov. (MNRJ 9358), general morphology. A. Habitus, dorsal view. B. Sternum, ventral view. C. Frontal process. D. Pedipalp tarsus, frontal view. E. Pedipalp, dorsal view. F. Pedipalp, ventral view. Scale bars: A, E–F = 1 mm; B–D =0.5 mm." captionText-1="Fig. 67. Charinus imperialis sp. nov. (MNRJ 9032), female gonopod and genital operculum. A. Suckerlike gonopod, dorsal view. B. Posterior margin of genital operculum, ventral view. C. Gonopods, posterior view. D. Dextral sucker-like projection. E. Glandular openings at base of gonopods. F. Slit sensilla on lateral margin of genital operculum." captionText-2="Fig. 68. Charinus imperialis sp. nov. (MNRJ 9032), leg I tarsus, ♀. A. Tarsus, apex of distal article. B. Tarsus, distal article, frontal view. C. Olfactory setae ventrally on last segment of tarsus. D. Tarsal organ near claw of tarsus. E. Slit sensilla near base of tarsal organ. F. Another slit sensilla on opposite side of article." figureDoi-0="http://doi.org/10.5281/zenodo.5536559" figureDoi-1="http://doi.org/10.5281/zenodo.5536563" figureDoi-2="http://doi.org/10.5281/zenodo.5536565" httpUri-0="https://zenodo.org/record/5536559/files/figure.png" httpUri-1="https://zenodo.org/record/5536563/files/figure.png" httpUri-2="https://zenodo.org/record/5536565/files/figure.png" pageId="86" pageNumber="87">Figs 66–68</figureCitation>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+<treatment id="8F431375FFCFFF84A6B3FD95FA9ADBE9" ID-DOI="http://doi.org/10.5281/zenodo.5570710" ID-GBIF-Taxon="188640129" ID-Zenodo-Dep="5570710" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C" httpUri="http://treatment.plazi.org/id/8F431375FFCAFF85A6F2FEE7FAB0DE3C" lastPageId="87" lastPageNumber="88" pageId="86" pageNumber="87">
+<subSubSection id="4FF0F1E8FFCFFF85A6B3FD95FB57DE94" box="[419,1169,634,661]" pageId="86" pageNumber="87" type="nomenclature">
+<paragraph id="0755A263FFCFFF85A6B3FD95FB57DE94" blockId="86.[419,1169,634,696]" box="[419,1169,634,661]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A6B3FD95FB57DE94" box="[419,1169,634,661]" centered="true" fontSize="11" level="2" pageId="86" pageNumber="87" reason="2">
+<taxonomicName id="C0EAD9E0FFCFFF85A6B3FD95FDB0DE95" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[419,630,634,661]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="acaraje">
+<emphasis id="359E7E71FFCFFF85A6B3FD95FDB0DE95" bold="true" box="[419,630,634,661]" italics="true" pageId="86" pageNumber="87">Charinus acaraje</emphasis>
+</taxonomicName>
+<bibRefCitation id="637BDF92FFCFFF85A56DFD95FB57DE94" author="Pinto-da-Rocha, Machado &amp; Weygoldt" box="[637,1169,634,661]" firstAuthor="Pinto-da-Rocha" pageId="86" pageNumber="87" pagination="107 - 118" refId="ref152057" refString="Pinto-da-Rocha R., Machado G. &amp; Weygoldt P. 2002. Two new species of Charinus Simon, 1892 from Brazil with biological notes (Arachnida; Amblypygi; Charinidae). Journal of Natural History 36: 107 - 118. https: // doi. org / 10.1080 / 00222930110110152" type="journal article" year="2002">Pinto-da-Rocha, Machado &amp; Weygoldt, 2002</bibRefCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF85A577FD71FC0BDEB9" box="[615,973,670,696]" pageId="86" pageNumber="87" type="description">
+<paragraph id="0755A263FFCFFF85A577FD71FC0BDEB9" blockId="86.[419,1169,634,696]" box="[615,973,670,696]" pageId="86" pageNumber="87">
+<figureCitation id="9FD1BEE6FFCFFF85A577FD71FD2FDEB9" box="[615,745,670,696]" captionStart="Fig" captionStartId="262.[189,232,1716,1742]" captionTargetBox="[189,1399,265,1667]" captionTargetId="figure-0@262.[189,1399,265,1668]" captionTargetPageId="262" captionText="Fig. 7. Charinus Simon, 1892, female gonopods, dorsal view (left column) and detail (right column). A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297). C–D. Charinus palikur sp. nov. (AMCC [LP 3831]) E–F. Charinus sooretama sp. nov. (MNRJ 9245)." figureDoi="http://doi.org/10.5281/zenodo.5536424" httpUri="https://zenodo.org/record/5536424/files/figure.png" pageId="86" pageNumber="87">Figs 7A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCFFF85A5E5FD71FCFBDEB9" box="[757,829,670,696]" captionStart="Fig" captionStartId="263.[189,232,1820,1846]" captionTargetBox="[278,1308,265,1800]" captionTargetId="figure-0@263.[278,1309,265,1800]" captionTargetPageId="263" captionText="Fig. 8. Charinus Simon, 1892, male gonopods. A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297), ventral view (A) and detail of dorsal lobe (LoD) and lateral lobe 1 (LoL1). C–D. Charinus brasilianus Weygoldt, 1972 (MNRJ 9226), posterior view (C) and detail of lateral lobes 1 and 2 (LoL1, 2), dorsal lobe (LoD) and lamina medialis (LaM) (D). E–H. Charinus carajas Giupponi &amp; Miranda, 2016 (MZSP 29126), ventral view of gonopod (E), detail of sinistral side of gonopod (F), detail of LoL1 and LoD (G), and detail of LoL2 (H)." figureDoi="http://doi.org/10.5281/zenodo.5536426" httpUri="https://zenodo.org/record/5536426/files/figure.png" pageId="86" pageNumber="87">8A–B</figureCitation>
+, 
+<figureCitation id="9FD1BEE6FFCFFF85A45AFD71FCADDEB9" box="[842,875,670,696]" captionStart="Fig" captionStartId="298.[189,232,1225,1251]" captionTargetBox="[189,1398,265,1185]" captionTargetId="figure-0@298.[189,1399,265,1185]" captionTargetPageId="298" captionText="Fig. 43. Map plotting known distributions of species of Charinus Simon, 1892 in eastern South America, with inset for southeastern Brazil." figureDoi="http://doi.org/10.5281/zenodo.5536508" httpUri="https://zenodo.org/record/5536508/files/figure.png" pageId="86" pageNumber="87">43</figureCitation>
+; 
+<tableCitation id="4A6897D8FFCFFF85A466FD71FC0BDEB9" box="[886,973,670,696]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="86" pageNumber="87" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF85A7ADFD0FFDA2DF82" pageId="86" pageNumber="87" type="reference_group">
+<paragraph id="0755A263FFCFFF85A7ADFD0FFC0ADEFB" blockId="86.[189,972,736,763]" box="[189,972,736,763]" pageId="86" pageNumber="87">
+<treatmentCitationGroup id="27FA854DFFCFFF85A7ADFD0FFC0ADEFB" box="[189,972,736,763]" pageId="86" pageNumber="87">
+<taxonomicName id="C0EAD9E0FFCFFF85A7ADFD0FFE4ADEFB" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[189,396,736,762]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="acaraje">
+<emphasis id="359E7E71FFCFFF85A7ADFD0FFE4ADEFB" box="[189,396,736,762]" italics="true" pageId="86" pageNumber="87">Charinus acaraje</emphasis>
+</taxonomicName>
+<treatmentCitation id="864B8472FFCFFF85A682FD0FFC8BDEFB" ID-DOI="http://doi.org/10.5281/zenodo.4748008" ID-Zenodo-Dep="4748008" author="Pinto-da-Rocha R. &amp; Machado G. &amp; Weygoldt P." box="[402,845,736,763]" httpUri="http://treatment.plazi.org/id/CD24384ABD2A565365F4DF070D2E4D23" page="110" pageId="86" pageNumber="87" year="2002">
+<bibRefCitation id="637BDF92FFCFFF85A682FD0FFC8BDEFB" author="Pinto-da-Rocha" box="[402,845,736,763]" etAl="et al." firstAuthor="Pinto-da-Rocha" page="110 - 113" pageId="86" pageNumber="87" pagination="107 - 118" refId="ref152057" refString="Pinto-da-Rocha R., Machado G. &amp; Weygoldt P. 2002. Two new species of Charinus Simon, 1892 from Brazil with biological notes (Arachnida; Amblypygi; Charinidae). Journal of Natural History 36: 107 - 118. https: // doi. org / 10.1080 / 00222930110110152" type="journal article" year="2002">
+Pinto-da-Rocha 
+<emphasis id="359E7E71FFCFFF85A542FD0EFD4BDEFB" box="[594,653,736,762]" italics="true" pageId="86" pageNumber="87">et al.</emphasis>
+, 2002: 110–113
+</bibRefCitation>
+</treatmentCitation>
+, figs 8–12.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADFCCDFDA2DF82" blockId="86.[189,1398,802,900]" pageId="86" pageNumber="87">
+<treatmentCitationGroup id="27FA854DFFCFFF85A7ADFCCDFDA2DF82" pageId="86" pageNumber="87">
+<taxonomicName id="C0EAD9E0FFCFFF85A7ADFCCDFE56DF3D" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[189,400,802,828]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="acaraje">
+<emphasis id="359E7E71FFCFFF85A7ADFCCDFE56DF3D" box="[189,400,802,828]" italics="true" pageId="86" pageNumber="87">Charinus acaraje</emphasis>
+</taxonomicName>
+– 
+<bibRefCitation id="637BDF92FFCFFF85A6A7FCCDFCF7DF3D" author="Giupponi A. P. L. &amp; Baptista R. L. C." box="[439,817,802,829]" firstAuthor="Baptista" page="80" pageId="86" pageNumber="87" pagination="173 - 174" refId="ref148593" refString="Giupponi A. P. L. &amp; Baptista R. L. C. 2003. A case of homonymy in Charinus Simon, 1892 (Amblypygi: Charinidae). Revista Iberica de Aracnologia 7: 173 - 174." type="journal article" year="2003">
+Baptista &amp; 
+<treatmentCitation id="864B8472FFCFFF85A556FCCDFCF7DF3D" author="Giupponi A. P. L. &amp; Baptista R. L. C." box="[582,817,802,829]" page="80" pageId="86" pageNumber="87" year="2003">Giupponi 2003: 80</treatmentCitation>
+</bibRefCitation>
+. — 
+<treatmentCitation id="864B8472FFCFFF85A47AFCCDFB23DF3D" author="Miranda G. S. &amp; Giupponi A. P. L." box="[874,1253,802,829]" page="66" pageId="86" pageNumber="87" year="2011">
+<bibRefCitation id="637BDF92FFCFFF85A47AFCCDFB23DF3D" author="Miranda &amp; Giupponi" box="[874,1253,802,829]" firstAuthor="Miranda" page="66" pageId="86" pageNumber="87" pagination="61 - 68" refId="ref151008" refString="Miranda G. S. &amp; Giupponi A. P. L. 2011. A new synanthropic species of Charinus Simon, 1892 from Brazilian Amazonia and notes on the genus (Arachnida: Amblypygi: Charinidae). Zootaxa 2980: 61 - 68. https: // doi. org / 10.11646 / zootaxa. 2980.1.5" type="journal article" year="2011">
+<collectingRegion id="C52E6C81FFCFFF85A47AFCCDFC0BDF3D" box="[874,973,802,828]" country="Venezuela" name="Miranda" pageId="86" pageNumber="87">Miranda</collectingRegion>
+&amp; Giupponi 2011: 66
+</bibRefCitation>
+</treatmentCitation>
+, fig. 13. — 
+<treatmentCitation id="864B8472FFCFFF85A7FAFCA9FD46DF61" author="Vasconcelos A. C. &amp; Giupponi A. P. L. &amp; Ferreira R. L." box="[234,640,838,864]" page="496" pageId="86" pageNumber="87" year="2013">
+<bibRefCitation id="637BDF92FFCFFF85A7FAFCA9FD46DF61" author="Vasconcelos" box="[234,640,838,864]" etAl="et al." firstAuthor="Vasconcelos" page="496 - 497" pageId="86" pageNumber="87" pagination="488 - 500" refId="ref155126" refString="Vasconcelos A. C., Giupponi A. P. L. &amp; Ferreira R. L. 2013. A new species of Charinus Simon, 1892 from northeastern Brazil with comments on the potential distribution of the genus in Central and South Americas (Arachnida: Amblypygi: Charinidae). Zootaxa 3737: 488 - 500. https: // doi. org / 10.11646 / zootaxa. 3737.4.9" type="journal article" year="2013">
+Vasconcelos 
+<emphasis id="359E7E71FFCFFF85A695FCA9FE07DF61" box="[389,449,838,864]" italics="true" pageId="86" pageNumber="87">et al.</emphasis>
+2013: 496–497
+</bibRefCitation>
+</treatmentCitation>
+, fig. 12; 2014: 155, 162. — 
+<treatmentCitation id="864B8472FFCFFF85A4C7FCA9FAB4DF61" author="Vasconcelos A. C. O. &amp; Ferreira R. L." box="[983,1394,837,864]" page="185" pageId="86" pageNumber="87" year="2016">
+<bibRefCitation id="637BDF92FFCFFF85A4C7FCA9FAB4DF61" author="Vasconcelos &amp; Ferreira" box="[983,1394,837,864]" firstAuthor="Vasconcelos" page="185" pageId="86" pageNumber="87" pagination="185 - 202" refId="ref155011" refString="Vasconcelos A. C. O. &amp; Ferreira R. L. 2016. Description of two new species of Charinus Simon, 1892 from Brazilian caves with remarks on conservation (Arachnida: Amblypygi: Charinidae). Zootaxa 4072 (2): 185 - 202. https: // doi. org / 10.11646 / zootaxa. 4072.2.3" type="journal article" year="2016">Vasconcelos &amp; Ferreira 2016: 185</bibRefCitation>
+</treatmentCitation>
+. — 
+<treatmentCitation id="864B8472FFCFFF85A61FFC86FDA6DF82" author="Miranda G. S. &amp; Milleri-Pinto M. &amp; Goncalves-Souza T. &amp; Giupponi A. P. L. &amp; Scharff N." box="[271,608,873,900]" page="18" pageId="86" pageNumber="87" year="2016">
+<bibRefCitation id="637BDF92FFCFFF85A61FFC86FDA6DF82" author="Miranda" box="[271,608,873,900]" etAl="et al." firstAuthor="Miranda" page="18 - 29" pageId="86" pageNumber="87" pagination="15 - 36" refId="ref151278" refString="Miranda G. S., Milleri-Pinto M., Goncalves-Souza T., Giupponi A. P. L. &amp; Scharff N. 2016 c. A new species of Charinus Simon, 1892 (Amblypygi, Charinidae) from Brazil, with notes on behavior. ZooKeys 621: 15 - 36. https: // doi. org / 10.3897 / zookeys. 621.9980" type="journal article" year="2016" yearSuffix="c">
+<collectingRegion id="C52E6C81FFCFFF85A61FFC86FEB4DF82" box="[271,370,873,899]" country="Venezuela" name="Miranda" pageId="86" pageNumber="87">Miranda</collectingRegion>
+<emphasis id="359E7E71FFCFFF85A66AFC85FE72DF82" box="[378,436,873,899]" italics="true" pageId="86" pageNumber="87">et al.</emphasis>
+2016c: 18–29
+</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF85A7ADFC44FD0FD8C4" pageId="86" pageNumber="87" type="diagnosis">
+<paragraph id="0755A263FFCFFF85A7ADFC44FEF0DFC4" blockId="86.[189,310,939,965]" box="[189,310,939,965]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A7ADFC44FEF0DFC4" bold="true" box="[189,310,939,965]" fontSize="11" level="3" pageId="86" pageNumber="87" reason="3">
+<emphasis id="359E7E71FFCFFF85A7ADFC44FEF0DFC4" bold="true" box="[189,310,939,965]" pageId="86" pageNumber="87">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADFC35FAFFD85E" blockId="86.[186,1398,986,1120]" pageId="86" pageNumber="87">
+This species may be separated from other 
+<taxonomicName id="C0EAD9E0FFCFFF85A5B5FC35FCD4DFF5" authorityName="Simon" authorityYear="1892" box="[677,786,986,1012]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="genus">
+<emphasis id="359E7E71FFCFFF85A5B5FC35FCD4DFF5" box="[677,786,986,1012]" italics="true" pageId="86" pageNumber="87">Charinus</emphasis>
+</taxonomicName>
+in eastern South America by means of the following combination of characters: two setae, prolateral and retrolateral, on dorsal surface of chelicerae; cheliceral claw with eight teeth and with complete row of setae on retrolateral surface; pedipalp femur with three dorsal spines and three ventral spines; leg IV distitibia 
+<emphasis id="359E7E71FFCFFF85A451FBA9FC9FD85E" box="[833,857,1094,1119]" italics="true" pageId="86" pageNumber="87">sc</emphasis>
+and 
+<emphasis id="359E7E71FFCFFF85A482FBAAFC60D85E" box="[914,934,1093,1119]" italics="true" pageId="86" pageNumber="87">sf</emphasis>
+series each with six trichobothria.
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADFB68FD0FD8C4" blockId="86.[189,1401,1159,1222]" pageId="86" pageNumber="87">
+This species resembles 
+<emphasis id="359E7E71FFCFFF85A6C8FB67FDE0D8A0" box="[472,550,1160,1186]" italics="true" pageId="86" pageNumber="87">C. una</emphasis>
+sp. nov., but differs in the larger size, six trichobothria in the 
+<emphasis id="359E7E71FFCFFF85A21EFB67FAE0D8A0" box="[1294,1318,1160,1185]" italics="true" pageId="86" pageNumber="87">sc</emphasis>
+and 
+<emphasis id="359E7E71FFCFFF85A275FB68FABFD8A0" box="[1381,1401,1159,1185]" italics="true" pageId="86" pageNumber="87">sf</emphasis>
+series, and eight teeth on the cheliceral claw.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF85A7ADFB02FDB6D95B" pageId="86" pageNumber="87" type="etymology">
+<paragraph id="0755A263FFCFFF85A7ADFB02FE82D906" blockId="86.[189,324,1261,1287]" box="[189,324,1261,1287]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A7ADFB02FE82D906" bold="true" box="[189,324,1261,1287]" fontSize="11" level="3" pageId="86" pageNumber="87" reason="3">
+<emphasis id="359E7E71FFCFFF85A7ADFB02FE82D906" bold="true" box="[189,324,1261,1287]" pageId="86" pageNumber="87">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADFAF2FDB6D95B" blockId="86.[189,1399,1308,1370]" pageId="86" pageNumber="87">
+Noun in apposition referring to ‘ 
+<taxonomicName id="C0EAD9E0FFCFFF85A52BFAF3FD53D937" authorityName="Pinto-da-Rocha, Machado &amp; Weygoldt" authorityYear="2002" box="[571,661,1308,1334]" class="Arachnida" family="Charinidae" genus="Charinus" kingdom="Animalia" order="Amblypygi" pageId="86" pageNumber="87" phylum="Arthropoda" rank="species" species="acaraje">
+<emphasis id="359E7E71FFCFFF85A52BFAF3FD53D937" box="[571,661,1308,1334]" italics="true" pageId="86" pageNumber="87">acarajé</emphasis>
+</taxonomicName>
+’, a famous dish in 
+<collectingRegion id="C52E6C81FFCFFF85A466FAF3FC7BD937" box="[886,957,1308,1334]" country="Brazil" name="Bahia" pageId="86" pageNumber="87">Bahia</collectingRegion>
+, the state in which the 
+<typeStatus id="D8511CC1FFCFFF85A3DAFAF2FB3BD936" box="[1226,1277,1309,1335]" pageId="86" pageNumber="87">type</typeStatus>
+locality is located (
+<bibRefCitation id="637BDF92FFCFFF85A631FAAFFDA2D95B" author="Pinto-da-Rocha" box="[289,612,1344,1370]" etAl="et al." firstAuthor="Pinto-da-Rocha" pageId="86" pageNumber="87" pagination="107 - 118" refId="ref152057" refString="Pinto-da-Rocha R., Machado G. &amp; Weygoldt P. 2002. Two new species of Charinus Simon, 1892 from Brazil with biological notes (Arachnida; Amblypygi; Charinidae). Journal of Natural History 36: 107 - 118. https: // doi. org / 10.1080 / 00222930110110152" type="journal article" year="2002">
+Pinto-da-Rocha 
+<emphasis id="359E7E71FFCFFF85A6F2FAAFFDDBD95B" box="[482,541,1344,1370]" italics="true" pageId="86" pageNumber="87">et al.</emphasis>
+2002
+</bibRefCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF85A7ADFA6DFAE9DAEE" pageId="86" pageNumber="87" type="materials_examined">
+<paragraph id="0755A263FFCFFF85A7ADFA6DFEAAD99A" blockId="86.[189,364,1409,1436]" box="[189,364,1409,1436]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A7ADFA6DFEAAD99A" bold="true" box="[189,364,1409,1436]" fontSize="11" level="3" pageId="86" pageNumber="87" reason="3">
+<emphasis id="359E7E71FFCFFF85A7ADFA6DFEAAD99A" bold="true" box="[189,364,1409,1436]" pageId="86" pageNumber="87">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7FAFA5EFDA0DA13" blockId="86.[189,1399,1457,1555]" pageId="86" pageNumber="87">
+<materialsCitation id="B782A83EFFCFFF85A7FAFA5EFDA0DA13" ID-GBIF-Occurrence="3383566055" collectingDate="1997-10-14" collectionCode="MZSP" collectorName="B. S. Santos" country="Brazil" latitude="-15.437561" location="Gruta da Pedra do Sino" longLatPrecision="1" longitude="-39.31251" municipality="Santa Luzia" pageId="86" pageNumber="87" specimenCode="MZSP 1829" specimenCount="1" specimenCount-male="1" stateProvince="Bahia" typeStatus="holotype">
+<emphasis id="359E7E71FFCFFF85A7FAFA5EFE9AD9CA" bold="true" box="[234,348,1457,1483]" pageId="86" pageNumber="87">
+<typeStatus id="D8511CC1FFCFFF85A7FAFA5EFE9AD9CA" box="[234,348,1457,1483]" pageId="86" pageNumber="87">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="7FFDE2F3FFCFFF85A7ADFA3AFEE1D9EE" box="[189,295,1493,1519]" name="Brazil" pageId="86" pageNumber="87">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFCFFF85A653FA3AFE9AD9EE" box="[323,348,1493,1519]" pageId="86" pageNumber="87" type="male">♂</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFCFFF85A67AFA3BFE77D9EF" box="[362,433,1492,1518]" country="Brazil" name="Bahia" pageId="86" pageNumber="87">Bahia</collectingRegion>
+, 
+<collectingMunicipality id="E7313819FFCFFF85A6AFFA3BFD96D9EF" box="[447,592,1492,1518]" pageId="86" pageNumber="87">Santa Luzia</collectingMunicipality>
+, 
+<location id="0235F4B8FFCFFF85A54DFA3BFCBCD9EF" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C:0235F4B8FFCFFF85A54DFA3BFCBCD9EF" box="[605,890,1492,1518]" country="Brazil" latitude="-15.437561" longLatPrecision="1" longitude="-39.31251" municipality="Santa Luzia" name="Gruta da Pedra do Sino" pageId="86" pageNumber="87" stateProvince="Bahia">Gruta da Pedra do Sino</location>
+; 
+<geoCoordinate id="62DEC4A4FFCFFF85A499FA3CFBF9D9EF" box="[905,1087,1491,1519]" degrees="15" direction="south" minutes="26" orientation="latitude" pageId="86" pageNumber="87" precision="1" seconds="15.22" value="-15.437561">15°26′15.22″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFCFFF85A35EFA3CFAD6D9EE" box="[1102,1296,1491,1519]" degrees="39" direction="west" minutes="18" orientation="longitude" pageId="86" pageNumber="87" precision="1" seconds="45.04" value="-39.31251">39°18′45.04″ W</geoCoordinate>
+; 
+<date id="735484A3FFCFFF85A20EFA3BFF3DDA13" pageId="86" pageNumber="87" value="1997-10-14">
+<collectingDate id="63107D4BFFCFFF85A20EFA3BFF3DDA13" pageId="86" pageNumber="87" value="1997-10-14">14 Oct. 1997</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFCFFF85A617FA17FE49DA13" box="[263,399,1528,1554]" pageId="86" pageNumber="87">B.S. Santos</collectorName>
+leg.; 
+<specimenCode id="574C0A18FFCFFF85A6C1FA17FDA4DA13" box="[465,610,1528,1554]" collectionCode="MZSP" country="Brazil" httpUri="http://grbio.org/cool/9yp6-zxp9" name="Sao Paulo, Museu de Zoologia da Universidade de Sao Paulo" pageId="86" pageNumber="87" type="Museum">MZSP 1829</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADF9D5FE72DA55" blockId="86.[189,436,1594,1620]" box="[189,436,1594,1620]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A7ADF9D5FE72DA55" bold="true" box="[189,436,1594,1620]" fontSize="11" level="3" pageId="86" pageNumber="87" reason="3">
+<emphasis id="359E7E71FFCFFF85A7ADF9D5FE72DA55" bold="true" box="[189,436,1594,1620]" pageId="86" pageNumber="87">Additional material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADF986FAE9DAEE" blockId="86.[189,1399,1639,1775]" pageId="86" pageNumber="87">
+<materialsCitation id="B782A83EFFCFFF85A7ADF986FBA2DAA6" ID-GBIF-Occurrence="3383566078" collectingDate="2002-11-03" collectionCode="MNRJ" collectorName="A. P. L. Giupponi &amp; R. C. Baptista" country="Brazil" latitude="-15.428889" location="Gruta do Lapao" longLatPrecision="21" longitude="-39.33389" municipality="Santa Luzia" pageId="86" pageNumber="87" specimenCode="MNRJ 9297" specimenCount="9" specimenCount-female="4" specimenCount-male="3" stateProvince="Bahia">
+<collectingCountry id="7FFDE2F3FFCFFF85A7ADF986FEE1DA82" box="[189,295,1641,1667]" name="Brazil" pageId="86" pageNumber="87">BRAZIL</collectingCountry>
+• 
+<specimenCount id="11EC69EAFFCFFF85A651F986FE43DA85" box="[321,389,1641,1668]" pageId="86" pageNumber="87" type="female">4 ♀♀</specimenCount>
+, 
+<specimenCount id="11EC69EAFFCFFF85A684F986FE1FDA85" box="[404,473,1641,1668]" pageId="86" pageNumber="87" type="male">3 ♂♂</specimenCount>
+, 
+<specimenCount id="11EC69EAFFCFFF85A6F7F986FDABDA82" box="[487,621,1641,1667]" pageId="86" pageNumber="87">2 nymphae</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFCFFF85A56BF986FD04DA82" box="[635,706,1641,1667]" country="Brazil" name="Bahia" pageId="86" pageNumber="87">Bahia</collectingRegion>
+, 
+<collectingMunicipality id="E7313819FFCFFF85A5DFF986FC99DA82" box="[719,863,1641,1667]" pageId="86" pageNumber="87">Santa Luzia</collectingMunicipality>
+, 
+<location id="0235F4B8FFCFFF85A47BF986FBEFDA85" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C:0235F4B8FFCFFF85A47BF986FBEFDA85" box="[875,1065,1641,1668]" country="Brazil" latitude="-15.428889" longLatPrecision="21" longitude="-39.33389" municipality="Santa Luzia" name="Gruta do Lapao" pageId="86" pageNumber="87" stateProvince="Bahia">Gruta do Lapão</location>
+; 
+<geoCoordinate id="62DEC4A4FFCFFF85A326F988FB01DA82" box="[1078,1223,1639,1667]" degrees="15" direction="south" minutes="25" orientation="latitude" pageId="86" pageNumber="87" precision="15" seconds="44" value="-15.428889">15°25′44″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFCFFF85A3C5F988FAB4DA85" box="[1237,1394,1639,1668]" degrees="39" direction="west" minutes="20" orientation="longitude" pageId="86" pageNumber="87" precision="15" seconds="02" value="-39.33389">39°20′02″ W</geoCoordinate>
+; 
+<date id="735484A3FFCFFF85A7ADF962FE94DAA6" box="[189,338,1677,1703]" pageId="86" pageNumber="87" value="2002-11-03">
+<collectingDate id="63107D4BFFCFFF85A7ADF962FE94DAA6" box="[189,338,1677,1703]" pageId="86" pageNumber="87" value="2002-11-03">3 Nov. 2002</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFCFFF85A64EF962FDE6DAA6" box="[350,544,1677,1703]" pageId="86" pageNumber="87">A.P.L. Giupponi</collectorName>
+and 
+<collectorName id="AA1FC7B5FFCFFF85A54BF962FD3FDAA6" box="[603,761,1677,1703]" pageId="86" pageNumber="87">R.C. Baptista</collectorName>
+leg.; new record; 
+<specimenCode id="574C0A18FFCFFF85A4C2F962FBA2DAA6" box="[978,1124,1677,1703]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="86" pageNumber="87">MNRJ 9297</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="B782A83EFFCFFF85A36FF962FAEDDAEE" ID-GBIF-Occurrence="3383565731" collectingDate="2009-06-11" collectingDateMax="2009-06-15" collectingDateMin="2009-06-11" collectionCode="MNRJ" collectorName="V. Dill &amp; A. Chagas Jr &amp; D. Pedroso &amp; A. P. L. Giupponi &amp; A. Kury" country="Brazil" latitude="-15.384064" location="Reserva Particular do Patrimonio Natural da Serra Bonita" longLatPrecision="1" longitude="-39.562965" municipality="Camaca" pageId="86" pageNumber="87" specimenCode="MNRJ 9125" specimenCount="1" specimenCount-female="1" stateProvince="Bahia">
+<specimenCount id="11EC69EAFFCFFF85A36FF962FB6BDAA6" box="[1151,1197,1677,1703]" pageId="86" pageNumber="87" type="female">1 ♀</specimenCount>
+; 
+<collectingRegion id="C52E6C81FFCFFF85A3ACF962FAC5DAA6" box="[1212,1283,1677,1703]" country="Brazil" name="Bahia" pageId="86" pageNumber="87">Bahia</collectingRegion>
+, 
+<collectingMunicipality id="E7313819FFCFFF85A201F962FAB5DAA6" box="[1297,1395,1677,1703]" pageId="86" pageNumber="87">Camacã</collectingMunicipality>
+, 
+<location id="0235F4B8FFCFFF85A7ADF95EFCA7DACB" LSID="urn:lsid:plazi:treatment:8F431375FFCAFF85A6F2FEE7FAB0DE3C:0235F4B8FFCFFF85A7ADF95EFCA7DACB" box="[189,865,1712,1739]" country="Brazil" latitude="-15.384064" longLatPrecision="1" longitude="-39.562965" municipality="Camaca" name="Reserva Particular do Patrimonio Natural da Serra Bonita" pageId="86" pageNumber="87" stateProvince="Bahia">Reserva Particular do Patrimônio Natural da Serra Bonita</location>
+; 
+<geoCoordinate id="62DEC4A4FFCFFF85A47CF940FBE6DACB" box="[876,1056,1711,1739]" degrees="15" direction="south" minutes="23" orientation="latitude" pageId="86" pageNumber="87" precision="1" seconds="02.63" value="-15.384064">15°23′02.63″ S</geoCoordinate>
+, 
+<geoCoordinate id="62DEC4A4FFCFFF85A33CF940FB2ADACA" box="[1068,1260,1711,1739]" degrees="39" direction="west" minutes="33" orientation="longitude" pageId="86" pageNumber="87" precision="1" seconds="46.68" value="-39.562965">39°33′46.68″ W</geoCoordinate>
+; 
+<date id="735484A3FFCFFF85A3E7F95FFF3DDAEF" pageId="86" pageNumber="87" value="2009-06-11" valueMax="2009-06-15" valueMin="2009-06-11">
+<collectingDate id="63107D4BFFCFFF85A3E7F95FFF3DDAEF" pageId="86" pageNumber="87" value="2009-06-11" valueMax="2009-06-15" valueMin="2009-06-11">11–15 Jun. 2009</collectingDate>
+</date>
+; 
+<collectorName id="AA1FC7B5FFCFFF85A617F93AFE91DAEF" box="[263,343,1748,1775]" pageId="86" pageNumber="87">V. Dill</collectorName>
+, 
+<collectorName id="AA1FC7B5FFCFFF85A671F93BFE3CDAEE" box="[353,506,1748,1775]" pageId="86" pageNumber="87">A. Chagas Jr</collectorName>
+, 
+<collectorName id="AA1FC7B5FFCFFF85A516F93AFD4DDAEF" box="[518,651,1748,1775]" pageId="86" pageNumber="87">D. Pedroso</collectorName>
+, 
+<collectorName id="AA1FC7B5FFCFFF85A585F93BFC9EDAEF" box="[661,856,1748,1774]" pageId="86" pageNumber="87">A.P.L. Giupponi</collectorName>
+, 
+<collectorName id="AA1FC7B5FFCFFF85A472F93BFC04DAEE" box="[866,962,1748,1775]" pageId="86" pageNumber="87">A. Kury</collectorName>
+leg.; new record; 
+<specimenCode id="574C0A18FFCFFF85A387F93AFAEDDAEE" box="[1175,1323,1748,1775]" collectionCode="MNRJ" country="Brazil" httpUri="http://grbio.org/cool/zi1i-a0b5" name="Museu Nacional/Universidade Federal de Rio de Janeiro" pageId="86" pageNumber="87">MNRJ 9125</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCFFF84A7ADF8F9FE8ADAFA" lastPageId="87" lastPageNumber="88" pageId="86" pageNumber="87" type="description">
+<paragraph id="0755A263FFCFFF85A7ADF8F9FDD7DB31" blockId="86.[189,529,1814,1840]" box="[189,529,1814,1840]" pageId="86" pageNumber="87">
+<heading id="5C1D150FFFCFFF85A7ADF8F9FDD7DB31" bold="true" box="[189,529,1814,1840]" fontSize="11" level="3" pageId="86" pageNumber="87" reason="3">
+<emphasis id="359E7E71FFCFFF85A7ADF8F9FDD7DB31" bold="true" box="[189,529,1814,1840]" pageId="86" pageNumber="87">Supplementary description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCFFF85A7ADF8AAFE28DB82" blockId="86.[189,1399,1861,1923]" pageId="86" pageNumber="87">Only the male was previously known. A description of the female and supplementary description of the male are presented below.</paragraph>
+<paragraph id="0755A263FFCFFF84A7ADF844FEE5DD96" blockId="86.[189,1398,1963,2025]" lastBlockId="87.[189,1399,265,407]" lastPageId="87" lastPageNumber="88" pageId="86" pageNumber="87">CARAPACE. Curved carina between ocular triads and carapace margin, closer to margin, with small transverse projection medially; anterior margin rounded, with six anterior setae; frontal process large, subtriangular, not visible in dorsal view. Median eyes and median ocular tubercle present; median ocular tubercle shallow, slightly higher than carapace surface, with pair of small setae. Lateral eyes well developed, pale, small seta posterior to each lateral ocular triad; lenses directed anteriorly and dorsally.</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFE2DFE0ADE9D" blockId="87.[188,1400,449,669]" pageId="87" pageNumber="88">STERNUM. Tritosternum rounded posteriorly and projected anteriorly into large, blunt tubercle, surpassing base of pedipalp coxae, with typical setation; medial platelet (tetrasternum) with single convex platelet, with pair of large setae anteriorly, and several small setae posteriorly; third platelet (pentasternum) with single convex platelet, smaller than medial platelet, with two setae anteriorly and some setae posteriorly; metasternum with one or two anterior setae in membranous region and two or three setae posteriorly.</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFD28FC92DEE0" blockId="87.[189,852,711,738]" box="[189,852,711,738]" pageId="87" pageNumber="88">OPISTHOSOMA. Ventral sacs and ventral sac cover absent.</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFCE3FBCFDF9B" blockId="87.[187,1399,780,922]" pageId="87" pageNumber="88">
+GENITALIA. Female gonopod with posterior margin of genital operculum slightly convex, several setae on surface and along margin (
+<figureCitation id="9FD1BEE6FFCEFF84A6E8FCDDFDBDDF4C" box="[504,635,818,845]" captionStart="Fig" captionStartId="262.[189,232,1716,1742]" captionTargetBox="[189,1399,265,1667]" captionTargetId="figure-0@262.[189,1399,265,1668]" captionTargetPageId="262" captionText="Fig. 7. Charinus Simon, 1892, female gonopods, dorsal view (left column) and detail (right column). A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297). C–D. Charinus palikur sp. nov. (AMCC [LP 3831]) E–F. Charinus sooretama sp. nov. (MNRJ 9245)." figureDoi="http://doi.org/10.5281/zenodo.5536424" httpUri="https://zenodo.org/record/5536424/files/figure.png" pageId="87" pageNumber="88">Fig. 7A–B</figureCitation>
+); small sclerotized region at base of gonopods, not connected to each other; gonopods sucker-like with large disc and small openings (
+<figureCitation id="9FD1BEE6FFCEFF84A4E9FCB6FBBADF72" box="[1017,1148,857,883]" captionStart="Fig" captionStartId="262.[189,232,1716,1742]" captionTargetBox="[189,1399,265,1667]" captionTargetId="figure-0@262.[189,1399,265,1668]" captionTargetPageId="262" captionText="Fig. 7. Charinus Simon, 1892, female gonopods, dorsal view (left column) and detail (right column). A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297). C–D. Charinus palikur sp. nov. (AMCC [LP 3831]) E–F. Charinus sooretama sp. nov. (MNRJ 9245)." figureDoi="http://doi.org/10.5281/zenodo.5536424" httpUri="https://zenodo.org/record/5536424/files/figure.png" pageId="87" pageNumber="88">Fig. 7A–B</figureCitation>
+). Male gonopod with spine-like projections over apex of fistula, LoD, and LoL2 (
+<figureCitation id="9FD1BEE6FFCEFF84A46AFC6FFC3ADF9B" box="[890,1020,896,922]" captionStart="Fig" captionStartId="263.[189,232,1820,1846]" captionTargetBox="[278,1308,265,1800]" captionTargetId="figure-0@263.[278,1309,265,1800]" captionTargetPageId="263" captionText="Fig. 8. Charinus Simon, 1892, male gonopods. A–B. Charinus acaraje Pinto-da-Rocha, Machado &amp; Weygoldt, 2002 (MNRJ 9297), ventral view (A) and detail of dorsal lobe (LoD) and lateral lobe 1 (LoL1). C–D. Charinus brasilianus Weygoldt, 1972 (MNRJ 9226), posterior view (C) and detail of lateral lobes 1 and 2 (LoL1, 2), dorsal lobe (LoD) and lamina medialis (LaM) (D). E–H. Charinus carajas Giupponi &amp; Miranda, 2016 (MZSP 29126), ventral view of gonopod (E), detail of sinistral side of gonopod (F), detail of LoL1 and LoD (G), and detail of LoL2 (H)." figureDoi="http://doi.org/10.5281/zenodo.5536426" httpUri="https://zenodo.org/record/5536426/files/figure.png" pageId="87" pageNumber="88">Fig. 8A–B</figureCitation>
+).
+</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFC2AFC88D852" blockId="87.[189,1399,964,1107]" pageId="87" pageNumber="88">CHELICERAE. Small, flat tooth in retrolateral row of basal segment. Prolateral surface with transverse row of six small setae, from ventral to dorsal. Three setae, retrolateral, retromedial, and prolateral along dorsodistal margin, near membranous region of claw. Claw with eight teeth and row of setae on retrolateral surface from base to near apex (dorsal side).</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFB92FE96D9CD" blockId="87.[188,1401,1149,1484]" pageId="87" pageNumber="88">PEDIPALPS. Coxal dorsal carina with one or two small setae encircled by round carina and three setae on anterior margin. Femur with three dorsal spines in primary series; two distinct setiferous tubercles proximal to first dorsal spine; three ventral spines; large spine between ventral spine 1 and proximal margin. Patella with three dorsal spines; setiferous tubercle distal to spine I, about one fourth length of spine I; three ventral spines decreasing in size; setiferous tubercle between spine I and distal margin. Tibia with two dorsal spines; ventral spine in distal half of tibia; prominent setiferous tubercle near base of ventral spine; three long setae between spine and distal margin. Tarsus with two dorsal spines, distal spine half length of tarsus and proximal spine one-third length of distal spine. Ventral row of brush with 32–34 setae.</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADFA18FB52DA85" blockId="87.[189,1399,1526,1669]" pageId="87" pageNumber="88">
+LEGS. Tibia of leg I with 23 articles; tarsus I with 41 articles. Leg IV basitibia with four pseudoarticles; trichobothrium 
+<emphasis id="359E7E71FFCEFF84A6C8F9F2FE29DA36" box="[472,495,1565,1591]" italics="true" pageId="87" pageNumber="88">bt</emphasis>
+situated in proximal third; distal apex of basitibial pseudo-articles with dark, denticulate projection; distitibia trichobothrium 
+<emphasis id="359E7E71FFCEFF84A5E1F9ACFCCBDA5C" box="[753,781,1603,1629]" italics="true" pageId="87" pageNumber="88">bc</emphasis>
+situated closer to 
+<emphasis id="359E7E71FFCEFF84A4F2F9ACFBC2DA5C" box="[994,1028,1603,1629]" italics="true" pageId="87" pageNumber="88">sbf</emphasis>
+than to 
+<emphasis id="359E7E71FFCEFF84A374F9ACFBBDDA5C" box="[1124,1147,1603,1629]" italics="true" pageId="87" pageNumber="88">bf</emphasis>
+; 
+<emphasis id="359E7E71FFCEFF84A39AF9ABFB58DA5F" box="[1162,1182,1604,1630]" italics="true" pageId="87" pageNumber="88">sf</emphasis>
+and 
+<emphasis id="359E7E71FFCEFF84A3C7F9ABFB29DA5C" box="[1239,1263,1604,1629]" italics="true" pageId="87" pageNumber="88">sc</emphasis>
+series each with six trichobothria; distitarsus with distinct white annulus distally on first article.
+</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADF940FEB3DAC8" blockId="87.[189,373,1711,1737]" box="[189,373,1711,1737]" pageId="87" pageNumber="88">
+<heading id="5C1D150FFFCEFF84A7ADF940FEB3DAC8" bold="true" box="[189,373,1711,1737]" fontSize="11" level="3" pageId="87" pageNumber="88" reason="3">
+<emphasis id="359E7E71FFCEFF84A7ADF940FEB3DAC8" bold="true" box="[189,373,1711,1737]" pageId="87" pageNumber="88">Measurements</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADF90EFE8ADAFA" blockId="87.[189,332,1761,1787]" box="[189,332,1761,1787]" pageId="87" pageNumber="88">
+See 
+<tableCitation id="4A6897D8FFCEFF84A7FEF90EFE8EDAFA" box="[238,328,1761,1787]" captionStart="Table 4" captionStartId="89.[181,251,552,581]" captionTargetBox="[185,1925,631,1740]" captionTargetId="graphics-20@89.[181,1932,659,1753]" captionTargetPageId="89" captionText="Table 4 (continued on next five pages). Measurements of all eastern South American species of Charinus Simon, 1892." httpUri="http://table.plazi.org/id/5395F2EBFFC0FF8AA7A5FDC7F9F2DE45" pageId="87" pageNumber="88" tableUuid="5395F2EBFFC0FF8AA7A5FDC7F9F2DE45">Table 4</tableCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCEFF84A7ADF8CAFC6ADB73" box="[189,940,1829,1906]" pageId="87" pageNumber="88" type="distribution">
+<paragraph id="0755A263FFCEFF84A7ADF8CAFE90DB3E" blockId="87.[189,342,1829,1855]" box="[189,342,1829,1855]" pageId="87" pageNumber="88">
+<heading id="5C1D150FFFCEFF84A7ADF8CAFE90DB3E" bold="true" box="[189,342,1829,1855]" fontSize="11" level="3" pageId="87" pageNumber="88" reason="3">
+<emphasis id="359E7E71FFCEFF84A7ADF8CAFE90DB3E" bold="true" box="[189,342,1829,1855]" pageId="87" pageNumber="88">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADF8B7FC6ADB73" blockId="87.[189,940,1880,1906]" box="[189,940,1880,1906]" pageId="87" pageNumber="88">
+Known from inside and outside caves in southern 
+<collectingRegion id="C52E6C81FFCEFF84A419F8B7FC96DB73" box="[777,848,1880,1906]" country="Brazil" name="Bahia" pageId="87" pageNumber="88">Bahia</collectingRegion>
+, 
+<collectingCountry id="7FFDE2F3FFCEFF84A44CF8B7FC61DB73" box="[860,935,1880,1906]" name="Brazil" pageId="87" pageNumber="88">Brazil</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="4FF0F1E8FFCEFF84A7ADF872FA9ADBE9" pageId="87" pageNumber="88" type="biology_ecology">
+<paragraph id="0755A263FFCEFF84A7ADF872FEB8DBB7" blockId="87.[189,382,1948,1975]" box="[189,382,1948,1975]" pageId="87" pageNumber="88">
+<heading id="5C1D150FFFCEFF84A7ADF872FEB8DBB7" bold="true" box="[189,382,1948,1975]" fontSize="11" level="3" pageId="87" pageNumber="88" reason="3">
+<emphasis id="359E7E71FFCEFF84A7ADF872FEB8DBB7" bold="true" box="[189,382,1948,1975]" pageId="87" pageNumber="88">Natural history</emphasis>
+</heading>
+</paragraph>
+<paragraph id="0755A263FFCEFF84A7ADF821FA9ADBE9" blockId="87.[189,1372,1998,2024]" box="[189,1372,1998,2024]" pageId="87" pageNumber="88">Species with secondary sexual dimorphism, i.e., males exhibit longer pedipalps and larger body size.</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</key>
+</subSubSection>
+</treatment>
+</document>

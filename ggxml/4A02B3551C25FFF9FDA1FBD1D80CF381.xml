@@ -1,0 +1,208 @@
+<document id="A87ADA5DA675FB2E99D1730D12577122" ID-DOI="http://doi.org/10.5281/zenodo.4704922" ID-GBIF-Dataset="5bed6b9f-27d3-4508-b415-136a1dd53b3a" ID-GBIF-Taxon="181520645" ID-ISSN="2118-9773" ID-Zenodo-Dep="4704922" ID-ZooBank="C8B84FD5-C191-4228-9CC9-9CBB4F8A0C68" _generate="added" approvalRequired="5" approvalRequired_for_textStreams="5" checkinTime="1618902434851" checkinUser="plazi" docAuthor="Gavrilov-Zimin, Ilya A." docDate="2021" docId="4A02B3551C25FFF9FDA1FBD1D80CF381" docLanguage="en" docName="ejt-746_50-61.pdf" docOrigin="European Journal of Taxonomy 746 (1)" docSource="http://zoobank.org/c8b84fd5-c191-4228-9cc9-9cbb4f8a0c68" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.11:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="11" docTitle="Walkeriana Signoret 1876" docType="treatment" docVersion="5" lastPageNumber="59" masterDocId="B63BCB2D1C2DFFF1FFF0FFE1DA52F676" masterDocTitle="New and poorly known giant scale insects (Homoptera: Coccinea: Margarodidae s. lat.) from the Oriental region with taxonomic and nomenclatural notes on the subfamily Monophlebinae" masterLastPageNumber="61" masterPageNumber="50" pageId="8" pageNumber="58" updateTime="1632015618993" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="81DA351EE97DD21E9CB7DE876ADB0D09" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="00DFECFD0504CBD356C12464436609D1">
+<mods:title id="8D55C36F807C9BA61A228747FF24358E">New and poorly known giant scale insects (Homoptera: Coccinea: Margarodidae s. lat.) from the Oriental region with taxonomic and nomenclatural notes on the subfamily Monophlebinae</mods:title>
+</mods:titleInfo>
+<mods:name id="55F54483F9E89984D96E7B8DB89EA9CA" type="personal">
+<mods:role id="8052A3C0695D09B568074E8A8A7C768D">
+<mods:roleTerm id="8B4B91591A647E50AAEC95C37BF3228B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B835F3ECA97AC555989B8FBF94A0500C">Gavrilov-Zimin, Ilya A.</mods:namePart>
+<mods:nameIdentifier id="BEB691C6EC639CD9FC45395AC35DF088" type="LSID">9AED29CB-C4CC-4AB2-8905-437FEB363745</mods:nameIdentifier>
+<mods:nameIdentifier id="DD7261856E00E5FABC288D7A412B1C53" type="ORCID">0000-0003-1993-5984</mods:nameIdentifier>
+<mods:affiliation id="58710B66F66361193031CAA13CD6A4D5">Zoological Institute, Russian Academy of Sciences, 1 Universitetskaya Emb., St. Petersburg, 199034, Russia.</mods:affiliation>
+<mods:nameIdentifier id="37AB61DEE0C32DB194F2C9BEA68C823B" type="email">coccids@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="CAA0FE602C7E4A42C624EF1379453B72">text</mods:typeOfResource>
+<mods:relatedItem id="44DA16E41CB52F3D9C3CF9F76C37CCEE" type="host">
+<mods:titleInfo id="23F71DEBDF0953ED21696B1A5759DF93">
+<mods:title id="DBDF1A2E2325F91087CBBF3616C3FBBB">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="8A873422C55AF9F209962778EA7AC84B">
+<mods:date id="C7CA9A9E1978A0E4DBEDD9F8CB33B916">2021</mods:date>
+<mods:detail id="97CDA9DE318491DC1E5207B69590F635" type="pubDate">
+<mods:number id="80C07C6DAC99C98D58432652433D99F2">2021-04-19</mods:number>
+</mods:detail>
+<mods:detail id="1AC848A883A574A7FA8D827FE2EB7B9C" type="volume">
+<mods:number id="EB9C53B0C7D8FF9B35951C5C2A87EF27">746</mods:number>
+</mods:detail>
+<mods:detail id="E128701EF8BD344124F013D83164647D" type="issue">
+<mods:number id="C104446213DE869B3D5AE3164F9B2F1A">1</mods:number>
+</mods:detail>
+<mods:extent id="14C6463922BFD7C07608BA6DD1E59015" unit="page">
+<mods:start id="555A4F0312D0F277A8653871DEA692AF">50</mods:start>
+<mods:end id="B61510486DFED8A797E991E0EBA0D54A">61</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="B21824DC0864A7D41F5F7158E24AB63E">
+<mods:url id="28F7CBD168AD5CFC4CCD9926D23315B8">http://zoobank.org/c8b84fd5-c191-4228-9cc9-9cbb4f8a0c68</mods:url>
+</mods:location>
+<mods:classification id="6E19D30ABD191ECC0445DCCE10DEAFF8">journal article</mods:classification>
+<mods:identifier id="FC54887293B9E93D49E3FB84754AB666" type="DOI">https://doi.org/10.5852/ejt.2021.746.1317</mods:identifier>
+<mods:identifier id="5531C5E1ACA2824565F674BAD0CEAD4C" type="GBIF-Dataset">5bed6b9f-27d3-4508-b415-136a1dd53b3a</mods:identifier>
+<mods:identifier id="6E4B406DF6BD84438BA6D1A5235D2345" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="34AFEFD674A70791C631DDE13C5E029C" type="Zenodo-Dep">4704108</mods:identifier>
+<mods:identifier id="99138E66A722092CEB3303C8A8B8B64A" type="ZooBank">C8B84FD5-C191-4228-9CC9-9CBB4F8A0C68</mods:identifier>
+</mods:mods>
+<treatment id="4A02B3551C25FFF9FDA1FBD1D80CF381" ID-DOI="http://doi.org/10.5281/zenodo.4704922" ID-GBIF-Taxon="181520645" ID-Zenodo-Dep="4704922" LSID="urn:lsid:plazi:treatment:4A02B3551C25FFF9FDA1FBD1D80CF381" httpUri="http://treatment.plazi.org/id/4A02B3551C25FFF9FDA1FBD1D80CF381" lastPageNumber="59" pageId="8" pageNumber="58">
+<subSubSection id="8AB151C81C25FFF9FDA1FBD1D9B1F23C" box="[593,995,1071,1098]" pageId="8" pageNumber="58" type="nomenclature">
+<paragraph id="C21402431C25FFF9FDA1FBD1D9B1F23C" blockId="8.[593,995,1071,1098]" box="[593,995,1071,1098]" pageId="8" pageNumber="58">
+<heading id="995CB52F1C25FFF9FDA1FBD1D9B1F23C" box="[593,995,1071,1098]" centered="true" fontSize="11" level="2" pageId="8" pageNumber="58" reason="2">
+Genus 
+<taxonomicName id="05AB79C01C25FFF9FD53FBCED9B1F23C" authority="Signoret, 1876" authorityName="Signoret" authorityYear="1876" box="[675,995,1071,1098]" class="Insecta" family="Margarodidae" genus="Walkeriana" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C25FFF9FD53FBCED97DF23C" bold="true" box="[675,815,1071,1098]" italics="true" pageId="8" pageNumber="58">Walkeriana</emphasis>
+Signoret, 1876
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="8AB151C81C25FFF9FF4DFB90D81AF018" pageId="8" pageNumber="58" type="discussion">
+<subSubSection id="8AB151C81C25FFF9FF4DFB90D80CF381" pageId="8" pageNumber="58" type="discussion">
+<paragraph id="C21402431C25FFF9FF4DFB90DB7DF2FD" blockId="8.[189,303,1137,1163]" box="[189,303,1137,1163]" pageId="8" pageNumber="58">
+<heading id="995CB52F1C25FFF9FF4DFB90DB7DF2FD" bold="true" box="[189,303,1137,1163]" fontSize="11" level="3" pageId="8" pageNumber="58" reason="3">
+<emphasis id="F0DFDE511C25FFF9FF4DFB90DB7DF2FD" bold="true" box="[189,303,1137,1163]" pageId="8" pageNumber="58">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="C21402431C25FFF9FF4DFB41D80CF381" blockId="8.[188,1401,1184,1527]" pageId="8" pageNumber="58">
+<bibRefCitation id="A63A7FB21C25FFF9FF4DFB41DB92F2CC" author="Morrison H." box="[189,448,1184,1210]" pageId="8" pageNumber="58" pagination="1 - 239" refId="ref4787" refString="Morrison H. 1928. A classification of the higher groups and genera of the coccid family Margarodidae. United States Department of Agriculture Technical Bulletin 52: 1 - 239" type="journal article" year="1928">Morrison (1928: 143)</bibRefCitation>
+noted the presence of large bitubular glands in the adult female of 
+<taxonomicName id="05AB79C01C25FFF9FB03FB41DBB6F2A8" authority="(Walker, 1858)" baseAuthorityName="Walker" baseAuthorityYear="1858" class="Insecta" family="Margarodidae" genus="Walkeriana" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="species" species="florigera">
+<emphasis id="F0DFDE511C25FFF9FB03FB41DB76F2AB" italics="true" pageId="8" pageNumber="58">Walkeriana florigera</emphasis>
+(Walker, 1858)
+</taxonomicName>
+, the 
+<typeStatus id="1D10BCE11C25FFF9FDD1FB25D806F2A8" box="[545,596,1220,1246]" pageId="8" pageNumber="58">type</typeStatus>
+species of the genus, but he did not illustrated such glands in the appropriate figure (in contrast to all other described morphological structures). 
+<bibRefCitation id="A63A7FB21C25FFF9FBA2FB07DEA0F376" author="Green E. E." box="[1106,1266,1254,1280]" pageId="8" pageNumber="58" refId="ref4599" refString="Green E. E. 1922. The Coccidae of Ceylon, Part V. Dulau &amp; Co., London. https: // doi. org / 10.5962 / bhl. title. 8551" type="book" year="1922">Green (1922)</bibRefCitation>
+, describing the same species, didn’t mention such glands in the adult female. However, these glands are present in primolarvae of 
+<emphasis id="F0DFDE511C25FFF9FE65FACFD87AF331" box="[405,552,1325,1351]" italics="true" pageId="8" pageNumber="58">
+<taxonomicName id="05AB79C01C25FFF9FE65FACFD876F331" baseAuthorityName="Walker" baseAuthorityYear="1858" box="[405,548,1325,1351]" class="Insecta" family="Margarodidae" genus="Walkeriana" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="species" species="florigera">W. florigera</taxonomicName>
+,
+</emphasis>
+according to the descriptions and figures of both authors. According to 
+<bibRefCitation id="A63A7FB21C25FFF9FF4DFAB1DB0CF31C" author="Green E. E." box="[189,350,1360,1386]" pageId="8" pageNumber="58" refId="ref4599" refString="Green E. E. 1922. The Coccidae of Ceylon, Part V. Dulau &amp; Co., London. https: // doi. org / 10.5962 / bhl. title. 8551" type="book" year="1922">Green (1922)</bibRefCitation>
+, also the other species of 
+<taxonomicName id="05AB79C01C25FFF9FD61FAB1D945F31C" authorityName="Signoret" authorityYear="1876" box="[657,791,1360,1386]" class="Insecta" family="Margarodidae" genus="Walkeriana" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C25FFF9FD61FAB1D945F31C" box="[657,791,1360,1386]" italics="true" pageId="8" pageNumber="58">Walkeriana</emphasis>
+</taxonomicName>
+do not have bitubular glands in adult female stage, but only in larvae. Thus, the note of Morrison (l.c.) about the presence of glands in the adult female was probably a mistake. This possible mistake was also reproduced in the key to the genera of 
+<taxonomicName id="05AB79C01C25FFF9FB26FA77DF24F3C6" authorityName="Gavrilov-Zimin" authorityYear="2018" box="[1238,1398,1430,1456]" class="Insecta" family="Margarodidae" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="tribe" tribe="Labioproctini">Labioproctini</taxonomicName>
+(
+<bibRefCitation id="A63A7FB21C25FFF9FF34FA58DBADF3A2" author="Gavrilov-Zimin I. A." box="[196,511,1465,1492]" pageId="8" pageNumber="58" pagination="1 - 260" refId="ref4551" refString="Gavrilov-Zimin I. A. 2018. Ontogenesis, morphology and higher classification of archaecococcids (Homoptera: Coccinea: Orthezioidea). Zoosystematica Rossica Supplementum 2: 1 - 260. https: // doi. org / 10.31610 / zsr / 2018. supl. 2.1" type="journal article" year="2018">Gavrilov-Zimin 2018: 165</bibRefCitation>
+). To avoid any misunderstanding in the future, a slightly corrected key to the genera of the tribe is provided here.
+</paragraph>
+</subSubSection>
+<treatment id="4A02B3551C25FFF8FF4DF9FEDF2BF4A2" ID-DOI="http://doi.org/10.5281/zenodo.4704975" ID-GBIF-Taxon="181520646" ID-Zenodo-Dep="4704975" LSID="urn:lsid:plazi:treatment:4A02B3551C25FFF9FDA1FBD1D80CF381" httpUri="http://treatment.plazi.org/id/4A02B3551C25FFF9FDA1FBD1D80CF381" lastPageId="9" lastPageNumber="59" pageId="8" pageNumber="58">
+<subSubSection id="8AB151C81C25FFF9FF4DF9FEDE5CF04A" box="[189,1038,1567,1596]" pageId="8" pageNumber="58" type="nomenclature">
+<paragraph id="C21402431C25FFF9FF4DF9FEDE5CF04A" blockId="8.[189,1038,1567,1596]" box="[189,1038,1567,1596]" pageId="8" pageNumber="58">
+<emphasis id="F0DFDE511C25FFF9FF4DF9FEDE5CF04A" bold="true" box="[189,1038,1567,1596]" italics="true" pageId="8" pageNumber="58">
+Renewed key to genera of the tribe 
+<taxonomicName id="05AB79C01C25FFF9FD7CF9FED912F04A" authorityName="Gavrilov-Zimin" authorityYear="2018" box="[652,832,1567,1596]" class="Insecta" family="Margarodidae" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="tribe" tribe="Labioproctini">Labioproctini</taxonomicName>
+(adult females)
+</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="8AB151C81C25FFF9FF4DF9B5D81AF018" box="[189,584,1620,1646]" pageId="8" pageNumber="58" type="description">
+<paragraph id="C21402431C25FFF9FF4DF9B5D81AF018" blockId="8.[189,584,1620,1646]" box="[189,584,1620,1646]" pageId="8" pageNumber="58">
+Based on 
+<bibRefCitation id="A63A7FB21C25FFF9FEC1F9B5D816F018" author="Gavrilov-Zimin I. A." box="[305,580,1620,1646]" pageId="8" pageNumber="58" pagination="1 - 260" refId="ref4551" refString="Gavrilov-Zimin I. A. 2018. Ontogenesis, morphology and higher classification of archaecococcids (Homoptera: Coccinea: Orthezioidea). Zoosystematica Rossica Supplementum 2: 1 - 260. https: // doi. org / 10.31610 / zsr / 2018. supl. 2.1" type="journal article" year="2018">Gavrilov-Zimin (2018)</bibRefCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="8AB151C81C25FFF8FF4DF974DF2BF4A2" lastPageId="9" lastPageNumber="59" pageId="8" pageNumber="58" type="key">
+<key id="B63A55721C25FFF8FF4DF974DF2BF4A2" lastPageId="9" lastPageNumber="59" pageId="8" pageNumber="58">
+<paragraph id="C21402431C25FFF9FF4DF974DF25F0D9" blockId="8.[189,1399,1685,1712]" box="[189,1399,1685,1712]" pageId="8" pageNumber="58">
+<keyLead id="795AA1761C25FFF9FF4DF974DF25F0D9" box="[189,1399,1685,1712]" pageId="8" pageNumber="58">
+<keyStep id="795F1AE61C25FFF9FF4DF974DF25F0D9" box="[189,1399,1685,1712]" pageId="8" pageNumber="58">1. Atria of abdominal spiracles without wax pores............................................................................ 8</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C25FFF9FF4DF936DF25F087" blockId="8.[189,1399,1750,1777]" box="[189,1399,1750,1777]" pageId="8" pageNumber="58">
+<keyLead id="795AA1761C25FFF9FF4DF936DF25F087" box="[189,1399,1750,1777]" pageId="8" pageNumber="58">
+<keyStep id="795F1AE61C25FFF9FF4DF936DF25F087" box="[189,1399,1750,1777]" pageId="8" pageNumber="58">2. Large bitubular wax glands present, forming clusters along body margin. Marsupium present ... 5</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C25FFF9FF4DF8F9DF25F144" blockId="8.[189,1399,1815,1843]" box="[189,1399,1815,1843]" pageId="8" pageNumber="58">
+<keyLead id="795AA1761C25FFF9FF4DF8F9DF25F144" box="[189,1399,1815,1843]" pageId="8" pageNumber="58">
+<keyStep id="795F1AE61C25FFF9FF4DF8F9DF25F144" box="[189,1399,1815,1843]" pageId="8" pageNumber="58">
+3. Cicatrices 
+<quantity id="0553AFA61C25FFF9FE72F8F9DBFDF144" box="[386,431,1816,1842]" metricMagnitude="-2" metricUnit="m" metricValue="7.62" pageId="8" pageNumber="58" unit="in" value="3.0">3 in</quantity>
+number, located posterior to vulva. Oriental ................. 
+<taxonomicName id="05AB79C01C25FFF9FBCEF8F6DF25F144" authority="Green, 1922" authorityName="Green" authorityYear="1922" box="[1086,1399,1815,1842]" class="Insecta" family="Margarodidae" genus="Labioproctus" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C25FFF9FBCEF8F6DE8CF144" bold="true" box="[1086,1246,1815,1842]" italics="true" pageId="8" pageNumber="58">Labioproctus</emphasis>
+<bibRefCitation id="A63A7FB21C25FFF9FB15F8F9DF25F144" author="Green E. E." box="[1253,1399,1816,1842]" pageId="8" pageNumber="58" refId="ref4599" refString="Green E. E. 1922. The Coccidae of Ceylon, Part V. Dulau &amp; Co., London. https: // doi. org / 10.5962 / bhl. title. 8551" type="book" year="1922">Green, 1922</bibRefCitation>
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C25FFF9FF4DF8BBDF25F1E1" blockId="8.[189,1399,1881,1943]" pageId="8" pageNumber="58">
+<keyLead id="795AA1761C25FFF9FF4DF8BBDF25F1E1" pageId="8" pageNumber="58">
+<keyStep id="795F1AE61C25FFF9FF4DF8BBDF25F1E1" pageId="8" pageNumber="58">
+4. Cicatrices very numerous, forming wide band along ventral body margin and transverse rows on abdominal sternites. Afrotropical .................................................. 
+<taxonomicName id="05AB79C01C25FFF9FBF5F89DDF25F1E1" authority="Newstead, 1901" authorityName="Newstead" authorityYear="1901" box="[1029,1399,1916,1943]" class="Insecta" family="Margarodidae" genus="Aspidoproctus" kingdom="Animalia" order="Hemiptera" pageId="8" pageNumber="58" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C25FFF9FBF5F89DDEE0F1E1" bold="true" box="[1029,1202,1916,1943]" italics="true" pageId="8" pageNumber="58">Aspidoproctus</emphasis>
+Newstead, 1901
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFEE8DF20F731" blockId="9.[191,1400,265,327]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFEE8DF20F731" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFEE8DF20F731" pageId="9" pageNumber="59">5. Large bitubular wax glands absent (but may present in larvae). Marsupium absent; eggs deposited under the body or in wax ovisac ......................................................................................................</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFE8FDF2BF7FE" blockId="9.[191,1401,365,392]" box="[191,1401,365,392]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFE8FDF2BF7FE" box="[191,1401,365,392]" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFE8FDF2BF7FE" box="[191,1401,365,392]" pageId="9" pageNumber="59">
+6. Ovisac band well developed .................................................... 
+<taxonomicName id="05AB79C01C24FFF8FC28FE8CDF2BF7FE" authority="Morrison, 1927" authorityName="Morrison" authorityYear="1927" box="[984,1401,365,392]" class="Insecta" family="Margarodidae" genus="Hemaspidoproctus" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="59" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C24FFF8FC28FE8CDEE9F7FE" bold="true" box="[984,1211,365,392]" italics="true" pageId="9" pageNumber="59">Hemaspidoproctus</emphasis>
+<bibRefCitation id="A63A7FB21C24FFF8FB32FE8FDF2BF7FE" author="Morrison H." box="[1218,1401,366,392]" pageId="9" pageNumber="59" pagination="99 - 109" refId="ref4756" refString="Morrison H. 1927. Descriptions of new genera and species belonging to the coccid family Margarodidae. Proceedings of the Biological Society of Washington 40: 99 - 109." type="journal article" year="1927">Morrison, 1927</bibRefCitation>
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFE51DF2BF7BF" blockId="9.[191,1401,431,458]" box="[191,1401,431,458]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFE51DF2BF7BF" box="[191,1401,431,458]" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFE51DF2BF7BF" box="[191,1401,431,458]" pageId="9" pageNumber="59">
+7. Ovisac band absent ............................................................................... 
+<taxonomicName id="05AB79C01C24FFF8FBC9FE4EDF2BF7BF" authority="Signoret, 1876" authorityName="Signoret" authorityYear="1876" box="[1081,1401,431,458]" class="Insecta" family="Margarodidae" genus="Walkeriana" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="59" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C24FFF8FBC9FE4EDE97F7BC" bold="true" box="[1081,1221,431,458]" italics="true" pageId="9" pageNumber="59">Walkeriana</emphasis>
+Signoret, 1876
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFE10DF20F47D" blockId="9.[191,1394,497,523]" box="[191,1394,497,523]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFE10DF20F47D" box="[191,1394,497,523]" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFE10DF20F47D" box="[191,1394,497,523]" pageId="9" pageNumber="59">8. Atria of abdominal spiracles with numerous wax pores ..................................................................</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFDD3DF2BF406" blockId="9.[191,1401,562,624]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFDD3DF2BF406" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFDD3DF2BF406" pageId="9" pageNumber="59">
+9. Marsupium and wide marsupial band present. Cicatrices numerous, forming rows on abdominal sternites .................................................................................... 
+<taxonomicName id="05AB79C01C24FFF8FC11FDB4DF2BF406" authority="Prabhaker Rao, 1950" authorityName="Prabhaker Rao" authorityYear="1950" box="[993,1401,597,624]" class="Insecta" family="Margarodidae" genus="Misracoccus" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="59" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C24FFF8FC11FDB4DE28F419" bold="true" box="[993,1146,597,623]" italics="true" pageId="9" pageNumber="59">Misracoccus</emphasis>
+Prabhaker Rao, 1950
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="C21402431C24FFF8FF4FFD76DF2BF4A2" blockId="9.[191,1401,663,724]" pageId="9" pageNumber="59">
+<keyLead id="795AA1761C24FFF8FF4FFD76DF2BF4A2" pageId="9" pageNumber="59">
+<keyStep id="795F1AE61C24FFF8FF4FFD76DF2BF4A2" pageId="9" pageNumber="59">
+10. Marsupium and marsupial band absent. Only one cicatrix present ................................................ .................................................................................................... 
+<taxonomicName id="05AB79C01C24FFF8FC17FD58DF2BF4A2" authority="Takahashi, 1930" authorityName="Takahashi" authorityYear="1930" box="[999,1401,697,724]" class="Insecta" family="Margarodidae" genus="Lecaniodrosicha" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="59" phylum="Arthropoda" rank="genus">
+<emphasis id="F0DFDE511C24FFF8FC17FD58DEE3F4A2" bold="true" box="[999,1201,697,724]" italics="true" pageId="9" pageNumber="59">Lecaniodrosicha</emphasis>
+Takahashi, 1930
+</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+</key>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

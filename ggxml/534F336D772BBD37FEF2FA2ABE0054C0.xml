@@ -1,0 +1,466 @@
+<document id="A969D3A9355ED86FE7760A4558939ACC" ID-DOI="http://doi.org/10.5281/zenodo.5637206" ID-ISSN="2118-9773" ID-Zenodo-Dep="5637206" ID-ZooBank="C86302D6-49F7-41A6-9BAC-94FDFED0D27B" LSID="urn:lsid:zoobank.org:act:17EA28A1-5F36-4DFC-9191-9C8680496FAC" _generate="added" checkinTime="1635793154903" checkinUser="felipe" docAuthor="Novak, Tone, Novak, Ljuba Slana, Kozel, Peter, Schaider, Miriam Gudrun, Komposch, Christian, Lipovšek, Saška, Podlesnik, Jan, Paušič, Igor &amp; Raspotnig, Günther" docDate="2021" docId="534F336D772BBD37FEF2FA2ABE0054C0" docLanguage="en" docName="ejt-777_1-67.pdf" docOrigin="European Journal of Taxonomy 777" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Nemastoma bidentatum subsp. gruberi Novak &amp; Novak &amp; Kozel &amp; Schaider &amp; Komposch &amp; Lipovšek &amp; Podlesnik &amp; Paušič &amp; Raspotnig 2021, ssp. nov." docType="treatment" docUuid="17EA28A1-5F36-4DFC-9191-9C8680496FAC" docUuidSource="ZooBank" docVersion="5" lastPageId="43" lastPageNumber="44" masterDocId="AF764B157701BD1CFFBCFF85BC51553B" masterDocTitle="Hidden diversity within the Nemastoma bidentatum Roewer, 1914 complex (Opiliones: Nemastomatidae) Part I: Morphological evidence" masterLastPageNumber="67" masterPageNumber="1" pageId="42" pageNumber="43" updateTime="1636482981297" updateUser="valdenar" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="DC41126BE80AAF1B328008AEECD2F3CE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3FD7959BC624729D86E81D755FB5E8C3">
+<mods:title id="44D83EA2675ACC3E81D6C8555E5A3B67">Hidden diversity within the Nemastoma bidentatum Roewer, 1914 complex (Opiliones: Nemastomatidae) Part I: Morphological evidence</mods:title>
+</mods:titleInfo>
+<mods:name id="D1D82F132B509A00FEF510242E7B3627" type="personal">
+<mods:role id="5717D620CF96611AC3EA5A201074D6F0">
+<mods:roleTerm id="A3F942024EC358231D6AD834E0846A30">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F9E6A0E4FFBFDDFB92AC67DD41384611">Novak, Tone</mods:namePart>
+<mods:nameIdentifier id="978C1144BA23E72637B0B229648C02C8" type="LSID">F6B51342-4296-473E-A3E8-AB87B0655F49</mods:nameIdentifier>
+<mods:affiliation id="69B07423F94917F5E56E6922C4CB28A5">Department of Biology, Faculty of Natural Sciences and Mathematics, University of Maribor, Koroška 160, 2000 Maribor, Slovenia.</mods:affiliation>
+<mods:nameIdentifier id="FEF675E619A5B1275F8B453CE5418A3F" type="email">tone.novak@guest.um.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="987F2430E4C608BC9EA7FC867630065C" type="personal">
+<mods:role id="92A746AC5783D651AB710332BAB7B983">
+<mods:roleTerm id="F88DA44F38295F62E3785B51868BD345">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0DFFB54CDE0C50D1EBD70BC284BCECBA">Novak, Ljuba Slana</mods:namePart>
+<mods:nameIdentifier id="A60070862D7DB977115C7054B7D711BA" type="LSID">1603E85F-EE29-475A-8F98-B8B8E059C030</mods:nameIdentifier>
+<mods:affiliation id="FD9D016DB173FDA55EEFA6BB1B2F15C4">Ozare 31, 2380 Slovenj Gradec, Slovenia.</mods:affiliation>
+<mods:nameIdentifier id="284BC0C61CB48E8AC4182004B8140AB1" type="email">tone.novak@guest.arnes.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="F71BD9F5E4BD3DDFD681A0A695440698" type="personal">
+<mods:role id="DC669D5A0CF5C7256648E66E3DE32575">
+<mods:roleTerm id="21BA528A05B913EC546F2C7834BB7092">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="158AA960A1F21B33DF28E36DB39C7C38">Kozel, Peter</mods:namePart>
+<mods:nameIdentifier id="8B0FA7F7796F755826892002CE11489A" type="LSID">8C33627F-2D3D-4723-A059-B87462535460</mods:nameIdentifier>
+<mods:affiliation id="7A17D6F331F867A8AF789AF68DD37916">Department of Biology, Faculty of Natural Sciences and Mathematics, University of Maribor, Koroška 160, 2000 Maribor, Slovenia. &amp; Karst Research Institute IZRK ZRC SAZU, Titov trg 2, 6230 Postojna, Slovenia. &amp; Chair on Karst Education, University of Nova Gorica, Vipava, Slovenia.</mods:affiliation>
+<mods:nameIdentifier id="ED6B6F993BB582C50AED861F8A9E3BB3" type="email">peter.kozel@um.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="2AD3E576A65A141E81D4B7CAEE58EC75" type="personal">
+<mods:role id="5661E4A834C200D3C986C2F619AEF2F1">
+<mods:roleTerm id="D72357ABCDFA7A01D5FC8714809E8EC6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D0021739FFF3E2415B5F2E723985174D">Schaider, Miriam Gudrun</mods:namePart>
+<mods:nameIdentifier id="F1FF20A4B4F10CE865150AB9F0A88A34" type="LSID">8787CDCA-1F3E-48A2-8139-5CB73DE71733</mods:nameIdentifier>
+<mods:affiliation id="D7607B321D7E5F8C9D62E6B031625B5F">Institute of Biology, Karl-Franzens University, Universitätsplatz 2, 8010 Graz, Austria.</mods:affiliation>
+<mods:nameIdentifier id="882BD0E2AFE9722877DFAFA7495926AD" type="email">miriamschaider@hotmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="0B7E727F98D3CC440D67DE5B816D9384" type="personal">
+<mods:role id="01FCA2CFD39463642EE8D13BB3430F54">
+<mods:roleTerm id="EDABB96BC716464B0C202AD87D9C6558">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A06BB964C8DF75EB912D47033CE3AE56">Komposch, Christian</mods:namePart>
+<mods:nameIdentifier id="696D9027A449ECDDCD372808208F88A4" type="LSID">CDE15756-4605-4C5C-AE6C-C576852C9092</mods:nameIdentifier>
+<mods:affiliation id="AE93075E1BA59EDDB4C5CA854959B026">Institut für Tierökologie und Naturraumplanung, Institute for Animal Ecology and Landscape Planning, Bergmanngasse 22, 8010 Graz, Austria.</mods:affiliation>
+<mods:nameIdentifier id="C5F36C09AF2FCE88AD1BA5C3435A54A5" type="email">c.komposch@oekoteam.at</mods:nameIdentifier>
+</mods:name>
+<mods:name id="3DBBB7326F3349509BB4EDE8268C1514" type="personal">
+<mods:role id="64F731329942007BD7D7AE6D674A1ABC">
+<mods:roleTerm id="31ADC9EB612B3B315523BDD6A3C69C54">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A26749B088A856065AF981E0F296F204">Lipovšek, Saška</mods:namePart>
+<mods:nameIdentifier id="BAB844BC3F78DB4F9638114061C3D45F" type="LSID">1F7DB78E-CEE0-4840-95B4-8E4ADA3211DB</mods:nameIdentifier>
+<mods:affiliation id="2CC10D4BC3B49F35FD1DCF66010CAE44">Department of Biology, Faculty of Natural Sciences and Mathematics, University of Maribor, Koroška 160, 2000 Maribor, Slovenia. &amp; Faculty of Medicine, University of Maribor, Taborska ulica 8, 2000 Maribor, Slovenia. &amp; Faculty of Chemistry and Chemical Engineering, University of Maribor, Smetanova ulica 17, 2000 Maribor, Slovenia. &amp; Gottfried Schatz Research Center, Division of Cell Biology, Histology and Embryology, Medical University of Graz, Neue Stiftingtalstrasse 6, 8010 Graz, Austria.</mods:affiliation>
+<mods:nameIdentifier id="A5BCA0E1DC8268F105DFFF7AED36F1BE" type="email">saska.lipovsek@um.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="BB94A32B63FED6A3873D43DE71AD8ECE" type="personal">
+<mods:role id="06E96BCC8C6381FF81C1198DD4BF1A38">
+<mods:roleTerm id="00B37272FA37E7DD69FC5C509E3E3BBD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="85FFA7FE9550C7FD9728CC491B54EA5F">Podlesnik, Jan</mods:namePart>
+<mods:nameIdentifier id="774F14F90F0A7AF1DBF5649BD9CDB396" type="LSID">59572EBE-8871-4EAC-92F7-F87201CB6F67</mods:nameIdentifier>
+<mods:affiliation id="4E0512680737A679AD323FA87026270B">Department of Biology, Faculty of Natural Sciences and Mathematics, University of Maribor, Koroška 160, 2000 Maribor, Slovenia.</mods:affiliation>
+<mods:nameIdentifier id="3080D0CF0DEC6FE9BC82DE65CF2CDCD3" type="email">jan.podlesnik@um.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="EF66E3D4B67879C48EBD04FD0CEF322E" type="personal">
+<mods:role id="9C3983FD3D491E8C1D65002F545BAD4B">
+<mods:roleTerm id="DD3BDA736FADCFB290B62EB4EBBC5993">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5B4A637EC6892C06EC9B51E697EF2981">Paušič, Igor</mods:namePart>
+<mods:nameIdentifier id="2A9E6237A2AFFA1040705FF8E1265280" type="LSID">35939273-4DBF-4CC4-AB06-FBDF1D17051B</mods:nameIdentifier>
+<mods:affiliation id="EC4764EB9E1E18B075A4EFA9F1604C5A">Department of Biology, Faculty of Natural Sciences and Mathematics, University of Maribor, Koroška 160, 2000 Maribor, Slovenia.</mods:affiliation>
+<mods:nameIdentifier id="5533EC8C74F3B39A80B2D36D6806C6B9" type="email">igor.pausic@um.si</mods:nameIdentifier>
+</mods:name>
+<mods:name id="B5C75B79EE3D12016AF7FAE2DD59A531" type="personal">
+<mods:role id="29CF5CEB037406277F766EA1DF9363EA">
+<mods:roleTerm id="61E4299460B6F26DD62DC931E2F13553">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="37B9967EE02DCD3AC4088DAE24FD79F6">Raspotnig, Günther</mods:namePart>
+<mods:nameIdentifier id="2AAC99DACC1D0B8B209A7F6B8EDD235E" type="LSID">75E9550E-01EF-439F-A3AB-6F463F35D03B</mods:nameIdentifier>
+<mods:affiliation id="9529BD02FEEB50D680EBFFF78D752924">Institute of Biology, Karl-Franzens University, Universitätsplatz 2, 8010 Graz, Austria.</mods:affiliation>
+<mods:nameIdentifier id="93FD913A24F8BFB2ED8126C4F198A306" type="email">guenther.raspotnig@uni-graz.at</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="1061B7596698D103A66E3D004DB0B938">text</mods:typeOfResource>
+<mods:relatedItem id="AD4D28C3563AD4A2AFD6DB9A897A5F39" type="host">
+<mods:titleInfo id="5E47C5B204B88B2F7EA61CF067D74CE9">
+<mods:title id="B64166C8AD25164A0B3F7C0B41C47A2A">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="23EE231E1712250AECBB66C664F20CC0">
+<mods:date id="12A898EFECDCCF2E79644471BFA45B45">2021</mods:date>
+<mods:detail id="677360C41D4F4F0A5EC29274B2BE32DA" type="pubDate">
+<mods:number id="E6CB0554A3622BEEB2F30684BA2A3AFB">2021-10-28</mods:number>
+</mods:detail>
+<mods:detail id="673692CCCD9D412737CAEE5B8303920A" type="volume">
+<mods:number id="8D2593D20CEEC196FFCF378E2E3061FF">777</mods:number>
+</mods:detail>
+<mods:extent id="BF507C7581C82D9025DB3BB4855138E2" unit="page">
+<mods:start id="69A6CB0E403E526028A0D61CEF37185E">1</mods:start>
+<mods:end id="8749014CE63A3394C620914BE43B78A6">67</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="02A4B1444506872701E59D74163BBFFE">journal article</mods:classification>
+<mods:identifier id="9B5EE20883591D0B7C2A59915303B915" type="DOI">https://doi.org/10.5852/ejt.2021.777.1561</mods:identifier>
+<mods:identifier id="BC15ED44BC71D9E87FFF4BF96B753103" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="8D772EB233214609413A875778B4FC23" type="Zenodo-Dep">5637112</mods:identifier>
+<mods:identifier id="D25B329C142F7665EB088F34E017E894" type="ZooBank">C86302D6-49F7-41A6-9BAC-94FDFED0D27B</mods:identifier>
+</mods:mods>
+<treatment id="534F336D772BBD37FEF2FA2ABE0054C0" ID-DOI="http://doi.org/10.5281/zenodo.5637206" ID-Zenodo-Dep="5637206" LSID="urn:lsid:zoobank.org:act:17EA28A1-5F36-4DFC-9191-9C8680496FAC" httpUri="http://treatment.plazi.org/id/534F336D772BBD37FEF2FA2ABE0054C0" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43">
+<subSubSection id="93FCD1F0772BBD36FEF2FA2AB8B750F2" box="[334,1254,1454,1481]" pageId="42" pageNumber="43" type="nomenclature">
+<paragraph id="DB59827B772BBD36FEF2FA2AB8B750F2" blockId="42.[334,1254,1454,1517]" box="[334,1254,1454,1481]" pageId="42" pageNumber="43">
+<heading id="80113517772BBD36FEF2FA2AB8B750F2" box="[334,1254,1454,1481]" centered="true" fontSize="11" level="2" pageId="42" pageNumber="43" reason="2">
+<taxonomicName id="1CE6F9F8772BBD36FEF2FA2ABE9E50F2" authority="Novak &amp; Novak &amp; Kozel &amp; Schaider &amp; Komposch &amp; Lipovšek &amp; Podlesnik &amp; Paušič &amp; Raspotnig, 2021" authorityName="Novak &amp; Novak &amp; Kozel &amp; Schaider &amp; Komposch &amp; Lipovšek &amp; Podlesnik &amp; Paušič &amp; Raspotnig" authorityYear="2021" box="[334,719,1454,1481]" class="Florideophyceae" family="Nemastomataceae" genus="Nemastoma" kingdom="Plantae" order="Gigartinales" pageId="42" pageNumber="43" phylum="Rhodophyta" rank="subSpecies" species="bidentatum" status="ssp. nov." subSpecies="gruberi">
+<emphasis id="E9925E69772BBD36FEF2FA2ABE9E50F2" bold="true" box="[334,719,1454,1481]" italics="true" pageId="42" pageNumber="43">Nemastoma bidentatum gruberi</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="F2A1E312772BBD36FD6AFA2ABF6D50F2" box="[726,828,1455,1481]" pageId="42" pageNumber="43" rank="subSpecies">ssp. nov.</taxonomicNameLabel>
+× 
+<taxonomicName id="1CE6F9F8772BBD36FCE7FA2AB82850F2" authorityName="Novak, Slana Novak &amp; Raspotnig" authorityYear="2021" box="[859,1145,1454,1481]" class="Florideophyceae" family="Nemastomataceae" genus="Nemastoma" kingdom="Plantae" order="Gigartinales" pageId="42" pageNumber="43" phylum="Rhodophyta" rank="subSpecies" species="bidentatum" subSpecies="martensi">
+<emphasis id="E9925E69772BBD36FCE7FA2AB82850F2" bold="true" box="[859,1145,1454,1481]" italics="true" pageId="42" pageNumber="43">N. bidentatum martensi</emphasis>
+</taxonomicName>
+ssp. nov.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772BBD36FD00FA56BF2650D6" box="[700,887,1491,1517]" pageId="42" pageNumber="43" type="description">
+<paragraph id="DB59827B772BBD36FD00FA56BF2650D6" blockId="42.[334,1254,1454,1517]" box="[700,887,1491,1517]" pageId="42" pageNumber="43">
+<figureCitation id="43DD9EFE772BBD36FD00FA56BF5450D6" box="[700,773,1491,1517]" captionStart="Fig" captionStartId="11.[189,231,1963,1989]" captionTargetBox="[195,1383,613,1906]" captionTargetId="figure-101@11.[189,1398,601,1908]" captionTargetPageId="11" captionText="Fig. 3. Distributional areas of six subspecies (circles) and hybrids (triangles, squares) within the Nemastoma bidentatum Roewer, 1914 in Slovenia and adjacent regions. Note that many localities overlap on the map." figureDoi="http://doi.org/10.5281/zenodo.5637118" httpUri="https://zenodo.org/record/5637118/files/figure.png" pageId="42" pageNumber="43">Figs 3</figureCitation>
+, 
+<figureCitation id="43DD9EFE772BBD36FCAFFA56BF6B50D6" box="[787,826,1491,1517]" captionStart="Fig" captionStartId="56.[189,232,1963,1989]" captionTargetBox="[195,1390,501,1919]" captionTargetId="figure-102@56.[189,1398,495,1924]" captionTargetPageId="56" captionText="Fig. 9. Nemastoma bidentatum Roewer, 1914 complex, ♂♂. Variation of the Ch basal article (medial view) in species, subspecies and hybrids." figureDoi="http://doi.org/10.5281/zenodo.5637132" httpUri="https://zenodo.org/record/5637132/files/figure.png" pageId="42" pageNumber="43">9K</figureCitation>
+, 
+<figureCitation id="43DD9EFE772BBD36FCF9FA56BF2650D6" box="[837,887,1491,1517]" captionStart="Fig" captionStartId="57.[189,232,1928,1954]" captionTargetBox="[197,1387,510,1879]" captionTargetId="figure-60@57.[189,1398,506,1889]" captionTargetPageId="57" captionText="Fig. 10. Nemastoma bidentatum Roewer, 1914 complex, ♂♂. Variation of the Pa-Fe (A–B first image, C, D–E first image, F–G first image; H–J, L–M right, N–O: lateral view; the others in dorso-medial view to show the armament)." figureDoi="http://doi.org/10.5281/zenodo.5637134" httpUri="https://zenodo.org/record/5637134/files/figure.png" pageId="42" pageNumber="43">10K</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772BBD36FF01F991B96F539D" pageId="42" pageNumber="43" type="diagnosis">
+<paragraph id="DB59827B772BBD36FF01F991BD675315" blockId="42.[189,310,1556,1582]" box="[189,310,1556,1582]" pageId="42" pageNumber="43">
+<heading id="80113517772BBD36FF01F991BD675315" bold="true" box="[189,310,1556,1582]" fontSize="11" level="3" pageId="42" pageNumber="43" reason="3">
+<emphasis id="E9925E69772BBD36FF01F991BD675315" bold="true" box="[189,310,1556,1582]" pageId="42" pageNumber="43">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="DB59827B772BBD36FF01F9C1B96F539D" blockId="42.[189,1398,1604,1702]" pageId="42" pageNumber="43">Typical male hybrids are characterized by Ch basal article with large hump in front of dorsal indentation, and broad, low quarter moon-like Ch-Apo, ~1.6 times as high as wide, and slightly club-shaped, relatively thin Pa-Fe, and five, subequidistant, simple ventral Pa-Fe denticles in the frontal half of the Pa-Fe.</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772BBD37FF01F948BF2557A0" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43" type="materials_examined">
+<subSubSection id="93FCD1F0772BBD37FF01F948BE0054C0" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43" type="materials_examined">
+<paragraph id="DB59827B772BBD36FF01F948BDFB53DC" blockId="42.[189,426,1741,1767]" box="[189,426,1741,1767]" pageId="42" pageNumber="43">
+<heading id="80113517772BBD36FF01F948BDFB53DC" bold="true" box="[189,426,1741,1767]" fontSize="11" level="3" pageId="42" pageNumber="43" reason="3">
+<emphasis id="E9925E69772BBD36FF01F948BDFB53DC" bold="true" box="[189,426,1741,1767]" pageId="42" pageNumber="43">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="DB59827B772BBD36FF01F978BDE65264" blockId="42.[189,1399,1789,1887]" pageId="42" pageNumber="43">
+<materialsCitation id="6B8E8826772BBD36FF01F978B932522C" box="[189,1379,1789,1815]" collectingDate="2009-09-08" collectionCode="PMSL" country="Croatia" location="Debeli Lug" municipality="Jasenak" pageId="42" pageNumber="43" specimenCode="WL20" specimenCount="19" specimenCount-female="11" specimenCount-male="8">
+<collectingCountry id="A3F1C2EB772BBD36FF01F978BD6D522C" box="[189,316,1789,1815]" name="Croatia" pageId="42" pageNumber="43">CROATIA</collectingCountry>
+– 
+<emphasis id="E9925E69772BBD36FEE2F978BDFC522C" bold="true" box="[350,429,1789,1815]" pageId="42" pageNumber="43">WL00</emphasis>
+• 
+<specimenCount id="CDE049F2772BBD36FE74F978BE5E522C" box="[456,527,1789,1815]" pageId="42" pageNumber="43" type="male">8 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772BBD36FDA1F978BE21522C" box="[541,624,1789,1815]" pageId="42" pageNumber="43" type="female">11 ♀♀</specimenCount>
+; 
+<location id="DE39D4A0772BBD36FD3CF978BF5A522C" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772BBD36FD3CF978BF5A522C" box="[640,779,1789,1815]" country="Croatia" municipality="Jasenak" name="Debeli Lug" pageId="42" pageNumber="43">Debeli Lug</location>
+, 
+<collectingMunicipality id="3B3D1801772BBD36FCA4F978BF29522C" box="[792,888,1789,1815]" pageId="42" pageNumber="43">Jasenak</collectingMunicipality>
+; 
+<date id="AF58A4BB772BBD36FC3AF978B848522C" box="[902,1049,1789,1815]" pageId="42" pageNumber="43" value="2009-09-08">
+<collectingDate id="BF1C5D53772BBD36FC3AF978B848522C" box="[902,1049,1789,1815]" pageId="42" pageNumber="43" value="2009-09-08">8 Sep. 2009</collectingDate>
+</date>
+; (2/2012); 
+<collectionCode id="BDF71ABE772BBD36FB23F978B8A1522C" box="[1183,1264,1789,1815]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772BBD36FAA8F978B932522C" bold="true" box="[1300,1379,1789,1815]" pageId="42" pageNumber="43">
+<specimenCode id="8B402A00772BBD36FAA8F978B932522C" box="[1300,1379,1789,1815]" collectionCode="WL" country="China" lsid="urn:lsid:biocol.org:col:14766" name="Wolong Nature Reserve" pageId="42" pageNumber="43" type="Herbarium">WL20</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772BBD36FF03F8A4BDE35264" collectingDate="2009-09-07" collectionCode="PMSL" collectorName="R. Ozimec &amp; A. Schonhofer" country="Croatia" location="Ambarac sinkhole" municipality="Ogulin" pageId="42" pageNumber="43" specimenCount="20" specimenCount-female="13" specimenCount-male="7">
+<specimenCount id="CDE049F2772BBD36FF03F8A4BD535200" box="[191,258,1825,1851]" pageId="42" pageNumber="43" type="male">7 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772BBD36FEACF8A4BD325200" box="[272,355,1825,1851]" pageId="42" pageNumber="43" type="female">13 ♀♀</specimenCount>
+; 
+<location id="DE39D4A0772BBD36FECDF8A4BE1A5200" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772BBD36FECDF8A4BE1A5200" box="[369,587,1825,1851]" country="Croatia" municipality="Ogulin" name="Ambarac sinkhole" pageId="42" pageNumber="43">Ambarac sinkhole</location>
+, 
+<collectingMunicipality id="3B3D1801772BBD36FDE4F8A4BEFC5200" box="[600,685,1825,1851]" pageId="42" pageNumber="43">Ogulin</collectingMunicipality>
+; 
+<date id="AF58A4BB772BBD36FD06F8A4BF1A5200" box="[698,843,1825,1851]" pageId="42" pageNumber="43" value="2009-09-07">
+<collectingDate id="BF1C5D53772BBD36FD06F8A4BF1A5200" box="[698,843,1825,1851]" pageId="42" pageNumber="43" value="2009-09-07">7 Sep. 2009</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772BBD36FCE5F8A4BF865200" box="[857,983,1825,1851]" pageId="42" pageNumber="43">R. Ozimec</collectorName>
+and 
+<collectorName id="7613E7AD772BBD36FBADF8A4B8EC5200" box="[1041,1213,1825,1851]" pageId="42" pageNumber="43">A. Schönhofer</collectorName>
+leg. (Coll. ASc 324, 1/2012); 
+<collectionCode id="BDF71ABE772BBD36FEDEF8C0BDE35264" box="[354,434,1861,1887]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">PMSL</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="DB59827B772BBD37FF01F802BE0054C0" blockId="42.[189,1399,1926,2025]" lastBlockId="43.[189,1399,265,507]" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43">
+<materialsCitation id="6B8E8826772BBD36FF01F802BE2E52FF" collectingDate="2012-05-20" collectionCode="PMSL" collectorName="L. Slana Novak &amp; T. Novak" country="Slovenia" location="Senozece - Laze" pageId="42" pageNumber="43" specimenCode="VL33" specimenCount="4" specimenCount-female="1" specimenCount-male="3">
+<collectingCountry id="A3F1C2EB772BBD36FF01F802BD1F529A" box="[189,334,1927,1953]" name="Slovenia" pageId="42" pageNumber="43">SLOVENIA</collectingCountry>
+– 
+<emphasis id="E9925E69772BBD36FED2F803BDE5529B" bold="true" box="[366,436,1926,1952]" pageId="42" pageNumber="43">VL26</emphasis>
+• 
+<specimenCount id="CDE049F2772BBD36FE72F802BE42529A" box="[462,531,1927,1953]" pageId="42" pageNumber="43" type="male">3 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772BBD36FD9CF802BE1F529A" box="[544,590,1927,1953]" pageId="42" pageNumber="43" type="female">1 ♀</specimenCount>
+; 
+<location id="DE39D4A0772BBD36FDE1F802BF79529A" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772BBD36FDE1F802BF79529A" box="[605,808,1927,1953]" country="Slovenia" name="Senozece - Laze" pageId="42" pageNumber="43">Senožeče – Laže</location>
+; 
+<date id="AF58A4BB772BBD36FC88F802BF87529A" box="[820,982,1927,1953]" pageId="42" pageNumber="43" value="2012-05-20">
+<collectingDate id="BF1C5D53772BBD36FC88F802BF87529A" box="[820,982,1927,1953]" pageId="42" pageNumber="43" value="2012-05-20">20 May 2012</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772BBD36FC5FF802B8CA529A" box="[995,1179,1927,1953]" pageId="42" pageNumber="43">L. Slana Novak</collectorName>
+and 
+<collectorName id="7613E7AD772BBD36FB6AF802B912529A" box="[1238,1347,1927,1953]" pageId="42" pageNumber="43">T. Novak</collectorName>
+leg. (50/2012, rev. 2019); 
+<collectionCode id="BDF71ABE772BBD36FE7FF82EBE4552FE" box="[451,532,1963,1989]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772BBD36FD85F82FBE2E52FF" bold="true" box="[569,639,1962,1988]" pageId="42" pageNumber="43">
+<specimenCode id="8B402A00772BBD36FD85F82FBE2E52FF" box="[569,639,1962,1988]" collectionCode="PMSL" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">VL33</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772BBD36FD20F82EBF3F52D3" collectingDate="2012-10-25" collectionCode="PMSL" collectorName="L. Slana Novak &amp; T. Novak" country="Slovenia" location="Plazine" municipality="Starod" pageId="42" pageNumber="43" specimenCode="VL54" specimenCount="5" specimenCount-female="3" specimenCount-male="2">
+<specimenCount id="CDE049F2772BBD36FD20F82EBEB352FE" box="[668,738,1963,1989]" pageId="42" pageNumber="43" type="male">2 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772BBD36FD4CF82EBF6752FE" box="[752,822,1963,1989]" pageId="42" pageNumber="43" type="female">3 ♀♀</specimenCount>
+; 
+<location id="DE39D4A0772BBD36FCFAF82FBFF152FF" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772BBD36FCFAF82FBFF152FF" box="[838,928,1962,1988]" country="Slovenia" municipality="Starod" name="Plazine" pageId="42" pageNumber="43">Plazine</location>
+, 
+<collectingMunicipality id="3B3D1801772BBD36FC11F82FBFAF52FF" box="[941,1022,1962,1988]" pageId="42" pageNumber="43">Starod</collectingMunicipality>
+; 
+<date id="AF58A4BB772BBD36FBB0F82FB8FC52FE" box="[1036,1197,1962,1989]" pageId="42" pageNumber="43" value="2012-10-25">
+<collectingDate id="BF1C5D53772BBD36FBB0F82FB8FC52FE" box="[1036,1197,1962,1989]" pageId="42" pageNumber="43" value="2012-10-25">25 Oct. 2012</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772BBD36FB06F82EB92652FF" box="[1210,1399,1962,1989]" pageId="42" pageNumber="43">L. Slana Novak</collectorName>
+and 
+<collectorName id="7613E7AD772BBD36FF4CF84ABD3152D3" box="[240,352,1998,2025]" pageId="42" pageNumber="43">T. Novak</collectorName>
+leg. (194/2012, rev. 2018); 
+<collectionCode id="BDF71ABE772BBD36FD0FF84BBF5552D3" box="[691,772,1998,2024]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772BBD36FC94F84BBF3F52D3" bold="true" box="[808,878,1998,2024]" pageId="42" pageNumber="43">
+<specimenCode id="8B402A00772BBD36FC94F84BBF3F52D3" box="[808,878,1998,2024]" collectionCode="PMSL" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="42" pageNumber="43">VL54</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772BBD37FC37F84BB84C5418" collectingDate="2001-08-12" collectionCode="PMSL" collectorName="L. Slana Novak &amp; T. Novak" country="Slovenia" lastPageId="43" lastPageNumber="44" location="Travni Dolci" municipality="Mt. Sneznik" pageId="42" pageNumber="43" specimenCount="1" specimenCount-male="1">
+<specimenCount id="CDE049F2772BBD36FC37F84BBFED52D2" box="[907,956,1998,2025]" pageId="42" pageNumber="43" type="male">1 ♂</specimenCount>
+; 
+<location id="DE39D4A0772BBD36FC76F84BB83752D3" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772BBD36FC76F84BB83752D3" box="[970,1126,1998,2024]" country="Slovenia" municipality="Mt. Sneznik" name="Travni Dolci" pageId="42" pageNumber="43">Travni Dolci</location>
+, 
+<collectingMunicipality id="3B3D1801772BBD36FBCFF84AB95852D3" box="[1139,1289,1998,2025]" pageId="42" pageNumber="43">Mt. Snežnik</collectingMunicipality>
+; 
+<date id="AF58A4BB772BBD37FAABF84BBCAD5418" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43" value="2001-08-12">
+<collectingDate id="BF1C5D53772BBD37FAABF84BBCAD5418" lastPageId="43" lastPageNumber="44" pageId="42" pageNumber="43" value="2001-08-12">12 Aug. 2001</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FEB5FE8CBD945418" box="[265,453,265,291]" pageId="43" pageNumber="44">L. Slana Novak</collectorName>
+and 
+<collectorName id="7613E7AD772ABD37FDBDFE8CBE205418" box="[513,625,265,291]" pageId="43" pageNumber="44">T. Novak</collectorName>
+leg. (195b/2001, rev. 2020); 
+<collectionCode id="BDF71ABE772ABD37FC6DFE8CB84C5418" box="[977,1053,265,291]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FB85FE8CBFDA547C" collectingDate="2018-09-12" collectionCode="PMSL" collectorName="L. Slana Novak &amp; T. Novak" country="Slovenia" location="Mt. Sneznik" pageId="43" pageNumber="44" specimenCount="1" specimenCount-male="1">
+<specimenCount id="CDE049F2772ABD37FB85FE8CB83B5418" box="[1081,1130,265,291]" pageId="43" pageNumber="44" type="male">1 ♂</specimenCount>
+; 
+<location id="DE39D4A0772ABD37FBC5FE8CB95E5418" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772ABD37FBC5FE8CB95E5418" box="[1145,1295,265,291]" country="Slovenia" name="Mt. Sneznik" pageId="43" pageNumber="44">Mt. Snežnik</location>
+; 
+<date id="AF58A4BB772ABD37FAA0FE8CBCAA547C" pageId="43" pageNumber="44" value="2018-09-12">
+<collectingDate id="BF1C5D53772ABD37FAA0FE8CBCAA547C" pageId="43" pageNumber="44" value="2018-09-12">12 Sep. 2018</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FEB4FEA8BD91547C" box="[264,448,301,327]" pageId="43" pageNumber="44">L. Slana Novak</collectorName>
+and 
+<collectorName id="7613E7AD772ABD37FE45FEA8BE37547C" box="[505,614,301,327]" pageId="43" pageNumber="44">T. Novak</collectorName>
+leg. (116a/2018); 
+<collectionCode id="BDF71ABE772ABD37FC83FEA8BFDA547C" box="[831,907,301,327]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FC19FEA8BE565450" collectingDate="2019-10-25" collectionCode="PMSL" collectorName="T. Novak." country="Slovenia" location="Mt. Sneznik" pageId="43" pageNumber="44" specimenCode="VL95" specimenCount="1" specimenCount-male="1">
+<specimenCount id="CDE049F2772ABD37FC19FEA8BF85547C" box="[933,980,301,327]" pageId="43" pageNumber="44" type="male">1 ♂</specimenCount>
+; ibid.; 
+<date id="AF58A4BB772ABD37FB9AFEA8B892547C" box="[1062,1219,301,328]" pageId="43" pageNumber="44" value="2019-10-25">
+<collectingDate id="BF1C5D53772ABD37FB9AFEA8B892547C" box="[1062,1219,301,328]" pageId="43" pageNumber="44" value="2019-10-25">25 Oct. 2019</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FB73FEA8B915547C" box="[1231,1348,301,327]" pageId="43" pageNumber="44">T. Novak.</collectorName>
+leg. (138/2019); 
+<collectionCode id="BDF71ABE772ABD37FEF3FED4BDCE5450" box="[335,415,337,363]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772ABD37FE7DFED4BE565450" bold="true" box="[449,519,337,363]" pageId="43" pageNumber="44">
+<specimenCode id="8B402A00772ABD37FE7DFED4BE565450" box="[449,519,337,363]" collectionCode="PMSL" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">VL95</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FD9CFED4B80354B5" collectingDate="1985-08-17" collectionCode="PMSL" collectorName="T. Novak &amp; M. Slana Novak &amp; L. Slana Novak" country="Slovenia" location="Mt. Kocevska Mala gora" municipality="Novak" pageId="43" pageNumber="44" specimenCode="VL96" specimenCount="3" specimenCount-female="2" specimenCount-male="1">
+<specimenCount id="CDE049F2772ABD37FD9CFED4BE1E5450" box="[544,591,337,363]" pageId="43" pageNumber="44" type="male">1 ♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772ABD37FDE0FED4BECE5450" box="[604,671,337,363]" pageId="43" pageNumber="44" type="female">2 ♀♀</specimenCount>
+; 
+<location id="DE39D4A0772ABD37FD12FED4BF875450" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772ABD37FD12FED4BF875450" box="[686,982,337,363]" country="Slovenia" municipality="Novak" name="Mt. Kocevska Mala gora" pageId="43" pageNumber="44">Mt. Kočevska Mala gora</location>
+; 
+<date id="AF58A4BB772ABD37FC5EFED4B8D45457" box="[994,1157,337,364]" pageId="43" pageNumber="44" value="1985-08-17">
+<collectingDate id="BF1C5D53772ABD37FC5EFED4B8D45457" box="[994,1157,337,364]" pageId="43" pageNumber="44" value="1985-08-17">17 Aug. 1985</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FB2CFED4B9515450" box="[1168,1280,337,363]" pageId="43" pageNumber="44">T. Novak</collectorName>
+, 
+<collectorName id="7613E7AD772ABD37FAB0FED4BD5A54B4" pageId="43" pageNumber="44">M. Slana Novak</collectorName>
+and 
+<collectorName id="7613E7AD772ABD37FEFFFEF0BDAB54B4" box="[323,506,373,399]" pageId="43" pageNumber="44">L. Slana Novak</collectorName>
+leg. (LSN 98/1986, TN rev. 2019); 
+<collectionCode id="BDF71ABE772ABD37FC20FEF0BFBD54B4" box="[924,1004,373,399]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772ABD37FBB0FEF1B80354B5" bold="true" box="[1036,1106,372,398]" pageId="43" pageNumber="44">
+<specimenCode id="8B402A00772ABD37FBB0FEF1B80354B5" box="[1036,1106,372,398]" collectionCode="PMSL" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">VL96</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FBD7FEF0B8B05488" collectingDate="2001-09-20" collectionCode="PMSL" collectorName="B. Drovenik &amp; A. Pirnat" country="Slovenia" location="Pecke - Mali vrh" municipality="Kocevski Rog" pageId="43" pageNumber="44" specimenCount="1" specimenCount-male="1">
+<specimenCount id="CDE049F2772ABD37FBD7FEF0B8C854B4" box="[1131,1177,373,399]" pageId="43" pageNumber="44" type="male">1 ♂</specimenCount>
+; 
+<location id="DE39D4A0772ABD37FB19FEF0B92354B4" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772ABD37FB19FEF0B92354B4" box="[1189,1394,373,399]" country="Slovenia" municipality="Kocevski Rog" name="Pecke - Mali vrh" pageId="43" pageNumber="44">Pečke − Mali vrh</location>
+, 
+<collectingMunicipality id="3B3D1801772ABD37FF01FE1CBD395488" box="[189,360,409,435]" pageId="43" pageNumber="44">Kočevski Rog</collectingMunicipality>
+; 
+<date id="AF58A4BB772ABD37FEC9FE1CBE445488" box="[373,533,409,435]" pageId="43" pageNumber="44" value="2001-09-20">
+<collectingDate id="BF1C5D53772ABD37FEC9FE1CBE445488" box="[373,533,409,435]" pageId="43" pageNumber="44" value="2001-09-20">20 Sep. 2001</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FD9EFE1CBEE55488" box="[546,692,409,435]" pageId="43" pageNumber="44">B. Drovenik</collectorName>
+and 
+<collectorName id="7613E7AD772ABD37FD51FE1CBF095488" box="[749,856,409,435]" pageId="43" pageNumber="44">A. Pirnat</collectorName>
+leg. (10/2005, rev. 2015); 
+<collectionCode id="BDF71ABE772ABD37FB29FE1CB8B05488" box="[1173,1249,409,435]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FB40FE1CBE2654ED" collectingDate="2001-09-20" collectionCode="PMSL" collectorName="Drovenik &amp; Pirnat" country="Slovenia" location="Pecke - Mali" municipality="Kocevski Rog" pageId="43" pageNumber="44" specimenCode="WL37" specimenCount="1" specimenCount-female="1">
+<specimenCount id="CDE049F2772ABD37FB40FE1CB97B5488" box="[1276,1322,409,435]" pageId="43" pageNumber="44" type="female">1 ♀</specimenCount>
+; ibid.; (16/2005, rev. 2015); 
+<collectionCode id="BDF71ABE772ABD37FE05FE38BE5854EC" box="[441,521,445,471]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772ABD37FD95FE39BE2654ED" bold="true" box="[553,631,444,470]" pageId="43" pageNumber="44">
+<specimenCode id="8B402A00772ABD37FD95FE39BE2654ED" box="[553,631,444,470]" collectionCode="WL" country="China" lsid="urn:lsid:biocol.org:col:14766" name="Wolong Nature Reserve" pageId="43" pageNumber="44" type="Herbarium">WL37</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FD32FE38BE1C54C0" collectingDate="1995-04-29" collectionCode="PMSL" collectorName="S. Brelih" country="Slovenia" location="Mircev gric" municipality="Mt. Gorjanci" pageId="43" pageNumber="44" specimenCount="5" specimenCount-female="2" specimenCount-male="3">
+<specimenCount id="CDE049F2772ABD37FD32FE38BE8354EC" box="[654,722,445,471]" pageId="43" pageNumber="44" type="male">3 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772ABD37FD62FE38BF7154EC" box="[734,800,445,471]" pageId="43" pageNumber="44" type="female">2 ♀♀</specimenCount>
+; 
+<location id="DE39D4A0772ABD37FC91FE39BFE854ED" LSID="urn:lsid:plazi:treatment:534F336D772BBD37FEF2FA2ABE0054C0:DE39D4A0772ABD37FC91FE39BFE854ED" box="[813,953,444,470]" country="Slovenia" municipality="Mt. Gorjanci" name="Mircev gric" pageId="43" pageNumber="44">Mirčev grič</location>
+, 
+<collectingMunicipality id="3B3D1801772ABD37FC78FE38B80E54ED" box="[964,1119,444,471]" pageId="43" pageNumber="44">Mt. Gorjanci</collectingMunicipality>
+; 
+<date id="AF58A4BB772ABD37FBD5FE38B95554EC" box="[1129,1284,444,471]" pageId="43" pageNumber="44" value="1995-04-29">
+<collectingDate id="BF1C5D53772ABD37FBD5FE38B95554EC" box="[1129,1284,444,471]" pageId="43" pageNumber="44" value="1995-04-29">29 Apr. 1995</collectingDate>
+</date>
+; 
+<collectorName id="7613E7AD772ABD37FAB3FE38B92754ED" box="[1295,1398,444,471]" pageId="43" pageNumber="44">S. Brelih</collectorName>
+leg. (780/1998, rev. 2019); 
+<collectionCode id="BDF71ABE772ABD37FE41FE64BE1C54C0" box="[509,589,481,507]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<treatment id="534F336D772ABD37FEF2FDBFBE4F5135" LSID="urn:lsid:zoobank.org:act:17EA28A1-5F36-4DFC-9191-9C8680496FAC" httpUri="http://treatment.plazi.org/id/534F336D772BBD37FEF2FA2ABE0054C0" pageId="43" pageNumber="44">
+<subSubSection id="93FCD1F0772ABD37FEF2FDBFBFBB5743" pageId="43" pageNumber="44" type="nomenclature">
+<paragraph id="DB59827B772ABD37FEF2FDBFBFBB5743" blockId="43.[334,1254,569,667]" pageId="43" pageNumber="44">
+<taxonomicName id="1CE6F9F8772ABD37FEF2FDBFBE9E576F" authority="Novak &amp; Novak &amp; Kozel &amp; Schaider &amp; Komposch &amp; Lipovšek &amp; Podlesnik &amp; Paušič &amp; Raspotnig, 2021" authorityName="Novak &amp; Novak &amp; Kozel &amp; Schaider &amp; Komposch &amp; Lipovšek &amp; Podlesnik &amp; Paušič &amp; Raspotnig" authorityYear="2021" box="[334,719,569,596]" class="Florideophyceae" family="Nemastomataceae" genus="Nemastoma" kingdom="Plantae" order="Gigartinales" pageId="43" pageNumber="44" phylum="Rhodophyta" rank="subSpecies" species="bidentatum" status="ssp. nov." subSpecies="gruberi">
+<emphasis id="E9925E69772ABD37FEF2FDBFBE9E576F" bold="true" box="[334,719,569,596]" italics="true" pageId="43" pageNumber="44">Nemastoma bidentatum gruberi</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="F2A1E312772ABD37FD6AFDBFBF6D576F" box="[726,828,570,596]" pageId="43" pageNumber="44" rank="subSpecies">ssp. nov.</taxonomicNameLabel>
+× 
+<taxonomicName id="1CE6F9F8772ABD37FCE7FDBFB8285768" authorityName="Novak, Slana Novak &amp; Raspotnig" authorityYear="2021" box="[859,1145,569,596]" class="Florideophyceae" family="Nemastomataceae" genus="Nemastoma" kingdom="Plantae" order="Gigartinales" pageId="43" pageNumber="44" phylum="Rhodophyta" rank="subSpecies" species="bidentatum" subSpecies="martensi">
+<emphasis id="E9925E69772ABD37FCE7FDBFB8285768" bold="true" box="[859,1145,569,596]" italics="true" pageId="43" pageNumber="44">N. bidentatum martensi</emphasis>
+</taxonomicName>
+ssp. nov. × 
+<taxonomicName id="1CE6F9F8772ABD37FDDEFDDBBF2C5743" authorityName="Novak, Raspotnig &amp; Slana Novak" authorityYear="2021" box="[610,893,605,632]" class="Florideophyceae" family="Nemastomataceae" genus="Nemastoma" kingdom="Plantae" order="Gigartinales" pageId="43" pageNumber="44" phylum="Rhodophyta" rank="subSpecies" species="bidentatum" subSpecies="schmidti">
+<emphasis id="E9925E69772ABD37FDDEFDDBBF2C5743" bold="true" box="[610,893,605,632]" italics="true" pageId="43" pageNumber="44">N. bidentatum schmidti</emphasis>
+</taxonomicName>
+ssp. nov.
+</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772ABD37FD03FD04BF2557A0" box="[703,884,641,667]" pageId="43" pageNumber="44" type="description">
+<paragraph id="DB59827B772ABD37FD03FD04BF2557A0" blockId="43.[334,1254,569,667]" box="[703,884,641,667]" pageId="43" pageNumber="44">
+<figureCitation id="43DD9EFE772ABD37FD03FD04BF5857A0" box="[703,777,641,667]" captionStart="Fig" captionStartId="11.[189,231,1963,1989]" captionTargetBox="[195,1383,613,1906]" captionTargetId="figure-101@11.[189,1398,601,1908]" captionTargetPageId="11" captionText="Fig. 3. Distributional areas of six subspecies (circles) and hybrids (triangles, squares) within the Nemastoma bidentatum Roewer, 1914 in Slovenia and adjacent regions. Note that many localities overlap on the map." figureDoi="http://doi.org/10.5281/zenodo.5637118" httpUri="https://zenodo.org/record/5637118/files/figure.png" pageId="43" pageNumber="44">Figs 3</figureCitation>
+, 
+<figureCitation id="43DD9EFE772ABD37FCAAFD04BF6857A0" box="[790,825,641,667]" captionStart="Fig" captionStartId="56.[189,232,1963,1989]" captionTargetBox="[195,1390,501,1919]" captionTargetId="figure-102@56.[189,1398,495,1924]" captionTargetPageId="56" captionText="Fig. 9. Nemastoma bidentatum Roewer, 1914 complex, ♂♂. Variation of the Ch basal article (medial view) in species, subspecies and hybrids." figureDoi="http://doi.org/10.5281/zenodo.5637132" httpUri="https://zenodo.org/record/5637132/files/figure.png" pageId="43" pageNumber="44">9L</figureCitation>
+, 
+<figureCitation id="43DD9EFE772ABD37FCF9FD04BF2557A0" box="[837,884,641,667]" captionStart="Fig" captionStartId="57.[189,232,1928,1954]" captionTargetBox="[197,1387,510,1879]" captionTargetId="figure-60@57.[189,1398,506,1889]" captionTargetPageId="57" captionText="Fig. 10. Nemastoma bidentatum Roewer, 1914 complex, ♂♂. Variation of the Pa-Fe (A–B first image, C, D–E first image, F–G first image; H–J, L–M right, N–O: lateral view; the others in dorso-medial view to show the armament)." figureDoi="http://doi.org/10.5281/zenodo.5637134" httpUri="https://zenodo.org/record/5637134/files/figure.png" pageId="43" pageNumber="44">10L</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772ABD37FF01FD46B872566F" pageId="43" pageNumber="44" type="diagnosis">
+<paragraph id="DB59827B772ABD37FF01FD46BD6757E6" blockId="43.[189,310,707,733]" box="[189,310,707,733]" pageId="43" pageNumber="44">
+<heading id="80113517772ABD37FF01FD46BD6757E6" bold="true" box="[189,310,707,733]" fontSize="11" level="3" pageId="43" pageNumber="44" reason="3">
+<emphasis id="E9925E69772ABD37FF01FD46BD6757E6" bold="true" box="[189,310,707,733]" pageId="43" pageNumber="44">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="DB59827B772ABD37FF01FD77B872566F" blockId="43.[187,1399,754,853]" pageId="43" pageNumber="44">Typical male hybrids are characterized by Ch-Apo with nearly symetrically convex ventro-anterior margin and straight posterior margin, and club-shaped, robust Pa-Fe with five simple, more or less equidistant ventral Pa-Fe spines in the frontal half, and Pa-Ti with small dorsal hump.</paragraph>
+</subSubSection>
+<subSubSection id="93FCD1F0772ABD37FF01FCF9BE4F5135" pageId="43" pageNumber="44" type="materials_examined">
+<paragraph id="DB59827B772ABD37FF01FCF9BDFB56AD" blockId="43.[189,426,892,918]" box="[189,426,892,918]" pageId="43" pageNumber="44">
+<heading id="80113517772ABD37FF01FCF9BDFB56AD" bold="true" box="[189,426,892,918]" fontSize="11" level="3" pageId="43" pageNumber="44" reason="3">
+<emphasis id="E9925E69772ABD37FF01FCF9BDFB56AD" bold="true" box="[189,426,892,918]" pageId="43" pageNumber="44">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="DB59827B772ABD37FF01FC29BE4F5135" blockId="43.[189,1399,940,1038]" pageId="43" pageNumber="44">
+<materialsCitation id="6B8E8826772ABD37FF01FC29BD9D56D2" collectingDate="2002-04-17" collectionCode="B, A, PMSL" collectorName="Ozeljan &amp; Drovenik &amp; Pirnat" country="Slovenia" pageId="43" pageNumber="44" specimenCode="VL26" specimenCount="2" specimenCount-male="2">
+<collectingCountry id="A3F1C2EB772ABD37FF01FC29BD0156FD" box="[189,336,940,966]" name="Slovenia" pageId="43" pageNumber="44">SLOVENIA</collectingCountry>
+– 
+<emphasis id="E9925E69772ABD37FECEFC29BDE856FD" bold="true" box="[370,441,940,966]" pageId="43" pageNumber="44">VL09</emphasis>
+• 
+<specimenCount id="CDE049F2772ABD37FE68FC29BE4D56FD" box="[468,540,940,966]" pageId="43" pageNumber="44" type="male">2 ♂♂</specimenCount>
+; 
+<collectorName id="7613E7AD772ABD37FD96FC29BEDB56FD" box="[554,650,940,966]" pageId="43" pageNumber="44">Ozeljan</collectorName>
+; 
+<date id="AF58A4BB772ABD37FD24FC29BF6856FD" box="[664,825,940,966]" pageId="43" pageNumber="44" value="2002-04-17">
+<collectingDate id="BF1C5D53772ABD37FD24FC29BF6856FD" box="[664,825,940,966]" pageId="43" pageNumber="44" value="2002-04-17">17 Apr. 2002</collectingDate>
+</date>
+; 
+<collectionCode id="BDF71ABE772ABD37FCFAFC29BF0C56FD" box="[838,861,940,966]" country="Germany" lsid="urn:lsid:biocol.org:col:15534" name="Botanischer Garten und Botanisches Museum Berlin-Dahlem, Zentraleinrichtung der Freien Universitaet" pageId="43" pageNumber="44" type="Herbarium">B</collectionCode>
+. 
+<collectorName id="7613E7AD772ABD37FCD7FC29BF8A56FD" box="[875,987,940,966]" pageId="43" pageNumber="44">Drovenik</collectorName>
+and 
+<collectionCode id="BDF71ABE772ABD37FBAAFC29B87E56FD" box="[1046,1071,940,966]" country="USA" lsid="urn:lsid:biocol.org:col:15406" name="Harvard University - Arnold Arboretum" pageId="43" pageNumber="44" type="Herbarium">A</collectionCode>
+. 
+<collectorName id="7613E7AD772ABD37FB80FC29B8D256FD" box="[1084,1155,940,966]" pageId="43" pageNumber="44">Pirnat</collectorName>
+leg. (218/2011, rev. 2017); 
+<collectionCode id="BDF71ABE772ABD37FEAEFC55BD3356D1" box="[274,354,976,1002]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+. – 
+<emphasis id="E9925E69772ABD37FE3AFC4ABD9D56D2" bold="true" box="[390,460,975,1001]" pageId="43" pageNumber="44">
+<specimenCode id="8B402A00772ABD37FE3AFC4ABD9D56D2" box="[390,460,975,1001]" collectionCode="PMSL" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">VL26</specimenCode>
+</emphasis>
+</materialsCitation>
+• 
+<materialsCitation id="6B8E8826772ABD37FE5BFC55BE485135" collectingDate="2011-10-01" collectionCode="L, T, PMSL" collectorName="Slana Novak &amp; Novak" country="Slovenia" pageId="43" pageNumber="44" specimenCount="7" specimenCount-female="4" specimenCount-male="3">
+<specimenCount id="CDE049F2772ABD37FE5BFC55BE7D56D1" box="[487,556,976,1002]" pageId="43" pageNumber="44" type="male">3 ♂♂</specimenCount>
+, 
+<specimenCount id="CDE049F2772ABD37FD86FC55BE2E56D1" box="[570,639,976,1002]" pageId="43" pageNumber="44" type="female">4 ♀♀</specimenCount>
+; Laže, Razdrto; 
+<date id="AF58A4BB772ABD37FCF9FC55BF8256D1" box="[837,979,976,1002]" pageId="43" pageNumber="44" value="2011-10-01">
+<collectingDate id="BF1C5D53772ABD37FCF9FC55BF8256D1" box="[837,979,976,1002]" pageId="43" pageNumber="44" value="2011-10-01">1 Oct. 2011</collectingDate>
+</date>
+; 
+<collectionCode id="BDF71ABE772ABD37FC5CFC55BFA456D1" box="[992,1013,976,1002]" country="Netherlands" lsid="urn:lsid:biocol.org:col:15678" name="Nationaal Herbarium Nederland, Leiden University branch" pageId="43" pageNumber="44" type="Herbarium">L</collectionCode>
+. 
+<collectorName id="7613E7AD772ABD37FBBEFC55B8CB56D1" box="[1026,1178,976,1002]" pageId="43" pageNumber="44">Slana Novak</collectorName>
+and 
+<collectionCode id="BDF71ABE772ABD37FB69FC55B8B956D1" box="[1237,1256,976,1002]" name="Tavera, Department of Geology and Geophysics" pageId="43" pageNumber="44">T</collectionCode>
+. 
+<collectorName id="7613E7AD772ABD37FB49FC55B91256D1" box="[1269,1347,976,1002]" pageId="43" pageNumber="44">Novak</collectorName>
+leg. (358/2011, rev. 2017); 
+<collectionCode id="BDF71ABE772ABD37FE75FC71BE485135" box="[457,537,1012,1038]" collectionName="Slovenia, Ljubljana, Slovenian Museum of Natural History" country="Slovenia" httpUri="http://grbio.org/cool/4mab-159w" name="Slovenian Museum of Natural History (Prirodosloveni Muzej Slovenije)" pageId="43" pageNumber="44">PMSL</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

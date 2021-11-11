@@ -1,0 +1,117 @@
+<document id="8087FCC7E9BCB17B199EE3934780AC08" ID-DOI="http://doi.org/10.5281/zenodo.4663824" ID-GBIF-Dataset="9eb1aca4-fd44-49ec-b534-1e9ae3ccadb7" ID-ISSN="2118-9773" ID-Zenodo-Dep="4663824" ID-ZooBank="9B4AFA0E-3805-405C-AB6B-4D61E1875855" _generate="added" approvalRequired="2" approvalRequired_for_treatments="2" checkinTime="1617696691494" checkinUser="plazi" docAuthor="Gong, Nian, Yang, Lin &amp; Chen, Xiang-Sheng" docDate="2021" docId="79676209FFA0FF98F711E323FD68FE6D" docLanguage="en" docName="ejt-744_38-48.pdf" docOrigin="European Journal of Taxonomy 744 (1)" docSource="http://zoobank.org/9b4afa0e-3805-405c-ab6b-4d61e1875855" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.11:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="11" docTitle="Augilina namboina Gnezdilov 2013" docType="treatment" docVersion="3" lastPageId="3" lastPageNumber="41" masterDocId="855E1A71FFA2FF9BF52EE439FFD9FFD1" masterDocTitle="First record of the genus Augilina Melichar, 1914 (Hemiptera, Fulgoromorpha, Caliscelidae) from China, with descriptions of two new bamboo-feeding species" masterLastPageNumber="48" masterPageNumber="38" pageId="2" pageNumber="40" updateTime="1617718396756" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="8A206C5B4D572DFB03F5B47B936B16AF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="847CEE900D68AE4C6C4BE3CA7391393C">
+<mods:title id="88BE5E841FA8C459F59A6E034B4CA7DA">First record of the genus Augilina Melichar, 1914 (Hemiptera, Fulgoromorpha, Caliscelidae) from China, with descriptions of two new bamboo-feeding species</mods:title>
+</mods:titleInfo>
+<mods:name id="A28C7DDA4531EE1A5A9F41B74D4FA925" type="personal">
+<mods:role id="58F643A9AA113674C8B2B6BA920DA97C">
+<mods:roleTerm id="900A90E3E6627C6C2335C108F122DA34">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="807C98A327658DA4AB7EAB5316E4769F">Gong, Nian</mods:namePart>
+<mods:nameIdentifier id="A667DC59C21D41767B973C2F9FD85E8E" type="LSID">3D0525A2-EBBC-4734-929C-710FD0DFA8A6</mods:nameIdentifier>
+<mods:affiliation id="F8F3B4A1D63C0EE78B49818ACF3F0770">Institute of Entomology, Guizhou University, the Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guiyang, Guizhou, 550025, P. R. China.</mods:affiliation>
+<mods:nameIdentifier id="26BD9FE8FBA8CDA6DFFEA55A28408F3D" type="email">gongn0921@foxmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="9EAF61541EEB5E4D9914EEBA0C32E97D" type="personal">
+<mods:role id="31AC18869D85228512BA225CCF4808B1">
+<mods:roleTerm id="68DBA80BA2C0507BAE18CEDB90F3D3D1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C3B2BA5B49FF1418E57CC478BF9EA2ED">Yang, Lin</mods:namePart>
+<mods:nameIdentifier id="8CF296BEC0A2AFEA9931A0C7B6B7058C" type="LSID">17FAF564-8FDA-4303-8848-346AB8EB7DE4</mods:nameIdentifier>
+<mods:affiliation id="44FFA354D92E83DB8BAD3E4E6EE9096F">Institute of Entomology, Guizhou University, the Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guiyang, Guizhou, 550025, P. R. China.</mods:affiliation>
+<mods:nameIdentifier id="D7AAB7B5BD2F28EB901507D6B9C09E7B" type="email">yanglin6626@163.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="EFF1E5918E686EA67F7DEE859AAFF741" type="personal">
+<mods:role id="F7DAAB638B0E2EF815C7FA73E584B705">
+<mods:roleTerm id="4B22375E25AE95A454257FA3299AC34D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DC1909F8F66D7F9E1B07879EA111A3C6">Chen, Xiang-Sheng</mods:namePart>
+<mods:nameIdentifier id="4290246AF547344CF7412455CF029DB4" type="LSID">D9953BEB-30E6-464A-86F2-F325EA2E4B7C</mods:nameIdentifier>
+<mods:affiliation id="F97D99D2A2BDA42CC22967E7167EF80F">Institute of Entomology, Guizhou University, the Provincial Special Key Laboratory for Development and Utilization of Insect Resources, Guiyang, Guizhou, 550025, P. R. China.</mods:affiliation>
+<mods:nameIdentifier id="B8FC6031DE540CB53E2F7622A55CB5AE" type="email">chenxs3218@163.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="6075C05C245986532FD5CFEEE0392B39">text</mods:typeOfResource>
+<mods:relatedItem id="F92CD287C1D0C802C79B9C38A21D41E7" type="host">
+<mods:titleInfo id="415AF83F1D6B06285D1EAA61EF6C8FAF">
+<mods:title id="4FD70325C31164B0E4A3E260275C0394">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="C7950CC62FFA26B4949671955CE5812E">
+<mods:date id="E35C5DE77D2E349BEE0810294A25C265">2021</mods:date>
+<mods:detail id="E4EAA9742B332EBBC882993632D0D156" type="pubDate">
+<mods:number id="35514C2CFE66AF5380033B3EBAFBFC7F">2021-04-06</mods:number>
+</mods:detail>
+<mods:detail id="1621F70AC065E42D3E1655ED2C0C906A" type="volume">
+<mods:number id="12F9F82F2AF00A5A27EC6DF5E4598B4D">744</mods:number>
+</mods:detail>
+<mods:detail id="803B2794A8F1BB500739E32A07BE22D7" type="issue">
+<mods:number id="D9BACC22E10B677D206DE5766359230A">1</mods:number>
+</mods:detail>
+<mods:extent id="73F5A6E10B6B9A7646415AC3D6D4F6E3" unit="page">
+<mods:start id="B9344D7CF7B307716FA4063B2E2D048E">38</mods:start>
+<mods:end id="016356748B3391282D057CBB70996E81">48</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="19CBC4A4EF19CC8E5ABFAA3BA6DF077A">
+<mods:url id="4D2A08554740A5DB4D0050C24682D348">http://zoobank.org/9b4afa0e-3805-405c-ab6b-4d61e1875855</mods:url>
+</mods:location>
+<mods:classification id="7B7BC887F847079746A9E9493AF2EC82">journal article</mods:classification>
+<mods:identifier id="C767701AB99F8C033B2FE33F5EB03CAC" type="DOI">https://doi.org/10.5852/ejt.2021.744.1297</mods:identifier>
+<mods:identifier id="DA3F07DDA3B648EB47E7CA4B0449C9A1" type="GBIF-Dataset">9eb1aca4-fd44-49ec-b534-1e9ae3ccadb7</mods:identifier>
+<mods:identifier id="1B1CCFB94128F77C52C6088241EB0310" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="981FD36E5CA0BCF68DFFB2772351BCC6" type="Zenodo-Dep">4663818</mods:identifier>
+<mods:identifier id="6B628D7BC0E0D0F940F3D7249DBFE784" type="ZooBank">9B4AFA0E-3805-405C-AB6B-4D61E1875855</mods:identifier>
+</mods:mods>
+<treatment id="79676209FFA0FF98F711E323FD68FE6D" ID-DOI="http://doi.org/10.5281/zenodo.4663824" ID-Zenodo-Dep="4663824" LSID="urn:lsid:plazi:treatment:79676209FFA0FF98F711E323FD68FE6D" httpUri="http://treatment.plazi.org/id/79676209FFA0FF98F711E323FD68FE6D" lastPageId="3" lastPageNumber="41" pageId="2" pageNumber="40">
+<subSubSection id="B9D48094FFA0FF99F711E323FC2DF8E4" box="[575,1012,1818,1845]" pageId="2" pageNumber="40" type="nomenclature">
+<paragraph id="F171D31FFFA0FF99F711E323FC2DF8E4" blockId="2.[575,1012,1818,1845]" box="[575,1012,1818,1845]" pageId="2" pageNumber="40">
+<heading id="AA396473FFA0FF99F711E323FC2DF8E4" box="[575,1012,1818,1845]" centered="true" fontSize="11" level="2" pageId="2" pageNumber="40" reason="2">
+<taxonomicName id="36CEA89CFFA0FF99F711E323FC2DF8E4" authority="Gnezdilov, 2013" authorityName="Gnezdilov" authorityYear="2013" box="[575,1012,1818,1845]" class="Insecta" family="Caliscelidae" genus="Augilina" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="40" phylum="Arthropoda" rank="species" species="namboina">
+<emphasis id="C3BA0F0DFFA0FF99F711E323FCF2F8E4" bold="true" box="[575,811,1818,1845]" italics="true" pageId="2" pageNumber="40">Augilina namboina</emphasis>
+Gnezdilov, 2013
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B9D48094FFA0FF99F593E364FBD6F8A9" box="[189,1039,1885,1912]" pageId="2" pageNumber="40" type="reference_group">
+<paragraph id="F171D31FFFA0FF99F593E364FBD6F8A9" blockId="2.[189,1039,1885,1912]" box="[189,1039,1885,1912]" pageId="2" pageNumber="40">
+<treatmentCitationGroup id="D1DEF431FFA0FF99F593E364FBD6F8A9" box="[189,1039,1885,1912]" pageId="2" pageNumber="40">
+<treatmentCitation id="706FF50EFFA0FF99F593E364FD36F8A9" author="Gnezdilov V. M." box="[189,751,1885,1912]" page="175" pageId="2" pageNumber="40" year="2013">
+<taxonomicName id="36CEA89CFFA0FF99F593E364FD36F8A9" authority="GnezDilov, 2013 b: 172 - 175" authorityName="Gnezdilov" authorityPageNumber="172 - 175" authorityYear="2013" box="[189,751,1885,1912]" class="Insecta" family="Caliscelidae" genus="Augilina" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="40" phylum="Arthropoda" rank="species" species="namboina">
+<emphasis id="C3BA0F0DFFA0FF99F593E364FE47F8A6" box="[189,414,1885,1911]" italics="true" pageId="2" pageNumber="40">Augilina namboina</emphasis>
+<bibRefCitation id="955FAEEEFFA0FF99F488E364FD36F8A9" author="Gnezdilov V. M." box="[422,751,1885,1912]" pageId="2" pageNumber="40" pagination="171 - 177" refId="ref4290" refString="Gnezdilov V. M. 2013 b. A new species of the genus Augilina Melichar (Hemiptera, Fulgoroidea, Caliscelidae) from Southern Vietnam. Deutsche Entomologische Zeitschrift 60 (2): 171 - 177." type="journal article" year="2013">GnezDilov, 2013b: 172–175</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+, figs 3–7, 11–12, 15–17.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B9D48094FFA0FF99F593E3A6FD5EF838" box="[189,647,1951,2025]" pageId="2" pageNumber="40" type="distribution">
+<paragraph id="F171D31FFFA0FF99F593E3A6FE8FF868" blockId="2.[189,342,1951,1977]" box="[189,342,1951,1977]" pageId="2" pageNumber="40">
+<heading id="AA396473FFA0FF99F593E3A6FE8FF868" bold="true" box="[189,342,1951,1977]" fontSize="11" level="3" pageId="2" pageNumber="40" reason="3">
+<emphasis id="C3BA0F0DFFA0FF99F593E3A6FE8FF868" bold="true" box="[189,342,1951,1977]" pageId="2" pageNumber="40">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F171D31FFFA0FF99F593E3F7FD5EF838" blockId="2.[189,647,1998,2025]" box="[189,647,1998,2025]" pageId="2" pageNumber="40">
+<collectingCountry id="89D9938FFFA0FF99F593E3F7FEFAF839" box="[189,291,1998,2024]" name="Vietnam" pageId="2" pageNumber="40">Vietnam</collectingCountry>
+, 
+<collectingRegion id="330A1DFDFFA0FF99F401E3F6FDC8F839" box="[303,529,1998,2025]" country="Vietnam" name="Dong Nai" pageId="2" pageNumber="40">Dong Nai Province</collectingRegion>
+(
+<figureCitation id="69F5CF9AFFA0FF99F70FE3F7FDA0F838" box="[545,633,1998,2025]" captionStart="Fig" captionStartId="8.[189,232,1903,1929]" captionTargetBox="[197,1265,1144,1831]" captionTargetId="figure-209@8.[189,1398,1087,1847]" captionTargetPageId="8" captionText="Fig. 35. Geographic distributions of species of Augilina Melichar, 1914." figureDoi="http://doi.org/10.5281/zenodo.4663835" httpUri="https://zenodo.org/record/4663835/files/figure.png" pageId="2" pageNumber="40">Fig. 35</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="B9D48094FFA1FF98F593E530FD68FE6D" pageId="3" pageNumber="41" type="discussion">
+<paragraph id="F171D31FFFA1FF98F593E530FEF6FEF2" blockId="3.[189,303,265,291]" box="[189,303,265,291]" pageId="3" pageNumber="41">
+<heading id="AA396473FFA1FF98F593E530FEF6FEF2" bold="true" box="[189,303,265,291]" fontSize="11" level="3" pageId="3" pageNumber="41" reason="3">
+<emphasis id="C3BA0F0DFFA1FF98F593E530FEF6FEF2" bold="true" box="[189,303,265,291]" pageId="3" pageNumber="41">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="F171D31FFFA1FF98F593E501FD68FE6D" blockId="3.[187,1399,311,444]" pageId="3" pageNumber="41">
+BaseD on the Description anD the figures by 
+<bibRefCitation id="955FAEEEFFA1FF98F7EBE50EFC7EFE83" author="Gnezdilov V. M." box="[709,935,311,338]" pageId="3" pageNumber="41" pagination="171 - 177" refId="ref4290" refString="Gnezdilov V. M. 2013 b. A new species of the genus Augilina Melichar (Hemiptera, Fulgoroidea, Caliscelidae) from Southern Vietnam. Deutsche Entomologische Zeitschrift 60 (2): 171 - 177." type="journal article" year="2013">GnezDilov (2013b)</bibRefCitation>
+, this species can be DistinguisheD from the other species of the genus by the following characters: body mainly light brown; pro- and mesonotum light green yellowish, with median red stripe framed by two black stripes; pygofer in lateral view, with posterior margin sinuated without process.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

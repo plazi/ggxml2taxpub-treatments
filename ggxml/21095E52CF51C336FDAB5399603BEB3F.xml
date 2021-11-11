@@ -1,0 +1,195 @@
+<document id="DEF8B6DE6AB5FAC77E17026D72EFCDC8" ID-DOI="http://doi.org/10.5281/zenodo.5560045" ID-GBIF-Dataset="003a15e3-4b3f-423c-b40b-7f08fa1b1a75" ID-ISSN="2118-9773" ID-Zenodo-Dep="5560045" ID-ZooBank="33F92DB8-3122-4F8E-995B-DBF260B3E390" _generate="added" checkinTime="1632918411877" checkinUser="felipe" docAuthor="Tarnac, Anaëlle, Forel, Marie-Béatrice, Nestell, Galina, Nestell, Merlynd &amp; Crasquin, Sylvie" docDate="2021" docId="21095E52CF51C336FDAB5399603BEB3F" docLanguage="en" docName="ejt-770_1-60.pdf" docOrigin="European Journal of Taxonomy 770" docSource="http://dx.doi.org/10.5852/ejt.2021.770.1499" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Microcheilinella undetermined" docType="treatment" docVersion="9" lastPageNumber="44" masterDocId="DD30262ACF7AC31DFFA452106150EF4B" masterDocTitle="Middle Permian ostracods (Crustacea) from the Guadalupe Mountains, West Texas, USA" masterLastPageNumber="60" masterPageNumber="1" pageId="43" pageNumber="44" updateTime="1634322037974" updateUser="admin" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="C2D62B316A4976B7D6A58B7134446379" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A6F837987F05EA876BBA59F3137ACB40">
+<mods:title id="87EACC22D4F62D10C924D5535CCE397B">Middle Permian ostracods (Crustacea) from the Guadalupe Mountains, West Texas, USA</mods:title>
+</mods:titleInfo>
+<mods:name id="DE935143B9C5642780ADF6E22E97C616" type="personal">
+<mods:role id="C3292F51E8EDCEA3A82989ABD4F7B9F0">
+<mods:roleTerm id="B01ADEB656DE2FC447F27DF8E7C37D7B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="255B5F3D33077793DE02879639B79697">Tarnac, Anaëlle</mods:namePart>
+<mods:nameIdentifier id="23C1CCD49E3CCC050C55B0A727796A2E" type="LSID">D9FF2E72-B3F0-4EC7-ADC2-3F04D27E7E1E</mods:nameIdentifier>
+<mods:affiliation id="99332BF99B8196FFF064C6AF22A266EA">Centre de Recherches en Paléontologie - Paris, MNHN - SU - CNRS, 8 rue Buffon, 75005 Paris, France.</mods:affiliation>
+<mods:nameIdentifier id="E28645346C1B2BCE0D6AC8C4562DA288" type="email">tarnac.anaelle@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="19E65138E3BAAC2F7F62D2E657B8A69E" type="personal">
+<mods:role id="1BA5513653C27A0C6D01363A8394F8DB">
+<mods:roleTerm id="BBE9889C11E654ADD9DBE2483550C919">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4E1C2E6595E7F4394E65BDF78680E046">Forel, Marie-Béatrice</mods:namePart>
+<mods:nameIdentifier id="BF86F4960C1F7BE116396593704FA86F" type="LSID">063C1F7E-6D26-48F9-A8B1-2AFA496B5FB8</mods:nameIdentifier>
+<mods:affiliation id="1BE9F6A9537555F7273E1E5529FAB50D">Centre de Recherches en Paléontologie - Paris, MNHN - SU - CNRS, 8 rue Buffon, 75005 Paris, France.</mods:affiliation>
+<mods:nameIdentifier id="C0F505AD7C0BCE9C9C65B456DE6BA24D" type="email">marie-beatrice.forel@mnhn.fr</mods:nameIdentifier>
+</mods:name>
+<mods:name id="5EE57AB218F7FB95E7DC4CBB6F29DC6A" type="personal">
+<mods:role id="A4C19DCCCB2B7C69ABC79CD976E6926E">
+<mods:roleTerm id="33B16C52D85C399D878050B5B969AD57">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BA0B583F2F29F93A4E8C091537ED9C82">Nestell, Galina</mods:namePart>
+<mods:nameIdentifier id="717FDF01DD79A6E405E0BEF165AB72D8" type="LSID">4343960A-89AF-47A7-8418-6B715A7ED791</mods:nameIdentifier>
+<mods:affiliation id="CFB02B87DC1E5207A842BAE998A0A696">Department of Earth and Environmental Sciences, University of Texas at Arlington, Arlington, TX 76019, USA.</mods:affiliation>
+<mods:nameIdentifier id="B4408A9D8870F3033CC18E7CA3C63C3D" type="email">gnestell@uta.edu</mods:nameIdentifier>
+</mods:name>
+<mods:name id="2939E13762584EA9E9D63E0A7B330EF3" type="personal">
+<mods:role id="26C9F2F5C24D0FC9A734BBE89C12FC66">
+<mods:roleTerm id="4FDC025ADB20FEA8B298735446588782">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4F735AFF1164C03B382CF9B669E41EFF">Nestell, Merlynd</mods:namePart>
+<mods:nameIdentifier id="ADD63185A8C4E36A4AD6C1DE595AD7A2" type="LSID">544B3992-191B-4427-B1F7-7A19A9CBCB63</mods:nameIdentifier>
+<mods:affiliation id="24002C8D9A8000551F1DDD08FFB57834">Department of Earth and Environmental Sciences, University of Texas at Arlington, Arlington, TX 76019, USA.</mods:affiliation>
+<mods:nameIdentifier id="E2A5D5C5887086ACD2DDD8140001D600" type="email">nestell@uta.edu</mods:nameIdentifier>
+</mods:name>
+<mods:name id="A40F66596F6B7B6A6A36D72D3B7070EB" type="personal">
+<mods:role id="A7C05E84A6DD39901AC1DDE5DBEA0AEA">
+<mods:roleTerm id="F9594DFA97CC8597814155BABB587371">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B3BCE7FB5C471EB8E3EDBE8966C8C61C">Crasquin, Sylvie</mods:namePart>
+<mods:nameIdentifier id="0884B596DD033BD4E7FADC613FBDE429" type="LSID">6FDDD550-8522-404D-B3A2-D30BFAA86927</mods:nameIdentifier>
+<mods:affiliation id="B55C9B4800F0AC96D7ADEFB846908E0C">Centre de Recherches en Paléontologie - Paris, MNHN - SU - CNRS, 8 rue Buffon, 75005 Paris, France.</mods:affiliation>
+<mods:nameIdentifier id="66DEC44DC52A4C63097CBCF32344AF31" type="email">sylvie.crasquin@mnhn.fr</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="F713577BC406431C50A67262D29EB4AF">text</mods:typeOfResource>
+<mods:relatedItem id="B393313771A5E8CB0929512F80BF7709" type="host">
+<mods:titleInfo id="E6E995D0A876CB4BE0D69244C293643C">
+<mods:title id="C3BB63DDA8CF979E1B229CEDC22404B4">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="57775F9829469101FEDE16C7EE1CD0EC">
+<mods:date id="04A7A43B41AB00F5DD445CDF3BA6BAD1">2021</mods:date>
+<mods:detail id="6901C4CA9F3643F96EFB172A4AE564B0" type="pubDate">
+<mods:number id="815B1565884283D47137C0604B1FF739">2021-09-22</mods:number>
+</mods:detail>
+<mods:detail id="B0C26E5EA6DD145E75645D4097B7B66E" type="volume">
+<mods:number id="2C40D4D378973922674A70651771D60C">770</mods:number>
+</mods:detail>
+<mods:extent id="FDFF8B431AAD90D69597413C5F8224AE" unit="page">
+<mods:start id="2C034755CC05D5CC16D9E3DBB475F44A">1</mods:start>
+<mods:end id="CFF2B068829CBB1977D5BA2E85A28F4A">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="BAFF54827105BD935A725713BDE54D57">
+<mods:url id="CBAF191F367D99C8648E15C8FECD0A99">http://dx.doi.org/10.5852/ejt.2021.770.1499</mods:url>
+</mods:location>
+<mods:classification id="A296DF35B8B9CA1A24FF009C3248F90A">journal article</mods:classification>
+<mods:identifier id="3FE88839DCF49BBAA2CF168DF27BC396" type="DOI">https://doi.org/10.5852/ejt.2021.770.1499</mods:identifier>
+<mods:identifier id="DD5A1A60C009552FC39F6FFC9D7B24AE" type="GBIF-Dataset">003a15e3-4b3f-423c-b40b-7f08fa1b1a75</mods:identifier>
+<mods:identifier id="793D838CFC133FF9E8AFB005E0A7FF81" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="D2C539A41CA703B09E0B66D45B819683" type="Zenodo-Dep">5536263</mods:identifier>
+<mods:identifier id="E8FB03D91F293CE975E2CE9B8A27207D" type="ZooBank">33F92DB8-3122-4F8E-995B-DBF260B3E390</mods:identifier>
+</mods:mods>
+<treatment id="21095E52CF51C336FDAB5399603BEB3F" ID-DOI="http://doi.org/10.5281/zenodo.5560045" ID-Zenodo-Dep="5560045" LSID="urn:lsid:plazi:treatment:21095E52CF51C336FDAB5399603BEB3F" httpUri="http://treatment.plazi.org/id/21095E52CF51C336FDAB5399603BEB3F" lastPageNumber="44" pageId="43" pageNumber="44">
+<subSubSection id="E1BABCCFCF51C336FDAB5399621FEE82" pageId="43" pageNumber="44" type="nomenclature">
+<paragraph id="A91FEF44CF51C336FDAB53996575EEEF" blockId="43.[527,1061,393,457]" box="[527,1061,393,420]" pageId="43" pageNumber="44">
+<heading id="F2575828CF51C336FDAB53996575EEEF" box="[527,1061,393,420]" centered="true" fontSize="11" level="2" pageId="43" pageNumber="44" reason="2">
+<taxonomicName id="6EA094C7CF51C336FDAB53996250EEEF" authority="Zazzali et al. 2015" box="[527,768,393,420]" class="Ostracoda" family="Pachydomellidae" genus="Microcheilinella" kingdom="Animalia" order="Podocopida" pageId="43" pageNumber="44" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="9BD43356CF51C336FDAB53996387EEEF" bold="true" box="[527,727,393,420]" italics="true" pageId="43" pageNumber="44">Microcheilinella</emphasis>
+sp.
+</taxonomicName>
+<quantity id="6E5842A1CF51C336FCA353996213EEE8" box="[775,835,393,420]" metricMagnitude="-1" metricUnit="m" metricValue="3.81" pageId="43" pageNumber="44" unit="in" value="15.0">15 in</quantity>
+<bibRefCitation id="CD3192B5CF51C336FCEE53996575EEEF" author="Zazzali S. &amp; Crasquin S. &amp; Deconinck J. F. &amp; Feng Q. L." box="[842,1061,393,420]" pageId="43" pageNumber="44" pagination="283 - 313" refId="ref30100" refString="Zazzali S., Crasquin S., Deconinck J. F. &amp; Feng Q. L. 2015. Biodiversity across the Guadalupian - Lopingian Boundary: first results on the ostracod (Crustacea) fauna, Chaotian section (Sichuan Province, South China). Geodiversitas 37 (3): 283 - 313. https: // doi. org / 10.5252 / g 2015 n 3 a 1" type="journal article" year="2015">
+Zazzali 
+<emphasis id="9BD43356CF51C336FC0C539A628BEEE8" box="[936,987,393,419]" italics="true" pageId="43" pageNumber="44">et al</emphasis>
+. 2015
+</bibRefCitation>
+</heading>
+</paragraph>
+<paragraph id="A91FEF44CF51C336FD4053BF621FEE82" blockId="43.[527,1061,393,457]" box="[740,847,431,457]" pageId="43" pageNumber="44">
+<figureCitation id="319BF3C1CF51C336FD4053BF621FEE82" box="[740,847,431,457]" captionStart="Fig" captionStartId="41.[188,231,1189,1215]" captionTargetBox="[189,1399,398,1885]" captionTargetId="figure-14@42.[189,1399,398,1885]" captionTargetPageId="42" captionText="Fig. 11 (next page). SEM micrographs of ostracods from the Middle Permian (Roadian, Quarry section, samples GM1, GM2 and GM4; Capitanian, MKCS1 section, samples 4 (GM5) and 2 (GM6)) of the Guadalupe Mountains (West Texas, USA), except R and S from the late Capitanian, Middle Permian, Penglaitan section, Guangxi, South China (Zazzali 2016, unpublished PhD thesis). All specimens from A–Q are temporarily housed in the collections of the Muséum national d’histoire naturelle, Paris, France (MNHN), specimens R and S are housed in the collections of the Sorbonne University, Paris, France. A–B. Ceratobairdia cf. ventrocostata Wang, 1978. A. External view of a left valve, sample 4 (GM5) (MNHN.F.F63454). B. External view of a left valve, sample 2 (GM6) (MNHN.F.F63455). – C–G. Ceratobairdia pratti Forel sp. nov. C. Holotype, right lateral view of a carapace, sample GM1 (MNHN.F.F63456). D. Paratype, external view of a left valve, sample GM1 (MNHN.F.F63457). E. External view of a left valve, sample GM1 (MNHN.F.F63458). F. External view of a left valve, sample GM1 (MNHN.F.F63459). G. External view of a left valve, sample GM1 (MNHN.F.F63460). – H–I. Petasobairdia campbelli Chitnarin in Chitnarin et al., 2017. H. External view of a left valve, sample GM2 (MNHN.F.F63461). I. External view of a left valve, sample GM4 (MNHN.F.F63462). – J. Petasobairdia cf. bicornuta Chen in Chen &amp; Shi, 1982, right lateral view of a carapace, sample 4 (GM5) (MNHN.F.F63463). – K. Petasobairdia? sp., external view of a right valve, sample 4 (GM5) (MNHN.F.F63464). – L. Microcheilinella postspinosa Chen, 1958, right lateral view of a carapace, sample 2 (GM6) (MNHN.F.F63465). – M. Microcheilinella sp. 15 in Zazzali et al. (2015), right lateral view of a carapace, sample 4 (GM5) (MNHN.F.F63466). – N–O. Microcheilinella sp. N. Right lateral view of a carapace, sample 2 (GM6) (MNHN.F.F63467). O. Right lateral view of a carapace, sample 4 (GM5) (MNHN.F.F63468). – P–Q. Denticupachydomella bellcanyonensis Forel sp. nov. P. Holotype, right lateral view of a carapace, sample 4 (GM5) (MNHN.F.F63469). Q. Paratype, external left of a right valve, sample 2 (GM6) (MNHN.F.F63470). – R–S. Microcheilinella sp. D in Zazzali (2016). R. Dorsal view of a carapace (P6M 3778). S. Right lateral view of a carapace (P6M 3779). Scale bars: 100 µm." figureDoi="http://doi.org/10.5281/zenodo.5550834" httpUri="https://zenodo.org/record/5550834/files/figure.png" pageId="43" pageNumber="44">Fig. 11M</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="E1BABCCFCF51C336FF1953E3626DED46" box="[189,829,499,526]" pageId="43" pageNumber="44" type="description">
+<paragraph id="A91FEF44CF51C336FF1953E3626DED46" blockId="43.[189,829,499,526]" box="[189,829,499,526]" pageId="43" pageNumber="44">
+<taxonomicName id="6EA094C7CF51C336FF1953E360F8ED46" box="[189,424,499,525]" class="Ostracoda" family="Pachydomellidae" genus="Microcheilinella" kingdom="Animalia" order="Podocopida" pageId="43" pageNumber="44" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="9BD43356CF51C336FF1953E3602FED46" box="[189,383,499,525]" italics="true" pageId="43" pageNumber="44">Microcheilinella</emphasis>
+sp.
+</taxonomicName>
+15 – 
+<bibRefCitation id="CD3192B5CF51C336FE4E53E36399ED45" author="Zazzali S. &amp; Crasquin S. &amp; Deconinck J. F. &amp; Feng Q. L." box="[490,713,499,526]" pageId="43" pageNumber="44" pagination="283 - 313" refId="ref30100" refString="Zazzali S., Crasquin S., Deconinck J. F. &amp; Feng Q. L. 2015. Biodiversity across the Guadalupian - Lopingian Boundary: first results on the ostracod (Crustacea) fauna, Chaotian section (Sichuan Province, South China). Geodiversitas 37 (3): 283 - 313. https: // doi. org / 10.5252 / g 2015 n 3 a 1" type="journal article" year="2015">
+Zazzali 
+<emphasis id="9BD43356CF51C336FDEC53E4632BED46" box="[584,635,499,525]" italics="true" pageId="43" pageNumber="44">et al</emphasis>
+. 2015
+</bibRefCitation>
+: fig. 
+<specimenCount id="BFA624CDCF51C336FCA653E3626DED46" box="[770,829,499,525]" pageId="43" pageNumber="44" type="generic">
+<quantity id="6E5842A1CF51C336FCA653E36269ED46" box="[770,825,499,525]" metricMagnitude="1" metricUnit="m" metricValue="1.2" pageId="43" pageNumber="44" unit="m" value="12.0">12m</quantity>
+.
+</specimenCount>
+</paragraph>
+</subSubSection>
+<subSubSection id="E1BABCCFCF51C336FF1950276552ECFF" pageId="43" pageNumber="44" type="materials_examined">
+<paragraph id="A91FEF44CF51C336FF19502760FAED1A" blockId="43.[189,426,567,593]" box="[189,426,567,593]" pageId="43" pageNumber="44">
+<heading id="F2575828CF51C336FF19502760FAED1A" bold="true" box="[189,426,567,593]" fontSize="11" level="3" pageId="43" pageNumber="44" reason="3">
+<emphasis id="9BD43356CF51C336FF19502760FAED1A" bold="true" box="[189,426,567,593]" pageId="43" pageNumber="44">Material examined</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A91FEF44CF51C336FF19507863A0EDB8" blockId="43.[189,1399,616,755]" pageId="43" pageNumber="44">
+<materialsCitation id="19C8E519CF51C336FF1950786426EDE3" accessionNumber="F63466" collectionCode="MNHN" country="United States of America" county="Middle Permian" location="Guadalupe Mountains" municipality="Capitanian" pageId="43" pageNumber="44" specimenCode="MNHN.F.F63466" specimenCount="1">
+<collectingCountry id="D1B7AFD4CF51C336FF19507861A6EDC9" box="[189,246,616,642]" name="United States of America" pageId="43" pageNumber="44">USA</collectingCountry>
+• 
+<specimenCount id="BFA624CDCF51C336FEB15078635BEDC9" box="[277,523,616,642]" pageId="43" pageNumber="44">1 complete carapace</specimenCount>
+; 
+<location id="AC7FB99FCF51C336FDB950786277EDC9" LSID="urn:lsid:plazi:treatment:21095E52CF51C336FDAB5399603BEB3F:AC7FB99FCF51C336FDB950786277EDC9" box="[541,807,616,642]" country="United States of America" county="Middle Permian" municipality="Capitanian" name="Guadalupe Mountains" pageId="43" pageNumber="44">Guadalupe Mountains</location>
+, 
+<locationDeviation id="B8ADF666CF51C336FC91507862EFEDC9" box="[821,959,616,642]" pageId="43" pageNumber="44">West Texas</locationDeviation>
+, ‘ 
+<location id="AC7FB99FCF51C336FC7650786467EDC9" LSID="urn:lsid:plazi:treatment:21095E52CF51C336FDAB5399603BEB3F:AC7FB99FCF51C336FC7650786467EDC9" box="[978,1335,616,642]" country="United States of America" county="Middle Permian" municipality="Capitanian" name="McKittrick Canyon' Member" pageId="43" pageNumber="44">McKittrick Canyon’ Member</location>
+, 
+<location id="AC7FB99FCF51C336FAE2507860CDEDE3" LSID="urn:lsid:plazi:treatment:21095E52CF51C336FDAB5399603BEB3F:AC7FB99FCF51C336FAE2507860CDEDE3" country="United States of America" county="Middle Permian" municipality="Capitanian" name="Bell Canyon Formation" pageId="43" pageNumber="44">Bell Canyon Formation</location>
+, MKCS1 section, sample 4 (GM5); 
+<geologicalTimeScale id="DB806FEFCF51C336FCED509E629BEDE3" box="[841,971,654,680]" pageId="43" pageNumber="44">Capitanian</geologicalTimeScale>
+, 
+<geologicalTimeScale id="DB806FEFCF51C336FC7C509E65CBEDE3" box="[984,1179,654,680]" pageId="43" pageNumber="44">Middle Permian</geologicalTimeScale>
+; 
+<specimenCode id="F906473FCF51C336FB03509E6426EDE3" box="[1191,1398,654,680]" pageId="43" pageNumber="44">MNHN.F.F63466</specimenCode>
+</materialsCitation>
+• 
+<materialsCitation id="19C8E519CF51C336FF6B50A463BCEDB8" accessionNumber="F63471" collectionCode="MNHN" country="United States of America" county="Middle Permian" location="Capitanian" municipality="Middle Permian" pageId="43" pageNumber="44" specimenCode="MNHN.F.F63471" specimenCount="4">
+<specimenCount id="BFA624CDCF51C336FF6B50A46092ED85" box="[207,450,691,718]" pageId="43" pageNumber="44">1 complete carapace</specimenCount>
+, 
+<specimenCount id="BFA624CDCF51C336FE6950A4630CED86" box="[461,604,691,718]" pageId="43" pageNumber="44">3 left valves</specimenCount>
+; same locality as for preceding but samples 4 (GM5) and 2 (GM6); 
+<geologicalTimeScale id="DB806FEFCF51C336FF1950C9606FEDB8" box="[189,319,729,755]" pageId="43" pageNumber="44">Capitanian</geologicalTimeScale>
+, 
+<geologicalTimeScale id="DB806FEFCF51C336FEEF50C9635DEDB8" box="[331,525,729,755]" pageId="43" pageNumber="44">Middle Permian</geologicalTimeScale>
+; 
+<specimenCode id="F906473FCF51C336FDBC50C963BCEDB8" box="[536,748,729,755]" pageId="43" pageNumber="44">MNHN.F.F63471</specimenCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="A91FEF44CF51C336FF19510D601FEC7C" blockId="43.[189,335,797,823]" box="[189,335,797,823]" pageId="43" pageNumber="44">
+<heading id="F2575828CF51C336FF19510D601FEC7C" bold="true" box="[189,335,797,823]" fontSize="11" level="3" pageId="43" pageNumber="44" reason="3">
+<emphasis id="9BD43356CF51C336FF19510D601FEC7C" bold="true" box="[189,335,797,823]" pageId="43" pageNumber="44">Occurrence</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A91FEF44CF51C336FF19515E6552ECFF" blockId="43.[188,1398,846,948]" pageId="43" pageNumber="44">
+Chaotian section, 
+<collectingRegion id="6B6421A6CF51C336FE2A515E60BFEC23" box="[398,495,846,872]" country="China" name="Sichuan" pageId="43" pageNumber="44">Sichuan</collectingRegion>
+, 
+<collectingCountry id="D1B7AFD4CF51C336FE5F515E6314EC23" box="[507,580,846,872]" name="China" pageId="43" pageNumber="44">China</collectingCountry>
+, Wuchiapingian, Late Permian (
+<bibRefCitation id="CD3192B5CF51C336FC1D515E65C6EC22" author="Zazzali S. &amp; Crasquin S. &amp; Deconinck J. F. &amp; Feng Q. L." box="[953,1174,846,873]" pageId="43" pageNumber="44" pagination="283 - 313" refId="ref30100" refString="Zazzali S., Crasquin S., Deconinck J. F. &amp; Feng Q. L. 2015. Biodiversity across the Guadalupian - Lopingian Boundary: first results on the ostracod (Crustacea) fauna, Chaotian section (Sichuan Province, South China). Geodiversitas 37 (3): 283 - 313. https: // doi. org / 10.5252 / g 2015 n 3 a 1" type="journal article" year="2015">
+Zazzali 
+<emphasis id="9BD43356CF51C336FBB3515F6501EC23" box="[1047,1105,846,872]" italics="true" pageId="43" pageNumber="44">et al.</emphasis>
+2015
+</bibRefCitation>
+); samples 4 (GM5) and 2 (GM6), 
+<collectionCode id="CFB17781CF51C336FED75164609CECC5" box="[371,460,884,910]" pageId="43" pageNumber="44">MKCS</collectionCode>
+1 section, ‘McKittrick Canyon’ Member, Bell Canyon Formation, 
+<collectingCountry id="D1B7AFD4CF51C336FB5351646426ECC5" box="[1271,1398,884,910]" name="Guadeloupe" pageId="43" pageNumber="44">Guadalupe</collectingCountry>
+Mountains, West 
+<collectingRegion id="6B6421A6CF51C336FE2D518A6080ECFF" box="[393,464,922,948]" country="United States of America" name="Texas" pageId="43" pageNumber="44">Texas</collectingRegion>
+, 
+<collectingCountry id="D1B7AFD4CF51C336FE78518A634AECFF" box="[476,538,922,948]" name="United States of America" pageId="43" pageNumber="44">USA</collectingCountry>
+, Capitanian, Middle Permian (this work).
+</paragraph>
+</subSubSection>
+<subSubSection id="E1BABCCFCF51C336FF1951CE603BEB3F" pageId="43" pageNumber="44" type="discussion">
+<paragraph id="A91FEF44CF51C336FF1951CE607FECB3" blockId="43.[189,303,990,1016]" box="[189,303,990,1016]" pageId="43" pageNumber="44">
+<heading id="F2575828CF51C336FF1951CE607FECB3" bold="true" box="[189,303,990,1016]" fontSize="11" level="3" pageId="43" pageNumber="44" reason="3">
+<emphasis id="9BD43356CF51C336FF1951CE607FECB3" bold="true" box="[189,303,990,1016]" pageId="43" pageNumber="44">Remarks</emphasis>
+</heading>
+</paragraph>
+<paragraph id="A91FEF44CF51C336FF19561E603BEB3F" blockId="43.[189,1399,1038,1140]" pageId="43" pageNumber="44">The carapace of this species is subtriangular in lateral view, with large AB and strong overlap of LV on RV, hemi-circular furrows are visible on the medio-anterior and medio-posterior parts of the carapace in both valves.</paragraph>
+</subSubSection>
+</treatment>
+</document>

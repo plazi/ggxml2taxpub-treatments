@@ -1,0 +1,558 @@
+<document id="348DDCD714571F9686702D18F51E554F" ID-DOI="http://doi.org/10.5281/zenodo.4557196" ID-GBIF-Dataset="8ab5fd07-c866-4c5a-aee3-e5c6f3e18f8d" ID-ISSN="2118-9773" ID-Zenodo-Dep="4557196" ID-ZooBank="8ACB969A-DE45-451C-A8CB-27E4A82788CD" LSID="urn:lsid:zoobank.org:act:34420075-5F02-4DD6-A1D7-50B7D6E23429" _generate="added" checkinTime="1614065461391" checkinUser="plazi" docAuthor="Podeniene, Virginija, Podenas, Sigitas, Park, Sun-Jae, Kim, A-Young, Kim, Jung A &amp; Gelhaus, Jon K." docDate="2021" docId="EE2D1801FF95FFECFD85FCF9E05BFD08" docLanguage="en" docName="ejt-735_110-132.pdf" docOrigin="European Journal of Taxonomy 735" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.11:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="11" docTitle="Elliptera Schiner 1863" docType="key" docVersion="4" lastPageId="5" lastPageNumber="116" masterDocId="12146079FF91FFE9FFE2FFD0E52CFFE7" masterDocTitle="Review of East Palaearctic Elliptera (Diptera, Limoniidae) immatures with description of a new species" masterLastPageNumber="132" masterPageNumber="110" pageId="4" pageNumber="114" updateTime="1618840416038" updateUser="felipe" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="D5578F37819515D4FD4FCC2D91741AA1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="44B6EE41B164C82819B4CBBFF95EB450">
+<mods:title id="40805C36D8BDD70B7AA52AA1D9209A93">Review of East Palaearctic Elliptera (Diptera, Limoniidae) immatures with description of a new species</mods:title>
+</mods:titleInfo>
+<mods:name id="5F8C775B813CDD04A25716B1941B9525" type="personal">
+<mods:role id="521B10D86AC5702783ED03BB1027A5E8">
+<mods:roleTerm id="2903494472B2B067E7CFD9E1965DC92F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B1880679186C2005541C11246562B909">Podeniene, Virginija</mods:namePart>
+<mods:nameIdentifier id="35B6DF93D7F2CF7AC28358526FBAC782" type="LSID">8358C64F-59CA-40AF-BEF7-E35323050062</mods:nameIdentifier>
+<mods:affiliation id="C2297706BEAEA95683D895E32653D5DD">Life Sciences Centre of Vilnius University, Sauletekio str. 7 LT- 10222 Vilnius, Lithuania. Nature Research Centre, Akademijos str. 2, LT- 10257 Vilnius, Lithuania. Animal Resources Division, National Institute of Biological Resources, Incheon 22689, Republic of Korea. Academy of Natural Sciences of Drexel University, B. Franklin Parkway 1900, Philadelphia, USA.</mods:affiliation>
+<mods:nameIdentifier id="1FC14DD890590813A91EDFC35FC3C8FA" type="email">virginija.podeniene@gf.vu.lt</mods:nameIdentifier>
+</mods:name>
+<mods:name id="32A74675E709AD4739D8CFEF4A76642F" type="personal">
+<mods:role id="906890C5C01BC2957E73AAFC68201EC1">
+<mods:roleTerm id="593FE486C0C2A8C3231587A79F44E537">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="648931F9899A1CC1BB8CD5B6C082981C">Podenas, Sigitas</mods:namePart>
+<mods:nameIdentifier id="577BBC31496B828BBA085D1ACA336139" type="LSID">8358C64F-59CA-40AF-BEF7-E35323050062&amp;5A181815-1B96-42D2-9D99-746B883EF074</mods:nameIdentifier>
+<mods:affiliation id="54F584098B851A7CDC81D372C4C35A86">Life Sciences Centre of Vilnius University, Sauletekio str. 7 LT- 10222 Vilnius, Lithuania. Nature Research Centre, Akademijos str. 2, LT- 10257 Vilnius, Lithuania. Animal Resources Division, National Institute of Biological Resources, Incheon 22689, Republic of Korea. Academy of Natural Sciences of Drexel University, B. Franklin Parkway 1900, Philadelphia, USA.</mods:affiliation>
+<mods:nameIdentifier id="27C655474416618EF4632358116FB30E" type="email">sigitas.podenas@gamtc.lt</mods:nameIdentifier>
+</mods:name>
+<mods:name id="66E45B51A75FFCA4A388843BBDAA6913" type="personal">
+<mods:role id="882B0DC65E333C08C0075505962418B7">
+<mods:roleTerm id="BFD438C0456095CE1DF9BBDD9509029B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6B2EDF7B955353392F7C192800B9C215">Park, Sun-Jae</mods:namePart>
+<mods:nameIdentifier id="E1671BB1203429C87A27A92E790667D2" type="LSID">7B9F65DF-607B-43C2-B1D5-B83EEE016651</mods:nameIdentifier>
+<mods:affiliation id="44804717D0838DC2C87BC3C0B94AF943">Animal Resources Division, National Institute of Biological Resources, Incheon 22689, Republic of Korea.</mods:affiliation>
+<mods:nameIdentifier id="3E3CEF844F913041398C5A08904DA245" type="email">sun1763@korea.kr</mods:nameIdentifier>
+</mods:name>
+<mods:name id="8F62C1D140A166617244C7F8B1B57650" type="personal">
+<mods:role id="BF4DCA7110B10A41B4BAF1570271C981">
+<mods:roleTerm id="7AABD664E1B9DDBD4FDA2A23AB10BE88">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A4B312078FF47F07F8A0152E713F3176">Kim, A-Young</mods:namePart>
+<mods:nameIdentifier id="6BF88E974B45A5A10BCB31CCE011B246" type="LSID">810D7A7C-1BFA-403C-89A8-2F3AD414E142</mods:nameIdentifier>
+<mods:affiliation id="A64D2AD8B064928A384535AEEB670FD5">Animal Resources Division, National Institute of Biological Resources, Incheon 22689, Republic of Korea.</mods:affiliation>
+<mods:nameIdentifier id="BA291613A01378F86F572D21D23FD59B" type="email">ayscarab@korea.kr</mods:nameIdentifier>
+</mods:name>
+<mods:name id="C0AFC80191BA0928CB0B19F4E8C831DC" type="personal">
+<mods:role id="A01633E348FE4F3CC7F0A0D1624E9625">
+<mods:roleTerm id="54A34F92514FAB30E3E55136ABD63B2A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="65CBE339C871E45FF90728DFE67EDEA9">Kim, Jung A</mods:namePart>
+<mods:nameIdentifier id="7177891E42A71AA0FB3322590CCAD577" type="LSID">8986A797-DFFD-424E-B436-DE522F024A25</mods:nameIdentifier>
+<mods:affiliation id="6C71A0C0DE1EC3131100CBE272FBC39B">Animal Resources Division, National Institute of Biological Resources, Incheon 22689, Republic of Korea.</mods:affiliation>
+<mods:nameIdentifier id="FCDFAB0BAA6AD0CB482135EEC735675D" type="email">jakim21@korea.kr</mods:nameIdentifier>
+</mods:name>
+<mods:name id="7F64015CC41DC7748D4875FB003C0B0D" type="personal">
+<mods:role id="09E5FBEDA7E69256DEB12DF819FEFCC7">
+<mods:roleTerm id="50F1E75D2BD2CBDFE5725B65E635A467">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="640E1CDCE16C70B32ED7B0CAC2947435">Gelhaus, Jon K.</mods:namePart>
+<mods:nameIdentifier id="F2963B1A5D0CF2F810F0A8C415CCB0BB" type="LSID">CAF9B0B3-7D3F-4EDE-B9E3-103B27EA3B7B</mods:nameIdentifier>
+<mods:affiliation id="94FDF1B41F752A8B40BDC776B8683CC3">Academy of Natural Sciences of Drexel University, B. Franklin Parkway 1900, Philadelphia, USA.</mods:affiliation>
+<mods:nameIdentifier id="609B6C2797A5C28AD4A575B7086D5CDC" type="email">gelhaus@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="CE327C45E2617DF4D4E46EC45C22DC81">text</mods:typeOfResource>
+<mods:relatedItem id="026A2FC7891301F1504A8C7B166DE89C" type="host">
+<mods:titleInfo id="E832DF76AB7ABE2DD378FCE70C25A4C5">
+<mods:title id="5BE3320288BF0D98F9627240DEBE93DE">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="0931DF7D7A42C431446E8890D20DBFEC">
+<mods:date id="38BC3E1DE7F215ED0979065DB90407D6">2021</mods:date>
+<mods:detail id="FB48C3CABEAB06A0BFBC317C4F3CA712" type="pubDate">
+<mods:number id="C2AA037280CC79BE08EA4FF71CF9E56A">2021-02-22</mods:number>
+</mods:detail>
+<mods:detail id="F17B9033BAF6734A63A597E86EEAF21C" type="volume">
+<mods:number id="20F34BEA5FCA2EC6F496951FF01F5A67">735</mods:number>
+</mods:detail>
+<mods:extent id="288E29CD15AF56746A146BDD7069A076" unit="page">
+<mods:start id="A27D48BC216DEFA43557A40D76968116">110</mods:start>
+<mods:end id="4DCA7CEA22C367B6D3B207469E2D8D18">132</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B403DABF6A689C215ADC09BFC2EFCC2E">journal article</mods:classification>
+<mods:identifier id="E153A900112FCDD7528F6588BF1DB4EC" type="DOI">https://doi.org/10.5852/ejt.2021.735.1245</mods:identifier>
+<mods:identifier id="43117B1896D603C64B4E6AAB27590A31" type="GBIF-Dataset">8ab5fd07-c866-4c5a-aee3-e5c6f3e18f8d</mods:identifier>
+<mods:identifier id="C6B8676F101EABD2F7DA08CF90234E17" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="1B65A9837E340B4184F4993E54C1C335" type="Zenodo-Dep">4557194</mods:identifier>
+<mods:identifier id="FDBC924C1C338B27ECF99778A1AB18FA" type="ZooBank">8ACB969A-DE45-451C-A8CB-27E4A82788CD</mods:identifier>
+</mods:mods>
+<treatment id="EE2D1801FF95FFECFD85FCF9E05BFD08" ID-DOI="http://doi.org/10.5281/zenodo.4557196" ID-Zenodo-Dep="4557196" LSID="urn:lsid:zoobank.org:act:34420075-5F02-4DD6-A1D7-50B7D6E23429" httpUri="http://treatment.plazi.org/id/EE2D1801FF95FFECFD85FCF9E05BFD08" lastPageId="5" lastPageNumber="116" pageId="4" pageNumber="114">
+<subSubSection id="2E9EFA9CFF95FFEDFD85FCF9E6E1FCA4" box="[615,973,808,835]" pageId="4" pageNumber="114" type="nomenclature">
+<paragraph id="663BA917FF95FFEDFD85FCF9E6E1FCA4" blockId="4.[615,973,808,835]" box="[615,973,808,835]" pageId="4" pageNumber="114">
+<heading id="3D731E7BFF95FFEDFD85FCF9E6E1FCA4" box="[615,973,808,835]" centered="true" fontSize="11" level="2" pageId="4" pageNumber="114" reason="2">
+Genus 
+<taxonomicName id="A184D294FF95FFEDFD5BFCF8E6E1FCA4" authority="Schiner, 1863" authorityName="Schiner" authorityYear="1863" box="[697,973,808,835]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFD5BFCF8E60FFCA4" bold="true" box="[697,803,808,835]" italics="true" pageId="4" pageNumber="114">Elliptera</emphasis>
+<bibRefCitation id="0215D4E6FF95FFEDFCC9FCF9E6E1FCA4" author="Schiner J. R." box="[811,973,809,835]" pageId="4" pageNumber="114" pagination="217 - 226" refId="ref9663" refString="Schiner J. R. 1863. Vorlaufiger Commentar zum dipterologischen Theil der &quot; Fauna Austriaca &quot;. Wiener Entomologische Monatschrift 7: 217 - 226." type="journal article" year="1863">Schiner, 1863</bibRefCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF95FFEDFF5FFCBAE645FBE2" pageId="4" pageNumber="114" type="reference_group">
+<paragraph id="663BA917FF95FFEDFF5FFCBAE73EFC63" blockId="4.[189,530,874,900]" box="[189,530,874,900]" pageId="4" pageNumber="114">
+<treatmentCitationGroup id="46948E39FF95FFEDFF5FFCBAE73EFC63" box="[189,530,874,900]" pageId="4" pageNumber="114">
+<treatmentCitation id="E7258F06FF95FFEDFF5FFCBAE722FC63" author="Schiner J. R." box="[189,526,874,900]" page="222" pageId="4" pageNumber="114" year="1863">
+<taxonomicName id="A184D294FF95FFEDFF5FFCBAE722FC63" authority="Schiner, 1863: 222" authorityName="Schiner" authorityPageNumber="222" authorityYear="1863" box="[189,526,874,900]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFF5FFCBAE409FC63" box="[189,293,874,900]" italics="true" pageId="4" pageNumber="114">Elliptera</emphasis>
+<bibRefCitation id="0215D4E6FF95FFEDFECFFCBAE722FC63" author="Schiner J. R." box="[301,526,874,900]" pageId="4" pageNumber="114" pagination="217 - 226" refId="ref9663" refString="Schiner J. R. 1863. Vorlaufiger Commentar zum dipterologischen Theil der &quot; Fauna Austriaca &quot;. Wiener Entomologische Monatschrift 7: 217 - 226." type="journal article" year="1863">Schiner, 1863: 222</bibRefCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="663BA917FF95FFEDFF5FFC74E645FBE2" blockId="4.[189,1399,932,1029]" pageId="4" pageNumber="114">
+<treatmentCitationGroup id="46948E39FF95FFEDFF5FFC74E645FBE2" pageId="4" pageNumber="114">
+<taxonomicName id="A184D294FF95FFEDFF5FFC74E409FC59" authorityName="Schiner" authorityYear="1863" box="[189,293,932,958]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFF5FFC74E409FC59" box="[189,293,932,958]" italics="true" pageId="4" pageNumber="114">Elliptera</emphasis>
+</taxonomicName>
+– 
+<treatmentCitation id="E7258F06FF95FFEDFEA7FC74E70CFC59" author="Edwards F. W." box="[325,544,932,958]" page="20" pageId="4" pageNumber="114" year="1938">
+<bibRefCitation id="0215D4E6FF95FFEDFEA7FC74E70CFC59" author="Edwards F. W." box="[325,544,932,958]" pageId="4" pageNumber="114" pagination="1 - 168" refId="ref8713" refString="Edwards F. W. 1938. British short palped crane flies. Taxonomy of adults. Transaction of the Society of British Entomology 5: 1 - 168." type="journal article" year="1938">Edwards 1938: 20</bibRefCitation>
+</treatmentCitation>
+, 49. — 
+<treatmentCitation id="E7258F06FF95FFEDFD63FC74E127FC58" author="Lackschewitz P. &amp; Pagast F." box="[641,1035,932,959]" page="56" pageId="4" pageNumber="114" year="1942">
+<bibRefCitation id="0215D4E6FF95FFEDFD63FC74E127FC58" author="Lackschewitz P. &amp; Pagast F." box="[641,1035,932,959]" pageId="4" pageNumber="114" pagination="33 - 64" refId="ref9126" refString="Lackschewitz P. &amp; Pagast F. 1942. 16. Limoniidae. In: Lindner E. (ed.) Die Fliegen der Palaarktischen Region 3 (5) 2 Lief. 145: 33 - 64." type="journal article" year="1942">Lackschewitz &amp; Pagast 1942: 56</bibRefCitation>
+</treatmentCitation>
+, 60. — 
+<treatmentCitation id="E7258F06FF95FFEDFB89FC74E01AFC59" author="Ishida H." box="[1131,1334,932,959]" page="124" pageId="4" pageNumber="114" year="1956">
+<bibRefCitation id="0215D4E6FF95FFEDFB89FC74E01AFC59" author="Ishida H." box="[1131,1334,932,959]" pageId="4" pageNumber="114" pagination="122 - 149" refId="ref8802" refString="Ishida H. 1956. The catalogue of the Japanese Tipulidae, with the keys to the genera and subgenera. III. Limoniinae, Tribe Limoniini. Annual Report of the Hyogo Agricultural College (Kenkyu Shuroku, 1955) 5: 122 - 149." type="journal article" year="1956">Ishida 1956: 124</bibRefCitation>
+</treatmentCitation>
+, 145. — 
+<treatmentCitation id="E7258F06FF95FFEDFEF3FC17E7F2FC05" author="Savchenko E. N. &amp; Krivolutskaya G. O." box="[273,734,967,994]" page="111" pageId="4" pageNumber="114" year="1976">
+<bibRefCitation id="0215D4E6FF95FFEDFEF3FC17E7F2FC05" author="Savchenko E. N. &amp; Krivolutskaya G. O." box="[273,734,967,994]" pageId="4" pageNumber="114" refId="ref9628" refString="Savchenko E. N. &amp; Krivolutskaya G. O. 1976. Limoniid Flies (Diptera, Limoniidae) of the South Kuril and South Sakhalin. &quot; Naukova dumka &quot;, Kiev." type="book" year="1976">Savchenko &amp; Krivolutskaya 1976: 111</bibRefCitation>
+</treatmentCitation>
+, 113. — 
+<treatmentCitation id="E7258F06FF95FFEDFCA9FC17E162FC05" author="Savchenko E. N." box="[843,1102,967,994]" page="105" pageId="4" pageNumber="114" year="1983">
+<bibRefCitation id="0215D4E6FF95FFEDFCA9FC17E162FC05" author="Savchenko E. N." box="[843,1102,967,994]" pageId="4" pageNumber="114" refId="ref9556" refString="Savchenko E. N. 1983. Limoniid Flies of the South Primorye. &quot; Naukova dumka &quot;, Kiev." type="book" year="1983">Savchenko 1983: 105</bibRefCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="E7258F06FF95FFEDFBB9FC17E1EAFC05" author="Savchenko E. N." box="[1115,1222,967,994]" page="17" pageId="4" pageNumber="114" year="1985">
+<bibRefCitation id="0215D4E6FF95FFEDFBB9FC17E1EAFC05" author="Savchenko E. N." box="[1115,1222,967,994]" pageId="4" pageNumber="114" pagination="4" refId="ref9577" refString="Savchenko E. N. 1985. Komary'limoniidy [limoniid-flies]. Subfamily Limoniinae. Fauna Ukrainy 14 (4), &quot; Naukova dumka &quot;, Kiev." type="journal article" year="1985">1985: 17</bibRefCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="E7258F06FF95FFEDFB36FC18E063FC05" author="Savchenko E. N." box="[1236,1359,968,994]" page="280" pageId="4" pageNumber="114" year="1989">
+<bibRefCitation id="0215D4E6FF95FFEDFB36FC18E063FC05" author="Savchenko E. N." box="[1236,1359,968,994]" pageId="4" pageNumber="114" refId="ref9606" refString="Savchenko E. N. 1989. Limoniid Crane Flies of the USSR Fauna. &quot; Naukova Dumka &quot;, Kiev." type="book" year="1989">1989: 280</bibRefCitation>
+</treatmentCitation>
+. — 
+<treatmentCitation id="E7258F06FF95FFEDFF09FC3BE71EFBE2" author="Podenas S. &amp; Byun H. W." box="[235,562,1003,1029]" page="177" pageId="4" pageNumber="114" year="2013">
+<bibRefCitation id="0215D4E6FF95FFEDFF09FC3BE71EFBE2" author="Podenas S. &amp; Byun H. W." box="[235,562,1003,1029]" pageId="4" pageNumber="114" pagination="167 - 184" refId="ref9510" refString="Podenas S. &amp; Byun H. W. 2013. Antochini crane flies (Diptera: Limoniidae: Limoniinae) of Korea. Journal of Species Research 2: 167 - 184. https: // doi. org / 10.12651 / JSR. 2013.2.2.167" type="journal article" year="2013">Podenas &amp; Byun 2013: 177</bibRefCitation>
+</treatmentCitation>
+. — 
+<treatmentCitation id="E7258F06FF95FFEDFD81FC3BE64FFBE2" author="Kato D. &amp; Tachi T." box="[611,867,1003,1029]" page="1" pageId="4" pageNumber="114" year="2019">
+<bibRefCitation id="0215D4E6FF95FFEDFD81FC3BE64FFBE2" author="Kato D. &amp; Tachi T." box="[611,867,1003,1029]" pageId="4" pageNumber="114" pagination="1 - 7" refId="ref8914" refString="Kato D. &amp; Tachi T. 2019. Taxonomic notes on the genus Elliptera Schiner, 1863 of Japan. Makunagi / Acta Dipterologica 30: 1 - 7." type="journal article" year="2019">Kato &amp; Tachi 2019: 1</bibRefCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF95FFEDFF5FFBFCE703FB93" pageId="4" pageNumber="114" type="type_taxon">
+<paragraph id="663BA917FF95FFEDFF5FFBFCE474FBA1" blockId="4.[189,344,1068,1094]" box="[189,344,1068,1094]" pageId="4" pageNumber="114">
+<heading id="3D731E7BFF95FFEDFF5FFBFCE474FBA1" bold="true" box="[189,344,1068,1094]" fontSize="11" level="3" pageId="4" pageNumber="114" reason="3">
+<emphasis id="54F07505FF95FFEDFF5FFBFCE474FBA1" bold="true" box="[189,344,1068,1094]" pageId="4" pageNumber="114">Type species</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF95FFEDFF5FFB8BE703FB93" blockId="4.[189,559,1114,1141]" box="[189,559,1114,1141]" pageId="4" pageNumber="114">
+<taxonomicName id="A184D294FF95FFEDFF5FFB8BE707FB93" authority="Schiner, 1863" authorityName="Schiner" authorityYear="1863" box="[189,555,1114,1141]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="species" species="omissa">
+<emphasis id="54F07505FF95FFEDFF5FFB8BE452FB93" box="[189,382,1115,1141]" italics="true" pageId="4" pageNumber="114">Elliptera omissa</emphasis>
+<bibRefCitation id="0215D4E6FF95FFEDFE67FB8BE707FB93" author="Schiner J. R." box="[389,555,1114,1141]" pageId="4" pageNumber="114" pagination="217 - 226" refId="ref9663" refString="Schiner J. R. 1863. Vorlaufiger Commentar zum dipterologischen Theil der &quot; Fauna Austriaca &quot;. Wiener Entomologische Monatschrift 7: 217 - 226." type="journal article" year="1863">Schiner, 1863</bibRefCitation>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF95FFEDFF5FFB4CE62CF920" pageId="4" pageNumber="114" type="description">
+<paragraph id="663BA917FF95FFEDFF5FFB4CE462FB51" blockId="4.[189,334,1180,1206]" box="[189,334,1180,1206]" pageId="4" pageNumber="114">
+<heading id="3D731E7BFF95FFEDFF5FFB4CE462FB51" bold="true" box="[189,334,1180,1206]" fontSize="11" level="3" pageId="4" pageNumber="114" reason="3">
+<emphasis id="54F07505FF95FFEDFF5FFB4CE462FB51" bold="true" box="[189,334,1180,1206]" pageId="4" pageNumber="114">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF95FFEDFF5FFB1AE1AFFA3B" blockId="4.[189,1400,1226,1500]" pageId="4" pageNumber="114">
+Adults are brown, sometimes yellowish gray, medium-sized crane flies with body length 4.0–9.0 mm. Antennal flagellum beaded. Mesonotal prescutum without tuberculate pits and pseudosutural foveae. Wing unpatterned or at most with darkening along cord, vein 
+<emphasis id="54F07505FF95FFEDFC48FAC1E6EAFACC" box="[938,966,1297,1323]" italics="true" pageId="4" pageNumber="114">Sc</emphasis>
+long and nearly reaching branching point of 
+<emphasis id="54F07505FF95FFEDFEC7FAE5E46DFAA9" box="[293,321,1333,1358]" italics="true" pageId="4" pageNumber="114">Rs</emphasis>
+; 
+<emphasis id="54F07505FF95FFEDFEB3FAE5E453FAA9" box="[337,383,1333,1358]" italics="true" pageId="4" pageNumber="114">sc-r</emphasis>
+before base of 
+<emphasis id="54F07505FF95FFEDFDD9FAE5E77BFAA9" box="[571,599,1333,1358]" italics="true" pageId="4" pageNumber="114">Rs</emphasis>
+; radial sector long and straight, situated very close to 
+<emphasis id="54F07505FF95FFEDFB03FAE5E1DFFAA9" box="[1249,1267,1333,1358]" italics="true" pageId="4" pageNumber="114">R</emphasis>
+and nearly parallel to it; 
+<emphasis id="54F07505FF95FFEDFEBCFA88E454FA9F" box="[350,376,1368,1400]" italics="true" pageId="4" pageNumber="114">
+R 
+<subScript id="FA00AB52FF95FFEDFE8DFABAE454FA9F" attach="left" box="[367,376,1386,1400]" fontSize="6" pageId="4" pageNumber="114">2</subScript>
+</emphasis>
+indistinct, slightly beyond fork of 
+<emphasis id="54F07505FF95FFEDFCF4FA88E61EFA96" box="[790,818,1368,1393]" italics="true" pageId="4" pageNumber="114">Rs</emphasis>
+; discal cell open due to the atrophy of basal part of 
+<emphasis id="54F07505FF95FFEDFF3CFAABE5D3FA7C" box="[222,255,1403,1435]" italics="true" pageId="4" pageNumber="114">
+M 
+<subScript id="FA00AB52FF95FFEDFF14FA5DE5D3FA7C" attach="left" box="[246,255,1421,1435]" fontSize="6" pageId="4" pageNumber="114">3</subScript>
+</emphasis>
+; 
+<emphasis id="54F07505FF95FFEDFEF2FAABE467FA73" box="[272,331,1403,1428]" italics="true" pageId="4" pageNumber="114">m-cu</emphasis>
+close to the branching point of 
+<emphasis id="54F07505FF95FFEDFD2BFAABE7CCFA73" box="[713,736,1403,1428]" italics="true" pageId="4" pageNumber="114">M</emphasis>
+; anal angle widely rounded. Male terminalia large with transverse ninth tergum, elongate gonocoxite bearing two terminal gonostyles, and straight and short aedeagus. Ovipositor elongate and sclerotized with strongly raised apex of cercus.
+</paragraph>
+<paragraph id="663BA917FF95FFEDFF5FF9D3E1E4F984" blockId="4.[189,1399,1538,1635]" pageId="4" pageNumber="114">Larva depressed dorsoventrally. Head capsule heavily sclerotized, with complete hypostoma. Frons fused with internolateralia, which are considerably shorter than externolateralia. Abdominal segments II–VII with dorsal and ventral creeping welts. Spiracular field surrounded by four lobes.</paragraph>
+<paragraph id="663BA917FF95FFEDFF5FF95BE62CF920" blockId="4.[187,1399,1674,1736]" pageId="4" pageNumber="114">Pupa with large, ear-shaped pronotal horns. Sheaths of legs reaching sixth abdominal segment. Abdomen with dorsal and ventral transverse rows of spines.</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF95FFECFF5FF93FE41EFEA0" lastPageId="5" lastPageNumber="115" pageId="4" pageNumber="114" type="discussion">
+<paragraph id="663BA917FF95FFECFF5FF93FE41EFEA0" blockId="4.[189,1400,1775,1977]" lastBlockId="5.[189,1399,265,327]" lastPageId="5" lastPageNumber="115" pageId="4" pageNumber="114">
+<bibRefCitation id="0215D4E6FF95FFEDFF5FF93FE4B4F8EE" author="Savchenko E. N." box="[189,408,1775,1801]" pageId="4" pageNumber="114" refId="ref9606" refString="Savchenko E. N. 1989. Limoniid Crane Flies of the USSR Fauna. &quot; Naukova Dumka &quot;, Kiev." type="book" year="1989">Savchenko (1989)</bibRefCitation>
+placed the genus 
+<taxonomicName id="A184D294FF95FFEDFD92F93FE7F7F8EE" authorityName="Schiner" authorityYear="1863" box="[624,731,1775,1801]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFD92F93FE7F7F8EE" box="[624,731,1775,1801]" italics="true" pageId="4" pageNumber="114">Elliptera</emphasis>
+</taxonomicName>
+into the tribe 
+<taxonomicName id="A184D294FF95FFEDFC61F93FE6D7F8EE" authorityName="Savchenko" authorityYear="1989" box="[899,1019,1775,1801]" class="Insecta" family="Limoniidae" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="tribe" tribe="Antochini">Antochini</taxonomicName>
+based only on adult characters. Phylogenetic relationships of the family 
+<taxonomicName id="A184D294FF95FFEDFD4FF8C2E616F8CB" authorityName="Speiser" authorityYear="1909" box="[685,826,1810,1836]" class="Insecta" family="Limoniidae" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="family">Limoniidae</taxonomicName>
+, including 
+<emphasis id="54F07505FF95FFEDFC26F8C2E11BF8CB" box="[964,1079,1810,1836]" italics="true" pageId="4" pageNumber="114">
+<taxonomicName id="A184D294FF95FFEDFC26F8C2E11EF8CB" authorityName="Schiner" authorityYear="1863" box="[964,1074,1810,1836]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">Elliptera</taxonomicName>
+,
+</emphasis>
+based on larval and pupal characters were analyzed by 
+<bibRefCitation id="0215D4E6FF95FFEDFDFEF8E5E686F8A8" author="Oosterbroek P. &amp; Theowald B." box="[540,938,1845,1871]" pageId="4" pageNumber="114" pagination="211 - 267" refId="ref9441" refString="Oosterbroek P. &amp; Theowald B. 1991. Phylogeny of the Tipuloidea based on characters of larvae and pupae (Diptera, Nematocera), with an index to the literature except Tipulidae. Tijdschrift voor Entomologie 134: 211 - 267. Available from https: // www. biodiversitylibrary. org / part / 66480  / summary [accessed 30 Jan. 2021]." type="journal article" year="1991">Oosterbroek &amp; Theowald (1991)</bibRefCitation>
+, using a nonquantitative analysis. The final tree placed 
+<taxonomicName id="A184D294FF95FFEDFE6FF888E4D4F895" authorityName="Schiner" authorityYear="1863" box="[397,504,1880,1906]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFE6FF888E4D4F895" box="[397,504,1880,1906]" italics="true" pageId="4" pageNumber="114">Elliptera</emphasis>
+</taxonomicName>
+as the sister group to the unresolved 
+<emphasis id="54F07505FF95FFEDFC2CF888E039F895" box="[974,1301,1880,1907]" italics="true" pageId="4" pageNumber="114">
+<taxonomicName id="A184D294FF95FFEDFC2CF888E1BCF895" box="[974,1168,1880,1906]" class="Insecta" family="Limoniidae" genus="Atypophthalmus" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">Atypophthalmus</taxonomicName>
+- 
+<taxonomicName id="A184D294FF95FFEDFB78F888E039F895" box="[1178,1301,1880,1906]" class="Insecta" family="Limoniidae" genus="Discobola" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">Discobola</taxonomicName>
+</emphasis>
+lineage based on the presence of larval creeping welts on abdominal segments 
+<quantity id="A17C04F2FF95FFEDFBD8F8ACE1A6F871" box="[1082,1162,1916,1942]" metricMagnitude="-2" metricUnit="m" metricValue="7.62" metricValueMax="10.16" metricValueMin="5.08" pageId="4" pageNumber="114" unit="in" value="3.0" valueMax="4.0" valueMin="2.0">2–4 in</quantity>
+these genera, with the genus 
+<taxonomicName id="A184D294FF95FFEDFEDFF84FE78DF85E" authority="Osten Sacken, 1860" authorityName="Osten Sacken" authorityYear="1860" box="[317,673,1951,1977]" class="Insecta" family="Limoniidae" genus="Antocha" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF95FFEDFEDFF84FE48DF85E" box="[317,417,1951,1977]" italics="true" pageId="4" pageNumber="114">Antocha</emphasis>
+Osten Sacken, 1860
+</taxonomicName>
+placed as sister group to the rest of the 
+<taxonomicName id="A184D294FF95FFEDFB7CF84FE004F85E" authorityName="Speiser" authorityYear="1909" box="[1182,1320,1951,1977]" class="Insecta" family="Limoniidae" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="114" phylum="Arthropoda" rank="subFamily" subFamily="Limoniinae">Limoniinae</taxonomicName>
+based on a weak synapomorphic character of oblong-shaped, obliquely placed spiracles (spiracles lost in 
+<taxonomicName id="A184D294FF94FFECFF5FFEFCE40DFEA1" authorityName="Osten Sacken" authorityYear="1860" box="[189,289,300,326]" class="Insecta" family="Limoniidae" genus="Antocha" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF94FFECFF5FFEFCE40DFEA1" box="[189,289,300,326]" italics="true" pageId="5" pageNumber="115">Antocha</emphasis>
+</taxonomicName>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFF5FFEBEE660FC6A" pageId="5" pageNumber="115" type="key">
+<subSubSection id="2E9EFA9CFF94FFECFF5FFEBEE65FFE6F" box="[189,883,365,392]" pageId="5" pageNumber="115" type="description">
+<paragraph id="663BA917FF94FFECFF5FFEBEE65FFE6F" blockId="5.[189,883,365,392]" box="[189,883,365,392]" pageId="5" pageNumber="115">
+<heading id="3D731E7BFF94FFECFF5FFEBEE65FFE6F" bold="true" box="[189,883,365,392]" fontSize="11" level="3" pageId="5" pageNumber="115" reason="3">
+<emphasis id="54F07505FF94FFECFF5FFEBEE65FFE6F" bold="true" box="[189,883,365,392]" pageId="5" pageNumber="115">
+Key to the East Palaearctic larvae of the genus 
+<taxonomicName id="A184D294FF94FFECFCEBFEBDE65FFE6F" authorityName="Schiner" authorityYear="1863" box="[777,883,365,392]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="genus">
+<emphasis id="54F07505FF94FFECFCEBFEBDE65FFE6F" bold="true" box="[777,883,365,392]" italics="true" pageId="5" pageNumber="115">Elliptera</emphasis>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFF5FFE4CE05BFD08" pageId="5" pageNumber="115" type="key">
+<key id="1215FE26FF94FFECFF5FFE4CE05BFD08" pageId="5" pageNumber="115">
+<keyStep id="DD70B1B2FF94FFECFF5FFE4CE05BFDA4" pageId="5" pageNumber="115">
+<paragraph id="663BA917FF94FFECFF5FFE4CE05AFE1A" blockId="5.[189,1399,412,579]" pageId="5" pageNumber="115">
+<keyLead id="DD750A22FF94FFECFF5FFE4CE05AFE1A" pageId="5" pageNumber="115">
+1. Darker sclerotization only along margins of the spiracular field of the lateral lobe (
+<figureCitation id="FEBFB592FF94FFECFB53FE4CE028FE51" box="[1201,1284,412,438]" captionStart="Fig" captionStartId="17.[189,232,1879,1905]" captionTargetBox="[291,1301,307,1823]" captionTargetId="figure-15@17.[285,1301,265,1845]" captionTargetPageId="17" captionText="Fig. 14. Larva of Elliptera zipanguensis zipanguensis Alexander, 1924 (NIBR). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. Labrum, clypeus and antennae. E. Right mandible, dorsal view.F. Hypopharynx and prementum.G. Hypostoma.H. Spiracular field. I. Spiracular field." figureDoi="http://doi.org/10.5281/zenodo.4557235" httpUri="https://zenodo.org/record/4557235/files/figure.png" pageId="5" pageNumber="115">Fig. 14</figureCitation>
+H–I) ..... ....................................................................... 
+<taxonomicName id="A184D294FF94FFECFD19FE6FE05BFE3E" authority="zipanguensis Alexander, 1924" authorityName="zipanguensis, Alexander" authorityYear="1924" box="[763,1399,447,474]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="subSpecies" species="zipanguensis" subSpecies="zipanguensis">
+<emphasis id="54F07505FF94FFECFD19FE6FE180FE3E" bold="true" box="[763,1196,447,474]" italics="true" pageId="5" pageNumber="115">Elliptera zipanguensis zipanguensis</emphasis>
+Alexander, 1924
+</taxonomicName>
+(
+<collectingCountry id="1E93E987FF94FFECFCCBFE33E65CFE1A" box="[809,880,483,509]" name="Japan" pageId="5" pageNumber="115">Japan</collectingCountry>
+, North and South Koreas, Russian Far East)
+</keyLead>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF23FDD6E05BFDA4" blockId="5.[189,1399,412,579]" pageId="5" pageNumber="115">
+<keyLead id="DD750A22FF94FFECFF23FDD6E05BFDA4" pageId="5" pageNumber="115">
+– Darker sclerotization covering almost the entire spiracular field of the lateral lobe (
+<figureCitation id="FEBFB592FF94FFECFB0BFDD6E019FDC7" box="[1257,1333,518,544]" captionStart="Fig" captionStartId="8.[189,232,937,963]" captionTargetBox="[255,1346,311,864]" captionTargetId="figure-11@8.[237,1350,285,879]" captionTargetPageId="8" captionText="Fig. 3. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP) A. Spiracular field. B. Spiracular field. Abbreviations: ll = lateral lobe; s = spiracle; vl = ventral lobe." figureDoi="http://doi.org/10.5281/zenodo.4557202" httpUri="https://zenodo.org/record/4557202/files/figure.png" pageId="5" pageNumber="115">Figs 3</figureCitation>
+A–B, 8B, D) .......................................................................................................................................... 2
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="DD70B1B2FF94FFECFF5FFDBAE05BFD08" pageId="5" pageNumber="115">
+<paragraph id="663BA917FF94FFECFF5FFDBAE05BFD4F" blockId="5.[189,1399,618,751]" pageId="5" pageNumber="115">
+<keyLead id="DD750A22FF94FFECFF5FFDBAE05BFD4F" pageId="5" pageNumber="115">
+2. Hypostoma with nine teeth (
+<figureCitation id="FEBFB592FF94FFECFDD5FDBAE7ABFD63" box="[567,647,618,644]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="5" pageNumber="115">Fig. 2I</figureCitation>
+) ................................................................................................... ............................. 
+<taxonomicName id="A184D294FF94FFECFE29FD5DE11FFD40" authority="Podeniene, Podenas &amp; Gelhaus" authorityName="Podeniene, Podenas &amp; Gelhaus" box="[459,1075,653,680]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="species" species="mongolica" status="sp. nov.">
+<emphasis id="54F07505FF94FFECFE29FD5DE790FD4F" bold="true" box="[459,700,653,680]" italics="true" pageId="5" pageNumber="115">Elliptera mongolica</emphasis>
+Podeniene, Podenas &amp; Gelhaus
+</taxonomicName>
+<taxonomicNameLabel id="4FC3C87EFF94FFECFBD9FD5EE1B9FD4F" box="[1083,1173,654,680]" pageId="5" pageNumber="115" rank="species">sp. nov.</taxonomicNameLabel>
+(
+<collectingCountry id="1E93E987FF94FFECFB46FD5DE1C3FD40" box="[1188,1263,653,679]" name="China" pageId="5" pageNumber="115">China</collectingCountry>
+, 
+<collectingCountry id="1E93E987FF94FFECFB19FD5DE043FD4F" box="[1275,1391,653,680]" name="Mongolia" pageId="5" pageNumber="115">Mongolia</collectingCountry>
+)
+</keyLead>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF5FFD61E05BFD08" blockId="5.[189,1399,618,751]" pageId="5" pageNumber="115">
+<keyLead id="DD750A22FF94FFECFF5FFD61E05BFD08" pageId="5" pageNumber="115">
+– Hypostoma with eleven teeth (
+<figureCitation id="FEBFB592FF94FFECFDB3FD61E782FD2C" box="[593,686,689,715]" captionStart="Fig" captionStartId="11.[189,232,1913,1939]" captionTargetBox="[327,1277,300,1821]" captionTargetId="figure-16@11.[276,1312,265,1875]" captionTargetPageId="11" captionText="Fig. 7. Larva of Elliptera jacoti Alexander, 1925 (NIBR). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. Labrum, clypeus and antennae. E. Right mandible, dorsal view. F. Hypopharynx and prementum. G. Hypostoma." figureDoi="http://doi.org/10.5281/zenodo.4557214" httpUri="https://zenodo.org/record/4557214/files/figure.png" pageId="5" pageNumber="115">Fig. 7G</figureCitation>
+) ........................................... 
+<taxonomicName id="A184D294FF94FFECFC18FD60E05BFD2B" authority="Alexander, 1925" authorityName="Alexander" authorityYear="1925" box="[1018,1399,688,716]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="species" species="jacoti">
+<emphasis id="54F07505FF94FFECFC18FD60E183FD2C" bold="true" box="[1018,1199,688,715]" italics="true" pageId="5" pageNumber="115">Elliptera jacoti</emphasis>
+Alexander, 1925
+</taxonomicName>
+(
+<collectingCountry id="1E93E987FF94FFECFDAAFD04E7BFFD09" box="[584,659,724,750]" name="China" pageId="5" pageNumber="115">China</collectingCountry>
+, North and South Koreas, West Siberia and Far East of 
+<collectingCountry id="1E93E987FF94FFECFAFCFD04E042FD08" box="[1310,1390,724,751]" name="Russia" pageId="5" pageNumber="115">Russia</collectingCountry>
+)
+</keyLead>
+</paragraph>
+</keyStep>
+</key>
+</subSubSection>
+<treatment id="EE2D1801FF94FFEFFE57FCFCE6FFF892" ID-DOI="http://doi.org/10.5281/zenodo.4557204" ID-Zenodo-Dep="4557204" LSID="urn:lsid:zoobank.org:act:34420075-5F02-4DD6-A1D7-50B7D6E23429" httpUri="http://treatment.plazi.org/id/EE2D1801FF95FFECFD85FCF9E05BFD08" lastPageId="6" lastPageNumber="116" pageId="5" pageNumber="115">
+<subSubSection id="2E9EFA9CFF94FFECFE57FCFCE1F9FC8D" pageId="5" pageNumber="115" type="nomenclature">
+<paragraph id="663BA917FF94FFECFE57FCFCE1F9FC8D" blockId="5.[350,1237,812,909]" pageId="5" pageNumber="115">
+<taxonomicName id="A184D294FF94FFECFE57FCFCE131FCA1" authority="Podeniene, Podenas &amp; Gelhaus" authorityName="Podeniene, Podenas &amp; Gelhaus" box="[437,1053,812,839]" class="Insecta" family="Limoniidae" genus="Elliptera" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="115" phylum="Arthropoda" rank="species" species="mongolica" status="sp. nov.">
+<emphasis id="54F07505FF94FFECFE57FCFCE789FCA0" bold="true" box="[437,677,812,839]" italics="true" pageId="5" pageNumber="115">Elliptera mongolica</emphasis>
+Podeniene, Podenas &amp; Gelhaus
+</taxonomicName>
+<taxonomicNameLabel id="4FC3C87EFF94FFECFBC6FCFDE153FCA0" box="[1060,1151,813,839]" pageId="5" pageNumber="115" rank="species">sp. nov.</taxonomicNameLabel>
+<uri id="1215A515FF94FFECFEBCFC9FE1F9FC8D" box="[350,1237,847,874]" pageId="5" pageNumber="115">
+urn:lsid:zoobank.org:pub: 
+<uuid id="122293C2FF94FFECFD67FC9FE1F9FC8D" box="[645,1237,847,874]" pageId="5" pageNumber="115">8ACB969A-DE45-451C-A8CB-27E4A82788CD</uuid>
+</uri>
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFD05FCA2E660FC6A" box="[743,844,882,909]" pageId="5" pageNumber="115" type="description">
+<paragraph id="663BA917FF94FFECFD05FCA2E660FC6A" blockId="5.[350,1237,812,909]" box="[743,844,882,909]" pageId="5" pageNumber="115">
+<figureCitation id="FEBFB592FF94FFECFD05FCA2E660FC6A" box="[743,844,882,909]" captionStart-0="Fig" captionStart-1="Fig" captionStart-2="Fig" captionStart-3="Fig" captionStartId-0="7.[189,232,1845,1871]" captionStartId-1="8.[189,232,937,963]" captionStartId-2="8.[189,232,1972,1998]" captionStartId-3="9.[189,232,808,834]" captionTargetBox-0="[327,1266,316,1803]" captionTargetBox-1="[255,1346,311,864]" captionTargetBox-2="[245,1343,1107,1931]" captionTargetBox-3="[339,1249,284,730]" captionTargetId-0="figure-15@7.[298,1290,265,1807]" captionTargetId-1="figure-11@8.[237,1350,285,879]" captionTargetId-2="figure-13@8.[245,1343,1107,1931]" captionTargetId-3="figure-295@9.[279,1308,278,774]" captionTargetPageId-0="7" captionTargetPageId-1="8" captionTargetPageId-2="8" captionTargetPageId-3="9" captionText-0="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." captionText-1="Fig. 3. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP) A. Spiracular field. B. Spiracular field. Abbreviations: ll = lateral lobe; s = spiracle; vl = ventral lobe." captionText-2="Fig. 4. Type locality of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov." captionText-3="Fig. 5. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP), in case." figureDoi-0="http://doi.org/10.5281/zenodo.4557200" figureDoi-1="http://doi.org/10.5281/zenodo.4557202" figureDoi-2="http://doi.org/10.5281/zenodo.4557206" figureDoi-3="http://doi.org/10.5281/zenodo.4557208" httpUri-0="https://zenodo.org/record/4557200/files/figure.png" httpUri-1="https://zenodo.org/record/4557202/files/figure.png" httpUri-2="https://zenodo.org/record/4557206/files/figure.png" httpUri-3="https://zenodo.org/record/4557208/files/figure.png" pageId="5" pageNumber="115">Figs 2–5</figureCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFF5FFC64E641FBA4" pageId="5" pageNumber="115" type="diagnosis">
+<paragraph id="663BA917FF94FFECFF5FFC64E41AFC29" blockId="5.[189,310,948,974]" box="[189,310,948,974]" pageId="5" pageNumber="115">
+<heading id="3D731E7BFF94FFECFF5FFC64E41AFC29" bold="true" box="[189,310,948,974]" fontSize="11" level="3" pageId="5" pageNumber="115" reason="3">
+<emphasis id="54F07505FF94FFECFF5FFC64E41AFC29" bold="true" box="[189,310,948,974]" pageId="5" pageNumber="115">Diagnosis</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF5FFC32E641FBA4" blockId="5.[189,1399,994,1091]" pageId="5" pageNumber="115">
+Body length reaching up to 
+<quantity id="A17C04F2FF94FFECFDF0FC32E7ACFC1A" box="[530,640,994,1021]" metricMagnitude="-2" metricUnit="m" metricValue="1.45" pageId="5" pageNumber="115" unit="mm" value="14.5">14.5 mm</quantity>
+. Head capsule heavily sclerotized. Hypostoma with nine teeth. Abdominal segments II–VII with dorsal and ventral creeping welts. Spiracular disc surrounded by four lobes, with lateral pair of lobes almost entirely sclerotized.
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFF5FFBBAE435FB0E" pageId="5" pageNumber="115" type="etymology">
+<paragraph id="663BA917FF94FFECFF5FFBBAE468FB63" blockId="5.[189,324,1130,1156]" box="[189,324,1130,1156]" pageId="5" pageNumber="115">
+<heading id="3D731E7BFF94FFECFF5FFBBAE468FB63" bold="true" box="[189,324,1130,1156]" fontSize="11" level="3" pageId="5" pageNumber="115" reason="3">
+<emphasis id="54F07505FF94FFECFF5FFBBAE468FB63" bold="true" box="[189,324,1130,1156]" pageId="5" pageNumber="115">Etymology</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF5FFB7CE435FB0E" blockId="5.[189,1399,1196,1257]" pageId="5" pageNumber="115">The specific epithet is a noun ‘mongol’ with Latin suffix ‘ica’, referring to the distribution of the new species.</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFECFF5FFAC0E784F935" pageId="5" pageNumber="115" type="materials_examined">
+<paragraph id="663BA917FF94FFECFF5FFAC0E440FACD" blockId="5.[189,364,1296,1322]" box="[189,364,1296,1322]" pageId="5" pageNumber="115">
+<heading id="3D731E7BFF94FFECFF5FFAC0E440FACD" bold="true" box="[189,364,1296,1322]" fontSize="11" level="3" pageId="5" pageNumber="115" reason="3">
+<emphasis id="54F07505FF94FFECFF5FFAC0E440FACD" bold="true" box="[189,364,1296,1322]" pageId="5" pageNumber="115">Type material</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF08FAEFE79DFA25" blockId="5.[189,1398,1343,1475]" pageId="5" pageNumber="115">
+<materialsCitation id="D6ECA34AFF94FFECFF08FAEFE79DFA25" collectingDate="2011-07-14" collectionCode="V" country="Mongolia" elevation="1475" latitude="48.108166" location="Zuun Baydlag Gol" longLatPrecision="11" longitude="108.36733" municipality="Mongonmorit Soum" pageId="5" pageNumber="115" specimenCode="ANSP-ENT-146962" specimenCount="1" stateProvince="Tov Aimag" typeStatus="holotype">
+<emphasis id="54F07505FF94FFECFF08FAEFE470FABE" bold="true" box="[234,348,1343,1369]" pageId="5" pageNumber="115">
+<typeStatus id="B93F17B5FF94FFECFF08FAEFE470FABE" box="[234,348,1343,1369]" pageId="5" pageNumber="115">Holotype</typeStatus>
+</emphasis>
+<collectingCountry id="1E93E987FF94FFECFF5FFAB2E477FA9B" box="[189,347,1378,1404]" pageId="5" pageNumber="115">MONGOLIA</collectingCountry>
+• larva (in alcohol); 
+<collectingRegion id="A44067F5FF94FFECFDBAFAB3E7CCFA9B" box="[600,736,1378,1405]" country="Mongolia" name="Tov" pageId="5" pageNumber="115">Tov Aimag</collectingRegion>
+, 
+<collectingMunicipality id="865F336DFF94FFECFD0CFAB2E6CEFA9B" box="[750,994,1378,1404]" pageId="5" pageNumber="115">Mongonmorit Soum</collectingMunicipality>
+, 
+<location id="635BFFCCFF94FFECFC12FAB3E1FEFA9B" LSID="urn:lsid:plazi:treatment:EE2D1801FF95FFECFD85FCF9E05BFD08:635BFFCCFF94FFECFC12FAB3E1FEFA9B" box="[1008,1234,1378,1405]" country="Mongolia" latitude="48.108166" longLatPrecision="11" longitude="108.36733" municipality="Mongonmorit Soum" name="Zuun Baydlag Gol" pageId="5" pageNumber="115" stateProvince="Tov Aimag">Zuun Baydlag Gol</location>
+, 
+<location id="635BFFCCFF94FFECFB02FAB2E05EFA9B" LSID="urn:lsid:plazi:treatment:EE2D1801FF95FFECFD85FCF9E05BFD08:635BFFCCFF94FFECFB02FAB2E05EFA9B" box="[1248,1394,1378,1404]" country="Mongolia" latitude="48.108166" longLatPrecision="11" longitude="108.36733" municipality="Mongonmorit Soum" name="downstream" pageId="5" pageNumber="115" stateProvince="Tov Aimag">downstream</location>
+, 
+<locationDeviation id="7789B035FF94FFECFF5DFA55E725FA78" box="[191,521,1413,1440]" pageId="5" pageNumber="115">
+<quantity id="A17C04F2FF94FFECFF5DFA55E42BFA78" box="[191,263,1413,1440]" metricMagnitude="4" metricUnit="m" metricValue="1.5" pageId="5" pageNumber="115" unit="km" value="15.0">15 km</quantity>
+SW of Mongonmorit
+</locationDeviation>
+; 
+<geoCoordinate id="03B0CFD0FF94FFECFDF7FA54E78AFA47" box="[533,678,1412,1440]" degrees="48" direction="north" minutes="06.49" orientation="latitude" pageId="5" pageNumber="115" precision="9" value="48.108166">48°06.49′ N</geoCoordinate>
+, 
+<geoCoordinate id="03B0CFD0FF94FFECFD50FA54E663FA47" box="[690,847,1412,1440]" degrees="108" direction="east" minutes="22.04" orientation="longitude" pageId="5" pageNumber="115" precision="9" value="108.36733">108°22.04′ E</geoCoordinate>
+; 
+<quantity id="A17C04F2FF94FFECFCB9FA55E698FA47" box="[859,948,1413,1440]" metricMagnitude="3" metricUnit="m" metricValue="1.475" pageId="5" pageNumber="115" unit="m" value="1475.0">
+<elevation id="EDA94E24FF94FFECFCB9FA55E698FA47" box="[859,948,1413,1440]" metricMagnitude="3" metricUnit="m" metricValue="1.475" pageId="5" pageNumber="115" unit="m" value="1475.0">1475 m</elevation>
+</quantity>
+a.s.l.; 
+<date id="123A8FD7FF94FFECFBE0FA55E1B9FA78" box="[1026,1173,1413,1439]" pageId="5" pageNumber="115" value="2011-07-14">
+<collectingDate id="027E763FFF94FFECFBE0FA55E1B9FA78" box="[1026,1173,1413,1439]" pageId="5" pageNumber="115" value="2011-07-14">14 Jul. 2011</collectingDate>
+</date>
+; 
+<collectionCode id="009531D2FF94FFECFB43FA56E19AFA47" box="[1185,1206,1414,1440]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="5" pageNumber="115" type="Museum">V</collectionCode>
+. Podeniene leg.; MAIS #2011071402; 
+<specimenCode id="3622016CFF94FFECFE5EFA78E781FA25" box="[444,685,1448,1474]" pageId="5" pageNumber="115">ANSP-ENT-146962</specimenCode>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF08FA3AE421F9AD" blockId="5.[189,1398,1514,1610]" pageId="5" pageNumber="115">
+<materialsCitation id="D6ECA34AFF94FFECFF08FA3AE425F9AD" accessionNumber="MT233411" collectionCode="ANSP" country="Mongolia" location="MONGOLIA" pageId="5" pageNumber="115" specimenCount="22" specimenCount-larva="22" typeStatus="paratype">
+<emphasis id="54F07505FF94FFECFF08FA3AE44BF9E3" bold="true" box="[234,359,1514,1540]" pageId="5" pageNumber="115">
+<typeStatus id="B93F17B5FF94FFECFF08FA3AE44BF9E3" box="[234,359,1514,1540]" pageId="5" pageNumber="115">Paratypes</typeStatus>
+</emphasis>
+<collectingCountry id="1E93E987FF94FFECFF5FF9DDE477F9C0" box="[189,347,1549,1575]" name="Mongolia" pageId="5" pageNumber="115">MONGOLIA</collectingCountry>
+• 
+<specimenCount id="7082629EFF94FFECFE99F9DDE4C7F9C0" box="[379,491,1549,1575]" pageId="5" pageNumber="115" type="larva">22 larvae</specimenCount>
+(in alcohol); same collection data as for preceding; GenBank: 
+<accessionNumber id="79D734F4FF94FFECFB09F9DDE05EF9C0" box="[1259,1394,1549,1575]" httpUri="http://www.ncbi.nlm.nih.gov/nucleotide/MT233411" pageId="5" pageNumber="115">MT233411</accessionNumber>
+; 
+<collectionCode id="009531D2FF94FFECFF5FF9E0E425F9AD" box="[189,265,1584,1610]" collectionName="USA, Pennsylvania, Philadelphia, Academy of Natural Sciences" country="USA" httpUri="http://biocol.org/urn:lsid:biocol.org:col:34784" lsid="urn:lsid:biocol.org:col:34784" name="Academy of Natural Sciences of Philadelphia" pageId="5" pageNumber="115">ANSP</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="663BA917FF94FFECFF5FF9A2E784F935" blockId="5.[189,1398,1650,1746]" pageId="5" pageNumber="115">
+<materialsCitation id="D6ECA34AFF94FFECFF5FF9A2E788F935" accessionNumber="MT233412" collectingDate="2018-07-10" collectionCode="ANSP" collectorName="V. Podeniene &amp; Shenyang Agricultural University" country="China" county="Chifeng" elevation="1165" latitude="44.251" location="Sai Hanwula Reserve" longLatPrecision="11" longitude="118.32567" municipality="Bailin Youqi" pageId="5" pageNumber="115" specimenCount="11" specimenCount-larva="11" stateProvince="Inner Mongolia">
+<collectingCountry id="1E93E987FF94FFECFF5FF9A2E434F96B" box="[189,280,1650,1676]" name="China" pageId="5" pageNumber="115">CHINA</collectingCountry>
+• 
+<specimenCount id="7082629EFF94FFECFEA2F9A2E49FF96B" box="[320,435,1650,1676]" pageId="5" pageNumber="115" type="larva">11 larvae</specimenCount>
+(in alcohol); 
+<collectingRegion id="A44067F5FF94FFECFD8AF9A2E605F96B" box="[616,809,1650,1676]" country="China" name="Nei Mongol" pageId="5" pageNumber="115">Inner Mongolia</collectingRegion>
+, 
+<collectingCounty id="8F5AD19BFF94FFECFCDFF9A2E6B3F96B" box="[829,927,1650,1676]" pageId="5" pageNumber="115">Chifeng</collectingCounty>
+, 
+<collectingMunicipality id="865F336DFF94FFECFC53F9A2E17DF96B" box="[945,1105,1650,1676]" pageId="5" pageNumber="115">Bailin Youqi</collectingMunicipality>
+, 
+<location id="635BFFCCFF94FFECFB81F9A2E05EF96B" LSID="urn:lsid:plazi:treatment:EE2D1801FF95FFECFD85FCF9E05BFD08:635BFFCCFF94FFECFB81F9A2E05EF96B" box="[1123,1394,1650,1676]" country="China" county="Chifeng" latitude="44.251" longLatPrecision="11" longitude="118.32567" municipality="Bailin Youqi" name="Sai Hanwula Reserve" pageId="5" pageNumber="115" stateProvince="Inner Mongolia">Sai Hanwula Reserve</location>
+; 
+<geoCoordinate id="03B0CFD0FF94FFECFF5FF943E478F957" box="[189,340,1683,1712]" degrees="44" direction="north" minutes="15.06" orientation="latitude" pageId="5" pageNumber="115" precision="9" value="44.251">44°15.06′ N</geoCoordinate>
+, 
+<geoCoordinate id="03B0CFD0FF94FFECFE84F943E72BF957" box="[358,519,1683,1712]" degrees="118" direction="east" minutes="19.54" orientation="longitude" pageId="5" pageNumber="115" precision="9" value="118.32567">118°19.54′ E</geoCoordinate>
+; 
+<elevation id="EDA94E24FF94FFECFDFBF945E791F948" box="[537,701,1685,1712]" metricMagnitude="3" metricUnit="m" metricValue="1.165" pageId="5" pageNumber="115" unit="m" value="1165.0">
+<quantity id="A17C04F2FF94FFECFDFBF945E75BF957" box="[537,631,1685,1712]" metricMagnitude="3" metricUnit="m" metricValue="1.165" pageId="5" pageNumber="115" unit="m" value="1165.0">1165 m</quantity>
+a.s.l.
+</elevation>
+; 
+<date id="123A8FD7FF94FFECFD32F945E643F948" box="[720,879,1685,1711]" pageId="5" pageNumber="115" value="2018-07-10">
+<collectingDate id="027E763FFF94FFECFD32F945E643F948" box="[720,879,1685,1711]" pageId="5" pageNumber="115" value="2018-07-10">10 Jul. 2018</collectingDate>
+</date>
+; 
+<collectorName id="CB71CCC1FF94FFECFC63F946E10DF948" box="[897,1057,1685,1712]" pageId="5" pageNumber="115">V. Podeniene</collectorName>
+leg; 
+<collectorName id="CB71CCC1FF94FFECFB8AF945E411F935" pageId="5" pageNumber="115">Shenyang Agricultural University</collectorName>
+; GenBank: 
+<accessionNumber id="79D734F4FF94FFECFE25F968E763F935" box="[455,591,1720,1746]" httpUri="http://www.ncbi.nlm.nih.gov/nucleotide/MT233412" pageId="5" pageNumber="115">MT233412</accessionNumber>
+; 
+<collectionCode id="009531D2FF94FFECFDBAF968E788F935" box="[600,676,1720,1746]" country="USA" httpUri="http://biocol.org/urn:lsid:biocol.org:col:34784" lsid="urn:lsid:biocol.org:col:34784" name="Academy of Natural Sciences of Philadelphia" pageId="5" pageNumber="115">ANSP</collectionCode>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF94FFEFFF5FF929E455F8E2" lastPageId="6" lastPageNumber="116" pageId="5" pageNumber="115" type="description">
+<paragraph id="663BA917FF94FFECFF5FF929E462F8F4" blockId="5.[189,334,1785,1811]" box="[189,334,1785,1811]" pageId="5" pageNumber="115">
+<heading id="3D731E7BFF94FFECFF5FF929E462F8F4" bold="true" box="[189,334,1785,1811]" fontSize="11" level="3" pageId="5" pageNumber="115" reason="3">
+<emphasis id="54F07505FF94FFECFF5FF929E462F8F4" bold="true" box="[189,334,1785,1811]" pageId="5" pageNumber="115">Description</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF08F8F8E41BF8A5" blockId="5.[189,876,1832,1894]" box="[234,311,1832,1858]" pageId="5" pageNumber="115">
+<emphasis id="54F07505FF94FFECFF08F8F8E41BF8A5" bold="true" box="[234,311,1832,1858]" pageId="5" pageNumber="115">Larva</emphasis>
+</paragraph>
+<paragraph id="663BA917FF94FFECFF5FF89CE640F881" blockId="5.[189,876,1832,1894]" box="[189,876,1867,1894]" pageId="5" pageNumber="115">
+MEASUREMENTS. Length 
+<quantity id="A17C04F2FF94FFECFE34F89BE7AEF881" box="[470,642,1867,1894]" metricMagnitude="-2" metricUnit="m" metricValue="1.305" metricValueMax="1.45" metricValueMin="1.16" pageId="5" pageNumber="115" unit="mm" value="13.05" valueMax="14.5" valueMin="11.6">11.6–14.5 mm</quantity>
+, width 1.7–2.0 mm.
+</paragraph>
+<paragraph id="663BA917FF94FFEFFF5FF85DE1F7FE8E" blockId="5.[189,1399,1933,1995]" lastBlockId="6.[188,1399,265,362]" lastPageId="6" lastPageNumber="116" pageId="5" pageNumber="115">
+BODY. Cylindrical, dark brown, hairs on dorsal and ventral sides darker than on lateral side. Abdominal segments II–VII divided into anterior and posterior parts, anterior part with dorsal and ventral creeping welts (
+<figureCitation id="FEBFB592FF97FFEFFEEEFED9E47EFEC4" box="[268,338,265,291]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2</figureCitation>
+A–C). Creeping welts with dark brown spines, arranged into transverse rows. All thoracic and abdominal segments I–II shorter than wider. Abdominal segments III–VIII approximately as long as wide. Pale circular area present on dorsum of all segments except the prothorax (
+<figureCitation id="FEBFB592FF97FFEFFB93FE9FE1E1FE8E" box="[1137,1229,335,361]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2B</figureCitation>
+).
+</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FFE41E7D9FB69" blockId="6.[187,1401,401,1167]" pageId="6" pageNumber="116">
+HEAD. Length 
+<quantity id="A17C04F2FF97FFEFFE84FE41E73FFE4C" box="[358,531,401,428]" metricMagnitude="-3" metricUnit="m" metricValue="1.225" metricValueMax="1.25" metricValueMin="1.2" pageId="6" pageNumber="116" unit="mm" value="1.225" valueMax="1.25" valueMin="1.2">1.20–1.25 mm</quantity>
+, width 
+<quantity id="A17C04F2FF97FFEFFD8BFE41E63BFE4C" box="[617,791,401,427]" metricMagnitude="-3" metricUnit="m" metricValue="1.15" metricValueMax="1.2" metricValueMin="1.1" pageId="6" pageNumber="116" unit="mm" value="1.15" valueMax="1.2" valueMin="1.1">1.10–1.20 mm</quantity>
+. Head capsule oval, heavily sclerotized and slightly reduced (
+<figureCitation id="FEBFB592FF97FFEFFECFFE64E4A2FE29" box="[301,398,436,462]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2D</figureCitation>
+). Frontal suture absent, dorsal suture reaching to about the middle of head capsule (
+<figureCitation id="FEBFB592FF97FFEFFF24FE07E409FE16" box="[198,293,471,497]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2D</figureCitation>
+), hypostoma complete (
+<figureCitation id="FEBFB592FF97FFEFFDA4FE07E7B6FE16" box="[582,666,471,497]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2I</figureCitation>
+). Labrum wide with numerous sensory structures: short seta, middle-long seta and three sensory pegs in the middle of anterior part (
+<figureCitation id="FEBFB592FF97FFEFFBF2FE2AE141FDF2" box="[1040,1133,506,533]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2E</figureCitation>
+). A narrow sclerotized band situated anterior to sensory structures. Anterior part and sides of labrum as well as epipharynx covered with numerous short hairs. Clypeus fused with labrum and bears wide sclerotized plate anteriorly (
+<figureCitation id="FEBFB592FF97FFEFFF21FDB4E433FD99" box="[195,287,612,638]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2E</figureCitation>
+). Frons separated from clypeus and fused with internolateralia, which are considerably shorter than externolateralia; four long setae located on each side of the anterior margin of frons, one seta below the base of antenna, a pair of sensory pits in the middle of anterior part, caudal end of fronsinternolateralia very wide and arched (
+<figureCitation id="FEBFB592FF97FFEFFD6AFD1EE7E3FD0F" box="[648,719,718,744]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2</figureCitation>
+D–E). Basal antennomere cylindrical, more than twice as long as wide, with two long setae and a few very short sensory structures apically; apical segment short, cylindrical; sensory pit located at the base of basal segment (
+<figureCitation id="FEBFB592FF97FFEFFC9EFCC4E6FBFCC9" box="[892,983,788,814]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2E</figureCitation>
+). Mandible conus-shaped, with two large apical teeth, both similar in shape and size (
+<figureCitation id="FEBFB592FF97FFEFFCE4FCE7E64DFCB6" box="[774,865,823,849]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2F</figureCitation>
+), first ventral tooth triangular, second ventral and basal teeth blunt; single well developed sharp tooth on dorsal side; two long setae at the base of mandible (on outer margin). Maxilla well developed (
+<figureCitation id="FEBFB592FF97FFEFFCD6FCAEE6BFFC7F" box="[820,915,894,920]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2G</figureCitation>
+); outer lobe (stipes) and inner lobe (galea fused with lacinia) large and similar in size. Outer lobe: two-thirds sclerotized, apical part and outer margin covered by long setae; button shaped apical papilla with sensory structures on the apex and small papilla next to it. Inner lobe: basal part sclerotized; long and short sensory papillae on apical part; apical part and inner margin covered with short setae. Cardo large, wedge shaped with sensory pit near outer margin of sclerite. Hypopharynx arched, sclerotized and toothless. Prementum dentated (four large teeth in the middle and two small similar in size teeth on both sides) (
+<figureCitation id="FEBFB592FF97FFEFFC47FB81E129FB8C" box="[933,1029,1105,1131]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2H</figureCitation>
+). Hypostoma with nine anterior teeth, the middle tooth most prominent (
+<figureCitation id="FEBFB592FF97FFEFFD77FBA4E7CBFB69" box="[661,743,1140,1166]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2I</figureCitation>
+).
+</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FFB66E736F9EB" blockId="6.[189,1400,1205,1548]" pageId="6" pageNumber="116">
+ANAL DIVISION. Spiracular field surrounded by four lobes, ventral lobe twice as long as lateral lobe (
+<figureCitation id="FEBFB592FF97FFEFFF24FB09E421FB14" box="[198,269,1241,1267]" captionStart="Fig" captionStartId="8.[189,232,937,963]" captionTargetBox="[255,1346,311,864]" captionTargetId="figure-11@8.[237,1350,285,879]" captionTargetPageId="8" captionText="Fig. 3. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP) A. Spiracular field. B. Spiracular field. Abbreviations: ll = lateral lobe; s = spiracle; vl = ventral lobe." figureDoi="http://doi.org/10.5281/zenodo.4557202" httpUri="https://zenodo.org/record/4557202/files/figure.png" pageId="6" pageNumber="116">Fig. 3</figureCitation>
+A–B). Lateral lobe as long as wide, almost entirely sclerotized except the middle part, three medium-long setae located along the outer margin of lobe. Ventral lobe twice as long as wide at the base with dark U–shaped sclerite, ventral branch of each lobe fused with its opposing sclerite to form continuous line. Dark spot situated at base of each lobe below spiracle (missing in some specimens). Two long setae and one medium-long seta located at the apical part of lobe; one medium-long seta on the outer margin of lobe. A pair of sensory pit located on dorsal margin of spiracular field. Spiracular field fringed with long firm setae, longest around the apical part of each lobe. Spiracles large, oblong, placed obliquely and inclined dorsally (
+<figureCitation id="FEBFB592FF97FFEFFD77FA1FE7F6FA0E" box="[661,730,1487,1513]" captionStart="Fig" captionStartId="8.[189,232,937,963]" captionTargetBox="[255,1346,311,864]" captionTargetId="figure-11@8.[237,1350,285,879]" captionTargetPageId="8" captionText="Fig. 3. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP) A. Spiracular field. B. Spiracular field. Abbreviations: ll = lateral lobe; s = spiracle; vl = ventral lobe." figureDoi="http://doi.org/10.5281/zenodo.4557202" httpUri="https://zenodo.org/record/4557202/files/figure.png" pageId="6" pageNumber="116">Fig. 3</figureCitation>
+A–B). Anal field consists of two pairs of conical, white, fleshy anal papillae (
+<figureCitation id="FEBFB592FF97FFEFFE52FA22E720F9EB" box="[432,524,1522,1548]" captionStart="Fig" captionStartId="7.[189,232,1845,1871]" captionTargetBox="[327,1266,316,1803]" captionTargetId="figure-15@7.[298,1290,265,1807]" captionTargetPageId="7" captionText="Fig. 2. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP). A–C. General view. A. Lateral aspect. B. Dorsal aspect. C. Ventral aspect. D. General view of head capsule, dorsal aspect. E. Labrum, clypeus and antennae. F. Right mandible, dorsal view. G. Right maxilla, ventral view. H. Hypopharynx and prementum. I. Hypostoma. Abbreviations: ant = antenna; c = cardo; cl = clypeus; el = externolateralia; f = frons; il = inner lobe; la = labrum; ol = outer lobe." figureDoi="http://doi.org/10.5281/zenodo.4557200" httpUri="https://zenodo.org/record/4557200/files/figure.png" pageId="6" pageNumber="116">Fig. 2C</figureCitation>
+).
+</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FF9E4E713F9A9" blockId="6.[189,575,1588,1614]" box="[189,575,1588,1614]" pageId="6" pageNumber="116">Pupal and adult stages unknown.</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FF9A5E431F968" blockId="6.[189,285,1653,1679]" box="[189,285,1653,1679]" pageId="6" pageNumber="116">
+<heading id="3D731E7BFF97FFEFFF5FF9A5E431F968" bold="true" box="[189,285,1653,1679]" fontSize="11" level="3" pageId="6" pageNumber="116" reason="3">
+<emphasis id="54F07505FF97FFEFFF5FF9A5E431F968" bold="true" box="[189,285,1653,1679]" pageId="6" pageNumber="116">Habitat</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FF974E455F8E2" blockId="6.[189,1399,1700,1797]" pageId="6" pageNumber="116">
+Larvae were found on accumulated mud on river boulders in 
+<collectingCountry id="1E93E987FF97FFEFFC76F974E12AF959" box="[916,1030,1700,1726]" name="Mongolia" pageId="6" pageNumber="116">Mongolia</collectingCountry>
+(
+<figureCitation id="FEBFB592FF97FFEFFBF5F974E14DF959" box="[1047,1121,1700,1726]" captionStart="Fig" captionStartId="8.[189,232,1972,1998]" captionTargetBox="[245,1343,1107,1931]" captionTargetId="figure-13@8.[245,1343,1107,1931]" captionTargetPageId="8" captionText="Fig. 4. Type locality of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov." figureDoi="http://doi.org/10.5281/zenodo.4557206" httpUri="https://zenodo.org/record/4557206/files/figure.png" pageId="6" pageNumber="116">Fig. 4</figureCitation>
+). Larvae in 
+<collectingCountry id="1E93E987FF97FFEFFB0DF974E019F959" box="[1263,1333,1700,1726]" name="China" pageId="6" pageNumber="116">China</collectingCountry>
+were found on accumulated mud on spring boulders. Some of them (in both localities) made cases from mosses (
+<figureCitation id="FEBFB592FF97FFEFFEC0F93AE446F8E2" box="[290,362,1770,1797]" captionStart="Fig" captionStartId="9.[189,232,808,834]" captionTargetBox="[339,1249,284,730]" captionTargetId="figure-295@9.[279,1308,278,774]" captionTargetPageId="9" captionText="Fig. 5. Larva of Elliptera mongolica Podeniene, Podenas &amp; Gelhaus sp. nov., paratype (ANSP), in case." figureDoi="http://doi.org/10.5281/zenodo.4557208" httpUri="https://zenodo.org/record/4557208/files/figure.png" pageId="6" pageNumber="116">Fig. 5</figureCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="2E9EFA9CFF97FFEFFF5FF8FBE6FFF892" box="[189,979,1835,1909]" pageId="6" pageNumber="116" type="distribution">
+<paragraph id="663BA917FF97FFEFFF5FF8FBE47AF8A2" blockId="6.[189,342,1835,1861]" box="[189,342,1835,1861]" pageId="6" pageNumber="116">
+<heading id="3D731E7BFF97FFEFFF5FF8FBE47AF8A2" bold="true" box="[189,342,1835,1861]" fontSize="11" level="3" pageId="6" pageNumber="116" reason="3">
+<emphasis id="54F07505FF97FFEFFF5FF8FBE47AF8A2" bold="true" box="[189,342,1835,1861]" pageId="6" pageNumber="116">Distribution</emphasis>
+</heading>
+</paragraph>
+<paragraph id="663BA917FF97FFEFFF5FF88AE6FFF892" blockId="6.[189,979,1882,1909]" box="[189,979,1882,1909]" pageId="6" pageNumber="116">
+Currently known only from 
+<collectingCountry id="1E93E987FF97FFEFFDEAF88AE756F893" box="[520,634,1882,1908]" name="Mongolia" pageId="6" pageNumber="116">Mongolia</collectingCountry>
+and 
+<collectingRegion id="A44067F5FF97FFEFFD51F88BE646F893" box="[691,874,1882,1909]" country="China" name="Nei Mongol" pageId="6" pageNumber="116">Inner Mongolia</collectingRegion>
+(
+<collectingCountry id="1E93E987FF97FFEFFC98F88AE6EAF892" box="[890,966,1882,1909]" name="China" pageId="6" pageNumber="116">China</collectingCountry>
+).
+</paragraph>
+</subSubSection>
+</treatment>
+</subSubSection>
+</treatment>
+</document>

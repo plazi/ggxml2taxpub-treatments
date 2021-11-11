@@ -1,0 +1,63 @@
+<document id="79ABA954C4D77A5569BE67028C0440D3" ID-DOI="http://doi.org/10.5281/zenodo.5604087" ID-ISSN="2118-9773" ID-Zenodo-Dep="5604087" ID-ZooBank="1F74D019-D13C-426F-835A-24A9A1126C55" approvalRequired="1592" approvalRequired_for_taxonomicNames="39" approvalRequired_for_textStreams="1356" approvalRequired_for_treatments="197" checkinTime="1633024809691" checkinUser="felipe" docAuthor="Laan, Richard Van Der" docDate="2018" docId="C56E731D8553FF86FF22FB377FF45C1A" docLanguage="en" docName="ejt-466_1-167.pdf" docOrigin="European Journal of Taxonomy 466" docSource="http://dx.doi.org/10.5852/ejt.2018.466" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Aipichthyidae Patterson 1964" docType="treatment" docVersion="3" lastPageNumber="71" masterDocId="39570B658515FFC0FF9FFFE57B6F590A" masterDocTitle="Family-group names of fossil fishes" masterLastPageNumber="167" masterPageNumber="1" pageId="70" pageNumber="71" updateTime="1635355915926" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="2F6AD9F280CF8FC7D2B8C17DF541E09C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B1D45B93FA22D9A6CF0F9B538C9BCB24">
+<mods:title id="DF667605D0C5F397F05E707F3D4EDD9F">Family-group names of fossil fishes</mods:title>
+</mods:titleInfo>
+<mods:name id="566CED072736CCB22F9AA771A4E6FF3C" type="personal">
+<mods:role id="C73D5C5ADC6FEFE41C433F8889D57DD0">
+<mods:roleTerm id="84C30A338B6A1A2A6A4448403D9B69B3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B518161B891B409A3EA4516C8537FF3E">Laan, Richard Van Der</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="61BED52C388813EBA709A510603478A4">text</mods:typeOfResource>
+<mods:relatedItem id="355576725253613E88015B7F3573FDF7" type="host">
+<mods:titleInfo id="C414A7C6A4F189D2DFDB61C19AB214D8">
+<mods:title id="48167431C27EA5DFB7F72D680AEA9D41">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="9422F4CBF1B317002B316E6D7943E78D">
+<mods:date id="2AC4CFE4C7D1D60098332C31C2935487">2018</mods:date>
+<mods:detail id="E13FFC495000054CB1FA490C8523171D" type="pubDate">
+<mods:number id="0D229C93560F33E962B535F1EC8055CD">2018-10-11</mods:number>
+</mods:detail>
+<mods:detail id="2F79E085D82C197C63038CF675D8C792" type="volume">
+<mods:number id="099BE11E75BE964FF9C4DAA5A3C7B3FB">466</mods:number>
+</mods:detail>
+<mods:extent id="3E7DE76847B76708D633BE610428E457" unit="page">
+<mods:start id="7353E6B1669824BB339ED9F3C84993F4">1</mods:start>
+<mods:end id="3E28F1A7BC70F6A9DC58ABEE8E5851B7">167</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="390DD143A28ECAEBC1B1FFFCC8BD87E9">
+<mods:url id="AA4F2BBD1FAEC8EF959E65277BD256C1">http://dx.doi.org/10.5852/ejt.2018.466</mods:url>
+</mods:location>
+<mods:classification id="8FDACB2F69E0670B3804AEA4CC350EEF">journal article</mods:classification>
+<mods:identifier id="5ED725069F6E9BEB430B1E77102BBBE6" type="DOI">10.5852/ejt.2018.466</mods:identifier>
+<mods:identifier id="27AF8CA51013690C76D767ADCA081003" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="CE5E3537722D7A62FCD165371B171198" type="Zenodo-Dep">5557557</mods:identifier>
+<mods:identifier id="AD263E8352A744544EFA14F7DE68E580" type="ZooBank">1F74D019-D13C-426F-835A-24A9A1126C55</mods:identifier>
+</mods:mods>
+<treatment id="C56E731D8553FF86FF22FB377FF45C1A" ID-DOI="http://doi.org/10.5281/zenodo.5604087" ID-Zenodo-Dep="5604087" LSID="urn:lsid:plazi:treatment:C56E731D8553FF86FF22FB377FF45C1A" httpUri="http://treatment.plazi.org/id/C56E731D8553FF86FF22FB377FF45C1A" lastPageNumber="71" pageId="70" pageNumber="71">
+<subSubSection id="05DD91808553FF86FF22FB3779EC5DE6" box="[189,643,1234,1261]" pageId="70" pageNumber="71" type="nomenclature">
+Family † 
+<taxonomicName id="8AC7B9888553FF86FEBCFB3779EC5DE6" authority="Patterson 1964" authorityName="Patterson" authorityYear="1964" box="[291,643,1234,1261]" class="Actinopterygii" family="Aipichthyidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Beryciformes" pageId="70" pageNumber="71" phylum="Chordata" rank="family">
+Aipichthyidae 
+<bibRefCitation id="2956BFFA8553FF86FE4BFB3679EC5DE6" author="Patterson C." box="[468,643,1234,1261]" pageId="70" pageNumber="71" pagination="213 - 482" refId="ref74255" refString="Patterson C. 1964. A review of Mesozoic acanthopterygian fishes with special reference to those of the English Chalk. Philosophical Transactions of the Royal Society, London (Biological sciences) 247 (739): 213 - 482. Available from http: // www. jstor. org / stable / 2416611 [accessed 17 Jul. 2018]." type="journal article" year="1964">Patterson 1964</bibRefCitation>
+</taxonomicName>
+</subSubSection>
+<subSubSection id="05DD91808553FF86FE87FB137FF45C1A" box="[280,1179,1270,1297]" pageId="70" pageNumber="71" type="reference_group">
+<paragraph id="4D78C20B8553FF86FE87FB137FF45C1A" blockId="70.[189,1338,1058,1367]" box="[280,1179,1270,1297]" pageId="70" pageNumber="71">
+† 
+<taxonomicName id="8AC7B9888553FF86FEBCFB1379D05C1A" authority="Patterson 1964: 303" authorityName="Patterson" authorityPageNumber="303" authorityYear="1964" box="[291,703,1270,1296]" class="Actinopterygii" family="Aipichthyidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Beryciformes" pageId="70" pageNumber="71" phylum="Chordata" rank="family">
+Aipichthyidae 
+<bibRefCitation id="2956BFFA8553FF86FE4BFB1379D05C1A" author="Patterson C." box="[468,703,1270,1296]" pageId="70" pageNumber="71" pagination="213 - 482" refId="ref74255" refString="Patterson C. 1964. A review of Mesozoic acanthopterygian fishes with special reference to those of the English Chalk. Philosophical Transactions of the Royal Society, London (Biological sciences) 247 (739): 213 - 482. Available from http: // www. jstor. org / stable / 2416611 [accessed 17 Jul. 2018]." type="journal article" year="1964">Patterson 1964: 303</bibRefCitation>
+</taxonomicName>
+(family) † 
+<taxonomicName id="8AC7B9888553FF86FCA3FB137FF45C1A" authority="Steindachner 1860" authorityName="Steindachner" authorityYear="1860" box="[828,1179,1270,1296]" class="Actinopterygii" family="Aipichthyidae" genus="Aipichthys" higherTaxonomySource="GBIF" kingdom="Animalia" order="Beryciformes" pageId="70" pageNumber="71" phylum="Chordata" rank="genus">
+<emphasis id="7FB31E198553FF86FCA3FB1378D75C1A" box="[828,952,1270,1296]" italics="true" pageId="70" pageNumber="71">Aipichthys</emphasis>
+Steindachner 1860
+</taxonomicName>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

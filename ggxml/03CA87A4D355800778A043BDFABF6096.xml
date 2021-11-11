@@ -1,0 +1,90 @@
+<document id="F960A6362F76822B2D8487E43E924AD3" ID-DOI="http://doi.org/10.5281/zenodo.4644421" ID-GBIF-Dataset="504278d0-5689-4adb-9350-3e97392bfbf0" ID-GBIF-Taxon="180777702" ID-ISSN="2118-9773" ID-Zenodo-Dep="4644421" ID-ZooBank="07F1B593-9F4F-4B32-88D9-ADC5CA0BEB84" box="[189,1399,1954,1982]" checkinTime="1617000866870" checkinUser="plazi" docAuthor="Silva-Morales, Itzahí &amp; Gómez-Vásquez, Julio D." docDate="2021" docId="03CA87A4D355800778A043BDFABF6096" docLanguage="en" docName="ejt-740_77-117.pdf" docOrigin="European Journal of Taxonomy 740 (1)" docSource="http://dx.doi.org/10.5852/ejt.2021.740.1283" docStyle="DocumentStyle:EF2B578F1D15862ADE45B0C07C620911.12:EJT.2018-.journal_article" docStyleId="EF2B578F1D15862ADE45B0C07C620911" docStyleName="EJT.2018-.journal_article" docStyleVersion="12" docTitle="Themiste sp. Gray 1828" docType="treatment" docVersion="3" lastPageNumber="114" masterDocId="FFF3FFDCD3708022781D441FFFC86728" masterDocTitle="First records and two new species of sipunculans (Sipuncula) from the Southern Mexican Pacific" masterLastPageNumber="117" masterPageNumber="77" pageId="37" pageNumber="114" updateTime="1632098949336" updateUser="ExternalLinkService" zenodo-license-document="CC-BY-4.0" zenodo-license-figures="CC-BY-4.0" zenodo-license-treatments="UNSPECIFIED">
+<mods:mods id="2CA2B7198FC6BC57CD2062F83BD93836" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="ABEEB755691CEC7D1E45DF9371417168">
+<mods:title id="2ADEE53013B033F3A0BAECE6C78F2CD0">First records and two new species of sipunculans (Sipuncula) from the Southern Mexican Pacific</mods:title>
+</mods:titleInfo>
+<mods:name id="16478F2783A8F66840633273DE33D33C" type="personal">
+<mods:role id="B30F67E01E9588B3DE427D7AA4C4920A">
+<mods:roleTerm id="90EDB7B4E83C3692F3D5B7771A1C61A7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CC2966210C943175EF74CDF74D874CCC">Silva-Morales, Itzahí</mods:namePart>
+<mods:nameIdentifier id="910C8316FB5FA41D23A0038D307883A9" type="LSID">ADA5A4BD-EB4E-47E3-A6A7-D3E1FDA64ED3</mods:nameIdentifier>
+<mods:affiliation id="2D67A5C432B945ED229F8A72CE926AF5">División de Posgrado, El Colegio de la Frontera Sur, Unidad Chetumal, Quintana Roo, Mexico.</mods:affiliation>
+<mods:nameIdentifier id="8EFA7061F4374C87AC7F8AA9A0734DCE" type="email">itzahi_marley.gwn@hotmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:name id="B38B16AA64CA8861A648F74D2D8F09A7" type="personal">
+<mods:role id="7D23BCFB0A28CE7B33A9D4ECA0043395">
+<mods:roleTerm id="65A2F5ED9EBE8D178892FC9250410F9F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="728C381A980B90EA4BD729C5EF6066C5">Gómez-Vásquez, Julio D.</mods:namePart>
+<mods:nameIdentifier id="55FB06B326078BCB1BEB95595B072A9A" type="LSID">BD3A3DE1-21F5-4B54-A707-361BE8E90DB9</mods:nameIdentifier>
+<mods:affiliation id="AB76210E9619E2EF25917C465848DC2C">Laboratorio de Sistemática de Invertebrados Marinos (LABSIM), Universidad del Mar campus Puerto Ángel, Ciudad Universitaria, Puerto Ángel, Pochutla, Oaxaca 70902, Mexico.</mods:affiliation>
+<mods:nameIdentifier id="C5F448A737BEA9B653FA4C67B5B6AB85" type="email">gomezvjuliod@gmail.com</mods:nameIdentifier>
+</mods:name>
+<mods:typeOfResource id="52B7166DD85371D5BB45AC3DA03837A2">text</mods:typeOfResource>
+<mods:relatedItem id="0C2EEE6BD4B5C70BAF13311B5454DAF1" type="host">
+<mods:titleInfo id="C09CF74F1D89C293D25891CA30ED0A53">
+<mods:title id="2FC28C35A5081EF83EAECA1190B363DD">European Journal of Taxonomy</mods:title>
+</mods:titleInfo>
+<mods:part id="B60132E78BF09AE59181E86A4C4986D8">
+<mods:date id="7708DDF7E98945B6E964C35CB25A73C3">2021</mods:date>
+<mods:detail id="FEB6893872F68797F52606AB06157220" type="pubDate">
+<mods:number id="570FFBBC97865209F1ADAE883CDC6A37">2021-03-25</mods:number>
+</mods:detail>
+<mods:detail id="A81890DAB510ED003FFE36EB9A994ACA" type="volume">
+<mods:number id="DE4F83FF7A9B402249E5D30709FBF940">740</mods:number>
+</mods:detail>
+<mods:detail id="AA2212E03D994EC641B6C4005A186479" type="issue">
+<mods:number id="7EE107AE46B1D9095B91F33DE1B3CA69">1</mods:number>
+</mods:detail>
+<mods:extent id="2471B6895C8CBAD8675D75B2A6A2F41B" unit="page">
+<mods:start id="4E89A3465FC3AD6BB0EF92A4211752A1">77</mods:start>
+<mods:end id="7B6848F9708286DE81CEEFD36CC351AC">117</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="B0FDEEF70858EF85BA81AD5F5A14A3BF">
+<mods:url id="35C96F6B2D02CA34F62408EA0F918F3D">http://dx.doi.org/10.5852/ejt.2021.740.1283</mods:url>
+</mods:location>
+<mods:classification id="484F0E698F9039DE7C24C54C4988A8F0">journal article</mods:classification>
+<mods:identifier id="C29B0AE7C9694452F7ED5F6D0514E0F5" type="DOI">https://doi.org/10.5852/ejt.2021.740.1283</mods:identifier>
+<mods:identifier id="5B0BC72520C78F7A14A3467CB5371919" type="GBIF-Dataset">504278d0-5689-4adb-9350-3e97392bfbf0</mods:identifier>
+<mods:identifier id="7D8775B2508A9A775E2872710C8634BD" type="ISSN">2118-9773</mods:identifier>
+<mods:identifier id="2C9DB338875922CAA19A33308BA08DC6" type="Zenodo-Dep">4643194</mods:identifier>
+<mods:identifier id="5D4034BE935E1A72567E1F00F5796244" type="ZooBank">07F1B593-9F4F-4B32-88D9-ADC5CA0BEB84</mods:identifier>
+</mods:mods>
+<treatment id="03CA87A4D355800778A043BDFABF6096" ID-DOI="http://doi.org/10.5281/zenodo.4644421" ID-GBIF-Taxon="180777702" ID-Zenodo-Dep="4644421" LSID="urn:lsid:plazi:treatment:03CA87A4D355800778A043BDFABF6096" box="[189,1399,1954,1982]" httpUri="http://treatment.plazi.org/id/03CA87A4D355800778A043BDFABF6096" lastPageNumber="114" pageId="37" pageNumber="114">
+<subSubSection id="C3796539D355800778A043BDFE9B6096" box="[189,339,1954,1982]" pageId="37" pageNumber="114" type="nomenclature">
+<paragraph id="8BDC36B2D355800778A043BDFE9B6096" blockId="37.[189,1399,1954,1982]" box="[189,339,1954,1982]" pageId="37" pageNumber="114">
+<taxonomicName id="4C634D31D355800778A043BDFEE46095" authorityName="Gray" authorityYear="1828" box="[189,300,1954,1981]" class="Sipunculidea" family="Themistidae" genus="Themiste" kingdom="Animalia" order="Golfingiiformes" pageId="37" pageNumber="114" phylum="Sipuncula" rank="species" species="sp.">
+<emphasis id="B917EAA0D355800778A043BDFEE46095" bold="true" box="[189,300,1954,1981]" italics="true" pageId="37" pageNumber="114">Themiste</emphasis>
+</taxonomicName>
+sp.
+</paragraph>
+</subSubSection>
+<paragraph id="8BDC36B2D3558004794743BCFC86666F" blockId="37.[189,1399,1954,1982]" lastBlockId="38.[189,1398,265,327]" lastPageId="38" lastPageNumber="115" pageId="37" pageNumber="114">
+<subSubSection id="C3796539D3558007794743BCFABF6096" box="[346,1399,1955,1982]" pageId="37" pageNumber="114" type="description">
+in Morales-Zárate et al. 2016: 741 (Guerrero Negro Lagoon, 
+<collectingRegion id="49A7F850D35580077C0043BCFAC96095" box="[1053,1281,1955,1981]" country="Mexico" name="Baja California Sur" pageId="37" pageNumber="114">Baja California Sur</collectingRegion>
+, 
+<collectingCountry id="F3747622D35580077D1143BCFAA36096" box="[1292,1387,1955,1982]" name="Mexico" pageId="37" pageNumber="114">Mexico</collectingCountry>
+).
+</subSubSection>
+<treatment id="03CA87A4D356800478A04516FC86666F" ID-GBIF-Taxon="180777699" LSID="urn:lsid:plazi:treatment:03CA87A4D355800778A043BDFABF6096" httpUri="http://treatment.plazi.org/id/03CA87A4D355800778A043BDFABF6096" pageId="38" pageNumber="115">
+<subSubSection id="C3796539D356800478A04516FEB7660B" box="[189,383,265,291]" pageId="38" pageNumber="115" type="nomenclature">
+<taxonomicName id="4C634D31D356800478A04516FE98660B" authorityName="Stephen &amp; Edmonds" authorityYear="1972" box="[189,336,265,291]" class="Sipunculidea" family="Golfingiidae" kingdom="Animalia" order="Golfingiiformes" pageId="38" pageNumber="115" phylum="Sipuncula" rank="family">Golfingiidae</taxonomicName>
+sp.
+</subSubSection>
+<subSubSection id="C3796539D356800479934516FC86666F" pageId="38" pageNumber="115" type="reference_group">
+in Hermoso-Salazar 
+<emphasis id="B917EAA0D35680047A904515FD00660B" box="[653,712,265,291]" italics="true" pageId="38" pageNumber="115">et al</emphasis>
+. 2013: 329–330 (Wagner and Consag Basins, Gulf of California, 
+<collectingCountry id="F3747622D3568004796D4533FE05666E" box="[368,461,300,326]" name="Mexico" pageId="38" pageNumber="115">Mexico</collectingCountry>
+, 
+<quantity id="4C9B9B57D356800479C54533FD87666F" box="[472,591,300,327]" metricMagnitude="1" metricUnit="m" metricValue="8.9" metricValueMax="11.9" metricValueMin="5.9" pageId="38" pageNumber="115" unit="m" value="89.0" valueMax="119.0" valueMin="59.0">59–119 m</quantity>
+, sandy loam bottom).
+</subSubSection>
+</treatment>
+</paragraph>
+</treatment>
+</document>
