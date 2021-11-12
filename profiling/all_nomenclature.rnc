@@ -1,0 +1,416 @@
+default namespace = ""
+
+start = element nomenclature { subSubSection+ }
+subSubSection =
+  element subSubSection {
+    attribute box { text }?,
+    attribute id { text },
+    attribute lastPageId { xsd:integer }?,
+    attribute lastPageNumber { xsd:integer }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute type { xsd:NCName },
+    (text
+     | bibRefCitation
+     | paragraph
+     | subSubSection
+     | taxonomicName
+     | element treatment {
+         attribute ID-DOI { xsd:anyURI },
+         attribute ID-GBIF-Taxon { xsd:integer }?,
+         attribute ID-Zenodo-Dep { xsd:integer },
+         attribute LSID { xsd:anyURI },
+         attribute httpUri { xsd:anyURI },
+         attribute id { text },
+         attribute lastPageId { xsd:integer },
+         attribute lastPageNumber { xsd:integer },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         (subSubSection
+          | element caption {
+              attribute ID-DOI { xsd:anyURI },
+              attribute ID-Zenodo-Dep { xsd:integer },
+              attribute httpUri { xsd:anyURI },
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              attribute startId { text },
+              attribute targetBox { text },
+              attribute targetPageId { xsd:integer },
+              paragraph
+            })*
+       })+
+  }
+paragraph =
+  element paragraph {
+    attribute blockId { text },
+    attribute box { text }?,
+    attribute id { text },
+    attribute lastBlockId { text }?,
+    attribute lastPageId { xsd:integer }?,
+    attribute lastPageNumber { xsd:integer }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    (text
+     | bibRefCitation
+     | collectingCountry
+     | collectingRegion
+     | date
+     | emphasis
+     | quantity
+     | tableCitation
+     | taxonomicName
+     | taxonomicNameLabel
+     | element bibCitation {
+         attribute id { text },
+         attribute journal { xsd:NCName }?,
+         attribute page { xsd:integer },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         attribute score { xsd:decimal },
+         attribute volume { xsd:integer }?,
+         attribute volumeTitle { text }?,
+         attribute year { xsd:integer },
+         (text | bibRefCitation | emphasis)+
+       }
+     | element figureCitation {
+         attribute box { text },
+         attribute captionStart { xsd:NCName },
+         attribute captionStartId { text },
+         attribute captionTargetBox { text }?,
+         attribute captionTargetId { text },
+         attribute captionTargetPageId { xsd:integer }?,
+         attribute captionText { text },
+         attribute figureDoi { xsd:anyURI }?,
+         attribute httpUri { xsd:anyURI }?,
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         text
+       }
+     | element heading {
+         attribute bold { xsd:boolean }?,
+         attribute box { text }?,
+         attribute centered { xsd:boolean }?,
+         attribute fontSize { xsd:integer }?,
+         attribute id { text },
+         attribute level { xsd:integer }?,
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         attribute reason { xsd:integer }?,
+         (text
+          | bibRefCitation
+          | collectingCountry
+          | collectingRegion
+          | emphasis
+          | quantity
+          | taxonomicName
+          | taxonomicNameLabel)+
+       }
+     | element materialsCitation {
+         attribute ID-GBIF-Occurrence { xsd:integer }?,
+         attribute collectingDate { xsd:date }?,
+         attribute collectionCode { text },
+         attribute collectorName { text }?,
+         attribute country { xsd:NCName }?,
+         attribute county { text }?,
+         attribute elevation { xsd:integer }?,
+         attribute id { text },
+         attribute latitude { xsd:decimal },
+         attribute location { text }?,
+         attribute longLatPrecision { xsd:integer },
+         attribute longitude { xsd:decimal },
+         attribute municipality { text }?,
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         attribute specimenCode { text }?,
+         attribute specimenCount { xsd:integer },
+         attribute stateProvince { text }?,
+         attribute typeStatus { xsd:NCName }?,
+         (text
+          | collectingCountry
+          | collectionCode
+          | date
+          | emphasis
+          | typeStatus
+          | element collectingCounty {
+              attribute box { text },
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              text
+            }
+          | element collectingMunicipality {
+              attribute box { text }?,
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              text
+            }
+          | element elevation {
+              attribute box { text }?,
+              attribute id { text },
+              attribute metricMagnitude { xsd:integer },
+              attribute metricUnit { xsd:NCName },
+              attribute metricValue { xsd:decimal },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              attribute unit { xsd:NCName },
+              attribute value { xsd:decimal },
+              (text | quantity)+
+            }
+          | element geoCoordinate {
+              attribute box { text },
+              attribute degrees { xsd:integer },
+              attribute direction { xsd:NCName },
+              attribute id { text },
+              attribute minutes { xsd:integer },
+              attribute orientation { xsd:NCName },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              attribute precision { xsd:integer },
+              attribute seconds { xsd:integer }?,
+              attribute value { xsd:decimal },
+              text
+            }
+          | element location {
+              attribute LSID { xsd:anyURI },
+              attribute box { text },
+              attribute country { xsd:NCName },
+              attribute county { xsd:NCName }?,
+              attribute id { text },
+              attribute latitude { xsd:decimal },
+              attribute longLatPrecision { xsd:integer },
+              attribute longitude { xsd:decimal },
+              attribute municipality { text }?,
+              attribute name { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              attribute stateProvince { text },
+              text
+            }
+          | element locationDeviation {
+              attribute box { text },
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              text
+            }
+          | element specimenCode {
+              attribute box { text },
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              text
+            })+
+       }
+     | element specimenCount {
+         attribute box { text },
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         attribute type { xsd:NCName },
+         (text | quantity)+
+       }
+     | element uri {
+         attribute box { text },
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         (text
+          | element uuid {
+              attribute box { text },
+              attribute id { text },
+              attribute pageId { xsd:integer },
+              attribute pageNumber { xsd:integer },
+              text
+            })+
+       })+
+  }
+taxonomicName =
+  element taxonomicName {
+    attribute authority { text }?,
+    attribute authorityName { text }?,
+    attribute authorityPageNumber { text }?,
+    attribute authorityYear { xsd:integer }?,
+    attribute baseAuthorityName { text }?,
+    attribute baseAuthorityYear { xsd:integer }?,
+    attribute box { text },
+    attribute class { text }?,
+    attribute family { text }?,
+    attribute genus { xsd:NCName }?,
+    attribute higherTaxonomySource { xsd:NCName }?,
+    attribute id { text },
+    attribute kingdom { xsd:NCName }?,
+    attribute order { text }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute phylum { xsd:NCName }?,
+    attribute rank { xsd:NCName }?,
+    attribute section { xsd:NCName }?,
+    attribute sensu { xsd:NCName }?,
+    attribute series { xsd:NCName }?,
+    attribute species { text }?,
+    attribute status { text }?,
+    attribute subFamily { xsd:NCName }?,
+    attribute subGenus { xsd:NCName }?,
+    attribute subSpecies { xsd:NCName }?,
+    attribute subTribe { xsd:NCName }?,
+    attribute tribe { xsd:NCName }?,
+    attribute variety { xsd:NCName }?,
+    (text | bibRefCitation | emphasis | quantity)+
+  }
+bibRefCitation =
+  element bibRefCitation {
+    attribute author { text },
+    attribute box { text }?,
+    attribute editor { text }?,
+    attribute firstAuthor { text }?,
+    attribute id { text },
+    attribute journalOrPublisher { text }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute pagination { text }?,
+    attribute part { xsd:integer }?,
+    attribute refId { xsd:NCName },
+    attribute refString { text },
+    attribute title { text }?,
+    attribute type { text },
+    attribute volumeTitle { text }?,
+    attribute year { xsd:integer },
+    (text | collectingCountry | collectingRegion | emphasis)+
+  }
+date =
+  element date {
+    attribute box { text }?,
+    attribute id { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute value { xsd:NMTOKEN },
+    (text
+     | element collectingDate {
+         attribute box { text }?,
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         attribute value { xsd:date },
+         text
+       })+
+  }
+quantity =
+  element quantity {
+    attribute box { text },
+    attribute id { text },
+    attribute metricMagnitude { xsd:integer },
+    attribute metricUnit { xsd:NCName },
+    attribute metricValue { xsd:decimal },
+    attribute metricValueMax { xsd:decimal }?,
+    attribute metricValueMin { xsd:decimal }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute unit { xsd:NCName },
+    attribute value { xsd:decimal },
+    attribute valueMax { xsd:decimal }?,
+    attribute valueMin { xsd:decimal }?,
+    text
+  }
+taxonomicNameLabel =
+  element taxonomicNameLabel {
+    attribute box { text },
+    attribute id { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute rank { xsd:NCName }?,
+    attribute sensu { xsd:NCName }?,
+    text
+  }
+emphasis =
+  element emphasis {
+    attribute bold { xsd:boolean }?,
+    attribute box { text }?,
+    attribute id { text },
+    attribute italics { xsd:boolean }?,
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    (text
+     | bibRefCitation
+     | collectingCountry
+     | collectingRegion
+     | collectionCode
+     | emphasis
+     | tableCitation
+     | taxonomicName
+     | taxonomicNameLabel
+     | typeStatus
+     | element collectorName {
+         attribute box { text },
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         text
+       }
+     | element superScript {
+         attribute attach { xsd:NCName },
+         attribute box { text },
+         attribute fontSize { xsd:integer },
+         attribute id { text },
+         attribute pageId { xsd:integer },
+         attribute pageNumber { xsd:integer },
+         xsd:NCName
+       })+
+  }
+collectingRegion =
+  element collectingRegion {
+    attribute box { text }?,
+    attribute country { xsd:NCName },
+    attribute id { text },
+    attribute name { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    text
+  }
+collectingCountry =
+  element collectingCountry {
+    attribute box { text },
+    attribute id { text },
+    attribute name { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    text
+  }
+tableCitation =
+  element tableCitation {
+    attribute box { text },
+    attribute captionStart { text },
+    attribute captionStartId { text },
+    attribute captionTargetBox { text }?,
+    attribute captionTargetPageId { xsd:integer },
+    attribute captionText { text },
+    attribute httpUri { xsd:anyURI },
+    attribute id { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute tableUuid { text },
+    text
+  }
+typeStatus =
+  element typeStatus {
+    attribute box { text },
+    attribute id { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    xsd:NCName
+  }
+collectionCode =
+  element collectionCode {
+    attribute box { text },
+    attribute country { text },
+    attribute httpUri { xsd:anyURI }?,
+    attribute id { text },
+    attribute lsid { xsd:NMTOKEN }?,
+    attribute name { text },
+    attribute pageId { xsd:integer },
+    attribute pageNumber { xsd:integer },
+    attribute type { xsd:NCName },
+    xsd:NCName
+  }
