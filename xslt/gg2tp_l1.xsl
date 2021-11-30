@@ -7,6 +7,7 @@
     </xsl:template>
     <xsl:template match="//treatment">
         <tp:taxon-treatment>
+            <xsl:call-template name="treatment-metadata"/>
             <xsl:apply-templates/>
         </tp:taxon-treatment>
     </xsl:template>
@@ -33,6 +34,18 @@
         <p>
             <xsl:apply-templates/>
         </p>
+    </xsl:template>
+    
+    <xsl:template name="treatment-metadata">
+        <tp:treatment-meta>
+            <mixed-citation>
+                <named-content content-type="treatment-title"><xsl:apply-templates select="//document/@docTitle"/></named-content>
+                <uri content-type="zenodo-doi"><xsl:apply-templates select="//document/@ID-DOI"/></uri>
+                <uri content-type="treatment-bank-uri"><xsl:apply-templates select="concat('http://treatment.plazi.org/id/', //document/@id)"/></uri>
+                <article-title><xsl:apply-templates select="//document/@masterDocTitle"/></article-title>
+                <uri content-type="publication-doi"><xsl:apply-templates select="//document/@docSource"/></uri>
+            </mixed-citation>
+        </tp:treatment-meta>
     </xsl:template>
 
     <!--    
