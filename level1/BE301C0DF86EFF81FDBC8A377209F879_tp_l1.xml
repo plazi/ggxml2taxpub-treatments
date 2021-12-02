@@ -78,7 +78,8 @@ Material examined
 Lectotype
 </p>
       <p>
-         <tp:taxon-name>
+         <tp:material-citation>
+            <tp:taxon-name>
 INDIA
 </tp:taxon-name>
 • 
@@ -108,15 +109,15 @@ type
 “; 
 NHM
 .
-
-</p>
+</tp:material-citation>
+      </p>
       <p>
 Other material
 </p>
       <p>
          <tp:taxon-name>INDIA</tp:taxon-name>
 • 
-
+<tp:material-citation>
 3 ♂♂
 ; 
 Meghalaya
@@ -144,7 +145,7 @@ Colocasia esculenta
 </tp:taxon-name>
 ; 
 UASB
-
+</tp:material-citation>
 .
 </p>
    </tp:treatment-sec>

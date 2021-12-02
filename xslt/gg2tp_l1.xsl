@@ -47,6 +47,20 @@
             </mixed-citation>
         </tp:treatment-meta>
     </xsl:template>
+    
+    <xsl:template match="materialsCitation">
+        <tp:material-citation>
+            <xsl:apply-templates/>
+        </tp:material-citation>
+    </xsl:template>
+    
+    <xsl:template match="taxonomicName">
+        <tp:taxon-name>
+            <xsl:apply-templates/>
+        </tp:taxon-name>
+    </xsl:template>
+    
+    
 
     <!--    
      <xsl:template match="text()">

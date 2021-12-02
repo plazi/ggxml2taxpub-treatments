@@ -60,7 +60,8 @@ Material examined
 Lectotype
 </p>
       <p>
-         <tp:taxon-name>
+         <tp:material-citation>
+            <tp:taxon-name>
 INDIA
 </tp:taxon-name>
 • 
@@ -80,13 +81,14 @@ at light
 ; 
 NHM
 .
-
-</p>
+</tp:material-citation>
+      </p>
       <p>
 Paralectotype
 </p>
       <p>
-         <tp:taxon-name>
+         <tp:material-citation>
+            <tp:taxon-name>
 INDIA
 </tp:taxon-name>
 • 
@@ -105,13 +107,14 @@ Gurhhalee
 Jenkins
 leg.; at light; 
 NHM
-
+</tp:material-citation>
 .
 </p>
       <p>
 Other material
 </p>
       <p>
+         <tp:material-citation>
 BURMA
 • 
 1 ♀
@@ -125,7 +128,7 @@ Mar. 1927
 E.J. Meggitt
 leg.; 
 USNM
-
+</tp:material-citation>
 .
 </p>
    </tp:treatment-sec>

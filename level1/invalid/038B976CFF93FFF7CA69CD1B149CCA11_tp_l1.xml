@@ -60,6 +60,7 @@ Smith 2005: 12
 Type material examined
 </p>
       <p>
+         <tp:material-citation>
 Holotype
 PERU
 • 
@@ -79,9 +80,10 @@ L.W. Saylor
 ”; 
 CAS
 .
-
-</p>
+</tp:material-citation>
+      </p>
       <p>
+         <tp:material-citation>
 Paratypes
 PERU
 • 
@@ -104,9 +106,9 @@ L.W. Saylor
 </tp:taxon-name>
 / CASENT 8438229”; 
 CAS
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 1 ♂
 ; “ 
 Vitoc
@@ -128,9 +130,9 @@ PERU
 CASENT 8438221
 ”; 
 CAS
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 1 ♀
 ; “ 
 Peru
@@ -152,7 +154,7 @@ L.W. Saylor
 CASENT 8438222
 ”; 
 CAS
-
+</tp:material-citation>
 .
 </p>
    </tp:treatment-sec>

@@ -61,7 +61,8 @@ Type material
 Holotype
 </p>
       <p>
-         <tp:taxon-name>
+         <tp:material-citation>
+            <tp:taxon-name>
 INDIA
 </tp:taxon-name>
 • 
@@ -90,13 +91,14 @@ H.M. Yeshwanth
 leg.; at light; 
 UASB
 .
-
-</p>
+</tp:material-citation>
+      </p>
       <p>
 Paratypes
 </p>
       <p>
-         <tp:taxon-name>
+         <tp:material-citation>
+            <tp:taxon-name>
 INDIA
 </tp:taxon-name>
 • 
@@ -105,15 +107,15 @@ INDIA
 holotype
 ; 
 UASB
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 1 ♀
 ; same collection data as for 
 holotype
 ; 
 ZISP
-
+</tp:material-citation>
 .
 </p>
    </tp:treatment-sec>

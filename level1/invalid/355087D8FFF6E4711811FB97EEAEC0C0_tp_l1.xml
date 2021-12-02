@@ -67,10 +67,11 @@ Chassalia
 </p>
    </tp:treatment-sec>
    <tp:treatment-sec sec-type="materials_examined">
-      <p>
+      <tp:material-citation>
+         <p>
 Type
 </p>
-      <p>
+         <p>
 MALAYSIA
 – 
 
@@ -96,13 +97,15 @@ holotype
 : K[
 K001129723
 ]!; 
-isotype: SAN
+<tp:material-citation>isotype: SAN</tp:material-citation>
 .
 </p>
+      </tp:material-citation>
       <p>
 Additional material
 </p>
       <p>
+         <tp:material-citation>
 MALAYSIA
 – 
 
@@ -127,9 +130,9 @@ SAN 120566
 KEP
 !, 
 SAN
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 Tambunan
 , 
 Sunsuron Km 54 Jalan Tambunan/ Penampang
@@ -152,9 +155,9 @@ SAN 127894
 K
 !, 
 SAN
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 Ranau
 , 
 Ulu Tungud Forest Reserve
@@ -175,9 +178,9 @@ SAN 146079
 
 ; K!, 
 SAN
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 Tambunan
 , 
 Rafflesia Information Centre
@@ -191,9 +194,9 @@ Hill Dipterocarp Forest
 J.T. Pereira et al. JTP 845
 ; K!, 
 SAN
-
+</tp:material-citation>
 • 
-
+<tp:material-citation>
 Pandewan
 , 
 Sungai Pamentarian
@@ -208,7 +211,7 @@ SAN 120057
 
 ; K!, 
 SAN
-
+</tp:material-citation>
 .
 </p>
    </tp:treatment-sec>
