@@ -1,0 +1,32 @@
+default namespace = ""
+namespace tp = "http://www.plazi.org/taxpub"
+
+start =
+  element tp:taxon-treatment {
+    element tp:treatment-meta {
+      element mixed-citation {
+        element named-content {
+          attribute content-type { xsd:NCName },
+          text
+        },
+        (element article-title { text }
+         | element uri {
+             attribute content-type { xsd:NCName },
+             xsd:anyURI
+           })+
+      }
+    },
+    element tp:nomenclature { taxon-name },
+    treatment-sec*
+  }
+taxon-name = element tp:taxon-name { text }
+treatment-sec =
+  element tp:treatment-sec {
+    attribute sec-type { xsd:NCName },
+    (treatment-sec
+     | element p {
+         (text
+          | taxon-name
+          | element tp:material-citation { (text | taxon-name)+ })+
+       })*
+  }
