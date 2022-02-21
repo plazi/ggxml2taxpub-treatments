@@ -41,7 +41,7 @@
             <mixed-citation>
                 <named-content content-type="treatment-title"><xsl:value-of select="//document/@docTitle"/></named-content>
                 <uri content-type="zenodo-doi"><xsl:value-of select="//document/@ID-DOI"/></uri>
-                <uri content-type="treatment-bank-uri"><xsl:value-of select="concat('http://treatment.plazi.org/id/', ./@id)"/></uri>
+                <uri content-type="treatment-bank-uri"><xsl:value-of select="concat('http://treatment.plazi.org/id/', string(./@id))"/></uri>
                 <article-title><xsl:value-of select="//document/@masterDocTitle"/></article-title>
                 <uri content-type="publication-doi"><xsl:value-of select="//document/@docSource"/></uri>
             </mixed-citation>
