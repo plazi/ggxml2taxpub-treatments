@@ -50,3 +50,15 @@ treatment-sec =
           | element tp:material-citation { (text | taxon-name)+ })+
        })*
   }
+  ```
+## treatment level 2
+(to be decided)
+
+same as level-1 
+- attributes
+- 
+## treatment level 3
+(to be decided)
+
+same as level 2
+- treatment citations
