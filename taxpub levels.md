@@ -56,7 +56,8 @@ treatment-sec =
 
 same as level-1 
 - attributes
-- 
+- details of material citations
+-
 ## treatment level 3
 (to be decided)
 
