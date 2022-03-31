@@ -14,7 +14,13 @@
 
     <xsl:template match="subSubSection[@type = 'nomenclature']">
         <tp:nomenclature>
-            <xsl:apply-templates select=".//heading"/>
+            <xsl:apply-templates select=".//taxonomicName"/>
+            <!-- need to restrict this to nomenclature, as taxon-status is allowed only there -->
+            <xsl:if test=".//taxonomicNameLabel">
+                <tp:taxon-status>
+                    <xsl:apply-templates select=".//taxonomicNameLabel"/>
+                </tp:taxon-status>
+            </xsl:if>
         </tp:nomenclature>
     </xsl:template>
 
@@ -28,6 +34,10 @@
         <tp:treatment-sec sec-type="{@type}">
             <xsl:apply-templates/>
         </tp:treatment-sec>
+    </xsl:template>
+
+    <xsl:template match="caption">
+        <!-- ignore captions altogether for now -->
     </xsl:template>
 
     <xsl:template match="paragraph">
