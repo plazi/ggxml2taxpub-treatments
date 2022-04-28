@@ -1,6 +1,6 @@
 # TDWG Mininimal Data Standards task group
 
-The MIDS are used for specimen digitization. This might have an impact, or should at least taken into consideration when designing our higher level output
+The MIDS are used for specimen digitization. This might have an impact, or should at least taken into consideration when designing our [level-2 output](https://github.com/plazi/ggxml2taxpub-treatments/blob/main/taxpub%20levels.md#treatment-level-2)
 
 The current draft of the MIDS specification can be found here: https://github.com/tdwg/mids/blob/working-draft/current-draft/MIDS-definition-v0.15-29Jul2021.md. For MIDS-1, the elements being proposed are as follows
  
