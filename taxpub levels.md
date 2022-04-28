@@ -56,7 +56,7 @@ treatment-sec =
 
 same as level-1 
 - attributes
-- details of material citations
+- details of material citations (see also [MIDS](https://github.com/plazi/ggxml2taxpub-treatments/blob/main/tdwg%20MIDS%20levels%20for%20specimens.md) for digital specimen)
 
 ## treatment level 3
 (to be decided)
