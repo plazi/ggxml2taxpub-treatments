@@ -36,8 +36,12 @@
         </tp:treatment-sec>
     </xsl:template>
 
+    <xsl:template match="caption[@inLine]">
+        <!-- loop through in-line captions, as they are regular text -->
+        <xsl:apply-templates/>
+    </xsl:template>
     <xsl:template match="caption">
-        <!-- ignore captions altogether for now -->
+        <!-- ignore all other captions altogether for now -->
     </xsl:template>
 
     <xsl:template match="paragraph">
